@@ -1,0 +1,40 @@
+﻿mse_version: 0.3.5
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.0000000000,0.3666666667)
+	part:
+		type: shape
+		name: Triangle
+		combine: overlap
+		point:
+			position: (0.4558069177,0.4745345258)
+			lock: free
+			line_after: line
+		point:
+			position: (0.7105345450,0.0333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.9652621723,0.4745345258)
+			lock: free
+			line_after: line
+	part:
+		type: shape
+		name: Triangle
+		combine: overlap
+		point:
+			position: (0.3824446574,0.4745345259)
+			lock: free
+			line_after: line
+		point:
+			position: (0.1277170302,0.0333333334)
+			lock: free
+			line_after: line
+		point:
+			position: (0.6371722847,0.0333333333)
+			lock: free
+			line_after: line
