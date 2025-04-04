@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag HODStory
+		!tag Dewold
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-05 20:09:35
+	name: Grasp of the Mirrorkin
+	casting_cost: 1U
+	image: image159.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Counter target spell. That spell’s controller chooses a name, then create a legendary 3/3 Knight creature token that’s all colors with that name in their reserves. <i-auto>(They may pay <sym-auto>3</sym-auto> to put up to three tokens from their reserves onto the battlefield as a sorcery.)</i-auto>
+	flavor_text: <i-flavor>The <error-spelling:en_US>mirrorkin</error-spelling:en_US> had no issue adapting to the rather stale form of the castle-goers.</i-flavor>
+	illustrator: Ellie Quinonez
+	card_code_text: Story Spotlight 7
+	card_code_text_2: 
+	card_code_text_3: 

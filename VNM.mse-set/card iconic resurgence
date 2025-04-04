@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2025-03-01 16:12:22
+	card_color: black
+	name: Iconic Resurgence
+	casting_cost: B
+	image: image84
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		Until end of turn, when target creature dies, return it to its owner’s hand.
+		If you control an enchantment, each opponent loses 2 life and you gain 2 life.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>To attune to an Icon is to prevent the inevitable.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Nik Hagialas
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

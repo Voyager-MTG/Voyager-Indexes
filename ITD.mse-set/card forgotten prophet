@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/ELrky8
+	time_created: 2024-10-02 17:05:00
+	time_modified: 2024-10-08 23:10:08
+	name: Forgotten Prophet
+	casting_cost: 1G
+	image: image111
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		When this creature attacks, you may put a loyalty counter on each permanent you control with a loyalty counter on it.
+	flavor_text: <i-flavor>“And they shall come, from between the stars, and they shall know worlds beyond our comprehension.”</i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: huleeb
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

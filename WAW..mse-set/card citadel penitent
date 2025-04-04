@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-01 18:22:27
+	time_modified: 2025-01-28 17:43:16
+	name: Citadel Penitent
+	casting_cost: 2W
+	image: image124
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Werewolf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Citadel Penitent</nospellcheck></atom-cardname> enters with a <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> counter on it.
+		<sym-auto>4RG</sym-auto>, Remove a <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> counter from <atom-cardname><nospellcheck>Citadel Penitent</nospellcheck></atom-cardname>: Put five +1/+1 counters on it.
+	flavor_text:
+		<i-flavor>“Nobody around for him to hurt. Not the happiest wish, but I can’t blame him for making it.”<soft-line>
+		—<error-spelling:en_US>Dhere</error-spelling:en_US>, lone wanderer</soft-line></i-flavor>
+	power: 2
+	toughness: 5
+	illustrator: Jeff Chen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

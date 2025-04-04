@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-adventure
+	stylesheet_version: 2024-05-27
+	has_styling: true
+	styling_data:
+		chop_main: 
+		chop_adventure: -3,3,
+		shrink_name_text: 
+		shrink_typeline_text: 
+		frames: Reversed
+		auto_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		WHITERARE1
+		VERTEXCYCLE
+	time_created: 2021-10-18 20:14:59
+	time_modified: 2025-03-02 21:39:05
+	card_color_2: white
+	name: Shoal Summoner
+	name_2: Frenzy
+	casting_cost: 1W
+	casting_cost_2: WV/GV/B
+	image: image264
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Vertex Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en>Fish</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Whenever another creature you control enters, <kw-1><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-1>
+	rule_text_2:
+		<i-auto>(You can cast copies of this while in play.)</i-auto><soft-line>
+		</soft-line>Put a +1/+1 counter on each creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

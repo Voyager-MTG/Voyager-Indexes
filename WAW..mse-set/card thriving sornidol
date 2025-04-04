@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-27 11:29:53
+	time_modified: 2025-02-14 19:26:04
+	name: Thriving Sornidol
+	casting_cost: 1U
+	image: image112
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add one mana of any color. You can’t spend this mana to cast permanent spells.
+		<i>Augmented</i> — At the beginning of your end step, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, untap <atom-cardname><nospellcheck>Thriving Sornidol</nospellcheck></atom-cardname> and put three +1/+1 counters on it. 
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Jeffery Truong
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

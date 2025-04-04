@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-02-22 22:38:54
+	time_modified: 2025-03-30 16:35:05
+	card_color: white, red, silver, multicolor, horizontal
+	name: One Last Sunset
+	casting_cost: IRW
+	image: image97
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Exile target permanent you control, then return it to the battlefield under its owner’s control at the beginning of the next end step. When you do, that permanent deals 2 damage to any target and you gain 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: T1na
+	card_code_text: • Designed by Aanginer
+	card_code_text_2: Aanginer
+	card_code_text_3: Aanginer
+	copyright: 
+	copyright_2: 
+	copyright_3: 

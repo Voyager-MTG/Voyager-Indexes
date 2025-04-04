@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-06-22 22:15:28
+	time_modified: 2024-02-23 18:30:32
+	card_color: green
+	name: Thyrsine Hunter
+	casting_cost: 3G
+	image: image138
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Thyrsine Hunter</nospellcheck></atom-cardname> enters, if you control a Sanctuary or there is a Sanctuary card in your graveyard, you may have it <kw-A><nospellcheck><key>fight</key></nospellcheck> target creature.<atom-reminder-action> <i-auto>(Each deals damage equal to its power to the other.)</i-auto></atom-reminder-action></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Lorenz Hideyoshi Ruwwe
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

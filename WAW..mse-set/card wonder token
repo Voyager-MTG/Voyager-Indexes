@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: copy
+		other_options: 
+		shrink_typeline_text: 
+		shrink_font_size: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	notes: 
+	time_created: 2024-12-08 12:24:23
+	time_modified: 2025-01-31 10:40:30
+	card_color: multicolor
+	name: Wonder Token
+	casting_cost: 
+	image: image5.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: This creature is all colors.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Vivian Poetzscher
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

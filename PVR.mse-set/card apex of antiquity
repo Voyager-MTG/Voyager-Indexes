@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENCOMMON
+		CG10
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2024-11-08 13:39:25
+	name: Apex of Antiquity
+	casting_cost: 4G
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>Apex of Antiquity</nospellcheck></atom-cardname> enters, put a +1/+1 counter on another target Dinosaur you control.
+	flavor_text: <i-flavor>Surely not even the Obsolete could have fought 16 tons of angry teeth and claw.</i-flavor>
+	power: 4
+	toughness: 5
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

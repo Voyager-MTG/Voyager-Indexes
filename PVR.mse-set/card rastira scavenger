@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKCOMMON
+		CB08
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2023-02-16 05:02:23
+	card_color: black
+	name: Rastira Scavenger
+	casting_cost: 3B
+	image: image222
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bird</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		When this permanent leaves the battlefield, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

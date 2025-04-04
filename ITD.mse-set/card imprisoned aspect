@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: nyx
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://windydrawallday.tumblr.com/post/154315147365/living-nightmares
+	time_created: 2024-10-13 22:35:58
+	time_modified: 2025-02-27 17:33:41
+	name: Imprisoned Aspect
+	casting_cost: 1G
+	image: image96
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Devil</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Impending <param-number>4</param-number>—<param-cost><sym>1G</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)</i-auto>
+		Whenever a time counter is removed from <atom-cardname><nospellcheck>Imprisoned Aspect</nospellcheck></atom-cardname>, put a +1/+1 counter on target creature or enchantment you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: windydrawallday
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

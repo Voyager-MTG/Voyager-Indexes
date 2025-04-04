@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Perle
+		!tag Renodet
+	time_created: 2025-02-24 00:31:14
+	time_modified: 2025-03-05 03:18:17
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/him
+	name: Renodet, the Shield of Perle
+	casting_cost: 2RW
+	image: image40.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Orc</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		Whenever one or more legendary creatures you control attacks, exile the top card of your library. You may cast that card. When you cast a spell this way, put a +1/+1 counter on <atom-legname><nospellcheck>Renodet</nospellcheck></atom-legname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Vadim Simanin (GenDJiK)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

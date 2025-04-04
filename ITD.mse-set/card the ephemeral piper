@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: by grapple
+	time_created: 2024-10-25 14:36:43
+	time_modified: 2025-02-22 09:33:19
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: he/him
+	special_text:
+		Enchantments you control have <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>.
+		[+2]: <margin:130:0:0>Target creature you control gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and can’t be blocked until end of turn.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Target creature <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0> until <atom-cardname><nospellcheck>The Ephemeral Piper</nospellcheck></atom-cardname> leaves the battlefield.</margin:130:0:0>
+		[-4]: <margin:130:0:0>Create a colorless enchantment token named Ringing Noise with “At the beginning of each opponent’s upkeep, for each creature they control, destroy that creature unless its controller pays <sym-auto>1</sym-auto>.”</margin:130:0:0>
+	card_color: white, blue, green, multicolor, horizontal
+	name: The Ephemeral Piper
+	casting_cost: 1GWU
+	image: image124
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Lursk</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	loyalty_cost_2: +2
+	loyalty_cost_3: -1
+	loyalty_cost_4: -4
+	loyalty_cost_5: 
+	loyalty: 4
+	level_1_text: Enchantments you control have <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>.
+	level_2_text: <margin:130:0:0>Target creature you control gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and can’t be blocked until end of turn.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Target creature <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0> until <atom-cardname><nospellcheck>The Ephemeral Piper</nospellcheck></atom-cardname> leaves the battlefield.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Create a colorless enchantment token named Ringing Noise with “At the beginning of each opponent’s upkeep, for each creature they control, destroy that creature unless its controller pays <sym-auto>1</sym-auto>.”</margin:130:0:0>
+	level_5_text: 
+	illustrator: Valeriy Vegera
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

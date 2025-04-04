@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Probe
+	time_created: 2025-03-03 19:21:34
+	time_modified: 2025-03-05 17:22:37
+	name: Messenger of Absent Messages
+	casting_cost: 2
+	image: image308.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Scout</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: When <atom-cardname><nospellcheck>Messenger of Absent Messages</nospellcheck></atom-cardname> enters, draw a card.
+	flavor_text: <i-flavor>An out of place courier delivering an unknown warning to a unsuspecting people.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Dreamup
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

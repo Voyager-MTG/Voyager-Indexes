@@ -1,0 +1,55 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: off
+		frames: 
+		altered_plus_frames: star
+		custom_symbol: abstract-061.png
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2021-04-25 03:20:55
+	time_modified: 2025-02-28 23:33:30
+	name: Starbright Entity
+	alias_2: 
+	casting_cost: 1I
+	image: image83.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Entity</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		When this enchantment enters, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
+		<kw-A><nospellcheck><key>Materialize <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>2</param-number> or more: This also becomes an Icon creature until end of turn.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 2
+	toughness: 3
+	illustrator: Ashley Cordle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

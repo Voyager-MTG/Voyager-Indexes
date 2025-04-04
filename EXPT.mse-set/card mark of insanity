@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/bluebitart/art/FIsh-In-The-Library-712961551
+	time_created: 2025-02-24 19:02:17
+	time_modified: 2025-03-30 17:05:13
+	name: Mark of Insanity
+	casting_cost: 2I
+	image: image102
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Target creature gets +3/-3 until end of turn.
+		You may return a Fault you control to its owners hand rather than pay this spell’s mana cost as long as your complexity is three or greater. <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: bluebitart
+	card_code_text: •  Designed by Trewq
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: mutate
+		altered_plus_frames: path
+		custom_symbol: abstract-061.png
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2025-03-01 17:18:29
+	extra_data:
+		magic-m15-altered-plus:
+			corner: sanctum
+	name: Verem-Volcano Keeper
+	casting_cost: 6
+	image: image44.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wurm</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: Whenever a spell or ability targets this creature, its controller puts the top ten cards of their library into your sanctum.
+	flavor_text: <i-flavor><error-spelling:en_US>Roduth</error-spelling:en_US> left a select few to protect the secrets of <error-spelling:en_US>Verem</error-spelling:en_US>-Volcano.</i-flavor>
+	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym-auto>II</sym-auto>, Put two cards from your hand into your sanctum</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-1>
+	power: 7
+	toughness: 6
+	illustrator: Ilya Popov
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

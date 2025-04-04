@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-21 23:21:06
+	time_modified: 2025-01-28 22:19:28
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: she/her
+	name: Olse, Steward of Ilcae’s Ember
+	casting_cost: 1G
+	image: image97
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature </word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: You may pay <sym>WUBRG</sym> rather than pay the mana cost for creature spells you cast. If you cast a spell with mana value less than 5 this way, it enters with a number of +1/+1 counters on it equal to the difference.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Marvelvisions Multimedia
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

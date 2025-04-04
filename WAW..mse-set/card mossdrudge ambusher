@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-07 00:28:48
+	time_modified: 2025-01-28 19:57:04
+	name: Mossdrudge Ambusher
+	casting_cost: 2G
+	image: image148
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
+		<sym-auto>1</sym-auto>, Sacrifice a blue or black permanent: Put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter on <atom-cardname><nospellcheck>Mossdrudge Ambusher</nospellcheck></atom-cardname>.
+		<sym-auto>3</sym-auto>, Sacrifice a red or white permanent: <atom-cardname><nospellcheck>Mossdrudge Ambusher</nospellcheck></atom-cardname> gets +3/+0 until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Othon Nikolaidis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

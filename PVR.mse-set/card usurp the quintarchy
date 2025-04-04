@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: REDRARE9
+	time_created: 2022-04-15 14:57:40
+	time_modified: 2023-02-09 22:48:24
+	name: Usurp the Quintarchy
+	casting_cost: 2R
+	image: image304
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Gain control of up to X target nonland permanents, where X is your <kw-A><nospellcheck><key>complexity</key></nospellcheck>. Untap those permanents. They gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text:
+		<i-flavor>“You betrayed  your own people first.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Uverngon</error-spelling:en_US>, to <error-spelling:en_US>Irticull</i-flavor></error-spelling:en_US>
+	watermark: other magic symbols color spotlight
+	illustrator: VentuarGames
+	card_code_text: Spotlight 7/10
+	card_code_text_2: Spotlight 7/10
+	card_code_text_3: Spotlight 7/10
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

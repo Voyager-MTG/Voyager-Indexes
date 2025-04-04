@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Waldemar
+		!tag Planeswalker
+		!tag HODStory
+	time_created: 2025-02-24 00:42:28
+	time_modified: 2025-03-30 19:13:13
+	card_color: black
+	name: Closure
+	casting_cost: 1BBB
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Destroy all creatures.
+		If it’s your turn, end the turn. <i-auto>(Exile all spells and abilities from the stack. The player whose turn it is discards down to their maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)</i-auto>
+	flavor_text:
+		<i-flavor>“<error-spelling:en_US>Dewold</error-spelling:en_US> can burn. Nothing is left for me here.”<soft-line>
+		</soft-line>—Waldemar </i-flavor>
+	illustrator: Paperwick
+	card_code_text: Story Spotlight 18
+	card_code_text_2: 
+	card_code_text_3: 

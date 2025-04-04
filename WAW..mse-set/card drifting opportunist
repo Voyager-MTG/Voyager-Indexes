@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-07 01:30:33
+	time_modified: 2025-01-28 19:53:00
+	name: Drifting Opportunist
+	casting_cost: R
+	image: image51
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Drifting Opportunist</nospellcheck></atom-cardname> enters, you may discard a card. If you do, <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>The arrival of the Wonderlands attracted the desperate and the curious, but most of all it attracted those seeking to take its power.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Klaher Baklaher
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

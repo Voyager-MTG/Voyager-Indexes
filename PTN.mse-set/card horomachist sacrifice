@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: >FT
+	time_created: 2023-01-07 14:54:36
+	time_modified: 2024-11-07 11:35:02
+	name: Horomachist Sacrifice
+	casting_cost: W
+	image: image44
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Horomachist Sacrifice</nospellcheck></atom-cardname> dies, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.
+		<sym-auto>1W</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Horomachist Sacrifice</nospellcheck></atom-cardname>: Destroy target noncreature artifact or noncreature enchantment.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Nanna Skytte
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

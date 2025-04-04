@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !related Drake Token;
+	time_created: 2025-01-18 15:32:19
+	time_modified: 2025-03-30 16:09:22
+	card_color: silver
+	name: Tepid Tamer
+	casting_cost: 1I
+	image: image75
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: Whenever this creature attacks, create a 1/1 silver Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that’s tapped and attacking. Sacrifice it at the beginning of your next end step.
+	flavor_text: <i-flavor>They don’t stick around long.</i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: CK Göksoy
+	card_code_text: • Designed by TVP for TVPCORE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

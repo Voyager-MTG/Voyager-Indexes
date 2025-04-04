@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/cobaltplasma/art/Vexic-Soldier-681131881
+	time_created: 2023-05-29 20:34:07
+	time_modified: 2025-02-07 07:54:44
+	name: Carapace Shell-Burster
+	casting_cost: 2BG
+	image: image10.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Carapace Shell-Burster</nospellcheck></atom-cardname> enters the battlefield with a +1/+1 counter on it for each creature card that was put into your graveyard from anywhere this turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Aaron Nakahara
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

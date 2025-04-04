@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-08-27 12:54:30
+	time_modified: 2024-12-17 19:34:05
+	name: Suffocating Gaze
+	casting_cost: 1BB
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast if you control a legendary permanent.
+		Destroy target creature or planeswalker.
+	flavor_text:
+		<i-flavor>“Do you ever feel like you’re being watched?”
+		—<error-spelling:en_US>Maktel</error-spelling:en_US>, to <error-spelling:en_US>Vaga</i-flavor></error-spelling:en_US>
+	illustrator: Matias Gonzalez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

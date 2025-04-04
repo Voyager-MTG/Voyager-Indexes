@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: WHITERARE7
+	time_created: 2022-04-15 14:57:40
+	time_modified: 2023-05-05 06:58:24
+	name: Ecocide
+	casting_cost: 4WW
+	image: image293
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Destroy all nonland permanents. <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V</sym> for each permanent destroyed this way.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text:
+		<i-flavor>“You’re complicit in your own demise.”<soft-line>
+		—<error-spelling:en_US>Prawth</error-spelling:en_US>, to <error-spelling:en_US>Irticull</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Calder Moore
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

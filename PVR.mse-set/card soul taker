@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKCOMMON
+		CB04
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2022-05-31 09:28:00
+	name: Soul Taker
+	casting_cost: 2B
+	image: image220
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+	flavor_text:
+		<i-flavor>“A miserable perversion of my old kin.”<soft-line>
+		—<error-spelling:en_US>Edravir</error-spelling:en_US>, last of the Obsolete</soft-line></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Caleb Worchester
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

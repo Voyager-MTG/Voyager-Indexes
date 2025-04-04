@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: tall
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !exportname Gilded Ancient Token;
+	time_created: 2024-12-08 12:24:23
+	time_modified: 2025-01-30 21:21:15
+	card_color: green
+	name: Gilded Ancient
+	casting_cost: 5G
+	image: image138
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cat</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		When this creature enters, target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+		<i-auto>(This token’s mana cost is <sym>5G</sym>.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Martin Roca
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

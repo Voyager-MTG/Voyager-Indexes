@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-06-22 22:15:28
+	time_modified: 2024-07-06 21:58:24
+	card_color: red
+	name: Foul Alteration
+	casting_cost: 1RR
+	image: image318
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: <atom-cardname><nospellcheck>Foul Alteration</nospellcheck></atom-cardname> deals 5 damage to target creature or planeswalker. If that permanent is token, <atom-cardname><nospellcheck>Foul Alteration</nospellcheck></atom-cardname> also deals 2 damage to that permanent’s controller.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>There are arts in Forge which may split even the sun.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Ahmed Fares 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

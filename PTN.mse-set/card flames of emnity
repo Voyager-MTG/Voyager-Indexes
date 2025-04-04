@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: 
+		font_cap: 12.5
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !addtoken Scar;1
+	time_created: 2023-06-24 12:18:33
+	time_modified: 2024-06-30 01:23:26
+	name: Flames of Emnity
+	casting_cost: RG
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		At the beginning of your end step, if you attacked, choose one—
+		<li><bullet>• </bullet>If a creature you control died this turn, create a 2/2 green Wolf creature token.
+		</li><li><bullet>• </bullet>You get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A></li>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Think of the <error-spelling:en_US>Corrivality</error-spelling:en_US> as a fire. My foe and I will burn the world around us so the Wolf may feast.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Waking Of Sky Tree
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

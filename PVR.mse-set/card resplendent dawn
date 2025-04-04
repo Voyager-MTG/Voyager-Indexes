@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: WHITERARE11
+	time_created: 2022-02-22 07:13:41
+	time_modified: 2022-06-01 03:52:41
+	name: Resplendent Dawn
+	casting_cost: 1WW
+	image: image196
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Choose up to three target permanent cards in your graveyard that were put there from the battlefield this turn. Return them to the battlefield tapped.
+	flavor_text: <i-flavor>With the Obsolete technology dismantled, the world may know peace once again.</i-flavor>
+	watermark: other magic symbols color spotlight
+	illustrator: ImTater
+	card_code_text: Spotlight 10/10
+	card_code_text_2: Spotlight 10/10
+	card_code_text_3: Spotlight 10/10
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

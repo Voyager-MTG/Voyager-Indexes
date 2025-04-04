@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-21 18:36:03
+	time_modified: 2025-01-28 22:19:18
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: she/her
+	name: Ritz, Queen of Thieves
+	casting_cost: 2R
+	image: image160
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Whenever another creature you control enters, you may have it gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and “At the beginning of the end step, sacrifice this creature.”
+		Whenever a creature you control dies, if it attacked this turn, exile the top card of your library. You may play it until the end of your next turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Veli Nystrom
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

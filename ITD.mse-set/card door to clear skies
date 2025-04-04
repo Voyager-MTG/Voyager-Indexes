@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.pinterest.co.uk/pin/742882901046536620/
+	time_created: 2024-08-25 11:33:08
+	time_modified: 2025-02-21 16:40:34
+	name: Door to Clear Skies
+	casting_cost: 1U
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		Draw a card.
+		You may return an untapped Island you control to its owner’s hand rather than pay this spell’s mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Taudalpoi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

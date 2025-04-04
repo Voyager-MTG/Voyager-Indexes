@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 12
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: BLACKRARE3
+	time_created: 2022-02-26 09:12:37
+	time_modified: 2022-07-21 18:33:19
+	name: Edravir, Last of the Obsolete
+	casting_cost: 1B
+	image: image193
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Survivor</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		Whenever a spell or ability puts a nontoken card into a player’s hand, if that card wasn’t drawn, that player discards a card.
+	flavor_text: <i-flavor>“Us ancients are gone for a reason.”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Caleb Worchester
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

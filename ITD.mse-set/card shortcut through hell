@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://pbs.twimg.com/media/GTXblyfWAAEPHTB?format=jpg&name=large
+	time_created: 2024-08-30 12:45:50
+	time_modified: 2024-10-25 12:51:54
+	name: Shortcut Through Hell
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. 
+		<sym-auto>T</sym-auto>: Add one mana of any color. Activate only if this land entered this turn. 
+		<sym-auto>T</sym-auto>: Target player exiles a card from their graveyard.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Henry Daubrez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

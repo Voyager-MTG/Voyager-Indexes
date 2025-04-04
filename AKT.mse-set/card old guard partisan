@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKCOMMON
+		HUMANTYPE
+		CB05
+	time_created: 2023-06-21 23:40:02
+	time_modified: 2024-03-07 17:47:07
+	card_color: black
+	name: Old Guard Partisan
+	casting_cost: 2B
+	image: image63
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Assassin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Old Guard Partisan</nospellcheck></atom-cardname> enters, it deals 2 damage to up to one target that was dealt damage this turn and you gain 2 life.
+	flavor_text: <i-flavor>“A man’s body is his alone.”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Grafit Studio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

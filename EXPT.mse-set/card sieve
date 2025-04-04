@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-02-23 01:52:02
+	time_modified: 2025-03-30 17:10:04
+	name: Sieve
+	casting_cost: I
+	image: image131
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		<kw-A><nospellcheck><key>Sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top card of your library. You may put that card into your sanctum.)</i-auto></atom-reminder-custom></kw-A>
+		Draw a card.
+	flavor_text: <i-flavor>So many options, yet only one solution.</i-flavor>
+	illustrator: Anastasiia Markova
+	card_code_text: • Designed by TVP
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: TVP
+	copyright_2: TVP
+	copyright_3: TVP

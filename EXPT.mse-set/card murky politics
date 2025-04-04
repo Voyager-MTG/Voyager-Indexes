@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-18 15:32:19
+	time_modified: 2025-03-30 16:09:32
+	card_color: silver
+	name: Murky Politics
+	casting_cost: 1I
+	image: image81
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Target creature gets +2/-2 until end of turn. You gain 2 life.
+	flavor_text: <i-flavor>“If the criminal cannot survive the punishment, clearly they were in the wrong!” “Your honor that’s solid gold-” “IF THEY SURVIVE-”</i-flavor>
+	illustrator: Drych
+	card_code_text: • Designed by TVP for TVPCORE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

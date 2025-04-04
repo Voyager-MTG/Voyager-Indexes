@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Vance
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-05 21:44:24
+	name: Beguiling Soulmage
+	casting_cost: R
+	image: image177.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Sycophant</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature deals damage to a player or planeswalker, the next spell you cast this turn costs <sym>1</sym> less to cast.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor>“A soul is just <error-spelling:en_US>mana</error-spelling:en_US> wearing a different name. Come now, let’s power this House.”</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Ivona Denovic
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

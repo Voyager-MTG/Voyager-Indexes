@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Rivers
+	time_created: 2025-02-24 00:31:14
+	time_modified: 2025-03-05 21:34:45
+	name: Gathering of Lost Souls
+	casting_cost: 2WU
+	image: image254.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Create four 1/1 red Spirit creature tokens.
+		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>WU</sym-auto>, <kw-A>Forsake</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>They don’t rest. They don’t move on. They only linger, whispering names of those long forgotten.</i-flavor>
+	illustrator: Alexandre Rodrigues
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-08 13:36:15
+	time_modified: 2025-01-28 19:56:12
+	name: Limitless Manadrinker
+	casting_cost: 2GUR
+	image: image251
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Frog</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<i>Augmented</i> — At the beginning of combat on your turn, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, <atom-cardname><nospellcheck>Limitless Manadrinker</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>Some beasts, rather than being subsumed by Wonder over time, grow into it.</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Baj Singh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

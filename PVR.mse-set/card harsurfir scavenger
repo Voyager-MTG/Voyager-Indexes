@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDCOMMON
+		CR06
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2024-11-08 13:40:32
+	card_color: red
+	name: Harsurfir Scavenger
+	casting_cost: 2R
+	image: image98
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dog</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: Whenever <atom-cardname><nospellcheck>Harsurfir Scavenger</nospellcheck></atom-cardname> enters, you may sacrifice a land or exile a land card from your graveyard. If you do, it gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn and <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

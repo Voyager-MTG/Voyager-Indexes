@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: COLOURLESSUNCOMMON
+	time_created: 2022-04-03 03:59:36
+	time_modified: 2022-07-30 17:46:35
+	name: Pool of Becoming
+	image: image302
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		As <atom-cardname><nospellcheck>Pool of Becoming</nospellcheck></atom-cardname> enters the battlefield, choose a basic land type.
+		Basic lands you control are the chosen land type in addition to their other types.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Stephanie Stutz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2022-05-10 22:53:34
+	time_modified: 2025-03-01 21:21:44
+	name: Shivta, Avlod Clanleader
+	casting_cost: 1U/BU/B
+	image: image266
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — At the beginning of combat on your turn, if you cast a noncreature spell this turn, <kw-0><nospellcheck><key>Surveil <param-number>3</param-number></key></nospellcheck></kw-0>, then return a card put into your graveyard this way into your hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: Alexandra Melnikova
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

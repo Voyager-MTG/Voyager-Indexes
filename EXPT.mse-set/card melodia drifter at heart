@@ -1,0 +1,55 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		altered_plus_frames: star
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox 
+		!exportname Melodia Drifter at Heart
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-30 16:07:02
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: She/Her
+	special_text: 
+	name: Melodia, Drifter at Heart
+	casting_cost: 2II
+	image: image49
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
+		Whenever you attack with two or more creatures, you may put the top four cards of your library into your sanctum. Then you may reveal a permanent from your sanctum. Target creature you control gains its activated and triggered abilities until end of turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_2_text: 
+	power: 4
+	toughness: 4
+	illustrator: Wenqing Yan
+	card_code_text: • Designed by TVP for FOE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

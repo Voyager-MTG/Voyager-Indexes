@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKUNCOMMON
+		UB07
+	time_created: 2022-03-09 02:37:06
+	time_modified: 2023-05-17 00:28:41
+	name: Cruel Condor
+	casting_cost: 2B
+	image: image227
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Whenever one or more creatures you control die, each opponent loses 1 life and <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>Friendship is illegal in <error-spelling:en_US>Harsurfir</error-spelling:en_US>.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: ButtonUpZipper
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

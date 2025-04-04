@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-10-16 22:46:38
+	time_modified: 2025-03-30 16:08:02
+	name: Liminal Ambiguity
+	casting_cost: XI
+	image: image65
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast for each token you control.
+		Target creature gets -0/-X until end of turn.
+	flavor_text: <i-flavor>Your mind goes before your body.</i-flavor>
+	illustrator: Ilya Popov
+	card_code_text: • Designed by TVP for FOE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

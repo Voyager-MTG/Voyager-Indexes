@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: WHITERARE8
+	time_created: 2022-04-15 14:57:40
+	time_modified: 2022-06-25 03:46:44
+	name: Edravir's Lynchpin
+	casting_cost: 1WW
+	image: image199
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		Each spell a player casts costs <sym-auto>1</sym-auto> more to cast for each other spell that player has cast this turn.
+		Whenever you cast a spell spending an amount of mana greater than its mana value, create a number of 1/1 white Human creature tokens equal to the difference.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Marcin Turecki
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

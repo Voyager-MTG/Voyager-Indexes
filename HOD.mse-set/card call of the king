@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Terrel
+		!tag HODStory
+		!tag Leon
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-05 16:37:06
+	name: Call of the King
+	casting_cost: 2W
+	image: image178.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When <atom-cardname><nospellcheck>Call of the King</nospellcheck></atom-cardname> enters, choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name.
+		Legendary creatures and Knights you control have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>Leon called upon the Houses to trust in his birthright and entered the <error-spelling:en_US>Geistwald</error-spelling:en_US>, leaving the <error-spelling:en_US>Aciesblade</error-spelling:en_US> completely alone.</i-flavor>
+	illustrator: Zombich
+	card_code_text: Story Spotlight 13
+	card_code_text_2: 
+	card_code_text_3: 

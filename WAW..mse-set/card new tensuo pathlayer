@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-13 15:58:36
+	time_modified: 2025-03-18 17:08:19
+	name: New Tensuo Pathlayer
+	casting_cost: 3G
+	image: image205
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>New Tensuo Pathlayer</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, then you may put a land card from your hand onto the battlefield. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Ryan Lowe
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

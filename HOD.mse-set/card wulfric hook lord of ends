@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Wulfric
+		!tag Hook
+	time_created: 2025-02-24 00:39:22
+	time_modified: 2025-03-05 03:19:41
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/him
+	name: Wulfric Hook, Lord of Ends
+	casting_cost: BR
+	image: image48.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever you cast a spell with mana value 5 or greater, choose one that hasn’t been chosen —
+		<li><bullet>• </bullet>You draw a card and you lose 1 life.
+		</li><li><bullet>• </bullet>Put two +1/+1 counters on target creature.
+		</li><li><bullet>• </bullet>Target creature gets -3/-3 until end of turn.
+		</li><li><bullet>• </bullet>You gain 4 life.
+		</li><li><bullet>• </bullet>You win the game if you’ve chosen all other modes.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Paul Nong
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

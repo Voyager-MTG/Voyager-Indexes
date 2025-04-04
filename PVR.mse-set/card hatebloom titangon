@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKUNCOMMON
+		UB05
+	time_created: 2022-03-09 02:37:06
+	time_modified: 2023-02-09 23:03:26
+	name: Hatebloom Titangon
+	casting_cost: 4B
+	image: image239
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Hatebloom Titangon</nospellcheck></atom-cardname> gets +3/+3 if a library has twenty or fewer cards in it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Simon Cowell
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

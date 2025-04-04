@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-adventure
+	stylesheet_version: 2024-05-27
+	has_styling: true
+	styling_data:
+		chop_main: 
+		chop_adventure: -3,3,
+		shrink_name_text: 
+		shrink_typeline_text: 
+		frames: Reversed
+		auto_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		BLUERARE1
+		VERTEXCYCLE
+	time_created: 2021-10-18 20:14:59
+	time_modified: 2025-03-02 21:35:45
+	card_color_2: blue
+	name: Slipstream Enigma
+	name_2: Emerge 
+	casting_cost: U
+	casting_cost_2: UV/GV/W
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Vertex Instant</word-list-type-en>
+	sub_type: <word-list-race-en>Leviathan</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Slipstream Enigma</nospellcheck></atom-cardname> can’t attack or block.
+		Whenever you cast a noncreature spell from your hand, <kw-1><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-1>
+	rule_text_2:
+		<i-auto>(You can cast copies of this while in play.)</i-auto><soft-line>
+		</soft-line>Target creature loses all abilities until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: ButtonUpZipper
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

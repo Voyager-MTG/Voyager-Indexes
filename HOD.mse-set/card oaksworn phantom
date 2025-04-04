@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		
+		Tricolor
+	time_created: 2025-02-24 00:27:56
+	time_modified: 2025-03-05 20:39:00
+	card_color: white, red, green, multicolor, horizontal
+	name: Oaksworn Phantom
+	casting_cost: 1RGW
+	image: image293.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Oaksworn Phantom</nospellcheck></atom-cardname> gets +1/+1 for each card in your graveyard.
+		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>1RGW</sym-auto>, Exile four other cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Conor Burke
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

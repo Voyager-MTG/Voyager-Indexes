@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !related WhiteWurm;
+	time_created: 2022-04-24 03:31:09
+	time_modified: 2025-03-01 17:25:04
+	name: Bark of Tofnet Plains
+	casting_cost: 3I/WI/W
+	image: image56.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		When this creature enters, create a 1/1 white Wurm creature token.
+		<kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>I/W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text:
+		<i-flavor>“They wander from one wet patch to the next, occasionally returning to holes in the ground.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</i-flavor></error-spelling:en_US>
+	power: 3
+	toughness: 3
+	illustrator: Jerome Emmanuel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

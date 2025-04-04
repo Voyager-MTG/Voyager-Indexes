@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag Dewold
+	time_created: 2025-02-24 00:46:12
+	time_modified: 2025-03-05 16:58:54
+	name: Sword of the Royalty
+	casting_cost: 3
+	image: image32.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Equipped creature gets +2/+2 and has “Whenever this creature attacks, look at the top five cards of your library. You may reveal a creature card with mana value 2 or less from among them and put it onto the battlefield, then put the rest on the bottom of your library in a random order.”
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Grafit Studio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

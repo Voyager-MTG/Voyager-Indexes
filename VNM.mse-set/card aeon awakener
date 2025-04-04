@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		!note hybrid
+		Preview
+	time_created: 2021-04-25 03:15:03
+	time_modified: 2025-03-01 17:51:29
+	name: Aeon Awakener
+	casting_cost: 1B/GB/G
+	image: image4
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
+		Once each turn, when a spell or ability puts a card into your hand, target creature you control gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn. If you’ve illuminated black or green, it gets +2/+2 until end of turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Clan <error-spelling:en_US>Mordel</error-spelling:en_US> learned of death through violence. Clan <error-spelling:en_US>Avlod</error-spelling:en_US> learned of death through peace.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Nghi Vo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

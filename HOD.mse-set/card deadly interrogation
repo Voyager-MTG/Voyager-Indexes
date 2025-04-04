@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag Dewold
+	time_created: 2018-03-07 04:24:45
+	time_modified: 2022-05-23 03:50:33
+	name: Deadly Interrogation
+	casting_cost: B
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Target opponent reveals all but one card in their hand. You choose a nonland card revealed this way. That player discards that card.
+	flavor_text: <i-flavor>In the end, the strong get exactly what they want.</i-flavor>
+	power: 
+	toughness: 
+	illustrator: Viviane Souza
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

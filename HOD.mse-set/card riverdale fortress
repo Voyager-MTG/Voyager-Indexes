@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Oriel
+		Land Cycle
+		House Rivers
+	time_created: 2021-07-05 10:06:49
+	time_modified: 2022-05-25 13:04:51
+	name: Riverdale Fortress
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>. <atom-cardname><nospellcheck>Riverdale Fortress</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
+	flavor_text:
+		<i-flavor>“My House is one that protects all of <error-spelling:en_US>Dewold</error-spelling:en_US>.”<soft-line>
+		</soft-line>—Oriel Rivers</i-flavor>
+	illustrator: David Honz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Zangy
+	copyright_2: Set by Zangy
+	copyright_3: Set by Zangy

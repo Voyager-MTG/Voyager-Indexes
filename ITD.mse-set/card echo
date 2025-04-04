@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: clear
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !related The Eternal Echo
+	time_created: 2024-10-27 18:29:46
+	time_modified: 2025-01-27 11:53:09
+	name: Echo
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Echo</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	power: 
+	toughness: 
+	illustrator: Huleeb
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

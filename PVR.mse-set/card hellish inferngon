@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDCOMMON
+		CR07
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2024-11-08 13:41:07
+	card_color: red
+	name: Hellish Inferngon
+	casting_cost: 3R
+	image: image96
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fractal</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>Hellish Inferngon</nospellcheck></atom-cardname> enters, add three mana in any combination of colors and <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text:
+		<i-flavor>“<error-spelling:en_US>Manaless</error-spelling:en_US>, <error-spelling:en_US>primivirin</error-spelling:en_US> horrors sustain themselves with a twisted alternative.”<soft-line>
+		—<error-spelling:en_US>Prawth</error-spelling:en_US>, Planar <error-spelling:en_US>Decimator</soft-line></i-flavor></error-spelling:en_US>
+	power: 3
+	toughness: 3
+	illustrator: Skye Freeman
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

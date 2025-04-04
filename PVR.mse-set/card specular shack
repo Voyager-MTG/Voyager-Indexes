@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENCOMMON
+		CG19
+		LANDCYCLECOMMON
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2024-11-08 13:42:09
+	name: Specular Shack
+	casting_cost: 
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<atom-cardname><nospellcheck>Specular Shack</nospellcheck></atom-cardname> enters the battlefield tapped. When it does, look at the top two cards of your library, put them back in any order, then <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alex Pahomov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-23 15:10:25
+	time_modified: 2025-01-29 08:29:54
+	name: Wish for Family
+	casting_cost: 3B
+	image: image225
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Emerge <param-cost><sym-auto>4B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Wish for Family</nospellcheck></atom-cardname> enters, you may search your library for a Spirit card, reveal it, put it into your hand, then shuffle.              
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Satoru Wada
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

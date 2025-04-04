@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Vance
+		Tricolor
+	time_created: 2025-02-24 00:36:31
+	time_modified: 2025-03-03 09:15:29
+	name: Succession Scandal
+	casting_cost: 2UBR
+	image: image82.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Exile up to one target creature you control, up to one target creature card in your graveyard, and up to one creature card from your hand. At the beginning of the next end step, you may put any number of cards exiled this way onto the battlefield under your control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Brett Macdonald
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

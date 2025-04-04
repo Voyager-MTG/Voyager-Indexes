@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: nyx
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !tokens Music of the Deepholt Token;
+	time_created: 2025-01-23 11:46:16
+	time_modified: 2025-01-28 18:09:44
+	name: Music of the Deepholt
+	casting_cost: 2U
+	image: image149
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		Whenever you cast a noncreature spell, target creature you control gets +1/+1 until end of turn.
+		<kw-0><nospellcheck><key>Reflect <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>1R</sym-auto>: Create a token copy of this enchantment, except it’s a 1/1 Wonder creature in addition to its other types. They both lose reflect. Reflect only as a sorcery.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tien Can
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

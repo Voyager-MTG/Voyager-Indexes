@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Rey
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-05 16:45:32
+	name: Replenishing Camp
+	casting_cost: G
+	image: image137.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
+		When Replenishing Camp enters, choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		Enchanted land has “<sym-auto>T</sym-auto>: Add one mana of any color.”
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Banana Art Studio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

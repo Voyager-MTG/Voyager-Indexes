@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tokens Beast Token;
+	time_created: 2025-01-23 11:46:16
+	time_modified: 2025-03-18 17:03:10
+	name: Ilcan Entrancer
+	casting_cost: 2U
+	image: image141
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Kor</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Ilcan Entrancer</nospellcheck></atom-cardname> enters, choose one —
+		<li><bullet>• </bullet>Tap target creature. Put a <kw-1><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck> on it.<atom-reminder-core> <i-auto>(If a permanent with a stun counter would become untapped, remove one from it instead.)</i-auto></atom-reminder-core></kw-1>
+		</li><li><bullet>• </bullet>Create a tapped 3/3 green Beast creature token. Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Dominik Mayer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

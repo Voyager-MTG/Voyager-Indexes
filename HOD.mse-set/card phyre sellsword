@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Hook
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-05 14:59:28
+	name: Phyre Sellsword
+	casting_cost: 2R
+	image: image243.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mercenary</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		Whenever you cast a spell with mana value 5 or greater, <atom-cardname><nospellcheck>Phyre Sellsword</nospellcheck></atom-cardname> deals 2 damage to each opponent.
+	flavor_text: <i-flavor>Even though Lord <error-spelling:en_US>Phyre</error-spelling:en_US> perished many moons ago, there are those that invoke his name to instill fear. </i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Abraham Hernandez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

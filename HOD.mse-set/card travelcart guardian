@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Rivers
+	time_created: 2025-02-24 00:31:14
+	time_modified: 2025-03-05 03:08:53
+	name: Travelcart Guardian
+	casting_cost: WU
+	image: image267.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Whenever a creature you control dies, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>, then put a +1/+1 counter on <atom-cardname><nospellcheck>Travelcart Guardian</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor>House Rivers funds the <error-spelling:en_US>Travelcarts</error-spelling:en_US>, helping those in need across all of <error-spelling:en_US>Dewold</error-spelling:en_US>, even in times of war.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Alassa Art
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

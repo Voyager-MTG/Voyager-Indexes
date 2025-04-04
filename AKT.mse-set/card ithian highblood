@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		LIZARDTYPE
+		BLUERARE
+	time_created: 2024-02-08 09:24:46
+	time_modified: 2025-01-05 14:19:35
+	name: Ithian Highblood
+	casting_cost: U
+	image: image92.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Lizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Prowess</key></nospellcheck></kw-0>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a> abilities of permanents you control also trigger whenever another Lizard or Wizard you control enters.
+	flavor_text: <i-flavor>The few <error-spelling:en_US>Ithians</error-spelling:en_US> with their sacred fur still intact made a habit of flaunting their newfound status.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Oxckeper (Edited)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

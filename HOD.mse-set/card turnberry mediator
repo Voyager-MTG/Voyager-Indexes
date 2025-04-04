@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Turnberry
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-05 20:27:56
+	name: Turnberry Mediator
+	casting_cost: 5G
+	image: image127.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Gargoyle</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>3G</sym-auto>, Exile seven other cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>Only the High King gets to meet face to face with the mysterious leader of House <error-spelling:en_US>Turnberry</error-spelling:en_US>.</i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Michele Parisi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

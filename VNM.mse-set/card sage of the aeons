@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !note hybrid
+	time_created: 2021-04-25 03:15:03
+	time_modified: 2025-03-01 15:19:14
+	name: Sage of the Aeons
+	casting_cost: B/RB/R
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		Whenever you sacrifice a nonland permanent, <atom-cardname><nospellcheck>Sage of the Aeons</nospellcheck></atom-cardname> deals 1 damage to target player or planeswalker.
+		<sym-auto>1</sym-auto>, Sacrifice a nonland permanent: <atom-cardname><nospellcheck>Sage of the Aeons</nospellcheck></atom-cardname> gets +1/+0 and gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: David Elliott
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

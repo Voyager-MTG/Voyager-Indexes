@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITECOMMON
+		CW18
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2023-05-05 22:40:57
+	card_color: white
+	name: Energy Tax
+	casting_cost: W
+	image: image65
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: Counter target spell unless its controller pays <sym-auto>1</sym-auto>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“What a performative law. Each<soft-line><soft-line> cent earned is more <error-spelling:en_US>mana</error-spelling:en_US> already wasted.”<soft-line>
+		—<error-spelling:en_US>Uverngon</error-spelling:en_US>, <error-spelling:en_US>Nilshroud</error-spelling:en_US> Explorer</soft-line></soft-line></soft-line></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Terrabyte224
+	card_code_text: Functional; FT: elmikkino
+	card_code_text_2: Functional; FT: elmikkino
+	card_code_text_3: Functional; FT: elmikkino
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

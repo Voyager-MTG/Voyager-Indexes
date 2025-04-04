@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 5
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: GREENRARE5
+	time_created: 2022-01-08 16:15:03
+	time_modified: 2024-11-08 13:45:06
+	name: Nurbs’ Familiar
+	casting_cost: 1G
+	image: image55
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: Lands you control have <kw-0><nospellcheck><key>bake</key></nospellcheck></kw-0>. <i-auto>(When they enter, up to one other target permanent gains its abilities until end of turn.)</i-auto>
+	flavor_text:
+		<i-flavor>“Nature is the greatest of the <error-spelling:en_US>Obsolete’s</error-spelling:en_US> technologies.”<soft-line>
+		—<error-spelling:en_US>Nurbs</error-spelling:en_US>, the Wild King</soft-line></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Jeremy Endelblut
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

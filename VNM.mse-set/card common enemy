@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-03-02 03:39:48
+	time_modified: 2024-06-28 21:53:31
+	name: Common Enemy
+	casting_cost: 1I
+	image: image101.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Choose target creature or planeswalker you don’t control. Each creature you control deals 1 damage to that permanent.
+	flavor_text: <i-flavor>The <error-spelling:en_US>outlanders</error-spelling:en_US> struggle against Clan <error-spelling:en_US>Mordel</error-spelling:en_US> and its leader <error-spelling:en_US>Zoslera</error-spelling:en_US> for their bloody campaign against the <error-spelling:en_US>clanless</error-spelling:en_US>.</i-flavor>
+	illustrator: Ilya Popov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

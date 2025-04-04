@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: NEWCARD
+	time_created: 2024-11-08 15:25:12
+	time_modified: 2024-11-08 17:02:56
+	name: Eons of Ancestry
+	casting_cost: 1GW
+	image: image39
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		If you would put cards from your hand to the bottom of your library as part of mulligans, you may reveal <atom-cardname><nospellcheck>Eons of Ancestry</nospellcheck></atom-cardname> from your hand instead.
+		Enchanted creature gets +2/+2 for each permanent attached to it.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jonathan Lam
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

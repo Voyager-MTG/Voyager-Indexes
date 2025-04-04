@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: nyx
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-23 11:46:16
+	time_modified: 2025-01-28 17:42:51
+	name: Prismatic Armor
+	casting_cost: W
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +1/+1 for each color among nontoken permanents you control.
+		During your turn, enchanted creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>With New <error-spelling:en_US>Tensuo</error-spelling:en_US> unwilling to share its <error-spelling:en_US>smithing</error-spelling:en_US> infrastructure, most others have to get creative.</i-flavor>
+	illustrator: Marta Nael
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

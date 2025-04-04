@@ -1,0 +1,58 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		dfc_type: modal with custom flags
+		shrink_back_typeline_text: 
+		other_options: use hovering pt, use holofoil stamps, unindent nonloyalty abilities, auto nyx crowns, automate type frames
+		level_5_chop: 0,6,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: URDONLANDSCYC
+	time_created: 2024-10-13 22:13:06
+	time_modified: 2025-02-14 09:04:44
+	extra_data:
+		magic-m15-mainframe-dfc:
+			back_type_hint: Land — Lair
+			back_color_hint: 
+			front_type_hint: Land
+			front_color_hint: <sym>T</sym>, 1 life: Add <sym>B</sym>.
+	special_text: 
+	name: Exposed Graves
+	name_2: Stainlark, Tomb of Erys
+	image: image121.png
+	image_2: image_222.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en>Land</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: <word-list-land>Lair</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_3: 
+	rarity: rare
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>B</sym-auto>.
+	rule_text_2:
+		When <atom-legname><nospellcheck>Stainlark</nospellcheck></atom-legname> enters, choose a color. Then sacrifice it unless you exile an untapped basic land you control until <atom-legname><nospellcheck>Stainlark</nospellcheck></atom-legname> leaves the battlefield.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> and one mana of the chosen color.
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“Killing you was the best day of my life, pops. Would that your followers prove half the challenge.”<soft-line>
+		—<error-spelling:en_US>Lyyrata</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: JJCanvas
+	illustrator_2: Timi Honkanen
+	custom_card_number: 
+	card_code_text:
+		 R 
+	card_code_text_2:
+		 R 
+	card_code_text_3:
+		 R 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

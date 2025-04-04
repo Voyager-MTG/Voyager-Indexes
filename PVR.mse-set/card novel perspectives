@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUEUNCOMMON
+		UU11
+	time_created: 2022-05-12 08:12:16
+	time_modified: 2025-03-30 19:33:15
+	name: Novel Perspectives
+	casting_cost: 1U
+	image: image259
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Novel Perspectives</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+		Whenever a nontoken card is put into your hand and wasn’t drawn, you may tap <atom-cardname><nospellcheck>Novel Perspectives</nospellcheck></atom-cardname>. If you do, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mat Szulik
+	card_code_text: Kogane
+	card_code_text_2: Kogane
+	card_code_text_3: Kogane
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: WHITERARE10
+	time_created: 2021-11-17 16:06:11
+	time_modified: 2024-11-08 13:47:15
+	name: The Downscaling
+	casting_cost: 2WW
+	image: image117
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>The Downscaling</nospellcheck></atom-cardname> enters, for each player, you choose from among the permanents that player controls another enchantment, an artifact, a creature, a planeswalker, and a land. Exile those permanents until <atom-cardname><nospellcheck>The Downscaling</nospellcheck></atom-cardname> leaves the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: other magic symbols color spotlight
+	power: 
+	toughness: 
+	illustrator: Gordan Dylan Johnson
+	card_code_text: Spotlight 1/10
+	card_code_text_2: Spotlight 1/10
+	card_code_text_3: Spotlight 1/10
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

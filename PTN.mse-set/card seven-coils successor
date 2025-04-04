@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: -5
+		chop_bottom: 2
+		frames: 
+		font_cap: 12.5
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/krinmu/art/2-1-2-year-progress-Search-for-the-Oasis-725455190
+	time_created: 2023-10-03 20:16:42
+	time_modified: 2024-07-12 12:43:21
+	name: Seven-Coil’s Successor
+	casting_cost: XRG
+	image: image150
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Hydra</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Serpent</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Seven-Coil’s Successor</nospellcheck></atom-cardname> enters with X +1/+1 counters.
+		Whenever a boon you own triggers double the number of +1/+1 counters on <atom-cardname><nospellcheck>Seven-Coil’s Successor</nospellcheck></atom-cardname>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Wow Katishere
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

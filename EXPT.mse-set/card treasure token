@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!related Inkblot Artist;
+		
+		Bastien Chapitaux
+	time_created: 2025-03-16 19:08:50
+	time_modified: 2025-03-19 19:37:38
+	name: Treasure Token
+	image: image21.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Treasure</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice this creature: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Bastien Chapitaux
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

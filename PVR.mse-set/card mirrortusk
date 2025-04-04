@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUEUNCOMMON
+		UU03
+	time_created: 2022-03-08 04:03:47
+	time_modified: 2022-03-08 08:44:58
+	name: Mirrortusk
+	casting_cost: 2U
+	image: image216
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elephant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shapeshifter</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>U</sym-auto>: This permanent becomes a copy of target artifact, creature, enchantment, or land until end of turn, except it still has its name. Activate only once each turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Mohamed Chahin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

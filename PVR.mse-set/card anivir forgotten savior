@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		opacity: 190
+		override_levels: four abilities
+		other_options: un-indent nonloyalty abilities, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		tap_symbol: modern
+		center_text: never
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		SPOTLIGHT
+		OTHERRARE
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2023-03-12 09:36:30
+	special_text:
+		Whenever your <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> is three or greater, put two loyalty counters on <atom-legname><nospellcheck>Anivir</nospellcheck></atom-legname>. This ability triggers only once each turn.
+		[0]: <margin:130:0:0>Until your next turn, another target permanent gains “<sym-auto>T</sym-auto>: Draw a card.”</margin:130:0:0>
+		[-3]: <margin:130:0:0>Create two 1/1 Fractal Reflection creature tokens with “<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.”</margin:130:0:0>
+		[-8]: <margin:130:0:0>Until end of turn, permanents you control gain “<sym-auto>T</sym-auto>: Each opponent <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>six</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.”</margin:130:0:0>
+	card_color: blue, green, multicolor, horizontal
+	name: Anivir, Forgotten Savior
+	casting_cost: 2GU
+	image: image49
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Anivir</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	loyalty_cost_2: 0
+	loyalty_cost_3: -3
+	loyalty_cost_4: -8
+	loyalty: 4
+	level_1_text: Whenever your <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> is three or greater, put two loyalty counters on <atom-legname><nospellcheck>Anivir</nospellcheck></atom-legname>. This ability triggers only once each turn.
+	level_2_text: <margin:130:0:0>Until your next turn, another target permanent gains “<sym-auto>T</sym-auto>: Draw a card.”</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Create two 1/1 Fractal Reflection creature tokens with “<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.”</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Until end of turn, permanents you control gain “<sym-auto>T</sym-auto>: Each opponent <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>six</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.”</margin:130:0:0>
+	illustrator: Giselle Manzano Ramírez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

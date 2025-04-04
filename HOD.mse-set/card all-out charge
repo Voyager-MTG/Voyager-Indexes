@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Suyay
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-03 23:27:41
+	name: All-Out Charge
+	casting_cost: 2R
+	image: image197.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Create a token that’s a copy of target creature you control. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and “This creature doesn’t untap during your untap step.”
+	flavor_text:
+		<i-flavor>“Wars won based purely on numbers alone? How entirely graceless.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Capac</error-spelling:en_US> <error-spelling:en_US>Suyay</i-flavor></error-spelling:en_US>
+	illustrator: Andrew Mar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

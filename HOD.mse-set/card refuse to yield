@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Fulchard
+		!tag Sapner
+		!tag CanonReprint
+	time_created: 2025-02-27 12:13:37
+	time_modified: 2025-03-05 17:32:25
+	name: Refuse to Yield
+	casting_cost: 1W
+	image: image314.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Target creature gets +2/+7 until end of turn. Untap it.
+	flavor_text:
+		<i-flavor>“You want a hero to look to? Someone that will save the day? Become that hero. Lead your own destiny.”<soft-line>
+		—<error-spelling:en_US>Fulchard</error-spelling:en_US> <error-spelling:en_US>Sapner</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Canh Nguyen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

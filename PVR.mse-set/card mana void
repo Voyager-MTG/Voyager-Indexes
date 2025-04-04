@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: REDRARE10
+	time_created: 2021-10-08 07:28:29
+	time_modified: 2023-02-10 00:32:33
+	name: Mana Void
+	casting_cost: 3RR
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: mythic rare
+	rule_text:
+		A player losing unspent mana causes that player to lose that much life.
+		You may tap lands you don’t control for mana. Activate abilities this way only as a sorcery.
+	flavor_text: <i-flavor>Unknown to all but a tiny handful of people, Obsolete technology came at a steep cost.</i-flavor>
+	watermark: none
+	illustrator: Calder Moore
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

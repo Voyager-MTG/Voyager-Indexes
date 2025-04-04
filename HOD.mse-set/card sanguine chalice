@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Vance
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-05 16:57:51
+	name: Sanguine Chalice
+	casting_cost: 3B
+	image: image272.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Sycophant</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this permanent deals damage to a player or planeswalker, the next spell you cast this turn costs <sym>1</sym> less to cast.)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of your upkeep, <atom-cardname><nospellcheck>Sanguine Chalice</nospellcheck></atom-cardname> deals 1 damage to each opponent and you gain 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Pedro Sena
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

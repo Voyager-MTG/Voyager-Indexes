@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !addtoken Icon 2;
+	time_created: 2024-03-02 22:05:26
+	time_modified: 2025-03-01 16:49:33
+	name: Impunity of Souls
+	casting_cost: I/B
+	image: image98.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Put target card in a graveyard into its owner’s sanctum. Create a tapped 2/2 green and silver Icon enchantment creature token. You gain 2 life.
+	flavor_text: <i-flavor>Death is an extant form of life.</i-flavor>
+	illustrator: Branden Singletary
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

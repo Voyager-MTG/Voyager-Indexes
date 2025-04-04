@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		WHITEUNCOMMON
+		UW04
+	time_created: 2022-03-08 06:16:30
+	time_modified: 2023-05-06 05:38:07
+	name: Productive Throng
+	casting_cost: 2W
+	image: image131
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Nightmare</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>Productive Throng</nospellcheck></atom-cardname> attacks, it can’t be blocked this turn unless an opponent pays <sym-auto>1</sym-auto>.
+		At the beginning of your end step, put a +1/+1 counter on target creature unless an opponent pays <sym-auto>1</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Snatti89
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

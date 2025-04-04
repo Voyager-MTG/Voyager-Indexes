@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-07 13:53:41
+	time_modified: 2025-03-05 23:19:44
+	name: Deepmist Bandit
+	casting_cost: 1B
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Ploy</key></nospellcheck> — Target opponent reveals their hand and discards a nonland card of your choice. <atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>“The Wonderlands won’t grant </i>my <i>wish, so it’s up to you <error-spelling:en_US>bloodbags</error-spelling:en_US> to pick up the slack.”             </i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Alessandro Manzela
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

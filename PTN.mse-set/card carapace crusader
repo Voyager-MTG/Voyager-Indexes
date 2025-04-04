@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-05-07 21:22:38
+	time_modified: 2024-04-13 23:21:19
+	card_color: green
+	name: Carapace Crusader
+	casting_cost: 3G
+	image: image119
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>Carapace Crusader</nospellcheck></atom-cardname> enters, if a creature card was put into your graveyard from anywhere this turn, put a +1/+1 counter on <atom-cardname><nospellcheck>Carapace Crusader</nospellcheck></atom-cardname>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Though much is taken, much abides.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Pamansazz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

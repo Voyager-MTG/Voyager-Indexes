@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-08-25 23:56:58
+	time_modified: 2024-10-29 20:40:32
+	name: Restlessness
+	casting_cost: 2W
+	image: image41
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Create three 1/1 white Nightmare creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
+	flavor_text: <i-flavor>A dream is never just a dream. But all dreams must end.</i-flavor>
+	illustrator: Jeffrey Smith
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

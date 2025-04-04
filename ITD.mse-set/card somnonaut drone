@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 7
+		shrink_name_text: 
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-08-29 18:32:15
+	time_modified: 2024-12-18 20:28:16
+	name: Somnonaut Drone
+	casting_cost: 3R
+	image: image49
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Drone</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		When this creature enters, if it’s not a token, create a token copy of it. Exile that token at the beginning of the next end step unless there are four or more lands in your realm. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: erenomoto
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

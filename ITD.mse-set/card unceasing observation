@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/25kartinok/art/Siyanie35-865131706
+	time_created: 2024-10-17 19:32:44
+	time_modified: 2024-10-29 20:36:43
+	name: Unceasing Observation
+	casting_cost: 2UU
+	image: image170
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Choose one—
+		<li><bullet>• </bullet>Put target creature on the top of its owner’s library.
+		</li><li><bullet>• </bullet>Put target spell on the top of its owner’s library.
+		</li><li><bullet>• </bullet>Put target spell on the bottom of its owner’s library.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: 25kartinok
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

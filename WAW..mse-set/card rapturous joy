@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: nyx
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-14 17:39:27
+	time_modified: 2025-01-30 21:44:38
+	card_color: white
+	name: Rapturous Joy
+	casting_cost: 1W
+	image: image102
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Rapturous Joy</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		As long as you control enchanted creature, it gets +2/+1. Otherwise, it can’t attack.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Pauline Voss
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

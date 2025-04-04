@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2022-04-24 03:31:09
+	time_modified: 2025-03-01 17:21:27
+	name: Outlands Frostalker
+	casting_cost: 1I/BI/B
+	image: image53.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		When this creature dies, if it isn’t a token, create a token that’s a copy of it except it has size 1/1.
+		<sym-auto>2</sym-auto>, Sacrifice a token: Draw a card.
+	flavor_text:
+		<i-flavor>“Deep in the snow peaked <error-spelling:en_US>Outlands</error-spelling:en_US> past the ruins of <error-spelling:en_US>Multa</error-spelling:en_US>, packs of <error-spelling:en_US>Froststalkers</error-spelling:en_US> roam for prey.”
+		—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</i-flavor></error-spelling:en_US>
+	power: 3
+	toughness: 3
+	illustrator: Pencil Equipped
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

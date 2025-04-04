@@ -1,0 +1,61 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: lesson
+		altered_plus_frames: star
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		!related Multaph’s Respite’s Spellbookattach>;
+		!addtoken Multaph’s Respite’s Spellbook;transform;
+		!backname Multaph’s Respite’s Spellbook;
+	time_created: 2022-04-02 19:29:38
+	time_modified: 2025-03-26 15:13:32
+	extra_data:
+		magic-m15-altered-plus:
+			corner: instant
+	special_text_2: 
+	card_color: white, blue, red, multicolor, horizontal
+	card_color_2: multicolor
+	name: Multaph’s Respite
+	name_2: 
+	casting_cost: I/UI/RI/W
+	image: image343
+	image_2: image_23
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	rarity: rare
+	chapter_text_2: 
+	rule_text:
+		When <atom-cardname><nospellcheck>Multaph’s Respite</nospellcheck></atom-cardname> enters, create a trace of your choice into your hand among Subdued Rift, Warped Exploration, and Cut From Void.
+		Once each turn, when you cast a noncreature spell, you may pay <sym-auto>2</sym-auto>. If you do, copy that spell. You may choose new targets for the copy.
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	level_5_text: 
+	level_6_text: 
+	level_7_text: 
+	level_8_text: 
+	illustrator: Borisut Chamnan
+	illustrator_2: Ir
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

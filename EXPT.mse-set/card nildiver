@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: 
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/mantara1/art/Manta-973822942
+	time_created: 2025-02-24 19:14:53
+	time_modified: 2025-03-30 17:05:10
+	name: Nildiver
+	casting_cost: II
+	image: image103
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en>Fish</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Entity</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		As long as your complexity is three or greater, <atom-cardname><nospellcheck>Nildiver</nospellcheck></atom-cardname> is also a creature. <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto>
+		Materialize 5 <i-auto>(Tap any number of other enchantments you control with total mana value 5 or more: It also becomes an Icon creature until end of turn.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: manaRa1
+	card_code_text: •  Designed by Trewq
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

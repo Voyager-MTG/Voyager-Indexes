@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Nye
+		Tricolor
+	time_created: 2025-02-24 00:28:39
+	time_modified: 2025-03-04 03:11:21
+	card_color: blue, black, green, multicolor, horizontal
+	name: Nye Decree
+	casting_cost: BGU
+	image: image271.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Choose one. If you control a legendary creature or planeswalker, you may choose two instead.
+		<li><bullet>• </bullet>Target creature gets +3/+3 and gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
+		</li><li><bullet>• </bullet>Target player draws two cards and loses 2 life.
+		</li><li><bullet>• </bullet>Exile target spell.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Pixoloid Studios
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

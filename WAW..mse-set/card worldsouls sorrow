@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: nyx
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-22 15:17:47
+	time_modified: 2025-02-14 17:27:38
+	name: Worldsoul’s Sorrow
+	casting_cost: 2B
+	image: image181
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		At the beginning of your upkeep, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		You may cast creature cards from your graveyard by paying <sym>WUBRG</sym> rather than paying their mana costs. Creatures cast this way enter with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on them.
+	flavor_text:
+		<i-flavor>“It lost a loved one, and it’s trying to heal.”<soft-line>
+		—<error-spelling:en_US>Eteres</error-spelling:en_US>, planar analyst</soft-line></i-flavor>
+	illustrator: B H
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

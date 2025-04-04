@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		shrink_typeline_text: 
+		frames: 
+		font_cap: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		GREENUNCOMMON
+		UG09
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2023-05-05 22:48:53
+	name: Virgin Media
+	casting_cost: 3G
+	image: image134
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Search your library for up to two basic land cards and/or Texture cards, put them onto the battlefield tapped, then shuffle.
+	flavor_text: <i-flavor>The <error-spelling:en_US>Quintarchy</error-spelling:en_US> carved the world up into four fiefdoms. Left out, <error-spelling:en_US>Kinema</error-spelling:en_US> created the continent of <error-spelling:en_US>Felygon</error-spelling:en_US>.</i-flavor>
+	illustrator: LittleNorweigens
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

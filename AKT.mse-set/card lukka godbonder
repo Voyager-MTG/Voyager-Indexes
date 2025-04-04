@@ -1,0 +1,63 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		dfc_type: modal with custom flags
+		front_style: auto-sizing planeswalker
+		other_options: use hovering pt, use holofoil stamps, unindent nonloyalty abilities, auto nyx crowns, automate type frames
+		level_5_chop: 0,10,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		OTHERMYTHIC
+		PENICILIN
+	time_created: 2023-01-13 00:50:02
+	time_modified: 2025-01-30 02:54:00
+	extra_data:
+		magic-m15-mainframe-dfc:
+			back_type_hint: 2/1 <word-list-race>God</word-list-race> <word-list-class>Illusion</word-list-class><soft> </soft>
+			back_color_hint: <sym>1U</sym>
+			front_type_hint: Lukka
+			front_color_hint: <sym>1R</sym>
+	special_text:
+		<kw-1><nospellcheck><key>Bisapience</key></nospellcheck> <sym>UU</sym><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-1>
+		[0]: <margin:130:0:0>Target permanent you control gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Discard a card. When you do, Lukka deals 2 damage to any target.</margin:130:0:0>
+	name: Lukka, Godbonder
+	name_2: The Last Aetherbeast
+	casting_cost: 1R
+	casting_cost_2: 1U
+	image: image171
+	image_2: image172
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator_2: colorless
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-planeswalker>Lukka</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: <word-list-race-en>God</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Illusion</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text_2:
+		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0> <sym>RR</sym>
+		Whenever <atom-cardname><nospellcheck>The Last Aetherbeast</nospellcheck></atom-cardname> deals combat damage to a player, put a loyalty counter on it and draw a card.
+	flavor_text_2: <i-flavor>The </i><error-spelling:en_US>Eludha<i></error-spelling:en_US> bonded master to master, each fighting for the other’s servitude.</i-flavor>
+	loyalty_cost_2: 0
+	loyalty_cost_3: -1
+	loyalty: 2
+	level_1_text: <kw-1><nospellcheck><key>Bisapience</key></nospellcheck> <sym>UU</sym><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-1>
+	level_2_text: <margin:130:0:0>Target permanent you control gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Discard a card. When you do, Lukka deals 2 damage to any target.</margin:130:0:0>
+	level_4_text: 
+	power_2: 2
+	toughness_2: 1
+	illustrator: gkb3rk
+	illustrator_2: Jeremy Chong
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

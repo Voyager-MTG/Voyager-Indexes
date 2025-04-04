@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Phyre
+		!tag Veceslav
+		!tag Hann
+	time_created: 2025-03-04 04:40:40
+	time_modified: 2025-03-05 03:17:10
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/him
+	name: Hann, Herald of the Conqueror
+	casting_cost: RG
+	image: image311.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Satyr</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: When <atom-legname><nospellcheck>Hann</nospellcheck></atom-legname> enters, you may search your library for a land card that doesn’t share a name with a land you control or a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Veceslav</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> planeswalker card, reveal it, put it into your hand, then shuffle.
+	flavor_text: <i-flavor>“If House <error-spelling:en_US>Phyre</error-spelling:en_US> is to be reduced to kindles, so must all of <error-spelling:en_US>Dewold</error-spelling:en_US>.”</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: kooks000
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

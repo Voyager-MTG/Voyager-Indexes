@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-02 18:47:38
+	time_modified: 2024-10-30 15:49:17
+	card_color: black, green, multicolor, horizontal
+	name: Moth’s Yearning
+	casting_cost: BG
+	image: image327
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. You gain life equal to the number of creature cards put into your graveyard this way.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>You’ll need to shed your skin, and not only once...</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Alessia H. Valastro
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: BG
+	copyright_2: 
+	copyright_3: 

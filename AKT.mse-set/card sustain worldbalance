@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: clear
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-03-19 17:16:29
+	time_modified: 2025-01-31 20:51:34
+	name: Sustain Worldbalance
+	casting_cost: 3
+	image: image3.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: Whenever you cast a monocolored spell, create a 4/4 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>colourless</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Dragon creature token if each color is noted with Sustain <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Worldbalance</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. Otherwise note that color, then draw a card if it wasn’t already noted.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kitak Lee
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

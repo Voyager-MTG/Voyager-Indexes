@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		CG12
+		GREENCOMMON
+	time_created: 2023-06-21 23:40:02
+	time_modified: 2024-10-30 00:46:56
+	card_color: green
+	name: Slumbering Farmer
+	casting_cost: 1G
+	image: image68
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Frog</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: <atom-cardname><nospellcheck>Slumbering Farmer</nospellcheck></atom-cardname> gets +3/+1 if there’s four or more card types in your graveyard. <i-auto>(Kindred is a card type.)</i-auto>
+	flavor_text:
+		<i-flavor>FT<soft-line>
+		FT<soft-line>
+		FT</soft-line></soft-line></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Ognjen Sporin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

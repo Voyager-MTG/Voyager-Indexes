@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		frames: 
+		altered_plus_frames: star
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-02-23 10:07:10
+	time_modified: 2025-03-30 18:09:33
+	name: Warping Wolf
+	casting_cost: II
+	image: image120
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wolf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: When this creature attacks, exile up to one target creature card from your graveyard. You may cast that card for as long as it remains exiled. When you do, it enters as an enchantment with materialize </sym>X<sym>, where X is its mana value. <i-auto>(It loses all other creature and card types.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Msacrass
+	card_code_text: •  Designed by Aanginer
+	card_code_text_2: Aanginer
+	card_code_text_3: Aanginer
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !tokens Redefinition Token
+	time_created: 2025-01-20 14:21:32
+	time_modified: 2025-01-31 10:41:39
+	name: Redefinition
+	casting_cost: 3U
+	image: image212
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Jellyfish</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Redefinition</nospellcheck></atom-cardname> enters, up to one target creature’s power and toughness each become equal to <atom-cardname><nospellcheck>Redefinition</nospellcheck></atom-cardname>’s power and toughness until <atom-cardname><nospellcheck>Redefinition</nospellcheck></atom-cardname> leaves the battlefield.
+		<kw-1><nospellcheck><key>Reflect <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1</sym-auto></param-cost>: Create a token copy of this creature, except it’s a 1/1 Wonder Jellyfish without reflect. Reflect only as a sorcery, and only once.)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Stone Perales
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

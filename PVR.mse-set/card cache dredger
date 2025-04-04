@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: BLACKRARE2
+	time_created: 2021-12-01 07:54:17
+	time_modified: 2022-08-13 03:12:14
+	name: Cache Dredger
+	casting_cost: B
+	image: image140
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: <sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Exile target card from a graveyard. If you do, add one mana of any color. Then if there are four or more card types among cards exiled with <atom-cardname><nospellcheck>Cache Dredger</nospellcheck></atom-cardname>, each opponent loses 2 life and you gain 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Spydermik
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

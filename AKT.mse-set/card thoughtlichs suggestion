@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKCOMMON
+		CB15
+	time_created: 2023-06-21 23:40:02
+	time_modified: 2025-01-30 19:53:29
+	card_color: black
+	name: Thoughtlich’s Suggestion
+	casting_cost: 3B
+	image: image106
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw two cards. You lose 2 life.
+	flavor_text:
+		<i-flavor>“Your ‘<error-spelling:en_US>eludha’</error-spelling:en_US> lets you see the world through the senses of any beast?”<soft-line>
+		<error-spelling:en_US>Lukka</error-spelling:en_US> nodded to <error-spelling:en_US>Herongrand’s</error-spelling:en_US> question.<soft-line>
+		“Then I know </i>exactly<i> what you should bond with.”</soft-line></soft-line></i-flavor>
+	watermark: other magic symbols story spotlight
+	illustrator: GabeRamos
+	card_code_text: Story Spotlight 3
+	card_code_text_2: Story Spotlight 3
+	card_code_text_3: Story Spotlight 3
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

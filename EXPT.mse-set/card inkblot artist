@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-06-21 02:11:02
+	time_modified: 2025-03-30 16:05:23
+	name: Inkblot Artist
+	casting_cost: I
+	image: image40
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: <sym-auto>T</sym-auto>: Exile two target creature cards from your graveyard. If you do, Create a 1/1 Treasure Artifact creature token with “<sym-auto>T</sym-auto>, Sacrifice this: Add one mana of any color.”
+	flavor_text: <i-flavor>To her, every creation is priceless.</i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Sandara Tang
+	card_code_text: • Designed by TVP for FOE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

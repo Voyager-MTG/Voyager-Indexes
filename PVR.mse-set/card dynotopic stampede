@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: REDRARE7
+	time_created: 2022-04-15 14:57:40
+	time_modified: 2024-11-08 13:43:05
+	name: Dynotopic Stampede
+	casting_cost: 1RR
+	image: image305
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Dynotopic Stampede</nospellcheck></atom-cardname> enters or attacks, destroy up to one target land. Its controller creates a colorless land token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nilvoid</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and “<sym-auto>T</sym-auto>: Add one mana of any color.”
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-20 15:07:35
+	time_modified: 2025-03-18 17:02:32
+	name: Aechmi’s Creativity
+	casting_cost: 4R
+	image: image230
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		Discard your hand, then draw four cards.
+		For each color among monocolored cards in your graveyard, add one mana of that color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Syd Mills 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

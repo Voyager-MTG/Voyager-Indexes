@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		Land Cycle
+		House Turnberry
+		!tag Gosfridus
+	time_created: 2021-07-05 10:09:01
+	time_modified: 2022-05-25 13:04:58
+	name: Turnberry Citadel
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>. <atom-cardname><nospellcheck>Turnberry Citadel</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
+	flavor_text:
+		<i-flavor>“My House is all of me.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Gosfridus</error-spelling:en_US> <error-spelling:en_US>Turnberry</i-flavor></error-spelling:en_US>
+	illustrator: Florian Herold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Zangy
+	copyright_2: Set by Zangy
+	copyright_3: Set by Zangy

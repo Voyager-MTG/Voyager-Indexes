@@ -9,17 +9,17 @@ set_info:
 	set_code: HEL
 	symbol: symbol2.mse-symbol
 	masterpiece_symbol: 
-	use_gradient_multicolor: yes
 styling:
 	magic-m15:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-altered:
-		chop_top: 5
-		chop_bottom: 5
+		chop_top: 7
+		chop_bottom: 7
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	magic-m15-extra:
 		text_box_mana_symbols: magic-mana-small-extra-m15.mse-symbol-font
@@ -100,17 +100,19 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 5
+		chop_top: 7
 		chop_bottom: 7
+		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	notes:
 		https://www.deviantart.com/brushray/art/Sacret-machine-by-Dmitry-Brushray-894147503
 		
 		Maybe make 4/2
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-11-29 23:41:29
+	time_modified: 2025-03-22 16:08:08
 	card_color: white
 	name: Dutybound Lich
 	casting_cost: 3W
@@ -121,7 +123,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Dutybound Lich</nospellcheck></atom-cardname> enters, create a token that is a copy of target creature card in your graveyard with mana value 2 or less.
+	rule_text: When this creature enters, create a token that is a copy of target creature card in your graveyard with mana value 2 or less.
 	flavor_text: <i-flavor>“I do not enjoy being in debt, Vampire. Make it quick.”</i-flavor>
 	power: 2
 	toughness: 2
@@ -135,15 +137,16 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 7
-		chop_bottom: 7
+		chop_top: 10
+		chop_bottom: 10
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	notes: https://www.artstation.com/artwork/Xn0zXn
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-16 21:29:59
+	time_modified: 2025-03-31 15:18:53
 	card_color: white
 	name: Crypt Defenders
 	casting_cost: 1W
@@ -155,8 +158,8 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text: When this creature enters, create a 2/2 white Zombie creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
-	flavor_text: <i-flavor>While strength is preferred for guard duty, sometimes sheer numbers will have to suffice.</i-flavor>
-	power: 1
+	flavor_text: <i-flavor>While strength is preferred for guard duty, sometimes numbers will have to suffice.</i-flavor>
+	power: 2
 	toughness: 1
 	illustrator: Eryk Scyzgiel
 	card_code_text: 
@@ -169,7 +172,7 @@ card:
 	has_styling: false
 	notes: Solrings art server
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-05 19:46:08
+	time_modified: 2025-03-31 03:16:22
 	card_color: white
 	name: Kinnamon’s Stitched
 	casting_cost: 2W
@@ -180,7 +183,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: <atom-cardname><nospellcheck>Kinnamon’s Stitched</nospellcheck></atom-cardname> can’t be blocked by creatures with power 4 or greater.
+	rule_text: The creature can’t be blocked by creatures with power 4 or greater.
 	flavor_text:
 		<i-flavor>“What we lack in soldiers I can make up for in other ways. Our survival depends on you, Markov. Your leadership will save or doom us all. I have faith in you.”<soft-line>
 		</soft-line><soft-line>—<error-spelling:en_US>Bloodlord</error-spelling:en_US> <error-spelling:en_US>Kinnamon</error-spelling:en_US> to <error-spelling:en_US>Sorin</soft-line></i-flavor></error-spelling:en_US>
@@ -196,11 +199,12 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 5
-		chop_bottom: 5
+		chop_top: 7
+		chop_bottom: 7
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	notes:
 		https://www.alphaomegahobby.com/products/gamermats-army-of-the-dead
@@ -235,7 +239,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/aY3Kq2
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-08-22 22:31:01
+	time_modified: 2025-03-31 15:16:42
 	card_color: white
 	name: Smoke Whisperer
 	casting_cost: 4W
@@ -248,7 +252,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Spectacle <param-cost><sym-auto>3W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-cardname><nospellcheck>Smoke Whisperer</nospellcheck></atom-cardname> enters, you may exile another target creature. Return it to the battlefield under its owners control at the beginning of the next end step.
+		When this creature enters, you may exile another target creature. Return it to the battlefield under its owners control at the beginning of the next end step.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3
@@ -290,14 +294,16 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 10
+		chop_top: 9
 		chop_bottom: 10
+		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	notes: https://www.deviantart.com/typhonart/art/Sinful-Wraith-705360953
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-17 18:52:53
+	time_modified: 2025-03-31 03:16:27
 	card_color: white
 	name: Processing Revenant
 	casting_cost: 4W
@@ -310,7 +316,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>Processing Revenant</nospellcheck></atom-cardname> enters, create a 1/1 black Skeleton creature token.
+		When this creature enters, create a 1/1 black Skeleton creature token.
 	flavor_text: <i-flavor>“The soul is long gone. Best I can do is clean the rest of the corpse and make it useful.”</i-flavor>
 	power: 3
 	toughness: 3
@@ -351,7 +357,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/babanillustration/art/CATBATS-Prints-781809902
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-05 19:46:51
+	time_modified: 2025-03-31 14:57:50
 	card_color: white
 	name: Skyclaws
 	casting_cost: 3W
@@ -364,7 +370,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Skyclaws</nospellcheck></atom-cardname> enters, if it isn’t a token, you may sacrifice a creature. If you do, create a token copy of <atom-cardname><nospellcheck>Skyclaws</nospellcheck></atom-cardname>.
+		When this creature enters, if it isn’t a token, you may sacrifice another creature. If you do, create a token that’s copy of this creature.
 	flavor_text:
 		<i-flavor>“I swear they populate like rats. At least they eat any unwelcome guests.”<soft-line>
 		—<error-spelling:en_US>Bloodlord</error-spelling:en_US> <error-spelling:en_US>Kinnamon</soft-line></i-flavor></error-spelling:en_US>
@@ -461,7 +467,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/gongcheng/art/Vampire-483704624vv
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-28 20:00:06
+	time_modified: 2025-03-22 16:09:56
 	card_color: white
 	name: Hungering Sentinel
 	casting_cost: W
@@ -474,7 +480,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Hungering Sentinel</nospellcheck></atom-cardname> gets +2/+0 as long as you control three or more creatures.
+		This creature gets +2/+0 as long as you control three or more creatures.
 	flavor_text: <i-flavor>“You expect me to sit out here all night without a snack?”</i-flavor>
 	power: 1
 	toughness: 1
@@ -486,16 +492,10 @@ card:
 	copyright_2: 
 	copyright_3: 
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes: https://www.artstation.com/artwork/qABGy
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-28 19:43:15
+	time_modified: 2025-03-20 07:39:22
 	card_color: white
 	name: Deeptomb Guardian
 	casting_cost: 2W
@@ -508,7 +508,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>Deeptomb Guardian</nospellcheck></atom-cardname> enters, you gain 2 life.
+		When this creature enters, you gain 2 life.
 	flavor_text: <i-flavor>Where bones and flesh break, oaths stay strong.</i-flavor>
 	power: 2
 	toughness: 3
@@ -550,7 +550,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/eaW2qJ
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-20 10:51:53
+	time_modified: 2025-03-31 15:39:49
 	card_color: blue
 	name: Deceptive Shadow
 	casting_cost: 3U
@@ -563,7 +563,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>Deceptive Shadow</nospellcheck></atom-cardname> enters, you may tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
+		When this creature enters, you may tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
 	flavor_text: <i-flavor>Believing a shadow disappears in the light is the last mistake you will ever make.</i-flavor>
 	power: 3
 	toughness: 3
@@ -578,7 +578,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/morkardfc/art/1803-745787634
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-07-31 17:24:43
+	time_modified: 2025-03-31 16:52:10
 	card_color: blue
 	name: Shambling Mistwalker
 	casting_cost: 1U
@@ -589,7 +589,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Nightmare</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: Whenever <atom-cardname><nospellcheck>Shambling Mistwalker</nospellcheck></atom-cardname> attacks, defending player may tap an untapped creature they control. If they don’t, <atom-cardname><nospellcheck>Shambling Mistwalker</nospellcheck></atom-cardname> can’t be blocked until end of turn.
+	rule_text: Whenever this creature attacks, defending player may tap an untapped creature they control. If they don’t, <atom-cardname><nospellcheck>Shambling Mistwalker</nospellcheck></atom-cardname> can’t be blocked until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -603,15 +603,16 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 5
-		chop_bottom: 13
+		chop_top: 7
+		chop_bottom: 7
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	notes: https://www.instagram.com/p/CQOmYllqHHe/
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-07-25 00:01:00
+	time_modified: 2025-03-31 15:39:57
 	card_color: blue
 	name: Doubling Imp
 	casting_cost: U
@@ -624,7 +625,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>Doubling Imp</nospellcheck></atom-cardname> dies, you may draw a card. If you do, discard a card.
+		When this creature dies, you may draw a card. If you do, discard a card.
 	flavor_text: <i-flavor>Now you see me, now you see me again.</i-flavor>
 	power: 1
 	toughness: 1
@@ -664,10 +665,18 @@ card:
 	copyright_2: 
 	copyright_3: 
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 9
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
 	notes: https://www.artstation.com/artwork/baP0Ra
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-03-24 13:29:08
+	time_modified: 2025-03-22 15:56:43
 	card_color: blue
 	name: Corrupted Nightwing
 	casting_cost: U
@@ -681,7 +690,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Corrupted Nightwing</nospellcheck></atom-cardname> enters, you may pay 2 life. If you do, <kw-1><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i-auto></atom-reminder-action></kw-1>
+		When this creature enters, you may pay 2 life. If you do, <kw-1><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -696,7 +705,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/6bOoan
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-10-08 23:35:43
+	time_modified: 2025-03-31 16:45:44
 	card_color: blue
 	name: Orbisfaber’s Hellspawn
 	casting_cost: 4U
@@ -709,7 +718,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Orbisfaber’s Hellspawn</nospellcheck></atom-cardname> enters, return up to one target creature to its owners hand.
+		When this creature enters, return up to one target creature to its owner’s hand.
 	flavor_text: <i-flavor>“My lord sends his sympathy. You will learn to appreciate it in time.”</i-flavor>
 	power: 3
 	toughness: 3
@@ -724,7 +733,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/vitaj/art/Merchant-of-Misfortune-843106896
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2023-09-05 01:10:48
+	time_modified: 2025-03-31 16:48:25
 	card_color: blue
 	name: Secret Dealings
 	casting_cost: U
@@ -736,7 +745,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		As an additional cost to cast <atom-cardname><nospellcheck>Secret Dealings</nospellcheck></atom-cardname>, sacrifice a creature.
+		As an additional cost to cast this spell, sacrifice a creature.
 		Return target instant or sorcery card from your graveyard to your hand. Draw a card.
 		Exile <atom-cardname><nospellcheck>Secret Dealings</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
@@ -752,18 +761,19 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 5
-		chop_bottom: 10
+		chop_top: 7
+		chop_bottom: 9
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	notes:
 		https://www.deviantart.com/istrandar/art/Void-1026109472
 		
 		Maybe change Art
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-13 17:02:17
+	time_modified: 2025-03-31 16:58:45
 	name: Warping Whisper
 	casting_cost: 1U
 	image: image268
@@ -775,7 +785,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<sym-auto>1</sym-auto>: <atom-cardname><nospellcheck>Warping Whisper</nospellcheck></atom-cardname> gets +1/-1 until end of turn.
+		<sym-auto>1</sym-auto>: This creature gets +1/-1 until end of turn.
 	flavor_text: <i-flavor>The sentries of <error-spelling:en_US>Orbisfaber</error-spelling:en_US> scan the coast and cliffs, trying to chase interlopers deeper into the fog where they cannot escape.</i-flavor>
 	power: 0
 	toughness: 4
@@ -787,16 +797,10 @@ card:
 	copyright_2: 
 	copyright_3: 
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 5
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes: https://www.artstation.com/artwork/3qZQv
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-07 00:36:40
+	time_modified: 2025-03-31 15:29:33
 	card_color: blue
 	name: Bloodied Stalker
 	casting_cost: 2U
@@ -809,7 +813,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Spectacle <param-cost><sym-auto>U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)</i-auto></atom-reminder-expert></kw-A>
-		Creatures with power greater than <atom-cardname><nospellcheck>Bloodied Stalker</nospellcheck></atom-cardname> can’t block it.
+		Creatures with power greater than this creature can’t block it.
 	flavor_text: <i-flavor>Be careful spilling blood too close to the water.</i-flavor>
 	power: 1
 	toughness: 4
@@ -824,7 +828,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/b58gE
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-03-24 13:29:56
+	time_modified: 2025-03-31 16:05:21
 	card_color: blue
 	name: Gigas Screamer
 	casting_cost: 5UU
@@ -836,8 +840,8 @@ card:
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Nightmare</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>Gigas Screamer</nospellcheck></atom-cardname> enters, draw a card.
-		<sym-auto>2U</sym-auto>, Discard <atom-cardname><nospellcheck>Gigas Screamer</nospellcheck></atom-cardname>: Create two 1/1 blue Merfolk Horror creature tokens. Activate only as a sorcery.
+		When this creature enters, draw a card.
+		<sym-auto>2U</sym-auto>, Discard this card: Create two 1/1 blue Merfolk Horror creature tokens. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 5
@@ -852,7 +856,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/lx3dNa
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-05 19:48:03
+	time_modified: 2025-03-31 15:40:10
 	card_color: blue
 	name: Drag Under
 	casting_cost: 2U
@@ -864,7 +868,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		Return target creature to its owners hand.
+		Return target creature to its owner’s hand.
 		Draw a card.
 	flavor_text:
 		<i-flavor>“I believe our unexpected guest is having trouble breathing. Let’s make sure we give it some gills, shall we?”<soft-line>
@@ -917,7 +921,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/jamesbousema/art/SPIRIT-870676818
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-06-16 01:28:43
+	time_modified: 2025-03-11 02:38:52
 	card_color: blue
 	name: Last Sip
 	casting_cost: U
@@ -929,7 +933,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		As an additional cost to cast <atom-cardname><nospellcheck>Last Sip</nospellcheck></atom-cardname>, exile a creature card from your graveyard or pay <sym-auto>U</sym-auto>.
+		As an additional cost to cast this spell, exile a creature card from your graveyard or pay <sym-auto>U</sym-auto>.
 		Counter target creature spell.
 	flavor_text: <i-flavor>An appetite needs to be satiated somehow.</i-flavor>
 	illustrator: Jamesbousema
@@ -943,7 +947,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/istrandar/art/Lurker-of-the-depth-829179386
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-30 14:12:53
+	time_modified: 2025-03-31 15:40:22
 	card_color: blue
 	name: Ghastly Tide
 	casting_cost: 1UU
@@ -957,7 +961,7 @@ card:
 	rule_text:
 		Choose one. If a creature you control died this turn, you may choose both —
 		<li><bullet>• </bullet>Create two 1/1 blue Merfolk Horror creature tokens.
-		</li><li><bullet>• </bullet>Return target nonland permanent to its owners hand.</li>
+		</li><li><bullet>• </bullet>Return target nonland permanent to its owner’s hand.</li>
 	flavor_text: <i-flavor>Tides are predictable... for the most part.</i-flavor>
 	illustrator: Istrander
 	card_code_text: 
@@ -967,20 +971,13 @@ card:
 	copyright_2: 
 	copyright_3: 
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 5
-		other_options: auto nyx crowns
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes:
 		https://www.deviantart.com/faxtar/art/Fire-Imp-314068493
 		
 		Replace this card for a cheap flyer
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-20 11:04:15
+	time_modified: 2025-03-31 16:46:08
 	card_color: blue
 	name: Osavotus’s Pet
 	casting_cost: 3U
@@ -994,7 +991,7 @@ card:
 	rule_text:
 		<kw-0><nospellcheck><key>Ward—<param-cost>Pay 2 life</param-cost>.</key></nospellcheck></kw-0> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)</i-auto>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Osavotus’s Pet</nospellcheck></atom-cardname> enters, draw a card.
+		When this creature enters, draw a card.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Osavotus</error-spelling:en_US> told me you would be here. He forgot to mention how dimwitted you are.”</i-flavor>
 	power: 2
 	toughness: 2
@@ -1009,7 +1006,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/AG6bV
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2023-09-05 01:15:01
+	time_modified: 2025-03-31 15:39:04
 	card_color: blue
 	name: Creeping Frost
 	casting_cost: 1U
@@ -1023,7 +1020,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature doesn’t untap during its controller untap step.
-		<sym-auto>3U</sym-auto>: Return <atom-cardname><nospellcheck>Creeping Frost</nospellcheck></atom-cardname> from your graveyard to the battlefield.
+		<sym-auto>3U</sym-auto>: Return this card from your graveyard to the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Pixoloid Studios
 	card_code_text: 
@@ -1062,7 +1059,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-07-30 13:24:44
+	time_modified: 2025-03-31 15:40:49
 	card_color: blue
 	name: End’s Embrace
 	casting_cost: 1UU
@@ -1074,7 +1071,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		<atom-cardname><nospellcheck>End’s Embrace</nospellcheck></atom-cardname> costs <sym-auto>1U</sym-auto> less to cast if a creature died this turn.
+		This spell costs <sym-auto>1U</sym-auto> less to cast if a creature died this turn.
 		Counter target spell.
 	flavor_text: <i-flavor>When he shouted to the wind, the only sound that returned was silence. He was alone.</i-flavor>
 	illustrator: Chris Cold
@@ -1087,15 +1084,16 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 5
-		chop_bottom: 10
+		chop_top: 11
+		chop_bottom: 11
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	notes: https://www.deviantart.com/morkardfc/art/Prehistoric-Vampire-641309514
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-28 00:02:38
+	time_modified: 2025-03-31 17:22:58
 	card_color: black
 	name: Puppet Weaver
 	casting_cost: B
@@ -1107,8 +1105,8 @@ card:
 	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spider</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Puppet Weaver</nospellcheck></atom-cardname> attacks, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		<atom-cardname><nospellcheck>Puppet Weaver</nospellcheck></atom-cardname> has +2/+0 as long as there are eight or more cards in your graveyard.
+		Whenever this creature attacks, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		This creature has +2/+0 as long as there are eight or more cards in your graveyard.
 	flavor_text: <i-flavor>Undue quickly perked up as the spider snatched the corpse. Somewhere, a treasure trove of bones lay on a silken bed, ripe for the picking.</i-flavor>
 	power: 1
 	toughness: 2
@@ -1217,7 +1215,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/morkardfc/art/Transforming-into-bat-634595722
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-21 15:36:28
+	time_modified: 2025-03-31 18:02:54
 	name: Repurposed Bloodrinker
 	casting_cost: 2R
 	image: image150
@@ -1229,7 +1227,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Repurposed Bloodrinker</nospellcheck></atom-cardname> dies, target player loses 2 life.
+		When this creature dies, target player loses 2 life.
 	flavor_text: <i-flavor><error-spelling:en_US>Orbisfaber</error-spelling:en_US> often grows weary of its new toys, but the vile queen <error-spelling:en_US>Zeramander</error-spelling:en_US> takes all who wish to see the world burn unto her flock.</i-flavor>
 	power: 2
 	toughness: 1
@@ -1244,7 +1242,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/raphtor/art/Great-Wyvern-851357279
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-08-01 16:10:59
+	time_modified: 2025-03-31 16:59:06
 	card_color: black
 	name: Bloodied Corpse
 	casting_cost: B
@@ -1257,7 +1255,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Bloodied Corpse</nospellcheck></atom-cardname> has +1/+0 as long as a creature has died this turn.
+		This creature has +1/+0 as long as a creature has died this turn.
 	flavor_text: <i-flavor>If you aren’t a demon or a devil, then you might as well be dead.</i-flavor>
 	power: 1
 	toughness: 1
@@ -1269,17 +1267,10 @@ card:
 	copyright_2: 
 	copyright_3: 
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 10
-		chop_bottom: 10
-		other_options: auto nyx crowns
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes: https://www.artstation.wswcom/artwork/8lrOVx
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-14 14:25:45
+	time_modified: 2025-03-31 17:20:40
 	name: Phylactery Crafter
 	casting_cost: 2B
 	image: image130
@@ -1291,7 +1282,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Phylactery Crafter</nospellcheck></atom-cardname> enters, create a 2/2 white Zombie creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>,<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		When this creature enters, create a 2/2 white Zombie creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -1334,7 +1325,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/82mxx
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-07-25 01:32:45
+	time_modified: 2025-03-31 16:58:50
 	card_color: black
 	name: Abyssal Smoke
 	casting_cost: 4B
@@ -1347,7 +1338,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Abyssal Smoke</nospellcheck></atom-cardname> enters, you may sacrifice a land. If you do, draw a card and lose 1 life.
+		When this creature enters, you may sacrifice a land. If you do, draw a card and lose 1 life.
 	flavor_text: <i-flavor><error-spelling:en_US>Morideus’s</error-spelling:en_US> reach is far and heavy. His servants seeping into the very cracks of the earth below.</i-flavor>
 	power: 4
 	toughness: 3
@@ -1362,7 +1353,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/sandara/art/dark-dragon-442639109
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-16 23:05:49
+	time_modified: 2025-03-31 17:04:04
 	card_color: black
 	name: Bloodthirsty Dragon
 	casting_cost: 5B
@@ -1376,7 +1367,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Spectacle <param-cost><sym-auto>2BB</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Bloodthirsty Dragon</nospellcheck></atom-cardname> enters, each opponent loses 2 life and you gain 2 life.
+		When this creature enters, each opponent loses 2 life and you gain 2 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -1417,7 +1408,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/DAEVYe
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-16 19:33:33
+	time_modified: 2025-03-31 17:20:28
 	card_color: black
 	name: Moon Renegade
 	casting_cost: 4B
@@ -1428,7 +1419,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Assassin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: At the beginning of your combat step, you may sacrifice a creature. If you do, <atom-cardname><nospellcheck>Moon Renegade</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	rule_text: At the beginning of your combat step, you may sacrifice another creature. If you do, this creature gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>“I don’t need your “friendship” to slay demons. I just need a little blood and my wit.”</i-flavor>
 	power: 6
 	toughness: 4
@@ -1469,7 +1460,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/3qwx5D
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-03 03:10:15
+	time_modified: 2025-03-11 02:38:12
 	card_color: black
 	name: Ichorsplosion
 	casting_cost: B
@@ -1481,7 +1472,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		As an additional cost to cast <atom-cardname><nospellcheck>Ichorsplosion</nospellcheck></atom-cardname>, exile two instant or sorcery cards from your graveyard or pay <sym-auto>2</sym-auto>.
+		As an additional cost to cast this spell, exile two instant or sorcery cards from your graveyard or pay <sym-auto>2</sym-auto>.
 		Destroy target creature.
 	flavor_text:
 		<i-flavor>“Great. First he was annoying, now he’s all over the walls.”<soft-line>
@@ -1501,6 +1492,7 @@ card:
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	notes: https://www.deviantart.com/nerva1/art/Ancient-horror-the-Offering-821301089
 	time_created: 2021-09-19 08:23:59
@@ -1561,7 +1553,7 @@ card:
 		https://www.deviantart.com/anatofinnstark/art/Pestilence-s-Knight-844470524
 		Surveil 1.
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-02-09 14:31:51
+	time_modified: 2025-03-31 17:39:09
 	card_color: black
 	name: Rotten Insight
 	casting_cost: B
@@ -1578,7 +1570,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Target player reveals their hand and discards a creature or planeswalker card.
-		<sym-auto>1B</sym-auto>, Exile <atom-cardname><nospellcheck>Rotten Insight</nospellcheck></atom-cardname> from your graveyard: Create a 2/2 white Zombie creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>1B</sym-auto>, Exile this card from your graveyard: Create a 2/2 white Zombie creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -1647,7 +1639,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/elemont/art/Undead-Commander-862297399
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2023-09-05 01:26:45
+	time_modified: 2025-03-31 17:51:48
 	card_color: red
 	name: Bone Brigade
 	casting_cost: R
@@ -1660,7 +1652,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>Bone Brigade</nospellcheck></atom-cardname> dies, it deals 1 damage to any target.
+		When this creature dies, it deals 1 damage to any target.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -1758,7 +1750,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/B2KWl
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-03-24 13:35:47
+	time_modified: 2025-03-31 17:51:28
 	card_color: red
 	name: Bloodclot Traveler
 	casting_cost: 3RR
@@ -1769,7 +1761,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Bloodclot Traveler</nospellcheck></atom-cardname> enters, return up to one target instant or sorcery spell from your graveyard to your hand.
+	rule_text: When this creature enters, return up to one target instant or sorcery spell from your graveyard to your hand.
 	flavor_text: <i-flavor>All who lays eyes upon it will one day join its mass.</i-flavor>
 	power: 3
 	toughness: 3
@@ -1784,7 +1776,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/rqd1m
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-06-08 17:17:27
+	time_modified: 2025-03-31 17:46:11
 	card_color: red
 	name: Bloodbag Slaughterer
 	casting_cost: 2RR
@@ -1797,7 +1789,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Bloodbag Slaughterer</nospellcheck></atom-cardname> deals combat damage to a player, that player loses 3 life unless they discard a card.
+		Whenever this creature deals combat damage to a player, that player loses 3 life unless they discard a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
@@ -1812,7 +1804,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/anatofinnstark/art/Priestess-of-the-black-root-800086188
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-07-21 21:50:18
+	time_modified: 2025-03-31 16:58:59
 	name: Aloof Ichormancer
 	casting_cost: 2B
 	image: image93
@@ -1824,7 +1816,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		Whenever you cast noncreature spell, <atom-cardname><nospellcheck>Aloof Ichormancer</nospellcheck></atom-cardname> deals 1 damage to target player.
+		Whenever you cast a noncreature spell, this creature deals 1 damage to target player.
 	flavor_text: <i-flavor>“I’m surprised to find something alive all the way out here. Would you care to sit down for a drink?”</i-flavor>
 	power: 2
 	toughness: 2
@@ -1839,7 +1831,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/33A4J
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-26 16:28:45
+	time_modified: 2025-03-31 18:16:22
 	card_color: red
 	name: Skittering Demon
 	casting_cost: 3R
@@ -1853,7 +1845,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Pact</key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Skittering Demon</nospellcheck></atom-cardname> has +1/+0 for each <kw-0><nospellcheck><key>pact</key></nospellcheck></kw-0> counter among creatures you control.
+		This creature has +1/+0 for each <kw-0><nospellcheck><key>pact</key></nospellcheck></kw-0> counter among creatures you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3
@@ -1868,7 +1860,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/joel-lagerwall/art/Skeletons-662711555
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-16 21:16:46
+	time_modified: 2025-03-31 14:52:54
 	name: Salvaged Legionnaire
 	casting_cost: 1W
 	image: image41
@@ -1879,8 +1871,8 @@ card:
 	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Salvaged Legionnaire</nospellcheck></atom-cardname> enters the battlefield, create a tapped 1/1 black Skeleton creature token.
-		<sym-auto>2WW</sym-auto>: Return <atom-cardname><nospellcheck>Salvaged Legionnaire</nospellcheck></atom-cardname> from your graveyard to the battlefield tapped.
+		When this creature enters, create a tapped 1/1 black Skeleton creature token.
+		<sym-auto>2WW</sym-auto>: Return this creature from your graveyard to the battlefield tapped.
 	flavor_text:
 		<i-flavor>“Reassemble the army.”<soft-line>
 		—<error-spelling:en_US>Fides</error-spelling:en_US>, Vampire Commander</soft-line></i-flavor>
@@ -1951,7 +1943,7 @@ card:
 	has_styling: false
 	notes: https://www.instagram.com/digitalrowye/?hl=en
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-03 02:05:09
+	time_modified: 2025-03-31 18:16:35
 	card_color: red
 	name: Vampire Hemoblade
 	casting_cost: 1R
@@ -1964,7 +1956,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever you discard one or more cards, put that many +1/+1 counters on <atom-cardname><nospellcheck>Vampire Hemoblade</nospellcheck></atom-cardname>.
+		Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
 	flavor_text: <i-flavor>FT</i-flavor>
 	power: 2
 	toughness: 1
@@ -2061,7 +2053,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/Yevb3
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-26 16:28:32
+	time_modified: 2025-03-31 17:44:54
 	card_color: red
 	name: Bemused Gorger
 	casting_cost: 3R
@@ -2072,7 +2064,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Devil</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Bemused Gorger</nospellcheck></atom-cardname> enters, create a 1/1 black Skeleton creature token. That token gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	rule_text: When this creature enters, create a 1/1 black Skeleton creature token. That token gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	flavor_text:
 		<i-flavor>“Ugh, now the hills are throwing up bones on visitors. I swear this place gets worse each time I visit.”<soft-line>
 		</soft-line>— <error-spelling:en_US>Davriel</error-spelling:en_US>, <error-spelling:en_US>Pactmaker</error-spelling:en_US> of <error-spelling:en_US>Hwel</i-flavor></error-spelling:en_US>
@@ -2123,7 +2115,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/astri-lohne/art/Warcraft-3-Reforged-Key-Art-860626801
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2023-09-05 01:40:12
+	time_modified: 2025-03-31 18:57:34
 	card_color: green
 	name: Valley Lurker
 	casting_cost: 1G
@@ -2136,7 +2128,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>Valley Lurker</nospellcheck></atom-cardname> dies, put a +1/+1 counter on up to one target creature.
+		When this creature dies, put a +1/+1 counter on up to one target creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -2206,7 +2198,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/morkardfc/art/Feral-Offspring-833494475
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-07-31 20:18:57
+	time_modified: 2025-03-31 18:56:42
 	card_color: green
 	name: Skittering Host
 	casting_cost: G
@@ -2219,7 +2211,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		<sym-auto>2G</sym-auto>, Exile <atom-cardname><nospellcheck>Skittering Host</nospellcheck></atom-cardname> from your graveyard: Create a tapped 2/1 green Spider creature token with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
+		<sym-auto>2G</sym-auto>, Exile this card from your graveyard: Create a tapped 2/1 green Spider creature token with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor><error-spelling:en_US>Mirumea</error-spelling:en_US> may have lost control of the feeding ground it once had, but its brood still infests the woodlands till this day.</i-flavor>
 	power: 1
 	toughness: 1
@@ -2234,7 +2226,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/konutko/art/Viral-Scavenger-Adoptable-682295734
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-20 23:22:35
+	time_modified: 2025-03-31 18:56:47
 	card_color: green
 	name: Skittering Skullsifter
 	casting_cost: 3G
@@ -2247,7 +2239,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Skittering Skullsifter</nospellcheck></atom-cardname> dies, create a 2/1 green Spider creature token with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
+		When this creature dies, create a 2/1 green Spider creature token with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Mirumea</error-spelling:en_US>, mother. The false brood do not respect the natural order. They lack discipline, respect, fear.”</i-flavor>
 	power: 5
 	toughness: 2
@@ -2261,15 +2253,16 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 8
-		chop_bottom: 10
+		chop_top: 7
+		chop_bottom: 9
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	notes: https://www.deviantart.com/geniusfetus/art/Treeture-948365571
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-03 03:49:28
+	time_modified: 2025-03-31 18:57:00
 	card_color: green
 	name: Splintering Growth
 	casting_cost: 1G
@@ -2282,7 +2275,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Splintering Growth</nospellcheck></atom-cardname> attacks, it gets +2/+0 until end of turn.
+		Whenever this creature attacks, it gets +2/+0 until end of turn.
 	flavor_text: <i-flavor>Beware the bristling wood, the splintering trunk. Every cracked branch relishes the opportunity to crack bones.</i-flavor>
 	power: 2
 	toughness: 2
@@ -2296,17 +2289,19 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 5
-		chop_bottom: 10
+		chop_top: 7
+		chop_bottom: 7
+		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	notes:
 		https://www.deviantart.com/kipine/art/Conqueror-572608045
 		
 		5/4 if the format is hostile for  this guy
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-13 16:04:59
+	time_modified: 2025-03-31 18:55:34
 	card_color: green
 	name: Ferocious Maneater
 	casting_cost: 4G
@@ -2319,7 +2314,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Spectacle <param-cost><sym-auto>3G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)</i-auto></atom-reminder-expert></kw-A>
-		<atom-cardname><nospellcheck>Ferocious Maneater</nospellcheck></atom-cardname> can’t be blocked by creatures with power 2 or less.
+		This creature can’t be blocked by creatures with power 2 or less.
 	flavor_text: <i-flavor>While some predators may settle for a corpse, a true apex will stand toe to toe with vampires or worse just to get a chance at fresh meat.</i-flavor>
 	power: 5
 	toughness: 4
@@ -2420,7 +2415,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/chrisnazgul/art/Moon-913096517
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-03 04:04:06
+	time_modified: 2025-03-31 18:56:04
 	card_color: green
 	name: Midnight Stalker
 	casting_cost: 3GG
@@ -2434,7 +2429,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
-		<atom-cardname><nospellcheck>Midnight Stalker</nospellcheck></atom-cardname> must be blocked each turn if able.
+		This creature must be blocked each turn if able.
 	flavor_text: <i-flavor>“I’m not known for my gentle appetite.”</i-flavor>
 	power: 4
 	toughness: 3
@@ -2449,7 +2444,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/herckeim/art/Deathclaw-889252243
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-14 14:21:45
+	time_modified: 2025-03-31 18:56:14
 	card_color: green
 	name: Quarter Crasher
 	casting_cost: 3G
@@ -2462,7 +2457,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Spectacle <param-cost><sym-auto>2G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-cardname><nospellcheck>Quarter Crasher</nospellcheck></atom-cardname> enters, draw a card.
+		When this creature enters, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
@@ -2539,7 +2534,7 @@ card:
 		“Say what you will about Silfidiae, he knows what he wants and how to get it unlike you.”
 		— Undue to Osavotus.
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-27 23:59:14
+	time_modified: 2025-03-11 01:27:07
 	card_color: green
 	name: Disturb the Undergrowth
 	casting_cost: 2G
@@ -2547,7 +2542,7 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
@@ -2566,7 +2561,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/WK9d2N
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-03-24 13:42:52
+	time_modified: 2025-03-31 18:56:54
 	card_color: green
 	name: Smeltingtree
 	casting_cost: 2G
@@ -2579,7 +2574,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Smeltingtree</nospellcheck></atom-cardname> enters, destroy up to one target artifact or enchantment.
+		When this creature enters, destroy up to one target artifact or enchantment.
 	flavor_text: <i-flavor>When civilization crumbled, some beings took it upon themselves to speed up the process.</i-flavor>
 	power: 1
 	toughness: 4
@@ -2618,13 +2613,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 10
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes: https://www.deviantart.com/istrandar/art/Lurker-888298687
 	time_created: 2021-09-19 08:23:59
 	time_modified: 2025-01-16 14:32:44
@@ -2683,7 +2672,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/richardlayart/art/Ausmantyon-the-Unbreakable-857787611
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-07-23 01:55:51
+	time_modified: 2025-03-31 15:36:27
 	card_color: blue
 	name: Bone Collector
 	casting_cost: U
@@ -2695,8 +2684,8 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Bone Collector</nospellcheck></atom-cardname> must attack each combat if able.
-		Whenever <atom-cardname><nospellcheck>Bone Collector</nospellcheck></atom-cardname> attacks, each player draws a card.
+		This creature must attack each combat if able.
+		Whenever this creature attacks, each player draws a card.
 	flavor_text: <i-flavor>One’s calling in life can lead to an obsession in death.</i-flavor>
 	power: 2
 	toughness: 2
@@ -2718,7 +2707,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/cobaltplasma/art/Titanslayer-625300286
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-22 14:32:11
+	time_modified: 2025-03-12 17:47:40
 	card_color: green
 	name: Bloodroot Demon
 	casting_cost: 2GG
@@ -2730,7 +2719,7 @@ card:
 	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		As an additional cost to cast <atom-cardname><nospellcheck>Bloodroot Demon</nospellcheck></atom-cardname>, exile two creature cards or a land card from your graveyard.
+		As an additional cost to cast this spell, exile two creature cards and/or land cards from your graveyard.
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor><error-spelling:en_US>Silfidiae</error-spelling:en_US> prefers to create his own servants, powerful visages of despair gnarled from the ground beneath.</i-flavor>
 	power: 5
@@ -2746,7 +2735,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/kotnonekot/art/TwistedConsecration-541312543
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-12 18:18:42
+	time_modified: 2025-03-31 16:40:20
 	card_color: blue
 	name: Lich’s Assembly
 	casting_cost: 1U
@@ -2760,7 +2749,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Pact</key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever a creature you control with a <kw-0><nospellcheck><key>pact</key></nospellcheck></kw-0> counter on it dies, draw a card.
-		<sym-auto>U</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Lich’s Assembly</nospellcheck></atom-cardname>: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>. Then draw a card.
+		<sym-auto>U</sym-auto>, Sacrifice this enchantment: <kw-0><nospellcheck><key>Surveil <param-number>3</param-number></key></nospellcheck></kw-0>. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
@@ -2774,15 +2763,16 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 8
-		chop_bottom: 7
+		chop_top: 9
+		chop_bottom: 8
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	notes: https://www.deviantart.com/joel-lagerwall/art/Sargeras-498842462
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-01-30 15:54:08
+	time_modified: 2025-03-31 17:52:03
 	card_color: red
 	name: Capricious Count
 	casting_cost: 1R
@@ -2795,7 +2785,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Capricious Count</nospellcheck></atom-cardname> deals combat damage to a player, you may discard a card. If you do, draw a card.
+		Whenever this creature deals combat damage to a player, you may discard a card. If you do, draw a card.
 	flavor_text: <i-flavor>Not all the vampires of Castle <error-spelling:en_US>Salus</error-spelling:en_US> fear the demons, consorting under the cover of darkness and playing to their own whims.</i-flavor>
 	power: 2
 	toughness: 1
@@ -2938,7 +2928,7 @@ card:
 		https://www.deviantart.com/000fesbra000/art/Surtur-The-Last-Flight-824799845
 		too good? red flag. Playtest
 	time_created: 2021-10-05 03:02:08
-	time_modified: 2024-07-15 21:19:39
+	time_modified: 2025-03-31 17:53:54
 	name: Ignition Devil
 	casting_cost: R
 	image: image27
@@ -2950,8 +2940,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
-		<atom-cardname><nospellcheck>Ignition Devil</nospellcheck></atom-cardname> can’t block.
-		<sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Ignition Devil</nospellcheck></atom-cardname>: Another target creature you control gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		This creature can’t block.
+		<sym-auto>1</sym-auto>, Sacrifice this creature: Another target creature you control gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -3021,7 +3011,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/w8Kbg
 	time_created: 2022-04-10 01:42:57
-	time_modified: 2025-02-12 19:52:38
+	time_modified: 2025-03-11 00:47:48
 	card_color: black
 	name: Forlorn Scouring
 	casting_cost: 2BB
@@ -3032,7 +3022,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Then, you may pay 2 life. If you do, put a card milled this way into your hand. Repeat this process three more times.
+	rule_text: You mill half your library, rounded up. Then you may put a card in your graveyard on top of your library.
 	flavor_text: <i-flavor>It’s easy enough if you don’t care where the parts come from or where they go.</i-flavor>
 	power: 
 	toughness: 
@@ -3112,7 +3102,7 @@ card:
 		https://www.artstation.com/artwork/lRDP3e
 		“I promise your death will not be in vain.”
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-07-05 20:58:03
+	time_modified: 2025-03-22 16:06:57
 	card_color: white
 	name: Desperate Sealing
 	casting_cost: W
@@ -3124,8 +3114,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		As an additional cost to cast <atom-cardname><nospellcheck>Desperate Sealing</nospellcheck></atom-cardname>, sacrifice a creature.
-		When <atom-cardname><nospellcheck>Desperate Sealing</nospellcheck></atom-cardname> enters, exile target nonland permanent an opponent controls until <atom-cardname><nospellcheck>Desperate Sealing</nospellcheck></atom-cardname> leaves the battlefield.
+		As an additional cost to cast this spell, sacrifice a creature.
+		When this enchantment enters, exile another target nonland permanent an opponent controls until this enchantment leaves the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Alina Grim
 	card_code_text: 
@@ -3164,7 +3154,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2023-09-05 01:35:56
+	time_modified: 2025-03-31 17:41:24
 	card_color: red
 	name: Ashen Crasher
 	casting_cost: 3RR
@@ -3178,7 +3168,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		Sacrifice <atom-cardname><nospellcheck>Ashen Crasher</nospellcheck></atom-cardname>: Add <sym-auto>RRR</sym-auto>. You don’t lose this mana as steps and phases end this turn.
+		Sacrifice this creature: Add <sym-auto>RRR</sym-auto>. You don’t lose this mana as steps and phases end this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 3
@@ -3226,7 +3216,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/honjee/art/Arise-885785761
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2024-11-19 20:59:24
+	time_modified: 2025-03-11 02:38:44
 	card_color: white
 	name: Secure Mortality
 	casting_cost: 1WW
@@ -3238,7 +3228,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		As an additional cost to cast <atom-cardname><nospellcheck>Secure Mortality</nospellcheck></atom-cardname>, tap two untapped creatures you control.
+		As an additional cost to cast this spell, tap two untapped creatures you control.
 		Return target creature card from your graveyard to the battlefield tapped.
 	flavor_text: <i-flavor>All it takes to change selfishness to selflessness is some perspective.</i-flavor>
 	illustrator: Honjee
@@ -3258,7 +3248,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/8wz2Dw
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2025-01-28 00:02:55
+	time_modified: 2025-03-31 19:00:11
 	name: Thickets Ghostcaller
 	casting_cost: GW
 	image: image18
@@ -3275,7 +3265,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
 		At the beginning of your end step, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
-		<sym-auto>GW</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Thickets Ghostcaller</nospellcheck></atom-cardname>: Return target creature card with mana value less than or equal to the number of lands you control from your graveyard to the battlefield. Activate only as a sorcery.
+		<sym-auto>GW</sym-auto>, Sacrifice this creature: Return target creature card with mana value less than or equal to the number of lands you control from your graveyard to the battlefield. Activate only as a sorcery.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -3294,7 +3284,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/chaoyuanxu/art/The-Skeleton-Lord-268393539
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2025-02-07 00:19:10
+	time_modified: 2025-03-31 18:59:49
 	card_color: white, red, multicolor, horizontal
 	name: Skullspeaker
 	casting_cost: RW
@@ -3307,7 +3297,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		Whenever another creature you control dies, <atom-cardname><nospellcheck>Skullspeaker</nospellcheck></atom-cardname> deals 1 damage to target player.
+		Whenever another creature you control dies, this creature deals 1 damage to target player.
 	flavor_text: <i-flavor>“I do believe you owe me a set of innards.”</i-flavor>
 	watermark: none
 	power: 1
@@ -3347,7 +3337,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/zAPZ5L
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2025-02-11 20:30:26
+	time_modified: 2025-03-31 15:40:26
 	card_color: blue
 	name: Icicle Crasher
 	casting_cost: UU
@@ -3360,7 +3350,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever this creature attacks, return another permanent you control to its owners hand.
+		Whenever this creature attacks, return another permanent you control to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -3601,7 +3591,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/PkDw1
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2024-03-24 13:33:23
+	time_modified: 2025-03-31 17:04:37
 	card_color: black
 	name: Demonic Butcher
 	casting_cost: 2BB
@@ -3614,7 +3604,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>Demonic Butcher</nospellcheck></atom-cardname> enters, each player sacrifices a creature.
+		When this creature enters, each player sacrifices a creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 1
@@ -3755,7 +3745,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/rJvgL
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2024-09-04 20:10:17
+	time_modified: 2025-03-31 16:14:42
 	name: Deerstalker
 	casting_cost: RG
 	image: image69
@@ -3772,7 +3762,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<sym-auto>1R/G</sym-auto>: <atom-cardname><nospellcheck>Deerstalker</nospellcheck></atom-cardname> gets +1/+1 until end of turn.
+		<sym-auto>1R/G</sym-auto>: This creature gets +1/+1 until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -3791,7 +3781,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/mqgZY
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2024-07-31 18:15:38
+	time_modified: 2025-03-31 17:53:41
 	card_color: red
 	name: Eternal Slayer
 	casting_cost: 2R
@@ -3804,8 +3794,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Eternal Slayer</nospellcheck></atom-cardname> can’t block.
-		<sym-auto>2RR</sym-auto>: Return <atom-cardname><nospellcheck>Eternal Slayer</nospellcheck></atom-cardname> from your graveyard to the battlefield.
+		This creature can’t block.
+		<sym-auto>2RR</sym-auto>: Return this card from your graveyard to the battlefield.
 	flavor_text: <i-flavor>Forever cursed to battle for its fickle master.</i-flavor>
 	power: 2
 	toughness: 2
@@ -3853,7 +3843,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/KOzoX9
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2024-07-31 20:07:47
+	time_modified: 2025-03-31 18:28:55
 	card_color: red
 	name: Zeramander’s Infiltrator
 	casting_cost: R
@@ -3866,7 +3856,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<sym-auto>R</sym-auto>, Exile <atom-cardname><nospellcheck>Zeramander’s Infiltrator</nospellcheck></atom-cardname> from your graveyard: Target creature can’t block this turn.
+		<sym-auto>R</sym-auto>, Exile this card from your graveyard: Target creature can’t block this turn.
 	flavor_text: <i-flavor>It’s less about who you kill, that’s just murder. The goal is to leave a lasting impression.</i-flavor>
 	power: 1
 	toughness: 1
@@ -3962,7 +3952,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/baBPxm
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2025-02-08 18:04:35
+	time_modified: 2025-03-31 18:53:46
 	card_color: green
 	name: Composting Hellion
 	casting_cost: 1G
@@ -3975,7 +3965,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
-		At the beginning of combat on your turn, you may discard a card or sacrifice another permanent you control. If you do, put a +1/+1 counter on <atom-cardname><nospellcheck>Composting Hellion</nospellcheck></atom-cardname>.
+		At the beginning of combat on your turn, you may discard a card or sacrifice another permanent you control. If you do, put a +1/+1 counter on this creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -3990,14 +3980,15 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 7
-		chop_bottom: 9
+		chop_bottom: 7
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
 		overlay: 
 	notes: https://www.artstation.com/artwork/1nOV2
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2025-02-04 20:30:09
+	time_modified: 2025-03-31 18:57:06
 	card_color: green
 	name: Stranded Hatchling
 	casting_cost: 1G
@@ -4008,7 +3999,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Kraken</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Stranded Hatchling</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+	rule_text: When this creature enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>For most wildlife, these are desperate times, being born into an unforgiving world and searching for safety in the quietest corner they can find, hoping to be left alone.</i-flavor>
 	power: 1
 	toughness: 3
@@ -4030,7 +4021,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/davesrightmind/art/Spider-demont-435313507
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2025-01-22 14:36:25
+	time_modified: 2025-03-31 18:55:23
 	card_color: green
 	name: Eafems’ Brood
 	casting_cost: 4GG
@@ -4043,7 +4034,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Eafems’ Brood</nospellcheck></atom-cardname> can only be blocked by one creature each combat.
+		This creature can only be blocked by one creature each combat.
 		<sym-auto>1G</sym-auto>: Spiders you control get +1/+0 until end of turn.
 	flavor_text: <i-flavor><error-spelling:en_US>Eafem</error-spelling:en_US> is left alone by the large <error-spelling:en_US>Demonlord</error-spelling:en_US>, her spawn too convenient in protecting his territory.</i-flavor>
 	power: 4
@@ -4095,7 +4086,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/jamesbousema/art/Spectre-Vampyr-759102483
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2025-02-23 18:21:13
+	time_modified: 2025-03-31 18:58:01
 	name: Disembodied Lich
 	casting_cost: 1UR
 	image: image99
@@ -4112,7 +4103,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
 		Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.
-		<sym-auto>1UR</sym-auto>, Exile four other cards from your graveyard: Return <atom-cardname><nospellcheck>Disembodied Lich</nospellcheck></atom-cardname> from your graveyard to the battlefield tapped.
+		<sym-auto>1UR</sym-auto>, Exile four other cards from your graveyard: Return this card from your graveyard to the battlefield tapped.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -4168,7 +4159,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/naznamy/art/Temur-Offering-508272356
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2023-09-13 23:56:27
+	time_modified: 2025-03-11 02:39:08
 	card_color: black
 	name: Widespread Cataclysm
 	casting_cost: B
@@ -4180,7 +4171,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		As an additional cost to cast <atom-cardname><nospellcheck>Widespread Cataclysm</nospellcheck></atom-cardname>, sacrifice a creature.
+		As an additional cost to cast this spell, sacrifice a creature.
 		<margin:0:0:5>Choose two —</margin:0:0:5>
 		<li><bullet>• </bullet>Target player sacrifices a creature.
 		</li><li><bullet>• </bullet>Target player discards a card.
@@ -4227,7 +4218,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/davesrightmind/art/Songbird-363159215
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2023-09-05 01:29:00
+	time_modified: 2025-03-11 02:39:36
 	card_color: red
 	name: Overwhelming Consumption
 	casting_cost: R
@@ -4239,7 +4230,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		As an additional cost to cast <atom-cardname><nospellcheck>Overwhelming Consumption</nospellcheck></atom-cardname>, sacrifice a creature.
+		As an additional cost to cast this spell, sacrifice a creature.
 		Exile the top two cards of your library. You may play those cards until the end of your next turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Davesrightmind
@@ -4265,7 +4256,7 @@ card:
 		
 		Demonic whispers of the true king, a force beyond their reckoning, will surface. Whispers are but all they are.
 	time_created: 2022-05-11 14:43:03
-	time_modified: 2025-03-18 14:42:31
+	time_modified: 2025-03-13 14:00:38
 	card_color: blue
 	name: Demonlord Orbisfaber
 	casting_cost: 5UU
@@ -4277,7 +4268,7 @@ card:
 	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		As an additional cost to cast this spell, discard your hand. When you do, if it isn’t an extra turn, take an extra turn after this one.
+		As an additional cost to cast this spell, discard your hand. When you do, take an extra turn after this one.
 		<atom-cardname><nospellcheck>Demonlord Orbisfaber</nospellcheck></atom-cardname> can’t be blocked except by three or more creatures.
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
@@ -4299,7 +4290,7 @@ card:
 		
 		Weird value piece
 	time_created: 2022-05-11 14:43:03
-	time_modified: 2025-01-15 16:13:01
+	time_modified: 2025-03-31 16:45:57
 	card_color: blue
 	name: Osavotus, Contract Dealer
 	casting_cost: 4UU
@@ -4312,8 +4303,8 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Osavotus, Contract Dealer</nospellcheck></atom-cardname> attacks, draw three cards.
-		At the beginning of your end step, sacrifice <atom-cardname><nospellcheck>Osavotus, Contract Dealer</nospellcheck></atom-cardname> unless you exile three cards from your graveyard.
+		Whenever <atom-legname><nospellcheck>Osavotus</nospellcheck></atom-legname> attacks, draw three cards.
+		At the beginning of your end step, sacrifice <atom-legname><nospellcheck>Osavotus</nospellcheck></atom-legname> unless you exile three cards from your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 6
@@ -4363,7 +4354,7 @@ card:
 		
 		Aggro topend/midrange value piece
 	time_created: 2022-05-11 14:43:03
-	time_modified: 2025-03-18 14:43:43
+	time_modified: 2025-03-13 14:05:24
 	card_color: red
 	name: Demonlord Zeramander
 	casting_cost: 2RR
@@ -4375,7 +4366,7 @@ card:
 	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		As an additional cost to cast this spell, sacrifice two lands. When you do, draw two cards. You may have <atom-cardname><nospellcheck>Demonlord Zeramander</nospellcheck></atom-cardname> deal 2 damage to each other creature.
+		As an additional cost to cast this spell, sacrifice two lands. When you do, draw two cards. You may have <atom-cardname><nospellcheck>Demonlord Zeramander</nospellcheck></atom-cardname> deal 2 damage to each creature.
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
@@ -4425,12 +4416,9 @@ card:
 	copyright_3: 
 card:
 	has_styling: false
-	notes:
-		https://www.deviantart.com/vulpes-ibculta/art/Enemy-707906990
-		
-		Combo/Mill
+	notes: https://www.deviantart.com/vulpes-ibculta/art/Enemy-707906990
 	time_created: 2022-05-11 14:43:03
-	time_modified: 2025-03-18 14:43:28
+	time_modified: 2025-03-13 14:05:45
 	card_color: green
 	name: Demonlord Silfidiae
 	casting_cost: 3GG
@@ -4443,10 +4431,10 @@ card:
 	rarity: mythic rare
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a creature. When you do, search your library for up to two land cards and put them onto the battlefield tapped. Then shuffle.
-		<atom-cardname><nospellcheck>Demonlord Silfidiae</nospellcheck></atom-cardname> can’t be blocked by creatures with power 2 or less.
+		<atom-legname><nospellcheck>Demonlord Silfidiae</nospellcheck></atom-legname> can’t be blocked by creatures with power 2 or less.
 	flavor_text: <i-flavor></i-flavor>
-	power: 8
-	toughness: 8
+	power: 7
+	toughness: 7
 	illustrator: Vulpes-Ibculta
 	card_code_text: 
 	card_code_text_2: 
@@ -4546,7 +4534,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/AqG4ry
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2024-03-24 13:28:45
+	time_modified: 2025-03-31 15:29:14
 	card_color: white
 	name: Watchdog Liches
 	casting_cost: 1WW
@@ -4558,8 +4546,8 @@ card:
 	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Watchdog Liches</nospellcheck></atom-cardname> enters, if it was cast, create two token copies of it.
-		<atom-cardname><nospellcheck>Watchdog Liches</nospellcheck></atom-cardname> gets +2/+2 as long as you control no other creatures named <atom-cardname><nospellcheck>Watchdog Liches</nospellcheck></atom-cardname>.
+		When this creature enters, if you cast it, create two tokens that are copies of it.
+		This creature gets +2/+2 as long as you control no other creatures named <atom-cardname><nospellcheck>Watchdog Liches</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -4629,8 +4617,8 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 5
-		chop_bottom: 6
+		chop_top: 8
+		chop_bottom: 8
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -4671,9 +4659,9 @@ card:
 	copyright_3: 
 card:
 	has_styling: false
-	notes: 
+	notes: https://www.deviantart.com/angelina1970/art/--926681269
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2024-07-10 22:05:11
+	time_modified: 2025-03-31 16:46:32
 	card_color: blue
 	name: Rotting Leviathan
 	casting_cost: 2UU
@@ -4685,8 +4673,8 @@ card:
 	sub_type: <word-list-race-en>Leviathan</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Skeleton</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Rotting Leviathan</nospellcheck></atom-cardname> enters, draw three cards.
-		When <atom-cardname><nospellcheck>Rotting Leviathan</nospellcheck></atom-cardname> leaves the battlefield, discard three cards.
+		When this creature enters, draw three cards.
+		When this creature leaves the battlefield, discard three cards.
 	flavor_text: <i-flavor>The rotting corpse of a whale can feed an entire ecosystem... or kill it.</i-flavor>
 	power: 2
 	toughness: 4
@@ -4698,7 +4686,15 @@ card:
 	copyright_2: 
 	copyright_3: 
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
 	notes:
 		https://www.deviantart.com/kashivan/art/Weather-Man-433983043
 		
@@ -4733,7 +4729,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/suomar/art/Lady-Deathwhisper-692537387
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2024-01-12 13:53:47
+	time_modified: 2025-03-31 16:21:23
 	card_color: blue
 	name: Hibernating Dragon
 	casting_cost: 1U
@@ -4746,7 +4742,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Hibernating Dragon</nospellcheck></atom-cardname> can’t attack or block unless there are eight or more cards in your graveyard.
+		This creature can’t attack or block unless there are eight or more cards in your graveyard.
 		At the beginning of your end step, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
@@ -4765,10 +4761,10 @@ card:
 		
 		Add 1 cost if much
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2025-01-30 14:16:41
+	time_modified: 2025-03-31 15:40:38
 	card_color: blue
 	name: Orbisfaber’s Influence
-	casting_cost: 3UU
+	casting_cost: 4UU
 	image: image228
 	image_2: 
 	mainframe_image: 
@@ -4778,7 +4774,7 @@ card:
 	rarity: rare
 	rule_text:
 		Choose one or both —
-		<li><bullet>• </bullet>Return all creatures to their owners hand.
+		<li><bullet>• </bullet>Return all creatures to their owner’s hand.
 		</li><li><bullet>• </bullet>Each player may put a permanent card from their hand onto the battlefield.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: wanbao
@@ -4838,7 +4834,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/istrandar/art/Undying-predator-870228112
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2025-02-13 05:07:33
+	time_modified: 2025-02-25 19:09:07
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: Dodo Axolotl
@@ -4854,7 +4850,6 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-1><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-1>
-		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		When this creature dies, draw a card unless an opponent discards a card or pays 2 life.
 	flavor_text: <i-flavor>Without <error-spelling:en_US>Donum</error-spelling:en_US>-<error-spelling:en_US>Dei’s</error-spelling:en_US> sustenance, most vampires devolve into husks of their former selves.</i-flavor>
 	power: 2
@@ -4905,7 +4900,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/anottherspace/art/The-Grell-980583208
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2024-09-02 13:17:05
+	time_modified: 2025-03-31 17:04:19
 	card_color: black
 	name: Cerebral Devilfish
 	casting_cost: XXB
@@ -4918,7 +4913,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Cerebral Devilfish</nospellcheck></atom-cardname> enters, target player discards X cards. Put X +1/+1 counters on <atom-cardname><nospellcheck>Cerebral Devilfish</nospellcheck></atom-cardname>.
+		When this creature enters, target player discards X cards. Put X +1/+1 counters on this creature.
 	flavor_text: <i-flavor>When an eye for an eye isn’t an option, you have to get creative.</i-flavor>
 	power: 1
 	toughness: 1
@@ -4993,7 +4988,7 @@ card:
 		Aggro threat
 		If too good, devil tribal+haste
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2025-02-11 14:24:44
+	time_modified: 2025-03-31 17:51:37
 	card_color: red
 	name: Bloodthirsty Howler
 	casting_cost: 2R
@@ -5006,7 +5001,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		Whenever a player sacrifices a permanent, <atom-cardname><nospellcheck>Bloodthirsty Howler</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+		Whenever a player sacrifices a permanent, this creature deals 1 damage to each opponent.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -5049,7 +5044,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/gXJdZ
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2024-03-24 13:37:36
+	time_modified: 2025-03-31 17:55:47
 	card_color: red
 	name: Invigorating Corpsemancer
 	casting_cost: 1RR
@@ -5060,7 +5055,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Invigorating Corpsemancer</nospellcheck></atom-cardname> enters, exile any number of cards from your graveyard. When you do, <atom-cardname><nospellcheck>Invigorating Corpsemancer</nospellcheck></atom-cardname> deals damage to up to one target creature equal to the number of cards exiled this way.
+	rule_text: When this creature enters, exile any number of cards from your graveyard. When you do, this creature deals damage to up to one target creature equal to the number of cards exiled this way.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
@@ -5148,7 +5143,7 @@ card:
 		
 		Tanglemess hydras continue expanding for life, eventually consuming entire forests and ecosystems.
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2025-02-11 12:17:59
+	time_modified: 2025-03-31 18:55:40
 	name: Gnarled Hydra
 	casting_cost: 1GG
 	image: image156
@@ -5161,7 +5156,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Gnarled Hydra</nospellcheck></atom-cardname> attacks, put a +1/+1 counter on it.
+		Whenever this creature attacks, put a +1/+1 counter on it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -5222,7 +5217,7 @@ card:
 		https://www.deviantart.com/the-hand/art/Kamataian-Death-Colossus-213854717
 		Creature heavy topened combo / midrange value
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2024-08-31 16:16:10
+	time_modified: 2025-03-31 18:37:49
 	card_color: green
 	name: Aggravator of Herds
 	casting_cost: 3GG
@@ -5233,7 +5228,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Aggravator of Herds</nospellcheck></atom-cardname> enters, exile the top five cards of your library. You may cast creature cards exiled this way until the end of your next turn.
+	rule_text: When this creature enters, exile the top five cards of your library. You may cast creature cards exiled this way until the end of your next turn.
 	flavor_text: <i-flavor>Not all demons prefer endless torment. Sometimes, just being the top of the food chain is enough.</i-flavor>
 	power: 5
 	toughness: 5
@@ -5248,7 +5243,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/alaiaorax/art/Storm-and-wonder-880520427
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-09-04 20:06:53
+	time_modified: 2025-03-31 18:56:32
 	card_color: green
 	name: Savage Snapper
 	casting_cost: 2G
@@ -5261,7 +5256,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Savage Snapper</nospellcheck></atom-cardname> can’t be blocked by creatures with power 2 or less.
+		This creature can’t be blocked by creatures with power 2 or less.
 	flavor_text: <i-flavor>Undue took note of the wildlife of the plane. Twisted monsters with exaggerated proportions. The perfect place to perfect his <error-spelling:en_US>marrowed</error-spelling:en_US> masterpieces.</i-flavor>
 	power: 3
 	toughness: 2
@@ -5308,7 +5303,7 @@ card:
 		Bones, runes, and even rubble are more reliable, but nothing is cheaper than someone else’s blood.
 		 FT:Ellardy
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2024-07-25 00:42:32
+	time_modified: 2025-03-31 15:56:33
 	card_color: blue
 	name: Gaping Skimmer
 	casting_cost: 2UU
@@ -5325,7 +5320,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		As an additional cost to cast this spell, discard a card.
-		When <atom-cardname><nospellcheck>Gaping Skimmer</nospellcheck></atom-cardname> enters, return up to one target creature to its owners hand.
+		When this creature enters, return up to one target creature to its owner’s hand.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -5344,7 +5339,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/chriscold/art/Karnaki-309091777
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-11 20:21:55
+	time_modified: 2025-03-31 15:36:35
 	card_color: blue
 	name: Callous Willbreaker
 	casting_cost: 4UU
@@ -5356,8 +5351,8 @@ card:
 	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Callous Willbreaker</nospellcheck></atom-cardname> costs <sym-auto>3</sym-auto> less to cast if a player has eight or more cards in their graveyard.
-		<atom-cardname><nospellcheck>Callous Willbreaker</nospellcheck></atom-cardname> can only be blocked by Demons.
+		This creature costs <sym-auto>3</sym-auto> less to cast if a player has eight or more cards in their graveyard.
+		This creature can only be blocked by Demons.
 	flavor_text: <i-flavor>Even among demons you’ll find individuals with exceptional magical talent.</i-flavor>
 	power: 4
 	toughness: 4
@@ -5465,7 +5460,7 @@ card:
 		
 		Silly topend/reanimation
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2025-02-12 15:40:29
+	time_modified: 2025-03-31 18:57:18
 	card_color: green
 	name: Thicket Taker
 	casting_cost: 5GG
@@ -5482,7 +5477,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Thicket Taker</nospellcheck></atom-cardname> attacks, up to one other target creature you control deals damage equal to its power to target creature you don’t control.
+		Whenever this creature attacks, up to one other target creature you control deals damage equal to its power to target creature you don’t control.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -5501,7 +5496,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/sohlol/art/Dark-Souls-2-Nashandra-Hand-of-the-King-513673222
 	time_created: 2022-05-18 23:38:31
-	time_modified: 2025-01-30 14:17:59
+	time_modified: 2025-03-31 16:58:37
 	name: Twisted Underling
 	casting_cost: 4U
 	image: image162
@@ -5510,7 +5505,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: At the beginning of your end step, put a +1/+1 counter on <atom-cardname><nospellcheck>Twisted Underling</nospellcheck></atom-cardname> if there are eight or more cards in a players graveyard.
+	rule_text: At the beginning of your end step, put a +1/+1 counter on this creature if there are eight or more cards in a players graveyard.
 	flavor_text:
 		<i-flavor>“You’ll find me less patient than your leader. Anything less than obedience isn’t tolerated.”<soft-line>
 		— Undue, Bone Collector</soft-line></i-flavor>
@@ -5527,7 +5522,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/XnQdaY
 	time_created: 2022-05-19 01:49:05
-	time_modified: 2024-10-08 23:53:12
+	time_modified: 2025-03-31 14:43:41
 	name: Retributive Hellknight
 	casting_cost: 4WW
 	image: image120
@@ -5536,7 +5531,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Retributive Hellknight</nospellcheck></atom-cardname> enters, you may have it deal 3 damage to target tapped creature.
+	rule_text: When this creature enters, you may have it deal 3 damage to target tapped creature.
 	flavor_text: <i-flavor>For none shall withstand the ire of a demon.</i-flavor>
 	power: 6
 	toughness: 5
@@ -5554,7 +5549,7 @@ card:
 		
 		Sorcery clause
 	time_created: 2022-05-20 00:58:43
-	time_modified: 2024-03-24 13:37:59
+	time_modified: 2025-03-31 16:07:45
 	name: Unhinged Giant
 	casting_cost: 5R
 	image: image163
@@ -5564,8 +5559,8 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Giant</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		When <atom-cardname><nospellcheck>Unhinged Giant</nospellcheck></atom-cardname> enters, exile the top card of your library. You may play it until the end of your next turn.
-		<sym-auto>1R</sym-auto>, Discard <atom-cardname><nospellcheck>Unhinged Giant</nospellcheck></atom-cardname>: <atom-cardname><nospellcheck>Unhinged Giant</nospellcheck></atom-cardname> deals 2 damage to any target.
+		When this creature enters, exile the top card of your library. You may play it until the end of your next turn.
+		<sym-auto>1R</sym-auto>, Discard this card: It deals 2 damage to any target.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 4
@@ -5580,7 +5575,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/typhonart/art/Hellfire-Crawler-853323880
 	time_created: 2022-05-20 01:10:51
-	time_modified: 2025-01-20 19:29:10
+	time_modified: 2025-03-31 16:05:54
 	name: Skittering Hellflayer
 	casting_cost: 5BB
 	image: image181
@@ -5591,7 +5586,7 @@ card:
 	sub_type: <word-list-race-en>Spider</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		<sym-auto>B</sym-auto>, Discard <atom-cardname><nospellcheck>Skittering Hellflayer</nospellcheck></atom-cardname>: Destroy target creature if it was dealt damage this turn.
+		<sym-auto>B</sym-auto>, Discard this card: Destroy target creature if it was dealt damage this turn.
 	flavor_text: <i-flavor><error-spelling:en_US>Morideus</error-spelling:en_US> commands the largest amount of demons and <error-spelling:en_US>undead</error-spelling:en_US>. A monopolizing presence across the plane.</i-flavor>
 	power: 7
 	toughness: 6
@@ -5603,19 +5598,12 @@ card:
 	copyright_2: 
 	copyright_3: 
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 9
-		other_options: auto nyx crowns
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes:
 		https://www.instagram.com/p/BWMVqTqFTO_/<soft-line>
 		</soft-line>https://www.instagram.com/p/Ba5mKRPFjf1/
 	time_created: 2022-05-20 01:29:17
-	time_modified: 2023-12-20 20:51:46
+	time_modified: 2025-03-31 19:00:42
 	name: Crypt Vessel
 	casting_cost: 3
 	image: image172
@@ -5625,8 +5613,8 @@ card:
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Construct</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		As an additional cost to cast <atom-cardname><nospellcheck>Crypt Vessel</nospellcheck></atom-cardname>, you may exile a card from your graveyard.
-		<soft-line>When <atom-cardname><nospellcheck>Crypt Vessel</nospellcheck></atom-cardname> dies, put a card exiled by it on top of your library.</soft-line>
+		As an additional cost to cast this spell, you may exile a card from your graveyard.
+		<soft-line>When this creature dies, put a card exiled by it on top of your library.</soft-line>
 	flavor_text: <i-flavor>As flesh rots and bones crumble, demonic magic keeps their marionettes ever bound.</i-flavor>
 	power: 4
 	toughness: 1
@@ -5641,7 +5629,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/mD5Qye
 	time_created: 2022-05-21 00:56:43
-	time_modified: 2025-01-20 23:20:37
+	time_modified: 2025-03-31 18:55:52
 	name: Infected Wolf
 	casting_cost: G
 	image: image174
@@ -5653,7 +5641,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Infected Wolf</nospellcheck></atom-cardname> deals combat damage to a player, if it doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.
+		Whenever this creature deals combat damage to a player, if it doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.
 	flavor_text:
 		<i-flavor>“A bit more flesh then I would like, but a marvelous specimen for the collection.”<soft-line>
 		— <error-spelling:en_US>Undue’s</error-spelling:en_US> <error-spelling:en_US>Necromantic</error-spelling:en_US> Journey</soft-line></i-flavor>
@@ -5670,7 +5658,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/ED5Oe
 	time_created: 2022-05-21 22:00:50
-	time_modified: 2024-07-23 01:58:16
+	time_modified: 2025-03-31 19:01:21
 	name: Hellride Juggernaut
 	casting_cost: 4
 	image: image168
@@ -5681,8 +5669,8 @@ card:
 	sub_type: <word-list-race-en>Juggernaut</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<sym-auto>2</sym-auto>: <atom-cardname><nospellcheck>Hellride Juggernaut</nospellcheck></atom-cardname> gets +1/+0 until end of turn.
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hellride</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Juggernaut must attack each combat if able.
+		<sym-auto>2</sym-auto>: This creature gets +1/+0 until end of turn.
+		This creature must attack each combat if able.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 2
@@ -5702,7 +5690,7 @@ card:
 		
 		Change tails mode? Lower power?
 	time_created: 2022-05-21 23:12:06
-	time_modified: 2024-08-30 12:12:51
+	time_modified: 2025-03-31 19:00:32
 	name: Adapted Servant
 	casting_cost: 2
 	image: image169
@@ -5712,7 +5700,7 @@ card:
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Construct</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Adapted Servant</nospellcheck></atom-cardname> enters, flip a coin. If heads, put a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> counter on it and you gain 2 life. If tails, put a <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> counter on it and each opponent loses 2 life.
+	rule_text: When this creature enters, flip a coin. If heads, put a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> counter on it and you gain 2 life. If tails, put a <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> counter on it and each opponent loses 2 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -5763,12 +5751,12 @@ card:
 		
 		Vengeful Sangrablade or Vampiric Paragon
 	time_created: 2022-05-11 14:43:03
-	time_modified: 2025-01-30 14:10:17
+	time_modified: 2025-03-31 15:44:28
 	special_text:
 		The first time an opponent loses life each turn, you gain that much life.
-		[+1]: <margin:130:0:0>Create a 3/1 white Vampire Soldier creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Create a 3/1 white Vampire Soldier creature token with <kw-a><nospellcheck>lifelink</nospellcheck></kw-a>.</margin:130:0:0>
 		[-2]: <margin:130:0:0> Exile target tapped creature.</margin:130:0:0>
-		[-7]: <margin:130:0:0><atom-cardname><nospellcheck>Sorin, Vengeful Sangrablade</nospellcheck></atom-cardname> becomes an X/X legendary Vampire creature with <kw-0><nospellcheck><key>protection from <param-name>everything until end of turn where X is your life total</param-name></key></nospellcheck></kw-0>. <i-auto>(This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything until end of turn)</i-auto></margin:130:0:0>
+		[-7]: <margin:130:0:0><atom-legname><nospellcheck>Sorin</nospellcheck></atom-legname> becomes an X/X legendary Vampire creature with <kw-0><nospellcheck>protection from <param-name>everything until end of turn where X is your life total</param-name></nospellcheck></kw-0>. <i-auto>(This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything until end of turn)</i-auto></margin:130:0:0>
 	name: Sorin, Vengeful Sangrablade
 	casting_cost: 3WW
 	image: image177
@@ -5793,7 +5781,7 @@ card:
 	level_1_text: The first time an opponent loses life each turn, you gain that much life.
 	level_2_text: <margin:130:0:0>Create a 3/1 white Vampire Soldier creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
 	level_3_text: <margin:130:0:0> Exile target tapped creature.</margin:130:0:0>
-	level_4_text: <margin:130:0:0><atom-cardname><nospellcheck>Sorin, Vengeful Sangrablade</nospellcheck></atom-cardname> becomes an X/X legendary Vampire creature with <kw-0><nospellcheck><key>protection from <param-name>everything until end of turn where X is your life total.</param-name></key></nospellcheck></kw-0> <i-auto>(This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything until end of turn)</i-auto></margin:130:0:0>
+	level_4_text: <margin:130:0:0><atom-legname><nospellcheck>Sorin</nospellcheck></atom-legname> becomes an X/X legendary Vampire creature with <kw-0><nospellcheck><key>protection from <param-name>everything until end of turn where X is your life total.</param-name></key></nospellcheck></kw-0> <i-auto>(This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything until end of turn)</i-auto></margin:130:0:0>
 	level_5_text: 
 	illustrator: Steven Elim Tali
 	card_code_text: 
@@ -5816,7 +5804,7 @@ card:
 		
 		“At first I mourned my old body, but now I can slay those sick freaks twice as efficiently.”
 	time_created: 2022-05-28 01:39:58
-	time_modified: 2024-11-30 05:45:41
+	time_modified: 2025-03-20 07:39:05
 	name: Dreaded Savior
 	casting_cost: WW
 	image: image192
@@ -5827,8 +5815,8 @@ card:
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Dreaded Savior</nospellcheck></atom-cardname>’s power and toughness are each equal to the number of creatures you control.
-		<sym-auto>2W</sym-auto>: Put your choice of a counter among <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> on <atom-cardname><nospellcheck>Dreaded Savior</nospellcheck></atom-cardname>.
+		This creature’s power and toughness are each equal to the number of creatures you control.
+		<sym-auto>2W</sym-auto>: Put your choice of a counter among <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> on this creature.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	power: *
@@ -5850,7 +5838,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/OoAPo8
 	time_created: 2022-05-28 01:54:00
-	time_modified: 2025-02-07 00:13:56
+	time_modified: 2025-03-31 18:59:37
 	name: Saintly Remains
 	casting_cost: 3WB
 	image: image184
@@ -5862,7 +5850,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Saintly Remains</nospellcheck></atom-cardname> enters the battlefield, create two 2/2 white Zombie creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		When this creature enters the battlefield, create two 2/2 white Zombie creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>Even when all sense of ones past has been burned away, some things stay eternal.</i-flavor>
 	watermark: none
 	power: 3
@@ -5885,7 +5873,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/akreon/art/Archespore-Gwent-Card-703569106
 	time_created: 2022-05-28 01:54:39
-	time_modified: 2025-01-15 17:57:32
+	time_modified: 2025-03-31 16:14:32
 	name: Blood Petunia
 	casting_cost: RG
 	image: image97
@@ -5897,8 +5885,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Blood Petunia</nospellcheck></atom-cardname> enters the battlefield, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.
-		<sym-auto>1RG</sym-auto>, Discard a land card: <atom-cardname><nospellcheck>Blood Petunia</nospellcheck></atom-cardname> deals 2 damage to any target. Activate only as a sorcery.
+		When this creature enters, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.
+		<sym-auto>1RG</sym-auto>, Discard a land card: This creature deals 2 damage to any target. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	power: 2
@@ -5938,13 +5926,7 @@ card:
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 9
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes: https://www.artstation.com/artwork/XX2W3
 	time_created: 2022-04-10 18:25:51
 	time_modified: 2025-02-03 03:01:38
@@ -5975,7 +5957,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/ianllanas/art/Bone-Enhancer-403104921
 	time_created: 2022-06-01 23:32:42
-	time_modified: 2024-03-24 13:44:08
+	time_modified: 2025-03-31 19:01:05
 	name: Grafted Boneshatterer
 	casting_cost: 6
 	image: image195
@@ -5986,8 +5968,8 @@ card:
 	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Construct</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<atom-cardname><nospellcheck>Grafted Boneshatterer</nospellcheck></atom-cardname> enters with your choice of a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, or a +1/+1 counter on it.
-		<sym-auto>2</sym-auto>, Discard <atom-cardname><nospellcheck>Grafted Boneshatterer</nospellcheck></atom-cardname>: Draw a card.
+		This creature enters with your choice of a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, or a +1/+1 counter on it.
+		<sym-auto>2</sym-auto>, Discard this card: Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 4
@@ -6097,7 +6079,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/3nm9B
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2025-02-05 19:44:22
+	time_modified: 2025-03-31 18:57:48
 	name: Crashing Murmurer
 	casting_cost: UB
 	image: image6
@@ -6107,7 +6089,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Minotaur</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: Whenever <atom-cardname><nospellcheck>Crashing Murmurer</nospellcheck></atom-cardname> attacks, you may tap target creature. Then you may put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it and <atom-cardname><nospellcheck>Crashing Murmurer</nospellcheck></atom-cardname>.
+	rule_text: Whenever this creature attacks, you may tap target creature. Then you may put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it and this creature.
 	flavor_text: <i-flavor><error-spelling:en_US>Orbisfaber</error-spelling:en_US> keeps its pets in the best condition of any demon, although what that condition is can be quite questionable.</i-flavor>
 	power: 3
 	toughness: 1
@@ -6148,7 +6130,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-07-28 15:53:11
-	time_modified: 2023-09-15 22:39:04
+	time_modified: 2025-03-31 18:59:06
 	name: Marsh Grower
 	casting_cost: GU
 	image: image21
@@ -6159,7 +6141,7 @@ card:
 	sub_type: <word-list-race-en>Shade</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		Whenever you draw a card, <atom-cardname><nospellcheck>Marsh Grower</nospellcheck></atom-cardname> gets +1/+1 until end of turn.
+		Whenever you draw a card, this creature gets +1/+1 until end of turn.
 		<sym>2</sym><soft-line>, Sacrifice a creature: Draw a card. Activate only as a sorcery.</soft-line>
 	flavor_text: <i-flavor>A tangled mess of despair and vines.</i-flavor>
 	power: 1
@@ -6175,7 +6157,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/anatofinnstark/art/No-man-can-kill-me-910692455
 	time_created: 2022-07-28 17:56:40
-	time_modified: 2025-02-06 19:22:12
+	time_modified: 2025-03-31 16:14:50
 	name: Legion Bonecracker
 	casting_cost: 1BR
 	image: image135
@@ -6187,7 +6169,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Sacrifice another creature or discard a card: Put a +1/+1 counter on <atom-cardname><nospellcheck>Legion Bonecracker</nospellcheck></atom-cardname>. Activate this ability only once each turn.
+		Sacrifice another creature or discard a card: Put a +1/+1 counter on this creature. Activate this ability only once each turn.
 	flavor_text: <i-flavor>Sometimes the larger army needs a more vertical approach to their problems.</i-flavor>
 	power: 3
 	toughness: 2
@@ -6258,7 +6240,7 @@ card:
 		RM05 
 		watchlist
 	time_created: 2023-09-03 15:08:48
-	time_modified: 2024-02-27 13:19:34
+	time_modified: 2025-03-31 19:00:26
 	name: Vengeful Grovekeeper
 	casting_cost: 2GW
 	image: image225
@@ -6270,7 +6252,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Vengeful Grovekeeper</nospellcheck></atom-cardname> attacks, reveal the top four cards of your library. You may put a creature card with mana value 3 or less revealed this way onto the battlefield. Put the rest into your graveyard.
+		Whenever this creature attacks, reveal the top four cards of your library. You may put a creature card with mana value 3 or less revealed this way onto the battlefield. Put the rest into your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
@@ -6285,7 +6267,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/aiolia-lijinchen/art/Thunder-roaring-in-the-dark-night-936451510 
 	time_created: 2023-09-03 15:09:23
-	time_modified: 2024-10-08 21:39:12
+	time_modified: 2025-03-31 16:14:27
 	name: Bloodsoaked Mass
 	casting_cost: 2UB
 	image: image270
@@ -6297,8 +6279,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
-		As <atom-cardname><nospellcheck>Bloodsoaked Mass</nospellcheck></atom-cardname> enters, choose a player.
-		<atom-cardname><nospellcheck>Bloodsoaked Mass</nospellcheck></atom-cardname> gets -1/-1 for each card in the chosen players hand.
+		As this creature enters, choose a player.
+		this creature gets -1/-1 for each card in the chosen players hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
 	toughness: 7
@@ -6313,7 +6295,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/cptamerica121/art/Svetlin-Velinov-Hydra-monster-166612124a-418714258
 	time_created: 2023-09-03 16:15:03
-	time_modified: 2025-01-20 10:56:48
+	time_modified: 2025-03-31 19:00:06
 	name: Tanglemess Hydra
 	casting_cost: XRG
 	image: image237
@@ -6325,7 +6307,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Tanglemess Hydra</nospellcheck></atom-cardname> enters with X +1/+1 counters on it. Then add X mana in any combination of colors.
+		This creature enters with X +1/+1 counters on it. Then add X mana in any combination of colors.
 	flavor_text: <i-flavor>A wildfire of hungering mouths let loose across the land.</i-flavor>
 	power: 2
 	toughness: 2
@@ -6340,7 +6322,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/istrandar/art/Confrontation-Commission-863189687
 	time_created: 2023-09-03 17:08:42
-	time_modified: 2024-03-24 13:43:26
+	time_modified: 2025-03-31 19:00:19
 	name: Unholy Communion
 	casting_cost: 2WB
 	image: image230
@@ -6351,7 +6333,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Unholy Communion</nospellcheck></atom-cardname> enters, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.
+		When this enchantment enters, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.
 		Whenever a creature you control dies, target opponent loses 1 life and you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Istrander
@@ -6365,7 +6347,7 @@ card:
 	has_styling: false
 	notes: https://meanwhilebackinthedungeon.tumblr.com/post/74279966724
 	time_created: 2023-09-04 15:05:32
-	time_modified: 2024-03-24 13:43:10
+	time_modified: 2025-03-31 18:58:18
 	name: Infusing Ritual
 	casting_cost: UR
 	image: image235
@@ -6376,8 +6358,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Infusing Ritual</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>, then draw a card.<atom-reminder-action> <i-auto>(To surveil <param-number>1</param-number>, look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
-		<sym-auto>UR</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Infusing Ritual</nospellcheck></atom-cardname>: Add three mana of any one color.
+		When this enchantment enters, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>, then draw a card.<atom-reminder-action> <i-auto>(To surveil <param-number>1</param-number>, look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>UR</sym-auto>, Sacrifice this enchantment: Add three mana of any one color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Newman D
 	card_code_text: 
@@ -6455,14 +6437,14 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/igreeny/art/Brain-621953278
 	time_created: 2023-09-06 15:24:14
-	time_modified: 2025-01-12 11:22:53
-	name: Obsessive Rumination
+	time_modified: 2025-03-22 16:03:08
+	name: Thought Scour
 	casting_cost: U
 	image: image221
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
@@ -6470,7 +6452,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Draw a card.
 	rule_text_2: 
 	rule_text_3: 
@@ -6491,7 +6473,7 @@ card:
 		
 		Watchlist/red flag
 	time_created: 2023-09-06 16:25:15
-	time_modified: 2025-01-20 19:18:52
+	time_modified: 2025-03-31 15:44:17
 	name: Schefelix, Abyssal Retriever
 	casting_cost: 1W
 	image: image105
@@ -6501,7 +6483,7 @@ card:
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dog</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Schefelix, Abyssal Retriever</nospellcheck></atom-cardname> enters, you may exile a creature card from your graveyard. If you do, search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle.
+	rule_text: When <atom-legname><nospellcheck>Schefelix</nospellcheck></atom-legname> enters, you may exile a creature card from your graveyard. If you do, search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle.
 	flavor_text: <i-flavor>Loyalty can only be earned in our own despair, but that trust can also pull us out of our same torments.</i-flavor>
 	power: 2
 	toughness: 1
@@ -6547,7 +6529,7 @@ card:
 		“Hmph, reanimated roots. Does this world have no limits on what it might pervert?”
 		— Undue, undead traveler
 	time_created: 2023-09-06 18:40:10
-	time_modified: 2025-02-12 16:00:26
+	time_modified: 2025-03-31 18:57:28
 	name: Twisted Guardian
 	casting_cost: G
 	image: image272
@@ -6558,9 +6540,9 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Treefolk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Twisted Guardian</nospellcheck></atom-cardname> gets +5/+5 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> as long as you control seven or more lands.
+		This creature gets +5/+5 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> as long as you control seven or more lands.
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Twisted Guardian</nospellcheck></atom-cardname> dies, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+		When this creature dies, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -6582,7 +6564,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/sandara/art/Galrauch-from-WHF-Hero-s-Call-270404507
 	time_created: 2023-09-06 21:45:52
-	time_modified: 2025-01-20 23:22:24
+	time_modified: 2025-03-31 15:51:30
 	name: Mirumea, Ambush Master
 	casting_cost: XGGG
 	image: image22
@@ -6593,7 +6575,7 @@ card:
 	sub_type: <word-list-race-en>Spider</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		You may cast <atom-cardname><nospellcheck>Mirumea, Ambush Master</nospellcheck></atom-cardname> as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> if X is 3 or greater.
+		You may cast <atom-legname><nospellcheck>Mirumea</nospellcheck></atom-legname> as though it has <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> if X is 3 or greater.
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
 		When <atom-legname><nospellcheck>Mirumea</nospellcheck></atom-legname> enters, put X +1/+1 counters on it and destroy up to X target artifacts or enchantments.
 	flavor_text: <i-flavor>The last living demon of an older age.</i-flavor>
@@ -6646,12 +6628,9 @@ card:
 	copyright_3: 
 card:
 	has_styling: false
-	notes:
-		https://www.deviantart.com/bachzim/art/Tree-Demon-887779154
-		
-		Sacrifice another if too comboey?
+	notes: https://www.deviantart.com/bachzim/art/Tree-Demon-887779154
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2025-01-30 17:53:54
+	time_modified: 2025-03-31 20:11:12
 	card_color: green
 	name: Copacra, The Soul Willow
 	casting_cost: 2GG
@@ -6664,7 +6643,7 @@ card:
 	rarity: rare
 	rule_text:
 		At the beginning of your end step, you may sacrifice a permanent. If you do, search your library for a basic land card and put it onto the battlefield, then shuffle.
-		<sym-auto>2GG</sym-auto>, Exile <atom-cardname><nospellcheck>Copacra, The Soul Willow</nospellcheck></atom-cardname> from your graveyard: Return target permanent card from your graveyard to your hand.
+		<sym-auto>2GG</sym-auto>, Exile this card from your graveyard: Return target permanent card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
@@ -6679,7 +6658,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/nele-diel/art/Gathered-Energy-980867560
 	time_created: 2023-09-14 03:41:57
-	time_modified: 2025-02-03 16:41:54
+	time_modified: 2025-03-07 13:36:27
 	card_color: white, green, land, horizontal
 	name: Overgrowing Burial
 	image: image234
@@ -6690,7 +6669,7 @@ card:
 	sub_type: <word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Overgrowing Burial</nospellcheck></atom-cardname> enters tapped unless you have four or fewer other cards in hand.
+		This land enters tapped unless you have four or fewer other cards in hand.
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
 	flavor_text: <i-flavor>Untamed solace and desire for rest.</i-flavor>
 	illustrator: Nele-Diel
@@ -6704,7 +6683,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/nele-diel/art/Ruins-in-the-Ancient-Cave-Painting-Process-Video-977577426
 	time_created: 2023-09-14 04:22:43
-	time_modified: 2025-02-03 16:41:22
+	time_modified: 2025-03-07 13:35:56
 	card_color: blue, green, land, horizontal
 	name: Submerging Grotto
 	image: image244
@@ -6715,7 +6694,7 @@ card:
 	sub_type: <word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Submerging Grotto</nospellcheck></atom-cardname> enters tapped unless you have four or fewer other cards in your hand.
+		This land enters tapped unless you have four or fewer other cards in your hand.
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.
 	flavor_text: <i-flavor>Fading final farewells.</i-flavor>
 	illustrator: Nele-Diel
@@ -6729,7 +6708,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/nele-diel/art/Small-Forest-Cave-952590753
 	time_created: 2023-09-14 04:30:33
-	time_modified: 2024-07-31 16:50:01
+	time_modified: 2025-03-07 13:35:48
 	card_color: red, green, land, horizontal
 	name: Tunneling Hideaway
 	image: image243
@@ -6740,7 +6719,7 @@ card:
 	sub_type: <word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Tunneling Hideaway</nospellcheck></atom-cardname> enters tapped unless you have four or fewer other cards in hand.
+		This land enters tapped unless you have four or fewer other cards in hand.
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
 	flavor_text: <i-flavor> Destitute and feral solitude.</i-flavor>
 	illustrator: Nele-Diel
@@ -6754,7 +6733,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-09-14 04:35:18
-	time_modified: 2024-07-31 16:59:57
+	time_modified: 2025-03-07 13:36:09
 	card_color: white, red, land, horizontal
 	name: Slumbering Lavafields
 	image: image247
@@ -6765,7 +6744,7 @@ card:
 	sub_type: <word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Slumbering Lavafields</nospellcheck></atom-cardname> enters tapped unless you have four or fewer other cards in hand.
+		This land enters tapped unless you have four or fewer other cards in hand.
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.
 	flavor_text: <i-flavor>Smolders of a life long gone.</i-flavor>
 	illustrator: Nele-Diel
@@ -6779,7 +6758,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-09-14 04:38:52
-	time_modified: 2024-07-31 16:50:21
+	time_modified: 2025-03-07 13:36:03
 	card_color: blue, red, land, horizontal
 	name: Striking Waterfalls
 	image: image248
@@ -6790,7 +6769,7 @@ card:
 	sub_type: <word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Striking Waterfalls</nospellcheck></atom-cardname> enters tapped unless you have four or fewer other cards in hand.
+		This land enters tapped unless you have four or fewer other cards in hand.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.
 	flavor_text: <i-flavor>Oppressive and overwhelming grandeur.</i-flavor>
 	illustrator: Nele-Diel
@@ -6804,7 +6783,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-09-14 04:43:03
-	time_modified: 2024-07-31 16:50:56
+	time_modified: 2025-03-07 13:35:39
 	card_color: black, green, land, horizontal
 	name: Winding Quagmire
 	image: image249
@@ -6815,7 +6794,7 @@ card:
 	sub_type: <word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Winding Quagmire</nospellcheck></atom-cardname> enters tapped unless you have four or fewer other cards in hand.
+		This land enters tapped unless you have four or fewer other cards in hand.
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.
 	flavor_text: <i-flavor>Whispering mists of overwhelming agony.</i-flavor>
 	illustrator: Nele-Diel
@@ -6829,7 +6808,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-09-14 04:43:43
-	time_modified: 2025-02-03 16:42:29
+	time_modified: 2025-03-07 13:36:36
 	card_color: blue, black, land, horizontal
 	name: Despairing Marsh
 	image: image246
@@ -6840,7 +6819,7 @@ card:
 	sub_type: <word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Despairing Marsh</nospellcheck></atom-cardname> enters tapped unless you have four or fewer other cards in hand.
+		This land enters tapped unless you have four or fewer other cards in hand.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
 	flavor_text: <i-flavor>Envious growth and twisting decay.</i-flavor>
 	illustrator: Nele-Diel
@@ -6854,7 +6833,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-09-14 04:43:55
-	time_modified: 2024-07-31 16:51:51
+	time_modified: 2025-03-07 13:36:15
 	card_color: black, red, land, horizontal
 	name: Rotting Mineshaft
 	image: image50
@@ -6865,7 +6844,7 @@ card:
 	sub_type: <word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Rotting Mineshaft</nospellcheck></atom-cardname> enters tapped unless you have four or fewer other cards in hand.
+		This land enters tapped unless you have four or fewer other cards in hand.
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.
 	flavor_text: <i-flavor>The end of every story, every ambition.</i-flavor>
 	illustrator: Nele-Diel
@@ -6879,7 +6858,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-09-14 04:44:28
-	time_modified: 2024-07-31 16:59:46
+	time_modified: 2025-03-07 13:36:20
 	card_color: white, blue, land, horizontal
 	name: Receding Coastline
 	image: image251
@@ -6890,7 +6869,7 @@ card:
 	sub_type: <word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Receding Coastline</nospellcheck></atom-cardname> enters tapped unless you have four or fewer other cards in hand.
+		This land enters tapped unless you have four or fewer other cards in hand.
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
 	flavor_text: <i-flavor>Recoiling stillness and undisturbed dreams.</i-flavor>
 	illustrator: Nele-Diel
@@ -7267,7 +7246,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/pavelvalseca/art/Demonic-entrance-895404289
 	time_created: 2024-02-07 11:24:05
-	time_modified: 2024-03-24 13:44:01
+	time_modified: 2025-03-31 19:00:59
 	name: Foreboding Milestone
 	casting_cost: 2
 	image: image119
@@ -7277,8 +7256,8 @@ card:
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
 	rule_text:
-		When <atom-cardname><nospellcheck>Foreboding Milestone</nospellcheck></atom-cardname> enters, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.
-		<sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Foreboding Milestone</nospellcheck></atom-cardname>: Create a 2/2 white Zombie creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		When this artifact enters, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.
+		<sym-auto>1</sym-auto>, Sacrifice this artifact: Create a 2/2 white Zombie creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: PavelValseca
 	card_code_text: 
@@ -7346,7 +7325,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/2wenty/art/Castle-of-the-Crow-King-557858578
 	time_created: 2024-06-04 04:15:23
-	time_modified: 2025-01-02 01:08:22
+	time_modified: 2025-03-22 16:12:30
 	name: Kinnamon’s Influence
 	casting_cost: WW
 	image: image257
@@ -7358,7 +7337,7 @@ card:
 	rarity: rare
 	rule_text:
 		Choose one or both —
-		<li><bullet>• </bullet>Destroy target creature that dealt damage this turn.
+		<li><bullet>• </bullet>Destroy target tapped creature.
 		</li><li><bullet>• </bullet>Exile target creature. Return it to the battlefield under its owners control at the beginning of the next end step.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 2wenty
@@ -7448,7 +7427,7 @@ card:
 	time_created: 2024-07-30 21:20:48
 	time_modified: 2025-02-11 23:35:38
 	special_text:
-		[+1]: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>. You gain 2 life.</margin:130:0:0>
+		[+1]: <margin:130:0:0><kw-0><nospellcheck>Surveil <param-number>2</param-number></nospellcheck></kw-0>. You gain 2 life.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target nonland permanent with mana value 2 or less.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Create a */* green Skeleton Horse creature token with “this creature’s power and toughness are each equal to the number of creature cards and planeswalker cards in your graveyard”.</margin:130:0:0>
 	name: Undue, Death Devourer
@@ -7505,12 +7484,12 @@ card:
 	copyright_3: 
 card:
 	has_styling: false
-	notes: https://www.deviantart.com/nele-diel/art/Unusual-Fogg-932775275
+	notes: https://www.deviantart.com/nele-diel/art/The-Dark-Fortress-921081570
 	time_created: 2023-09-14 04:18:21
-	time_modified: 2025-02-03 16:42:14
+	time_modified: 2025-03-07 13:44:20
 	card_color: white, black, land, horizontal
-	name: Imposing Sanctum
-	image: image7
+	name: Imposing Asylum
+	image: image122
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -7518,9 +7497,9 @@ card:
 	sub_type: <word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Imposing Sanctum</nospellcheck></atom-cardname> enters tapped unless you have four or fewer other cards in hand.
+		This land enters tapped unless you have four or fewer other cards in hand.
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.
-	flavor_text: <i-flavor>Last bastion of desperation and resolution.</i-flavor>
+	flavor_text: <i-flavor>A last bastion of desperation and resolution.</i-flavor>
 	illustrator: Nele-Diel
 	card_code_text: 
 	card_code_text_2: 
@@ -7646,7 +7625,7 @@ card:
 		
 		Get away from god
 	time_created: 2024-11-03 18:06:41
-	time_modified: 2025-02-11 19:34:21
+	time_modified: 2025-03-31 16:46:15
 	name: Rescede, Coffen of Kings
 	casting_cost: 1U
 	image: image199
@@ -7657,7 +7636,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: mythic rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Rescede, Coffen of Kings</nospellcheck></atom-cardname> enters, tap up to one target creature and put two <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it.
+		When <atom-legname><nospellcheck>Rescede</nospellcheck></atom-legname> enters, tap up to one target creature and put two <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it.
 		Creatures with counters on them lose all abilities and have base power and toughness 1/1.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
@@ -8014,7 +7993,7 @@ card:
 		
 		Aggro/Midrange value piece
 	time_created: 2022-05-11 14:43:03
-	time_modified: 2025-03-18 14:44:17
+	time_modified: 2025-03-13 13:59:14
 	card_color: white
 	name: Bloodlord Kinnamon
 	casting_cost: 1WW
@@ -8030,7 +8009,7 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		As an additional cost to cast this spell, pay 4 life. When you do, you may return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield. 
+		As an additional cost to cast this spell, pay 4 life. When you do, you may return target nonland permanent with mana value 2 or less from your graveyard to the battlefield.
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 	rule_text_2: 
 	rule_text_3: 
@@ -8079,7 +8058,7 @@ card:
 		
 		Combo/midrange topend value
 	time_created: 2022-05-11 14:43:03
-	time_modified: 2025-03-18 14:43:56
+	time_modified: 2025-03-13 14:01:22
 	card_color: black
 	name: Demonlord Morideus
 	casting_cost: 4BB
@@ -8091,11 +8070,11 @@ card:
 	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		When you cast this spell, exile all but the bottom fifteen cards of your library. When you do, search your library for two cards and put them into your hand. Then shuffle.
+		When you cast this spell, exile all but the bottom fifteen cards of your library. When you do, search your library for up to two cards and put them into your hand. Then shuffle.
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
-	toughness: 4
+	toughness: 5
 	illustrator: Infesth6
 	card_code_text: 
 	card_code_text_2: 
@@ -8107,7 +8086,7 @@ card:
 	has_styling: false
 	notes: Bubbling from the deepest pits of Hwel, Donum-Dei never seems to run dry. A cesspool of underwordly blood bubbling to the surface.
 	time_created: 2025-02-03 04:24:35
-	time_modified: 2025-02-12 19:05:02
+	time_modified: 2025-03-31 15:46:19
 	name: Donum-Dei, Lake of Blood
 	casting_cost: B
 	image: image123
@@ -8119,7 +8098,7 @@ card:
 	rarity: rare
 	rule_text:
 		Lands you control have “<sym-auto>T</sym-auto>, Pay 1 life: Add one mana of any color.”
-		<sym-auto>WUBRG</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Donum-Dei, Lake of Blood</nospellcheck></atom-cardname>: Draw three cards.
+		<sym-auto>WUBRG</sym-auto>, Sacrifice <atom-legname><nospellcheck>Donum-Dei</nospellcheck></atom-legname>: Draw three cards.
 	flavor_text: <i-flavor>Bubbling from the deepest pits of <error-spelling:en_US>Hwel</error-spelling:en_US>, <error-spelling:en_US>Donum</error-spelling:en_US>-<error-spelling:en_US>Dei</error-spelling:en_US> never seems to run dry.</i-flavor>
 	illustrator: Chriscold
 	card_code_text: 

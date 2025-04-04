@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-02-15 19:20:29
+	time_modified: 2024-06-28 11:47:29
+	name: Wildwood Containment
+	casting_cost: 1G
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Destroy target artifact.
+		</li><li><bullet>• </bullet>Destroy target enchantment with mana value 3 or less.
+		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Wildwood Containment</nospellcheck></atom-cardname> deals 3 damage to target creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</li>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Jordan W. Thatcher
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

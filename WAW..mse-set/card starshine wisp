@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-02-21 10:41:09
+	time_modified: 2025-02-21 11:49:14
+	name: Starshine Wisp
+	casting_cost: 1R/G
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>T</sym-auto>: Add one mana of any color. This mana can’t be spent to cast a spell with mana value 4 or less.
+	flavor_text:
+		<i-flavor>“The beings of this plane shine with light and <error-spelling:en_US>mana</error-spelling:en_US>, brilliant and tempting. I can’t help but be reminded of an <error-spelling:en_US>anglerfish’s</error-spelling:en_US> lure.”<soft-line><soft-line><soft-line>
+		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></soft-line></soft-line></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Emily Hancock
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

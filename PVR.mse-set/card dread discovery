@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		SPOTLIGHT
+		BLACKUNCOMMON
+		UB11
+	time_created: 2022-01-24 07:42:30
+	time_modified: 2024-11-08 13:58:43
+	name: Dread Discovery
+	casting_cost: 2B
+	image: image146
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		You draw two cards and you lose 2 life.
+		If a library has twenty or fewer cards in it, add <sym-auto>BBB</sym-auto>.
+	flavor_text:
+		<i-flavor>“Plane-ruining tech has no downsides. Simply go to another plane.”<soft-line>
+		—<error-spelling:en_US>Prawth</error-spelling:en_US>, Planar <error-spelling:en_US>Decimator</soft-line></i-flavor></error-spelling:en_US>
+	watermark: other magic symbols color spotlight
+	illustrator: Sandra Campos
+	card_code_text: Spotlight 4/10
+	card_code_text_2: Spotlight 4/10
+	card_code_text_3: Spotlight 4/10
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

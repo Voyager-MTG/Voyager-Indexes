@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUECOMMON
+		CU03
+	time_created: 2022-03-08 04:03:47
+	time_modified: 2023-02-09 23:19:33
+	name: Urwrapir Looters
+	casting_cost: 1U
+	image: image85
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>: Target player draws a card, then discards a card.
+	flavor_text:
+		<i-flavor>“It’s been four months. Return my eggs.”<soft-line>
+		—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, to <error-spelling:en_US>Nurbs</soft-line></i-flavor></error-spelling:en_US>
+	power: 1
+	toughness: 1
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

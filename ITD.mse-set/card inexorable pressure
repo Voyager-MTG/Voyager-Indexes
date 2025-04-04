@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: new
+	time_created: 2024-08-17 00:10:56
+	time_modified: 2024-10-25 15:30:57
+	name: Inexorable Pressure
+	casting_cost: 2U
+	image: image31
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Eye</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Incarnation</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When this creature enters, it gains “Creatures and enchantments you don’t control lose all abilities” until your next first main phase.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: astrono77153462
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-22 13:22:48
+	time_modified: 2025-01-28 19:54:07
+	name: Cryptic Columns
+	casting_cost: 1
+	image: image47
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wall</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: <b>[Add one mana of any color.]</b>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>1</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>The structure of the Wonderlands is ever-shifting, and its motivations are inscrutable.</i-flavor>
+	power: 0
+	toughness: 4
+	illustrator: Amir Zand
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

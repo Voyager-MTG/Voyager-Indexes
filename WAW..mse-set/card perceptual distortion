@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-13 21:37:21
+	time_modified: 2025-01-28 19:50:26
+	name: Perceptual Distortion
+	casting_cost: 4U
+	image: image260
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Exchange control of two target creatures.
+		</li><li><bullet>• </bullet>Draw three cards.
+		</li><li><bullet>• </bullet>Target permanent becomes a 0/0 Avatar enchantment creature in addition to its other types. Put four +1/+1 counters on it.</li>
+	flavor_text:
+		<i-flavor>“It’s what I can do. I don’t know how it works.”<soft-line>
+		—Manuela Martinez</soft-line></i-flavor>
+	illustrator: Ying Yi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

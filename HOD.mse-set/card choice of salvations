@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Rey
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-03-05 19:10:05
+	name: Choice of Salvations
+	casting_cost: 2G
+	image: image185.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Put a +1/+1 counter on a creature you control for each noncreature nonland card milled this way. Return each land card milled this way to your hand. Create a 1/1 blue Scout creature token for each creature card milled this way.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: GoodFaun
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

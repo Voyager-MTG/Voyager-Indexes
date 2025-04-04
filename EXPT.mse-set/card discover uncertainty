@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: could be 4 cards
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-04-01 17:05:01
+	extra_data:
+		magic-m15-altered-plus:
+			corner: custom
+	name: Discover Uncertainty
+	casting_cost: 1I
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: Look at the top three cards of your library. Put one into your hand and another one back on top of your library. Put the rest into your sanctum.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>“I saw what couldn’t be seen, and in an instant I understood what I thought was impossible to understand.”</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Janos Benjamin Rais
+	card_code_text: • Designed by TVP for FOE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/bonniesband/art/RW-Reach-993741952
+	time_created: 2025-02-23 17:57:17
+	time_modified: 2025-03-30 16:53:07
+	name: Curious Dexteria
+	casting_cost: I
+	image: image154
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Protection from <param-name>artifacts and enchantments.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted, dealt damage, or equipped by artifacts and enchantments..)</i-auto></atom-reminder-expert></kw-A>
+		Whenever an opponent casts an artifact or enchantment spell, draw a card unless they pay <sym-auto>1</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: BonniesBand
+	card_code_text: •  Designed by Trewq
+	card_code_text_2: Trewq
+	card_code_text_3: Trewq
+	copyright: 
+	copyright_2: 
+	copyright_3: 

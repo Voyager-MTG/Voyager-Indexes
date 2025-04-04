@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUEUNCOMMON
+		UU05
+	time_created: 2022-03-08 04:03:47
+	time_modified: 2023-02-10 00:22:16
+	name: Rastira Trawler
+	casting_cost: 4UU
+	image: image232
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key>Prowess</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>vigilance</key></nospellcheck></kw-0>
+		Whenever <atom-cardname><nospellcheck>Rastira Trawler</nospellcheck></atom-cardname> attacks, exile target noncreature, nonland card in your graveyard. You may cast a copy of it. It costs <sym-auto>2</sym-auto> less to cast.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Robin Tran
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

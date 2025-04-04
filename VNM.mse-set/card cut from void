@@ -1,0 +1,55 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: off
+		frames: frameless art
+		altered_plus_frames: token
+		custom_symbol: abstract-061.png
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		!related Kaln-Ocean Cloak;Multaphs Respites Spellbook;Sage of Truths;Storm Bearer;
+		!token
+	time_created: 2021-01-31 20:53:58
+	time_modified: 2025-03-01 15:28:28
+	name: Cut from Void
+	casting_cost: 2U
+	image: image255
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Trace Skill Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: special
+	rule_text: <kw-a><nospellcheck><key>Scry <param-number><kw-A>1</param-number></key></nospellcheck></kw-a>, then draw a card. <i-auto>(Traces are cards that become copies when they enter a public zone.)</i-auto>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“I’ve heard rumors that the Elves aren’t from our world. After traveling to the only known respite of them, I got my answer.”<soft-line>
+		— <error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: none
+	power: 
+	toughness: 
+	illustrator: Kan Liu(666K信譞)PRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

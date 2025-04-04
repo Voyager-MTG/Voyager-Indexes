@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/qe8P9y
+	time_created: 2024-08-16 12:16:10
+	time_modified: 2024-10-03 16:21:10
+	name: Binding Decision
+	casting_cost: W
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Binding Decision</nospellcheck></atom-cardname> enters, target opponent chooses a nontoken creature they control and exiles it until <atom-cardname><nospellcheck>Binding Decision</nospellcheck></atom-cardname> leaves the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: DON
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

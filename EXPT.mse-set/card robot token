@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		frames: frameless art
+		altered_plus_frames: token
+		additional_options: center name
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Hopeless
+		!related Extant Surveyor;
+	time_created: 2025-02-23 01:28:35
+	time_modified: 2025-03-10 14:35:42
+	name: Robot Token
+	image: image209
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Robot</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Billy Fisher
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: TVP
+	copyright_2: TVP
+	copyright_3: TVP

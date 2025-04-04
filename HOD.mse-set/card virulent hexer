@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 10
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Turnberry
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-04-01 16:55:16
+	name: Virulent Hexer
+	casting_cost: 2B
+	image: image56.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Hag</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		<margin:0:0:5>When <atom-cardname><nospellcheck>Virulent Hexer</nospellcheck></atom-cardname> enters, choose one —</margin:0:0:5>
+		<li><bullet>• </bullet>Remove six counters from each permanent and opponent.
+		</li><li><bullet>• </bullet>Exile six tokens in each player’s reserves.
+		</li><li><bullet>• </bullet>Exile six cards in at random from each player’s sanctum.
+		</li><li><bullet>• </bullet>Each player exiles six tokens they control.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Sam Lamont
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

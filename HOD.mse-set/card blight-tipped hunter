@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Banefort
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-03-04 00:24:56
+	name: Blight-Tipped Hunter
+	casting_cost: G
+	image: image236.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Azra</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Bloom</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-cardname><nospellcheck>Blight-Tipped Hunter</nospellcheck></atom-cardname> deals damage to a player, that player gets that many poison counters.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: WhiteVector
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-23 11:46:16
+	time_modified: 2025-01-29 13:35:52
+	name: Outclass
+	casting_cost: UU
+	image: image98
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Counter target spell with mana value X or less, where X is the greatest mana value among permanents you control and cards in your graveyard.
+	flavor_text: <i-flavor>When Chance-in-Hell turned her attention to them both, the <error-spelling:en_US>planeswalkers</error-spelling:en_US> felt like candle flames at the bottom of the ocean. </i-flavor>
+	illustrator: Nefeev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

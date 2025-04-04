@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKCOMMON
+		CB17
+	time_created: 2021-12-29 10:02:03
+	time_modified: 2022-08-04 19:19:07
+	card_color: black
+	name: Ngonification
+	casting_cost: 1B
+	image: image77
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Target player reveals their hand. You may exile a noncreature, nonland card from it. If you don’t, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>The <error-spelling:en_US>Nilshroud</error-spelling:en_US> makes everything simple. </i-flavor>
+	illustrator: Mat Szulik
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

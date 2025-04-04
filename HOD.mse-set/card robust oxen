@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag HouseAnimal
+		!tag Banefort
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-03 18:55:42
+	name: Robust Oxen
+	casting_cost: 2G
+	image: image35.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Ox</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		At the beginning of your end step, if you attacked this turn, put a counter from among +1/+1, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> on <atom-cardname><nospellcheck>Robust Oxen</nospellcheck></atom-cardname>.
+		When <atom-cardname><nospellcheck>Robust Oxen</nospellcheck></atom-cardname> dies, distribute its counters among any number of creatures you control.
+	flavor_text: <i-flavor>The enduring symbol of House <error-spelling:en_US>Banefort</error-spelling:en_US>.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Fedor Titov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

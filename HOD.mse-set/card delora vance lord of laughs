@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Vance
+		!tag Delora
+	time_created: 2025-02-24 00:42:32
+	time_modified: 2025-03-05 03:16:33
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: She/her
+	name: Delora Vance, Lord of Laughs
+	casting_cost: UBR
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Whenever a player casts a spell with mana value 2 or less, that player loses 2 life.
+		At the beginning of each end step, if you lost 4 or more life this turn, create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Joel Turina
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

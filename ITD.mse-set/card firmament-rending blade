@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://feiyukicchi.tumblr.com/post/763284664242864128/concept-so-good-i-changed-my-whole-artstyle-lmao
+	time_created: 2024-10-03 15:53:21
+	time_modified: 2025-01-22 14:18:54
+	name: Firmament-Rending Blade
+	casting_cost: 2
+	image: image91
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Firmament-Rending Blade</nospellcheck></atom-cardname> enters, attach it to target creature you control.
+		Equipped creature attacking causes abilities of that creature to trigger as though it entered.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor><error-spelling:en_US>Vorpal</error-spelling:en_US> blades take many forms, from the last sunbeam of summer to an ugly gash in reality.</i-flavor>
+	illustrator: feiyukicchi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

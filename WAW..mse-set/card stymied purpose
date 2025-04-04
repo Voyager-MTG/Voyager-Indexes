@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: nyx
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-27 09:01:16
+	time_modified: 2025-01-30 10:19:43
+	name: Stymied Purpose
+	casting_cost: 2W
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Each player can’t draw more than one card each turn.
+		<sym-auto>1B</sym-auto>, Sacrifice a creature: Each opponent discards a card. Activate only as a sorcery.
+	flavor_text:
+		<i-flavor>“It’s subtle, but the plane is guiding its visitors to fixate on their own desires, rather than itself.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Eteres</error-spelling:en_US>, planar analyst</i-flavor>
+	illustrator: Peter Morhbacher
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-27 11:47:58
+	time_modified: 2025-01-27 12:27:54
+	name: Playful Chiaykyaich
+	casting_cost: 2B
+	image: image156
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Chimera</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Playful Chiaykyaich</nospellcheck></atom-cardname> dies, if it wasn’t blocking, it deals 2 damage to target player.
+		<i>Augmented —</i> At the beginning of each end step, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, return <atom-cardname><nospellcheck>Playful Chiaykyaich</nospellcheck></atom-cardname> from your graveyard to the battlefield tapped. 
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Tatii Lange
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Radcliff
+	time_created: 2025-03-02 16:25:36
+	time_modified: 2025-03-03 23:45:38
+	name: Gaze Upon Greatness
+	casting_cost: 1R
+	image: image165.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Creature tokens you control have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		At the beginning of combat on your turn, you may move a token <kw-A><nospellcheck><key>in your reserves</key></nospellcheck> onto the battlefield. If you don’t, create a 1/1 blue Scout creature token <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<blob></kw-A><moved><atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Allen Morris
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-22 02:24:15
+	time_modified: 2025-01-28 22:18:42
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: she/her
+	name: Giatela, Tensu Emissary
+	casting_cost: 1W
+	image: image87
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>Giatela, Tensu Emissary</nospellcheck></atom-cardname> or another creature you control with power 1 or less enters, choose one—
+		<li><bullet>• </bullet>Put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter on it.
+		</li><li><bullet>• </bullet>Exile target card from a graveyard.
+		</li><li><bullet>• </bullet><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Z-Ed
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

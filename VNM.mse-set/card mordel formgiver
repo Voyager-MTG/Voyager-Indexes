@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2025-03-01 17:40:21
+	card_color: green
+	name: Mordel Formgiver
+	casting_cost: 2G
+	image: image75
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wurm</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		When this creature enters, put a +1/+1 counter on another target creature you control.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The first tenet of learning in Clan <error-spelling:en_US>Mordel</error-spelling:en_US> is size magic, and who better to teach it than the <error-spelling:en_US>wurms</error-spelling:en_US>.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Gediminas Skyrius
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

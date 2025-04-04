@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!exportname Scar Boon
+		!related Broken Sun-Servent;Ragged Sun’s Angel;Root of Mercy;Expose Mortality;Opener of Realities;Perfect Stillness;Seven-Coil’s Scion;Implant the Seeds;Nowhere Stygian;Sky-Scar Angel;Open the Self;Stained Silver;Tattered Cyprian;Carapace Disciple;Debilitated Tragulari;The Old Forms;Ravenous Unmaker;Wolven Hatred;Flames of Emnity;Horomachist Ending;Nowhere Deathlord;The Frangiclave;Ritual Daggar;
+		!tokentag Scar
+	time_created: 2023-05-09 20:51:19
+	time_modified: 2024-07-03 09:01:22
+	name: Scar
+	image: image15
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Boon</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	rarity: basic land
+	rule_text:
+		<i-auto>(When this boon triggers, it disappears. Even if you didn’t pay the <sym-auto>1</sym-auto>.)</i-auto>
+		When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Rai-mond
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

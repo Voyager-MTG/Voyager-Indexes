@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKCOMMON
+		CB02
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2022-07-20 18:39:49
+	card_color: black
+	name: Bog Snapper
+	casting_cost: 1B
+	image: image214
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>Bog Snapper</nospellcheck></atom-cardname> dies, up to one target creature gets -1/-1 until end of turn.
+		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>2BB</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>2BB</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Kzuim (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Hook
+	time_created: 2025-02-25 13:50:49
+	time_modified: 2025-03-03 19:33:12
+	name: Overt Warning
+	casting_cost: B
+	image: image111.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Target player discards a card. 
+		If you attacked this turn, instead that player reveals their hand. You choose a nonland card from it. That player discards that card. If they discard a card this way, you lose 1 life.
+	flavor_text:
+		<i-flavor>“Never let subtlety obstruct a powerful delivery.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Ita</error-spelling:en_US> Hook</i-flavor>
+	illustrator: Nemanja Stankovic
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

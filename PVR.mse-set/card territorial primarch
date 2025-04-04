@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: GREENRARE3
+	time_created: 2021-10-17 07:56:40
+	time_modified: 2024-04-16 01:16:14
+	name: Territorial Primarch
+	casting_cost: 1G
+	image: image162
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		You may play lands during your turn at any time you could cast an instant.
+		Whenever you play a land, <kw-a><nospellcheck><key>scry <param-number>2</param-number></key></nospellcheck></kw-a> if it’s your upkeep, or put a +1/+1 counter on <atom-cardname><nospellcheck>Territorial Primarch</nospellcheck></atom-cardname> if it’s a combat phase. Otherwise, you gain 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

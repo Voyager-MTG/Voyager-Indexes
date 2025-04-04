@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: nyx
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !tokens Wonder Token;
+	time_created: 2025-01-11 16:33:15
+	time_modified: 2025-01-31 14:59:22
+	name: Citadel Repository
+	casting_cost: 1G
+	image: image125
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Citadel Repository</nospellcheck></atom-cardname> enters and whenever you cast a spell with mana value 5 or greater, create a 1/1 Wonder creature token that’s all colors.
+		<sym-auto>WB</sym-auto>, Pay 2 life: Create a token that’s a copy of target token you control. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Andras Rocha
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

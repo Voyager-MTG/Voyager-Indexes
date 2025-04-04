@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Attwater
+		!tag HouseAnimal
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-03 18:56:05
+	name: Enduring Turtle
+	casting_cost: 1U
+	image: image93.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Turtle</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. You can’t use this mana to cast creature spells.
+	flavor_text: <i-flavor>The patient symbol of House <error-spelling:en_US>Attwater</error-spelling:en_US>.</i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: JakobAlexanderBrahm
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

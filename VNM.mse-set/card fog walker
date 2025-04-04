@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: -2
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2022-04-24 03:31:09
+	time_modified: 2024-06-28 21:51:48
+	name: Fog Walker
+	casting_cost: I
+	image: image118
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>II</sym-auto>. You can’t spend this mana to cast a spell.
+	flavor_text:
+		<i-flavor>“They’ve found a niche in the ancient battlegrounds encompassed by mist. No wonder they’re so poorly documented.”
+		—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</i-flavor></error-spelling:en_US>
+	power: 1
+	toughness: 1
+	illustrator: Valerya Sibashvili-Marchand
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

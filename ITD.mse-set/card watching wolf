@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-10-03 23:34:51
+	time_modified: 2025-01-02 20:58:25
+	name: Watching Wolf
+	casting_cost: 4G
+	image: image97
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Eye</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wolf</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Watching Wolf</nospellcheck></atom-cardname> can’t blocked by creatures with power 2 or less.
+	flavor_text: <i-flavor>Molded in the vague shape of wolves, they have no need for food. Their mouths simply disable victims to be dissolved by the caustic fluid they weep.</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Sandara
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

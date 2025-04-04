@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: landslot
+	time_created: 2024-12-27 20:43:47
+	time_modified: 2025-02-01 19:02:11
+	card_color: black, green, land, horizontal
+	name: Underholt Gateway
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rule_text:
+		<atom-cardname><nospellcheck>Underholt Gateway</nospellcheck></atom-cardname> enters tapped unless a land you control could produce <sym>R</sym>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor>Hidden within the dense jungle of the inner Holt are doors to the Citadel, which present themselves only to the brazen.</i-flavor>
+	illustrator: Cosmin Hrinco
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

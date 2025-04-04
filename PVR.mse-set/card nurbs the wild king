@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 5
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: MONARCHCYCLE
+	time_created: 2022-04-06 11:26:54
+	time_modified: 2025-02-19 21:05:44
+	card_color: blue, red, green, multicolor, horizontal
+	name: Nurbs, the Wild King
+	casting_cost: GUR
+	image: image127
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Troll</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demigod</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		As long as your <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> is three or greater, permanents you control have the activated abilities of <atom-cardname><nospellcheck>Nurbs, the Wild King</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>: Put a +1/+1 counter on this.
+		<sym-auto>R</sym-auto>, <sym-auto>T</sym-auto>: Create a tapped <kw-0><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-0>.
+		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Estudio Guardabosques
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

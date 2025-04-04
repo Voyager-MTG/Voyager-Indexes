@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2025-01-18 15:32:19
+	time_modified: 2025-04-01 17:10:12
+	card_color: silver
+	name: Scouting Party
+	casting_cost: 4II
+	image: image78
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Rabbit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Healing <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>2</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-1><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-1> — <sym-auto>2</sym-auto>, Discard this card: Search your library for a Fault card, reveal it, put it into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Wesley Gardner
+	card_code_text: • Designed by TVP for TVPCORE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

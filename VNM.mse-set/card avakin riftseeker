@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-04-25 03:15:03
+	time_modified: 2025-03-01 16:51:36
+	name: Avakin Riftseeker
+	casting_cost: 1U/BU/B
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		Whenever this creature deals combat damage to an opponent, draw a card.
+		<sym-auto>1I</sym-auto>: This creature can’t be blocked by creatures with power 2 or less until end of turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>As entities are born through the openings of new rifts, it is the <error-spelling:en_US>Avakin’s</error-spelling:en_US> life work to help them into their world, often into their fold.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Veli Nyström
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

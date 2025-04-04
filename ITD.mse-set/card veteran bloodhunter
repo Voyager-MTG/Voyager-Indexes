@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/hungerartist/art/Vampire-Lord-86177101
+	time_created: 2024-05-11 15:49:43
+	time_modified: 2024-12-18 17:28:53
+	name: Veteran Bloodhunter
+	casting_cost: B
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		<soft-line>When <atom-cardname><nospellcheck>Veteran Bloodhunter</nospellcheck></atom-cardname> enters, conjure a card named Drain into your hand. <i-auto>(It’s a <sym>B</sym> sorcery with “Target opponent loses 1 life and you gain 1 life.”)</i-auto></soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: hungerartist
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

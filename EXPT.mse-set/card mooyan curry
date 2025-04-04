@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-02-27 23:55:10
+	time_modified: 2025-03-30 19:46:55
+	name: Mooyan Curry
+	casting_cost: 1I
+	image: image90
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Destroy target noncreature artifact or noncreature enchantment. You gain 2 life.
+	flavor_text: <i-flavor>Nutritious and spicy, its meant for your soul, not your mouth.</i-flavor>
+	power: 
+	toughness: 
+	illustrator: KONAMI
+	card_code_text: • Designed by TVP
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: YGO2MTG project by TVP
+	copyright_2: YGO2MTG project by TVP
+	copyright_3: YGO2MTG project by TVP

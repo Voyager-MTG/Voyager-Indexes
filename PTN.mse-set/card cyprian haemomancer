@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tapped
+	time_created: 2023-06-22 22:15:28
+	time_modified: 2024-04-21 21:11:43
+	card_color: black
+	name: Cyprian Haemomancer
+	casting_cost: B
+	image: image82
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Cyprian Haemomancer</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>1B</sym-auto>: Return <atom-cardname><nospellcheck>Cyprian Haemomancer</nospellcheck></atom-cardname> from your graveyard to the battlefield. Activate only if an opponent lost life this turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>It is unusual for that vital pigment to survive the death of the body.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Grafit-art
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tokens Dragon Token
+	time_created: 2025-01-08 19:32:47
+	time_modified: 2025-01-27 10:55:10
+	name: Starstruck Skitter
+	casting_cost: R
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Lizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-A><nospellcheck><key>Ploy</key></nospellcheck>—Add one mana of any color. You don’t lose this mana as steps and phases end this turn.<atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-A>
+		<i>Augmented</i> — At the beginning of your end step, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, create a 5/5 red Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. 
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Devin Elle Kurtz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		LANDCYCLERARE
+		BLACKRARE12
+	time_created: 2022-03-13 04:23:12
+	time_modified: 2024-11-08 13:43:14
+	name: Erfex, Rotting Realm
+	image: image313
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erfex</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
+		Whenever you spend four or more mana to cast a spell or activate an ability, put two +1/+1 counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erfex</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. You may have it become a 0/0 Fractal Horror creature until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Julien louche
+	card_code_text: Fleur
+	card_code_text_2: Fleur
+	card_code_text_3: Fleur
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

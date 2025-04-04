@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 11
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Radcliff
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-03-03 06:01:49
+	name: Standoff at Beachside
+	casting_cost: 1RR
+	image: image63.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Standoff at <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Beachside</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 3 damage to each creature and each planeswalker.
+		</li><li><bullet>• </bullet>Discard any number of cards. Draw cards equal to the number of cards discarded this way plus one.</li>
+	flavor_text:
+		<i-flavor>“The mighty have no need to concern themselves with the concerns of the pitiful.”
+		—<error-spelling:en_US>Sighilde</error-spelling:en_US> Radcliff</i-flavor>
+	illustrator: Petar Penev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: 
+		font_cap: 11.1
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-05-07 21:22:38
+	time_modified: 2024-11-11 19:11:32
+	card_color: green
+	name: Pupil of Defiance
+	casting_cost: 2G
+	image: image136
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>Pupil of Defiance</nospellcheck></atom-cardname> enters, choose one —
+		<li><bullet>• </bullet><kw-A><nospellcheck><key>Induct</key></nospellcheck><atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</i-auto></atom-reminder-custom></kw-A>
+		</li><li><bullet>• </bullet>Target creature gets +2/+2 until end of turn and must be blocked this turn if able.</li>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Byron Hamilton
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

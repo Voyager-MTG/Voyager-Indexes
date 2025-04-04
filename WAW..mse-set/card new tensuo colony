@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-22 00:09:15
+	time_modified: 2025-02-14 13:26:07
+	name: New Tensuo Colony
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>New Tensuo Colony</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
+		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>: Create a token that’s a copy of target creature token you control with base power 1 or less. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Hyunwook Jeon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

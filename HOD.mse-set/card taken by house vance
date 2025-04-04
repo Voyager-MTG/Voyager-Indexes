@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		
+		!tag Bennet
+		!tag Vance
+		!tag HODStory
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-03-04 23:02:46
+	name: Taken by House Vance
+	casting_cost: 1BB
+	image: image68.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Choose a nonland card name. Search target player’s graveyard, hand, and library for any number of cards with that name and exile. That player shuffles their library. For each card exiled from their hand this way, you lose 2 life.
+	flavor_text: <i-flavor><error-spelling:en_US>Bennet</error-spelling:en_US> had no use for an illegitimate son, but his heart did not allow for infanticide.</i-flavor>
+	illustrator: Tatiana Vetrova
+	card_code_text: Story Spotlight 1
+	card_code_text_2: 
+	card_code_text_3: 

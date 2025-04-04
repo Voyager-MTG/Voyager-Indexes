@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-08-28 13:06:05
+	time_modified: 2024-08-28 14:11:15
+	name: Unfair Judgment
+	casting_cost: 1W
+	image: image54
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		As an additional cost to cast this spell, you may sacrifice a creature.
+		Exile target creature if it’s attacking or if you paid this spell’s additional cost.
+	flavor_text: <i-flavor>Worried, the bird made a scale that always tipped to one side. That way every judgment would yield a clear verdict.</i-flavor>
+	illustrator: nishikujic
+	card_code_text:
+		 Story Spotlight
+	card_code_text_2:
+		 Story Spotlight
+	card_code_text_3:
+		 Story Spotlight
+	copyright: 
+	copyright_2: 
+	copyright_3: 

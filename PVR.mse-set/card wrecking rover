@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDUNCOMMON
+		UR02
+	time_created: 2022-01-31 20:16:46
+	time_modified: 2024-11-08 13:50:52
+	name: Wrecking Rover
+	casting_cost: 2R
+	image: image188
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Wrecking Rover</nospellcheck></atom-cardname> enters, search your library for a basic land card or a Texture card, put it onto the battlefield tapped, then shuffle.
+		<atom-cardname><nospellcheck>Wrecking Rover</nospellcheck></atom-cardname> attacks each combat if able.
+		When <atom-cardname><nospellcheck>Wrecking Rover</nospellcheck></atom-cardname> leaves the battlefield, sacrifice a land.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Mohamed Chahin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

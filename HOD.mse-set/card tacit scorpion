@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag HouseAnimal
+		!tag Hook
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-03 23:19:41
+	name: Tacit Scorpion
+	casting_cost: 1B
+	image: image91.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Scorpion</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Tacit Scorpion</nospellcheck></atom-cardname> dies, it deals 2 damage to each opponent and you gain 2 life.
+	flavor_text: <i-flavor>The deadly symbol of House Hook.</i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: DanteCyberMan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

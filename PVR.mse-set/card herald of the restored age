@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENCOMMON
+		CG09
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2023-02-09 22:42:11
+	name: Herald of the Restored Age
+	casting_cost: 4G
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: <kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+	flavor_text:
+		<i-flavor>“Some patches of land faintly resemble normalcy. This world’s scars are healing.”<soft-line>
+		—<error-spelling:en_US>Edravir</error-spelling:en_US>, Last of the Obsolete</soft-line></i-flavor>
+	power: 5
+	toughness: 4
+	illustrator: Hot Amr
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

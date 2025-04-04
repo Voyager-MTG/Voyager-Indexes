@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 4
+		frames: 
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		REDCOMMON
+		CR04
+		INCARNATIONTYPE
+		WIZARDTYPE
+		
+		!replacetoken Liberated Reminder;1
+	time_created: 2023-06-21 23:40:02
+	time_modified: 2025-02-13 20:43:58
+	card_color: red
+	name: Curious Qualiaform
+	casting_cost: 1R
+	image: image87
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Incarnation</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
+		Whenever you cast a spell from anywhere other than your hand, <kw-A><nospellcheck><key>liberate</key></nospellcheck> <atom-cardname><nospellcheck>Curious Qualiaform</nospellcheck></atom-cardname>.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: SulaMoon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

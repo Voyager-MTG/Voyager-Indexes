@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Rey
+		!tag Perle
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-04 00:23:47
+	name: Beacon of Greatness
+	casting_cost: 3R
+	image: image101.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Choose one, then create a token with those characteristics, then create a 3/3 white Soldier creature token with <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
+		<li><bullet>• </bullet>Lover to All, a legendary 2/3 red Human Noble creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
+		</li><li><bullet>• </bullet>The Sword of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Perle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, a legendary 3/1 red Orc Soldier creature token with “This creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it is attacking.”</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aaron Nakahara
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

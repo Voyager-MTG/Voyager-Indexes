@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 14
+		font_cap: 
+		frames: 
+		other_options: auto nyx crowns
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2025-03-01 17:35:37
+	card_color: green
+	name: Progeny of Mordel
+	casting_cost: 4GG
+	image: image74
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wurm</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		When this creature enters, put a +1/+1 counter on each of up to two target creatures you control.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Abandoned <error-spelling:en_US>Wurm</error-spelling:en_US> broods were common during the war, and many clans adopted them out of kindness. The favor was never forgotten.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: MrDream
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

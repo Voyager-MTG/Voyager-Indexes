@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: changed
+	time_created: 2024-10-12 18:23:11
+	time_modified: 2024-12-17 20:51:04
+	name: Infested Heart
+	casting_cost: 2G
+	image: image122
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Double the power of target creature you control. It gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>. It then deals damage equal to its power to up to one target creature or planeswalker. Sacrifice it at end of turn.
+	flavor_text: <i-flavor>A heart can teach of blood, of iron, and of rhythmic order. But it cannot teach revenge.</i-flavor>
+	illustrator: MON_2501
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

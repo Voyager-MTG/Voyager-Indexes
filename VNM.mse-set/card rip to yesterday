@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2021-04-25 03:20:55
+	time_modified: 2025-02-28 22:26:30
+	card_color: land, multicolor
+	name: Rip to Yesterday
+	image: image252
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Pay 1 life: Add one mana of any color. Activate only if you control an enchantment.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“Ages ago, after <error-spelling:en_US>Urza’s</error-spelling:en_US> actions tore the plane, the inhabitants created a reflection of him, his malice, and the gods, all completely unaware of the fact they’d done it at all.”<soft-line>
+		— History of <error-spelling:en_US>Vinimroth</error-spelling:en_US>, written by <error-spelling:en_US>Korna</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Giorgio Grecu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

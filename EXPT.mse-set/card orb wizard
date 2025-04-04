@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !related Wandering Travelers;
+	time_created: 2024-08-14 10:08:55
+	time_modified: 2024-11-03 10:08:51
+	name: Orb Wizard
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Orb</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <sym-auto>1</sym-auto>, Sacrifice this creature: Counter target noncreature spell unless its controller pays <sym-auto>1</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Victor Mosquera
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

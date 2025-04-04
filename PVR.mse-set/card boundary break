@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITEUNCOMMON
+		UW10
+	time_created: 2022-01-10 16:50:12
+	time_modified: 2025-02-20 03:18:32
+	name: Boundary Break
+	casting_cost: 1W
+	image: image195
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Exile target permanent, then return it to the battlefield under its owner’s control. As it enters the battlefield this way, it gains <kw-0><nospellcheck><key>bake</key></nospellcheck></kw-0> until end of turn. <i-auto>(When it enters, up to one target permanent gains its abilities until end of turn.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mohamed Chahin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

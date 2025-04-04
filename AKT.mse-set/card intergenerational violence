@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKUNCOMMON
+		UB05
+		INCARNATIONTYPE
+	time_created: 2023-09-07 19:06:52
+	time_modified: 2024-11-01 08:16:48
+	name: Intergenerational Violence
+	casting_cost: 4B
+	image: image32.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Incarnation</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever a creature dies, that creature deals 1 damage to each of your opponents and you gain 1 life.
+	flavor_text: <i-flavor>If <error-spelling:en_US>Annaja’s</error-spelling:en_US> grandparents knew their act of passion would result in </i>him<i>, they would have divorced on the spot.</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Lucas Torquato
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

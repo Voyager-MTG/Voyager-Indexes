@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-01-20 23:11:08
+	time_modified: 2025-01-02 19:25:43
+	name: Matryoshka Crawler
+	casting_cost: 5
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Matryoshka Crawler</nospellcheck></atom-cardname> dies, you may search your library for a colorless card with mana value 3 or less, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>It contains multitudes.</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Pavel Vophira
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

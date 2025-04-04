@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: COLOURLESSRARE
+	time_created: 2022-03-18 23:47:43
+	time_modified: 2023-05-05 07:17:42
+	name: Self-Intersector
+	casting_cost: 1
+	image: image240
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		At the beginning of your upkeep, you may pay <sym-auto>1</sym-auto>. If you don’t, sacrifice <atom-cardname><nospellcheck>Self-Intersector</nospellcheck></atom-cardname> and it deals 3 damage to you.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Target player creates a token that’s a copy of <atom-cardname><nospellcheck>Self-Intersector</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Augustus Clark
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITECOMMON
+		CW15
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2022-05-29 23:52:36
+	card_color: white
+	name: Harsh Sentence
+	casting_cost: 1W
+	image: image78
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: Destroy target tapped creature.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor><error-spelling:en_US>Edravir’s</error-spelling:en_US> millennium-long solitude is kept entertained by dog breeding. His pups are a source of love, then an aide to hunting food, then a sacrifice to the <error-spelling:en_US>nilshroud</error-spelling:en_US>.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Robin Tran
+	card_code_text: Functional
+	card_code_text_2: Functional
+	card_code_text_3: Functional
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

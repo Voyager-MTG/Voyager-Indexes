@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-13 21:37:44
+	time_modified: 2025-01-28 17:32:22
+	name: Lifelighter
+	casting_cost: 1W
+	image: image94
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Lifelighter</nospellcheck></atom-cardname> enters, you may <b>[return target permanent you control not named <atom-cardname><nospellcheck>Lifelighter</nospellcheck></atom-cardname> to its owner’s hand.]</b>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>W</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>W</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Felipe Montecinos
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

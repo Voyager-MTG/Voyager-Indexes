@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/andrejzt/art/Angel-of-Judgment-970217091
+	time_created: 2022-09-09 14:53:42
+	time_modified: 2024-06-20 22:23:45
+	card_color: black
+	name: Dry-Soul Angel
+	casting_cost: 2B
+	image: image308
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Angel</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Dry-Soul Angel</nospellcheck></atom-cardname> enters, each player sacrifices a creature.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The division of the Sun has empowered those that thrive near death.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Andrej Z.T.
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

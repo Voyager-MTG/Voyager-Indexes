@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-07 11:22:52
+	time_modified: 2025-02-04 20:54:41
+	name: Endless Enigma
+	casting_cost: 1URW
+	image: image196
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wall</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Endless Enigma</nospellcheck></atom-cardname> enters, you may shuffle a card from your hand into your library. If you do, return up to one target noncreature card from your graveyard to your hand.
+	flavor_text: <i-flavor>Every inch of its surface is covered in text that is just on the cusp of readability.             </i-flavor>
+	power: 0
+	toughness: 5
+	illustrator: Shen He
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

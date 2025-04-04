@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_textboxes: two
+		snap_chapter_to_box: 1,2,2,
+		chapter_divider_coordinates: 330,
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-10-14 16:32:47
+	time_modified: 2024-10-15 22:38:41
+	special_text:
+		
+		Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
+		<soft-line>You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.</soft-line>
+		​
+	name: Lighting the False Sun
+	casting_cost: 1W
+	image: image138
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
+	level_2_text: <soft-line>You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.</soft-line>
+	level_3_text: ​
+	illustrator: Rebecca Chaperon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

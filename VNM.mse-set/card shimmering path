@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-03 15:05:01
+	time_modified: 2025-02-28 22:49:10
+	name: Shimmering Path
+	image: image326
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		This land enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.
+		<sym-auto>4I</sym-auto>, Discard a card: Choose and reveal a card from your sanctum, then put that card into your hand.
+	flavor_text: <i-flavor>Some paths are not traversed by going forward, but rather “through”.</i-flavor>
+	illustrator: Ilya Popov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

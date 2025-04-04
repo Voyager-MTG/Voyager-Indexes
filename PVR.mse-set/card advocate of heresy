@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKUNCOMMON
+		UB10
+	time_created: 2022-03-17 05:00:59
+	time_modified: 2024-11-08 13:52:22
+	name: Advocate of Heresy
+	casting_cost: 5BB
+	image: image279
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Advocate of Heresy</nospellcheck></atom-cardname> enters, destroy up to one target creature. <kw-A><nospellcheck><key>You get</key></nospellcheck> an amount of <sym>V</sym> equal to that creature’s mana value.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>The <error-spelling:en_US>Nilshroud</error-spelling:en_US> is a justified prison.</i-flavor>
+	watermark: none
+	power: 7
+	toughness: 5
+	illustrator: xxxscope001xxx
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

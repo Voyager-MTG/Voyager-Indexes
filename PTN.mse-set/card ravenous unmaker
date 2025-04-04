@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !addtoken Scar;1
+	time_created: 2023-06-22 22:15:28
+	time_modified: 2024-07-03 10:04:11
+	card_color: green
+	name: Ravenous Unmaker
+	casting_cost: 3GG
+	image: image131
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wolf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Ravenous Unmaker</nospellcheck></atom-cardname> enters, you get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		Whenever <atom-cardname><nospellcheck>Ravenous Unmaker</nospellcheck></atom-cardname> attacks or a boon you own triggers, creatures you control get +1/+1 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

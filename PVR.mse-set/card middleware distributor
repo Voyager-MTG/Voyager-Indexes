@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: BLUERARE
+	time_created: 2022-04-11 11:09:31
+	time_modified: 2024-11-08 14:24:38
+	card_color: blue, artifact, horizontal
+	name: Middleware Distributor
+	casting_cost: 1U
+	image: image296
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Middleware Distributor</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as you’ve put a nontoken card into your hand this turn and it wasn’t drawn.
+		<atom-cardname><nospellcheck>Middleware Distributor</nospellcheck></atom-cardname> gets +1/+1 for each nontoken card a spell or ability has put into your hand this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Mat Szulik
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

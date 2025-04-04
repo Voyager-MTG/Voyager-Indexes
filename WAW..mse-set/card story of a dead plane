@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: nyx
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-28 17:34:33
+	time_modified: 2025-01-30 22:30:55
+	card_color: multicolor
+	name: Story of a Dead Plane
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rule_text:
+		This enchantment is all colors.
+		Sacrifice this enchantment: Until end of turn, lands you control gain “<sym-auto>T</sym-auto>: Add one mana of any color.”
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Adam Pacek
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

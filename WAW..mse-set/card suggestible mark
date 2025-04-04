@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-14 17:39:27
+	time_modified: 2025-01-28 19:51:23
+	card_color: black
+	name: Suggestible Mark
+	casting_cost: 2B
+	image: image168
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Suggestible Mark</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text:
+		<i-flavor>“You seem like a smart guy. Wanna join up?”<soft-line>
+		</soft-line>—Chance-in-Hell </i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Stefan Kopinsky
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

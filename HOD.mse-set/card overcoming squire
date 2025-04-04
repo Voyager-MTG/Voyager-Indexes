@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Rey
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-03 19:11:39
+	name: Overcoming Squire
+	casting_cost: 1W
+	image: image95.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When <atom-cardname><nospellcheck>Overcoming Squire</nospellcheck></atom-cardname> enters, you gain 3 life.
+		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>3W</sym-auto>, Exile three other cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>“Today, we stand. Today, we fight. Our lives for Lady Edith!”</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Joshua Raphael
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		Land Cycle
+		House Phyre
+	time_created: 2021-07-05 10:06:49
+	time_modified: 2022-05-23 00:38:37
+	name: Ardleby Hold
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>. <atom-cardname><nospellcheck>Ardleby Hold</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
+	flavor_text: <i-flavor>A supposedly empty House with a loyal and devoted family.</i-flavor>
+	illustrator: Andy Jaramillo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Zangy
+	copyright_2: Set by Zangy
+	copyright_3: Set by Zangy

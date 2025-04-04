@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDUNCOMMON
+		UR10
+	time_created: 2021-06-14 06:15:46
+	time_modified: 2025-01-28 16:06:24
+	name: Channel the Call
+	casting_cost: 1R
+	image: image96
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		Exile the top card of your library. You may cast that card. If you don’t, <atom-cardname><nospellcheck>Channel the Call</nospellcheck></atom-cardname> deals 2 damage to each opponent.
+		Whenever a permanent you control transforms or enters transformed, return <atom-cardname><nospellcheck>Channel the Call</nospellcheck></atom-cardname> from your graveyard to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: MonoKubo
+	card_code_text: Reprint
+	card_code_text_2: Reprint
+	card_code_text_3: Reprint
+	copyright: 
+	copyright_2: 
+	copyright_3: 

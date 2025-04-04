@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: clear
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !tokens Beast Token;
+	time_created: 2025-01-28 15:14:44
+	time_modified: 2025-01-28 15:35:52
+	name: Anything and Everything
+	casting_cost: 3
+	image: image118
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		Choose one—
+		<li><bullet>• </bullet><b>[Exile up to one target nonland permanent with mana value 1 or less.]</b>
+		</li><li><bullet>• </bullet><b>[<kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw a card.]</b>
+		</li><li><bullet>• </bullet><b>[Create a 3/3 green Beast creature token.]</b>
+		<margin:0:0:5></li><kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>WUBRG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>WUBRG</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A></margin:0:0:5>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Philip Byers
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

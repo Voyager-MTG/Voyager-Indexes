@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		GREENUNCOMMON
+		UG05
+	time_created: 2022-04-15 15:53:24
+	time_modified: 2022-08-04 19:46:15
+	name: Rastira Mauler
+	casting_cost: 3GG
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, <atom-cardname><nospellcheck>Rastira Mauler</nospellcheck></atom-cardname> fights up to one target creature you don’t control. This ability triggers only once each turn.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Alex Pahomov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

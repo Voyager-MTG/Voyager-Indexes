@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !note hybrid
+	time_created: 2021-04-25 03:47:22
+	time_modified: 2025-03-01 17:38:57
+	name: Roduth’s Guard
+	casting_cost: 2R/WR/W
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wurm</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		When this creature enters, it deals damage equal to the number of creatures you control to up to one target tapped permanent.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>They already saw you coming.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Alberto Moldes
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

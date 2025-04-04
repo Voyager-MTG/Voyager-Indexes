@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		shrink_name_text: 
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.pinterest.co.uk/pin/525021269071350989/
+	time_created: 2024-09-05 15:48:55
+	time_modified: 2025-01-10 22:45:45
+	name: Edge of a Precipice
+	casting_cost: 1U
+	image: image68
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Choose one—
+		<li><bullet>• </bullet>Return target nonland permanent to its owner’s hand.
+		</li><li><bullet>• </bullet>Return target instant or sorcery card with mana value 3 or less from your graveyard to your hand.
+		<margin:0:0:5></li>Exile <atom-cardname><nospellcheck>Edge of a Precipice</nospellcheck></atom-cardname>.</margin:0:0:5>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dean Stuart
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

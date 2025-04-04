@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.pixiv.net/en/artworks/31364547
+	time_created: 2024-08-27 16:57:24
+	time_modified: 2025-01-21 15:54:52
+	name: Chimerism
+	casting_cost: 1W
+	image: image48
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text: Choose two target creatures controlled by the same player. Exile them. Their controller creates a tapped X/X colorless Horror creature token, where X is the combined power of those creatures. 
+	flavor_text: <i-flavor>Together, forever.</i-flavor>
+	illustrator: si_ku
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

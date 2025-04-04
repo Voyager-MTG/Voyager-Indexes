@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDUNCOMMON
+		UR06
+		DINOCURVE?
+	time_created: 2022-01-31 20:16:46
+	time_modified: 2022-02-23 10:15:36
+	name: Terror of Harsurfir
+	casting_cost: 3R
+	image: image153
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Terror of Harsurfir</nospellcheck></atom-cardname> deals combat damage to a player, <kw-A><nospellcheck><key>you get</key></nospellcheck> an amount of <sym>V</sym> equal to the damage dealt this way.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Christian Bravery
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

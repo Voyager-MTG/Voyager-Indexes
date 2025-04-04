@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-23 12:41:55
+	time_modified: 2025-03-18 17:08:30
+	name: Citadel Observatory
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Citadel Observatory</nospellcheck></atom-cardname>: You may put a basic land card you own from your sanctum onto the battlefield tapped.
+		<sym-auto>2</sym-auto>, Discard <atom-cardname><nospellcheck>Citadel Observatory</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Emilio Grasso
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

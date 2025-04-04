@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-10-09 21:20:03
+	time_modified: 2024-12-17 21:12:29
+	name: The Pact
+	casting_cost: 1GG
+	image: image116
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: Whenever a creature you control enters, you may return a permanent card with lesser mana value than it from your graveyard to your hand. If you don’t, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. 
+	flavor_text: <i-flavor>Long ago, Fey and Beast made a deal. Dominion of dream for dominion of the dark forest that seemed to stretch on forever.</i-flavor>
+	illustrator: Asfodelo
+	card_code_text:
+		  Story Spotlight
+	card_code_text_2: 
+	card_code_text_3:
+		  Story Spotlight
+	copyright: 
+	copyright_2: 
+	copyright_3: 

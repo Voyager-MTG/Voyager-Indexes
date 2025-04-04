@@ -1,0 +1,54 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: mutate
+		altered_plus_frames: path
+		popout_image_style: 
+		popout_image_style_2: 
+		custom_symbol: abstract-061.png
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: !tapped
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2025-03-01 16:06:01
+	extra_data:
+		magic-m15-altered-plus:
+			corner: sanctum
+	card_color: land, multicolor
+	name: Runed Spire
+	casting_cost: 
+	card_symbol: none
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		This land enters tapped. As this land enters, pay <sym-auto>1</sym-auto> or sacrifice this land.
+		<sym-auto>T</sym-auto>: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost>Pay 2 life, then exile a card with exactly one color from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+	power: 
+	toughness: 
+	illustrator: Nele Diel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

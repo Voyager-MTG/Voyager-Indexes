@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		opacity: 200
+		other_options: use taller frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Planeswalker
+		!tag Suyay
+		!tag CaruMapu
+	time_created: 2025-02-24 00:44:17
+	time_modified: 2025-03-05 18:04:06
+	special_text:
+		Whenever a token enters from your reserves, put a +1/+1 counter and your choice of a <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> counter on it.
+		[+1]: <margin:130:0:0>Create two 1/1 white Soldier creature tokens <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A></margin:130:0:0>
+		[-7]: <margin:130:0:0>Create two white enchantment tokens named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Intisuyu’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Armies with “At the beginning of your end step, create a 1/1 white Solider creature token for each creature you control.”</margin:130:0:0>
+	card_color: white, green, multicolor, horizontal
+	name: Capac Suyay, Grim Seeker
+	casting_cost: 1GW
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Suyay</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	loyalty_cost_2: +1
+	loyalty_cost_3: -7
+	loyalty: 4
+	level_1_text: Whenever a token enters from your reserves, put a +1/+1 counter and your choice of a <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> counter on it.
+	level_2_text: <margin:130:0:0>Create two 1/1 white Soldier creature tokens <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A></margin:130:0:0>
+	level_3_text: <margin:130:0:0>Create two white enchantment tokens named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Intisuyu’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Armies with “At the beginning of your end step, create a 1/1 white Solider creature token for each creature you control.”</margin:130:0:0>
+	level_4_text: 
+	illustrator: Juan Carlos Alegre
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: She/her

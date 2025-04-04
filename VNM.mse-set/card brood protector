@@ -1,0 +1,52 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: star
+		altered_plus_frames: star
+		other_options: auto nyx crowns
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: !addtoken RedWurm;
+	time_created: 2021-04-25 03:47:22
+	time_modified: 2023-05-24 20:07:38
+	card_color: red
+	name: Brood Protector
+	casting_cost: 1RR
+	image: image150
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wurm</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>
+		<i><kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> </i>— At the beginning of combat on your turn, if you cast a noncreature spell this turn, create a 1/1 red Wurm creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>After peace was finally achieved, some broods were put into the care of the very<soft-line>
+		</soft-line>beings they were being raised to fight.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Alexandra Roslik
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

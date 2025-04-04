@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		font_cap: 13.5
+		d20_dividers: off
+		frames: 
+		altered_plus_frames: star
+		custom_symbol: abstract-061.png
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2024-03-02 22:05:26
+	time_modified: 2025-03-01 17:23:02
+	name: Scars of Oil
+	casting_cost: 1I/U
+	image: image107.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rule_text:
+		When this enchantment enters, draw two cards, then discard a card.
+		The first time each turn you discard a card, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. If you do, put up to two cards in your graveyard into your sanctum.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Branden Singletary
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-14 00:26:34
+	time_modified: 2025-01-28 17:32:17
+	name: Curious Courier
+	casting_cost: W
+	image: image48
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Tap target non-Wonder creature.
+		<sym-auto>2</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Curious Courier</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text:
+		<i-flavor>“The <error-spelling:en_US>Ilcans</error-spelling:en_US> are violent, and we don’t know what they’re capable of. Keep the peace until we do.”<soft-line>
+		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></i-flavor></error-spelling:en_US>
+	power: 1
+	toughness: 2
+	illustrator: Joao Phillippe
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

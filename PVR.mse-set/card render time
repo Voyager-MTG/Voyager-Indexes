@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: BLUERARE9
+	time_created: 2022-03-27 20:03:23
+	time_modified: 2024-11-08 14:34:56
+	name: Render Time
+	casting_cost: 9UU
+	image: image255
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		This spell costs <sym-auto>X</sym-auto> less to cast, where X is the total <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> of each player.
+		End the turn. <i-auto>(Exile all spells and abilities from the stack, including this card. Discard down to your maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Carlord420
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

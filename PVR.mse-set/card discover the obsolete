@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: WHITERARE9
+	time_created: 2022-05-26 06:22:46
+	time_modified: 2023-05-05 06:59:05
+	name: Discover the Obsolete
+	casting_cost: 4WW
+	image: image53
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: Repeat the following process for each nontoken Aura or Equipment you control. For each player or nontoken permanent it could <kw-a><nospellcheck><key>enchant <param-name>or equip, you may create a token that’s a copy of that Aura or Equipment attached to that permanent or player.</param-name></key></nospellcheck></kw-a> 
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jona Dinges
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

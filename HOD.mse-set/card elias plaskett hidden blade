@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 9
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Plaskett
+		!tag Elias
+	time_created: 2025-02-24 00:39:22
+	time_modified: 2025-03-05 19:19:55
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/him
+	name: Elias Plaskett, Hidden Blade
+	casting_cost: 1UB
+	image: image45.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Kithkin</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		If a creature would enter under an opponent’s control and wasn’t cast from their hand, exile it instead. If it didn’t come from their reserves, they create a token that’s a copy of it there. <i-auto>(As long as Elias holds them hostage, they can’t enter. Once he leaves they may pay <sym>3</sym> as a sorcery to put up to three of them onto the battlefield.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: stumpyfongo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

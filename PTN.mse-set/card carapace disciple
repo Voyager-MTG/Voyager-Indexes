@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !addtoken Scar;1
+	time_created: 2023-05-07 21:22:38
+	time_modified: 2023-09-15 19:37:35
+	card_color: green
+	name: Carapace Disciple
+	casting_cost: G
+	image: image120
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: <sym-auto>2G</sym-auto>, Exile <atom-cardname><nospellcheck>Carapace Disciple</nospellcheck></atom-cardname> from your graveyard: Put two +1/+1 counters on target creature and you get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>. Activate only as a sorcery.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: David Haire
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

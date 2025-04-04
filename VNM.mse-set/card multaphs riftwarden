@@ -1,0 +1,58 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 10
+		font_cap: 
+		d20_dividers: all breaks +1
+		frames: lesson
+		altered_plus_frames: 
+		other_options: auto familiars, auto nyx crowns, auto star crowns, auto space crowns
+		use_holofoil_stamps: no
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		!note hybrid
+		!exportname Multaphs Riftwarden
+		!persistent Voidstone Shard
+	time_created: 2021-04-25 03:15:03
+	time_modified: 2025-03-01 16:38:03
+	extra_data:
+		magic-m15-altered-plus:
+			corner: instant
+	name: Multaph’s Riftwarden
+	casting_cost: 2G/UG/U
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		When this creature enters, create a trace of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Voidstone</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Shard into your hand.
+		Once each turn, when you cast an enchantment spell, draw a card.
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Voidstone</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Shard</b> <sym>2</sym>| <i>Enchantment</i><soft-line>
+		</soft-line>When this enters, <kw-a><nospellcheck><key>scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Sasho Dimitrov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

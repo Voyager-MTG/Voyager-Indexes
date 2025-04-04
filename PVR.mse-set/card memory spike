@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUERARE
+		NEWCARD
+	time_created: 2023-03-12 08:29:08
+	time_modified: 2025-03-01 19:05:26
+	name: Memory Spike
+	casting_cost: U
+	image: image109
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Target opponent <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>seven</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+	flavor_text:
+		<i-flavor>“While our history is interesting, never worship it. The past serves the future, not the other way around.”<soft-line>
+		—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Rastira</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Caleb Worcester
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

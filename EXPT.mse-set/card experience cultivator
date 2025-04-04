@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-10-16 23:58:20
+	time_modified: 2025-04-01 17:16:06
+	name: Experience Cultivator
+	casting_cost: 2I/G
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>Experience Cultivator</nospellcheck></atom-cardname> enters, you may play an additional land this turn.
+		<sym-auto>1I/G</sym-auto>, Discard <atom-cardname><nospellcheck>Experience Cultivator</nospellcheck></atom-cardname>: Put target artifact, battle, or planeswalker card from a graveyard on top of its owner’s library.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: 1oshuart
+	card_code_text: • Designed by TVP for FOE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

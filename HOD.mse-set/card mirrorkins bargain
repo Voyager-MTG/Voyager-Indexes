@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Dewold
+		!tag HODStory
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-03-05 00:13:40
+	name: Mirrorkin’s Bargain
+	casting_cost: 2U
+	image: image67.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Draw a card for each creature you control that dealt damage to an opponent this turn. If you drew five or more cards this way, create a 8/8 black Horror creature token.
+	flavor_text: <i-flavor>A mysterious stranger asked for a single head and the <error-spelling:en_US>mirrorkin</error-spelling:en_US> were eager to please.</i-flavor>
+	illustrator: Anato Finnstark
+	card_code_text: Story Spotlight 3
+	card_code_text_2: 
+	card_code_text_3: 

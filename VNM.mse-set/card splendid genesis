@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !addtoken Icon;
+	time_created: 2024-03-02 22:05:26
+	time_modified: 2024-06-28 22:32:04
+	name: Splendid Genesis
+	casting_cost: XI/G
+	image: image95.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Create an X/X green and silver Icon enchantment creature token.
+	flavor_text: <i-flavor>In the end, life perseveres.</i-flavor>
+	illustrator: Branden Singletary
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

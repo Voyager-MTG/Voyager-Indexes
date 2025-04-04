@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.pinterest.co.uk/pin/24910604164846520/
+	time_created: 2024-09-03 17:57:49
+	time_modified: 2025-02-17 17:56:44
+	name: Feast of Butterflies
+	casting_cost: 2W
+	image: image69
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		Destroy target enchantment or planeswalker.
+		<soft-line>C</soft-line>reate two 1/1 white Nightmare creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
+	flavor_text: <i-flavor>“The best part is when they crawl down your throat, wouldn’t you agree?”</i-flavor>
+	illustrator: Lena Richards
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

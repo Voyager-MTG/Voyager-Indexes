@@ -1,0 +1,81 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		back_style: 3 ability planeswalker
+		back_chop: 2,8
+		other_options: use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns, front mutate
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Terrel
+		!tag Vance
+		!tag Waldemar
+		!tag Dewold
+		!tag Planeswalker
+	time_created: 2025-02-24 00:44:17
+	time_modified: 2025-04-01 16:59:27
+	special_text:
+		
+		When <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> deals combat damage to a player, you may exile <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> from the battlefield. If you do, return him to the battlefield transformed if he was your chosen heir.
+		When <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> dies, each opponent discards a card and exiles a card from their sanctum.<sep><line>
+		</line></sep><i-flavor></i-flavor>
+	special_text_2:
+		At the beginning of your upkeep, you lose 2 life and <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner draws a card.
+		[-1]: <margin:130:0:0>Discard a card. If you didn’t discard a nonland card this way, <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner creates a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Sacrifice a non-Waldemar permanent.</margin:130:0:0>
+		<>
+		<>
+	card_color_2: black
+	name: Waldemar, Forgotten Heir
+	name_2: Waldemar, Jaded Prince
+	casting_cost: 1B
+	image: image44.png
+	image_2: image5
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-planeswalker>Waldemar</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		When <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> deals combat damage to a player, you may exile <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> from the battlefield. If you do, return him to the battlefield transformed if he was your chosen heir.
+		When <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> dies, each opponent discards a card and exiles a card from their sanctum.
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	loyalty_cost_10: -1
+	loyalty_cost_11: -2
+	loyalty_cost_12: 
+	loyalty_2: 4
+	level_1_text: 
+	level_2_text: 
+	level_3_text: 
+	level_4_text: <kw-A><nospellcheck><key>Heir—<param-name>You didn’t sideboard this game and you had no other cards in your sanctum.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto></atom-reminder-expert></kw-A>
+	level_9_text: At the beginning of your upkeep, you lose 2 life and <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner draws a card.
+	level_10_text: <margin:130:0:0>Discard a card. If you didn’t discard a nonland card this way, <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner creates a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_11_text: <margin:130:0:0>Sacrifice a non-Waldemar permanent.</margin:130:0:0>
+	level_12_text: <>
+	level_13_text: 
+	level_14_text: 
+	level_15_text: 
+	power: 2
+	toughness: 1
+	illustrator: Hinchel Or
+	illustrator_2: Pavel Stepanov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: He/him
+	secondary_copyright_2: He/him

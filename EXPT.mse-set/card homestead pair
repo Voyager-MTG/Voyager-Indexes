@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 2
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !related Wurm Dragon Token;
+	time_created: 2024-02-06 01:53:40
+	time_modified: 2025-03-30 16:04:40
+	name: Homestead Pair
+	casting_cost: 1I
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(If you control four or more permanents of a color, illuminate that color this game.)</i-auto></atom-reminder-action></kw-A>
+		When this creature enters, create a colorless 3/3 Wurm Dragon kindred enchantment token with “This is also a creature if you’ve illuminated silver.”
+	flavor_text: <i-flavor>The <error-spelling:en_US>draconic</error-spelling:en_US> mutations caused by the paths leaking in still couldn’t separate the two of them.</i-flavor>
+	power: 0
+	toughness: 3
+	illustrator: Ilya Popov
+	card_code_text: • Designed by TVP for FOE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

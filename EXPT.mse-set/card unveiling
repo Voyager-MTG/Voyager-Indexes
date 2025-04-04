@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !related Elemental Token 2;Elemental Token 3;
+	time_created: 2025-02-23 10:59:46
+	time_modified: 2025-03-30 16:34:53
+	special_text: 
+	card_color: silver
+	name: Unveiling
+	casting_cost: 1II
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Choose one, then choose another for each card named <atom-cardname><nospellcheck>Unveiling</nospellcheck></atom-cardname> in your graveyard.
+		<li><bullet>• </bullet>Blank up to one target nonland permanent your next turn. <i-auto>(It loses all abilities.)</i-auto>
+		</li><li><bullet>• </bullet>Draw a card from your sanctum or library.
+		</li><li><bullet>• </bullet>Counter up to one target activated or triggered ability.
+		</li><li><bullet>• </bullet>Create a 1/1 silver Elemental creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and another with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Rohkka
+	card_code_text: • Designed By Styles
+	card_code_text_2:
+		Styles
+		User Avatar
+		Hidegen
+		u/Hidegen
+		
+		Block user
+	card_code_text_3:
+		Styles
+		User Avatar
+		Hidegen
+		u/Hidegen
+		
+		Block user
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: clear
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !tokens Story of a Dead Plane;
+	time_created: 2025-01-25 12:24:46
+	time_modified: 2025-01-30 22:31:05
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: he/him
+	name: Dhere, Preserver of Memories
+	casting_cost: 1
+	image: image49
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Orc</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Survivor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: When <atom-legname><nospellcheck>Dhere</nospellcheck></atom-legname> enters, create an enchantment token named Story of a Dead Plane that’s all colors with “Sacrifice this enchantment: Until end of turn, lands you control gain “<sym-auto>T</sym-auto>: Add one mana of any color.””
+	flavor_text: <i-flavor>“There are so many ways for a world to die in this Multiverse.”</i-flavor>
+	power: 0
+	toughness: 3
+	illustrator: Aitor Sebastian
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

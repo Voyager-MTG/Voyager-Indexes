@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-23 11:43:38
+	time_modified: 2025-01-28 19:52:40
+	name: Rogues’ Gallery
+	casting_cost: 2B
+	image: image161
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: For each color, return up to one target creature card of that color from your graveyard to your hand.
+	flavor_text: <i-flavor>While the <error-spelling:en_US>Ilcans</error-spelling:en_US> and <error-spelling:en_US>Tensu</error-spelling:en_US> are the united factions of the Holt, most of it is controlled by ruthless individuals from a wide range of planes, seeking to exploit the Wonderlands.</i-flavor>
+	illustrator: Umeshu Lovers
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

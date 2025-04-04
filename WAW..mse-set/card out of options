@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: nyx
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-03 00:14:25
+	time_modified: 2025-01-28 17:43:12
+	name: Out of Options
+	casting_cost: 2W
+	image: image154
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature can’t attack or block.
+		<sym-auto>4UB</sym-auto>: Exile enchanted creature. Its owner may have you return it to the battlefield under your control. If they don’t, you draw three cards.
+	flavor_text:
+		<i-flavor>“Cease all progress, <error-spelling:en_US>Ajha</error-spelling:en_US>, or this will be war.”<soft-line>
+		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Abilio Antonio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

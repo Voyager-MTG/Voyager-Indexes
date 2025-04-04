@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		shrink_name_text: 
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/michaelwilliamaustin/art/Bad-moon-rising-1110839761
+	time_created: 2024-10-17 19:09:38
+	time_modified: 2025-01-23 19:39:36
+	name: Moonlight Oracle
+	casting_cost: 3U
+	image: image164
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cleric</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When this creature enters, <kw-0><nospellcheck><key>surveil <param-number>3</param-number></key></nospellcheck></kw-0>, then draw a card.
+		<i>Deep Dwelling</i>— Whenever one or more cards are put into your graveyard from your library, you may return one of them to your hand if your main library contains a number of cards less than or equal to half your starting deck size.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: MichaelWilliamAustin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-12 21:45:09
+	time_modified: 2025-01-28 19:55:42
+	name: Painful Memory
+	casting_cost: 2BR
+	image: image210
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Zombie</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Painful Memory</nospellcheck></atom-cardname> enters, target player discards a card. If that player didn’t discard a creature card this way, they lose 3 life.
+	flavor_text:
+		<i-flavor>“This place sees that we miss them, but it can’t always bring them back. I don’t think it knows that we hate what it tries to replace them with.”<soft-line><soft-line>
+		—<error-spelling:en_US>Aechmi</error-spelling:en_US>, <error-spelling:en_US>Ilcan</error-spelling:en_US> wanderer</soft-line></soft-line></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Occoultya
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

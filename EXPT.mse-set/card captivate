@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		v1.2 Tap target creature. Put a stun counter on it.
+		You may discard a card. If you do, draw a card from your sanctum.
+		
+		v1.1 Tap target creature. You may put a stun counter on it.
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-30 16:01:30
+	name: Captivate
+	casting_cost: 1I
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		Tap target creature. Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
+		You may draw a card from your sanctum or library. If you do, discard a card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>“They always say the abyss stares back. Often neglected is how beautiful that stare really is.”</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Dieg Barcellos
+	card_code_text: • Designed by TVP for FOE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

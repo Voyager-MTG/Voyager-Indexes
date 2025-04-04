@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-02 02:39:35
+	time_modified: 2025-02-14 09:28:29
+	name: Escalate to Violence
+	casting_cost: 1B
+	image: image52
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Each opponent sacrifices a creature, then you may sacrifice a creature. If you do, <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>The <error-spelling:en_US>Ilcans</error-spelling:en_US> and New <error-spelling:en_US>Tensuo</error-spelling:en_US> were both sure of one thing: the other one wanted to pick a fight.</i-flavor>
+	illustrator: Vladimir Matyukhin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

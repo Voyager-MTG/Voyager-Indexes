@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		other_options: use taller frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-10-27 18:23:43
+	time_modified: 2025-02-23 18:59:08
+	special_text:
+		Whenever you activate a loyalty ability of <atom-cardname><nospellcheck>The Eternal Echo</nospellcheck></atom-cardname>, create a colorless Echo planeswalker token at the beginning of your next end step and put 3 loyalty counters on it. It gains that ability, except it costs <sym-auto>-1</sym-auto>.
+		[+1]: <margin:130:0:0>You gain 2 life.</margin:130:0:0>
+		[0]: <margin:130:0:0>Put a +1/+1 counter on target creature you control. </margin:130:0:0>
+		[-2]: <margin:130:0:0>Each opponent loses 2 life.</margin:130:0:0>
+		[-5]: <margin:130:0:0>Draw a card.</margin:130:0:0>
+	name: The Eternal Echo
+	casting_cost: 4
+	image: image184
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Echo</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	loyalty_cost_2: +1
+	loyalty_cost_3: 0
+	loyalty_cost_4: -2
+	loyalty_cost_5: -5
+	loyalty_cost_6: 
+	loyalty: 3
+	level_1_text: Whenever you activate a loyalty ability of <atom-cardname><nospellcheck>The Eternal Echo</nospellcheck></atom-cardname>, create a colorless Echo planeswalker token at the beginning of your next end step and put 3 loyalty counters on it. It gains that ability, except it costs <sym-auto>-1</sym-auto>.
+	level_2_text: <margin:130:0:0>You gain 2 life.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Put a +1/+1 counter on target creature you control. </margin:130:0:0>
+	level_4_text: <margin:130:0:0>Each opponent loses 2 life.</margin:130:0:0>
+	level_5_text: <margin:130:0:0>Draw a card.</margin:130:0:0>
+	level_6_text: 
+	illustrator: Huleeb
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

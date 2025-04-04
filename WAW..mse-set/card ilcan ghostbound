@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-24 15:15:22
+	time_modified: 2025-02-12 16:26:29
+	card_color: blue
+	name: Ilcan Ghostbound
+	casting_cost: 2U
+	image: image199
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Kor</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Each instant, sorcery, and Spirit spell you cast has <kw-0><nospellcheck><key>emerge <param-cost><sym-auto>X</sym-auto></param-cost></key></nospellcheck></kw-0>, where X is its mana value. <i-auto>(You may cast those spells by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)</i-auto>
+		You may cast sorcery and Spirit spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Anthony Castillaz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 5
+		frames: 
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: BLACKRARE6
+	time_created: 2022-04-06 11:26:54
+	time_modified: 2024-05-18 00:37:36
+	name: Abandonmare
+	casting_cost: 3BB
+	image: image115
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Nightmare</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horse</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Abandonmare</nospellcheck></atom-cardname> enters, each player discards two cards.
+		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>BB</sym-auto></param-cost></key></nospellcheck>. Spend only mana from nonland sources this way.<atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>BB</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Ziqi Chan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

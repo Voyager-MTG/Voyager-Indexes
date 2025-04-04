@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: GREENRARE2
+	time_created: 2022-04-25 16:22:13
+	time_modified: 2022-08-13 02:56:29
+	name: The Metaball
+	casting_cost: G
+	image: image309
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Orb</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dinosaur</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: <sym-auto>T</sym-auto>, Tap X Equipment and/or Auras you control: Add X mana in any combination of colors. 
+	flavor_text: <i-flavor>Under her gaze, the tools of devastation become tools of decoration.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Mat Szulik
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

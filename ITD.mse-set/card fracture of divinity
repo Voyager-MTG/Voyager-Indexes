@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.behance.net/gallery/82915737/BLADERUNNER-2049<soft-line>
+		!spellbook I4;1</soft-line>
+	time_created: 2024-10-02 17:02:01
+	time_modified: 2025-01-03 16:38:05
+	name: Fracture of Divinity
+	casting_cost: 1U
+	image: image82
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demigod</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Construct</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Whenever an opponent casts a noncreature spell with mana value lesser than this creature’s power, draw a card.
+		Iterate <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Pascal Blance
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

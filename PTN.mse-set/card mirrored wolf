@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: frameless art
+		font_cap: 12.5
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-06-24 17:16:14
+	time_modified: 2024-11-05 17:03:32
+	card_color: colorless
+	name: Mirrored Wolf
+	casting_cost: 2
+	image: image255
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wolf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Reflection</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Mirrored Wolf</nospellcheck></atom-cardname> enters, if target opponent controls no basic lands, put a +1/+1 counter on <atom-cardname><nospellcheck>Mirrored Wolf</nospellcheck></atom-cardname>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The house of the Moon is empty and still, but it is home for those who wait for the sun to be whole again. </i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Andrej Z.T.
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

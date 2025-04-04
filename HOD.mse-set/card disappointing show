@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Radcliff
+		!tag Minna
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-03 20:35:52
+	name: Disappointing Show
+	casting_cost: XU
+	image: image170.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Counter target spell with mana value less than or equal to the amount of mana spent to cast this spell.
+	flavor_text:
+		<i-flavor>“My standards weren’t high, yet you still failed to impress.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Minna</error-spelling:en_US> Radcliff</i-flavor>
+	illustrator: Bryan Sola
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

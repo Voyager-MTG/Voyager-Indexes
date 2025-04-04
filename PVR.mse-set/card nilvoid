@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2022-05-31 06:19:51
+	time_modified: 2022-05-31 06:30:08
+	name: Nilvoid
+	image: image311
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mat Szulik
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

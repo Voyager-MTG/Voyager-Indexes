@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 3
+		frames: 
+		font_cap: 12.4
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-06-22 22:15:28
+	time_modified: 2024-11-11 19:15:09
+	card_color: green
+	name: Splinter-Blossom
+	casting_cost: 1G
+	image: image135
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wolf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		Creatures with power less than <atom-cardname><nospellcheck>Splinter-Blossom</nospellcheck></atom-cardname>’s power can’t block it.
+		Whenever <atom-cardname><nospellcheck>Splinter-Blossom</nospellcheck></atom-cardname> is dealt damage, put a +1/+1 counter on it. <i-auto>(It must survive the damage to get the counters.)</i-auto>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Wolves are not always symbols of agony.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Claudya Schmidt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

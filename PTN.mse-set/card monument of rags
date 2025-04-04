@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-06-22 22:15:28
+	time_modified: 2024-04-14 11:25:15
+	card_color: black, artifact, horizontal
+	name: Monument of Rags
+	casting_cost: 2BB
+	image: image88
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: <sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a creature: Create a 4/4 God Horror creature token that can’t block.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The Sun is as it was.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Travis Anderson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

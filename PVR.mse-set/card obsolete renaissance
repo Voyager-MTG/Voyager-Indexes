@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		UM14
+		ARCUNSET2
+	time_created: 2021-12-25 04:42:38
+	time_modified: 2024-11-08 13:50:04
+	name: Obsolete Renaissance
+	casting_cost: GW
+	image: image89
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>permanent</param-name></key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Obsolete Renaissance</nospellcheck></atom-cardname> enters, draw a card.
+		You may cast Aura spells from your graveyard if they target enchanted permanent.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: PurePoly
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

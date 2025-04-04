@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: GREENCOMMON
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2024-11-08 13:40:44
+	name: Mesh Rot
+	casting_cost: 1G
+	image: image56
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>Mesh Rot</nospellcheck></atom-cardname> enters, exile up to one target enchantment or card in a graveyard.
+		<sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Mesh Rot</nospellcheck></atom-cardname>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then draw a card.
+	flavor_text: <i-flavor>The rot flips normal on its head.</i-flavor>
+	illustrator: Ethron981
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

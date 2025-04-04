@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		frames: clear
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-28 13:20:47
+	time_modified: 2025-02-14 09:31:10
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: she/her
+	card_color: colorless
+	name: Khiare, Last of the Lost
+	casting_cost: 3
+	image: image202
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Survivor</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		Lands and creatures you control have “<sym-auto>T</sym-auto>: Add one mana of any color.”
+		If <atom-legname><nospellcheck>Khiare</nospellcheck></atom-legname> would leave the battlefield, shuffle it into its owner’s library instead.
+		<sym-auto>T</sym-auto>, Pay 3 life or sacrifice a permanent: <kw-1><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor>The center of the Wonderlands cradles her.</i-flavor>
+	power: 0
+	toughness: 3
+	illustrator: asya Yordanova
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

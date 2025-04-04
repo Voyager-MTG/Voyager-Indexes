@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag Dewold
+	time_created: 2025-02-24 00:35:32
+	time_modified: 2025-03-05 20:50:22
+	card_color: land, multicolor
+	name: Overflowing Sanctuary
+	image: image10.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key>Bloom</key></nospellcheck></kw-0> <i-auto>(Whenever you cast a spell that targets this land, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</i-auto>
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Rafael Batista
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

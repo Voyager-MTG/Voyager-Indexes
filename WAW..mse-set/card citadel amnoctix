@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-23 11:43:38
+	time_modified: 2025-01-28 19:52:35
+	name: Citadel Amnoctix
+	casting_cost: 4BB
+	image: image277
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Shade</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key>Ward—<param-cost>Sacrifice two creatures</param-cost>.</key></nospellcheck></kw-0>
+		<kw-1><nospellcheck><key>Ploy</key></nospellcheck> — Each opponent sacrifices two creatures.<atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-1>
+	flavor_text: <i-flavor>There are few truly malevolent beings in the Wonderlands, but those few thrive.</i-flavor>
+	power: 6
+	toughness: 5
+	illustrator: Peter Gaber
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

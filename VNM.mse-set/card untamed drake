@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !note hybrid
+	time_created: 2021-04-25 03:15:03
+	time_modified: 2025-03-01 15:34:49
+	name: Untamed Drake
+	casting_cost: U/RU/R
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Drake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>
+		Other creatures you control with <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> get +1/+1.
+		If you’ve illuminated red or blue, creatures you control can attack as though they didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: teli333
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

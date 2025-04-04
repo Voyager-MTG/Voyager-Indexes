@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 6
+		shrink_name_text: 
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: changed
+	time_created: 2024-10-12 14:38:27
+	time_modified: 2025-02-14 00:39:49
+	name: The Living Enigma
+	casting_cost: 1R
+	image: image119
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Shaman</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>The Living Enigma</nospellcheck></atom-cardname> enters with a number of +1/+1 counters on it equal to the number of spells you have cast this turn. When it does, it deals that much damage to up to one target creature or planeswalker. <i-auto>(The number of spells includes this one.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Emily Lubanko
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

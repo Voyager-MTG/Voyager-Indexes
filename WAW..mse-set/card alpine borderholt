@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: landslot
+	time_created: 2024-12-27 20:43:47
+	time_modified: 2025-02-01 18:41:57
+	card_color: red, green, land, horizontal
+	name: Alpine Borderholt
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rule_text:
+		<atom-cardname><nospellcheck>Alpine Borderholt</nospellcheck></atom-cardname> enters tapped unless a land you control could produce <sym>U</sym>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor>As one gets further away from the center of the Holt, the Wonderlands grow colder and more mountainous, then completely impassable at the plane’s edge.</i-flavor>
+	illustrator: Vanessa Palmer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

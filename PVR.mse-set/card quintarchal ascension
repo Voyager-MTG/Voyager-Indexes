@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: BLUERARE13
+	time_created: 2022-05-22 16:20:10
+	time_modified: 2025-02-20 03:45:55
+	name: Quintarchal Ascension
+	casting_cost: 2UU
+	image: image100
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Untap all permanents and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on them.
+	flavor_text: <i-flavor>Only those brave enough to be cut by <error-spelling:en_US>Conquex</error-spelling:en_US>, the blade that controls all Obsolete, may be allowed to wield it.</i-flavor>
+	illustrator: Réka Farkas
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

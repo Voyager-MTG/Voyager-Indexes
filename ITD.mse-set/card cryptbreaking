@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-10-21 12:32:58
+	time_modified: 2025-01-21 15:46:15
+	name: Cryptbreaking
+	casting_cost: 4W
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Return target creature card from your graveyard to the battlefield. Exile it, then return it to the battlefield under your control.
+	flavor_text: <i-flavor>The goddess <error-spelling:en_US>Aeon</error-spelling:en_US> ripped out her roots and tore off her branches to leave her own tomb.</i-flavor>
+	illustrator: ABeardedArtist
+	card_code_text:
+		 Story Spotlight
+	card_code_text_2:
+		 Story Spotlight
+	card_code_text_3:
+		 Story Spotlight
+	copyright: 
+	copyright_2: 
+	copyright_3: 

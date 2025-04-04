@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 12
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		BLACKCOMMON
+		CB06
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2024-11-08 13:40:51
+	card_color: black
+	name: Nilshroud Mulcher
+	casting_cost: 2B
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Nilshroud Mulcher</nospellcheck></atom-cardname> enters or dies, target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>Their <error-spelling:en_US>nilshroud</error-spelling:en_US>-resistant wings form the basis of the <error-spelling:en_US>Quintarchy’s</error-spelling:en_US> hazmat suits.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Silke Voigts
+	card_code_text: Functional
+	card_code_text_2: Functional
+	card_code_text_3: Functional
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

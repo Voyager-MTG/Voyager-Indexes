@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/vookasheen/art/Swamp-Creatures-602183184
+	time_created: 2024-10-15 16:15:57
+	time_modified: 2025-01-21 15:56:42
+	name: Living Bog
+	image: image150
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.)</i-auto>
+		This land enters tapped.
+		<kw-A><nospellcheck><key>Ominous <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: VookaSheen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-19 00:00:00
+	time_modified: 2023-05-21 20:56:27
+	name: Gloom Sower
+	casting_cost: 5BB
+	image: image85
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: Whenever Gloom Sower becomes blocked by a creature, that creature’s controller loses 2 life and you gain 2 life.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Everything ends.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 8
+	toughness: 6
+	illustrator: Antonio J. Manzanedo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

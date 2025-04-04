@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-adventure
+	stylesheet_version: 2024-05-27
+	has_styling: false
+	notes:
+		BLACKRARE1
+		VERTEXCYCLE
+	time_created: 2022-03-28 15:13:22
+	time_modified: 2025-03-02 21:39:33
+	card_color_2: black
+	name: Withered Scorngon
+	name_2: Thrall
+	casting_cost: 2B
+	casting_cost_2: 1BV/GV/U
+	image: image270
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Vertex Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en>Fractal</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: <sym-auto>1B</sym-auto>: Discard a card: <atom-cardname><nospellcheck>Withered Scorngon</nospellcheck></atom-cardname> gets +2/+2 until end of turn. <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	rule_text_2:
+		<i-auto>(You can cast copies of this while in play.)</i-auto><soft-line>
+		Return target creature card with mana value 3 or less from your graveyard to the battlefield.</soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Billy Christian
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

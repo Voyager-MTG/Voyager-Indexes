@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 6
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: BLACKRARE4
+	time_created: 2022-04-15 14:57:40
+	time_modified: 2023-05-05 23:39:41
+	name: Abstraction Breaker
+	casting_cost: 2BB
+	image: image310
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		At the beginning of each opponent’s end step, you sacrifice a creature.
+		Whenever you sacrifice a creature, you may pay 1 life. If you do, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 4
+	illustrator: Trevor Carlee
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

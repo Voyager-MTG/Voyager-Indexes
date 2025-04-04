@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/silviabobekova/art/creator-860397633
+	time_created: 2024-10-15 16:24:59
+	time_modified: 2024-12-18 20:16:57
+	name: Ghostspitter
+	casting_cost: 1W
+	image: image153
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		Whenever this creature is dealt damage, create a 1/1 white Nightmare creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
+		<sym-auto>1WW</sym-auto>: Put a +1/+1 counter on this creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: SilviaBobekova
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

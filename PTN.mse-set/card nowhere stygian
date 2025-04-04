@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes:
+		https://www.deviantart.com/artofty/art/Major-Arcana-XIII-162762552
+		!addtoken Scar;1
+	time_created: 2023-07-18 19:11:37
+	time_modified: 2024-11-07 14:56:31
+	card_color: black
+	name: Nowhere Stygian
+	casting_cost: 3B
+	image: image91
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Nowhere Stygian</nospellcheck></atom-cardname> enters, each opponent sends a foretold card to the graveyard or discards a card.
+		Whenever a player discards one or more cards, you get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>. This ability triggers only once each turn.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Tyler James 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

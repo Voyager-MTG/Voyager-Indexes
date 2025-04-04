@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITECOMMON
+		CW18
+	time_created: 2021-12-29 10:02:03
+	time_modified: 2022-06-01 03:15:43
+	card_color: white
+	name: Hierarchic Extortion
+	casting_cost: 1W
+	image: image84
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Choose one—
+		<li><bullet>• </bullet>Destroy target artifact or enchantment.
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A></li>
+	flavor_text: <i-flavor>The <error-spelling:en_US>Quintarchy</error-spelling:en_US> delved into the <error-spelling:en_US>Nilshroud</error-spelling:en_US> to find tech. They found monsters instead.</i-flavor>
+	illustrator: Nexumorphic
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

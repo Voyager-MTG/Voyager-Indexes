@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Terrel
+		Tricolor
+	time_created: 2025-02-24 00:28:39
+	time_modified: 2025-03-05 16:47:32
+	name: Sacred Avenger
+	casting_cost: 1URW
+	image: image232.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Sacred Avenger</nospellcheck></atom-cardname> enters, create three 1/1 blue Scout creature tokens.
+		Equipped creature is a 4/4 white Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+		<kw-a><nospellcheck><key>Equip—<param-cost> <kw-1>Forsake</param-cost>.</key></nospellcheck></kw-a> <i-auto>(Sacrifice creatures with total toughness three or more.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Even Amundsen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

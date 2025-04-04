@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: COLOURLESSUNCOMMON
+	time_created: 2022-01-28 07:25:07
+	time_modified: 2022-09-14 06:18:21
+	name: Irticull's Crypt
+	casting_cost: 1
+	image: image174
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>, Sacrifice this permanent: Exile up to two target cards in graveyards.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this permanent: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ste Flack
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

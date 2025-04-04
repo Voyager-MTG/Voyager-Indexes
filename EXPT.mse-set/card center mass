@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-18 15:32:19
+	time_modified: 2025-03-30 16:09:31
+	card_color: silver
+	name: Center Mass
+	casting_cost: I
+	image: image80
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: <atom-cardname><nospellcheck>Center Mass</nospellcheck></atom-cardname> deals 1 damage to any target. <kw-A><nospellcheck><key>Surveil <param-number>3</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>three</param-number> cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>Traveling through the paths requires a good aim and even better recon.</i-flavor>
+	illustrator: Kerem Beyit
+	card_code_text: • Designed by TVP for TVPCORE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

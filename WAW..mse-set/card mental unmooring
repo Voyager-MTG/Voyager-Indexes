@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-14 17:39:27
+	time_modified: 2025-03-18 16:53:54
+	card_color: blue
+	name: Mental Unmooring
+	casting_cost: 2U
+	image: image147
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		Return target creature to its owner’s hand.
+		<kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text:
+		<i-flavor>“It’s hard to live in the present when everything around you is a reminder of the past.”<soft-line><soft-line>
+		—<error-spelling:en_US>Dhere</error-spelling:en_US>, lone wanderer</soft-line></soft-line></i-flavor>
+	illustrator: Alex Chow
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

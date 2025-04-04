@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: OTHERRARE
+	time_created: 2022-03-08 04:03:47
+	time_modified: 2022-09-15 05:52:13
+	name: Unlock the Quarternion
+	casting_cost: 3WUU
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		This spell can’t be countered except by spells with mana value 4 or greater.
+		Target player draws four cards, gains 4 life and gets <sym>V/B</sym>. <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Rafal Urbanski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

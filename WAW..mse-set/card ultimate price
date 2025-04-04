@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-14 17:39:27
+	time_modified: 2025-01-28 19:51:40
+	card_color: black
+	name: Ultimate Price
+	casting_cost: 1B
+	image: image113
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Destroy target monocolored creature.
+	flavor_text: <i-flavor>Manuela took a shuddering breath as Chance-in-Hell knelt by the body, staring her down with a bright smile. “That was a warning shot. Step out of line, or try and skip town, and I’ll kill the rest of ‘em too.”</i-flavor>
+	power: 
+	toughness: 
+	illustrator: Katie Helleron
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

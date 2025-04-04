@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUEUNCOMMON
+		UU06 Storm Crowed
+	time_created: 2022-03-08 04:03:47
+	time_modified: 2024-04-16 00:50:14
+	name: Prefabrication
+	casting_cost: 2U
+	image: image45
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text: <sym-auto>T</sym-auto>: Create a 2/2 blue Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. Activate only if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is five or greater or if <atom-cardname><nospellcheck>Prefabrication</nospellcheck></atom-cardname> entered the battlefield this turn.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

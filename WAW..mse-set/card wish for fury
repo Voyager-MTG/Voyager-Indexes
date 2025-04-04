@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-19 14:57:05
+	time_modified: 2025-01-28 19:59:20
+	name: Wish for Fury
+	casting_cost: 2RR
+	image: image226
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Emerge <param-cost><sym-auto>4R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		If Wish for Fury emerged from a creature with power 4 or greater, it can’t be countered and enters with a <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> counter.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Coliadre Johnson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

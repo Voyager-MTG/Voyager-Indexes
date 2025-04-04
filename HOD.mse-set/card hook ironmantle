@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Hook
+	time_created: 2025-02-24 00:31:14
+	time_modified: 2025-03-05 03:12:51
+	name: Hook Ironmantle
+	casting_cost: BR
+	image: image202.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever you cast a spell with mana value 5 or greater, each opponent discards a card if it’s your turn. Otherwise, put a +1/+1 counter on <atom-cardname><nospellcheck>Hook Ironmantle</nospellcheck></atom-cardname> and it deals 2 damage to each opponent.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Daria Rashev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

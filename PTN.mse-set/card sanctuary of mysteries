@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-01-06 21:05:11
+	time_modified: 2024-07-04 12:04:55
+	card_color: land
+	name: Sanctuary of Mysteries
+	image: image175
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Sanctuary</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		Sanctuaries you control enter the battlefield untapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto> or one mana of any color that a Sanctuary you control could produce.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>A hidden shell in a hidden world. <soft-line>
+		</soft-line>Who would follow us here?</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Marc Simonetti
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

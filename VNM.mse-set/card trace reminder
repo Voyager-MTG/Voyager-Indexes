@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		shrink_name_text: 
+		shrink_typeline_text: 
+		shrink_font_size: 
+		popout_image_style: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !token
+	time_created: 2025-03-03 19:03:34
+	time_modified: 2025-03-03 20:01:04
+	name: Trace Reminder
+	image: image124
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: Traces are copies of the spell that they traced in a non-public zone <i-auto>(Hand, Library, and Sanctum)</i-auto>. When played or cast, they become tokens.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mark Kolobaev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		frames: nyx
+		altered_plus_frames: 
+		other_options: godzilla style alias, auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2025-04-01 17:09:16
+	name: Lost Cause
+	alias: Tatsunotooshigo
+	casting_cost: I
+	image: image130
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		When this enchantment enters, create a 1/1 Shapeshifter creature token with <kw-0><nospellcheck><key>changeling</key></nospellcheck></kw-0>. <i-auto>(It’s every creature type.)</i-auto>
+		<sym-auto>1I</sym-auto>, Sacrifice this enchantment. 
+		When you sacrifice this enchantment, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 
+	toughness: 
+	illustrator: Grady Frederick
+	card_code_text: • Designed by TVP for LOB
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

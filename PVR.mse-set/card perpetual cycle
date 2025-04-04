@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-08 14:50:33
+	time_modified: 2024-11-08 15:05:08
+	name: Perpetual Cycle
+	casting_cost: 4BG
+	image: image5.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: mythic rare
+	rule_text:
+		If you would add an amount of mana, instead create that many 1/1 red Dinosaur creature tokens that can’t block.
+		Rather than pay an amount of mana, you may sacrifice that many permanents instead.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

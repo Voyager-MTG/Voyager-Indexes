@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-08 17:29:55
+	time_modified: 2025-01-28 19:57:13
+	name: Rootway Toll-Taker
+	casting_cost: 3G
+	image: image214
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spider</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		As an additional cost to cast this spell, you may sacrifice a permanent or exile three cards from your graveyard. If you do, it costs <sym-auto>3</sym-auto> less to cast.
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: Jakub Fajtanowski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

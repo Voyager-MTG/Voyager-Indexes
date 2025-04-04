@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENRARE
+		ASSIGN
+	time_created: 2022-04-15 14:57:40
+	time_modified: 2024-11-08 14:44:40
+	name: Marching Cubes
+	casting_cost: G
+	image: image95
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text: At the beginning of your upkeep, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. If it doesn’t share a name with another card in your graveyard, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>. Then if there are fifteen or more cards in your graveyard with different names, <kw-A><nospellcheck><key>you get</key></nospellcheck> that many <sym>V</sym>.<blob></kw-A><moved><atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A></moved></blob>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Maxime Galland
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: -7
+		chop_bottom: 
+		frames: 
+		font_cap: 11.0
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/jasonengle/art/Mother-Hydra-820994184
+	time_created: 2023-06-22 22:15:28
+	time_modified: 2025-02-21 16:55:29
+	card_color: blue
+	name: Painted Distorter
+	casting_cost: 5U
+	image: image6.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Painted Distorter</nospellcheck></atom-cardname> enters, counter target spell if its a noncreature spell. If <atom-cardname><nospellcheck>Painted Distorter</nospellcheck></atom-cardname> was cast from exile, counter that spell instead.
+		<kw-A><nospellcheck><key>Foretell <param-cost><sym>3UU</sym></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: custom watermark one
+	power: 4
+	toughness: 4
+	illustrator: Jason A. Engle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

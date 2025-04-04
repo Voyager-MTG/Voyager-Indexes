@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-07 00:06:49
+	time_modified: 2025-01-28 19:58:36
+	name: Conceptual Digestion
+	casting_cost: BRGW
+	image: image191
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: Each player discards their hand, then draws a card. You may put a land card from among cards put into graveyards this way onto the battlefield under your control.
+	flavor_text: <i-flavor>The space <error-spelling:en_US>spasmed</error-spelling:en_US> and lurched around Manuela and Chance-in-Hell, and suddenly they were alone somewhere incomprehensible.</i-flavor>
+	illustrator: Kez Lacsin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

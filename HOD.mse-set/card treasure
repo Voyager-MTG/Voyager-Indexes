@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!tag Dewold
+		!related Bounty Collectors;Cautious Seadog2>;Wealthy Slabman;Writ of Supplies;
+	time_created: 2022-04-02 19:45:43
+	time_modified: 2022-05-03 03:16:24
+	name: Treasure
+	image: image48
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Treasure</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anna Mur
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

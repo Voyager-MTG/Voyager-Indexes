@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITEUNCOMMON
+		UW07
+	time_created: 2022-03-13 03:13:24
+	time_modified: 2024-11-08 13:52:09
+	name: Oblivion Zealot
+	casting_cost: 2W
+	image: image104
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Oblivion Zealot</nospellcheck></atom-cardname> enters, search your library for up to three basic Plains cards, reveal them, put them into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Ali Hoff
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

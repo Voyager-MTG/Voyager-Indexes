@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Minna
+		!tag Radcliff
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-05 18:39:20
+	name: Radcliff Electromancer
+	casting_cost: 4R
+	image: image231.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		At the beginning of your end step, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do, <atom-cardname><nospellcheck>Radcliff Electromancer</nospellcheck></atom-cardname> deals 3 damage to any target.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text:
+		<i-flavor>“Never let your inner spark falter. Let it rage.”<soft-line>
+		—<error-spelling:en_US>Minna</error-spelling:en_US> Radcliff</soft-line></i-flavor>
+	power: 4
+	toughness: 5
+	illustrator: Joel Turina
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

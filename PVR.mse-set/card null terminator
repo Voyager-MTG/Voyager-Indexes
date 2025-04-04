@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		font_cap: 13
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: never
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		BLACKUNCOMMON
+		UB08
+	time_created: 2022-01-26 06:22:34
+	time_modified: 2022-08-04 19:16:04
+	name: Null Terminator
+	casting_cost: 4B
+	image: image156
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		This spell costs <sym-auto>X</sym-auto> less to cast, where X is your <kw-A><nospellcheck><key>complexity</key></nospellcheck>.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+		Exile target creature or planeswalker. <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Igor Vitkovskiy
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

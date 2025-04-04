@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		HEXTYPE
+		GREENCOMMON
+		
+		CG02
+	time_created: 2022-10-11 12:08:59
+	time_modified: 2025-02-09 08:01:35
+	card_color: green
+	name: Arbor Battery
+	casting_cost: 1G
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Hex</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: Whenever <atom-cardname><nospellcheck>Arbor Battery</nospellcheck></atom-cardname> attacks, put a +1/+1 counter on target creature you control with lesser power.
+	flavor_text:
+		<i-flavor>“This humble one believe our existence and its value requires little explanation.”<soft-line>
+		—<error-spelling:en_US>Akaaja</error-spelling:en_US>, Steel Chancellor</soft-line></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator:
+		Nele-Diel
+		ShahabAlizadeh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tokens Wonder Token;
+	time_created: 2024-12-14 17:39:27
+	time_modified: 2025-02-09 15:42:35
+	card_color: black
+	name: Blossoming Dissenter
+	casting_cost: 1B
+	image: image78
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>Blossoming Dissenter</nospellcheck></atom-cardname> dies, <b>[create a 1/1 Wonder creature token that’s all colors.]</b>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>G</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text:
+		<i-flavor>“He was weak. Forget him. Remain steady.”<soft-line>
+		—<error-spelling:en_US>Ajha</error-spelling:en_US>, the Wish for Home</soft-line></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Baihuahua
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

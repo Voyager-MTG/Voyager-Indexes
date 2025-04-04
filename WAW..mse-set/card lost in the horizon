@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-27 15:55:55
+	time_modified: 2025-01-28 17:32:45
+	name: Lost in the Horizon
+	casting_cost: W
+	image: image57
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Exile target creature token.
+		</li><li><bullet>• </bullet>Exile up to two target cards from among graveyards.
+		</li><li><bullet>• </bullet>Exile target enchantment with mana value 3 or less.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nikola Danjanov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: off
+		frames: 
+		altered_plus_frames: star
+		custom_symbol: abstract-061.png
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		previewed
+		!addtoken WhiteWurm;2;
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2025-03-01 17:39:37
+	card_color: white
+	name: Triumphant Entrance
+	casting_cost: 2W
+	image: image258
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When this enchantment enters, create two 1/1 white Wurm creature tokens.
+		Whenever you attack with one or more tokens, you gain 1 life.
+	flavor_text: <i-flavor>“You are under the protection of Clan <error-spelling:en_US>Fadove</error-spelling:en_US>!” </i-flavor>
+	illustrator: Ilya Popov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

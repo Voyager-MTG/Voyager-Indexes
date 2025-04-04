@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKCOMMON
+		CB19
+		LANDCYCLECOMMON
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2024-11-08 13:41:35
+	name: Occluded Bog
+	casting_cost: 
+	image: image207
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<atom-cardname><nospellcheck>Occluded Bog</nospellcheck></atom-cardname> enters tapped.
+		When <atom-cardname><nospellcheck>Occluded Bog</nospellcheck></atom-cardname> enters, exile up to one target card from a graveyard.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Rijas Preetch
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

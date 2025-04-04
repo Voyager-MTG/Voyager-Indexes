@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: reprint
+	time_created: 2022-09-02 18:47:38
+	time_modified: 2023-05-29 20:57:27
+	card_color: blue, green, multicolor, horizontal
+	name: Lorescale Coatl
+	casting_cost: 1GU
+	image: image161
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: Whenever you draw a card, put a +1/+1 counter on <atom-cardname><nospellcheck>Lorescale Coatl</nospellcheck></atom-cardname>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Its scales are a different color in each of the histories.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Anastasiya Emelyanova
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

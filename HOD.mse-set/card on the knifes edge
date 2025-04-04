@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Plaskettt
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-05 21:37:38
+	name: On the Knife’s Edge
+	casting_cost: 1B
+	image: image143.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Target creature deals damage to itself equal to its power.
+	flavor_text: <i-flavor><error-spelling:en_US>Larkin’s</error-spelling:en_US> hands trembled as tears fell down his face. He tried to plea, but it was his very own hands that plunged the knife into his throat.</i-flavor>
+	illustrator: Grafit Studio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

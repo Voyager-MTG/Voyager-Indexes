@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-07-21 13:23:00
+	time_modified: 2024-11-06 21:07:44
+	name: Teferi’s Banishment
+	casting_cost: WU
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text: Put target legendary permanent on the bottom of its owner’s library.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor><error-spelling:en_US>Isidra</error-spelling:en_US> awoke in a strange river. Torn from her home, she vowed revenge for the ones she lost in the time rifts.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Otl Miu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-20 19:28:42
+	time_modified: 2025-02-14 10:13:28
+	name: Holt Sleeper
+	casting_cost: W
+	image: image54
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Holt Sleeper</nospellcheck></atom-cardname> enters tapped with three <kw-1><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck> on it if it was cast from your hand.<atom-reminder-core> <i-auto>(If a permanent with a stun counter would become untapped, remove one from it instead.)</i-auto></atom-reminder-core></kw-1>
+		Whenever you cast a blue, black, red, or green spell, untap <atom-cardname><nospellcheck>Holt Sleeper</nospellcheck></atom-cardname> and you gain 2 life. This ability triggers only once each turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Tuomas Korpi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		!gold<soft-line>
+		!noborder
+		</soft-line>
+	time_created: 2024-02-11 19:36:31
+	time_modified: 2025-03-30 16:10:09
+	card_color: silver, land, multicolor
+	name: Drifting Crevasse
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>. You lose 1 life unless you control a silver permanent.
+		<kw-A><nospellcheck><key>Exhaust — <param-cost><sym-auto>T</sym-auto></param-cost>: <param-action>Choose a color</param-action>.</key></nospellcheck><atom-reminder-expert> <i-auto>(Activate each exhaust ability only once.)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Alessandro Emanuelli
+	custom_card_number: 0021
+	card_code_text: • Designed by TVP for FOE
+	card_code_text_2: • Designed by TVP for FOE
+	card_code_text_3: • Designed by TVP for FOE
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

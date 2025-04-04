@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: all breaks +1
+		frames: 
+		altered_plus_frames: star
+		legend_crown: standard
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: !exportname Kier Acolyte of Avlod Respite
+	time_created: 2022-05-06 22:46:07
+	time_modified: 2025-03-01 16:27:42
+	name: Kier, Acolyte of Avlod Respite
+	casting_cost: BB
+	image: image106
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>Kier, Acolyte of Avlod Respite</nospellcheck></atom-cardname> attacks or blocks, create a trace of Steady Growth into your hand and you lose 1 life.
+		<sym-auto>5</sym-auto>, Discard an enchantment card: Return target creature card from you graveyard to the battlefield. Spend only different colors of mana to activate this.
+		<b>Steady Growth</b> <sym>B/G</sym>| <u>Enchantment<soft-line>
+		</soft-line></u><kw-a><nospellcheck><key>Enchant <param-name>land;</param-name></key></nospellcheck></kw-a> Enchanted land has “<sym-auto>T</sym-auto>: Add one mana of any color.”
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Vladimir Matyukhin FT
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		BLACKUNCOMMON
+		UB09
+	time_created: 2022-02-22 07:13:41
+	time_modified: 2023-05-05 07:45:04
+	name: Senescence Vessel
+	casting_cost: 1B
+	image: image191
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		Whenever this permanent or a nontoken permanent this is attached to leaves the battlefield, create a 2/2 black Horror creature token with <kw-0><nospellcheck><key>prowess</key></nospellcheck></kw-0>.
+		<kw-a><nospellcheck><key>Equip <param-name><sym>1</sym>,</param-name> <param-cost><sym-auto>T</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mohamed Chahin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITEUNCOMMON
+		UW05
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2024-11-08 13:48:52
+	card_color: white
+	name: Erfex Reclaimer
+	casting_cost: 3W
+	image: image246
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Erfex Reclaimer</nospellcheck></atom-cardname> enters, create a token that’s a copy of an Aura or Equipment you control attached to target permanent or player it could attach to.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>“Make backups and save often.”</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Nikita Bulatov
+	card_code_text: FT: Chillbrain
+	card_code_text_2: FT: Chillbrain
+	card_code_text_3: FT: Chillbrain
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

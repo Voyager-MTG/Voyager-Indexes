@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Terrel
+		Tricolor
+	time_created: 2025-02-24 00:36:31
+	time_modified: 2025-03-05 15:24:52
+	name: Inspiring Castellan
+	casting_cost: 1URW
+	image: image156.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Gargoyle</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		At the beginning of your upkeep, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do, reveal the top card of your library until you reveal a nonland card with mana value 4 or less. You may cast that card without paying its mana cost. If you don’t, put that card into your hand.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: tahra
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUEUNCOMMON
+		UU13
+		LANDCYCLEUNCOMMON
+	time_created: 2022-01-20 00:29:21
+	time_modified: 2024-11-08 13:52:28
+	name: Boolean Lake
+	image: image175
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Boolean Lake</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
+		<sym-auto>UU</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Boolean Lake</nospellcheck></atom-cardname>: Search your library for a card with the same name as target permanent or spell, reveal it, put it into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ink Theory
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

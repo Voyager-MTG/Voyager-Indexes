@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		CG16,Noncreature,3,,Blinding Fog
+		
+		Put a land card from your hand or sanctum onto the battlefield tapped.
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-30 16:06:17
+	name: Pathshaping
+	casting_cost: 1I
+	image: image44
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		Return up to two target land cards from your graveyard to your hand.
+		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>I</sym-auto>, Exile a card from your sanctum</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Ahmad Alromeadheen
+	card_code_text: • Designed by TVP for FOE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

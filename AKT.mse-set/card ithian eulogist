@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: 
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		WHITEUNCOMMON
+		UW04
+		LIZARDTYPE
+	time_created: 2023-09-07 23:42:37
+	time_modified: 2024-11-22 07:27:03
+	card_color: white
+	name: Ithian Eulogist
+	casting_cost: 3W
+	image: image67.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Lizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Ithian Eulogist</nospellcheck></atom-cardname> enters, reveal the top four cards of your library. Put a creature card with toughness 2 or less from among them into your hand and the rest on the bottom of your library in a random order.
+	flavor_text: <i-flavor>“To learn how someone lived, know what senses they treasured.”</i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Thanshuhai
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

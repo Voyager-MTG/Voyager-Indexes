@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: landslot
+	time_created: 2024-12-27 20:43:47
+	time_modified: 2025-02-01 18:44:06
+	card_color: blue, black, land, horizontal
+	name: Aurora-Lit Valley
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rule_text:
+		<atom-cardname><nospellcheck>Aurora-Lit Valley</nospellcheck></atom-cardname> enters tapped unless a land you control could produce <sym>G</sym>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor>Where the Holt begins to slope downwards into the <error-spelling:en_US>Deepmists</error-spelling:en_US>, the sky is lit by a brilliant, permanent aurora before a starless twilight backdrop.</i-flavor>
+	illustrator: Ayan Nag
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag Dewold
+	time_created: 2021-06-22 06:18:59
+	time_modified: 2025-03-05 21:07:17
+	card_color: land, multicolor
+	name: Crossroads of Identity
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: common
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Crossroads of Identity</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then you may exile three cards from your graveyard. If you do, untap that land.
+	rule_text_2: 
+	flavor_text: <i-flavor>Try to be yourself.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Job Menting
+	additional_credit: Ivy
+	additional_credit_brush: flavor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: GREENRARE01
+	time_created: 2022-06-17 12:33:03
+	time_modified: 2024-01-13 03:40:37
+	name: Gentrification
+	casting_cost: G
+	image: image59
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then sacrifice a nontoken permanent.
+	flavor_text: <i-flavor>An <error-spelling:en_US>urdon’s</error-spelling:en_US> arrival in a <error-spelling:en_US>neighbourhood</error-spelling:en_US> displaces the smaller locals.</i-flavor>
+	illustrator: Geoffrey Ernault
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

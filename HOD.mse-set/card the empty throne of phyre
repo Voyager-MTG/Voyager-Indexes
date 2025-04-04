@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Phyre
+	time_created: 2025-02-24 00:39:22
+	time_modified: 2025-03-05 19:22:05
+	name: The Empty Throne of Phyre
+	casting_cost: 3RG
+	image: image46.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>RG</sym-auto>.
+		Whenever a creature you control enters, if you didn’t cast it and it wasn’t created with this ability, create a token that’s a copy of it, except it has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Bogdan Antoci
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

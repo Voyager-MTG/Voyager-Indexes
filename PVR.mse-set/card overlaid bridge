@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENCOMMON
+		CG16
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2023-03-12 05:23:50
+	name: Overlaid Bridge
+	casting_cost: 1G
+	image: image120
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
+		Whenever enchanted land is tapped for mana, choose a color among cards in your graveyard. Add one mana of that color.
+	flavor_text: <i-flavor>The cavemen were stunned. A shaped tree of unnatural proportions bridged the stream; What else could the Obsolete do?</i-flavor>
+	illustrator: TayAmazingness
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

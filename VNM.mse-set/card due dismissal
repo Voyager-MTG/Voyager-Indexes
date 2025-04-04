@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: all breaks
+		frames: lesson
+		altered_plus_frames: 
+		other_options: auto familiars, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2025-03-01 16:24:38
+	extra_data:
+		magic-m15-altered-plus:
+			corner: instant
+	card_color: blue
+	name: Due Dismissal
+	casting_cost: 1U
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		Counter target spell unless its controller pays <sym-auto>2</sym-auto>. Then create a trace of Hollow Graze into your hand.
+		<b>Hollow Graze</b> <sym>U/B</sym>| <u>Skill Instant<soft-line>
+		</u></soft-line>Target creature gets -2/-0 until end of turn. Cast only outside of combat.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>“Not today, thank you.”</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Feael & Nakatan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

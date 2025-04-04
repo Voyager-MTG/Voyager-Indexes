@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-02 15:25:29
+	time_modified: 2025-01-28 19:58:39
+	card_color: black, green, multicolor, horizontal
+	name: Thing in the Birches
+	casting_cost: GWUB
+	image: image223
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dryad</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Thing in the Birches</nospellcheck></atom-cardname> can’t block.
+		When <atom-cardname><nospellcheck>Thing in the Birches</nospellcheck></atom-cardname> dies, you may exile it. If you do, exile any number of target permanents you control, then return them to the battlefield under their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> control.
+	flavor_text:
+		<i-flavor>“What </i>was <i>this thing? How did it </i>do<i> that?”<soft-line>
+		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></i-flavor>
+	power: 6
+	toughness: 2
+	illustrator: Peter Morbacher
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

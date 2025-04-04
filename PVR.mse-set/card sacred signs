@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDUNCOMMON
+		UR10
+	time_created: 2021-10-30 01:04:38
+	time_modified: 2023-05-17 00:44:04
+	name: Sacred Signs
+	casting_cost: R
+	image: image43
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		Exile the top two cards of your library and choose one of them. You may play that card this turn.
+		<sym-auto>1</sym-auto>, Exile <atom-cardname><nospellcheck>Sacred Signs</nospellcheck></atom-cardname> from your graveyard: Add one mana of any color.
+	flavor_text: <i-flavor>High-fidelity lights in a low-fidelity world.</i-flavor>
+	illustrator: LongestDistance
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 15
+		chop_bottom: 22
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Sapner
+		Tricolor
+	time_created: 2025-02-24 00:36:31
+	time_modified: 2025-03-05 14:54:43
+	name: Decisive Judgment
+	casting_cost: WBG
+	image: image277.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Exile target nonland permanent. You gain life equal to 4 minus that permanent’s mana value.
+	flavor_text:
+		<i-flavor>“You thought us too timid to punish your wickedness. That was your second mistake.”<soft-line>
+		—</soft-line><error-spelling:en_US>Bistra</error-spelling:en_US> <error-spelling:en_US>Sapner</error-spelling:en_US>, the Flourishing</i-flavor>
+	illustrator: Nick Moskvin
+	additional_credit: FLAREdirector
+	additional_credit_brush: flavor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

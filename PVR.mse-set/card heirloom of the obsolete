@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		COLOURLESSCOMMON
+		CA01
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2024-11-08 13:41:15
+	name: Heirloom of the Obsolete
+	casting_cost: 2
+	image: image159
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>Heirloom of the Obsolete</nospellcheck></atom-cardname> enters, create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		Equipped creature gets +2/+0.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Alex Mattel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

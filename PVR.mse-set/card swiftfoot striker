@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDUNCOMMON
+		UR07
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2023-05-09 06:11:37
+	card_color: red
+	name: Swiftfoot Striker
+	casting_cost: 3R
+	image: image87
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: Sacrifice a land or exile a land card from your graveyard: <atom-cardname><nospellcheck>Swiftfoot Striker</nospellcheck></atom-cardname> gains your choice of <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn. 
+	flavor_text:
+		<i-flavor>“It torches trees and feeds on the fleeing survivors. An example we should follow.”<soft-line>
+		—<error-spelling:en_US>Cruelean</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Harsufir</soft-line></i-flavor></error-spelling:en_US>
+	power: 3
+	toughness: 4
+	illustrator: Arnaldo Souza
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

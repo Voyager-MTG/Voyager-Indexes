@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/martith/art/Blues-1029755807
+	time_created: 2024-10-15 16:01:28
+	time_modified: 2024-10-18 19:06:26
+	name: Prowling Shade
+	casting_cost: 1B
+	image: image147
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shade</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		<sym-auto>B</sym-auto>: This creature gets +1/+1 until end of turn.
+		<sym-auto>1</sym-auto>, Sacrifice another creature: Put a +1/+1 counter on this creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Martith
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

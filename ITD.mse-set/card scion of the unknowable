@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 8
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-10-14 16:31:28
+	time_modified: 2024-10-15 17:50:08
+	name: Scion of the Unknowable
+	casting_cost: 4GG
+	image: image137
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<kw-0><nospellcheck><key>Ward—<param-cost>Exile your graveyard</param-cost>.</key></nospellcheck></kw-0>
+		You may cast this creature from your graveyard by exiling four land cards from your graveyard as an additional cost to cast it. <i-auto>(You still pay its costs.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Igor Vitkovskiy
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

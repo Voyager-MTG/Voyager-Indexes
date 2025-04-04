@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUEUNCOMMON
+		ARTIFICERTYPE
+	time_created: 2023-09-07 23:42:37
+	time_modified: 2024-02-09 13:54:04
+	name: Qualia Hermitform
+	casting_cost: 1U
+	image: image33.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Incarnation</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: <sym-auto>1U</sym-auto>: Target artifact or enchantment becomes a 3/3 Incarnation creature in addition to its other types until end of turn. Activate only at the beginning of combat.
+	flavor_text:
+		<i-flavor>“I once saw a little <error-spelling:en_US>Qualiaform</error-spelling:en_US> hiding from <error-spelling:en_US>Urdonic</error-spelling:en_US> bullies. Its plight is mine.”<soft-line>
+		—<error-spelling:en_US>Erys</error-spelling:en_US>, </i>Memoirs<i></soft-line></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Bruno Balixa
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

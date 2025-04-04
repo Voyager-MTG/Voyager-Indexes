@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENRARE
+		CITIZENTYPE
+	time_created: 2024-06-21 21:39:33
+	time_modified: 2024-06-22 04:10:13
+	name: Detritus Dredger
+	casting_cost: 1GG
+	image: image71.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ooze</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<sym-auto>2</sym-auto>: Exile target card in a graveyard.
+		For each card type among cards exiled by <atom-cardname><nospellcheck>Detritus Dredger</nospellcheck></atom-cardname>, it gets +1/+1 and <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>that type.</param-name></key></nospellcheck></kw-a> <i-auto>(Kindred is a card type.)</i-auto>
+	flavor_text:
+		<i-flavor>“Even trash knows the right side of history.”<soft-line>
+		—<error-spelling:en_US>Erys</soft-line></i-flavor></error-spelling:en_US>
+	power: 3
+	toughness: 3
+	illustrator: Dimitris Tzilivakis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

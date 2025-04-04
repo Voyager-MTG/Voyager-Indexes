@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Vance
+		Tricolor
+	time_created: 2025-02-24 00:28:39
+	time_modified: 2025-03-03 20:30:20
+	card_color: blue, black, red, multicolor, horizontal
+	name: Vance Decree
+	casting_cost: UBR
+	image: image164.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Choose one. If you control a legendary creature or planeswalker, you may choose two instead.
+		<li><bullet>• </bullet>Target player creates two tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.
+		</li><li><bullet>• </bullet>Target player discards two cards.
+		</li><li><bullet>• </bullet>Return target creature card from your graveyard to your hand.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Gal Or
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

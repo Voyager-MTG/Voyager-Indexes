@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		OTHERMYTHIC
+		NEWCARD
+	time_created: 2022-03-08 04:03:47
+	time_modified: 2023-05-08 15:32:17
+	name: Sparrow Spires
+	casting_cost: UB
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: mythic rare
+	rule_text:
+		<sym-auto>1</sym-auto>, Tap three untapped non-Bird permanents you control: Create a 1/1 blue Fractal Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”
+		Whenever three or more creatures you control deal combat damage to a player, create a token that’s a copy of one of those creatures.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: PULSAR BYTES
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

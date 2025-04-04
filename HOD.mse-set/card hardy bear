@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Phyre
+		!tag HouseAnimal
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-03 18:54:57
+	name: Hardy Bear
+	casting_cost: 1R
+	image: image92.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bear</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever another creature you control enters, if it wasn’t cast from your hand, <atom-cardname><nospellcheck>Hardy Bear</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+	flavor_text: <i-flavor>The tenacious symbol of House <error-spelling:en_US>Phyre</error-spelling:en_US>.</i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: David Frasheski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

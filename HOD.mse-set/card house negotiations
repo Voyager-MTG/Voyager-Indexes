@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Sapner
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-03-05 19:15:51
+	name: House Negotiations
+	casting_cost: 2G
+	image: image51.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature has “Whenever this creature deals combat damage to a player or planeswalker, put that many +1/+1 counters on it” and “When this creature leaves the battlefield, create a number of 2/1 red Soldier creature tokens <kw-A><nospellcheck><key>in your reserves</key></nospellcheck> equal its power.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Shalizeh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

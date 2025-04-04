@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENCOMMON
+		CG16
+	time_created: 2023-06-21 23:40:02
+	time_modified: 2024-03-07 17:46:46
+	name: Thoughtglass Whip
+	casting_cost: 2G
+	image: image90
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Thoughtglass Whip</nospellcheck></atom-cardname> enters, attach it to target creature you control.
+		Equipped creature gets +2/+2.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Enaya Ray
+	card_code_text: Functional
+	card_code_text_2: Functional
+	card_code_text_3: Functional
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

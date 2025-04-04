@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITECOMMON
+		CW04
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2024-11-08 14:26:25
+	card_color: white
+	name: Felygon Scientist
+	casting_cost: 1W
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Whenever a spell or ability puts one or more nontoken cards into your hand, you gain that much life.
+	flavor_text: <i-flavor>“We must know. We will know.”</i-flavor>
+	level_1_text: <kw-A><i-auto><nospellcheck><key>Exhaust</key></nospellcheck></i-auto></kw-A> <i-auto>(When this enters, Chose)</i-auto>
+	power: 2
+	toughness: 2
+	illustrator: HitchHock
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

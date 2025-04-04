@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		Subsurface Spawning
+		Epoch Ending
+		Conquex, Broken Mandate
+	time_created: 2022-05-31 05:23:03
+	time_modified: 2023-10-31 20:16:38
+	name: Fractal Horror
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fractal</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: special
+	power: 0
+	toughness: 0
+	illustrator: Jennah Walters
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

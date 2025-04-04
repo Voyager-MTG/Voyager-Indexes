@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Vance
+		!tag HODStory
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-09 17:55:20
+	name: Massacre at King’s Rock
+	casting_cost: 1BB
+	image: image147.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: All creatures get -2/-2 until end of turn. If a creature an opponent controls would die this turn, exile it instead.
+	flavor_text:
+		<i-flavor>“Power needs more power to overcome. It never stops growing and is never satisfied.”<soft-line>
+		</soft-line>—Waldemar</i-flavor>
+	illustrator: Geunjoo Baik
+	card_code_text: Story Spotlight 11
+	card_code_text_2: 
+	card_code_text_3: 

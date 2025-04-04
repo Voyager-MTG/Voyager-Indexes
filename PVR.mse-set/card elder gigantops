@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		CG08
+		GREENCOMMON
+	time_created: 2021-10-01 20:19:49
+	time_modified: 2022-06-01 00:33:28
+	name: Elder Gigantops
+	casting_cost: 3G
+	image: image62
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Ape</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <atom-cardname><nospellcheck>Elder Gigantops</nospellcheck></atom-cardname> gets +2/+2 if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>It puts the “<error-spelling:en_US>bam</error-spelling:en_US>” in bamboo.</i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Adam Midzuk
+	card_code_text: FT: elmikkino
+	card_code_text_2: FT: elmikkino
+	card_code_text_3: FT: elmikkino
+	copyright: 
+	copyright_2: 
+	copyright_3: 

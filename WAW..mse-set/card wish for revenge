@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-14 17:39:27
+	time_modified: 2025-01-28 19:51:30
+	card_color: black
+	name: Wish for Revenge
+	casting_cost: 4B
+	image: image274
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Emerge <param-cost><sym-auto>5R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Wish for Revenge</nospellcheck></atom-cardname> enters, it deals 1 damage to up to one target creature. If it emerged, it instead deals damage equal to the sacrificed creature’s power to that creature. 
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 4
+	illustrator: Emilien Rotival
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

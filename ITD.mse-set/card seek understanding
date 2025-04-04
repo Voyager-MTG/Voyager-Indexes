@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/myprocrastinationfix/art/Day-1444-Save-the-Wretched-1038769165
+	time_created: 2024-10-15 15:59:52
+	time_modified: 2024-12-18 16:58:49
+	name: Seek Understanding
+	casting_cost: 1W
+	image: image146
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Horror creatures you control get +1/+1 as long as you control a non-Horror creature.
+		Whenever one or more non-Horror creatures you control deal combat damage to a player, draw a card if you control a Horror.
+	flavor_text:
+		<i-flavor>“Though they may seem strange, they can reason, and they can learn. Even we can learn.”
+		—<error-spelling:en_US>Maktel</error-spelling:en_US>, Beloved by All</i-flavor>
+	illustrator: MyProcrastinationFix
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

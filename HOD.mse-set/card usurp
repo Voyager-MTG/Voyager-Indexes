@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Terrel
+		!tag HODStory
+		!tag Leon
+		!tag Waldemar
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-03-05 19:04:34
+	name: Usurp
+	casting_cost: 6RR
+	image: image223.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Untap all nonland permanents and gain control of them until end of turn. They gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>The plane shook and the Houses each fell in line. Waldemar’s only claim was faltered.  Leon had won.</i-flavor>
+	illustrator: Pouya Moayedi
+	card_code_text: Story Spotlight 17
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-14 17:39:27
+	time_modified: 2025-01-28 20:00:09
+	card_color: red
+	name: Grifters’ Ambush
+	casting_cost: 2R
+	image: image139
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Exile target artifact.
+		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Grifters’ Ambush</nospellcheck></atom-cardname> deals 4 damage to target creature or planeswalker.
+		</li><li><bullet>• </bullet>One or two target creatures each get +2/+1 until end of turn.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Joey Morrell
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

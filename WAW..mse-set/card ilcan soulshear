@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-22 13:41:59
+	time_modified: 2025-03-18 16:59:28
+	name: Ilcan Soulshear
+	casting_cost: 4B
+	image: image247
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Kor</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Ilcan Soulshear</nospellcheck></atom-cardname> enters, choose one—
+		<li><bullet>• </bullet>Destroy target creature with mana value 4 or less.
+		</li><li><bullet>• </bullet>Return target creature card with mana value 4 or less from your graveyard to the battlefield.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: kev Chan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

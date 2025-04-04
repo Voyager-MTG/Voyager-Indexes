@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-adventure
+	stylesheet_version: 2024-05-27
+	has_styling: false
+	notes:
+		GREENRARE1
+		VERTEXCYCLE
+	time_created: 2022-02-23 07:13:23
+	time_modified: 2025-03-18 14:46:01
+	card_color_2: green
+	name: Erfex Regenerator
+	name_2: Grow
+	casting_cost: 1G
+	casting_cost_2: GV/GV/B
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Vertex Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en>Fox</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Whenever a land enters under your control, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	rule_text_2:
+		<i-auto>(You can cast copies of this while in play.)</i-auto><soft-line>
+		Search your library for a creature card, reveal it, put it into your hand, then shuffle.</soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 0
+	toughness: 4
+	illustrator: Jason Nelson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

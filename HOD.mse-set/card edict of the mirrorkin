@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Terrel
+		!tag HODStory
+		!tag Bennet
+		!tag Veceslav
+	time_created: 2025-02-24 00:36:31
+	time_modified: 2025-03-05 16:34:34
+	name: Edict of the Mirrorkin
+	casting_cost: URW
+	image: image162.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Each player forsakes. <i-auto>(To <kw-0><nospellcheck><key>forsake</key></nospellcheck></kw-0>, a player sacrifices creatures with total toughness three or more.)</i-auto>
+		Draw a card for each creature that died under your control this turn.
+	flavor_text: <i-flavor>King <error-spelling:en_US>Bennet</error-spelling:en_US> was protected from every mortal threat. The Conqueror was no mere mortal.</i-flavor>
+	illustrator: chuy de leon
+	card_code_text: Story Spotlight 8
+	card_code_text_2: 
+	card_code_text_3: 

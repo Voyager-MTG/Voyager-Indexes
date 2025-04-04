@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag Terrel
+	time_created: 2025-02-24 00:40:46
+	time_modified: 2025-03-03 08:51:32
+	name: King’s Rock Castle
+	image: image77.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>King’s Rock Castle</nospellcheck></atom-cardname> enters tapped unless you control two or fewer other lands.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.
+		<sym-auto>3W</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a nontoken creature: Create a number of 1/1 red Scout creature tokens equal to the sacrificed creature’s mana value. Activate only outside of combat.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nino Is
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-12 15:00:52
+	time_modified: 2025-01-28 19:54:47
+	name: Deepholt Encounter
+	casting_cost: 2B/GB/G
+	image: image194
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Create a 3/3 green Beast creature token.
+		</li><li><bullet>• </bullet>Return up to two target creature cards from your graveyard to your hand.</li>
+	flavor_text:
+		<i-flavor>“Respect the denizens of the Holt, but do not fear them. These lands provide for their needs, so if one wants something from you, it won’t be your flesh.”<soft-line>
+		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Andrea Rocha
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

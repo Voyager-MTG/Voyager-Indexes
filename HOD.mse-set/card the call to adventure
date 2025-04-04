@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Nye
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-04 04:35:30
+	name: The Call to Adventure
+	casting_cost: 4G
+	image: image307.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>3G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3G</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever <atom-cardname><nospellcheck>The Call to Adventure</nospellcheck></atom-cardname> enters during combat or a creature you control deals combat damage to a player or planeswalker, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sergey Shikin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

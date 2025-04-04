@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: BLACKRARE13
+	time_created: 2022-04-07 05:13:42
+	time_modified: 2024-11-08 14:03:43
+	name: Systems Collapse
+	casting_cost: 1B
+	image: image113
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Choose one—
+		<li><bullet>• </bullet>Target player sacrifices a creature.
+		</li><li><bullet>• </bullet>Remove all counters from all creatures and planeswalkers.
+		</li><li><bullet>• </bullet>All players lose all <sym>V</sym>.
+		</li><li><bullet>• </bullet>Exile all graveyards.</li>
+	flavor_text: <i-flavor>Civilizations rise. Worlds fall.</i-flavor>
+	illustrator: Caleb Worchester
+	card_code_text: FT: Void
+	card_code_text_2: FT: Void
+	card_code_text_3: FT: Void
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

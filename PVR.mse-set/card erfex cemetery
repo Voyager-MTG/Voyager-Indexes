@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: BLACKCOMMON
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2024-11-08 13:41:12
+	card_color: black, artifact, horizontal
+	name: Erfex Cemetery
+	casting_cost: 1B
+	image: image114
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>Erfex Cemetery</nospellcheck></atom-cardname> enters, each opponent sacrifices a creature.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Erfex Cemetery</nospellcheck></atom-cardname>: Add one mana of any color.
+	flavor_text: <i-flavor>The grave of great power and its seekers.</i-flavor>
+	illustrator: Mohamed Chahin
+	card_code_text: FT: Void
+	card_code_text_2: FT: Void
+	card_code_text_3: FT: Void
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-02 18:35:56
+	time_modified: 2024-04-13 23:12:19
+	card_color: red
+	name: High Cyprian
+	casting_cost: 3R
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: When <atom-cardname><nospellcheck>High Cyprian</nospellcheck></atom-cardname> enters, if a player lost life this turn, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“Deepen the sensation. Indulge the appetite. Sweeten the sacrifice.”<soft-line>
+		— Tenets of the Red Church</soft-line></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: none
+	power: 4
+	toughness: 3
+	illustrator: Nicola Caputi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-07-18 19:11:37
+	time_modified: 2024-02-09 10:07:31
+	card_color: red
+	name: Carnal Thirst
+	casting_cost: X1R
+	image: image313
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text: Target creature you control gets +X/+0 until end of turn. Then, you may have it deal damage equal to its power to another target creature.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“The Red Grail who cannot be sated drank the Tide and stole its pleasures for her own.”<soft-line>
+		</soft-line>— </i>On Lost Gods<i></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Suzanne Helmigh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

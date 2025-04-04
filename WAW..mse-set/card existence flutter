@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-20 20:33:15
+	time_modified: 2025-02-12 16:17:52
+	name: Existence Flutter
+	casting_cost: 2W
+	image: image135
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Existence Flutter</nospellcheck></atom-cardname> enters, draw a card.
+		Exile <atom-cardname><nospellcheck>Existence Flutter</nospellcheck></atom-cardname>: Exile target nonland permanent you control, then return it to the battlefield under its owner’s control. This ability costs <sym-auto>2</sym-auto> more to activate during an opponent’s turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: NIXEU
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

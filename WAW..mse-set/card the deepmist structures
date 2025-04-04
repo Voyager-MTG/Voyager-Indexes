@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 8
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-02 19:47:40
+	time_modified: 2025-01-28 19:54:16
+	card_color: blue, black, multicolor, horizontal
+	name: The Deepmist Structures
+	casting_cost: 2BB/GG
+	image: image267
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When you cast this spell, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>ten</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		If a card would be put into your graveyard from anywhere, exile it instead.
+		At the beginning of your first main phase, return target card from your graveyard to your hand.
+	flavor_text:
+		<i-flavor>“Were they ever inhabited? If so, by whom?”<soft-line>
+		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Huleeb
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

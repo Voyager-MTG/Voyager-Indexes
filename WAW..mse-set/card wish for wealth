@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-21 20:09:43
+	time_modified: 2025-03-18 16:59:59
+	name: Wish for Wealth
+	casting_cost: 4G
+	image: image275
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Emerge <param-cost><sym-auto>5G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>T</sym-auto>: Add <sym-auto>WUBRG</sym-auto>. This mana can’t be spent to pay generic mana costs.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 6
+	illustrator: Serena Malyon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

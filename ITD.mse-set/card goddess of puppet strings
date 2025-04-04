@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		combined_chop: -4
+		opacity: 120
+		other_options: un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		https://www.deviantart.com/abeardedartist/art/Untitled-1091469785
+		changed
+	time_created: 2024-10-17 19:40:31
+	time_modified: 2025-02-27 16:48:38
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: she/her
+	special_text:
+		[+1]: <margin:130:0:0>You may pay 1 life. If you do, create a 1/1 colorless Faerie Horror creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”</margin:130:0:0>
+		[-6]: <margin:130:0:0>Destroy up to one target creature. When you do, put a creature from a graveyard onto the battlefield under your control. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Exile it at end of turn.</margin:130:0:0>
+	name: Goddess of Puppet Strings
+	casting_cost: 1B
+	image: image174
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Arachne</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	loyalty_cost_1: +1
+	loyalty_cost_2: -6
+	loyalty: 2
+	level_1_text: <margin:130:0:0>You may pay 1 life. If you do, create a 1/1 colorless Faerie Horror creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Destroy up to one target creature. When you do, put a creature from a graveyard onto the battlefield under your control. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Exile it at end of turn.</margin:130:0:0>
+	level_3_text: 
+	level_4_text: 
+	illustrator: ABeardedArtist
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

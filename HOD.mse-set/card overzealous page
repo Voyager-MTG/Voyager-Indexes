@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Perle
+		!tag Terrel
+		!tag Wystan
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-03 19:14:55
+	name: Overzealous Page
+	casting_cost: 2W
+	image: image96.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Orc</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When <atom-cardname><nospellcheck>Overzealous Page</nospellcheck></atom-cardname> enters, create one of the following tokens <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		<li><bullet>• </bullet>The Sword of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Perle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, a legendary 3/1 red Orc Soldier creature token with “This creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it is attacking.”
+		</li><li><bullet>• </bullet>The Occultist, a legendary 2/3 Human Wizard with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Chen0924
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

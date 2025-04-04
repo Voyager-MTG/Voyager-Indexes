@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		UM11
+		ARCUNSET2
+	time_created: 2021-12-25 04:42:38
+	time_modified: 2024-11-08 14:25:02
+	name: Settle Inhospitable Lands
+	casting_cost: 1WU
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Create a 1/1 white Human creature token. Activate only if a spell or ability put a nontoken card into your hand this turn.
+		<sym-auto>3WU</sym-auto>: Return target permanent you control to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Prusakov Vitaliy
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-04 17:27:35
+	time_modified: 2025-01-28 17:40:17
+	name: Alpine Poolseeker
+	casting_cost: 1W
+	image: image76
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: <kw-1><nospellcheck><key>Ploy</key></nospellcheck> — Return target creature card with mana value less than or equal to <atom-cardname><nospellcheck>Alpine Poolseeker</nospellcheck></atom-cardname>’s power from your graveyard to the battlefield. <atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Anthony Castillaz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

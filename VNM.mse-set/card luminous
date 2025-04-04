@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !related Abrupt Death;Aeon Awakener;Avakin Opportunist;Avakin Riftwalker;Avakin Shaman;Boon of Roduth;Conscripted by the Clanless;Cursory Casualty;Drake Wrangler;Ephemeral Ordinance;Evanescent Impasse;Fadove Initiate;Fleeting Ruin;Impetuous Eradication;Outlands Traveller;Prismatic Powerstone;Rebuke the Foul;Rifttouched Ursine;Search For Wisdom;Stalwart Resolution;Study the Rifts;Sublime Liquidation;Torch;Transient Eternity;Transitory Refuge;Untamed Drake;Urkial, Outlands Clanleader;Vanishing Resolve;Verem-Volcano Rumbler;Weight of Betrayal;
+	time_created: 2021-10-06 15:39:08
+	time_modified: 2022-02-28 12:58:06
+	name: Luminous
+	image: image201
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Reminder</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	rarity: special
+	rule_text: If you control four permanents of the same color, you’ve illuminated that color for the rest of the game.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Marischa Becker
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Tvpattack
+	copyright_2: Tvpattack
+	copyright_3: Tvpattack

@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: off
+		frames: 
+		altered_plus_frames: norm
+		custom_symbol: abstract-061.png
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2022-06-03 15:05:01
+	time_modified: 2025-02-28 22:15:39
+	name: Flashing Path
+	image: image327
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		This land enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.
+		<sym-auto>1II</sym-auto>, Discard this: Counter target activated or triggered ability.
+	flavor_text: <i-flavor>The blind eternities explode or something. Just make sure to fill in all three lines of text, otherwise its gonna look kinda odd.</i-flavor>
+	illustrator: Ilya Popov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

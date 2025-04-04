@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-10-16 17:15:14
+	time_modified: 2025-01-02 15:56:29
+	name: Abstracted Rapture
+	casting_cost: 2RRR
+	image: image156
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Return each nontoken creature you control to its owner’s hand. Create a token copy of each creature returned to your hand this way. 
+		Creatures you control gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>“You just need a change of perspective.”</i-flavor>
+	illustrator: Slitherbop
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

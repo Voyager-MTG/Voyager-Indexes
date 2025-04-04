@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: COLOURLESSCOMMON
+	time_created: 2021-12-02 03:54:40
+	time_modified: 2022-05-30 02:37:18
+	name: Horizon Collector
+	casting_cost: 3
+	image: image163
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: <atom-cardname><nospellcheck>Horizon Collector</nospellcheck></atom-cardname> has all activated and triggered abilities of each land you control.
+	flavor_text: <i-flavor>She helped build and maintain the <error-spelling:en_US>Skybox</error-spelling:en_US> in her first life. Reanimated, she now seeks to pull it apart.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Jerome Comentale
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

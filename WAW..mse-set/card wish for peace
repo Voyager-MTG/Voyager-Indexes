@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-14 17:39:27
+	time_modified: 2025-01-28 17:32:37
+	card_color: white
+	name: Wish for Peace
+	casting_cost: 1W
+	image: image115
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Emerge <param-cost><sym-auto>3B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)</i-auto></atom-reminder-expert></kw-A>
+		Destroy target creature if it’s tapped or if this spell emerged. You gain 3 life.
+	flavor_text:
+		<i-flavor>“Even a noble desire should be tempered.”<soft-line>
+		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Anthony Jones
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITEUNCOMMON
+		UW11
+	time_created: 2022-03-17 07:56:30
+	time_modified: 2023-05-05 22:41:49
+	name: Scavenged Technology
+	casting_cost: 2W
+	image: image263
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature has <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>.
+	flavor_text:
+		<i-flavor>“This society is controlled not by merit or order, but by who found the most powerful junk no one understands.”<soft-line>
+		—<error-spelling:en_US>Uverngon</error-spelling:en_US>, <error-spelling:en_US>Nilshroud</error-spelling:en_US> Explorer</soft-line></i-flavor>
+	illustrator: Glen Renner
+	card_code_text: Functional
+	card_code_text_2: Functional
+	card_code_text_3: Functional
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

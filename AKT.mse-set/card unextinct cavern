@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-06-28 09:01:24
+	time_modified: 2025-01-31 20:39:17
+	name: Unextinct Cavern
+	image: image23.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		Exile a card with a creature type from your graveyard: Until end of turn, <atom-cardname><nospellcheck>Unextinct Cavern</nospellcheck></atom-cardname> becomes a 2/2 creature with that card’s creature types. It’s still a land.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

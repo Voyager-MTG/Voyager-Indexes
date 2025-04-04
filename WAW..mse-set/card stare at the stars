@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-23 11:43:38
+	time_modified: 2025-01-30 18:51:58
+	name: Stare at the Stars
+	casting_cost: B
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		<b>[<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>]</b>, then you may pay 1 life to return one of the milled cards to your hand.
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>B</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text:
+		<i-flavor>“Another meteor. Damn place is taunting me.”<soft-line>
+		—Chance-in-Hell</soft-line></i-flavor>
+	illustrator: Om Bobom
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: nyx
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-28 14:25:26
+	time_modified: 2025-02-11 15:11:11
+	name: Remain Steady
+	casting_cost: 3B
+	image: image158
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		Whenever a creature you control dies, exile it. Then if it didn’t have a +1/+1 counter on it, return it to the battlefield with a +1/+1 counter on it.
+		<sym-auto>3RG</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Remain Steady</nospellcheck></atom-cardname>: Create an X/X black Spirit creature token that can’t block, where X is the total mana value of cards exiled with <atom-cardname><nospellcheck>Remain Steady</nospellcheck></atom-cardname>. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dominik Mayer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

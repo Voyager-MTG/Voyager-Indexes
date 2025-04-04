@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Nye
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-04 22:17:31
+	name: Nye Battlemage
+	casting_cost: 2U
+	image: image23.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>: Target creature gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn. Activate only as a sorcery.<soft-line>
+		<sym>G</sym></soft-line>, <sym-auto>T</sym-auto>: Target creature can’t be blocked by creatures with power 2 or less this turn.
+	flavor_text: <i-flavor>“The job’s not done until the ransom money comes in.”</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Grafit Studio
+	additional_credit: Janahwhamme
+	additional_credit_brush: flavor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

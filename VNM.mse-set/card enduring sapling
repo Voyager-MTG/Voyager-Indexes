@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		custom_symbol: abstract-061.png
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2022-06-02 18:55:48
+	time_modified: 2025-02-28 22:20:46
+	extra_data:
+		magic-m15-altered-plus:
+			corner: sanctum
+	name: Enduring Sapling
+	image: image232
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>2</sym-auto>, Reveal this land from your sanctum: Put this land from your sanctum onto the battlefield tapped. <i-auto>(This land can’t start in your sanctum.)</i-auto>
+	flavor_text:
+		<i-flavor>“When the first of us entered the paths, they found nothing but a simple shrub. A thousand years later, it still stands.”<soft-line>
+		—<error-spelling:en_US>Korna</error-spelling:en_US>, <error-spelling:en_US>Vinimroth</error-spelling:en_US> Historian</soft-line></i-flavor>
+	illustrator: J Edward Neill
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

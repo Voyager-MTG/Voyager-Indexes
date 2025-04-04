@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 14
+		frames: 
+		font_cap: 12.5
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2021-12-21 14:32:54
+	time_modified: 2024-02-23 18:30:24
+	name: Nowhere Illuminator
+	casting_cost: 1U
+	image: image299
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		When <atom-cardname><nospellcheck>Nowhere Illuminator</nospellcheck></atom-cardname> enters, you may sacrifice a creature. If you do, draw a card.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Draw a card, then discard a card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“If they complete their work the <error-spelling:en_US>Mansus</error-spelling:en_US> will be Nowhere one day”<soft-line>
+		— </i>Etching from the Worm Museum<i></soft-line></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Stu Harrington
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

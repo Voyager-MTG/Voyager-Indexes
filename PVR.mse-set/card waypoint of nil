@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: BLUERARE6
+	time_created: 2022-01-11 17:16:41
+	time_modified: 2022-08-04 23:02:01
+	name: Waypoint of Nil
+	casting_cost: 4UU
+	image: image79
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0>
+		Whenever a player casts a noncreature spell that isn’t a copy, exile it. Then that player copies each card exiled by <atom-cardname><nospellcheck>Waypoint of Nil</nospellcheck></atom-cardname>. For each copy, the player may cast the copy without paying its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nicholas Myers
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENRARE12
+		LANDCYCLERARE
+	time_created: 2022-03-13 04:32:13
+	time_modified: 2024-11-08 13:47:30
+	card_color: green, land
+	name: Urwrapir, Restored Wilderness
+	casting_cost: 
+	image: image244
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urwrapir</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
+		<sym-auto>1G</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urwrapir</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Copy target activated or triggered ability you control. You may choose new targets for the copy.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

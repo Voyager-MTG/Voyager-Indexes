@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/yanadhyana/art/Lighthouse-398867729
+	time_created: 2025-02-24 17:07:29
+	time_modified: 2025-02-24 17:35:05
+	card_color: blue, land
+	name: Illuminant Spire
+	image: image136
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Spire</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Illuminant Spire</nospellcheck></atom-cardname>: Search your library for an Island card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: yanadhyana
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

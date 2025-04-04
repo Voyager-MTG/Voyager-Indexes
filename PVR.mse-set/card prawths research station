@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: OTHERRARE
+	time_created: 2021-12-25 04:42:38
+	time_modified: 2025-02-20 03:30:17
+	name: Prawth's Research Station
+	casting_cost: 3
+	image: image295
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text: Other nonland permanents you control have <kw-0><nospellcheck><key>bake</key></nospellcheck></kw-0>. <i-auto>(When that permanent enters, up to one other target permanent gains its abilities until end of turn. Multiple instances of <kw-0><nospellcheck><key>Bake</key></nospellcheck></kw-0> trigger simultaneously.)</i-auto>
+	flavor_text: <i-flavor><error-spelling:en_US>Prawth</error-spelling:en_US> examined his spoils.”Obsolete” technology was anything but. How much of it could he obtain, or better yet sell?</i-flavor>
+	watermark: other magic symbols color spotlight
+	power: 
+	toughness: 
+	illustrator: Julien Louche
+	card_code_text: Spotlight 2/10
+	card_code_text_2: Spotlight 2/10
+	card_code_text_3: Spotlight 2/10
+	copyright: 
+	copyright_2: 
+	copyright_3: 

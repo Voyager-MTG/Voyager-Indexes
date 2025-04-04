@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: nyx
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-21 20:48:21
+	time_modified: 2025-01-28 19:56:40
+	name: Ilcan Resolution
+	casting_cost: 2G
+	image: image143
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Ilcan Resolution</nospellcheck></atom-cardname> enters, you may have target creature you control <kw-0><nospellcheck><key>fight</key></nospellcheck></kw-0> target creature you don’t control.
+		At the beginning of your end step, if a creature died under your control this turn, you may draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jaromir Hrivnak
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

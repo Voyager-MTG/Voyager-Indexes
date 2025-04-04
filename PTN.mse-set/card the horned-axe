@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: frameless art
+		font_cap: 12.5
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: #
+	time_created: 2023-07-21 13:23:00
+	time_modified: 2024-06-30 11:21:48
+	name: The Horned-Axe
+	casting_cost: 5
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>God</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		When you cast <atom-cardname><nospellcheck>The Horned-Axe</nospellcheck></atom-cardname>, until your next turn, your life total can’t change.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The <error-spelling:en_US>Lithomachy</error-spelling:en_US> exposed her to the horrors of extra-planer influence.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Weather Factory
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Roul
+		Land Cycle
+		House Banefort
+	time_created: 2021-07-05 10:06:49
+	time_modified: 2022-10-31 03:04:59
+	name: Cloudkissed Keep
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>. <atom-cardname><nospellcheck>Cloudkissed Keep</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
+	flavor_text:
+		<i-flavor>“My House is one of life and solitude.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Roul</error-spelling:en_US> <error-spelling:en_US>Banefort</i-flavor></error-spelling:en_US>
+	illustrator: Hue Teo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Zangy
+	copyright_2: Set by Zangy
+	copyright_3: Set by Zangy

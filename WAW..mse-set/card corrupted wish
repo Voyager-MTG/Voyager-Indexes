@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-12 21:07:12
+	time_modified: 2025-01-28 19:52:15
+	name: Corrupted Wish
+	casting_cost: 1B
+	image: image82
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: Until end of turn, target creature you control gets +2/+0 and gains “When this creature dies, return it to its owner’s hand, then create a token that’s a copy of it, except it’s a Spirit.” <i-auto>(It loses its other creature types.)</i-auto>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>When <error-spelling:en_US>Hana</error-spelling:en_US> died in the Holt, she was overjoyed to wake up unharmed in her bed... until the next day, when she saw herself limping back down the path.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Hanna Hetmanchuk
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

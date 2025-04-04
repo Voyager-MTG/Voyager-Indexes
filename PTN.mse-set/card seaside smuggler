@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-05-07 21:22:38
+	time_modified: 2024-07-05 13:20:50
+	card_color: blue
+	name: Seaside Smuggler
+	casting_cost: U
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Skulk</key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked by creatures with greater power.)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>U</sym-auto>, Exile <atom-cardname><nospellcheck>Seaside Smuggler</nospellcheck></atom-cardname> from your graveyard: <kw-A><nospellcheck><key>Induct</key></nospellcheck>. Activate only as sorcery.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Jazmín Labaronnie
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

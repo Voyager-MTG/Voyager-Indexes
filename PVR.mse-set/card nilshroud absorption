@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUECOMMON
+		CU12
+	time_created: 2021-10-08 05:27:43
+	time_modified: 2023-02-03 17:34:13
+	name: Nilshroud Absorption
+	casting_cost: XU
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Counter up to one target spell unless its controller pays <sym-auto>X</sym-auto>.
+		Draw a card, then discard a card.
+	flavor_text: <i-flavor>The <error-spelling:en_US>nilshroud</error-spelling:en_US> consumes all <error-spelling:en_US>mana</error-spelling:en_US> in its path, slowly melting steel and flesh down into abstract geometry.</i-flavor>
+	illustrator: Giselle Manzano Ramírez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-22 19:28:03
+	time_modified: 2025-03-18 17:09:27
+	name: Eteres’ Chronicler
+	casting_cost: 2G
+	image: image134
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		You may play basic land cards you own from your sanctum.
+		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>: For each basic land type, untap up to one target land of that type you control.
+	flavor_text:
+		<i-flavor>“Oh, good, your plane has science fiction. That’ll make my friend here much easier to explain.”<soft-line>
+		—<error-spelling:en_US>Eteres</error-spelling:en_US>, planar analyst</soft-line></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Carlos Lopez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

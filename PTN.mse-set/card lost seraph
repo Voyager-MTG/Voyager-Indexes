@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: frameless art
+		font_cap: 12.5
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/andrejzt/art/Cursed-Cathedral-898896283
+	time_created: 2022-07-02 21:17:05
+	time_modified: 2024-11-07 11:11:57
+	name: Lost Seraph
+	casting_cost: 4
+	image: image342
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		As long as you control a God, Cleric, or another Angel, <atom-cardname><nospellcheck>Lost Seraph</nospellcheck></atom-cardname> has “When this creature dies, draw a card.”
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>All colors were magnified beneath the Sun-in-<error-spelling:en_US>Splendour</error-spelling:en_US>, but with it gone?</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Andrej Z.T.
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

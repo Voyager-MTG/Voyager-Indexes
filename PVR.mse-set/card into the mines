@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDCOMMON
+		CR15
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2023-05-17 00:05:33
+	card_color: red
+	name: Into the Mines
+	casting_cost: 2R
+	image: image307
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Discard a card, then draw two cards.
+		<kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>The <error-spelling:en_US>Quintarchy</error-spelling:en_US> dug down to find godhood. Many follow in their footsteps.</i-flavor>
+	illustrator: PurePoly
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

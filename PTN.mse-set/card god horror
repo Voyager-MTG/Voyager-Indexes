@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-cultist-simulator
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!tokentag God Horror
+		!exportname God Horror Token
+		!related Monument of Rags;The Red Grail;
+	time_created: 2021-10-13 23:08:11
+	time_modified: 2023-05-21 22:36:26
+	card_color: colorless
+	name: God Horror
+	image: image180
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>God</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: basic land
+	rule_text: This creature can’t block.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Antonio J. Manzanedo
+	custom_card_number: 002/005
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

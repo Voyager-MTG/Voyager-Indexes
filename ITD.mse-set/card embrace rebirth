@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_textboxes: three
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		https://x.com/_tOAOt/status/1780825170036523027/photo/1
+		changed
+	time_created: 2024-10-14 16:40:14
+	time_modified: 2024-10-26 14:40:15
+	special_text:
+		
+		I — You may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>five</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		II — Return a permanent card from your graveyard to your hand.
+		III — You may put a permanent card from your hand onto the battlefield.
+	name: Embrace Rebirth
+	casting_cost: 2GG
+	image: image139
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: You may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>five</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+	level_2_text: Return a permanent card from your graveyard to your hand.
+	level_3_text: You may put a permanent card from your hand onto the battlefield.
+	illustrator: _tOAOt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

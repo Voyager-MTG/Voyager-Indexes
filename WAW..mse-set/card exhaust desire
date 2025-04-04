@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-14 18:53:13
+	time_modified: 2025-01-28 19:55:47
+	name: Exhaust Desire
+	casting_cost: WB
+	image: image85
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: Look at target opponent’s hand. Choose a nonland, non-Wonder card from it. That player discards that card. You gain 2 life.
+	flavor_text:
+		<i-flavor>“It’s not that I don’t care, it’s just... I haven’t had a life away from the sword for so long, and this place can give me that.”<soft-line>
+		—<error-spelling:en_US>Nenwe</error-spelling:en_US>, <error-spelling:en_US>Ilcan</error-spelling:en_US> survivor, to <error-spelling:en_US>Ajha</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Hazel Richmond
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

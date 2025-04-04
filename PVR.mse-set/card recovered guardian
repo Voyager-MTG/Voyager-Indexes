@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		COLOURLESSCOMMON
+		CA03
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2022-07-20 18:40:24
+	name: Recovered Guardian
+	casting_cost: 5
+	image: image123
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: <kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>6</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>6</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text:
+		<i-flavor>“It’s filial piety, see? We have a duty of care to our fathers, no matter their sanity.”<soft-line>
+		—<error-spelling:en_US>Irticull</error-spelling:en_US>, Shadow Sultan</soft-line></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Ali Hoff
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

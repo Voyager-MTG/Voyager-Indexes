@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-24 11:37:49
+	time_modified: 2025-03-18 17:08:43
+	name: Citadel Outburst
+	casting_cost: 2R
+	image: image123
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: <kw-0><nospellcheck><key>Pursue Wonder</key></nospellcheck></kw-0>. When you do, if a land card was revealed this way, <atom-cardname><nospellcheck>Citadel Outburst</nospellcheck></atom-cardname> deals 3 damage to any target. Otherwise, <atom-cardname><nospellcheck>Citadel Outburst</nospellcheck></atom-cardname> deals 1 damage to any target. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Amirul Zameer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

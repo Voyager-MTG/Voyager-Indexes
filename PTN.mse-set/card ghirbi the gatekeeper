@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-08-08 21:06:14
+	time_modified: 2024-07-02 22:10:14
+	name: Ghirbi, the Gatekeeper
+	casting_cost: 1RR
+	image: image103
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cleric</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wall</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Ghirbi, the Gatekeeper</nospellcheck></atom-cardname> dies, you get a boon with “Whenever you attack, untap each creature you control. After this phase, there is an additional combat phase.”
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Every day he weeps, for the loss of his spark and his punishment to guard the gate he destroyed, unable to cross.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: David Wyatt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

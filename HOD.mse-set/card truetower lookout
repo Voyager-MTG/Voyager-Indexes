@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Perle
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-05 21:52:02
+	name: Truetower Lookout
+	casting_cost: 3R
+	image: image176.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Orc</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-cardname><nospellcheck>Truetower Lookout</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
+		When <atom-cardname><nospellcheck>Truetower Lookout</nospellcheck></atom-cardname> enters, exile the top card of your library. You may play it until the end of your next turn.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Kirsa</error-spelling:en_US>, <error-spelling:en_US>Renodet</error-spelling:en_US>, Dena, and <error-spelling:en_US>Linley</error-spelling:en_US>... All great warriors throughout the ages. Their stories are what keep me going.”</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: AKIMBLYA
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

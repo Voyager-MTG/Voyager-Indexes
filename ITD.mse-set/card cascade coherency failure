@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://x.com/Slitherbop/status/1728976284682969266/photo/1
+	time_created: 2024-10-16 17:21:05
+	time_modified: 2024-10-18 15:48:48
+	name: Cascade Coherency Failure
+	casting_cost: 2R
+	image: image183
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Choose one or more—
+		<li><bullet>• </bullet>Destroy target artifact.
+		</li><li><bullet>• </bullet>This spell deals 4 damage to target creature and 2 damage to you.
+		</li><li><bullet>• </bullet>This spell deals 4 damage to target planeswalker and 2 damage to you.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Slitherbop
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

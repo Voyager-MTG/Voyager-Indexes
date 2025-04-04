@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		UM04
+		ARCUNSET1
+	time_created: 2021-09-11 03:04:14
+	time_modified: 2023-05-09 06:10:20
+	card_color: white, green, multicolor, horizontal
+	name: Friend Collector
+	casting_cost: 2GW
+	image: image82
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: Whenever you cast an Aura or Equipment spell, draw a card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“<error-spelling:en_US>Irticull</error-spelling:en_US> gave me these as a ‘gift.<error-spelling:en_US>’</error-spelling:en_US> Such nauseating companionship. They have clearly never contemplated the void.”<soft-line>
+		—<error-spelling:en_US>Cruelean</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Harsurfir</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

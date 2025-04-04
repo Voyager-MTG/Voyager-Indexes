@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: COLOURLESSUNCOMMON
+	time_created: 2022-04-03 03:59:36
+	time_modified: 2024-11-08 13:48:39
+	name: Deprecated Dump
+	casting_cost: 
+	image: image139
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		As <atom-cardname><nospellcheck>Deprecated Dump</nospellcheck></atom-cardname> enters, exile an untapped land you control until <atom-cardname><nospellcheck>Deprecated Dump</nospellcheck></atom-cardname> leaves the battlefield.
+		<atom-cardname><nospellcheck>Deprecated Dump</nospellcheck></atom-cardname> has all activated and triggered abilities of cards exiled by it.
+		Whenever you tap <atom-cardname><nospellcheck>Deprecated Dump</nospellcheck></atom-cardname> for mana, add <sym-auto>C</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Benjamin Del
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

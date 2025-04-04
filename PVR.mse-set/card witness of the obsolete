@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITECOMMON
+		CW10
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2023-05-05 23:33:55
+	card_color: white
+	name: Witness of the Obsolete
+	casting_cost: 3W
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Unicorn</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: <atom-cardname><nospellcheck>Witness of the Obsolete</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> if you control an Aura or an Equipment.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The old generation ended <error-spelling:en_US>aeons</error-spelling:en_US> ago, yet she watches them still.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Cleasia
+	card_code_text: Nim
+	card_code_text_2: Nim
+	card_code_text_3: Nim
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

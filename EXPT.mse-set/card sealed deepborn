@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: https://www.deviantart.com/eneyra/art/Experimental-sketch-1134781090
+	time_created: 2025-02-22 16:12:12
+	time_modified: 2025-03-30 16:34:56
+	name: Sealed Deepborn
+	casting_cost: 1I
+	image: image59
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Chimera</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: Whenever one or more tokens you control deal combat damage to a player, you may liberate one of them. <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Eneyra
+	card_code_text: • Designed By Trewq
+	card_code_text_2: Trewq
+	card_code_text_3: Trewq
+	copyright: 
+	copyright_2: 
+	copyright_3: 

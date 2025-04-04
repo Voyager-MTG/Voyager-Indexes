@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITECOMMON
+		CW14
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2023-05-05 23:37:10
+	card_color: white
+	name: Trapped in the Nilshroud
+	casting_cost: 5W
+	image: image94
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Exile target permanent.
+		<kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text:
+		<i-flavor>“Repair your suits regularly. A single gap in the shroud will melt you down.”<soft-line>
+		—<error-spelling:en_US>Uverngon</error-spelling:en_US>, <error-spelling:en_US>Nilshroud</error-spelling:en_US> Explorer</soft-line></i-flavor>
+	illustrator: Lois van Baarle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

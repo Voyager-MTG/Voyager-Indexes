@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Delora
+		!tag Vance
+		!tag Waldemar
+		!tag HODStory
+	time_created: 2025-02-24 00:31:14
+	time_modified: 2025-03-05 03:00:38
+	name: Vindictive Spiral
+	casting_cost: 1UB
+	image: image235.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Return target spell or creature to its owner’s hand. Then that player discards a card.
+	flavor_text: <i-flavor>“You know, mother, just as well as I do,” spat Waldemar in <error-spelling:en_US>Delora’s</error-spelling:en_US> direction, “that the crown should be mine. The title. The </i>power<i>. So listen close: When a birthright is at stake, all concerns give way to that. Nothing is unjustifiable.”</i-flavor>
+	illustrator: MadnessDemon
+	additional_credit: FLAREdirector
+	additional_credit_brush: flavor
+	card_code_text: Story Spotlight 10
+	card_code_text_2: 
+	card_code_text_3: 

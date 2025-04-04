@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		combined_chop: -4
+		opacity: 100
+		other_options: un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/abeardedartist/art/Untitled-951446828
+	time_created: 2024-10-17 23:27:47
+	time_modified: 2025-01-22 16:12:47
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: he/it
+	special_text:
+		Whenever a land you control enters, add one mana of any color.
+		[-1]: <margin:130:0:0>Return target land card from your graveyard to your hand.</margin:130:0:0>
+		[-1]: <margin:130:0:0>You may play an additional land this turn.</margin:130:0:0>
+	name: The Gardener, Waning
+	casting_cost: XG
+	image: image177
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Gardener</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	loyalty_cost_2: -1
+	loyalty_cost_3: -1
+	loyalty: X
+	level_1_text: Whenever a land you control enters, add one mana of any color.
+	level_2_text: <margin:130:0:0>Return target land card from your graveyard to your hand.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>You may play an additional land this turn.</margin:130:0:0>
+	level_4_text: 
+	illustrator: ABeardedArtist
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

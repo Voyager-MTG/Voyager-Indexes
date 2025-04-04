@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.pinterest.co.uk/pin/370561875600170793/
+	time_created: 2024-09-05 15:50:50
+	time_modified: 2025-01-21 15:56:40
+	name: Hall of the Hands
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		This land enters tapped with three wish counters on it.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>7</sym-auto>, Remove a wish counter from this land: Exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator:
+		 Lynn Scurfield
+	card_code_text: 
+	card_code_text_2: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

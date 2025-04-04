@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: GREENCOMMON
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2022-05-31 22:18:47
+	name: Plummeting Smash
+	casting_cost: 2G
+	image: image68
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Destroy target artifact.
+		</li><li><bullet>• </bullet>Destroy target creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A></li>
+	flavor_text: <i-flavor><soft-line><soft-line><soft-line><soft-line>Nature cares not for “improvements.”</soft-line></soft-line></soft-line></soft-line></i-flavor>
+	illustrator: Adam Midzuk
+	card_code_text: FT: Void
+	card_code_text_2: FT: Void
+	card_code_text_3: FT: Void
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

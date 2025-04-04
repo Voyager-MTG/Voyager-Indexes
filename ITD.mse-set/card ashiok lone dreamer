@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: 
+	time_created: 2024-10-01 16:08:00
+	time_modified: 2024-10-03 15:21:16
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: they/them
+	special_text:
+		If you would draw a card, instead exile the top three cards of your library, then put a card you own exiled with an Ashiok planeswalker into your hand.
+		[-2]: <margin:130:0:0>Exile the top card of your library, then put a card you own exiled with an Ashiok planeswalker into your hand.</margin:130:0:0>
+	name: Ashiok, Lone Dreamer
+	casting_cost: 1UU
+	image: image77
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Ashiok</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	loyalty_cost_2: -2
+	loyalty: 5
+	level_1_text: If you would draw a card, instead exile the top three cards of your library, then put a card you own exiled with an Ashiok planeswalker into your hand.
+	level_2_text: <margin:130:0:0>Exile the top card of your library, then put a card you own exiled with an Ashiok planeswalker into your hand.</margin:130:0:0>
+	level_3_text: 
+	level_4_text: 
+	illustrator: F3LC4T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

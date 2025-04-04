@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: BLACKCOMMON
+	time_created: 2021-12-29 10:02:03
+	time_modified: 2022-06-01 01:18:08
+	card_color: black
+	name: Kinematic Constrictor
+	casting_cost: B
+	image: image209
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Kinematic Constrictor</nospellcheck></atom-cardname> dies, put a +1/+1 counter on up to one target artifact.
+	flavor_text: <i-flavor>Make sure you know what’s a vine.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Adam Midzuk
+	card_code_text: FT: elmikkino
+	card_code_text_2: FT: elmikkino
+	card_code_text_3: FT: elmikkino
+	copyright: 
+	copyright_2: 
+	copyright_3: 

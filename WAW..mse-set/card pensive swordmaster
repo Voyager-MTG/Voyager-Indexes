@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-13 21:16:05
+	time_modified: 2025-01-28 19:59:33
+	name: Pensive Swordmaster
+	casting_cost: 3R
+	image: image211
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Kor</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		When <atom-cardname><nospellcheck>Pensive Swordmaster</nospellcheck></atom-cardname> enters, you may discard a card. If you do, <b>[draw a card.]</b>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>2U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>2U</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>“The armor wasn’t built for this climate, but... it might be the only suit left of its kind.”</i-flavor>
+	power: 4
+	toughness: 2
+	illustrator: Artur Sadlos
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

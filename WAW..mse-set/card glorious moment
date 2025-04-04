@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-14 19:24:27
+	time_modified: 2025-02-27 22:14:59
+	name: Glorious Moment
+	casting_cost: WUBRG
+	image: image246
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Glorious Moment</nospellcheck></atom-cardname> enters, exile cards from the top of your library until you exile a nonland card with mana value 4 or less. You may cast it without paying its mana cost. If you don’t, put a card exiled this way into your hand.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The fourth layer of the Wonderlands, deep below and high above, is the seat of the outpouring <error-spelling:en_US>Worldsoul</error-spelling:en_US> itself.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Peter Mohrbacher
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

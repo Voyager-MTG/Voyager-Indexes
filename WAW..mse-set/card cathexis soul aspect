@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		combined_chop: -2,
+		shrink_typeline_text: 2
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !tokens Wonder Archon Token; !tokens Wonder Token;
+	time_created: 2025-01-25 12:09:57
+	time_modified: 2025-02-12 16:20:48
+	special_text:
+		<atom-cardname><nospellcheck>Cathexis, Soul Aspect</nospellcheck></atom-cardname> enters with an additional loyalty counter on it for each unique name among other permanents you control.
+		[-1]: <margin:130:0:0>You may sacrifice a permanent. If you do, create a 5/5 Wonder Archon creature token that’s all colors. If you don’t, create two 1/1 Wonder creature tokens that are all colors.</margin:130:0:0>
+		[-4]: <margin:130:0:0>Draw a card for each permanent you control that’s two or more colors.</margin:130:0:0>
+	name: Cathexis, Soul Aspect
+	casting_cost: WUBRG
+	image: image235
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Kindred Planeswalker</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	loyalty_cost_2: -1
+	loyalty_cost_3: -4
+	loyalty_cost_4: 
+	loyalty: 1
+	level_1_text: <atom-cardname><nospellcheck>Cathexis, Soul Aspect</nospellcheck></atom-cardname> enters with an additional loyalty counter on it for each unique name among other permanents you control.
+	level_2_text: <margin:130:0:0>You may sacrifice a permanent. If you do, create a 5/5 Wonder Archon creature token that’s all colors. If you don’t, create two 1/1 Wonder creature tokens that are all colors.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Draw a card for each permanent you control that’s two or more colors.</margin:130:0:0>
+	level_4_text: 
+	illustrator: Melissa Houpert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

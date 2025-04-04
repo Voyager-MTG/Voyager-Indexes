@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: 
+	time_created: 2024-12-28 17:32:01
+	time_modified: 2025-01-28 17:33:07
+	name: Plains
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol white
+	illustrator: Claude Z
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: all breaks +2
+		frames: 
+		altered_plus_frames: 
+		other_options: auto familiars, auto nyx crowns, auto star crowns, auto space crowns
+		use_holofoil_stamps: no
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2023-09-08 00:52:21
+	name: Blessing of Uth
+	casting_cost: 1G
+	image: image233
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		Equipped creature gets +1/+2 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+		<kw-1><nospellcheck><key>Equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck><atom-reminder-core> <i-auto>(<param-cost><sym-auto>1</sym-auto></param-cost>: Attach to target creature you control. Equip only as a sorcery.)</i-auto></atom-reminder-core></kw-1>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor><error-spelling:en_US>Uth</error-spelling:en_US>, a city sunk by the effort of only four of <error-spelling:en_US>Roduths</error-spelling:en_US> guards still yearns for a hero to return it to the surface.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: David Alvarez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

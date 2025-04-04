@@ -1,0 +1,51 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 10
+		frames: 
+		altered_plus_frames: star
+		name_color: default
+		typeline_color: default
+		text_color: default
+		other_options: auto nyx crowns
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2023-05-23 00:54:53
+	card_color: green
+	name: Awakened Harmony
+	casting_cost: 2G
+	image: image102
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Whenever <atom-cardname><nospellcheck>Awakened Harmony</nospellcheck></atom-cardname> attacks, as long as you’ve cast a noncreature spell this turn, target creature you control gets +1/+1 until end of turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>“The forests are recovering, and we will make certain that is stays that way.”</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: yonaz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

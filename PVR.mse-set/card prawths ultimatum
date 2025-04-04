@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: BLACKRARE9
+	time_created: 2022-03-17 05:00:59
+	time_modified: 2024-11-08 13:58:55
+	name: Prawth's Ultimatum
+	casting_cost: 2BB
+	image: image269
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Target opponent chooses a number. You may get that many <sym>V</sym>. If you don’t, that player sacrifices all but that many permanents. <i-auto>(Spend <sym>V</sym> to cast vertex spells.)</i-auto>
+	flavor_text:
+		<i-flavor>“Give me everything, or be given nothing.”<soft-line>
+		—<error-spelling:en_US>Prawth</error-spelling:en_US>, Planar <error-spelling:en_US>Decimator</soft-line></i-flavor></error-spelling:en_US>
+	watermark: none
+	illustrator: Ste Flack
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

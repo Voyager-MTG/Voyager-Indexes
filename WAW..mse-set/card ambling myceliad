@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-07 16:01:05
+	time_modified: 2025-03-05 22:58:11
+	name: Ambling Myceliad
+	casting_cost: G
+	image: image43
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>, Exile a card from your graveyard: Add one mana of any color.
+	flavor_text:
+		<i-flavor>“Just one of them grows enough flesh to feed five people, and it all grows back in a week.”<soft-line>
+		—<error-spelling:en_US>Aechmi</error-spelling:en_US>, <error-spelling:en_US>Ilcan</error-spelling:en_US> wanderer</soft-line></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Tom Lopez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUECOMMON
+		CU16
+	time_created: 2021-10-08 06:32:42
+	time_modified: 2022-09-13 08:51:42
+	name: Packet Loss
+	casting_cost: U
+	image: image277
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: Until end of turn, target nonland permanent gains “<sym-auto>T</sym-auto>: Return target nonland permanent to its owner’s hand.”
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“The <error-spelling:en_US>nilshroud</error-spelling:en_US> storms have worsened since that <error-spelling:en_US>Prawth</error-spelling:en_US> fellow appeared.”<soft-line>
+		—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, Abyssal <error-spelling:en_US>Tsar</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Anton Moek
+	card_code_text: Functional
+	card_code_text_2: Functional
+	card_code_text_3: Functional
+	copyright: 
+	copyright_2: 
+	copyright_3: 

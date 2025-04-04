@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		SPOTLIGHT
+		REDRARE13
+	time_created: 2022-01-25 01:56:29
+	time_modified: 2022-08-11 14:42:21
+	name: Anivir's Warning
+	casting_cost: 1R
+	image: image152
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: Whenever you cast a spell from a zone not noted by <atom-cardname><nospellcheck>Anivir’s Warning</nospellcheck></atom-cardname>, note that zone. When you do, <atom-cardname><nospellcheck>Anivir’s Warning</nospellcheck></atom-cardname> deals damage to any target equal to the number of zones noted for it. <i-auto>(The zones are battlefield, hand, graveyard, exile, library, stack, and command.)</i-auto>
+	flavor_text: <i-flavor>“Our hungry technology doomed this plane. It will do so again; Do not follow your parent’s footsteps.”</i-flavor>
+	watermark: other magic symbols color spotlight
+	illustrator: Nexumorphic
+	card_code_text: Spotlight 3/10
+	card_code_text_2: Spotlight 3/10
+	card_code_text_3: Spotlight 3/10
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

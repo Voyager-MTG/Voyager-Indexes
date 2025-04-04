@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Rey
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-05 21:39:54
+	name: Rey Hospitality 
+	casting_cost: 1G
+	image: image280.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Double target creature’s power and toughness until end of turn. If you controlled it, tap it and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
+	flavor_text: <i-flavor>With one blow, <error-spelling:en_US>Caryl</error-spelling:en_US> shattered stone and silence alike. House <error-spelling:en_US>Rey</error-spelling:en_US> would not be challenged again so soon.</i-flavor>
+	illustrator: Alejandro Hurtado
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

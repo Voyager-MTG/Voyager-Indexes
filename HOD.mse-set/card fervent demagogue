@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Vance
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-03-05 19:05:32
+	name: Fervent Demagogue
+	casting_cost: 3R
+	image: image266.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Permanents you control have <kw-0><nospellcheck><key>sycophant</key></nospellcheck></kw-0>. <i-auto>(Whenever they deal damage to a player or permanent, the next spell you cast costs <sym-auto>1</sym-auto> less to cast.)</i-auto>
+		<sym-auto>R</sym-auto>, Discard a card: Exile the top two cards of your library. You may play those cards this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Sarah Beth Moore
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

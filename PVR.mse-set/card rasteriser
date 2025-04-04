@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: COLOURLESSCOMMON
+	time_created: 2022-01-19 21:03:05
+	time_modified: 2022-06-12 06:05:03
+	name: Rasteriser
+	casting_cost: 1
+	image: image145
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text:
+		<sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Rasteriser</nospellcheck></atom-cardname>: Choose two—
+		<li><bullet>• </bullet>Exile target card from a graveyard.
+		</li><li><bullet>• </bullet>Target player adds one mana of any color.
+		</li><li><bullet>• </bullet>Target player loses three <sym>V</sym>.
+		</li><li><bullet>• </bullet>Target player draws a card.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Emek Ozben
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

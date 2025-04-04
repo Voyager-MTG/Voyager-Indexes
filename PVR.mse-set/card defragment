@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		UM12
+		ARCUNSET2
+	time_created: 2021-12-25 04:42:38
+	time_modified: 2022-04-03 02:22:25
+	name: Defragment
+	casting_cost: 4WB
+	image: image92
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Return up to two artifact cards from your graveyard to the battlefield.
+	flavor_text: <i-flavor>Obsolete trash is Oligarch treasure.</i-flavor>
+	illustrator: Lars Grevsmühl
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

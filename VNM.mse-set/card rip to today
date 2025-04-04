@@ -1,0 +1,55 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: all breaks +2
+		frames: mutate
+		altered_plus_frames: path
+		custom_symbol: abstract-061.png
+		other_options: auto familiars, auto nyx crowns, auto star crowns, auto space crowns
+		use_holofoil_stamps: no
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2021-04-25 03:20:55
+	time_modified: 2025-03-01 16:06:30
+	extra_data:
+		magic-m15-altered-plus:
+			corner: sanctum
+	card_color: land, multicolor
+	name: Rip to Today
+	image: image21.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color. This ability costs <sym-auto>1</sym-auto> less to activate if it isn’t your first, second, or third turn of the game.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck>, Pay 2 life, then exile a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>multicolor</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> card from your hand.<atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+	illustrator: Alena Aenami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

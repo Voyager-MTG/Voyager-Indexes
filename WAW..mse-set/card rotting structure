@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: nyx
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-27 15:55:31
+	time_modified: 2025-01-28 19:57:22
+	name: Rotting Structure
+	casting_cost: 1G
+	image: image104
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
+		Enchanted land has “<sym-auto>T</sym-auto>: Add one mana of any color” and “<sym-auto>R</sym-auto>, <sym-auto>T</sym-auto>: Sacrifice this land.”
+		When <atom-cardname><nospellcheck>Rotting Structure</nospellcheck></atom-cardname> enters or is put into a graveyard from the battlefield, draw a card.
+	flavor_text: <i-flavor>Remnants of old settlements dot the outer Holt, their positions shifting and dwindling with time.</i-flavor>
+	illustrator: Calder Moore
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

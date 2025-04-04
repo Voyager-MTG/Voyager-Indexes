@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Rey
+		!tag Leon
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-03-05 18:21:45
+	name: Call to War
+	casting_cost: XW
+	image: image66.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Create X 1/1 green Knight creature tokens.
+		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>4W</sym-auto>, Exile X cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>A Lord’s call is law.</i-flavor>
+	illustrator: chuy de leon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

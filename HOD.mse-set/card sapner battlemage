@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Sapner
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-05 21:26:49
+	name: Sapner Battlemage
+	casting_cost: 2G
+	image: image27.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Azra</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<sym-auto>W</sym-auto>, <sym-auto>T</sym-auto>: Tap target creature.
+		<sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Sapner Battlemage</nospellcheck></atom-cardname>: Return target card from your graveyard to your hand.
+	flavor_text: <i-flavor>“I had thought the injury would keep me away. But in times as dire as this, I will return.”</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Domenico Cava
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

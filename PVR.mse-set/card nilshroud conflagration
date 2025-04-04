@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDCOMMON
+		CR14
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2022-04-03 00:03:49
+	card_color: red
+	name: Nilshroud Conflagration
+	casting_cost: 3RR
+	image: image105
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		<atom-cardname><nospellcheck>Nilshroud Conflagration</nospellcheck></atom-cardname> deals 5 damage to target creature.
+		You may sacrifice a land. If you do, search your library for a basic land card or a Texture card, put it onto the battlefield tapped, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Robin Tran
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

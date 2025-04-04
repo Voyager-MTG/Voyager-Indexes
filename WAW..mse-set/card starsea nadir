@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: landslot
+	time_created: 2024-12-27 20:43:47
+	time_modified: 2025-01-28 16:51:13
+	card_color: blue, red, land, horizontal
+	name: Starsea Nadir
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-cardname><nospellcheck>Starsea Nadir</nospellcheck></atom-cardname> enters tapped unless a land you control could produce <sym>B</sym>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor>Chance-in-Hell had blasted her way through the bedrock of the Holt and the floor of the Citadel, but found that the barriers to the <error-spelling:en_US>Worldsoul</error-spelling:en_US> were more subtle than stone.</i-flavor>
+	illustrator: Leanna Teneyke
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		
+		It recycles what others cannot, it brings rest to those that refuse.
+		
+		!addtoken GreenWurm;2;
+	time_created: 2022-04-24 03:31:09
+	time_modified: 2025-03-01 17:24:54
+	name: Guardian of Faloden Woods
+	casting_cost: 2I/GI/G
+	image: image52.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		<sym-auto>1I/G</sym-auto>, Discard this: Create two 1/1 green Wurm creature tokens with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Duong ct
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

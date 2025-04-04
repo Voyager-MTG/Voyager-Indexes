@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-07 15:26:25
+	time_modified: 2025-03-18 17:02:57
+	name: Playful Skulk
+	casting_cost: 1R
+	image: image100
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fox</word-list-race-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<sym-auto>T</sym-auto>: <b>[Target creature you control gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.]</b>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>R</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Servane Altermatt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

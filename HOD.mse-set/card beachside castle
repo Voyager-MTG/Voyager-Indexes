@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Minna
+		Land Cycle
+		House Radcliff
+	time_created: 2021-07-05 10:09:01
+	time_modified: 2025-03-05 17:31:41
+	name: Beachside Castle
+	image: image14
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>. <atom-cardname><nospellcheck>Beachside Castle</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
+	flavor_text:
+		<i-flavor>“My House is one of might and magic.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Minna</error-spelling:en_US> Radcliff</i-flavor>
+	illustrator: Andrew Mironov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Zangy
+	copyright_2: Set by Zangy
+	copyright_3: Set by Zangy

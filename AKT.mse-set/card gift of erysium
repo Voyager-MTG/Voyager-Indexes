@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITECOMMON
+		CW17
+		!replacetoken Liberated Reminder;1
+	time_created: 2022-02-26 15:29:17
+	time_modified: 2025-02-07 06:43:20
+	name: Gift of Erysium
+	casting_cost: W
+	image: image42
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: The next time target non-Dragon creature would leave the battlefield this turn, <kw-0><nospellcheck><key>liberate</key></nospellcheck></kw-0> it instead. <i-auto>(Exile it. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto>
+	flavor_text: <i-flavor>A humble first step for <error-spelling:en_US>Erys’</error-spelling:en_US> salvation.</i-flavor>
+	watermark: none
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

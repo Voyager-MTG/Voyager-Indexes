@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-02-24 21:32:10
+	time_modified: 2025-03-30 16:52:52
+	name: Shell’s Scraping
+	casting_cost: 3II
+	image: image133
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Create two 1/1 silver Horror creature tokens with <kw-0><nospellcheck><key>changeling</key></nospellcheck></kw-0>. <i-auto>(They’re every creature type.)</i-auto>
+		<atom-cardname><nospellcheck>Shell’s Scraping</nospellcheck></atom-cardname> deals damage to any target equal to the number of tokens you control. You gain life equal to the damage dealt this way.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Project Moon
+	card_code_text: •  Designed by Trewq
+	card_code_text_2: Trewq
+	card_code_text_3: Trewq
+	copyright: 
+	copyright_2: 
+	copyright_3: 

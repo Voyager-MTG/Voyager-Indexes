@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://x.com/MON_2501/status/1522181929931767808
+	time_created: 2024-08-30 13:02:02
+	time_modified: 2024-10-27 17:42:01
+	name: Identity Shatter
+	casting_cost: 2R
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Choose one—
+		<li><bullet>• </bullet>Create a token copy of target creature you control except it’s not legendary. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Exile it at end of turn.
+		</li><li><bullet>• </bullet>Discard up to two cards, then draw that many cards plus one. </li>
+	flavor_text: <i-flavor>And so she peeled away her face to reveal the mask that lay beneath.</i-flavor>
+	illustrator: MON_2501
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

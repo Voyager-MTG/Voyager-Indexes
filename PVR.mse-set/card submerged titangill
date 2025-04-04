@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUECOMMON
+		CU09
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2022-07-21 18:28:04
+	card_color: blue
+	name: Submerged Titangill
+	casting_cost: 5U
+	image: image290
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Shark</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0>
+		<sym-auto>1U</sym-auto>, Discard <atom-cardname><nospellcheck>Submerged Titangill</nospellcheck></atom-cardname>: Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor><error-spelling:en_US>Rastira’s</error-spelling:en_US> depths are rarely seen.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 6
+	toughness: 5
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

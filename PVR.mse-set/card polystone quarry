@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		COLOURLESSUNCOMMON
+		UA06
+	time_created: 2021-10-02 02:43:06
+	time_modified: 2024-11-08 13:51:01
+	name: Polystone Quarry
+	name_2: 
+	casting_cost: 3
+	casting_cost_2: 
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Polystone Quarry</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+		The first Vertex spell you cast each turn has “Add two mana in any combination of colors.”
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Lithium-Polygon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

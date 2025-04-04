@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: tall, nyx
+		other_options: 
+		shrink_typeline_text: 1
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-28 20:10:54
+	time_modified: 2025-01-28 20:12:07
+	card_color: black
+	name: Memory of Home
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rule_text: Whenever a creature you control dies, you may create an X/X black Spirit creature token that can’t block, where X is its mana value. Do this only once on each of your turns.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: David Frasheki
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-07 19:03:29
+	time_modified: 2025-01-28 19:56:59
+	name: Wish for Strength
+	casting_cost: 4GG
+	image: image287
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Emerge <param-cost><sym-auto>7G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		If <atom-cardname><nospellcheck>Wish for Strength</nospellcheck></atom-cardname> emerged from a creature with power 4 or greater, it can’t be countered and enters with a <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> counter.
+	flavor_text: <i-flavor></i-flavor>
+	power: 8
+	toughness: 8
+	illustrator: Vladimir Matyukhin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

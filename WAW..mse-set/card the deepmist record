@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-21 13:52:43
+	time_modified: 2025-02-03 09:45:41
+	name: The Deepmist Record
+	casting_cost: 4U
+	image: image170
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Draw three cards.
+		You may cast <atom-cardname><nospellcheck>The Deepmist Record</nospellcheck></atom-cardname> from your graveyard by paying <sym>WUBRG</sym> rather than paying its mana cost. 
+	flavor_text: <i-flavor>The gramophone creaked to life, and Manuela and <error-spelling:en_US>Eteres</error-spelling:en_US> strained to hear the tired voice. “<soft-line>This was the plane of <error-spelling:en_US>Ischav</error-spelling:en_US>,<soft-line><soft-line>” it began.</soft-line></soft-line></soft-line></i-flavor>
+	illustrator: Golan Shviro
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

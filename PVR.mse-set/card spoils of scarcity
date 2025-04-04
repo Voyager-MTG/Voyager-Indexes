@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDCOMMON
+		CR13
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2022-06-12 06:06:40
+	card_color: red
+	name: Spoils of Scarcity
+	casting_cost: 1R
+	image: image80
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Choose two—
+		<li><bullet>• </bullet>Spoils of Scarcity deals 1 damage to any target.
+		</li><li><bullet>• </bullet>Target player creates a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		</li><li><bullet>• </bullet>Target player gets <sym>V/W</sym>. <i-auto>(They can spend <sym>V</sym> to cast vertex spells.)</i-auto></li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

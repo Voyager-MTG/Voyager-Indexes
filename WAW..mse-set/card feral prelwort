@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-21 16:55:37
+	time_modified: 2025-01-28 19:57:07
+	name: Feral Prelwort
+	casting_cost: 1G
+	image: image86
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add one mana of any color.
+		<atom-cardname><nospellcheck>Feral Prelwort</nospellcheck></atom-cardname> gets +1/+1 for each color among monocolored permanents you control.
+	flavor_text: <i-flavor>Introduced by New <error-spelling:en_US>Tensuo</error-spelling:en_US> to ward off native wildlife, the <error-spelling:en_US>prelwort</error-spelling:en_US> adapted to become more of a <error-spelling:en_US>nusiance</error-spelling:en_US> than they ever were.</i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Tomasz Ryger
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

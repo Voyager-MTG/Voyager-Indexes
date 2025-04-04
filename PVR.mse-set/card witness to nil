@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKCOMMON
+		CB14
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2023-05-05 22:40:36
+	name: Witness to Nil
+	casting_cost: 1B
+	image: image217
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wall</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-0><nospellcheck><key>Defender</key></nospellcheck></kw-0>
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Each player <kw-0><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-0>. Each opponent loses 1 life.
+	flavor_text:
+		<i-flavor>“<error-spelling:en_US>Anivir</error-spelling:en_US>? That Apocalypse Engine you asked for? It’s not here.”<soft-line>
+		—<error-spelling:en_US>Uverngon</error-spelling:en_US>, <error-spelling:en_US>Nilshroud</error-spelling:en_US> Explorer</soft-line></i-flavor>
+	power: 0
+	toughness: 4
+	illustrator: Jason Nelson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

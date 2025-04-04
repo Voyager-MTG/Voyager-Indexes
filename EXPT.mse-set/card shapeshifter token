@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		frames: frameless art
+		altered_plus_frames: token
+		additional_options: half frameless art, center name
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Hopeless
+	time_created: 2025-02-23 01:28:35
+	time_modified: 2025-03-01 23:42:15
+	name: Shapeshifter Token
+	image: image208
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Shapeshifter</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-A><nospellcheck><key>Changeling</key></nospellcheck><atom-reminder-expert> <i-auto>(This card is every creature type.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: DON
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: TVP
+	copyright_2: TVP
+	copyright_3: TVP

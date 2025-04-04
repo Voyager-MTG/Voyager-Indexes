@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tokens Vrep token;
+	time_created: 2025-01-24 15:15:22
+	time_modified: 2025-01-30 12:44:32
+	card_color: green
+	name: Vrep
+	casting_cost: 4G
+	image: image269
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Salamander</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<atom-cardname><nospellcheck>Vrep</nospellcheck></atom-cardname> can’t be blocked by more than one creature.
+		<i>Augmented</i> — At the beginning of combat on your turn, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, put a number of +1/+1 counters on target creature equal to <atom-cardname><nospellcheck>Vrep</nospellcheck></atom-cardname>’s power.
+		<kw-A><nospellcheck><key>Reflect <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1</sym-auto></param-cost>: Create a token copy of this creature, except it’s a 1/1 Wonder Salamander without reflect. Reflect only as a sorcery, and only once.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Tyler Wittereid
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

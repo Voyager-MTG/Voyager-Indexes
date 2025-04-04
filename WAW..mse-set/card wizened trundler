@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-08 19:32:47
+	time_modified: 2025-02-20 17:02:55
+	name: Wizened Trundler
+	casting_cost: 3W
+	image: image228
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Rhino</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<i>Augmented —</i> At the beginning of combat on your turn, choose one. If you’ve spent <sym>WUBRG</sym> to cast spells this turn, you may choose both instead.
+		<li><bullet>• </bullet>Other creatures have base power and toughness 3/3 until end of turn.
+		</li><li><bullet>• </bullet>Creatures you control gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 5
+	illustrator: Shuhei Yamaguchi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

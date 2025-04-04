@@ -1,0 +1,61 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		dfc_type: modal with custom flags
+		shrink_back_typeline_text: 
+		other_options: use hovering pt, use holofoil stamps, unindent nonloyalty abilities, auto nyx crowns, automate type frames
+		level_1_chop: 0,6
+		level_5_chop: 0,6,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		REDRARE
+		
+		HIGHWELT CYCLE
+	time_created: 2025-01-27 13:59:44
+	time_modified: 2025-01-27 23:52:30
+	extra_data:
+		magic-m15-mainframe-dfc:
+			back_type_hint: 1/3 Wizard
+			back_color_hint: <sym>1RR</sym>
+			front_type_hint: 3/1 Soldier
+			front_color_hint: <sym>1R</sym>
+	special_text: 
+	name: Swiftpaw Striker
+	name_2: Swiftmind Sage
+	casting_cost: 1R
+	casting_cost_2: 1RR
+	image: image142.png
+	image_2: image_217.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Werewolf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Serf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-race-en>Dragon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Werewolf</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-A><nospellcheck><key>Bisapience</key></nospellcheck>—Discard a card.<atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you play a card from exile, this creature gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> until end of turn.
+	rule_text_2:
+		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0>—Discard a card.
+		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>
+		Whenever <atom-cardname><nospellcheck>Swiftmind Sage</nospellcheck></atom-cardname> deals damage to an opponent, exile the top card of your library. You may play that card until the end of your next turn.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 3
+	power_2: 1
+	toughness: 1
+	toughness_2: 3
+	illustrator: Chaos-Drago
+	illustrator_2: Chaos-Drago
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

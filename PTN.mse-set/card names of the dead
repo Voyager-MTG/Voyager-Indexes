@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-05-07 21:22:38
+	time_modified: 2023-09-14 19:05:10
+	card_color: blue
+	name: Names of the Dead
+	casting_cost: U
+	image: image298
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: Target creature you control gets +1/+3 until end of turn. If you control a Sanctuary or God, that creature also gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>We are shrouded with the Ivory Dove’s power, there is nothing that can be taken.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Vindnae
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

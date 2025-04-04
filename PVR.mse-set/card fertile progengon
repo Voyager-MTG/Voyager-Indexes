@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENUNCOMMON
+		UG02
+	time_created: 2022-01-11 03:03:33
+	time_modified: 2022-05-31 06:33:37
+	name: Fertile Progengon
+	casting_cost: 2G
+	image: image160
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fractal</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add one mana of any color. 
+		Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, create a 1/1 white Human creature token. This ability triggers only once each turn.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Jeremy Vitry
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

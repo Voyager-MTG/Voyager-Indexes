@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag Dewold
+	time_created: 2025-02-24 00:42:28
+	time_modified: 2025-03-30 19:13:47
+	card_color: red
+	name: Thorough Conflagration
+	casting_cost: XRR
+	image: image39.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Thorough Conflagration deals X damage to each of X targets. <i-auto>(You must choose X targets. Nothing is safe.)</i-auto>
+		</li><li><bullet>• </bullet>Thorough Conflagration deals X damage to any target.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Joel Chaim Holtzman
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

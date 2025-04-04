@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-10-03 15:33:59
+	time_modified: 2024-10-23 00:29:44
+	name: Faceless
+	casting_cost: 1U
+	image: image89
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature or planeswalker</param-name></key></nospellcheck></kw-a>
+		Enchanted permanent is a 2/2 creature with no name or abilities.
+		When this enchantment leaves the battlefield, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Bassem Khaled
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

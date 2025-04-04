@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Plaskett
+	time_created: 2025-03-02 16:25:36
+	time_modified: 2025-03-05 15:47:22
+	name: Read the Wingbeats
+	casting_cost: 1U
+	image: image141.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Read the Wingbeats</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw a card.
+		Whenever you cast a spell during an opponent’s turn, create a 1/1 blue Scout creature token <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sebastian Giacobino
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

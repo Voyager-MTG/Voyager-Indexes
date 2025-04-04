@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: 
+		font_cap: 12.5
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/eranfowler/art/Winter-Captures-the-Night-953552461
+	time_created: 2023-07-21 13:23:00
+	time_modified: 2025-03-30 19:15:28
+	name: Planar Lockdown
+	casting_cost: 1
+	image: image3.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		Planeswalker spells cost <sym-auto>1</sym-auto> more to cast.
+		Whenever a planeswalker enters, remove all but one of its loyalty counters from it.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“<error-spelling:en_US>Planeswalkers</error-spelling:en_US> are a threat to the <error-spelling:en_US>Mansus</error-spelling:en_US>, surrender your spark or you will open.”<soft-line>
+		</soft-line>— The Horned-<error-spelling:en_US>Axe</error-spelling:en_US> to <error-spelling:en_US>Isidra</i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Eran Fowler
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

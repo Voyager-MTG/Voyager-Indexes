@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-07-18 19:11:37
+	time_modified: 2025-03-09 17:51:01
+	card_color: red
+	name: Forces of Opening
+	casting_cost: 2R
+	image: image102
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		Whenever a creature you control deals combat damage to a player, exile the top card of that player’s library.
+		Whenever one or more creatures you control become blocked, you may cast a spell from among cards exiled with <atom-cardname><nospellcheck>Forces of Opening</nospellcheck></atom-cardname> without paying its mana cost.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Tanya Podolskaia
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

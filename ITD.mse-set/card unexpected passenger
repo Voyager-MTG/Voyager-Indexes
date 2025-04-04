@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 5
+		shrink_name_text: 
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-08-27 18:40:28
+	time_modified: 2025-01-20 21:43:33
+	name: Unexpected Passenger
+	casting_cost: 2RR
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When this creature enters, conjure a card named Spark into your hand. <i-auto>(It’s a <sym>R</sym> sorcery with “Spark deals 1 damage to any target.”)</i-auto>
+		Whenever an opponent loses life on your turn, creatures you control get +1/+0 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Julian Faylona
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

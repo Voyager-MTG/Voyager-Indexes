@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Whitaker
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-03-05 17:33:57
+	name: Sandrock Blacksmith
+	casting_cost: W
+	image: image55.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Kithkin</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>Sandrock Blacksmith</nospellcheck></atom-cardname> or another creature enters under your control, create a <kw-A><nospellcheck><key>Weapon token</key></nospellcheck> <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<blob><atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>2</sym> and “Equipped creature gets +1/+1.”</atom-reminder-custom></kw-A><moved><atom-reminder-custom> <sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+		Equipment you control have “Sacrifice this Equipment: Equipped creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.”
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Annadel Cinco
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

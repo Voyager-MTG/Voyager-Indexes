@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: COLOURLESSRARE
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2024-11-08 13:45:14
+	name: Prophetic Prism
+	casting_cost: 2
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Prophetic Prism</nospellcheck></atom-cardname> enters, draw a card.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
+	flavor_text:
+		<i-flavor>“The <error-spelling:en_US>Quintarchy</error-spelling:en_US> blindly worship our <error-spelling:en_US>millenia</error-spelling:en_US> old garbage for empty promises.”<soft-line>
+		—<error-spelling:en_US>Anivir</error-spelling:en_US> the Forgotten</soft-line></i-flavor>
+	illustrator: Myrmiredon
+	card_code_text: Reprint
+	card_code_text_2: Reprint
+	card_code_text_3: Reprint
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

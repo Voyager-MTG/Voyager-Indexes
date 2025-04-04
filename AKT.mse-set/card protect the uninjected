@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: hands
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		CW16
+		WHITECOMMON
+		COMMONKINDREDCYCLE
+		LIZARDTYPE
+		ADVISORTYPE
+	time_created: 2023-06-21 23:40:02
+	time_modified: 2024-10-13 23:50:59
+	card_color: white
+	name: Protect the Uninjected
+	casting_cost: 1W
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Instant</word-list-type-en>
+	sub_type: <word-list-race-en>Lizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Exile target nonland, nontoken permanent. At the beginning of the next end step, return it to the battlefield under its owner’s control.
+		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>Protect the Uninjected</nospellcheck></atom-cardname> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Lizard or Advisor you control dealt damage to an opponent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Madness Demon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

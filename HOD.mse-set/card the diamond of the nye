@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		other_options: vorthos box
+		shrink_typeline_text: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		Renowned Cycle
+		!related Dealings at the Delta;
+		!tag Lodema
+	time_created: 2022-04-02 19:45:43
+	time_modified: 2022-05-21 15:28:24
+	extra_data:
+		magic-m15-mainframe-tokens:
+			vorthos_box: She/her
+	card_color: blue
+	name: The Diamond of the Nye
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <atom-cardname><nospellcheck>The Diamond of the Nye</nospellcheck></atom-cardname> can’t be blocked.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Bob Kehl
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

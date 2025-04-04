@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		other_options: vorthos box
+		shrink_typeline_text: 2
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!related House Negotiations;
+	time_created: 2022-04-02 19:45:43
+	time_modified: 2022-05-21 12:04:28
+	extra_data:
+		magic-m15-mainframe-tokens:
+			vorthos_box: He/him
+	card_color: green
+	name: The Gentle Giant
+	image: image27
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Azra</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: LoranDeSore
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

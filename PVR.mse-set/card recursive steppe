@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITEUNCOMMON
+		UW13
+		LANDCYCLEUNCOMMON
+	time_created: 2022-01-20 00:29:21
+	time_modified: 2024-11-08 13:50:36
+	name: Recursive Steppe
+	image: image150
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Recursive Steppe</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.
+		<sym-auto>1WW</sym-auto>, <sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Recursive Steppe</nospellcheck></atom-cardname>: Choose target permanent card in your graveyard that was put there from the battlefield this turn. Return it to the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Henry Wong
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

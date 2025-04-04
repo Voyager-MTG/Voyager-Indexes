@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: -3
+		chop_bottom: -3
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: changed
+	time_created: 2024-09-01 14:56:11
+	time_modified: 2024-10-26 16:02:21
+	name: Corpse-Shell Container
+	casting_cost: 5
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		When this equipment enters, return target creature card from your graveyard to the battlefield and attach this equipment to it.
+		Equipped creature gets +2/+2 and gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: DenisZHbankov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

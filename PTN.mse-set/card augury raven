@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://alessiahv.artstation.com/projects/8waYYw
+		reprint
+		>FT
+	time_created: 2022-08-26 20:20:56
+	time_modified: 2025-03-09 18:01:55
+	card_color: blue
+	name: Augury Raven
+	casting_cost: 3U
+	image: image55
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Foretell <param-cost><sym>1U</sym></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The gossip of the hours may be called Birdsong, and few may listen in.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: custom watermark one
+	power: 3
+	toughness: 3
+	illustrator: Alessia H. Valastro
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

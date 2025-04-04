@@ -1,0 +1,64 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: all breaks
+		frames: lesson, frameless art
+		altered_plus_frames: token
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: !addtoken Subdued Rift;Warped Exploration;Cut from Void;
+	time_created: 2022-04-02 19:29:38
+	time_modified: 2025-03-01 16:43:53
+	extra_data:
+		magic-m15-altered-plus:
+			corner: instant
+	special_text_2: 
+	card_color: white, blue, red, multicolor, horizontal
+	card_color_2: multicolor
+	name: Multaph’s Respite’s Spellbook
+	name_2: 
+	casting_cost: 
+	image: image87.png
+	image_2: image87
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Spellbook</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	rarity: special
+	chapter_text_2: 
+	rule_text:
+		<b>Subdued Rift</b> <sym>W/B</sym>| <u>Skill Sorcery</u><soft-line>
+		</soft-line>Create a 1/1 black and white Cat enchantment creature token.
+		<b>Warped Exploration</b> <sym>2</sym>| <u>Skill Sorcery</u><soft-line>
+		</soft-line>Create a trace of a basic land of any type into your hand.
+		<b>Cut from Void</b> <sym>2U</sym>| <u>Skill Instant</u><soft-line>
+		</soft-line><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>, then draw a card.
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	level_5_text: 
+	level_6_text: 
+	level_7_text: 
+	level_8_text: 
+	illustrator: Borisut Chamnan
+	illustrator_2: Ir
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag HODStory
+		!tag Dewold
+		!tag Terrel
+		!tag Leon
+		!tag Bennet
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-05 00:13:31
+	name: Royal Send-Off
+	casting_cost: 5U
+	image: image167.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		As an additional cost to cast this spell, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do it costs <sym-auto>3</sym-auto> less to cast.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
+		<kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw three cards.
+	flavor_text: <i-flavor>As the king’s body floated down the Cherry River, the crown was placed on Leon’s head.</i-flavor>
+	illustrator: Daria Rashev
+	card_code_text: Story Spotlight 9
+	card_code_text_2: 
+	card_code_text_3: 

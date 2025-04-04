@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 11
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Terrel
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-05 21:47:43
+	name: Terrel Battlemage
+	casting_cost: 2W
+	image: image21.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Gargoyle</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<sym-auto>U</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a creature: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>, then draw a card.
+		<sym-auto>R</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a creature: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. Activate only outside of combat.
+	flavor_text: <i-flavor>“Do you think your petty house can stand up to the greatest of the Grand Houses?”</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Laila Kober
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

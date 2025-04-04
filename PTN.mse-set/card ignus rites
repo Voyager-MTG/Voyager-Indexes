@@ -1,0 +1,51 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 
+		frames: 
+		font_cap: 12.5
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-04-03 16:10:20
+	time_modified: 2025-03-30 19:17:55
+	name: Ignus Rites
+	casting_cost: 1R
+	image: image314
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Exile the top card of your library.
+		</li><li><bullet>• </bullet>Exile target artifact.
+		<margin:0:0:5></li>Until the end of your next turn, you may play the exiled card.</margin:0:0:5>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“The Flint was shattered and the flames now follow the Forge.”</i>
+		— On Lost Gods<i></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Kaitlyn George
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

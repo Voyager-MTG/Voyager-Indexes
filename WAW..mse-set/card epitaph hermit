@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: clear
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-14 19:24:27
+	time_modified: 2025-01-28 16:49:49
+	name: Epitaph Hermit
+	casting_cost: 3
+	image: image132
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Survivor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		When <atom-cardname><nospellcheck>Epitaph Hermit</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Epitaph Hermit</nospellcheck></atom-cardname> dies, put it on the bottom of its owner’s library.
+	flavor_text: <i-flavor>The last of a plane, she, and it, are immortalized by the <error-spelling:en_US>Wonderlands’</error-spelling:en_US> sympathy.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Helene Lenoble
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

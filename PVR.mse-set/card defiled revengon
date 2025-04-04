@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKCOMMON
+		CB09
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2022-06-12 05:50:39
+	card_color: black
+	name: Defiled Revengon
+	casting_cost: 3BB
+	image: image224
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fractal</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever you spend four or more mana to cast a spell or activate an ability, each opponent loses 2 life.
+	flavor_text: <i-flavor>A few twisted souls may survive <error-spelling:en_US>ngonification</error-spelling:en_US>. Pity those that do.</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: David Demaret
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

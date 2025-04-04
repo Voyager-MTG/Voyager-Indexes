@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-20 12:52:19
+	time_modified: 2025-01-28 19:57:10
+	name: Worldsoul Wanderer
+	casting_cost: G
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
+		You may cast <atom-cardname><nospellcheck>Worldsoul Wanderer</nospellcheck></atom-cardname> from your graveyard by paying <sym>WUBRG</sym> rather than paying its mana cost. If you do, it enters with X +1/+1 counters on it, where X is the number of lands you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Jules Dariullat
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

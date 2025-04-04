@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITEUNCOMMON
+		UW09
+	time_created: 2022-01-08 15:53:44
+	time_modified: 2024-11-08 19:01:26
+	name: Quintarchs' Decree
+	casting_cost: 1W
+	image: image292
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Exile target creature or planeswalker. Its controller gets an amount of <sym>V</sym> equal to that creature’s mana value. <i-auto>(They can spend <sym>V</sym> to cast Vertex spells.)</i-auto>
+	flavor_text: <i-flavor><error-spelling:en_US>Anivir</error-spelling:en_US> sent <error-spelling:en_US>Uverngon</error-spelling:en_US> to warn the <error-spelling:en_US>Quintarchy</error-spelling:en_US> about their destructive habits. The warning fell on deaf ears.</i-flavor>
+	watermark: other magic symbols color spotlight
+	illustrator: Nexumorphic
+	card_code_text: Spotlight 5/10
+	card_code_text_2: Spotlight 5/10
+	card_code_text_3: Spotlight 5/10
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

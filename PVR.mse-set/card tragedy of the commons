@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDCOMMON
+		CR17
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2022-06-01 03:49:22
+	card_color: red
+	name: Tragedy of the Commons
+	casting_cost: 3R
+	image: image91
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Destroy target artifact or land.
+		Creatures you control get +2/+0 until end of turn.
+	flavor_text:
+		<i-flavor>“No one cares about the earth anymore. It’s merely a vessel containing tech.”<soft-line>
+		—<error-spelling:en_US>Pir</error-spelling:en_US>, <error-spelling:en_US>Quintarchal</error-spelling:en_US> Miner</soft-line></i-flavor>
+	illustrator: WhoohooSue
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

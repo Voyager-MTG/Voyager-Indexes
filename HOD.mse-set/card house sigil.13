@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!exportname Hook Sigil
+		!tag Hook
+	time_created: 2025-02-24 00:20:33
+	time_modified: 2025-03-05 21:08:37
+	name: House Sigil
+	casting_cost: 2
+	image: image294.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.
+	flavor_text:
+		<i-flavor>“Beware Our Sting”<soft-line>
+		</soft-line>—Hook House Words</i-flavor>
+	illustrator: Arash Razavi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

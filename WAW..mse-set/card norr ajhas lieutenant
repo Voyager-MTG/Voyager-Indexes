@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tokens Memory of Home;
+	time_created: 2025-01-21 18:56:11
+	time_modified: 2025-01-28 22:19:07
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: she/her
+	name: Norr, Ajha’s Lieutenant
+	casting_cost: 3B
+	image: image207
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Kor</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When <atom-legname><nospellcheck>Norr</nospellcheck></atom-legname> enters, create a black enchantment token named Memory of Home with “Whenever a creature you control dies, you may create an X/X black Spirit creature token that can’t block, where X is its mana value. Do this only once on each of your turns.”      
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 2
+	illustrator: Justice Wong
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDRARE
+		NEWCARD
+	time_created: 2023-03-12 09:01:03
+	time_modified: 2023-05-05 09:05:40
+	name: Relentless Consumption
+	casting_cost: 4RR
+	image: image286
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Whenever a player loses life, you gain that much <sym>V</sym>. <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto>
+		<sym-auto>T</sym-auto>: Add <sym-auto>CCC</sym-auto>.
+	flavor_text: <i-flavor><error-spelling:en_US>Nilshroud</error-spelling:en_US> predators thirst at such resource-intensive prey.</i-flavor>
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

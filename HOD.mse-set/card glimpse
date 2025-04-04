@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag Dewold
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-05 17:24:34
+	name: Glimpse
+	casting_cost: W
+	image: image210.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Draw a card, then <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text:
+		<i-flavor>“A grim future filled where the land itself chokes out the roots of each of the trees.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Hexer</error-spelling:en_US> Prophecy</i-flavor>
+	illustrator: Rael (Israel MAccari) Dionisio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

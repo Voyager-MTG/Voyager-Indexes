@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.emilylubanko.com/tarot
+	time_created: 2024-10-12 13:12:18
+	time_modified: 2025-01-23 19:39:08
+	name: Water-Witch’s Bargain
+	casting_cost: 1G
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: <i>Deep dwelling</i>— <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Return each land card milled this way from your graveyard to your hand. If your main library contains a number of cards less than or equal to half your starting deck size, return each nonland permanent card milled this way to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Emily Lubanko
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

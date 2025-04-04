@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDCOMMON
+		CR16
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2022-07-21 16:08:36
+	name: Gift of Wilderness
+	casting_cost: 3R
+	image: image40
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: common
+	rule_text:
+		This spell costs <sym-auto>3</sym-auto> less to cast if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +3/+2 and has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator:
+		Alexey Egorov
+		Dmitriy Yakovlev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

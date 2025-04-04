@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 7
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		UM07
+		ARCUNSET1
+	time_created: 2021-11-17 18:39:04
+	time_modified: 2024-11-08 13:50:41
+	card_color: blue, green, multicolor, horizontal
+	name: Revitalised Cryptid
+	casting_cost: 1GU
+	image: image142
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Revitalised Cryptid</nospellcheck></atom-cardname> enters, for each card type among sources of mana spent to cast it, you may draw a card or put two +1/+1 counters on it.
+	flavor_text: <i-flavor>Given time, life solves all problems.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Daragos90
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

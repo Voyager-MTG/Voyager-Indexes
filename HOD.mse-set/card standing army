@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Banefort
+	time_created: 2025-02-24 00:31:14
+	time_modified: 2025-03-05 16:43:27
+	name: Standing Army
+	casting_cost: GW
+	image: image153.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Whenever you attack, create two 1/1 blue Scout creature tokens <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		Exile three tokens from your reserves: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Barret Frymire
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

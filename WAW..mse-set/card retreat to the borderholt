@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-24 12:02:14
+	time_modified: 2025-02-03 10:09:03
+	name: Retreat to the Borderholt
+	casting_cost: 2W
+	image: image159
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Exile any number of target nonland permanents you control. At the beginning of the next end step, return each card exiled this way to the battlefield under your control, then create a copy of each token exiled this way.
+	flavor_text: <i-flavor>Manuela knew she had only minutes before Chance-in-Hell caught up to her, but that was time enough to tell <error-spelling:en_US>Ajha</error-spelling:en_US> the way to the <error-spelling:en_US>Worldsoul</error-spelling:en_US>.</i-flavor>
+	illustrator: Lois van Baarle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

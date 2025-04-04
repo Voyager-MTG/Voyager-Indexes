@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		other_options: godzilla style alias, auto nyx crowns
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-02-22 20:52:30
+	time_modified: 2025-03-30 17:15:58
+	name: Tellavia Balwar
+	alias: Synchar
+	casting_cost: 1II
+	image: image182
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		Exile four cards from your graveyard: This creature gets +4/+0 and loses <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> until end of turn. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 4
+	illustrator: Vladimir Matyukhin
+	card_code_text: • Designed by TVP for LOB
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: TVP
+	copyright_2: TVP
+	copyright_3: TVP

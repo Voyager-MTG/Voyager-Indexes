@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: 
+		altered_plus_frames: star
+		other_options: auto familiars, auto nyx crowns
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2021-04-25 03:48:07
+	time_modified: 2025-03-01 00:01:24
+	name: Wandering Entity
+	alias: 
+	alias_2: 
+	casting_cost: 1
+	image: image67.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Entity</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		Whenever this enchantment attacks, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Materialize <param-number>1</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>1</param-number> or more: This also becomes an Icon creature until end of turn.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Icons begin their life as entities, choosing a form given what they’ve first seen upon their birth. If one isn’t available, they default to cats.              </i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 2
+	toughness: 2
+	illustrator: SeerLight
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

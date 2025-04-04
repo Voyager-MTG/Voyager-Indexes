@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITERARE
+		NEWCARD
+	time_created: 2023-02-16 05:12:47
+	time_modified: 2023-05-06 03:27:16
+	name: Conquex, Broken Mandate
+	casting_cost: 1W
+	image: image229
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		Equipped creature has <kw-0><nospellcheck><key>protection from <param-name>mana value 3 or greater.</param-name></key></nospellcheck></kw-0>
+		Whenever equipped creature deals combat damage to a player, create a 2/2 black Horror creature token with <kw-0><nospellcheck><key>prowess</key></nospellcheck></kw-0>.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym>3</sym></param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Equip <param-name>artifact creature <sym-auto>1</sym-auto>,</param-name> <param-cost><sym-auto>T</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Caleb Worcester
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

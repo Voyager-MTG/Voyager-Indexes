@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-08-25 11:22:26
+	time_modified: 2024-08-30 16:24:47
+	name: The Red Door
+	casting_cost: UB
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		When this artifact enters, you may activate one of its abilities without paying its costs.
+		<margin:0:0:5><sym-auto>2UB</sym-auto>, Sacrifice this artifact: Choose one—</margin:0:0:5>
+		<li><bullet>• </bullet>Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+		</li><li><bullet>• </bullet>Return target instant or sorcery card from your graveyard to your hand. </li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Julian-Faylona
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

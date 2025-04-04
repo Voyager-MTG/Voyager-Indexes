@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2023-07-18 19:11:37
+	time_modified: 2024-07-05 13:13:27
+	card_color: blue
+	name: Ophidian Soul
+	casting_cost: 2U
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		As <atom-cardname><nospellcheck>Ophidian Soul</nospellcheck></atom-cardname> enters, choose another creature you control.
+		Whenever <atom-cardname><nospellcheck>Ophidian Soul</nospellcheck></atom-cardname> or the chosen creature deals combat damage to a player, draw a card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Devin Elle Kurtz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-12 23:57:45
+	time_modified: 2025-01-30 08:07:29
+	name: Lukka’s Ascension
+	casting_cost: RRRRRRR
+	image: image134.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: Gain control of all permanents you don’t control until end of turn and untap them. They gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and can’t be sacrificed this turn. Exile <atom-cardname><nospellcheck>Lukka’s Ascension</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor>“To hell with <error-spelling:en_US>urdonkind’s</error-spelling:en_US> iron fist! They think their strength deserves respect; Now they’ll have to respect </i>me!<i>”</i-flavor>
+	watermark: other magic symbols story spotlight
+	illustrator: Sjoerd Provoost
+	card_code_text: Spotlight
+	card_code_text_2: Spotlight
+	card_code_text_3: Spotlight
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

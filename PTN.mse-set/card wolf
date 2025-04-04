@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-cultist-simulator
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!exportname PTN Wolf Token
+		!related Smoldering Pack;Wolf-Splinter;Flames of Emnity;
+	time_created: 2021-10-13 18:43:46
+	time_modified: 2024-10-18 19:00:03
+	border_color: rgb(0,0,0)
+	card_color: green
+	name: Wolf
+	image: image25
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wolf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: basic land
+	rule_text: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Susante
+	custom_card_number: 003/005
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

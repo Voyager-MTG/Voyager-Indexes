@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		other_options: un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/q9oYWD
+	time_created: 2024-09-03 18:13:36
+	time_modified: 2025-01-21 16:08:33
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: they/them
+	special_text:
+		You may cast nonland cards exiled with Ashiok planeswalkers and spend mana as though it were mana of any color to cast those spells.
+		[-2]: <margin:130:0:0>Target player reveals their hand. You choose a nonland card from it. That player exiles that card.</margin:130:0:0>
+	name: Ashiok, Dream Feaster
+	casting_cost: 2BB
+	image: image74
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Ashiok</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	loyalty_cost_2: -2
+	loyalty_cost_3: 
+	loyalty_cost_4: 
+	loyalty: 5
+	level_1_text: You may cast nonland cards exiled with Ashiok planeswalkers and spend mana as though it were mana of any color to cast those spells.
+	level_2_text: <margin:130:0:0>Target player reveals their hand. You choose a nonland card from it. That player exiles that card.</margin:130:0:0>
+	level_3_text: 
+	level_4_text: 
+	level_5_text: 
+	illustrator: F3LC4T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

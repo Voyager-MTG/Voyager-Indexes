@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-adventure
+	stylesheet_version: 2024-05-27
+	has_styling: false
+	notes:
+		MONARCHCYCLE
+		VERTEXCYCLE
+	time_created: 2022-04-06 11:26:54
+	time_modified: 2025-02-19 21:05:11
+	card_color: white, black, green, multicolor, horizontal
+	card_color_2: white, black, green, multicolor, horizontal
+	name: Irticull, Shadow Sultan
+	name_2: Arise
+	casting_cost: 1WBG
+	casting_cost_2: V/RV/GX
+	image: image308
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Vertex Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demigod</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		Whenever a creature you <soft-line>
+		</soft-line>control dies, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	rule_text_2:
+		<i-auto>(You can cast copies of this while in play.)</i-auto><soft-line>
+		</soft-line>Exile each creature card in your graveyard with mana value X or less. For each card exiled this way, create a token that’s a copy of it.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Trevor Carlee
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

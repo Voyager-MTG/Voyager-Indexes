@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		shrink_typeline_text: 
+		frames: 
+		font_cap: 11.15
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: REDRARE8
+	time_created: 2022-04-15 14:57:40
+	time_modified: 2023-10-31 20:13:25
+	name: Lévy Paths
+	casting_cost: RR
+	image: image122
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		X is your <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0>. <i-auto>(Your <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> is the number of spells you’ve cast and nonland abilities you’ve activated this turn, including this one.)</i-auto><soft-line>
+		</soft-line>If X is </sym>1<sym>, Add <sym-auto>CCC</sym-auto>.<soft-line>
+		</soft-line>If X is </sym>2<sym>, discard two cards. Draw two cards.<soft-line>
+		If X is </sym>3<sym>, create a 3/3 green Dinosaur creature token with a +1/+1 counter on it.<soft-line>
+		If X is 4 or greater, do all of the above.</soft-line></soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mat Szulik
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

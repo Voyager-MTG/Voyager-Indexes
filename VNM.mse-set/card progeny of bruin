@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-04-25 03:47:22
+	time_modified: 2025-03-01 17:48:36
+	card_color: green
+	name: Progeny of Bruin
+	casting_cost: 4GGG
+	image: image76
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wurm</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		When you cast this spell, draw a card and you you gain 3 life.
+		<sym-auto>2G</sym-auto>, Put this card into your sanctum from your hand: You gain 4 life then draw a card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Raised by bears, educated by <error-spelling:en_US>avakin</error-spelling:en_US> and trained by the <error-spelling:en_US>fadove</error-spelling:en_US>.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 7
+	toughness: 6
+	illustrator: Vladimir Matyukhin FT
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

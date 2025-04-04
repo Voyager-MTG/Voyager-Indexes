@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-20 15:47:22
+	time_modified: 2025-01-28 19:52:23
+	name: Alpine Salvager
+	casting_cost: 3B
+	image: image184
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Giant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		<sym-auto>2</sym-auto>, Exile a green or white card from your graveyard: <atom-cardname><nospellcheck>Alpine Salvager</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. Tap it.
+		<sym-auto>2</sym-auto>, Pay 2 life, Exile a blue or red card from your graveyard: Draw a card.     
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: David Metzger
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

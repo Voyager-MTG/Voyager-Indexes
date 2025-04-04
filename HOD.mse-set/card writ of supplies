@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag Dewold
+	time_created: 2025-02-24 00:25:43
+	time_modified: 2025-02-25 22:13:58
+	name: Writ of Supplies
+	casting_cost: 1
+	image: image3.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When <atom-cardname><nospellcheck>Writ of Supplies</nospellcheck></atom-cardname> enters, create a Clue token, <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>, and a <kw-a><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck></kw-a> <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Writ of Supplies</nospellcheck></atom-cardname>: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Loles Romero
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

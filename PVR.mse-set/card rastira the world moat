@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUERARE12
+		LANDCYCLERARE
+	time_created: 2022-03-13 04:27:27
+	time_modified: 2024-11-08 13:43:36
+	name: Rastira, the World Moat
+	image: image236
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Rastira, the World Moat</nospellcheck></atom-cardname> enters, target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>UUU</sym-auto>. This ability costs <sym-auto>2</sym-auto> less to activate if a library has twenty or fewer cards in it.
+	flavor_text: <i-flavor>Endless ocean prevents endless ambition.</i-flavor>
+	illustrator: Thodoris Tsiridis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

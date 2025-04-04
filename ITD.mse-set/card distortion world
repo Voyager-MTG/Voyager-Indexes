@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.deviantart.com/nidraj-rion/art/Street-Spirit-865846934
+		changed
+	time_created: 2024-10-17 19:34:15
+	time_modified: 2024-10-26 14:47:03
+	name: Distortion World
+	casting_cost: 4WW
+	image: image171
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Distortion World</nospellcheck></atom-cardname> enters, if it was cast, exile all other nonland permanents and create four colorless 1/1 Faerie Horror creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.
+		At the beginning of each player’s upkeep, they may put a card they own exiled with this enchantment onto the battlefield under their control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jakub Gazmercik
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

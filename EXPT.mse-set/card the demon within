@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		other_options: godzilla style alias, auto nyx crowns
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!gold
+		!noborder
+	time_created: 2023-03-17 01:18:57
+	time_modified: 2025-04-01 17:15:09
+	name: The Demon Within
+	alias: The Inexperienced Spy
+	casting_cost: IU
+	image: image193
+	image_2: 
+	mainframe_image: image198
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		Target creature you control gains “When this creature deals combat damage this turn, return it to your hand and create an X/X black Demon creature token, where X is this creature’s power power.”
+		<kw-1><nospellcheck><key>Flashback <param-cost><sym-auto>IU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-1>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Xabier Urrutia
+	card_code_text: • Designed by TVP for LOB
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: YGO2MTG project by TVP
+	copyright_2: YGO2MTG project by TVP
+	copyright_3: YGO2MTG project by TVP

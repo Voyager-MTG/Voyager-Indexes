@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-14 18:53:13
+	time_modified: 2025-01-28 19:55:49
+	name: Miraculous Strength
+	casting_cost: 3RW
+	image: image254
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: Creatures you control get +2/+1 and gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>The <error-spelling:en_US>Ilcan</error-spelling:en_US> abomination was closing in, and with nowhere else to run, Wei knew that the only way to get her squad home safely was to charge.</i-flavor>
+	illustrator: Bartk Fedyzak
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

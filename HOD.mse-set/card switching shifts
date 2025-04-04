@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Terrel
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-03-05 17:55:55
+	name: Switching Shifts
+	casting_cost: W
+	image: image287.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Target player creates a 3/3 white Soldier creature token with <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>2W</sym-auto>, Exile four other cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>The wealth of the prestigious affords them guards and mercenaries that let them keep their lofty positions.</i-flavor>
+	illustrator: Cuculum
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

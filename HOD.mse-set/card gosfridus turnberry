@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 15
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Gosfridus
+		!tag Turnberry
+	time_created: 2025-02-24 00:39:22
+	time_modified: 2025-03-05 03:17:18
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: They/them
+	name: Gosfridus Turnberry
+	casting_cost: 3BG
+	image: image52.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Ouphe</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Gosfridus Turnberry</nospellcheck></atom-cardname> enters or you attack with one or more nontoken creatures, create a 8/8 black Horror creature token <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>“<error-spelling:en_US>Y’know</error-spelling:en_US> the toll, little <error-spelling:en_US>Terrel</error-spelling:en_US>. All must pay.”</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Benjamin Ee
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

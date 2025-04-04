@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-03-30 22:04:17
+	time_modified: 2025-03-01 15:17:22
+	name: The Great Tear
+	casting_cost: 4WW
+	image: image223
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Exile all creatures and planeswalkers.
+		<sym-auto>2WW</sym-auto>, Discard <atom-cardname><nospellcheck>The Great Tear</nospellcheck></atom-cardname>: Exile target creature or planeswalker.
+	flavor_text:
+		<i-flavor>“And in an instant, a hole opened in the sky. <error-spelling:en_US>Urza</error-spelling:en_US> had torn our world, and left us to repair it.”<soft-line>
+		—Retelling by <error-spelling:en_US>Korna</error-spelling:en_US>, <error-spelling:en_US>Vinimroth</error-spelling:en_US> Historian</soft-line></i-flavor>
+	watermark: custom watermark one
+	illustrator: Ilya Popov
+	card_code_text: Story Spotlight
+	card_code_text_2: Story Spotlight
+	card_code_text_3: Story Spotlight
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

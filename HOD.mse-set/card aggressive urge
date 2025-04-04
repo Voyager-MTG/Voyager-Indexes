@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Reprint
+	time_created: 2025-02-25 13:50:49
+	time_modified: 2025-03-03 19:35:24
+	name: Aggressive Urge
+	casting_cost: 1G
+	image: image114.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Target creature gets +1/+1 until end of turn.
+		Draw a card.
+	flavor_text:
+		<i-flavor>“Act with care and back away. Just don’t do the Hook way without a plan.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Dovizia</error-spelling:en_US> <error-spelling:en_US>Attwater</i-flavor></error-spelling:en_US>
+	illustrator: Roberto Robert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

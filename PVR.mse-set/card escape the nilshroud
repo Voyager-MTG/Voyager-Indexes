@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 7
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: BLACKRARE7
+	time_created: 2021-10-27 21:11:36
+	time_modified: 2023-03-12 08:52:41
+	name: Escape the Nilshroud
+	casting_cost: B
+	image: image252
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: Search your library for a nonland card, exile it, then shuffle. For as long as that card remains exiled, you may cast that card, and at least one mana from a source that shares a card type with it must be used to cast that spell.
+	flavor_text: <i-flavor><error-spelling:en_US>Edravir</error-spelling:en_US> had not hugged <error-spelling:en_US>Anivir</error-spelling:en_US> in forever.</i-flavor>
+	watermark: other magic symbols color spotlight
+	illustrator: Amr Elshamy
+	card_code_text: Spotlight 9/10
+	card_code_text_2: Spotlight 9/10
+	card_code_text_3: Spotlight 9/10
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

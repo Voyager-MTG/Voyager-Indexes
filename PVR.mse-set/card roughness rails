@@ -1,0 +1,55 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_textboxes: four
+		chapter_divider_coordinates: 145,266,359,
+		other_options: remove bookmark
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		NEWCARD
+		SHADERCYCLE
+		REDRARE
+	time_created: 2023-03-12 05:12:25
+	time_modified: 2023-05-05 23:12:15
+	special_text:
+		
+		<i-auto>(This spell gains effects based on the sources of mana spent to cast it.)</i-auto>
+		I — Land — <soft-line>
+		Until end of turn, if a source would deal damage to target player, it deals double that damage instead.</soft-line>
+		II — Instant — <soft-line>
+		</soft-line>Roughness Rails deals 2 damage to any target.
+		III — Sorcery — <soft-line>
+		<atom-cardname><nospellcheck>Roughness Rails</nospellcheck></atom-cardname> deals 2 damage to any target.</soft-line>
+	name: Roughness Rails
+	casting_cost: 2R
+	image: image253
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Shader</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: mythic rare
+	chapter_text: 
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <i-auto>(This spell gains effects based on the sources of mana spent to cast it.)</i-auto>
+	level_2_text:
+		Land — <soft-line>
+		Until end of turn, if a source would deal damage to target player, it deals double that damage instead.</soft-line>
+	level_3_text:
+		Instant — <soft-line>
+		</soft-line>Roughness Rails deals 2 damage to any target.
+	level_4_text:
+		Sorcery — <soft-line>
+		<atom-cardname><nospellcheck>Roughness Rails</nospellcheck></atom-cardname> deals 2 damage to any target.</soft-line>
+	illustrator: Ali Hoff
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

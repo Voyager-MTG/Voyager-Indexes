@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-21 17:42:09
+	time_modified: 2025-02-14 17:19:29
+	name: Deepmists Vindicator
+	casting_cost: 1B
+	image: image84
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>Deepmists Vindicator</nospellcheck></atom-cardname> becomes blocked, <b>[each opponent sacrifices a creature or planeswalker.]</b>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>4B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>4B</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>She had forgotten the reason for her resentment for the living, but the plane still enabled it.</i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Russel Dongjun
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

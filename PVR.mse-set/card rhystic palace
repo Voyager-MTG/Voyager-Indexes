@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-08-01 05:23:02
+	time_modified: 2024-11-08 13:52:55
+	card_color: land, multicolor
+	name: Rhystic Palace
+	image: image126
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		<atom-cardname><nospellcheck>Rhystic Palace</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add one mana of any color.
+		<sym-auto>1</sym-auto>: Tap this permanent. Only your opponents may activate this ability and only once each turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Lars Grevsmühl
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

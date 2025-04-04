@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		UM16
+		ARCUNSET2
+	time_created: 2021-12-25 04:42:38
+	time_modified: 2023-02-16 05:32:40
+	name: Procedural Generation
+	casting_cost: 2UR
+	image: image299
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		For each nonland permanent you control, create a token that’s a copy of that permanent, except it has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>. Exile those tokens at the beginning of the next end step.
+		Exile <atom-cardname><nospellcheck>Procedural Generation</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Henry Wong
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

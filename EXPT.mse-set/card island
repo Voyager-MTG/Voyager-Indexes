@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-unstable-basics
+	stylesheet_version: 2018-02-08
+	has_styling: false
+	notes: 
+	time_created: 2025-03-10 09:08:52
+	time_modified: 2025-03-10 18:36:07
+	card_color: blue
+	name: Island
+	image: image5.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	illustrator: Corrado Roi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

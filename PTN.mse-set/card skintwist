@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-07-18 19:11:37
+	time_modified: 2024-06-18 17:22:30
+	card_color: black
+	name: Skintwist
+	casting_cost: 1B
+	image: image312
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature you don’t control</param-name></key></nospellcheck></kw-a>
+		When enchanted creature dies, put target creature card with mana value X or less from your graveyard onto the battlefield under your control, where X is 2 plus enchanted creature’s mana value.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“The Moth usurped the Wheel from within, hunting and stealing its skin.”<soft-line>
+		</i>— On Lost Gods<i></soft-line></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

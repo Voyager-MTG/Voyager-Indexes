@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-14 17:39:27
+	time_modified: 2025-01-28 19:46:27
+	card_color: blue
+	name: New Tensuo Spy
+	casting_cost: 1U
+	image: image96
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>New Tensuo Spy</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		<i>Augmented</i> — At the beginning of your end step, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, you may exile target nonland permanent you control, then return it to the battlefield under its owner’s control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Junior Auraujo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

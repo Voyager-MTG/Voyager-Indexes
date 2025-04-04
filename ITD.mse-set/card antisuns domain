@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.instagram.com/valun_art/
+	time_created: 2024-10-08 22:35:08
+	time_modified: 2025-01-21 15:56:22
+	name: Antisun’s Domain
+	image: image109
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		When <atom-cardname><nospellcheck>Antisun’s Domain</nospellcheck></atom-cardname> enters, if you control five or more lands with different names, create two 1/1 white Nightmare creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Valun_art
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

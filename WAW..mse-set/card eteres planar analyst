@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		opacity: 154
+		other_options: use taller frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-19 01:16:36
+	time_modified: 2025-03-03 09:52:42
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: they/them
+	special_text:
+		When <atom-legname><nospellcheck>Eteres</nospellcheck></atom-legname> enters, search your library for any number of cards with total mana value 3 or less, exile them with study counters on them, then shuffle.
+		[+2]: <margin:130:0:0>Put a land card you own in exile with a study counter on it onto the battlefield under your control. </margin:130:0:0>
+		[-2]: <margin:130:0:0>Draw a card, then you may exchange a card in your hand and a card you own in exile with a study counter on it.</margin:130:0:0>
+	card_color: blue, green, multicolor, horizontal
+	name: Eteres, Planar Analyst
+	casting_cost: 2GU
+	image: image241
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Eteres</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	loyalty_cost_2: +2
+	loyalty_cost_3: -2
+	loyalty_cost_4: 
+	loyalty: 4
+	level_1_text: When <atom-legname><nospellcheck>Eteres</nospellcheck></atom-legname> enters, search your library for any number of cards with total mana value 3 or less, exile them with study counters on them, then shuffle.
+	level_2_text: <margin:130:0:0>Put a land card you own in exile with a study counter on it onto the battlefield under your control. </margin:130:0:0>
+	level_3_text: <margin:130:0:0>Draw a card, then you may exchange a card in your hand and a card you own in exile with a study counter on it.</margin:130:0:0>
+	level_4_text: 
+	level_5_text: 
+	illustrator: Everton Zomer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

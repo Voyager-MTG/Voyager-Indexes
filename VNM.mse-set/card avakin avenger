@@ -1,0 +1,61 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: all breaks
+		frames: lesson
+		altered_plus_frames: 
+		other_options: auto nyx crowns
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2025-03-01 15:40:31
+	extra_data:
+		magic-m15-altered-plus:
+			corner: instant
+	card_color: black
+	name: Avakin Avenger
+	casting_cost: 1B
+	image: image27
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Archer</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Spellshaper</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		When this creature dies, create a trace of its skill into your hand.
+		<b>Harsh Reprise </b><sym>B</sym>| <u>Skill Instant</u><soft-line>
+		</soft-line>Each opponent loses 2 life.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“Loss is inevitable. It’s how nature works. To gain no knowledge from passing is disrespectful to the dead.”<soft-line>
+		—<error-spelling:en_US>Shivta</error-spelling:en_US>, <error-spelling:en_US>Avlod</error-spelling:en_US> <error-spelling:en_US>Clanleader</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1: 
+	level_2: 
+	level_1_text: 
+	level_2_text: 
+	level_3_text: 
+	power: 1
+	toughness: 3
+	illustrator: Matt Forsyth
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

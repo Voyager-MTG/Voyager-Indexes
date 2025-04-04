@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: GREENUNCOMMON
+	time_created: 2022-03-18 23:08:50
+	time_modified: 2022-05-31 23:24:42
+	name: Urwrapir Warden
+	casting_cost: 3G
+	image: image243
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		Whenever you cast a Dinosaur spell, draw a card.
+	flavor_text:
+		<i-flavor>“They care for both their young and their old. Humans don’t do that anymore.”<soft-line>
+		—<error-spelling:en_US>Nurbs</error-spelling:en_US>, the Wild King</soft-line></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

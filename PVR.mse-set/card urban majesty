@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: OTHERRARE
+	time_created: 2022-04-15 14:57:40
+	time_modified: 2023-03-12 04:55:16
+	name: Urban Majesty
+	casting_cost: 3GW
+	image: image294
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +5/+5.
+		When enchanted creature dies, create five 1/1 white Human creature tokens.
+	flavor_text:
+		<i-flavor>“We children of the Obsolete are <error-spelling:en_US>spoilt</error-spelling:en_US>.”<soft-line>
+		—<error-spelling:en_US>Kinema</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Felygon</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Mat Szulik
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

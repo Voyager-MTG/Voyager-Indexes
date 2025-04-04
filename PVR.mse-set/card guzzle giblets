@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENUNCOMMON
+		NEWCARD
+		UG11
+	time_created: 2023-03-05 05:43:42
+	time_modified: 2023-03-12 07:41:01
+	name: Guzzle Giblets
+	casting_cost: 2GG
+	image: image189
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		As an additional cost to cast this spell, sacrifice a creature.
+		You draw cards equal to the sacrificed creature’s power, get an amount of <sym>V</sym> equal to its <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>toughess</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, and gain an amount of life equal to its mana value.<soft-line>
+		<i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Adam Midzuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

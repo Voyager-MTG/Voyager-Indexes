@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-07-01 20:43:52
+	time_modified: 2024-11-06 20:48:40
+	name: Breaching Vespera
+	casting_cost: 3UB
+	image: image152
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text: Exile all creatures and planeswalkers with mana value 3 or less, then each opponent returns a permanent to its owner’s hand with the highest mana value among permanents they control.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>In these histories, the <error-spelling:en_US>Mansus</error-spelling:en_US> falls.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: other magic symbols color spotlight
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

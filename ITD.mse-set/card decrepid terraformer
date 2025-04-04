@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: hervor
+	time_created: 2024-10-14 16:29:35
+	time_modified: 2024-12-17 21:14:33
+	name: Decrepid Terraformer
+	casting_cost: 1GW
+	image: image135
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Whenever you play a land, you may sacrifice it. If you do, search your library for a land card and put it onto the battlefield, then shuffle. It enters tapped if the sacrificed land was tapped.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Zdzislaw Beksinski
+	card_code_text:
+		  Hervor
+	card_code_text_2:
+		 Hervor
+	card_code_text_3:
+		  Hervor
+	copyright: 
+	copyright_2: 
+	copyright_3: 

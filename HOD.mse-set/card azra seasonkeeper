@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Sapner
+		Tricolor
+	time_created: 2025-02-24 00:28:39
+	time_modified: 2025-03-05 15:12:50
+	card_color: white, black, green, multicolor, horizontal
+	name: Azra Seasonkeeper
+	casting_cost: 2WBG
+	image: image278.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Azra</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Whenever you cast a noncreature spell, add two mana of any one color. This mana can’t be used to cast spells.
+		Whenever you cast or copy a noncreature spell, target creature you control gets +1/+1 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: bhp (artstation)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

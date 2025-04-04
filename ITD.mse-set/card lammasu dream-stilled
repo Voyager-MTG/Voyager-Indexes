@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !spellbook I5;1
+	time_created: 2024-08-28 00:13:31
+	time_modified: 2024-10-21 12:21:06
+	name: Lammasu, Dream-Stilled
+	casting_cost: 4UU
+	image: image52
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Sphinx</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When this creature enters, return target instant or sorcery card from your graveyard to your hand.
+		Iterate <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Piotr Gajda
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: BLUERARE7
+	time_created: 2022-05-26 02:49:26
+	time_modified: 2023-05-29 06:34:44
+	name: Buffer Overflow
+	casting_cost: 4UU
+	image: image319
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		If it isn’t an extra turn, take an extra turn after this one.
+		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>UUUUUUUU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>UUUUUUUU</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Julien Louche
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

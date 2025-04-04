@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-02-22 14:11:58
+	time_modified: 2023-06-20 22:13:21
+	card_color: red
+	name: Subverting Insurgent
+	casting_cost: 1R
+	image: image321
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Ward—<param-cost>Pay 1 life</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player <param-cost>pays 1 life</param-cost>.)</i-auto></atom-reminder-expert></kw-A>
+		<atom-cardname><nospellcheck>Subverting Insurgent</nospellcheck></atom-cardname> can’t block.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Reforging must first destroy, Edge dominates in destruction.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Lucas Torquato
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

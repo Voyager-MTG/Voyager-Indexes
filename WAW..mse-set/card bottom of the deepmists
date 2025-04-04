@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-07 14:35:40
+	time_modified: 2025-02-09 17:27:54
+	card_color: land, multicolor
+	name: Bottom of the Deepmists
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Bottom of the Deepmists</nospellcheck></atom-cardname> enters tapped. As it enters, choose a color.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
+		<sym-auto>4</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>WUBRG</sym-auto>. This mana can’t be spent to pay generic mana costs.
+	flavor_text: <i-flavor>In a coffin of blinding fog and perfect silence, the embalmed corpse of a beloved world rests.</i-flavor>
+	illustrator: Huleeb
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

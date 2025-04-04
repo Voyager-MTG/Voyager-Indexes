@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tokens Beast Token;
+	time_created: 2025-01-22 00:55:11
+	time_modified: 2025-03-05 23:05:07
+	name: Borderholt Herdcaller
+	casting_cost: 3G
+	image: image185
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>4G</sym-auto>, Exile a card from your graveyard: <b>[Create a 3/3 green Beast creature token.]</b> Activate only as a sorcery. 
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>4G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>4G</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>“This plane is a truly marvelous ecosystem, able to sustain friends from a hundred worlds.”</i-flavor>
+	power: 3
+	toughness: 5
+	illustrator: Entei Ryu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

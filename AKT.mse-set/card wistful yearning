@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDCOMMON
+		CR15
+	time_created: 2023-06-21 23:40:02
+	time_modified: 2025-01-27 09:40:01
+	card_color: red
+	name: Wistful Yearning
+	casting_cost: 1R
+	image: image95
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Gain control of target creature with power 4 or less until end of turn. Untap that creature. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>The Ur-gift allows </i-flavor>
+	illustrator: Artur Treffner
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

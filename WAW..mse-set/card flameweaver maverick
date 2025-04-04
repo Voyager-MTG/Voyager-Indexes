@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-14 17:39:27
+	time_modified: 2025-01-28 19:59:31
+	card_color: red
+	name: Flameweaver Maverick
+	casting_cost: 2R
+	image: image136
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Efreet</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
+		<kw-0><nospellcheck><key>Ploy</key></nospellcheck></kw-0>—Up to two target creatures can’t block this turn. Draw a card. <i-auto>(When this creature attacks, you may trigger its <kw-0><nospellcheck><key>ploy</key></nospellcheck></kw-0>. If you do, sacrifice it at the next end step.)</i-auto>              
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Olga Drebas
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

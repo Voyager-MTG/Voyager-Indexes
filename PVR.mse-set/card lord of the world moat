@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: BLUERARE2
+	time_created: 2022-04-15 14:57:40
+	time_modified: 2022-06-12 05:48:08
+	name: Lord of the World Moat
+	casting_cost: 4UU
+	image: image322
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Whale</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		This permanent can’t be blocked.
+		Whenever this permanent becomes tapped, <kw-a><nospellcheck><key>scry <param-number>X</param-number></key></nospellcheck></kw-a>, where X is this permanent’s mana value, then draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Mohamed Chahin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

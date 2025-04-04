@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Sapner
+	time_created: 2025-02-24 00:42:28
+	time_modified: 2025-03-05 21:18:53
+	card_color: green
+	name: Sapner Trapper
+	casting_cost: 2G
+	image: image117.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Azra</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Archer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Bloom</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
+		Other permanents you control have <kw-0><nospellcheck><key>bloom</key></nospellcheck></kw-0>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Nathalie Bindel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

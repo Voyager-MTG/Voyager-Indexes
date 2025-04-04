@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Terrel
+	time_created: 2025-02-24 00:42:28
+	time_modified: 2025-03-30 19:13:58
+	name: The Aciesblade
+	casting_cost: 2W
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		At the beginning of your upkeep or whenever you cast a spell, put a charge counter on The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aciesblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		<sym-auto>2W</sym-auto>, Sacrifice The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aciesblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Search your library for any number of planeswalker cards with total mana value equal to or less than the number of charge counters on The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aciesblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and put them onto the battlefield, then shuffle. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Hue Teo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

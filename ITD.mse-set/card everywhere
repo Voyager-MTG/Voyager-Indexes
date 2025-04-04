@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !related Strange Wayfarer
+	time_created: 2024-10-26 12:56:08
+	time_modified: 2024-10-26 20:34:44
+	card_color: land, multicolor
+	name: Everywhere
+	image: image203
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: This land has every basic land type.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: GUY-D
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

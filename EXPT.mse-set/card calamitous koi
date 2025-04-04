@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		
+		Can’t have shit in detroit.
+	time_created: 2023-07-17 01:35:08
+	time_modified: 2025-04-01 17:14:17
+	name: Calamitous Koi
+	casting_cost: 2IB
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fish</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: At the beginning of combat of your turn, you may exile two cards from your graveyard and/or sanctum. If you do, put your choice of a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> counter, a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter, or two healing counters on this creature. <i-auto>(Whenever your creature with a healing counter deals damage, you gain 1 life for each healing counter on it.)</i-auto>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Deep in <error-spelling:en_US>Shurei’s</error-spelling:en_US> waterways lie a fish that eat anything and everything.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Claire Lin
+	card_code_text: • Designed by TVP for FOE
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

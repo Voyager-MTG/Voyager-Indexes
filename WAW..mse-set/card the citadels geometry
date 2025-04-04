@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-25 11:20:28
+	time_modified: 2025-01-28 19:54:27
+	card_color: black, red, multicolor, horizontal
+	name: The Citadel’s Geometry
+	casting_cost: 1BB/RR
+	image: image222
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>The Citadel’s Geometry</nospellcheck></atom-cardname> enters and whenever a creature you control dies, target opponent puts a lost counter on a creature they control that doesn’t have one on it.
+		During your turn, you decide if and how creatures with lost counters on them block.
+	flavor_text:
+		<i-flavor>“Are the walls moving, or is the space itself?”<soft-line>
+		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></i-flavor>
+	illustrator: Clement Wallez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

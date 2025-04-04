@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-19 14:57:05
+	time_modified: 2025-01-28 20:06:38
+	name: Cackling Thunderbeast
+	casting_cost: 4R
+	image: image234
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Hyena</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Cackling Thunderbeast</nospellcheck></atom-cardname> enters or attacks, <b>[monocolored creatures can’t block this turn.]</b>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>4R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>4R</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>It’s not hungry, it’s just mean.</i-flavor>
+	power: 5
+	toughness: 3
+	illustrator: Ang Jonathan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

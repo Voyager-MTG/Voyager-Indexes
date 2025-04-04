@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-01 20:48:20
+	time_modified: 2025-01-28 19:54:11
+	name: Curious Observer
+	casting_cost: 5
+	image: image236
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast for each color among monocolored permanents you control.
+		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
+	flavor_text:
+		<i-flavor>“Enigmatic and silent, seen wandering the second and even third layers. Are they native to the plane, or have they just been here longer?”<soft-line>
+		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Leonardo Vincent
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

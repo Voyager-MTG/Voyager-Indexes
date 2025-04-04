@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-08 13:23:53
+	time_modified: 2023-09-08 00:51:45
+	name: Ash to Hope
+	casting_cost: 2G
+	image: image96
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Search your library for up to two basic land cards and reveal them. If you control a token or a creature with a counter on it,  put one of them onto the battlefield. Put the rest into your hand, then shuffle.
+	flavor_text:
+		<i-flavor>“Even now, nature mends the scars of <error-spelling:en_US>Urza</error-spelling:en_US>.”<soft-line>
+		—<error-spelling:en_US>Roduth</error-spelling:en_US>, God of Conflict</soft-line></i-flavor>
+	illustrator: Madeleine Bellwoar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: all breaks +1
+		frames: lesson
+		altered_plus_frames: star
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2022-04-25 20:26:08
+	time_modified: 2025-03-01 16:02:23
+	extra_data:
+		magic-m15-altered-plus:
+			corner: instant
+	name: Outlands Respite
+	casting_cost: 1
+	image: image46.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rule_text:
+		When this enchantment enters, create a trace of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Voidstone</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Shard into your hand.
+		<sym-auto>T</sym-auto>: Target land you control also becomes a basic land type of your choice in addition to its other types until end of turn.
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Voidstone</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Shard</b> <sym>2</sym>|<i>Enchantment</i><soft-line>
+		When this enters, <kw-a><nospellcheck><key>scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>.</soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Minea Juntura
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

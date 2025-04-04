@@ -1,0 +1,51 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		d20_dividers: all breaks
+		frames: lesson
+		altered_plus_frames: 
+		other_options: auto nyx crowns
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		Preview
+		Updated
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2025-03-01 15:51:58
+	extra_data:
+		magic-m15-altered-plus:
+			corner: instant
+	card_color: white
+	name: Fadove Drillmaster
+	casting_cost: 3W
+	image: image173
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Hyena</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Spellshaper</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		When this creature enters, you may create a trace of its skill into your hand.
+		<b>Military <kw-0><nospellcheck><key>Training</b></key></nospellcheck></kw-0> <sym>G/W</sym>| <u>Skill Instant<soft-line>
+		</u></soft-line>Put a +1/+1 counter on target creature you control. Cast only outside of combat.
+	flavor_text: <i-flavor></i-flavor>
+	level_1: 
+	level_1_text: 
+	level_2_text: 
+	level_3_text: 
+	power: 3
+	toughness: 4
+	illustrator: jarrod owen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

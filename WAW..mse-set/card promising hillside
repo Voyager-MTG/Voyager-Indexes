@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 6
+		chop_bottom: 6
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-15 22:47:14
+	time_modified: 2025-02-01 16:24:26
+	card_color: red, land
+	name: Promising Hillside
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>. You lose 1 life unless you control a red permanent.
+		<sym-auto>1</sym-auto>: Put a wish counter on <atom-cardname><nospellcheck>Promising Hillside</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>, Remove a wish counter from Promising Hillside: Add one mana of any color.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The <error-spelling:en_US>Ilcans</error-spelling:en_US> crested the hill to find cool, clean air and soft ground for the first time in years.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Bastien Grivet
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

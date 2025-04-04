@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag Dewold
+	time_created: 2025-02-24 00:25:43
+	time_modified: 2025-03-03 18:03:16
+	name: War Map
+	casting_cost: 2
+	image: image4.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Clue</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When <atom-cardname><nospellcheck>War Map</nospellcheck></atom-cardname> enters, you may search your library for a basic land card, reveal, put it into your hand, then shuffle.
+		<sym-auto>2</sym-auto>, Sacrifice <atom-cardname><nospellcheck>War Map</nospellcheck></atom-cardname>: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Viviane Souza
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

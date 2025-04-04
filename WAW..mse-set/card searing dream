@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: nyx
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-24 19:27:23
+	time_modified: 2025-01-28 19:59:25
+	name: Searing Dream
+	casting_cost: 1RR
+	image: image162
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		Creatures you control have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		Whenever a creature you control enters, <atom-cardname><nospellcheck>Searing Dream</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+	flavor_text:
+		<i-flavor>“Dreams are getting more vivid, and I never used to wake up so energized. Is this safe?”<soft-line>
+		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></i-flavor>
+	illustrator: Syd Mills
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

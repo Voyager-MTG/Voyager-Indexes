@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Terrel
+		Tricolor
+	time_created: 2025-02-24 00:28:39
+	time_modified: 2025-03-05 16:42:59
+	card_color: white, blue, red, multicolor, horizontal
+	name: Glory on Bloodied Wings
+	casting_cost: 1URW
+	image: image246.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
+		At the beginning of each end step, create a 1/1 blue Scout creature token if you’ve sacrificed a permanent this turn. If you’ve sacrificed three or more permanents this turn, instead choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Yannis Colas
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

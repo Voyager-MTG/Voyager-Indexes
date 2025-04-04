@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: -3
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: mutate
+		altered_plus_frames: path
+		custom_symbol: abstract-061.png
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2022-05-26 21:49:52
+	time_modified: 2025-03-01 17:32:05
+	extra_data:
+		magic-m15-altered-plus:
+			corner: sanctum
+	name: Mistveil Drake
+	casting_cost: 5
+	image: image40.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Drake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, whenever you cast a noncreature spell, this creature gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn. If you cast your third noncreature spell this turn, other creatures you control get +2/+0 until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost>2. Activate only if you control no nonland permanents</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+	power: 3
+	toughness: 3
+	illustrator: Adrian Virlan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

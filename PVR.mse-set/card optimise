@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: GREENRARE8
+	time_created: 2022-04-15 14:57:40
+	time_modified: 2022-06-12 05:54:33
+	name: Optimise 
+	casting_cost: GG
+	image: image198
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Destroy target artifact, enchantment, or planeswalker. Counter all abilities that it was the source of. <i-auto>(Mana abilities can’t be countered.)</i-auto>
+	flavor_text: <i-flavor>The efficient squirrel didn’t <error-spelling:en_US>realise</error-spelling:en_US> its predator had been deleted from existence.</i-flavor>
+	illustrator: PULSAR BYTES
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

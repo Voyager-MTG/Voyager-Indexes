@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Nye
+	time_created: 2025-02-24 00:25:43
+	time_modified: 2025-02-25 22:43:11
+	name: Dreadship Vessel
+	casting_cost: 4
+	image: image6.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Discard a card: Draw a card.
+		Exile two cards from your graveyard: <atom-cardname><nospellcheck>Dreadship Vessel</nospellcheck></atom-cardname> becomes an artifact creature until end of turn.
+	flavor_text: <i-flavor>House <error-spelling:en_US>Nye’s</error-spelling:en_US> warships are paraded around the kingdom, showcasing their nautical power.</i-flavor>
+	power: 5
+	toughness: 4
+	illustrator: Oksana Kerro
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 5
+		frames: 
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		OTHERRARE
+		NEWCARD
+	time_created: 2023-02-16 05:12:47
+	time_modified: 2025-02-20 03:34:08
+	name: Hallway Thomasson
+	casting_cost: 2WU
+	image: image157
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	rarity: mythic rare
+	rule_text: At the beginning of each player’s upkeep, that player chooses half the permanents they control, rounded down. Those permanents phase out. <i-auto>(Treat phased-out permanents and anything attached to them as though they don’t exist until their controller’s next turn.)</i-auto>
+	rule_text_2: 
+	flavor_text: <i-flavor>So carefully maintained, yet so pointless.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Oswelt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

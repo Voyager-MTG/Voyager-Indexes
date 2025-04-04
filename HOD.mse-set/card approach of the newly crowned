@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag Dewold
+		!tag Terrel
+	time_created: 2025-03-02 16:25:36
+	time_modified: 2025-03-05 18:20:00
+	name: Approach of the Newly Crowned
+	casting_cost: 1W
+	image: image269.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever a nontoken creature you control deals combat damage to a player, you may put a token from your reserves onto the battlefield.
+		At the beginning of your end step, create a 1/1 blue Scout creature token <kw-1><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Rudy Parfaite
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

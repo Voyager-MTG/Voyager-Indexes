@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag Dewold
+	time_created: 2025-02-24 00:35:32
+	time_modified: 2025-03-05 18:42:24
+	name: Important Parcel
+	casting_cost: 0
+	image: image12.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Clue</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Exile target card from a graveyard.
+		<sym-auto>2</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Important Parcel</nospellcheck></atom-cardname>: Exile each opponent’s graveyard. Draw a card.
+	flavor_text: <i-flavor>Messengers have an important task to deliver plans and packages, making them excellent targets for assassins.</i-flavor>
+	illustrator: Grafit Studio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

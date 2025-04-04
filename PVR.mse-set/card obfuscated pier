@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKUNCOMMON
+		UB13
+		LANDCYCLEUNCOMMON
+	time_created: 2022-01-20 00:29:21
+	time_modified: 2022-07-30 17:45:22
+	name: Obfuscated Pier
+	image: image176
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Obfuscated Pier</nospellcheck></atom-cardname> enters the battlefield tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
+		<sym-auto>4BB</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Obfuscated Pier</nospellcheck></atom-cardname>: Return target creature card from your graveyard to the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Gordon Dylan Johnson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

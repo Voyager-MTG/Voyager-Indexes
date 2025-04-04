@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: 
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		OTHERRARE
+		WORK
+		PENCILIN
+		ADVISORTYPE
+		NOBLECYC
+		!replacetoken Liberated Reminder;1
+	time_created: 2023-09-24 12:55:22
+	time_modified: 2025-02-07 06:44:47
+	name: King Platinum Fallamir
+	casting_cost: 5WB
+	image: image88
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text: When King Platinum enters, if he isn’t a token, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then <kw-A><nospellcheck><key>liberate</key></nospellcheck> them.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>In alignment with <error-spelling:en_US>Erysian</error-spelling:en_US> supporters, <error-spelling:en_US>Percitha’s</error-spelling:en_US> ruler follows a cause more noble than his country.</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: David Astruga
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

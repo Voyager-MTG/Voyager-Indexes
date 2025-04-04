@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Turnberry
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-03-05 21:26:57
+	name: Geistwald Deceiver
+	casting_cost: 4R
+	image: image163.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Ouphe</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Create a token that’s a copy of target non-Ouphe creature you control. That token has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. At the beginning of your next end step, <kw-A><nospellcheck><key>forsake</key></nospellcheck>.<atom-reminder-action> <i-auto>(Sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Steven Moreno
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

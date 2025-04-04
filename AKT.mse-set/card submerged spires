@@ -1,0 +1,56 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		dfc_type: modal with custom flags
+		back_font_cap: 
+		shrink_back_typeline_text: 
+		other_options: use hovering pt, use holofoil stamps, unindent nonloyalty abilities, auto nyx crowns, automate type frames
+		level_1_chop: -2,12,
+		level_5_chop: -2,12
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-06-28 09:27:58
+	time_modified: 2024-07-13 08:21:18
+	extra_data:
+		magic-m15-mainframe-dfc:
+			back_type_hint: 3/1 Fish
+			back_color_hint: <sym>3UG</sym>
+			front_type_hint: Land
+			front_color_hint: <sym>T</sym>: Add <sym>U</sym> or <sym>G</sym>.
+	name: Submerged Spires
+	name_2: Emerged Stonepiler
+	casting_cost_2: 3GU
+	image: image111.png
+	image_2: image_211.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: <word-list-race-en>Fish</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Werewolf</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0> <sym>2UG</sym> <i-auto>(Play either half of this card. Once each turn, pay this cost as a sorcery to transform it until end of turn.)</i-auto>
+		<atom-cardname><nospellcheck>Submerged Spires</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>G</sym-auto>.
+	rule_text_2:
+		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0> <sym>0</sym>
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Emerged Stonepiler</nospellcheck></atom-cardname> can’t be blocked.
+	flavor_text: <i-flavor>One must breathe, one must swim.</i-flavor>
+	flavor_text_2: <i-flavor>Forced to share a body, unable to share a house.</i-flavor>
+	power_2: 3
+	toughness_2: 1
+	illustrator: Alessandro Marelli
+	illustrator_2: Istrandar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

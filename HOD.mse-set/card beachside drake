@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Radcliff
+	time_created: 2025-02-24 00:41:59
+	time_modified: 2025-03-05 20:29:09
+	name: Beachside Drake
+	casting_cost: 2U
+	image: image317.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Drake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<sym-auto>U</sym-auto>, <kw-A><nospellcheck><key>Forsake</key></nospellcheck>: Counter target noncreature spell.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Yuliya Zabelina
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

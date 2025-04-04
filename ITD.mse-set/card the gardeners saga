@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_textboxes: two
+		snap_chapter_to_box: 
+		chapter_divider_coordinates: 270, 
+		other_options: nyx
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/yonaz/art/Forest-2-348501057
+	time_created: 2024-08-25 16:58:35
+	time_modified: 2025-01-21 15:56:38
+	special_text:
+		<i>His roots twist and twist and <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> deeper and deeper.</i>
+		I, II — This land gains “<sym-auto>T</sym-auto>:  Add <sym-auto>C</sym-auto>.” until your next turn.
+		III — Search your library for a non-Saga land card and put it onto the battlefield, then shuffle.
+	card_color: land
+	name: The Gardener’s Saga
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Land</word-list-type-en>
+	sub_type: <word-list-land>Saga</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	chapter_text: <i>His roots twist and twist and <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> deeper and deeper.</i>
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: This land gains “<sym-auto>T</sym-auto>:  Add <sym-auto>C</sym-auto>.” until your next turn.
+	level_2_text: Search your library for a non-Saga land card and put it onto the battlefield, then shuffle.
+	illustrator: Jonas Jakobsson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKRARE
+		NEWCARD
+	time_created: 2023-03-12 08:51:49
+	time_modified: 2024-11-08 14:27:07
+	name: Crashing Rot
+	casting_cost: 1BB
+	image: image249
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. For each card milled this way, you may pay 2 life. If you do, put that card into your hand.
+	flavor_text:
+		<i-flavor>“Such defilement on such a pristine <error-spelling:en_US>armageddon</error-spelling:en_US>. Come, engine. Take your revenge!”<soft-line>
+		—<error-spelling:en_US>Prawth</error-spelling:en_US>, Planar <error-spelling:en_US>Decimator</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Caleb Worcester
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

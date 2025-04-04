@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		LANDCYCLERARE
+		WHITERARE12
+	time_created: 2022-03-17 09:44:32
+	time_modified: 2023-11-02 01:44:12
+	name: Felygon, Utopian Sprawl
+	image: image258
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		Spells you cast cost <sym-auto>1</sym-auto> more to cast.
+		<sym-auto>T</sym-auto>: Add <sym-auto>WW</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Lars Grevsmühl
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

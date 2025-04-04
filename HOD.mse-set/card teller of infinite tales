@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Perle
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-05 14:37:20
+	name: Teller of Infinite Tales
+	casting_cost: 2R
+	image: image184.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Kithkin</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of combat on your turn, if you control a legendary creature, target creature you control gets +1/+0 and gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>“And so the Sword of <error-spelling:en_US>Perle</error-spelling:en_US> took out her sword and thrust it into the mockery’s chest, saving the day once more!”</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Alexandra D.
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

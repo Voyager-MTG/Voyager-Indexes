@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		reprint
+		https://www.deviantart.com/abeardedartist/art/Untitled-1110201842
+	time_created: 2024-10-18 15:57:35
+	time_modified: 2025-01-28 18:50:28
+	name: The Howling Door
+	casting_cost: 4
+	image: image46
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Exile the top card of your library. If it’s an artifact or colorless card, you may play it this turn. <i-auto>(Lands are colorless.)</i-auto>
+		Whenever another artifact enters under your control, untap this artifact.   
+	flavor_text: <i-flavor>It takes more and more before it gives back.</i-flavor>
+	illustrator: ABeardedArtist
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

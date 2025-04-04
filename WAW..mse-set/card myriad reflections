@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-24 15:15:22
+	time_modified: 2025-01-28 17:56:40
+	card_color: blue
+	name: Myriad Reflections
+	casting_cost: 4U
+	image: image255
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		For each nontoken creature you control, create a token that’s a copy of it, except it’s a 1/1 Wonder in addition to its other types.
+		Exile <atom-cardname><nospellcheck>Myriad Reflections</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Christina Z
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

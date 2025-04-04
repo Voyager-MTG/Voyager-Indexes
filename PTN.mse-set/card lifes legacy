@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: reprint
+	time_created: 2023-07-18 19:11:37
+	time_modified: 2024-11-08 15:18:15
+	card_color: green
+	name: Life’s Legacy
+	casting_cost: 1G
+	image: image323
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		As an additional cost to cast this spell, sacrifice a creature.
+		Draw cards equal to the sacrificed creature’s power.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>A death in one history, an ascension in another. Scales arise from wounds.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Daria Rattik
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/dariuszkieliszek/art/Welcome-To-The-House-of-Phosgene-1107029061
+	time_created: 2024-10-15 16:32:54
+	time_modified: 2025-02-27 17:33:13
+	name: Longlegs
+	casting_cost: 5BB
+	image: image154
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Octopus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Impending <param-number>5</param-number>—<param-cost><sym>2B</sym> </param-cost></key></nospellcheck></kw-0> <i-auto>(If this spell was impending, it enters with five time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Longlegs</nospellcheck></atom-cardname> enters or attacks, each opponent sacrifices a creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 7
+	toughness: 7
+	illustrator: dariuszkieliszek
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

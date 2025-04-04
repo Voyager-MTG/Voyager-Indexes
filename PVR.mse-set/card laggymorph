@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENCOMMON
+		CG01
+	time_created: 2021-10-08 04:32:37
+	time_modified: 2022-05-31 22:19:09
+	name: Laggymorph
+	casting_cost: G
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Rabbit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
+	flavor_text:
+		<i-flavor>“Advanced Obsolete artifacts are great, yes, but don’t forget the fundamentals. What use is a forest without animals? What use is a plane without pilots?”<soft-line>
+		</soft-line>—<error-spelling:en_US>Nurbs</error-spelling:en_US>, the Wild King</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Jeremy Endelblut
+	card_code_text: FT: Void
+	card_code_text_2: FT: Void
+	card_code_text_3: FT: Void
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag HODStory
+		!tag Dewold
+		!tag Nye
+		!tag Marilye
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-03-05 00:13:36
+	name: Naval Diplomacy
+	casting_cost: 1U
+	image: image145.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Counter target spell unless its controller pays <sym-auto>2</sym-auto>.
+		<sym-auto>1U</sym-auto>, Exile <atom-cardname><nospellcheck>Naval Diplomacy</nospellcheck></atom-cardname> from your graveyard: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then create two 1/1 blue Scout creature tokens <kw-1><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor><error-spelling:en_US>Marilye</error-spelling:en_US> just needed an in to King’s Rock. Luckily House <error-spelling:en_US>Nye</error-spelling:en_US> provided a boat.</i-flavor>
+	illustrator: J Spearing
+	card_code_text: Story Spotlight 6
+	card_code_text_2: 
+	card_code_text_3: 

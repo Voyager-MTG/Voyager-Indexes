@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENUNCOMMON
+		UG09
+	time_created: 2023-06-21 23:40:02
+	time_modified: 2024-11-01 03:24:28
+	card_color: green
+	name: Urdonsonder
+	casting_cost: GG
+	image: image43.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Until end of turn, target permanent you control is a 5/5 Incarnation Dragon creature with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> in addition to its other types. Untap that permanent.
+	flavor_text:
+		<i-flavor>“Even the plane dreams of a future without <error-spelling:en_US>bioprivilege</error-spelling:en_US>, without large and small.”<soft-line>
+		—<error-spelling:en_US>Erys</error-spelling:en_US>, </i>Memoirs<i></soft-line></i-flavor>
+	illustrator: Ben Guldemond
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

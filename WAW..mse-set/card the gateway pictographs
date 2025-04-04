@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		altered_plus_frames: frontier
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-02 19:47:40
+	time_modified: 2025-01-28 19:54:21
+	card_color: white, green, multicolor, horizontal
+	name: The Gateway Pictographs
+	casting_cost: GG/WW
+	image: image171
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Creature spells you cast cost <sym-auto>1</sym-auto> less to cast.
+		At the beginning of combat on your turn, if you control three or more creatures, they each get +1/+1 until end of turn. 
+	flavor_text:
+		<i-flavor>“Who made these carvings? How accurate was their understanding of the plane’s mechanics?”<soft-line>
+		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Kyungju Kim
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

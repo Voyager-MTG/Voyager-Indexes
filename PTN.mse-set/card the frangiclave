@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 
+		frames: 
+		font_cap: 
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !addtoken Scar;1
+	time_created: 2023-07-21 13:23:00
+	time_modified: 2023-08-09 20:32:58
+	name: The Frangiclave
+	casting_cost: 2
+	image: image121
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text:
+		Equipped creature can’t be blocked.
+		Whenever equipped creature deals combat damage to a player, you get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Equip—<param-cost>Discard a card</param-cost>.</key></nospellcheck></kw-a>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>There are keys that open doors; then there are keys that destroy them.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Weather Factory
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

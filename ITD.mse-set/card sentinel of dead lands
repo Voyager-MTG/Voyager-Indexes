@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-10-14 16:14:45
+	time_modified: 2025-01-20 21:39:05
+	name: Sentinel of Dead Lands
+	casting_cost: 1R
+	image: image186
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.
+		At the beginning of your end step, if you haven’t cast a noncreature spell this turn, conjure a card named Spark into your hand. <i-auto>(It’s a <sym>R</sym> sorcery with “Spark deals 1 damage to any target.”)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: VALUN
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

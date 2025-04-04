@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: REDCOMMON
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2022-06-01 00:49:13
+	card_color: red
+	name: Maeverano Herdmate
+	casting_cost: 4R
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: <atom-cardname><nospellcheck>Maeverano Herdmate</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>Leaves—something to be desired.</i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Adam Midzuk
+	card_code_text: FT: elmikkino
+	card_code_text_2: FT: elmikkino
+	card_code_text_3: FT: elmikkino
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra
