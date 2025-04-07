@@ -2,22 +2,10 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: true
-	styling_data:
-		chop_top: 2
-		chop_bottom: 
-		font_cap: 13
-		frames: star
-		altered_plus_frames: star
-		other_options: auto nyx crowns
-		hybrid_name: hybrid
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
+	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2023-10-31 15:30:39
+	time_modified: 2025-04-07 16:01:19
 	card_color: black
 	name: Waking Words
 	casting_cost: 3B
@@ -42,7 +30,7 @@ card:
 		— <error-spelling:en_US>Multaph</error-spelling:en_US>, <error-spelling:en_US>Riftborn</error-spelling:en_US> God</soft-line></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	power: 2
+	power: 3
 	toughness: 3
 	illustrator: Aaron Nakahara
 	card_code_text: 

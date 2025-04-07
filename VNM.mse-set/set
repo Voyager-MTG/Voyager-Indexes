@@ -56,7 +56,7 @@ styling:
 		d20_dividers: off
 		frames: 
 		altered_plus_frames: 
-		custom_symbol: abstract-061.png
+		custom_symbol: 
 		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
 		use_holofoil_stamps: no
 		alt_rarity_color: 

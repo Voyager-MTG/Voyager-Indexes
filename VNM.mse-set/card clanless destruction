@@ -1,18 +1,6 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 2
-		chop_bottom: 
-		font_cap: 13.5
-		frames: 
-		altered_plus_frames: star
-		other_options: auto nyx crowns
-		hybrid_name: hybrid
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
+	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
 	time_modified: 2025-03-01 17:47:15
@@ -29,6 +17,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
@@ -36,9 +25,11 @@ card:
 		<sym-auto>R</sym-auto>, Sacrifice this enchantment: This enchantment deals 1 damage to target opponent.
 	rule_text_2: 
 	rule_text_3: 
+	rule_text_4: 
 	flavor_text: <i-flavor>An eye for an eye, a tear for a tear.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: kleinerHai
 	card_code_text: 
 	card_code_text_2: 

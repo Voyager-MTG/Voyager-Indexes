@@ -4,14 +4,15 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		font_cap: 
-		d20_dividers: d20 mode
+		font_cap: 13.5
+		d20_dividers: off
 		frames: lesson
-		altered_plus_frames: star
-		other_options: auto familiars, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		altered_plus_frames: 
+		custom_symbol: abstract-061.png
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
 		use_holofoil_stamps: no
 		alt_rarity_color: 
-		hybrid_name: hybrid
+		hybrid_name: grey
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -21,7 +22,7 @@ card:
 		!gold
 		!exportname Multaph Riftborn God
 	time_created: 2022-03-27 20:50:44
-	time_modified: 2025-03-01 00:28:24
+	time_modified: 2025-04-07 14:29:50
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -41,7 +42,7 @@ card:
 		When <atom-legname><nospellcheck>Multaph</nospellcheck></atom-legname> enters, create a trace of another target enchantment with mana value 4 or greater into your hand.
 		<sym-auto>1IUB</sym-auto>, Exile two <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonelk</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enchantments you control: Return <atom-legname><nospellcheck>Multaph</nospellcheck></atom-legname> from your graveyard to the battlefield tapped.
 	flavor_text: <i-flavor></i-flavor>
-	watermark: custom watermark one
+	watermark: none
 	power: 3
 	toughness: 3
 	illustrator: Satoru Wada
