@@ -580,12 +580,12 @@ include_file: card splendid genesis
 include_file: card icon
 include_file: card volatile visions
 include_file: card multaphs respites spellbook
-include_file: card wurm token
-include_file: card wurm token.1
-include_file: card wurm token.2
-include_file: card wurm token.3
+include_file: card black wurm token
+include_file: card green wurm token
+include_file: card red wurm token
+include_file: card white wurm token
 include_file: card trace reminder
-include_file: card icon.1
+include_file: card icon token
 keyword:
 	keyword: Luminous
 	match: Luminous

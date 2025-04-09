@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2024-10-09 22:56:34
+	time_modified: 2025-04-09 11:39:29
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -37,7 +37,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		Whenever you cast a noncreature spell, put a +1/+1 counter on up to one target creature. Untap it.
+		Whenever you cast a noncreature spell, put a +1/+1 counter on up to one target creature.
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym-auto>I</sym-auto>, Put a stun counter on a creature you control</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
 	power: 3
