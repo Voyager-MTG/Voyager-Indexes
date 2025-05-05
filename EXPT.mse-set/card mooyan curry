@@ -1,18 +1,27 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		altered_plus_frames: Yugioh Frame
+		other_options: auto nyx crowns
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2024-02-27 23:55:10
-	time_modified: 2025-03-30 19:46:55
+	time_modified: 2025-04-15 09:04:35
 	name: Mooyan Curry
 	casting_cost: 1I
 	image: image90
-	image_2: 
+	image_2: image_21.png
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Destroy target noncreature artifact or noncreature enchantment. You gain 2 life.
+	rule_text: Destroy target noncreature artifact or noncreature enchantment. You gain 2 life. 
 	flavor_text: <i-flavor>Nutritious and spicy, its meant for your soul, not your mouth.</i-flavor>
 	power: 
 	toughness: 

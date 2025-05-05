@@ -6,7 +6,7 @@ card:
 		!tag Wulfric
 		!tag Hook
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-03-05 03:13:21
+	time_modified: 2025-04-14 12:10:04
 	name: Unending Malice
 	casting_cost: 2B
 	image: image112.png
@@ -22,7 +22,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: At the beginning of your upkeep, exile target creature card from your graveyard. Create a token that’s a copy of it <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: At the beginning of your upkeep, exile target creature card from your graveyard. Create a token that’s a copy of it <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>. You lose life equal to its mana value.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“If you think this will stop me, you clearly haven’t been paying attention.”<soft-line>
 		</soft-line>—<error-spelling:en_US>Wulfric</error-spelling:en_US> Hook</i-flavor>

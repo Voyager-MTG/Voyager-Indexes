@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/9Ed0q
+	time_created: 2025-04-08 17:27:18
+	time_modified: 2025-04-14 09:59:06
+	name: Ashen Wisps
+	casting_cost: I
+	image: image105
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Target creature becomes silver and is an enchantment in addition to its other types until end of turn. 
+		Draw a card.
+	flavor_text: <i-flavor>“The woods are singing this week. Make sure you’ve a protection <error-spelling:en_US>sigil</error-spelling:en_US> with you.”</i-flavor>
+	illustrator: Ferdinand Ladera
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

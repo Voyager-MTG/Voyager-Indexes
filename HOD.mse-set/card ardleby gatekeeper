@@ -11,7 +11,7 @@ card:
 		!tag Dewold
 		!tag Phyre
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-03-18 14:47:26
+	time_modified: 2025-04-14 12:11:02
 	name: Ardleby Gatekeeper
 	casting_cost: 2R
 	image: image189.png
@@ -27,7 +27,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever <atom-cardname><nospellcheck>Ardleby Gatekeeper</nospellcheck></atom-cardname> attacks, for each other attacking creature you control, create a token that’s a copy of that creature <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Whenever <atom-cardname><nospellcheck>Ardleby Gatekeeper</nospellcheck></atom-cardname> attacks, target attacking creature you control gets +1/+0 until end of turn. Create a token that’s a copy of that creature <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>The empty throne of House <error-spelling:en_US>Phyre</error-spelling:en_US> tempts many would be aspiring nobility. None have succeeded.</i-flavor>
 	power: 3
 	toughness: 2

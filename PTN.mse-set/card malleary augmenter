@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: >FT
 	time_created: 2024-02-14 19:58:53
-	time_modified: 2025-03-01 08:30:07
+	time_modified: 2025-04-15 08:35:54
 	name: Malleary Augmenter
 	casting_cost: 1R
 	image: image107
@@ -19,7 +19,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Malleary Augmenter</nospellcheck></atom-cardname> or another Cleric enters under your control, Cleric creatures you control get +1/+0 until end of turn.
+		Whenever <atom-cardname><nospellcheck>Malleary Augmenter</nospellcheck></atom-cardname> or another Cleric you control enters, you may pay <sym-auto>R</sym-auto>. If you do, Cleric creatures you control get +1/+0 until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

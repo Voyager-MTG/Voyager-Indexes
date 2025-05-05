@@ -10,11 +10,13 @@ set_info:
 	set_language: EN
 	symbol: symbol2.mse-symbol
 	masterpiece_symbol: 
+	custom_mana_symbol_name: MyrCustoms\Vertex.png
 styling:
 	magic-m15:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-altered:
+		custom_symbol: MyrCustoms/Vertex.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -27,6 +29,9 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	magic-m15-jinx:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planeswalker:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-tokens:
@@ -227,9 +232,26 @@ include_file: card mark of insanity
 include_file: card nildiver
 include_file: card wilmee
 include_file: card planar boundary
+include_file: card ashen wisps
+include_file: card fyndhorn betrayer
+include_file: card groaning lullaby
+include_file: card moonlight charm
+include_file: card spiteful coil-servants
+include_file: card ego entwined
+include_file: card reto-polo
+include_file: card identity granter
+include_file: card empty body practitioner
+include_file: card raging rubigrug
+include_file: card ferrymans price
+include_file: card dessigry
+include_file: card woods procession
+include_file: card blank
+include_file: card edification
+include_file: card canyon crustacean
+include_file: card cowering lightbringer
 keyword:
-	keyword: Reflect
-	match: Reflect
+	keyword: Mirror
+	match: mirror
 	reminder: Create a token thats a copy of a token you control.
 	rules: 
 	mode: custom

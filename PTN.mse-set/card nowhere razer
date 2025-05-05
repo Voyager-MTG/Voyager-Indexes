@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-06-22 22:15:28
-	time_modified: 2024-06-20 17:07:45
+	time_modified: 2025-04-14 12:03:39
 	card_color: red
 	name: Nowhere Razer
 	casting_cost: 1RR
@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
 		Whenever <atom-cardname><nospellcheck>Nowhere Razer</nospellcheck></atom-cardname> attacks, put a devastation counter on target nonbasic land. 
-		Lands your opponents control with a devastation counter on it are Mountains.
+		Lands your opponents control with counters on them are Mountains.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

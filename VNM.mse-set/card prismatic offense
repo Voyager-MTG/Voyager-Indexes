@@ -1,24 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 2
-		chop_bottom: 
-		font_cap: 13.5
-		d20_dividers: all breaks +2
-		frames: 
-		altered_plus_frames: star
-		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
-		use_holofoil_stamps: no
-		alt_rarity_color: 
-		hybrid_name: grey
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
+	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-02-28 23:54:30
+	time_modified: 2025-04-07 16:00:43
 	card_color: red, green, multicolor, horizontal
 	name: Prismatic Offense
 	casting_cost: 1RG
@@ -35,7 +20,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		After your first combat phase, there is an additional combat phase where only Shaman creatures you control can attack.
+		After your first combat phase, there is an additional combat phase where only enchantment creatures you control can attack.
 		<sym-auto>1</sym-auto>: Once each turn, add one mana of any color.
 	rule_text_2: 
 	rule_text_3: 

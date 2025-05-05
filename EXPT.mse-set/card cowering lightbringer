@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: https://www.artstation.com/artwork/xD3Per
+	time_created: 2025-04-13 14:24:14
+	time_modified: 2025-04-15 09:17:41
+	name: Cowering Lightbringer
+	casting_cost: 1I
+	image: image127
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Coward</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		As long as <atom-cardname><nospellcheck>Cowering Lightbringer</nospellcheck></atom-cardname>’s power is 4 or greater, its a Human Warrior and has <kw-A><nospellcheck><key>healing <param-number>2</param-number></key></nospellcheck>. <i-auto>(Whenever this creature deals damage, you gain 2 life.)</i-auto><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>2</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>1I</sym-auto>: <atom-cardname><nospellcheck>Cowering Lightbringer</nospellcheck></atom-cardname> gets +3/-3 and you get a vertex counter.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: Timoté Claveau
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

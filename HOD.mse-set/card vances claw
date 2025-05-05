@@ -15,7 +15,7 @@ card:
 		Renowned Cycle
 		!related Blessing at Graven Laughs;
 	time_created: 2022-04-02 19:45:43
-	time_modified: 2022-05-21 12:31:50
+	time_modified: 2025-04-14 16:51:21
 	extra_data:
 		magic-m15-mainframe-tokens:
 			vorthos_box: They/them
@@ -30,7 +30,7 @@ card:
 	rule_text: <kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
-	toughness: 2
+	toughness: 1
 	illustrator: Anton Tareev
 	card_code_text: 
 	card_code_text_2: 

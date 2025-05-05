@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/b5300r
+	time_created: 2025-04-08 18:08:08
+	time_modified: 2025-04-14 20:51:11
+	name: Spiteful Coil-Servants
+	casting_cost: 1II
+	image: image109
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Serpent</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wall</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Spiteful Coil-Servants</nospellcheck></atom-cardname>’s toughness decreases, it deals that much damage to any noncreature target.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 6
+	illustrator: Timoté Claveau
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

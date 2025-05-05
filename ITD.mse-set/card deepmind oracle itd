@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: token, space
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tokentag I2
+		!related Deepmind Oracle;
+		!conjured
+	time_created: 2024-08-20 16:04:59
+	time_modified: 2025-04-23 11:08:55
+	name: Deepmind Oracle ITD
+	casting_cost: 6
+	image: image162
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Sphinx</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: masterpiece
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When this creature enters, <kw-0><nospellcheck><key>surveil <param-number>X</param-number></key></nospellcheck></kw-0>, where X is its power.
+	flavor_text: <i-flavor>The oracles live in the deep dream, safely routing the minds of thousands. The death of one means the death of a thousand unknowing innocents. </i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Benjamin GILETTI
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

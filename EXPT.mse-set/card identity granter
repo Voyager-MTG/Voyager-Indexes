@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		https://www.victoryart.eu/eshop/ego-painting-by-zuzana-r-victory-art/p-322766.xhtml
+		
+		https://us1-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fwww.victoryart.eu%2Fobchod_homedir%2Fdata%2F2611%2Fobrazky%2Fego.jpg&sp=1744640718T917326f4c1688f1c17af592583bc24e59230697a8b30011b3ae055e471ff715b
+	time_created: 2025-04-08 19:06:28
+	time_modified: 2025-04-14 10:53:20
+	special_text:
+		[0]: <margin:130:0:0>Put a loyalty counter on <atom-cardname><nospellcheck>Identity Granter</nospellcheck></atom-cardname> for each enchantment you control.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Target enchantment becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.</margin:130:0:0>
+	name: Identity Granter
+	casting_cost: 2I
+	image: image112
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Peross</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	loyalty_cost_1: 0
+	loyalty_cost_2: -2
+	loyalty_cost_3: 
+	loyalty: 4
+	level_1_text: <margin:130:0:0>Put a loyalty counter on <atom-cardname><nospellcheck>Identity Granter</nospellcheck></atom-cardname> for each enchantment you control.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Target enchantment becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.</margin:130:0:0>
+	level_3_text: 
+	level_4_text: 
+	illustrator: Zuzana Ridzonova
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

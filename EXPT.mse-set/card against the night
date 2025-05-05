@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !addtoken Against the Night;conjure:3;
 	time_created: 2025-02-23 09:56:41
-	time_modified: 2025-03-30 16:52:05
+	time_modified: 2025-04-14 16:59:39
 	name: Against the Night
 	casting_cost: I
 	image: image117
@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Draw a card from your sanctum or library. <kw-0><nospellcheck><key>Surveil <param-number>X</param-number></key></nospellcheck></kw-0>, where X is the number of cards named <atom-cardname><nospellcheck>Against the Night</nospellcheck></atom-cardname> in your graveyard. Conjure three duplicates of <atom-cardname><nospellcheck>Against the Night</nospellcheck></atom-cardname> into your deck, then shuffle.
+	rule_text: Draw a card from your sanctum or library. <kw-0><nospellcheck><key>Surveil <param-number>X</param-number></key></nospellcheck></kw-0>, where X is the number of cards named <atom-cardname><nospellcheck>Against the Night</nospellcheck></atom-cardname> in your graveyard. Conjure three <atom-cardname><nospellcheck>Against the Night</nospellcheck></atom-cardname>s into your deck, then shuffle.
 	flavor_text:
 		<i-flavor>Her struggle meant nothing to the stars.<soft-line>
 		</soft-line>—<error-spelling:en_US>Soros</error-spelling:en_US>, “Lost From Life”</i-flavor>

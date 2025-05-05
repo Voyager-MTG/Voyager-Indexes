@@ -5,7 +5,7 @@ card:
 		!tag Dewold
 		!tag Turnberry
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-03-02 17:27:30
+	time_modified: 2025-04-15 12:22:29
 	name: Geistwald Amalgam
 	casting_cost: XG
 	image: image65.png
@@ -24,11 +24,11 @@ card:
 	rule_text:
 		<atom-cardname><nospellcheck>Geistwald Amalgam</nospellcheck></atom-cardname> enters with X +1/+1 counters on it.
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>2G</sym-auto>, Exile X other cards from your graveyard. X can’t be 0</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>4G</sym-auto>, Exile X other cards from your graveyard. X can’t be 0</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: 
-	power: 1
-	toughness: 1
+	power: 0
+	toughness: 0
 	illustrator: Javier Gonzalez
 	card_code_text: 
 	card_code_text_2: 

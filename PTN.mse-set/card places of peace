@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-06-24 12:18:33
-	time_modified: 2024-02-23 18:30:34
+	time_modified: 2025-04-15 08:36:52
 	name: Places of Peace
 	casting_cost: GW
 	image: image164
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Whenever a Sanctuary enters under your control, add one mana that a Sanctuary you control could produce.
+		Whenever a Sanctuary you control enters, add one mana that a Sanctuary you control could produce.
 		Whenever a Sanctuary card is put into your graveyard from the battlefield, you gain 1 life and draw a card.
 	rule_text_2: 
 	rule_text_3: 

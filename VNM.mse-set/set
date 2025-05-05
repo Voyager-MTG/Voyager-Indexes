@@ -56,7 +56,7 @@ styling:
 		d20_dividers: off
 		frames: 
 		altered_plus_frames: 
-		custom_symbol: abstract-061.png
+		custom_symbol: 
 		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
 		use_holofoil_stamps: no
 		alt_rarity_color: 
@@ -328,7 +328,7 @@ include_file: card brood protector
 include_file: card minotaur outlander
 include_file: card mordel excursionist
 include_file: card lavaskimmer wurm
-include_file: card torch
+include_file: card burnout
 include_file: card farming wurm
 include_file: card awakened harmony
 include_file: card mordel formgiver
@@ -580,12 +580,12 @@ include_file: card splendid genesis
 include_file: card icon
 include_file: card volatile visions
 include_file: card multaphs respites spellbook
-include_file: card wurm token
-include_file: card wurm token.1
-include_file: card wurm token.2
-include_file: card wurm token.3
+include_file: card black wurm token
+include_file: card green wurm token
+include_file: card red wurm token
+include_file: card white wurm token
 include_file: card trace reminder
-include_file: card icon.1
+include_file: card icon token
 keyword:
 	keyword: Luminous
 	match: Luminous
@@ -595,7 +595,7 @@ keyword:
 keyword:
 	keyword: Materialize
 	match: Materialize <atom-param>number</atom-param>
-	reminder: Tap one or more other enchantments you control with total mana value {param1} or more: This also becomes an Icon creature until end of turn.
+	reminder: Tap one or more other enchantments you control with total mana value {param1} or more: This also becomes an Icon creature until your next upkeep.
 	rules: Tap {if param1.value == "1" then "an" else "{english_number(param1)}"} untapped {if param1.value == "1" then "enchantment" else "enchantments"} you control: This becomes an enchantment creature until your next upkeep.
 	mode: custom
 keyword:
@@ -617,7 +617,7 @@ keyword:
 	rules: 
 	mode: custom
 keyword:
-	keyword: Reflect
+	keyword: Mirror
 	match: Reflect
 	reminder: Create a token thats a copy of a token you control.
 	rules: 

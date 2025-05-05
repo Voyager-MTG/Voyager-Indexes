@@ -3,13 +3,12 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
-		chop_bottom: -9
+		chop_bottom: 
 		font_cap: 13.5
 		d20_dividers: all breaks +1
-		frames: lesson
-		altered_plus_frames: star
-		name_color: default
-		typeline_color: default
+		frames: 
+		altered_plus_frames: 
+		custom_symbol: 
 		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
 		use_holofoil_stamps: no
 		alt_rarity_color: 

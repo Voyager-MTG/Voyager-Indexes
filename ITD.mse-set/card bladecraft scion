@@ -5,7 +5,7 @@ card:
 		https://www.artstation.com/artwork/042WzV
 		changed
 	time_created: 2024-10-17 17:55:41
-	time_modified: 2024-10-26 14:38:00
+	time_modified: 2025-04-15 09:19:11
 	name: Bladecraft Scion
 	casting_cost: 1R
 	image: image94
@@ -17,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
-		When this creature enters, it deals 2 damage to up to one target creature or planeswalker unless an opponent has it deal 2 damage to them.
+		When this creature enters, it deals 2 damage to up to one target creature or planeswalker unless an opponent has this creature deal 2 damage to them.
 	flavor_text: <i-flavor>A <error-spelling:en_US>vorpal</error-spelling:en_US> blade can cut through dreams as if it were paper.</i-flavor>
 	power: 2
 	toughness: 2

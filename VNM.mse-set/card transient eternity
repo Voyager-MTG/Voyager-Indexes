@@ -2,19 +2,7 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 5
-		font_cap: 13.5
-		frames: newnyx
-		altered_plus_frames: star
-		other_options: auto nyx crowns
-		hybrid_name: grey
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
+	has_styling: false
 	notes:
 		<soft-line>!note hybrid
 		Preview

@@ -4,14 +4,15 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		font_cap: 
+		font_cap: 13.5
 		d20_dividers: all breaks +1
 		frames: lesson
-		altered_plus_frames: star
+		altered_plus_frames: 
+		custom_symbol: abstract-061.png
 		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
 		use_holofoil_stamps: no
 		alt_rarity_color: 
-		hybrid_name: hybrid
+		hybrid_name: grey
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no

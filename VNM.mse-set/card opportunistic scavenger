@@ -1,20 +1,6 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 2
-		chop_bottom: 
-		font_cap: 13.5
-		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: star
-		other_options: auto familiars, auto nyx crowns, auto star crowns, auto space crowns
-		use_holofoil_stamps: no
-		hybrid_name: grey
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
+	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:47:22
 	time_modified: 2025-03-01 00:00:16

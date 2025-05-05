@@ -13,9 +13,9 @@ card:
 		UM18
 		ARCUNSET2
 	time_created: 2021-12-25 04:42:38
-	time_modified: 2025-02-20 03:29:08
+	time_modified: 2025-04-14 12:09:02
 	name: Nightmarish Terrain
-	casting_cost: 1BR
+	casting_cost: 2BR
 	image: image121
 	image_2: 
 	mainframe_image: 
@@ -24,7 +24,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Nightmarish Terrain</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/B</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Nightmarish Terrain</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/R</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 		Whenever a creature token you control enters, it deals damage equal to its power to each opponent.
 	flavor_text: <i-flavor></i-flavor>
 	power: 

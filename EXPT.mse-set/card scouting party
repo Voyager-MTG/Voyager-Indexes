@@ -11,10 +11,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-18 15:32:19
-	time_modified: 2025-04-01 17:10:12
+	time_modified: 2025-04-15 08:33:05
 	card_color: silver
 	name: Scouting Party
-	casting_cost: 4II
+	casting_cost: 3II
 	image: image78
 	image_2: 
 	mainframe_image: 
@@ -24,11 +24,11 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Healing <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>2</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Healing <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>3</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-1><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-1> — <sym-auto>2</sym-auto>, Discard this card: Search your library for a Fault card, reveal it, put it into your hand, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
-	toughness: 4
+	power: 4
+	toughness: 3
 	illustrator: Wesley Gardner
 	card_code_text: • Designed by TVP for TVPCORE
 	card_code_text_2: 

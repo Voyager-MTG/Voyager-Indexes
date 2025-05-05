@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-11-08 16:44:18
-	time_modified: 2025-02-20 03:59:02
+	time_modified: 2025-04-15 11:48:01
 	name: Envoy of Debauchery
 	casting_cost: 1WB
 	image: image12.png
@@ -17,7 +17,7 @@ card:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Each opponent loses X life and you gain X life, where X is the number of artifacts you control.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Each opponent loses 3 life and you gain 3 life. Activate only if you control three or more artifacts.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 5

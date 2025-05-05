@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag Dewold
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-03-05 18:26:07
+	time_modified: 2025-04-14 12:11:36
 	name: Geistwald Kraken
 	casting_cost: 7UU
 	image: image83.png
@@ -20,11 +20,11 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Geistwald Kraken</nospellcheck></atom-cardname> enters, if you have fewer than seven cards in hand, draw cards equal to the difference. 
-		Whenever you draw a card, tap target permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
+		When <atom-cardname><nospellcheck>Geistwald Kraken</nospellcheck></atom-cardname> enters, if you have fewer than five cards in hand, draw cards equal to the difference. 
+		Whenever you draw a card, tap target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
 	flavor_text: <i-flavor>In the mists of the <error-spelling:en_US>Geistwald</error-spelling:en_US>, dangers lurk unheard and unseen.</i-flavor>
-	power: 10
-	toughness: 10
+	power: 9
+	toughness: 9
 	illustrator: Brian Valeza
 	card_code_text: 
 	card_code_text_2: 

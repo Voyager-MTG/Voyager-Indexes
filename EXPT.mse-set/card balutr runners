@@ -18,7 +18,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-02-06 01:56:27
-	time_modified: 2025-04-01 17:13:38
+	time_modified: 2025-04-13 12:27:44
 	name: Balutr Runners
 	casting_cost: 2IG
 	casting_cost_2: 
@@ -31,7 +31,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When this creature enters, if you cast it from your hand, choose one— 
-		<li><bullet>• </bullet><kw-A><nospellcheck><key>Reflect</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
+		<li><bullet>• </bullet><kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
 		</li><li><bullet>• </bullet>Reveal the top card of your library. If it’s a permanent card, put it into your hand.
 		<margin:0:0:5></li><kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>1I/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A></margin:0:0:5>
 	rule_text_2: 

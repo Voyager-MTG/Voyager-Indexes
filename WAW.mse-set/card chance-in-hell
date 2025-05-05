@@ -1,0 +1,67 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		back_style: auto-sizing planeswalker
+		level_1_chop: -5,
+		level_2_chop: 
+		level_5_chop: 1,6
+		level_6_chop: 
+		level_8_chop: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-01-21 12:57:48
+	time_modified: 2025-03-05 22:51:23
+	special_text_2:
+		[-1]: <margin:190:0:0>Each opponent loses 3 life, discards a card, and sacrifices a nonland permanent.</margin:190:0:0>
+		[-X]: <margin:190:0:0>Exile target card from a graveyard with mana value X. You may cast a copy of that card without paying its mana cost.</margin:190:0:0>
+		[-3]: <margin:190:0:0>Look at the top six cards of your library. Put up to three of them into your hand and the rest into your graveyard.</margin:190:0:0>
+	card_color_2: blue, black, red, multicolor, horizontal
+	name: Chance-in-Hell
+	name_2: Wish for a Spark
+	casting_cost: 3B
+	image: image187
+	image_2: image188
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator_2: blue, black, red, multicolor, horizontal
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-planeswalker>Chance</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	rule_text:
+		Pay 3 life: <atom-cardname><nospellcheck>Chance-in-Hell</nospellcheck></atom-cardname> <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>.
+		<i>Augmented</i> — At the beginning of your end step, discard a card or sacrifice a nonland permanent. If you’ve spent <sym>WUBRG</sym> to cast spells this turn, instead exile <atom-cardname><nospellcheck>Chance-in-Hell</nospellcheck></atom-cardname> and return her to the battlefield transformed at the beginning of your next upkeep. 
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_6: -2
+	loyalty_cost_7: -X
+	loyalty_cost_8: -5
+	loyalty_cost_9: -1
+	loyalty_cost_10: -X
+	loyalty_cost_11: -3
+	loyalty_2: 7
+	level_5_text: 
+	level_6_text: <margin:190:0:0>Return target creature card from your graveyard to the battlefield. It gets +2/+0 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.</margin:190:0:0>
+	level_7_text: <margin:190:0:0>Destroy all other nonland permanents with mana value X or less.</margin:190:0:0>
+	level_8_text: <margin:190:0:0>Discard your hand, then draw five cards.</margin:190:0:0>
+	level_9_text: <margin:190:0:0>Each opponent loses 3 life, discards a card, and sacrifices a nonland permanent.</margin:190:0:0>
+	level_10_text: <margin:190:0:0>Exile target card from a graveyard with mana value X. You may cast a copy of that card without paying its mana cost.</margin:190:0:0>
+	level_11_text: <margin:190:0:0>Look at the top six cards of your library. Put up to three of them into your hand and the rest into your graveyard.</margin:190:0:0>
+	level_12_text: 
+	power: 6
+	toughness: 5
+	illustrator: Ferretrix
+	illustrator_2: Alexandre Chaulet
+	card_code_text:
+		                                                     she/her
+	card_code_text_2: 
+	card_code_text_3:
+		                                                     she/her
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright_2: she/her

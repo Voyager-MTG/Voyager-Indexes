@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		d20_dividers: all breaks +1
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/justsirenart/art/Crab-On-The-Beach-Low-Poly-Art-Blender-3d-385947005
+	time_created: 2025-04-13 14:19:29
+	time_modified: 2025-04-14 10:37:52
+	name: Canyon Crustacean
+	casting_cost: I
+	image: image126
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Crab</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Bake <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto>
+		When this creature dies, create a trace of Fault into your hand.
+		<b>Fault</b>|<i>Basic Land – Fault</i><soft-line>
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.)</i-auto></soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: JustSirenART
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
