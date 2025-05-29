@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-12-23 18:37:31
-	time_modified: 2023-10-03 14:54:54
+	time_modified: 2025-05-17 19:48:56
 	name: Prison of Glass
-	casting_cost: 2U
-	image: image301
+	casting_cost: 1U
+	image: image197
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Enchanted creature is a blue Reflection, gets -3/-0, loses all abilities, and can’t be sacrificed.
+		Enchanted creature is a blue Reflection, gets -4/-0, loses all abilities, and can’t be sacrificed.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>This is the cell the Sun-in-Rags built, where the sea grows hard as horn and the sunset pale as mirrors.</i-flavor>

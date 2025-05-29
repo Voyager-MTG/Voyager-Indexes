@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-02-20 15:27:01
-	time_modified: 2024-11-06 22:09:12
+	time_modified: 2025-05-17 19:48:30
 	card_color: blue, red, multicolor, horizontal
 	name: Sister of Venoms
 	casting_cost: UR
-	image: image166
+	image: image213
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever <atom-cardname><nospellcheck>Sister of Venoms</nospellcheck></atom-cardname> becomes blocked, choose one —
-		<li><bullet>• </bullet>Tap target creature blocking <atom-cardname><nospellcheck>Sister of Venoms</nospellcheck></atom-cardname>, put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
+		<li><bullet>• </bullet>Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
 		</li><li><bullet>• </bullet>Other creatures you control get +1/+1 until end of turn.</li>
 	rule_text_2: 
 	rule_text_3: 

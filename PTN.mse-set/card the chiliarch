@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-07-18 19:11:37
-	time_modified: 2024-11-07 16:08:06
+	time_modified: 2025-05-17 19:48:27
 	name: The Chiliarch
 	casting_cost: 2GU
-	image: image353
+	image: image214
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>The Chiliarch</nospellcheck></atom-cardname> becomes the target of a spell or ability an opponent controls, you may tap target nonland permanent, put three <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it.
-		If a creature would deal damage to <atom-cardname><nospellcheck>The Chiliarch</nospellcheck></atom-cardname>, if that creature isn’t attacking, prevent that damage and put a +1/+1 counter on <atom-cardname><nospellcheck>The Chiliarch</nospellcheck></atom-cardname>.
+		<atom-cardname><nospellcheck>The Chiliarch</nospellcheck></atom-cardname> can’t be the target of Instant spells.
+		If damage would be dealt to <atom-cardname><nospellcheck>The Chiliarch</nospellcheck></atom-cardname> while it isn’t blocking, prevent that damage and put that many +1/+1 counters on <atom-cardname><nospellcheck>The Chiliarch</nospellcheck></atom-cardname>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

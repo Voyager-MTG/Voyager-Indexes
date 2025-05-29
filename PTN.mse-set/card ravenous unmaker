@@ -1,13 +1,29 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
-	notes: !addtoken Scar;1
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 7
+		frames: 
+		font_cap: 13.5
+		apply_custom_fonts: no
+		custom_name_font: 
+		custom_type_font: 
+		custom_body_font: 
+		custom_pt_font: 
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
 	time_created: 2023-06-22 22:15:28
-	time_modified: 2024-07-03 10:04:11
+	time_modified: 2025-05-17 19:48:05
 	card_color: green
 	name: Ravenous Unmaker
 	casting_cost: 3GG
-	image: image131
+	image: image226
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -19,15 +35,16 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Ravenous Unmaker</nospellcheck></atom-cardname> enters, you get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
-		Whenever <atom-cardname><nospellcheck>Ravenous Unmaker</nospellcheck></atom-cardname> attacks or a boon you own triggers, creatures you control get +1/+1 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Ravenous Unmaker</nospellcheck></atom-cardname> is dealt damage you get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		Whenever a boon you own triggers, create a 2/2 green Wolf creature token.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 4
-	toughness: 4
+	toughness: 5
 	illustrator: Timi Honkanen
 	card_code_text: 
 	card_code_text_2: 

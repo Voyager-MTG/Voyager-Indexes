@@ -1,0 +1,201 @@
+﻿mse_version: 0.3.5
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5000000000,0.6333333333)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Square
+		combine: overlap
+		point:
+			position: (0.2000000000,0.3333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.1000000000,0.2333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3666666667,0.5666666666)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2333333333,0.7000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.4000000000,0.6666666666)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.7666666666)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.6666666666)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.6333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.6333333333)
+			lock: free
+			line_after: line
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5000000000,0.6333333333)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Square
+		combine: overlap
+		point:
+			position: (0.2000000000,0.3333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.1000000000,0.2333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3666666667,0.5666666666)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2333333333,0.7000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.4000000000,0.6666666666)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.7666666666)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.6666666666)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.6333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.6333333333)
+			lock: free
+			line_after: line
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5000000000,0.5333333333)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Square
+		combine: border
+		point:
+			position: (0.1818181818,0.1666666666)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3030303030,0.4925925926)
+			lock: free
+			line_after: line
+		point:
+			position: (0.0333333333,0.4000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.1212121212,0.5333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2424242424,0.6148148148)
+			lock: free
+			line_after: line
+		point:
+			position: (0.6666666667,0.8333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.6666666667,0.5333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.6666666667,0.5333333333)
+			lock: free
+			line_after: line
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5000000000,0.5333333333)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Square
+		combine: overlap
+		point:
+			position: (0.2333333333,0.2333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2333333333,0.4333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.1333333333,0.4666666666)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2000000000,0.5333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2666666667,0.6000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.8333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.5333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.5333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.4381355932,0.4566384181)
+			lock: free
+			line_after: line
+	part:
+		type: shape
+		name: Triangle
+		combine: border
+		point:
+			position: (0.1806710472,0.7345003951)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3612155020,0.7281376320)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2779477705,0.5592430713)
+			lock: free
+			line_after: line

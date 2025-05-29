@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/lyvantiumvvitchcraft/art/Where-Spirits-Sojourn-1120833171
 	time_created: 2025-04-08 17:49:35
-	time_modified: 2025-04-14 10:40:46
+	time_modified: 2025-05-05 11:00:17
 	name: Moonlight Charm
 	casting_cost: I
 	image: image108
@@ -22,7 +22,7 @@ card:
 		Choose one —
 		<li><bullet>• </bullet>Destroy target enchantment.
 		</li><li><bullet>• </bullet>Put target card in a graveyard into its owner’s sanctum.
-		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Sift <param-number>2</param-number></key></nospellcheck>. <i-auto>(Look at the top two cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)</i-auto><atom-reminder-custom> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-custom></kw-A></li>
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Sift <param-number>2</param-number></key></nospellcheck>. <atom-reminder-custom> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-custom></kw-A></li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Arthur Crow
 	card_code_text: 

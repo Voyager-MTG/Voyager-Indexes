@@ -144,7 +144,6 @@ include_file: card sundown
 include_file: card against the night
 include_file: card warping wolf
 include_file: card risen earthdragon
-include_file: card elemental
 include_file: card shells scraping
 include_file: card illuminant spire
 include_file: card ivory spire
@@ -249,6 +248,7 @@ include_file: card blank
 include_file: card edification
 include_file: card canyon crustacean
 include_file: card cowering lightbringer
+include_file: card fish token
 keyword:
 	keyword: Mirror
 	match: mirror

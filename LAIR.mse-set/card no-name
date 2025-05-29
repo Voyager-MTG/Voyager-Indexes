@@ -1,0 +1,21 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: 
+		altered_plus_frames: 
+		other_options: auto nyx crowns
+		additional_options: pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-05-18 15:34:44
+	time_modified: 2025-05-18 15:34:44
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

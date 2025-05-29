@@ -5,14 +5,14 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-07-21 13:23:00
-	time_modified: 2024-06-30 00:08:05
+	time_modified: 2025-05-17 19:48:32
 	special_text:
 		[+1]: <margin:130:0:0>Target opponent discards a card. You may draw a card unless target opponent pays <sym-auto>2</sym-auto>.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Look at the top five cards of your library. You may put a permanent card with mana value 3 or less from among them onto the battlefield.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Look at the top three cards of your library. You may put a permanent card with mana value 5 or less from among them onto the battlefield. Put the rest into your graveyard.</margin:130:0:0>
 		[-8]: <margin:130:0:0>You get an emblem with “Opponents can’t draw cards”.</margin:130:0:0>
 	name: Isidra, Foreign Goddess
 	casting_cost: 3UB
-	image: image160
+	image: image212
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -34,7 +34,7 @@ card:
 	loyalty_cost_3: -8
 	loyalty: 4
 	level_1_text: <margin:130:0:0>Target opponent discards a card. You may draw a card unless target opponent pays <sym-auto>2</sym-auto>.</margin:130:0:0>
-	level_2_text: <margin:130:0:0>Look at the top five cards of your library. You may put a permanent card with mana value 3 or less from among them onto the battlefield.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Look at the top three cards of your library. You may put a permanent card with mana value 5 or less from among them onto the battlefield. Put the rest into your graveyard.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>You get an emblem with “Opponents can’t draw cards”.</margin:130:0:0>
 	level_4_text: 
 	level_5_text: 

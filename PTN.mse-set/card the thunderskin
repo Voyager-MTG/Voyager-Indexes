@@ -1,12 +1,28 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 
+		frames: 
+		font_cap: 13.5
+		apply_custom_fonts: no
+		custom_name_font: 
+		custom_type_font: 
+		custom_body_font: 
+		custom_pt_font: 
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2023-07-21 13:23:00
-	time_modified: 2024-11-09 16:00:39
+	time_modified: 2025-05-17 19:48:21
 	name: The Thunderskin
 	casting_cost: 2GW
-	image: image60
+	image: image216
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,14 +34,14 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>
-		Whenever an opponent casts a spell during your turn and when <atom-cardname><nospellcheck>The Thunderskin</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>induct</key></nospellcheck> twice.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		Whenever #The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Thunderskin</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, create an enchantment token named Heartbeat with “<sym-auto>GW</sym-auto>, Sacrifice this permanent: Return target card named #The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Thunderskin</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> from your graveyard to the battlefield tapped.”
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>“Endure with the world unceasing.”</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	power: 2
+	power: 4
 	toughness: 4
 	illustrator: Weather Factory
 	card_code_text: 

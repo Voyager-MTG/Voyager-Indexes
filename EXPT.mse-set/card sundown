@@ -10,11 +10,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !related Elemental;
+	notes: 
 	time_created: 2025-02-22 22:58:34
-	time_modified: 2025-03-30 16:51:05
+	time_modified: 2025-05-16 14:43:18
 	name: Sundown
-	casting_cost: 1IRR
+	casting_cost: 1RR
 	image: image116
 	image_2: 
 	mainframe_image: 
@@ -22,9 +22,9 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: mythic rare
-	rule_text: Discard your hand, then draw three cards. If you have no cards in exile, draw five cards instead.
+	rule_text: Discard your hand, then draw three cards.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost>Exile all other cards in your sanctum</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym>2</sym>. Activate only if there are no other cards in your sanctum</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
 	illustrator: BisBiswas
 	card_code_text: •  Designed by Aanginer
 	card_code_text_2: Aanginer

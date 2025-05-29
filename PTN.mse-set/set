@@ -100,16 +100,12 @@ styling:
 		overlay: 
 	magic-rulestip: mana_symbols: magic-mana-small.mse-symbol-font
 include_file: card the horned-axe
-include_file: card the crowned growth
 include_file: card implant the seeds
 include_file: card mother of ants
 include_file: card the elegiast
-include_file: card the forge of days
 include_file: card the mirror-queen
 include_file: card the red grail
 include_file: card the sun-in-rags
-include_file: card the thunderskin
-include_file: card the vagabond
 include_file: card the witch-and-sister
 include_file: card the wolf divided
 include_file: card the frangiclave
@@ -150,15 +146,12 @@ include_file: card noon delver serpent
 include_file: card banisher priest
 include_file: card bars across the sun
 include_file: card broken sun-servant
-include_file: card brought back
 include_file: card defacement
 include_file: card forge secretkeeper
 include_file: card glass guardian
 include_file: card iron verdict
 include_file: card legacy of amber
-include_file: card legacy of the wheel
 include_file: card legacy of tides
-include_file: card legacy of flint
 include_file: card legacy of coils
 include_file: card subverted cyprian
 include_file: card verse illuminate
@@ -169,7 +162,6 @@ include_file: card verse aggress
 include_file: card nowhere inhabits
 include_file: card names of the dead
 include_file: card nowhere illuminator
-include_file: card prison of glass
 include_file: card rite of twins union
 include_file: card seas feasting
 include_file: card seven-coil shipbreaker
@@ -177,11 +169,9 @@ include_file: card carapace shearer
 include_file: card dry-soul angel
 include_file: card flesh asunder
 include_file: card herald of loss
-include_file: card the museum of worms
 include_file: card skintwist
 include_file: card carnal thirst
 include_file: card ignus rites
-include_file: card ascent from snakes
 include_file: card the vitulation
 include_file: card rite intercalate
 include_file: card foul alteration
@@ -219,7 +209,6 @@ include_file: card paradoxical inquiry
 include_file: card rite of crucible soul
 include_file: card seven-coil invocation
 include_file: card rite of beasts division
-include_file: card the chiliarch
 include_file: card the lionsmith
 include_file: card the knotwingknot
 include_file: card the ring-yew
@@ -255,7 +244,6 @@ include_file: card ring-yews chosen
 include_file: card the allures light
 include_file: card the sky the soul
 include_file: card roost messengers
-include_file: card glassgarden watcheye
 include_file: card guardian percussigant
 include_file: card apostle entheate
 include_file: card cat olic priests
@@ -271,7 +259,6 @@ include_file: card root of mercy
 include_file: card seven-coil glider
 include_file: card augury raven
 include_file: card devoured messenger
-include_file: card expose mortality
 include_file: card eyes everywhere
 include_file: card painted distorter
 include_file: card maps edge monstrosity
@@ -280,7 +267,6 @@ include_file: card dreamway imposter
 include_file: card nowhere soul collector
 include_file: card nowhere wormhost
 include_file: card opener of realities
-include_file: card ophidian soul
 include_file: card river drowner
 include_file: card roost nyctodromist
 include_file: card seaside smuggler
@@ -315,17 +301,11 @@ include_file: card entry consultant
 include_file: card forces of opening
 include_file: card ghirbi the gatekeeper
 include_file: card ironsmoke caligine
-include_file: card malleary augmenter
 include_file: card malleary novice
 include_file: card malleary reforged
-include_file: card malleary seer
-include_file: card malleary smelter
-include_file: card opener of glass
 include_file: card rite flamecaller
 include_file: card smoldering pack
-include_file: card tattered cyprian
 include_file: card traitorous blood
-include_file: card wandering unmaker
 include_file: card carapace crusader
 include_file: card carapace disciple
 include_file: card carapace threadbearer
@@ -336,19 +316,11 @@ include_file: card debilitated tragulari
 include_file: card flesh weaver
 include_file: card the old forms
 include_file: card ordeal of defiance
-include_file: card ravenous unmaker
-include_file: card dappled wing-clippers
-include_file: card dyads dance
-include_file: card seven-coil ambusher
-include_file: card splinter-blossom
 include_file: card pupil of defiance
-include_file: card wildest dreams
 include_file: card thyrsine hunter
 include_file: card tireless recruiter
 include_file: card unceasing initiation
 include_file: card way to the wood
-include_file: card wolf-splinter
-include_file: card woods devourer
 include_file: card yew colossus
 include_file: card territorial yew-maw
 include_file: card study the histories
@@ -356,15 +328,12 @@ include_file: card seven-coils successor
 include_file: card teferis banishment
 include_file: card breaching vespera
 include_file: card carapace shell-burster
-include_file: card drowning cyprian
 include_file: card horomachist ending
-include_file: card isidra foreign goddess
 include_file: card lorescale coatl
 include_file: card malleary phantasm
 include_file: card percussigant
 include_file: card places of peace
 include_file: card roost augur
-include_file: card sister of venoms
 include_file: card vengeful restorer
 include_file: card wound the world
 include_file: card covert cloak
@@ -373,8 +342,39 @@ include_file: card sanctuary of mysteries
 include_file: card cleric
 include_file: card god horror
 include_file: card carapace ancestor
-include_file: card tenacious illuminator
 include_file: card musicians remnant
+include_file: card ambitions of ascension
+include_file: card glassgarden watcheye
+include_file: card expose mortality
+include_file: card legacy of the wheel
+include_file: card ophidian soul
+include_file: card prison of glass
+include_file: card tenacious illuminator
+include_file: card the crowned growth
+include_file: card the museum of worms
+include_file: card legacy of flint
+include_file: card malleary augmenter
+include_file: card malleary seer
+include_file: card malleary smelter
+include_file: card opener of glass
+include_file: card tattered cyprian
+include_file: card wandering unmaker
+include_file: card drowning cyprian
+include_file: card isidra foreign goddess
+include_file: card sister of venoms
+include_file: card the chiliarch
+include_file: card the forge of days
+include_file: card the thunderskin
+include_file: card the vagabond
+include_file: card ascent from snakes
+include_file: card buzzings in the world
+include_file: card dappled wing-clippers
+include_file: card dyads dance
+include_file: card ravenous unmaker
+include_file: card seven-coil ambusher
+include_file: card splinter-blossom
+include_file: card wolf-splinter
+include_file: card woods devourer
 keyword:
 	keyword: Induct
 	match: induct

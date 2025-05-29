@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-cultist-simulator
+	stylesheet_version: 2024-05-26
+	has_styling: true
+	styling_data:
+		shrink_typeline_text: 1
+		grey_hybrid_name: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: https://www.instagram.com/p/DJhKc7ZMM1F/?img_index=2
+	time_created: 2023-07-21 13:23:00
+	time_modified: 2025-05-16 20:15:59
+	name: The Moth
+	casting_cost: 3BG
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>God</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		If you would draw a card, instead <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		<sym-auto>1</sym-auto>: Return up to two target cards from your graveyard to your hand. Activate only during your turn and only once each turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Valun
+	card_code_text: • The Hours — Kogane
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane
+	secondary_copyright: Port Noon

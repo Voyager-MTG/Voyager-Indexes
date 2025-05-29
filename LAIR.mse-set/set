@@ -1,0 +1,34 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
+set_info:
+	title: Secret Lair Drops
+	set_code: LAIR
+	masterpiece_set_code: Voyager Champions
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: masterpiece_symbol1.mse-symbol
+	rarity_codes: no
+styling:
+	magic-m15-altered-plus:
+		frames: 
+		altered_plus_frames: 
+		other_options: auto nyx crowns
+		additional_options: pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-cultist-simulator:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+include_file: card mother of ants
+include_file: card the forge of days
+include_file: card the moth
+include_file: card the red grail
+include_file: card the watchman
+include_file: card the thunderskin
+include_file: card anord maddening lich
+include_file: card anord maddening lich.1
+version_control:
+	type: none
+apprentice_code: 
