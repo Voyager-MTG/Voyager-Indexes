@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/cobaltplasma/art/Siren-490727428
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-01-10 10:50:29
+	card_color: blue
+	name: Gloom Fracture
+	casting_cost: XU
+	image: image845
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		<atom-cardname><nospellcheck>Gloom Fracture</nospellcheck></atom-cardname> costs <sym-auto>2</sym-auto> less to cast if you or a permanent you control is being targeted.
+		Counter target noncreature spell unless its controller pays <sym-auto>X</sym-auto>.
+	flavor_text: <i-flavor>As the hand from the Abyss reached out to <error-spelling:en_US>Davriel</error-spelling:en_US>, he reached back.”Obey”.</i-flavor>
+	illustrator: ReyeD33
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

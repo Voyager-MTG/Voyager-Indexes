@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.deviantart.com/lukefitzsimons/art/Death-Risen-707606532
+		https://www.deviantart.com/remarin/art/Soot-819421325
+		
+		Who says a scavenger should have to suffer eating things raw?
+	time_created: 2022-04-27 11:47:01
+	time_modified: 2025-02-14 15:57:10
+	name: Cryptborn Bones
+	casting_cost: BG
+	image: image895
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Giant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Skeleton</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		This creature can’t block.
+		You may cast this creature from your graveyard if you attacked with creatures with total power 6 or greater this turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The strongest masters wield the strongest servants.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: none
+	power: 3
+	toughness: 2
+	illustrator: LukeFitzsimons
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

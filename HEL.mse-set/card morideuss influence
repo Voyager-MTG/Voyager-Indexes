@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.deviantart.com/era7/art/Breath-of-Death-812075968
+		
+		https://www.deviantart.com/austenmengler/art/The-Dead-Come-469872905
+	time_created: 2022-05-08 14:27:21
+	time_modified: 2025-02-03 16:40:13
+	name: Morideus’s Influence
+	casting_cost: XBB
+	image: image863
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		Choose one or both —
+		<li><bullet>• </bullet>Destroy all creatures with toughness X or less.
+		</li><li><bullet>• </bullet>Return up to X creature cards from your graveyard to your hand.</li>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“I do not demand obedience, but do know the other <error-spelling:en_US>Demonlords</error-spelling:en_US> fear me for a reason.”<soft-line>
+		— <error-spelling:en_US>Morideus</error-spelling:en_US>, <error-spelling:en_US>Demonlord</error-spelling:en_US> of Death</soft-line></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: AustinMengler
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

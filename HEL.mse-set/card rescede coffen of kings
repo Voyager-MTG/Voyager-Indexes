@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.deviantart.com/canadianmark/art/231-1117906765
+		
+		Get away from god
+	time_created: 2024-11-03 18:06:41
+	time_modified: 2025-03-31 16:46:15
+	name: Rescede, Coffen of Kings
+	casting_cost: 1U
+	image: image968
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: mythic rare
+	rule_text:
+		When <atom-legname><nospellcheck>Rescede</nospellcheck></atom-legname> enters, tap up to one target creature and put two <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it.
+		Creatures with counters on them lose all abilities and have base power and toughness 1/1.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: CanadianMark
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

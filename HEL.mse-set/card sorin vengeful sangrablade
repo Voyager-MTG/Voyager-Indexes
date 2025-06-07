@@ -1,0 +1,58 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		shift_loyalty_costs: 
+		opacity: 1000
+		other_options: un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: never
+		overlay: 
+	notes:
+		https://www.artstation.com/artwork/q9R83e
+		
+		lifegain/value/tokens
+		
+		Vengeful Sangrablade or Vampiric Paragon
+	time_created: 2022-05-11 14:43:03
+	time_modified: 2025-05-09 20:16:41
+	special_text:
+		Once during each of your turns, when an opponent loses life, you may gain that much life.
+		[+1]: <margin:130:0:0>Create a 3/1 white Vampire Soldier creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-2]: <margin:130:0:0> Exile target tapped creature.</margin:130:0:0>
+		[-7]: <margin:130:0:0>Until end of turn, <atom-legname><nospellcheck>Sorin</nospellcheck></atom-legname> becomes an X/X legendary Vampire creature with <kw-0><nospellcheck><key>protection from <param-name>everything, where X is your life total.</param-name></key></nospellcheck></kw-0> <i-auto>(This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything until end of turn)</i-auto></margin:130:0:0>
+	name: Sorin, Vengeful Sangrablade
+	casting_cost: 3WW
+	image: image1041
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Sorin</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		<atom-legname><nospellcheck>Sorin</nospellcheck></atom-legname> deals 2 damage to each tapped creature.
+		<atom-legname><nospellcheck>Sorin</nospellcheck></atom-legname> becomes a 5/5 <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> Vampire creature until end of turn.
+		Destroy each other nonland permanent. Set each players life total to 5. Until the end of your next turn, you can’t lose the game.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	loyalty_cost_1: 
+	loyalty_cost_2: +1
+	loyalty_cost_3: -2
+	loyalty_cost_4: -7
+	loyalty: 4
+	level_1_text: Once during each of your turns, when an opponent loses life, you may gain that much life.
+	level_2_text: <margin:130:0:0>Create a 3/1 white Vampire Soldier creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_3_text: <margin:130:0:0> Exile target tapped creature.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Until end of turn, <atom-legname><nospellcheck>Sorin</nospellcheck></atom-legname> becomes an X/X legendary Vampire creature with <kw-0><nospellcheck><key>protection from <param-name>everything, where X is your life total.</param-name></key></nospellcheck></kw-0> <i-auto>(This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything until end of turn)</i-auto></margin:130:0:0>
+	level_5_text: 
+	illustrator: Steven Elim Tali
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

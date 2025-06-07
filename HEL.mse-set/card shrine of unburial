@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/rockfrenzyart/art/Drawn-To-Light-1185806650
+	time_created: 2025-05-09 22:40:27
+	time_modified: 2025-05-09 22:58:57
+	name: Shrine of Unburial
+	image: image1047
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>5WB</sym-auto>, <sym-auto>T</sym-auto>: Put target permanent card that was put into your graveyard from the battlefield this turn onto the battlefield tapped with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: RockFrenzyArt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.deviantart.com/yuu0519/art/Phayne-s-Throne-Room-869505298
+		
+		Go wide removal piece
+		Little weak from a constructed sense
+	time_created: 2022-05-11 16:01:58
+	time_modified: 2025-02-16 21:04:21
+	card_color: white
+	name: Assume Power
+	casting_cost: 2WW
+	image: image907
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: Destroy target creature or planeswalker. Put two +1/+1 counters on target creature you control.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“It is time to teach you a lesson in humility. Your chains affect us no more.”<soft-line>
+		</soft-line><soft-line>—A young <error-spelling:en_US>Kinnamon</error-spelling:en_US> to <error-spelling:en_US>Ignosco</error-spelling:en_US>, <error-spelling:en_US>Demonlord</error-spelling:en_US> of Domination</soft-line></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: YUU0519
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/chriscold/art/Warlock-885983291
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-01-30 17:08:31
+	card_color: green
+	name: Invigorating Essence
+	casting_cost: G
+	image: image860
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Target creature gets +2/+2 until end of turn. <kw-A><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>What is lost can always be repurposed.</i-flavor>
+	illustrator: ChrisCold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

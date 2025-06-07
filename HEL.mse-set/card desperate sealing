@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.artstation.com/artwork/lRDP3e
+		“I promise your death will not be in vain.”
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-05-15 21:41:49
+	card_color: white
+	name: Desperate Sealing
+	casting_cost: W
+	image: image1066
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		As an additional cost to cast this spell, sacrifice a creature or discard a card.
+		When this enchantment enters, exile another target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alina Grim
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

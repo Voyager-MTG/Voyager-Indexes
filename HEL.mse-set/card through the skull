@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/BW986
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2024-07-11 20:33:30
+	card_color: black
+	name: Through the Skull
+	casting_cost: 2B
+	image: image829
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Target player discards two cards.
+		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Through the Skull</nospellcheck></atom-cardname> deals 3 damage to target player and you gain 3 life.</li>
+	flavor_text: <i-flavor>There’s always some way to get your point across.</i-flavor>
+	illustrator: Charles Lister
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

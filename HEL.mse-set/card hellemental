@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.deviantart.com/pavelvalseca/art/The-rider-889572739
+		Control
+		Could be a 4/3
+	time_created: 2022-05-11 16:01:58
+	time_modified: 2025-02-12 19:25:38
+	card_color: black
+	name: Hellemental
+	casting_cost: 2BB
+	image: image884
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Skeleton</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Decayed</key></nospellcheck><atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		When this creature dies, create two 1/1 black Skeleton creature tokens.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: PavelValseca
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

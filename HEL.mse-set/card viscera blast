@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.artstation.com/artwork/2qgJGa
+		
+		eyeball power level
+	time_created: 2022-05-11 16:01:58
+	time_modified: 2024-07-31 19:53:04
+	card_color: red
+	name: Viscera Blast
+	casting_cost: XR
+	image: image837
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		You lose X life.
+		<atom-cardname><nospellcheck>Viscera Blast</nospellcheck></atom-cardname> deals X damage to target player and up to one target creature that player controls.
+	flavor_text:
+		<i-flavor>“I always detested this method. There is not a trace left to reuse later.”<soft-line>
+		— Undue, Necrotic <error-spelling:en_US>Devourer</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Homonculus911
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

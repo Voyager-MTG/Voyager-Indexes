@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/alaiaorax/art/Storm-and-wonder-880520427
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-03-31 18:56:32
+	card_color: green
+	name: Savage Snapper
+	casting_cost: 2G
+	image: image990
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Nightmare</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Snake</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		This creature can’t be blocked by creatures with power 2 or less.
+	flavor_text: <i-flavor>Undue took note of the wildlife of the plane. Twisted monsters with exaggerated proportions. The perfect place to perfect his <error-spelling:en_US>marrowed</error-spelling:en_US> masterpieces.</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Alaiaorax
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

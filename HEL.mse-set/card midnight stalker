@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 11
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/chrisnazgul/art/Moon-913096517
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-06-03 07:19:30
+	card_color: green
+	name: Midnight Stalker
+	casting_cost: 3GG
+	image: image1089
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wolf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When this creature dies, draw a card.
+		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>“I’m not known for my gentle appetite.”</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: itheSpirit
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

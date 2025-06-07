@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 12
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/davesrightmind/art/Spider-demont-435313507
+	time_created: 2022-04-27 11:47:01
+	time_modified: 2025-06-03 08:35:13
+	card_color: green
+	name: Eafems’ Brood
+	casting_cost: 4GG
+	image: image1095
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spider</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		This creature can only be blocked by one creature each combat.
+		<sym-auto>1G</sym-auto>: Spiders you control get +1/+0 until end of turn.
+	flavor_text: <i-flavor><error-spelling:en_US>Eafem</error-spelling:en_US> is left alone by the large <error-spelling:en_US>Demonlord</error-spelling:en_US>, her spawn too convenient in protecting his territory.</i-flavor>
+	power: 4
+	toughness: 6
+	illustrator: Davesrightmind
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

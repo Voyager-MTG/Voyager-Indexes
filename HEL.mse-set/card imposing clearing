@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/zepher234/art/Blood-Tinged-Forest-311181244
+	time_created: 2025-05-10 17:32:44
+	time_modified: 2025-05-10 17:51:47
+	name: Imposing Clearing
+	image: image1050
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1GW</sym-auto>, <sym-auto>T</sym-auto>: Target creature you control gains <kw-0><nospellcheck><key>unrelenting</key></nospellcheck></kw-0> until end of turn. Activate only as a sorcery. <i-auto>(When that creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0>.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Zepher234
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

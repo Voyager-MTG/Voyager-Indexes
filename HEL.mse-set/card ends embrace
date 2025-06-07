@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-03-31 15:40:49
+	card_color: blue
+	name: End’s Embrace
+	casting_cost: 1UU
+	image: image953
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		This spell costs <sym-auto>1U</sym-auto> less to cast if a creature died this turn.
+		Counter target spell.
+	flavor_text: <i-flavor>When he shouted to the wind, the only sound that returned was silence. He was alone.</i-flavor>
+	illustrator: Chris Cold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

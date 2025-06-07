@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 7
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: https://www.artstation.com/artwork/1nOV2
+	time_created: 2022-04-27 11:47:01
+	time_modified: 2025-03-31 18:57:06
+	card_color: green
+	name: Stranded Hatchling
+	casting_cost: 1G
+	image: image993
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Kraken</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: When this creature enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>For most wildlife, these are desperate times, being born into an unforgiving world and searching for safety in the quietest corner they can find, hoping to be left alone.</i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Markus Neidel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

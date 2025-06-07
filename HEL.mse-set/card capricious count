@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 9
+		chop_bottom: 8
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: https://www.deviantart.com/joel-lagerwall/art/Sargeras-498842462
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-03-31 17:52:03
+	card_color: red
+	name: Capricious Count
+	casting_cost: 1R
+	image: image980
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Whenever this creature deals combat damage to a player, you may discard a card. If you do, draw a card.
+	flavor_text: <i-flavor>Not all the vampires of Castle <error-spelling:en_US>Salus</error-spelling:en_US> fear the demons, consorting under the cover of darkness and playing to their own whims.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: LukeOram
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

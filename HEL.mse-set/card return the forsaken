@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/misterfeelgood/art/Bloodthirsty-Revenant-873798214
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2024-10-01 09:46:22
+	name: Return the Forsaken
+	casting_cost: XW
+	image: image839
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Return target creature card with mana value X or less from your graveyard to the battlefield. You gain X life.
+	flavor_text: <i-flavor>Recompense for betrayal is few and far between. Sometimes, you have to seek justice yourself.</i-flavor>
+	illustrator: 1oneAS
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

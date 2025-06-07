@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 10
+		chop_bottom: 12
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: https://www.deviantart.com/istrandar/art/Lurker-888298687
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-05-06 18:24:34
+	card_color: green
+	name: Rattling Gorger
+	casting_cost: 4GG
+	image: image1017
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Skeleton</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		When this creature enters, you gain 3 life.
+		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>Undue meditated and bent the plane to his will. The earth itself was dead, and it was time to wake it.</i-flavor>
+	power: 4
+	toughness: 7
+	illustrator: Istrandar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

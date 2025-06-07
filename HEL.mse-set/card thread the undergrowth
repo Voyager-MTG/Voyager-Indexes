@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/highdarktemplar/art/Spider-of-Leng-820654490
+	time_created: 2025-06-03 08:28:50
+	time_modified: 2025-06-03 08:40:35
+	name: Thread the Undergrowth
+	casting_cost: 4G
+	image: image1096
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Create three 2/1 green Spider creature tokens with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor><error-spelling:en_US>Eafem</error-spelling:en_US> sent its brood far and wide. If any would trespass upon her lair, she would know immediately.</i-flavor>
+	power: 
+	toughness: 
+	illustrator: JJcanvas
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

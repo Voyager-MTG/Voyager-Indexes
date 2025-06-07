@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 12
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		https://www.deviantart.com/morkardfc/art/Blessed-Pilgrim-832026093
+		
+		Tanglemess hydras continue expanding for life, eventually consuming entire forests and ecosystems.
+	time_created: 2022-05-11 16:01:58
+	time_modified: 2025-05-06 18:24:49
+	name: Gnarled Hydra
+	casting_cost: 1GG
+	image: image1018
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Hydra</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Plant</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		Whenever this creature attacks, put a +1/+1 counter on it.
+		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Geniusfetus
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/AG6bV
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-05-14 06:05:55
+	card_color: blue
+	name: Creeping Frost
+	casting_cost: 1U
+	image: image1059
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature has -5/-0.
+		<sym-auto>1U</sym-auto>: Return this card from your graveyard to your hand.
+	flavor_text: <i-flavor>Countless years of <error-spelling:en_US>Hwel’s</error-spelling:en_US> volcanic activity causes most winters to be colder than cold.</i-flavor>
+	illustrator: Pixoloid Studios
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

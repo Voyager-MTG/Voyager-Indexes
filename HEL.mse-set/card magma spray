@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/morkardfc/art/Arcane-Blast-643221019
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-02-12 11:01:03
+	card_color: red
+	name: Magma Spray
+	casting_cost: R
+	image: image880
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: <atom-cardname><nospellcheck>Magma Spray</nospellcheck></atom-cardname> deals 2 damage to target creature. If that creature would die this turn, exile it instead.
+	flavor_text: <i-flavor>Living dragons are a rare sight on <error-spelling:en_US>Hwel</error-spelling:en_US>, facing fierce competition. Those that remain often need to “cover their tracks”.</i-flavor>
+	illustrator: ERA7
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/theboyofcheese/art/Power-of-the-Divines-606947634
+	time_created: 2022-08-16 23:44:50
+	time_modified: 2025-02-05 19:44:34
+	name: Malicious Mimicry
+	casting_cost: UB
+	image: image868
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Each player sacrifices a creature. If you sacrificed a creature this way, create a token that’s a copy of it.
+	flavor_text:
+		<i-flavor>“Your playthings are quite intriguing, but I think I will show off some of my own.”<soft-line>
+		</soft-line><soft-line>—<error-spelling:en_US>Demonlord</error-spelling:en_US> <error-spelling:en_US>Orbisfaber</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: MattCowdery
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

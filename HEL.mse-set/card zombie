@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: https://www.deviantart.com/markusvogt/art/Underworld-Rising-697237078
+	time_created: 2023-09-04 21:59:45
+	time_modified: 2025-02-14 21:44:54
+	card_color: white
+	name: Zombie
+	casting_cost: 
+	image: image905
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Decayed</key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: zzmarkusVogt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

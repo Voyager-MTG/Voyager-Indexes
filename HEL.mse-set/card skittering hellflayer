@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/typhonart/art/Hellfire-Crawler-853323880
+	time_created: 2022-05-20 01:10:51
+	time_modified: 2025-03-31 16:05:54
+	name: Skittering Hellflayer
+	casting_cost: 5BB
+	image: image959
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spider</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		<sym-auto>B</sym-auto>, Discard this card: Destroy target creature if it was dealt damage this turn.
+	flavor_text: <i-flavor><error-spelling:en_US>Morideus</error-spelling:en_US> commands the largest amount of demons and <error-spelling:en_US>undead</error-spelling:en_US>. A monopolizing presence across the plane.</i-flavor>
+	power: 7
+	toughness: 6
+	illustrator: TyphonArt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

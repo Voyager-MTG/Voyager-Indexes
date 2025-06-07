@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 10
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/3nm9B
+	time_created: 2022-04-27 11:47:01
+	time_modified: 2025-03-31 18:57:48
+	name: Crashing Murmurer
+	casting_cost: UB
+	image: image996
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Minotaur</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: Whenever this creature attacks, you may tap target creature. Then you may put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it and this creature.
+	flavor_text: <i-flavor><error-spelling:en_US>Orbisfaber</error-spelling:en_US> keeps its pets in the best condition of any demon, although what that condition is can be quite questionable.</i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Alessandro Bragalini
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

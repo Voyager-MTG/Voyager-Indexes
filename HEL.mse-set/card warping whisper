@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 9
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		https://www.deviantart.com/istrandar/art/Void-1026109472
+		
+		Maybe change Art
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-03-31 16:58:45
+	name: Warping Whisper
+	casting_cost: 1U
+	image: image971
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Shade</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<sym-auto>1</sym-auto>: This creature gets +1/-1 until end of turn.
+	flavor_text: <i-flavor>The sentries of <error-spelling:en_US>Orbisfaber</error-spelling:en_US> scan the coast and cliffs, trying to chase interlopers deeper into the fog where they cannot escape.</i-flavor>
+	power: 0
+	toughness: 4
+	illustrator: Istrander
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

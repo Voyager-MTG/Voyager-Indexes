@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/whiteghul/art/Bro-Now-I-m-sure-we-re-lost-675
+	time_created: 2024-01-21 15:38:58
+	time_modified: 2025-02-11 11:37:10
+	name: Castle Salus’s Catacombs
+	casting_cost: W
+	image: image875
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Castle Salus’s Catacombs</nospellcheck></atom-cardname> enters, create a 2/2 white Zombie creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>.
+		Whenever you gain life for the first time each turn, put a +1/+1 counter on target creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Whiteghul
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

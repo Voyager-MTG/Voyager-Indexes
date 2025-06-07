@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/kuroi-kisin/art/Night-demon-688421904
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-02-13 16:14:51
+	card_color: green
+	name: Predator’s Gaze
+	casting_cost: 1G
+	image: image888
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		When this enchantment enters, enchanted creature <kw-A><nospellcheck><key>fights</key></nospellcheck> up to one target creature you don’t control.<atom-reminder-action> <i-auto>(Each deals damage equal to its power to the other.)</i-auto></atom-reminder-action></kw-A>
+		Enchanted creature gets +1/+0 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kuroi-Kisin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

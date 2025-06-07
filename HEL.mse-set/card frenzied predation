@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/alectorfencer/art/HoD-The-Crow-Eater-804099753
+	time_created: 2022-07-28 13:15:07
+	time_modified: 2024-02-10 19:44:58
+	name: Frenzied Predation
+	casting_cost: BG
+	image: image828
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +3/+3 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		Enchanted creature can’t block.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: AlectorFencer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/loloagain/art/Obsession-682079275 
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2024-01-20 10:52:40
+	card_color: black
+	name: Deathless Ceremony
+	casting_cost: 2B
+	image: image825
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Target player exiles a nontoken creature they control.
+		<kw-A><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>Where they go not even the high Demons know.</i-flavor>
+	illustrator: Chris Cold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

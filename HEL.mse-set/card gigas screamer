@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/b58gE
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-03-31 16:05:21
+	card_color: blue
+	name: Gigas Screamer
+	casting_cost: 5UU
+	image: image958
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Nightmare</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		When this creature enters, draw a card.
+		<sym-auto>2U</sym-auto>, Discard this card: Create two 1/1 blue Merfolk Horror creature tokens. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 5
+	illustrator: Fares Maese
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

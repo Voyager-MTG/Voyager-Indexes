@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/istrandar/art/Confrontation-Commission-863189687
+	time_created: 2023-09-03 17:08:42
+	time_modified: 2025-03-31 19:00:19
+	name: Unholy Communion
+	casting_cost: 2WB
+	image: image1003
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		When this enchantment enters, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.
+		Whenever a creature you control dies, target opponent loses 1 life and you gain 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Istrander
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

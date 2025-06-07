@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/baBPxm
+	time_created: 2022-04-27 11:47:01
+	time_modified: 2025-03-31 18:53:46
+	card_color: green
+	name: Composting Hellion
+	casting_cost: 1G
+	image: image987
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wurm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
+		At the beginning of combat on your turn, you may discard a card or sacrifice another permanent you control. If you do, put a +1/+1 counter on this creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Jakob Bazyluk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

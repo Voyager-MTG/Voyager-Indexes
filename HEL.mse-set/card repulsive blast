@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/thomas-elliott-art/art/Morathi-ascension-861917433
+	time_created: 2022-04-10 00:25:03
+	time_modified: 2025-02-12 15:51:48
+	name: Repulsive Blast
+	casting_cost: RWW
+	image: image882
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		This spell can’t be countered.
+		<atom-cardname><nospellcheck>Repulsive Blast</nospellcheck></atom-cardname> deals 3 damage to each creature. You gain 3 life.
+	flavor_text:
+		<i-flavor>“No more chains!”<soft-line>
+		— Rebuke of <error-spelling:en_US>Bloodlord</error-spelling:en_US> <error-spelling:en_US>Kinnamon</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Thomas_Elliott-Art
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

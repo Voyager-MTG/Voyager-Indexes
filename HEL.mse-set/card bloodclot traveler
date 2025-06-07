@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/B2KWl
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-03-31 17:51:28
+	card_color: red
+	name: Bloodclot Traveler
+	casting_cost: 3RR
+	image: image979
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: When this creature enters, return up to one target instant or sorcery spell from your graveyard to your hand.
+	flavor_text: <i-flavor>All who lays eyes upon it will one day join its mass.</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: ArtDeepMind
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

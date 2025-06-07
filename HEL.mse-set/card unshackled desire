@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.deviantart.com/darkcloud013/art/Winged-Demon-428242537
+		<soft-line>
+		</soft-line>https://www.artstation.com/artwork/Po83RL
+		
+		“Undead are easy to manipulate Bat. No loyalties. Your reliance on them is questionable.”
+		— Demonlord Zeramander to Bloodlord Kinnamon
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-02-05 19:44:43
+	card_color: red
+	name: Unshackled Desire
+	casting_cost: 1R
+	image: image869
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Target creature’s controller may sacrifice it. If they don’t, gain control of it until end of turn. Untap that creature. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	flavor_text:
+		<i-flavor>“You think yourself above us you bat. I see no difference between us. We all do what it takes to come out on top.”<soft-line>
+		—<error-spelling:en_US>Demonlord</error-spelling:en_US> <error-spelling:en_US>Zeramander</soft-line></i-flavor></error-spelling:en_US>
+	power: 
+	toughness: 
+	illustrator: Darkcloud013
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

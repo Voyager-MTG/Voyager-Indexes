@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.deviantart.com/faxtar/art/Fire-Imp-314068493
+		
+		Replace this card for a cheap flyer
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-03-31 16:46:08
+	card_color: blue
+	name: Osavotus’s Pet
+	casting_cost: 3U
+	image: image967
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Imp</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-0><nospellcheck><key>Ward—<param-cost>Pay 2 life</param-cost>.</key></nospellcheck></kw-0> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)</i-auto>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When this creature enters, draw a card.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Osavotus</error-spelling:en_US> told me you would be here. He forgot to mention how dimwitted you are.”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Faxtar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/lx3dNa
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-03-31 15:40:10
+	card_color: blue
+	name: Drag Under
+	casting_cost: 2U
+	image: image952
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Return target creature to its owner’s hand.
+		Draw a card.
+	flavor_text:
+		<i-flavor>“I believe our unexpected guest is having trouble breathing. Let’s make sure we give it some gills, shall we?”<soft-line>
+		—<error-spelling:en_US>Orbisfaber</error-spelling:en_US>, <error-spelling:en_US>Demonlord</error-spelling:en_US> of Perfection</soft-line></i-flavor>
+	illustrator: Vladimir Matyukhin FT
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

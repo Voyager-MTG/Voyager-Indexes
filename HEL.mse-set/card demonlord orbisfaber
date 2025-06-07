@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 12
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		https://www.deviantart.com/vulpes-ibculta/art/Nuckelavee-707906019
+		
+		Topend Finisher/Combo
+		
+		Demonic whispers of the true king, a force beyond their reckoning, will surface. Whispers are but all they are.
+	time_created: 2022-05-11 14:43:03
+	time_modified: 2025-05-24 01:01:01
+	card_color: blue
+	name: Demonlord Orbisfaber
+	casting_cost: 5UU
+	image: image1079
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		As an additional cost to cast this spell, discard your hand. When you do, take an extra turn after this one.
+		<atom-cardname><nospellcheck>Demonlord Orbisfaber</nospellcheck></atom-cardname> can’t be blocked except by three or more creatures.
+	flavor_text: <i-flavor></i-flavor>
+	power: 9
+	toughness: 8
+	illustrator: Vulpes-Ibculta
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

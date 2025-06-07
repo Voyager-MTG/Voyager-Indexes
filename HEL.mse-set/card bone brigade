@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/elemont/art/Undead-Commander-862297399
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-05-06 18:25:25
+	card_color: red
+	name: Bone Brigade
+	casting_cost: R
+	image: image1021
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		When this creature dies, it deals 1 damage to any target.
+		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: EleMont
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes:
+		Art Storage Discord
+		
+		Reanimator/midrange value piece
+	time_created: 2023-09-07 11:34:20
+	time_modified: 2025-01-30 15:46:13
+	special_text:
+		[+1]: <margin:130:0:0>Draw a card unless an opponent discards a card. You lose 1 life.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Target player reveals their hand. You choose a nonland card from it. That player discards that card.</margin:130:0:0>
+		[-5]: <margin:130:0:0>Return target creature card from a graveyard to the battlefield under your control.</margin:130:0:0>
+	name: Davriel, the Pactmaker
+	casting_cost: 1BB
+	image: image858
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Davriel</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	loyalty_cost_1: +1
+	loyalty_cost_2: -2
+	loyalty_cost_3: -5
+	loyalty: 3
+	level_1_text: <margin:130:0:0>Draw a card unless an opponent discards a card. You lose 1 life.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Target player reveals their hand. You choose a nonland card from it. That player discards that card.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Return target creature card from a graveyard to the battlefield under your control.</margin:130:0:0>
+	level_4_text: 
+	illustrator: Jung-Geun Yoon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

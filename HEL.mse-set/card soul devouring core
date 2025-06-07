@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.deviantart.com/chriscold/art/Castle-World-The-Black-Core-713532455
+		
+		arguably too weak
+	time_created: 2021-10-24 23:36:41
+	time_modified: 2025-06-03 07:22:36
+	name: Soul Devouring Core
+	casting_cost: 1W
+	image: image1090
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		If a creature would leave the battlefield, instead exile it and put a charge counter on <atom-cardname><nospellcheck>Soul Devouring Core</nospellcheck></atom-cardname>.
+		<sym-auto>3W</sym-auto>: <atom-cardname><nospellcheck>Soul Devouring Core</nospellcheck></atom-cardname> becomes an X/X Spirit Avatar that is all colors until end of turn, where X is the number of charge counters on it.
+	flavor_text: <i-flavor>A parting gift one thousand years old. Not a soul dares to risk the alternatives.</i-flavor>
+	illustrator: ChrisCold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: https://www.artstation.com/artwork/XX2W3
+	time_created: 2022-04-10 18:25:51
+	time_modified: 2025-02-03 03:01:38
+	card_color: red
+	name: Spitting Hellfire
+	casting_cost: 4R
+	image: image861
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		As an additional cost to cast this spell, you may exile up to four cards from your graveyard. This spell costs <sym-auto>1</sym-auto> less to cast for each card exiled this way.
+		<atom-cardname><nospellcheck>Spitting Hellfire</nospellcheck></atom-cardname> deals 4 damage to target creature or planeswalker.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Hui Ling Chew
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

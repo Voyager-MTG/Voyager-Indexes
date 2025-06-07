@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/kidneytheft/art/They-don-t-always-STAY-dead-372980311
+	time_created: 2024-09-22 20:46:38
+	time_modified: 2024-11-02 19:04:56
+	name: Hallowed Mist
+	casting_cost: XW
+	image: image844
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		Choose X —
+		<li><bullet>• </bullet>Each player sacrifices an artifact.
+		</li><li><bullet>• </bullet>Each player sacrifices an enchantment.
+		</li><li><bullet>• </bullet>Each player sacrifices a creature with power 4 or greater.
+		</li><li><bullet>• </bullet>Each player sacrifices a planeswalker.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: KidneyTheft
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

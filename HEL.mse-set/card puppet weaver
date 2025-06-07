@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 11
+		chop_bottom: 11
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: https://www.deviantart.com/morkardfc/art/Prehistoric-Vampire-641309514
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-03-31 17:22:58
+	card_color: black
+	name: Puppet Weaver
+	casting_cost: B
+	image: image978
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spider</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Whenever this creature attacks, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		This creature has +2/+0 as long as there are eight or more cards in your graveyard.
+	flavor_text: <i-flavor>Undue quickly perked up as the spider snatched the corpse. Somewhere, a treasure trove of bones lay on a silken bed, ripe for the picking.</i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Istrander
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

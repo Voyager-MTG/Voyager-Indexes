@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-14 04:44:28
+	time_modified: 2025-03-07 13:36:20
+	card_color: white, blue, land, horizontal
+	name: Receding Coastline
+	image: image924
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		This land enters tapped unless you have four or fewer other cards in hand.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor>Recoiling stillness and undisturbed dreams.</i-flavor>
+	illustrator: Nele-Diel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

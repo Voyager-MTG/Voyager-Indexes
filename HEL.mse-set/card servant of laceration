@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/kNQwLA
+	time_created: 2022-05-21 22:00:50
+	time_modified: 2025-05-15 22:06:09
+	name: Servant of Laceration
+	casting_cost: 1
+	image: image1069
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Construct</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		When this creature enters, each opponent loses 1 life and you gain 1 life.
+		<sym-auto>3</sym-auto>, Exile this card from your graveyard: Create a tapped 1/1 black Skeleton creature token.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Xabier Urrutia
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

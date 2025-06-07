@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/alradeck/art/Cherub-418467275
+	time_created: 2022-04-27 11:47:01
+	time_modified: 2025-02-16 21:11:17
+	card_color: white
+	name: Blood Heron
+	casting_cost: W
+	image: image909
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>, Sacrifice this creature: Draw a card. Activate only if an opponent has more cards in hand than you.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>With a change in diet came a change in tune, a high pitched echo of a beautiful song.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Alradeck
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

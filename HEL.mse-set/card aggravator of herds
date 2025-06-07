@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.deviantart.com/the-hand/art/Kamataian-Death-Colossus-213854717
+		Creature heavy topened combo / midrange value
+	time_created: 2022-05-11 16:01:58
+	time_modified: 2025-03-31 18:37:49
+	card_color: green
+	name: Aggravator of Herds
+	casting_cost: 3GG
+	image: image986
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: When this creature enters, exile the top five cards of your library. You may cast creature cards exiled this way until the end of your next turn.
+	flavor_text: <i-flavor>Not all demons prefer endless torment. Sometimes, just being the top of the food chain is enough.</i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: The-Hand
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

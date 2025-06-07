@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/vulpes-ibculta/art/Enemy-707906990
+	time_created: 2022-05-11 14:43:03
+	time_modified: 2025-03-13 14:05:45
+	card_color: green
+	name: Demonlord Silfidiae
+	casting_cost: 3GG
+	image: image936
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		As an additional cost to cast this spell, sacrifice a creature. When you do, search your library for up to two land cards and put them onto the battlefield tapped. Then shuffle.
+		<atom-legname><nospellcheck>Demonlord Silfidiae</nospellcheck></atom-legname> can’t be blocked by creatures with power 2 or less.
+	flavor_text: <i-flavor></i-flavor>
+	power: 7
+	toughness: 7
+	illustrator: Vulpes-Ibculta
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

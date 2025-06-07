@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 8
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/dy4mdJ
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-02-24 17:40:10
+	card_color: white
+	name: Bloodguard of Salus
+	casting_cost: 3W
+	image: image917
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Spectacle <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever this creature attacks, tap up to one target creature.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>“This castle is the closest thing I have found to a home. I’d rather bury you than ever let it fall.”</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: ChrisSetra
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

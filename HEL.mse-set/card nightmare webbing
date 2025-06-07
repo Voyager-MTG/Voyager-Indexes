@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/chrisostrowski/art/The-Hidden-Bastion-523050738
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-01-30 16:53:24
+	card_color: green
+	name: Nightmare Webbing
+	casting_cost: 1G
+	image: image859
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Destroy target creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		</li><li><bullet>• </bullet>Create a 2/1 green Spider creature token with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.</li>
+	flavor_text: <i-flavor>When <error-spelling:en_US>Mirumea</error-spelling:en_US> fell from grace, her <error-spelling:en_US>spiderling</error-spelling:en_US> <error-spelling:en_US>Eafem</error-spelling:en_US> capitalized on the absence and entreated a new master, <error-spelling:en_US>Silfidiae</error-spelling:en_US>.</i-flavor>
+	power: 
+	toughness: 
+	illustrator: ChrisOstrowski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

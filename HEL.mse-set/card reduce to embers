@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/chriscold/art/Dying-Embers-3-816416151
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-01-30 13:50:07
+	card_color: red
+	name: Reduce to Embers
+	casting_cost: 2R
+	image: image855
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: <atom-cardname><nospellcheck>Reduce to Embers</nospellcheck></atom-cardname> deals 3 damage to any target. <kw-A><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text:
+		<i-flavor>“You think your embers tickle? I’ll relish the chance to feast on your carcass after I deal with the pests.”<soft-line>
+		<error-spelling:en_US>Morideus’s</error-spelling:en_US> threat</soft-line></i-flavor>
+	illustrator: Chriscold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

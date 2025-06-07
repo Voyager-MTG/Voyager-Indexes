@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/nastya-lehn/art/Welcome-893988755
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-02-05 19:47:07
+	card_color: white
+	name: Welcoming Touch
+	casting_cost: W
+	image: image872
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Target creature you control gets +2/+0 and gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+	flavor_text:
+		<i-flavor>“Do not worry brave warrior, I do not bite those under my protection. You did well.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Fides</error-spelling:en_US>, <error-spelling:en_US>Kinnamon’s</error-spelling:en_US> Right Hand</i-flavor>
+	illustrator: Nastya-Lehn
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

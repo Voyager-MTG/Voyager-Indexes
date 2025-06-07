@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/alaiaorax/art/Devil-773441619
+	time_created: 2021-09-19 08:23:59
+	time_modified: 2025-05-08 08:30:49
+	card_color: green
+	name: Skullcrushing Fiend
+	casting_cost: 2G
+	image: image1039
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<kw-0><nospellcheck><key>Ward—<param-cost>Pay 2 life</param-cost>.</key></nospellcheck></kw-0> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)</i-auto>
+	flavor_text: <i-flavor>Sometimes the best course of action is to get a big friend to do it for you.</i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Davesrightmind
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

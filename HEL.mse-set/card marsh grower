@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-07-28 15:53:11
+	time_modified: 2025-03-31 18:59:06
+	name: Marsh Grower
+	casting_cost: GU
+	image: image999
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Shade</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Whenever you draw a card, this creature gets +1/+1 until end of turn.
+		<sym>2</sym><soft-line>, Sacrifice a creature: Draw a card. Activate only as a sorcery.</soft-line>
+	flavor_text: <i-flavor>A tangled mess of despair and vines.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: AnatoFinnstark
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

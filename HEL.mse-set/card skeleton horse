@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: https://www.deviantart.com/thedurrrrian/art/Fear-the-black-horse-of-famine-488974264
+	time_created: 2024-07-30 22:47:59
+	time_modified: 2025-02-14 21:44:41
+	card_color: green, multicolor
+	name: Skeleton Horse
+	image: image903
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horse</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: X
+	toughness: X
+	illustrator: theDURRRRIAN
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
