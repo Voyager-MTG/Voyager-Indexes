@@ -1,0 +1,54 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: adventure
+		adventure_type: focus
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		You may cast Drougth Attuner as a Focus from your graveyard.
+		Search your library for a basic land card, reveal it, put it into your hand. Then shuffle. (Then put this into your sanctum.)
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-10-14 20:33:03
+	name: Drougth Attuner
+	name_2: Finding Stability
+	casting_cost: 1I
+	casting_cost_2: 1I
+	image: image91
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Instant</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell>Focus</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_3: 
+	rarity: common
+	rule_text: 
+	rule_text_2: Create two 1/1 white and silver Insect creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>. <i-auto>(Then put this into your sanctum.)</i-auto>
+	rule_text_3: 
+	flavor_text: <i-flavor><soft-line>“I’ve heard of these ‘<error-spelling:en_US>Voidstone</error-spelling:en_US> Shards.<error-spelling:en_US>’</error-spelling:en_US> If you really think they can fill in for what you need, I’ll help you.”</soft-line></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: GoldenDruid
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

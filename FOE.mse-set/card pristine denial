@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-23 18:29:54
+	name: Pristine Denial
+	casting_cost: 1UU
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — If you control five or more differently named lands, this spell costs <sym-auto>1</sym-auto> less to cast.
+		Counter target spell. 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Before <error-spelling:en_US>Najael</error-spelling:en_US> could embark on her great journey, she sought the tutelage of the God of the Respite. With it, she emerged with her hope renewed.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Izabela Kaszuba-Marczeska
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

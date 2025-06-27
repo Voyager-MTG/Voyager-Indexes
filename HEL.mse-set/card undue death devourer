@@ -14,14 +14,14 @@ card:
 		
 		hate piece/counters
 	time_created: 2024-07-30 21:20:48
-	time_modified: 2025-02-11 23:35:38
+	time_modified: 2025-06-21 14:35:13
 	special_text:
 		[+1]: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>. You gain 2 life.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target nonland permanent with mana value 2 or less.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Create a */* green Skeleton Horse creature token with “this creature’s power and toughness are each equal to the number of creature cards and planeswalker cards in your graveyard”.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Create a green Skeleton Horse creature token. It has “This creature’s power and toughness are each equal to the number of creature or planeswalker cards in your graveyard.”</margin:130:0:0>
 	name: Undue, Death Devourer
 	casting_cost: 1WBG
-	image: image879
+	image: image448
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -35,7 +35,7 @@ card:
 	loyalty: 4
 	level_1_text: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>. You gain 2 life.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Exile target nonland permanent with mana value 2 or less.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>Create a */* green Skeleton Horse creature token with “this creature’s power and toughness are each equal to the number of creature cards and planeswalker cards in your graveyard”.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Create a green Skeleton Horse creature token. It has “This creature’s power and toughness are each equal to the number of creature or planeswalker cards in your graveyard.”</margin:130:0:0>
 	level_4_text: 
 	level_5_text: 
 	illustrator: mzrkart

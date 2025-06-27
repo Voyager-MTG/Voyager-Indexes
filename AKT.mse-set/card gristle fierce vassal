@@ -1,0 +1,61 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		dfc_type: modal with custom flags
+		shrink_back_typeline_text: 
+		other_options: use hovering pt, use holofoil stamps, unindent nonloyalty abilities, auto nyx crowns, automate type frames
+		level_1_chop: 0,8,
+		level_5_chop: 0,8,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		OTHERRARE
+		NOBLERARECYC
+		WEREWOLFTYPE
+		NOBLECYC
+	time_created: 2024-07-13 06:37:03
+	time_modified: 2024-09-25 18:51:24
+	extra_data:
+		magic-m15-mainframe-dfc:
+			back_type_hint: 5/5 Noble
+			back_color_hint: <sym>2RRG</sym>
+			front_type_hint: 3/4 Human
+			front_color_hint: <sym>2RGG</sym>
+	name: Gristle, Fierce Vassal
+	name_2: Gristlethark, Godsire
+	casting_cost: 2RGG
+	casting_cost_2: 2RRG
+	image: image125.png
+	image_2: image_213.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Werewolf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-race-en>Werewolf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Bisapience</key></nospellcheck> <sym>7</sym><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-cardname><nospellcheck>Gristle, Fierce Vassal</nospellcheck></atom-cardname> enters or attacks, draw a card for each transformed permanent you control.
+	rule_text_2:
+		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0>—Discard a card.
+		<kw-0><nospellcheck><key>Trample</key></nospellcheck></kw-0>
+		Whenever <atom-cardname><nospellcheck>Gristlethark, Godsire</nospellcheck></atom-cardname> enters or attacks, double the power of another target creature you control until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 3
+	power_2: 5
+	toughness: 4
+	toughness_2: 5
+	illustrator: GreyHues (Edited)
+	illustrator_2: J Humphries
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

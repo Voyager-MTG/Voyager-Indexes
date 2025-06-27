@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		Focu s — G/U, Put this card from your hand into your sanctum: Dig 3 for an Elf card.
+		
+		Multicolor
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-04-09 23:30:07
+	name: Kaln-Ocean Harmonizer
+	casting_cost: 1GU
+	image: image177
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		Other Humans and Elves you control have <kw-0><nospellcheck><key>ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0> and get +1/+0.
+		Tap three untapped creatures you control: Draw a card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The half elves of <error-spelling:en_US>Vinimroth</error-spelling:en_US> had an unprecedented connection with the natural, and the ancient elves were elated.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Asur Misoa
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

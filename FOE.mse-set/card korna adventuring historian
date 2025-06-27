@@ -1,0 +1,52 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: star
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !exportname Korna Adventuring Historian
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-20 01:13:50
+	name: Korna, Adventuring Historian
+	casting_cost: 3RW
+	image: image363
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Wurm</word-list-enchantment><atom-sep> </atom-sep><word-list-enchantment>Entity</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Materialize <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap any number of other enchantments you control with total mana value <param-number>2</param-number> or more: This becomes a creature in addition to its other types until your next upkeep.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
+		Once each turn, whenever a spell or ability puts a card into your hand, create a 2/2 white Wurm creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 6
+	toughness: 6
+	illustrator: Peter-Ortiz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

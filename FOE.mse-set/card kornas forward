@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !exportname Kornas Forward
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-11-02 22:11:21
+	name: Korna’s Forward
+	casting_cost: 2I
+	image: image237
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wurm</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key>Ward—<param-cost>Pay 2 life</param-cost>.</key></nospellcheck></kw-0>
+		When this creature enters, it deals damage to any noncreature target equal to the number of tokens you control. <i-auto>(Players aren’t creatures.)</i-auto>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The report was grim but clear. Marie was stronger now than when they first encountered her. The endless dead proved that.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: ALRadeck on Deviantart
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

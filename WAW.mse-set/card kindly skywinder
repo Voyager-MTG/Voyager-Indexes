@@ -11,7 +11,9 @@ card:
 		shrink_font_size: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !exportname Kindly Skywinder Token;
+	notes:
+		!exportname Kindly Skywinder Token;
+		!related Kindly Skywinder;
 	time_created: 2024-12-08 12:24:23
 	time_modified: 2025-01-30 22:48:10
 	card_color: white

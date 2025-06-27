@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !related Soul Splintering;
+	time_created: 2024-10-16 22:23:14
+	time_modified: 2025-06-15 21:09:18
+	card_color: white, silver, multicolor, horizontal
+	name: Icon
+	image: image433
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Enchantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Icon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	power: *
+	toughness: *
+	illustrator: Bastien Grivet
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

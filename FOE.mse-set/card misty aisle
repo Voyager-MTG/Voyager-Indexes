@@ -1,0 +1,57 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		frames: lesson
+		altered_plus_frames: path, backdfc
+		name_color: white
+		typeline_color: white
+		custom_symbol: abstract-061.png
+		other_options: 
+		use_holofoil_stamps: no
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!related Tiderock Passageattach>;
+		Note:Backside
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-10-14 21:22:32
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal back
+			smallbox_text: 
+	card_color: blue
+	name: Misty Aisle
+	casting_cost: 
+	image: image272
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: Whenever you attack, <kw-A><nospellcheck><key>sift <param-number>2</param-number></key></nospellcheck>.<atom-reminder-expert> <i-auto>(Look at the top <param-number>two</param-number> cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Passage through the sanctum gave <error-spelling:en_US>Najael</error-spelling:en_US> the insight she needed to learn divination; A power that warned her of Marie’s next attack.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Nathanael Mortensen
+	custom_card_number: 067b
+	card_code_text: • Story Spotlight
+	copyright: 
+	copyright_2: 
+	copyright_3: 

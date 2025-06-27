@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !related Bitter Inspection;Cervus Sprouting;Clanless Combatant;Coalesced Company;Crystalline Refraction;Cydina Storm Drake;Disciple of the Thicket;Fadove Lawkeeper;Foolish Footing;Gripping Truths;Howling Gasp;Kaln-Ocean Streamliner;Keras Appointed;Lizturbance;Lost Sunset;Meirel Evacuator;Meirel Explorer;Migratory Flotilla;Moonscale Koi;Mordel Flamespeaker;Perspective Shift;Prismatic Weasel;Soul of Vinimroth;Voice of the Thicket;Your Strength is Fading;
+	time_created: 2021-10-06 15:39:08
+	time_modified: 2024-03-25 20:10:33
+	card_color: blue
+	name: Illuminated Blue
+	image: image200
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Reminder</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	rarity: special
+	rule_text: If you control four or more blue permanents, you’ve illuminated blue for the rest of the game.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Marischa Becker
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Tvpattack
+	copyright_2: Tvpattack
+	copyright_3: Tvpattack

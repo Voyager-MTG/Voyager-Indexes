@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: clear
+		altered_plus_frames: star
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/ykA99
+	time_created: 2023-10-13 21:24:47
+	time_modified: 2025-03-22 16:31:08
+	name: Forgiving Monument
+	casting_cost: 3
+	image: image381
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text:
+		When this enchantment enters, search your library for a colorless card not named <atom-cardname><nospellcheck>Forgiving Monument</nospellcheck></atom-cardname>, reveal it, put it into your hand, then shuffle.
+		At the beginning of your first main phase, add <sym-auto>CC</sym-auto>. You can’t spend this mana to cast spells that aren’t mana value 5 or greater.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Christopher Balaskas
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

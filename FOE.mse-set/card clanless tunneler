@@ -1,0 +1,55 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag clanless;
+		watch during testing
+		
+		FT: After the collapse of the cities of Uth and Multa, many chose to live in the outlands as clanless refugees to avoid conflict.
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-23 18:30:04
+	name: Clanless Tunneler
+	casting_cost: 3W
+	image: image285
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wurm</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — When this creature attacks, if you control five or more differently named lands, create a 1/1 white Wurm creature token that can’t block.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>After the collapse of the cities of <error-spelling:en_US>Uth</error-spelling:en_US> and <error-spelling:en_US>Multa</error-spelling:en_US>, many chose to live in the <error-spelling:en_US>outlands</error-spelling:en_US> as <error-spelling:en_US>clanless</error-spelling:en_US> refugees to avoid conflict.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Rafal Badan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

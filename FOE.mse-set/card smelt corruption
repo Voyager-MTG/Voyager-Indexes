@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-04-09 00:49:36
+	special_text: 
+	name: Smelt Corruption
+	casting_cost: 2RR
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: <atom-cardname><nospellcheck>Smelt Corruption</nospellcheck></atom-cardname> deals 5 damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target. Destroy all artifacts attached to that permanent.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>“Heed my warning <error-spelling:en_US>Heng</error-spelling:en_US>,” said <error-spelling:en_US>Tezzeret</error-spelling:en_US>. “This is a relic of old <error-spelling:en_US>Phyrexia</error-spelling:en_US>. New <error-spelling:en_US>Phyrexia</error-spelling:en_US> does not die.”</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_2_text: <i-flavor></i-flavor>
+	illustrator: Mathias Hermier
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

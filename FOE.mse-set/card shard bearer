@@ -1,0 +1,55 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: star
+		other_options: pokemon evobar, auto nyx crowns
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-11-03 01:55:54
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: 
+	name: Shard Bearer
+	alias: This card can start in your sanctum.                             
+	casting_cost: 1G
+	image: image69
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-0><nospellcheck><key>Reach</key></nospellcheck></kw-0>
+		<kw-0><nospellcheck><key>Healing <param-number>1</param-number></key></nospellcheck></kw-0>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>With <error-spelling:en_US>Roduth’s</error-spelling:en_US> aid, <error-spelling:en_US>Multaph</error-spelling:en_US> helped shape an Icon to discover and return shards of the planar portal.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Ryan Thompson.
+	card_code_text: • Story Spotlight
+	card_code_text_2: • Story Spotlight
+	card_code_text_3: • Story Spotlight
+	copyright: 
+	copyright_2: 
+	copyright_3: 

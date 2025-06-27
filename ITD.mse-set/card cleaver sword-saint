@@ -12,8 +12,7 @@ card:
 	time_created: 2024-10-12 14:13:41
 	time_modified: 2024-10-15 17:01:24
 	extra_data:
-		magic-m15-altered:
-			vorthos_box: he/him
+		magic-m15-altered: vorthos_box: he/him
 	name: Cleaver, Sword-Saint
 	casting_cost: 2B
 	image: image118

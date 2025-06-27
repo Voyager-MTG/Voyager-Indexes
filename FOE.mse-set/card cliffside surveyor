@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-10-31 21:28:04
+	name: Cliffside Surveyor
+	casting_cost: 3UU
+	image: image304
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
+		Whenever you attack, draw a card, then put a card in your hand into your sanctum.
+		You may cast instant and sorcery cards from your sanctum on any turn you drew two or more cards.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Royz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

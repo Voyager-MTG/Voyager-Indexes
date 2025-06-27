@@ -1,0 +1,59 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: -7
+		font_cap: 
+		frames: clear
+		altered_plus_frames: 
+		name_color: default
+		typeline_color: default
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-01-05 17:56:58
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal back
+			front_type_hint: 
+			front_color_hint: 
+	name: Lasting Discovery
+	casting_cost: X
+	image: image376
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		Create a creature token equal to</sym> X.<sym>
+		<b>1 </b>| 0/3 white Fox
+		<b>2 </b>| 2/1 black Lizard with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>
+		<b>3 </b>| 3/3 green Beast
+		<b>4 </b>| 4/4 blue Dragon Eye with <kw-0><nospellcheck><key>trample</key></nospellcheck></kw-0>
+		<b>5 </b>| 5/5 silver Mongoose with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
+		<b>6+</b>| X/X red Wurm
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Sam Flegal
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

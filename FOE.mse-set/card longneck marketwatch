@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag deinomarket;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-06-15 19:01:48
+	name: Longneck Marketwatch
+	casting_cost: 4WU
+	image: image463
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-A><nospellcheck><key>ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>3</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
+		Non-Advisor creatures with mana value 5 or greater can’t attack.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Earl Lan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

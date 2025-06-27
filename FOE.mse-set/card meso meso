@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-22 16:38:28
+	extra_data:
+		magic-m15-dungeons-beta: false_floor: 
+	name: Meso Meso
+	casting_cost: W
+	image: image444
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Angel</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Orb</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		Whenever this creature attacks, <kw-A><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-expert> <i-auto>(Look at the top card of your library. You may put it into your sanctum.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“A species unlike anything on <error-spelling:en_US>Vinimroth</error-spelling:en_US>, it looks like its made of metal! I’ll need to get <error-spelling:en_US>Korna</error-spelling:en_US> to help me study these.”<soft-line>
+		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Tristan Delgado
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

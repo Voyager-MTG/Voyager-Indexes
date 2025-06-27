@@ -10,7 +10,9 @@ card:
 		shrink_font_size: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !exportname Cloudeater Drake token;
+	notes:
+		!exportname Cloudeater Drake token;
+		!related Cloudeater Drake;
 	time_created: 2024-12-08 12:24:23
 	time_modified: 2025-01-28 20:08:52
 	name: Cloudeater Drake

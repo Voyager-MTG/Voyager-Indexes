@@ -21,6 +21,7 @@ card:
 		!related Rift Tender;Avlod Mistshaper;Giants Blade;Multaphs Respites Spellbook;Avlod Watchers;Outlands Riftbearer;<soft-line>
 		</soft-line>!token
 		!conjured
+		!tag avlod;
 	time_created: 2021-11-14 03:36:21
 	time_modified: 2025-03-01 15:28:25
 	name: Subdued Rift

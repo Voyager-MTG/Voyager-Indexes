@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		watch in testing
+		>one less to activate
+		!tag fadove;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-04-22 23:54:52
+	name: Fadove Lawkeeper
+	casting_cost: 1W
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(If you control at least four permanents of a color, illuminate that color this game.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Tap target creature. This ability costs <sym-auto>3</sym-auto> less to activate if you’ve illuminated white.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Luke Fitzsimons
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

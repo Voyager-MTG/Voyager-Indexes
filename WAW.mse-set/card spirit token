@@ -9,7 +9,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		center_text: always
 		overlay: 
-	notes: 
+	notes: !related Memory of Home; Shapes in the Pools; Corrupted Wish; Remain Steady; Excess of Potential; Wish for Destruction; Wish for Power;
 	time_created: 2025-01-28 12:47:14
 	time_modified: 2025-01-28 17:55:34
 	card_color: black

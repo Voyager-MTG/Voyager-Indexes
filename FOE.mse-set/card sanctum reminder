@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: tall, M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !related Avlod Pathshaper;Bearer of Change;Breach of Malice;Breach of Mortality;Breach of Nature;Breach of Protection;Breach of Sanity;Breach of the Unknown;Crumbling Forest;Crumbling Island;Crumbling Mountain;Crumbling Plains;Crumbling Swamp;Dusted Spire;Eternities Weaver;Fadove Pathwarden;Fadove Reinforcement;Guardian Roost;Keeper of Faloden Woods;Mordel Combatant;Mordel Razer;Mordel Reinforcement;Outlands Guardian;Outlands Pathwarden;Outlands Traveller;Path of Insight;Path of Revival;Path of the Brood;Path of the Grove;Path of the Mighty;Path of the Proud;Path of the Rift;Path of the Roost;Path to Ages;Path to Restoration;Pathborn Aggression;Pathborn Drake;Pathbound Bloom;Pathbound Drake;Paths Strider;Restored Forest;Restored Island;Restored Mountain;Restored Plains;Restored Swamp;Rip to Today;Unstable Rift;Verem-Volcano Keeper;Flashing Path;Shimmering Path;
+	time_created: 2022-01-17 01:15:05
+	time_modified: 2024-12-08 00:17:31
+	card_color: white, blue, black, red, green, silver, artifact, multicolor, horizontal
+	name: Sanctum Reminder
+	image: image172
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	rarity: special
+	rule_text:
+		Before the game starts, place your sanctum here face down. <b><u>This is not an ordered deck.</u></b> You can look at your sanctum at any time.
+		Your sanctum consists of up to seven basic land cards and unique nonbasic cards that can start in the sanctum. 
+		You may sideboard to add or remove cards from your sanctum as long as they are all unique or are basic lands.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Nele Diel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: tvpattack
+	copyright_2: tvpattack
+	copyright_3: tvpattack

@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: star
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/6N5oQW
+	time_created: 2023-10-13 21:24:47
+	time_modified: 2024-10-03 23:55:49
+	name: Boundless Hollow
+	casting_cost: 3BB
+	image: image329
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: Whenever exactly one or two creatures you control attack, up to one target creature gets +2/+2 and gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn, and up to one target creature gets +2/+2 and gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Laszlo Pinter (Las Pinter)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

@@ -1,0 +1,54 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		font_cap: 
+		frames: clear, adventure
+		adventure_type: focus
+		altered_plus_frames: 
+		popout_image_style: 
+		level_offset: 
+		level_label:
+			 
+		level_containers: arrows
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !alt
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-22 16:24:49
+	name: A Flock is Born
+	name_2: Winged Guide
+	casting_cost: 5
+	casting_cost_2: 2
+	image: image442
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell>Focus</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_3: 
+	rarity: rare
+	rule_text: Create three 1/1 black Bird creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	rule_text_2: Search your library for a basic land card, reveal it, put it into your hand. Then shuffle. Create a 1/1 black Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. <i-auto>(Then put this into your sanctum.)</i-auto>
+	rule_text_3: 
+	flavor_text: <i-flavor>And thus, <error-spelling:en_US>Jothi</error-spelling:en_US> found his first flock.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1: 
+	illustrator: windfalcon on Deviantart
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-04-23 00:22:29
+	time_modified: 2024-04-23 00:49:00
+	name: Outfoxed
+	casting_cost: 2W
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: <atom-cardname><nospellcheck>Outfoxed</nospellcheck></atom-cardname> deals 4 damage to target attacking or blocking creature. Create a 1/1 white Fox creature token if you controlled an enchantment as you cast this spell.
+	flavor_text: <i-flavor>The trespassers never seem to notice the signs that they’re being lead into a trap.</i-flavor>
+	illustrator: dagmara-matuszak-lis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

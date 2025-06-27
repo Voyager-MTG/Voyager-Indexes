@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: REDRARE
+	time_created: 2024-06-25 15:04:31
+	time_modified: 2025-01-31 20:49:36
+	name: Empathystorm
+	casting_cost: 2RR
+	image: image144.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Ward—<param-cost>Sacrifice a nontoken permanent</param-cost>.</key></nospellcheck></kw-0>
+		At the beginning of your end step, choose left or right. Starting with you, each player looks at the hand of the nearest opponent in the chosen direction and may cast a card from that hand without paying its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: AlectorFencer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

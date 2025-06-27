@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 12
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-02-06 01:56:27
+	time_modified: 2024-11-02 22:11:01
+	name: Meirel Pathrunner
+	casting_cost: 4UB
+	casting_cost_2: 
+	image: image179
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		When this creature enters, <kw-0><nospellcheck><key>surveil <param-number>3</param-number></key></nospellcheck></kw-0>.
+		<kw-0><i-auto><nospellcheck><key>Threshold</key></nospellcheck></i-auto></kw-0> — As long as there are seven or more cards in your graveyard, this creature gets +3/+3.
+		<kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>1U/B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 4
+	power_2: 
+	toughness: 4
+	toughness_2: 
+	illustrator: Jay Axer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

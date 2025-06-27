@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: adventure
+		adventure_type: focus
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-06-10 19:53:15
+	name: Crystalline Cover
+	name_2: Tesselation
+	casting_cost: U
+	casting_cost_2: U
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en>Instant</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: <word-list-spell>Focus</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		Equipped creature gets +0/+1 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
+	rule_text_2: Target creature you control gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn. <i-auto>(Then put this into your sanctum.)</i-auto>
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: F3LC4T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

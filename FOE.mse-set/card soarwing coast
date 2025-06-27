@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		frames: 
+		altered_plus_frames: frontier
+		other_options: pokemon evobar, auto nyx crowns
+		use_holofoil_stamps: no
+		remove_from_autocount: yes
+		alt_rarity_color: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-02-13 18:02:26
+	time_modified: 2024-12-08 23:04:54
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: 
+	name: Soarwing Coast
+	alias: This card can start in your sanctum.                             
+	image: image116
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Frontier</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Exile three cards from your graveyard and sacrifice this land: Create a 2/2 white Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. Activate only as a sorcery.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Untamed and defiant, the <error-spelling:en_US>Carrigol</error-spelling:en_US> drakes fly a concert for those who watch.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Peter Ortiz
+	custom_card_number: 0028
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

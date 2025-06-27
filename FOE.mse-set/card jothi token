@@ -1,0 +1,56 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 5
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: frameless art
+		altered_plus_frames: token
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!related Jothi;
+		!exportname Jothi-01
+	time_created: 2023-08-31 23:48:04
+	time_modified: 2025-03-22 18:17:30
+	extra_data:
+		magic-m15-mainframe-tokens: vorthos_box: He/Him
+	name: Jothi Token
+	casting_cost: 1W
+	image: image446
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jothi</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, put a +1/+1 counter on up to one target creature.
+		<sym-auto>+1</sym-auto>: Target creature you control gets +1/+1 until end of turn. If it entered this turn, put a +1/+1 counter on it.
+		<sym-auto>-4</sym-auto>: Create a token that’s a copy of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jothi</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, except it’s not legendary, doesn’t enter with loyalty counters and is a 1/1 Bird creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Dasom Hyun, Edited by TVP
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

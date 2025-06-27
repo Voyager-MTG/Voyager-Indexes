@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		REDUNCOMMON
+		UR11
+	time_created: 2022-11-07 16:05:19
+	time_modified: 2023-12-21 23:01:44
+	name: Trounce
+	casting_cost: 2RR
+	image: image174
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		This spell can’t be countered if it has exactly one target.
+		<atom-cardname><nospellcheck>Trounce</nospellcheck></atom-cardname> deals 4 damage divided among one or two targets.
+	flavor_text:
+		<i-flavor>“<error-spelling:en_US>Callwolves</error-spelling:en_US>? More like cockroaches.”<soft-line>
+		—<error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Zsolt Ruzsinszki
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

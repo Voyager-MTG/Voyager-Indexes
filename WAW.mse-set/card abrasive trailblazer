@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: !tokens Wonder Token;
+	notes: 
 	time_created: 2024-12-07 15:26:25
 	time_modified: 2025-03-18 16:48:44
 	name: Abrasive Trailblazer

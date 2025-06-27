@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITECOMMON
+		CW03
+		
+		HEXTYPE
+	time_created: 2022-10-11 12:08:59
+	time_modified: 2025-03-31 03:22:24
+	name: Heterodox Scholar
+	casting_cost: 1W
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Hex</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: Whenever <atom-cardname><nospellcheck>Heterodox Scholar</nospellcheck></atom-cardname> attacks, target creature you control with lesser power gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Erys</error-spelling:en_US> provided us humble ones with the ability to not be a parasite. It is now immoral to be <error-spelling:en_US>hexkin</error-spelling:en_US>.”</i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Shahab Alizadeh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

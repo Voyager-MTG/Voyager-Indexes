@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2024-04-02 00:15:45
+	time_modified: 2025-06-15 16:20:22
+	name: Parallellism
+	casting_cost: 2I
+	image: image455
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Tapped creatures can block.
+		Untapped creatures can’t block.
+	flavor_text:
+		<i-flavor>Entering changes who you are.<soft-line>
+		Leaving changes what you are.</soft-line></i-flavor>
+	illustrator: Alex  Andreev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

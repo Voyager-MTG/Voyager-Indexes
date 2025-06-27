@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: !exportname Willbournes Flame
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-05-05 00:01:50
+	name: Willbourne’s Flame
+	casting_cost: 1R
+	image: image53
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: <atom-cardname><nospellcheck>Willbourne’s Flame</nospellcheck></atom-cardname> deals 3 damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target. If you control a red permanent, it deals 4 damage to that target instead.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor><error-spelling:en_US>Willbourne</error-spelling:en_US> was born of the scars <error-spelling:en_US>Urza</error-spelling:en_US> wrought upon the world. Every fire he sparks is a grim reminder.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: elgrimlock
+	card_code_text: Story Spotlight
+	card_code_text_2: Story Spotlight
+	card_code_text_3: Story Spotlight
+	copyright: 
+	copyright_2: 
+	copyright_3: 

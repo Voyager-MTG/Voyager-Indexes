@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: hands
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		ARCUNSET2
+		OTHERUNCOMMON
+		WIZARDTYPE
+	time_created: 2023-01-08 16:33:51
+	time_modified: 2024-01-13 04:14:49
+	card_color: blue, red, multicolor, horizontal
+	name: Grand Breakthrough
+	casting_cost: 4UR
+	image: image127
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Instant</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Grand Breakthrough</nospellcheck></atom-cardname> deals 3 damage to each opponent. Draw three cards.
+		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-legname><nospellcheck>Grand Breakthrough</nospellcheck></atom-legname> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Wizard you control dealt damage to an opponent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

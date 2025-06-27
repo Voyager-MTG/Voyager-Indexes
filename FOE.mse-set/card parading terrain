@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: clear
+		altered_plus_frames: star
+		popout_image_style: 
+		other_options: pokemon evobar, auto nyx crowns
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-06-10 20:12:42
+	time_modified: 2024-11-03 01:56:06
+	name: Parading Terrain
+	alias: This card can start in your sanctum.                             
+	casting_cost: 2
+	image: image195
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Echantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Icon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		When <atom-cardname><nospellcheck>Parading Terrain</nospellcheck></atom-cardname> enters, choose one—
+		<li><bullet>• </bullet>Search your library for a basic land card.
+		</li><li><bullet>• </bullet>Choose a land card from your sanctum.
+		<margin:0:0:5></li>Reveal it, shuffle, then put that card on top of your library.</margin:0:0:5>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Dominik Mayer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

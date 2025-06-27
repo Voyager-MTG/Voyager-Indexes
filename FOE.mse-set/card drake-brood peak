@@ -1,0 +1,57 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: lesson
+		altered_plus_frames: path, backdfc
+		name_color: white
+		typeline_color: white
+		popout_image_style_3: 
+		other_options: auto nyx crowns
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		Note:Backside
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-10-01 23:07:46
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal back
+			smallbox_text: 
+	card_color: black
+	name: Drake-Brood Peak
+	casting_cost: 
+	image: image318
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: Once each turn, whenever a nontoken creature dies, create a 1/1 black Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Within the realm, the vulturous drakes guarantee the dead are remain <error-spelling:en_US>unburied</error-spelling:en_US>.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Nele Diel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

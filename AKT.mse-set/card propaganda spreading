@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: hands
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		COMMONKINDREDCYCLE
+		CB19
+		BLACKCOMMON
+		HUMANTYPE
+		CITIZENTYPE
+	time_created: 2022-06-10 23:08:54
+	time_modified: 2024-10-29 11:15:31
+	name: Propaganda Spreading
+	casting_cost: 3B
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		At the beginning of your upkeep, <atom-cardname><nospellcheck>Propaganda Spreading</nospellcheck></atom-cardname> deals 1 damage to each opponent and you gain 1 life.
+		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-legname><nospellcheck>Propaganda Spreading</nospellcheck></atom-legname> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Human or Advisor you control dealt damage to an opponent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: JungSung Kim
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

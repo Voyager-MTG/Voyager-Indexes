@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		ARCUNSET2
+		OTHERUNCOMMON
+		CITIZENTYPE
+	time_created: 2023-01-08 16:33:51
+	time_modified: 2024-06-10 02:45:56
+	card_color: black, green, multicolor, horizontal
+	name: Overworked Conditions
+	casting_cost: BG
+	image: image120
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		At the beginning of your upkeep, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		At the beginning of your end step, you may exile three cards in your graveyard. If there are three or more card types among cards exiled this way, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mingchen Zhen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

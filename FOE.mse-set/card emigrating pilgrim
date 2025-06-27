@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		altered_plus_frames: star
+		other_options: pokemon evobar, auto nyx crowns
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-11-03 09:16:05
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: 
+	name: Emigrating Pilgrim
+	alias: This card can start in your sanctum.                             
+	casting_cost: 3I
+	image: image94
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: This spell costs <sym-auto>1</sym-auto> less to cast if your opponent lost life this turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>With the paths open, there was nothing left to do but explore them.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Anato Finnstark
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

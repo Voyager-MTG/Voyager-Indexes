@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKUNCOMMON
+		HUMANTYPE
+		SOLDIERTYPE
+		UB01
+	time_created: 2023-09-07 23:42:37
+	time_modified: 2024-10-30 00:45:16
+	card_color: black
+	name: Percival’s Chosen
+	casting_cost: B
+	image: image9.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Zombie</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Percival’s Chosen</nospellcheck></atom-cardname> enters tapped.
+		When <atom-cardname><nospellcheck>Percival’s Chosen</nospellcheck></atom-cardname> dies, <kw-0><nospellcheck><key>embrace</key></nospellcheck></kw-0> it. <i-auto>(Exile it. You may play it on a later turn that a Human, Zombie, or Soldier you control dealt damage to an opponent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: TyphonArt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

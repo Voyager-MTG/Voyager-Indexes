@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-battles
+	stylesheet_version: 2025-01-21
+	has_styling: false
+	notes:
+		!related Kera, Mordel’s New Hope;
+		!addtoken Kera, Mordel’s New Hope;transform;
+		!tag fascism;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-06-08 17:53:53
+	extra_data:
+		magic-m15-altered-plus: corner: modal front
+	name: Mordel Civil War
+	casting_cost: 2R
+	transformation: front triangle
+	image: image409
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-battle>Siege</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<i-auto>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, cast it transformed.)</i-auto>
+		When <atom-cardname><nospellcheck>Mordel Civil War</nospellcheck></atom-cardname> enters, it deals 4 damage to any other <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	loyalty: 6
+	power: 
+	toughness: 
+	illustrator:
+		 Nuare Studio Inc.
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

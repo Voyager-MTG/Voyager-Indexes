@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_textboxes: two
+		chapter_divider_coordinates: 260,
+		other_options: 
+		chapter_number_coordinates: 169,219,315,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: POLITICSCYCLE
+	time_created: 2023-12-16 16:24:44
+	time_modified: 2024-10-04 02:14:12
+	special_text:
+		<i>“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urdonic</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> strength protects Ur’s creation. Your weakness is <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Akella’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> health.”<soft-line>
+		</soft-line></i>—<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Novablast</i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		I, II — Destroy target creature with the least power or tied for the least.
+		III — If you control a creature, and you control the creature with the greatest power or tied for it, you draw two cards and you lose 2 life.
+		​
+	name: Novablast’s Worldview
+	casting_cost: 1BB
+	image: image53.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	chapter_text:
+		<i>“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urdonic</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> strength protects Ur’s creation. Your weakness is <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Akella’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> health.”<soft-line>
+		</soft-line></i>—<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Novablast</i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: Destroy target creature with the least power or tied for the least.
+	level_2_text: If you control a creature, and you control the creature with the greatest power or tied for it, you draw two cards and you lose 2 life.
+	level_3_text: ​
+	illustrator: Ilya Popov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

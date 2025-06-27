@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-04-25 01:35:06
+	time_modified: 2024-10-15 00:00:14
+	name: Fly Away With Me
+	casting_cost: 1U
+	image: image34
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Return target nonland permanent to its owner’s hand. Create a 1/1 blue Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>We’ll soar the night skies, dive into the paths, and sail the rest of our life together.</i-flavor>
+	illustrator: Tivuel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		ARCUNSET1
+		OTHERUNCOMMON
+		CITIZENTYPE
+	time_created: 2023-01-08 16:33:51
+	time_modified: 2024-11-29 02:53:55
+	name: Sewer Consultant
+	casting_cost: 3BG
+	image: image117
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Sewer Consultant</nospellcheck></atom-cardname> attacks, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
+		Whenever another Citizen card is put into your graveyard from anywhere, put a +1/+1 counter on target creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Regin Wellender
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

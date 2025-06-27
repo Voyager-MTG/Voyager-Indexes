@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: star
+		popout_image_style: 
+		other_options: pokemon evobar, auto nyx crowns
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-04-25 01:22:23
+	time_modified: 2024-11-03 09:06:34
+	name: Migratory Flotilla
+	alias: This card can start in your sanctum.                             
+	casting_cost: 3U
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Whale</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		When this creature enters, target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		<kw-A><i-auto><nospellcheck><key>Threshold</key></nospellcheck></i-auto></kw-A> — At the beginning of combat on each players turn, if you have seven or more cards in your graveyard, this creature gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Riccardo Gualdi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

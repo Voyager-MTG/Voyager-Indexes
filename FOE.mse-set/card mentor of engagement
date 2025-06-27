@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		frames: 
+		altered_plus_frames: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !tag clanless;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-23 18:30:09
+	name: Mentor of Engagement
+	casting_cost: 5W
+	image: image289
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wurm</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key>Vigilance</key></nospellcheck></kw-0>
+		<kw-0><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-0> — Whenever this creature attacks, if you control five or more differently named lands, you may set other creatures you control to size 3/3 until end of turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>After the <error-spelling:en_US>Vinimroth</error-spelling:en_US> war ended, many of the <error-spelling:en_US>Wurms</error-spelling:en_US> previously conscripted chose to teach the <error-spelling:en_US>clanless</error-spelling:en_US> in protest of clan <error-spelling:en_US>Mordel</error-spelling:en_US>.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 4
+	toughness: 6
+	illustrator: miso_kiccck on twoucan.com
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

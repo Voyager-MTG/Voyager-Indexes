@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		dfc_type: transforming
+		front_style: normal
+		other_options: pokemon evobar
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!related Polychromatic Peaksattach>;
+		!addtoken Polychromatic Peaks;transform;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-06-11 20:15:59
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal front
+			smallbox_text: 
+	name: Wind Worn Peaks
+	name_2: Polychromatic Peaks
+	alias: This card can start in your sanctum.                             
+	alias_2: 
+	casting_cost: 1
+	image: image2
+	image_2: image_22.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Draw a card, then discard a card. Add one mana of any type.
+		<i><kw-A><i-auto><nospellcheck><key>Explorer</i></key></nospellcheck></i-auto></kw-A> — <sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Transform this realm. Activate only if you control five or more differently named lands.
+	rule_text_2: When this realm transforms and at the beginning of your first main phase, you may discard a card to draw a card. Add one mana of any type.
+	rule_text_3: 
+	flavor_text: <i-flavor>“This is why I wanted to take a drake with us!” yelled an exhausted <error-spelling:en_US>Melodia</error-spelling:en_US>.</i-flavor>
+	flavor_text_2: <i-flavor>Long after their trek, the peaks began to shudder. An ancient secret revealed itself, patiently waiting to be discovered.</i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: olabukoo
+	illustrator_2: Lazlo Pinter
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!porthole
+		!tag champions
+		!tag championkogane
+		!tag kogane
+	time_created: 2025-06-18 11:54:25
+	time_modified: 2025-06-21 15:07:20
+	name: Drifting Field
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: masterpiece
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>. You lose 1 life unless you control a white permanent.
+		<kw-0><nospellcheck><key>Exhaust — <param-cost><sym-auto>T</sym-auto></param-cost>: <param-action>Choose a color. </param-action></key></nospellcheck></kw-0>
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Limbus Company
+	card_code_text: GP1 — Kogane
+	card_code_text_2: 
+	card_code_text_3: 

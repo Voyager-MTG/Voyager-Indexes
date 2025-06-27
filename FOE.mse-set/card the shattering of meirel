@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		font_cap: 13.5
+		frames: clear
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-22 16:30:15
+	name: The Shattering of Meirel
+	casting_cost: 7
+	image: image419
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text: Put each permanent with one or more colors into its owner’s sanctum.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>“It can’t be.. we’re too late,” said <error-spelling:en_US>Najael</error-spelling:en_US>. “How could she do this?” said <error-spelling:en_US>Korna</error-spelling:en_US>. “<error-spelling:en_US>Najael</error-spelling:en_US>,” said Chirps, “why does it smell wrong?”</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Marina Rey
+	card_code_text: Story Spotlight
+	card_code_text_2: Story Spotlight
+	card_code_text_3: Story Spotlight
+	copyright: 
+	copyright_2: 
+	copyright_3: 

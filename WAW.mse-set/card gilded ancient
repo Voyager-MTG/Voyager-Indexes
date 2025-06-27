@@ -7,7 +7,9 @@ card:
 		frames: tall
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !exportname Gilded Ancient Token;
+	notes:
+		!exportname Gilded Ancient Token;
+		!related Gilded Ancient;
 	time_created: 2024-12-08 12:24:23
 	time_modified: 2025-01-30 21:21:15
 	card_color: green

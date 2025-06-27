@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: !tokens Vrep token;
+	notes: 
 	time_created: 2025-01-24 15:15:22
 	time_modified: 2025-01-30 12:44:32
 	card_color: green

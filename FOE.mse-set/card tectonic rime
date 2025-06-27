@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		use_holofoil_stamps: no
+		remove_from_autocount: yes
+		alt_rarity_color: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tapped
+		Oasha Reference<soft-line>
+		</soft-line>
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-11-03 16:38:55
+	name: Tectonic Rime
+	image: image119
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Fault</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
+		This land enters tapped.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>A brief visit to <error-spelling:en_US>Jormunfang</error-spelling:en_US> would capture <error-spelling:en_US>Najaels</error-spelling:en_US> sense of wonder, as here too were drakes, dragons, and <error-spelling:en_US>Wurms</error-spelling:en_US>.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Philip Sue
+	custom_card_number: 0014
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

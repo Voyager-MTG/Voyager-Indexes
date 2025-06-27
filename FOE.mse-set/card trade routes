@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: star
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: RU06,Noncreature,2,,Entrancing Melody
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-02 01:54:31
+	name: Trade Routes
+	casting_cost: 1U
+	image: image365
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<sym-auto>1</sym-auto>: Return target land you control to its owner’s hand.
+		<sym-auto>1</sym-auto>, Discard a land card: Draw a card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>While new, the paths proved to be invaluable to <error-spelling:en_US>interplanar</error-spelling:en_US> trade, and such new routes were established daily.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Tim Kaminski
+	card_code_text: • Reprint
+	card_code_text_2: • Reprint
+	card_code_text_3: • Reprint
+	copyright: 
+	copyright_2: 
+	copyright_3: 

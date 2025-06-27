@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITERARE
+		SOLDIERTYPE
+	time_created: 2024-10-03 23:16:28
+	time_modified: 2025-02-07 04:24:08
+	name: Prithitian Justiciar
+	casting_cost: 4WW
+	image: image117.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
+		As <atom-cardname><nospellcheck>Prithitian Justiciar</nospellcheck></atom-cardname> enters, choose two other card names.
+		Spells with a chosen name can’t be cast.
+		You choose if creatures with a chosen name attack or block each combat and how they attack or block.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Carlos Herrera
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

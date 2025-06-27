@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-03-02 03:39:48
+	time_modified: 2025-04-01 14:15:07
+	name: Common Enemy
+	casting_cost: I
+	image: image437
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: rare
+	rule_text: <kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Whenever a land enters the battlefield under your control, target player puts the top three cards of their library into their sanctum. If that sanctum has seven or more cards in it, exile those cards instead.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 3
+	illustrator: Ilya Popov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

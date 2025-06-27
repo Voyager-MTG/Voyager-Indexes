@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: -2,-4,
+		chop_bottom: 
+		frames: 
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: BLUERARE
+	time_created: 2025-01-24 21:54:39
+	time_modified: 2025-02-14 07:57:52
+	name: Platinum’s Spymaster
+	casting_cost: 2UU
+	image: image139.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>; <kw-a><nospellcheck><key>f<soft-line>l</soft-line>ying</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
+		<sym-auto>1U</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>Platinum’s Spymaster</nospellcheck></atom-cardname> from your hand: Counter target spell with mana value 4 or less unless its controller pays <sym-auto>2</sym-auto>. <i-auto>(Exile it. You may cast it on a later turn that a Dragon or Rogue you control dealt damage to an opponent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: FellFallow
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

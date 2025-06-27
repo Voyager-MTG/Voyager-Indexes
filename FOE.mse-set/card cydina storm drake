@@ -1,0 +1,54 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		<soft-line>
+		steve</soft-line>
+	time_created: 2023-07-17 01:34:57
+	time_modified: 2024-11-02 22:11:54
+	name: Cydina Storm Drake
+	casting_cost: 3IR
+	image: image166
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Drake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(If you control at least four permanents of a color, illuminate that color this game.)</i-auto></atom-reminder-action></kw-A>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		This creature gets +1/+1 if you’ve illuminated red, and +1/+1 if you’ve illuminated silver. <i-auto>(If you’ve illuminated both, it gets +2/+2.)</i-auto>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor><error-spelling:en_US>Cydina’s</error-spelling:en_US> storms proved more intense than Aubrey could handle.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Godfrey Escota
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

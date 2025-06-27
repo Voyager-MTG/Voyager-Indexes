@@ -1,0 +1,603 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
+set_info:
+	title: Frontiers of Eternity
+	description: 
+	copyright: Set by Tvpattack
+	set_code: FOE
+	set_language: EN
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: masterpiece_symbol9.mse-symbol
+	automatic_reminder_text: old, expert, pseudo, action, custom, lower case
+	remove_card_codes: no
+	blend_with_colors: yes
+	custom_index: rarity,color
+styling:
+	magic-m15-altered-plus:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-battles:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-dfc:
+		other_options: pokemon evobar, use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-universes-beyond_750:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+include_file: card rustic cultivator
+include_file: card wind worn peaks
+include_file: card light of hope
+include_file: card historys weave
+include_file: card fall through reality
+include_file: card meirel pathwalker
+include_file: card staggering spires
+include_file: card pathfinder wurm
+include_file: card rising haze
+include_file: card meirel caretaker
+include_file: card outlands rescinder
+include_file: card outlander mercenary
+include_file: card fadove lawkeeper
+include_file: card fadove air supplier
+include_file: card veteran party
+include_file: card cleric of the dawn
+include_file: card focus of fadove
+include_file: card outfoxed
+include_file: card apprentices drake
+include_file: card crystalline cover
+include_file: card tiderock passage
+include_file: card fold the truth
+include_file: card consult eternity
+include_file: card pristine denial
+include_file: card reshape eternity
+include_file: card pathwrought overseer
+include_file: card veneer walker
+include_file: card outlands trailblazer
+include_file: card vestige prowler
+include_file: card ridgeback dragonturtle
+include_file: card bropheria
+include_file: card gripping truths
+include_file: card migratory flotilla
+include_file: card fly away with me
+include_file: card aspect of moth
+include_file: card you cant face me
+include_file: card duskcharm drake
+include_file: card eroding river
+include_file: card foolish footing
+include_file: card smogborn pilferer
+include_file: card avakin trapper
+include_file: card hedgecrow
+include_file: card scaled rippler
+include_file: card left for the crows
+include_file: card relentless truthseeker
+include_file: card otherworldly entrance
+include_file: card pathborn stinger
+include_file: card voidborn horror
+include_file: card avakin devotee
+include_file: card pioneers premonition
+include_file: card basalt hammer
+include_file: card clanless combatant
+include_file: card willbournes flame
+include_file: card fiery absolver
+include_file: card drougth adventurer
+include_file: card warforged pair
+include_file: card mordel hammer
+include_file: card pathborn spitter
+include_file: card mordel flamespeaker
+include_file: card drakes intuition
+include_file: card smelt corruption
+include_file: card mordel shaper
+include_file: card shifting landscape
+include_file: card depthscout
+include_file: card disciple of the thicket
+include_file: card enduring woodland
+include_file: card surubim harpoon
+include_file: card meirel traveller
+include_file: card shard bearer
+include_file: card clanless weaver
+include_file: card illusion reamer
+include_file: card voice of the thicket
+include_file: card inspiring recruit
+include_file: card dance of discovery
+include_file: card outland pair
+include_file: card outlands rescuer
+include_file: card stand your ground
+include_file: card guide with and through
+include_file: card teachings of the coiled
+include_file: card the strength to overcome
+include_file: card turbulent aether
+include_file: card dust converter
+include_file: card avakin adventurer
+include_file: card meirel drifter
+include_file: card pathworn blade
+include_file: card power from beyond
+include_file: card calign
+include_file: card captivate
+include_file: card adventurous pair
+include_file: card drougth attuner
+include_file: card perspective shift
+include_file: card enlisted arms
+include_file: card emigrating pilgrim
+include_file: card mana compression
+include_file: card drougth oracle
+include_file: card enlightening crescents
+include_file: card mutated pioneer
+include_file: card somber marsh
+include_file: card drifting mire
+include_file: card fiery chasm
+include_file: card barren fissure
+include_file: card sodden cavern
+include_file: card rainforest spring
+include_file: card drifting isle
+include_file: card roaring cascade
+include_file: card cleft river
+include_file: card drifting jungle
+include_file: card splintered thicket
+include_file: card carrigol spires
+include_file: card dawnshroud castle
+include_file: card drifting sands
+include_file: card formless frontier
+include_file: card glittering vale
+include_file: card sainard boneyard
+include_file: card soarwing coast
+include_file: card highland vale
+include_file: card drifting peak
+include_file: card tectonic rime
+include_file: card drifting crevasse
+include_file: card desolate barrens
+include_file: card tranquil stream
+include_file: card alpine meadow
+include_file: card drifting field
+include_file: card jagged crag
+include_file: card crackling expanse
+include_file: card aubrey
+include_file: card beast
+include_file: card bird
+include_file: card bird.1
+include_file: card insect
+include_file: card cat
+include_file: card crab
+include_file: card draft archetypes
+include_file: card dragon eye
+include_file: card drake
+include_file: card drake.1
+include_file: card drake.2
+include_file: card drake.3
+include_file: card drake.4
+include_file: card elemental demon
+include_file: card elk plant
+include_file: card fish
+include_file: card fox
+include_file: card fox.1
+include_file: card lizard
+include_file: card lizard.1
+include_file: card mongoose
+include_file: card orb
+include_file: card shark
+include_file: card whale
+include_file: card wurm
+include_file: card wurm.1
+include_file: card wurm.2
+include_file: card wurm dragon
+include_file: card wurm dragon.1
+include_file: card morraire shimmer patrol
+include_file: card coiling jailer
+include_file: card sisters in sorrow
+include_file: card feather piper
+include_file: card whisperer of the paths
+include_file: card sunlace panthera
+include_file: card shadow of grace
+include_file: card latent powerstone
+include_file: card pathward riftcalling
+include_file: card menithel demon
+include_file: card cydina storm drake
+include_file: card flowsnail
+include_file: card mordel spiritcaller
+include_file: card ignelscor frontliner
+include_file: card promise of hunger
+include_file: card balutr runners
+include_file: card sanctum reminder
+include_file: card drake mentor
+include_file: card boundless flight
+include_file: card upsurge nemato-gnathi
+include_file: card duraval starmapper
+include_file: card kaln-ocean harmonizer
+include_file: card outlands duelists
+include_file: card meirel pathrunner
+include_file: card those lost in the paths
+include_file: card calamitous koi
+include_file: card omen of hunger
+include_file: card ardent grief
+include_file: card ignelscor weaver
+include_file: card guardian of the cinders
+include_file: card mourncast disciple
+include_file: card remnants of the war
+include_file: card monument to forever
+include_file: card kilnhart smoghorn
+include_file: card ambitious haze
+include_file: card drakesteel effigy
+include_file: card clerics claymore
+include_file: card crystalline refraction
+include_file: card homestead pair
+include_file: card parading terrain
+include_file: card depthscout token
+include_file: card discover uncertainty
+include_file: card when words dont work
+include_file: card illuminated black
+include_file: card illuminated blue
+include_file: card illuminated green
+include_file: card illuminated red
+include_file: card illuminated silver
+include_file: card illuminated white
+include_file: card fault
+include_file: card fault.1
+include_file: card fault.2
+include_file: card fault.3
+include_file: card forest
+include_file: card forest.1
+include_file: card forest.2
+include_file: card forest.3
+include_file: card island
+include_file: card island.1
+include_file: card island.2
+include_file: card island.3
+include_file: card mountain
+include_file: card mountain.1
+include_file: card mountain.2
+include_file: card mountain.3
+include_file: card plains
+include_file: card plains.1
+include_file: card plains.2
+include_file: card plains.3
+include_file: card swamp
+include_file: card swamp.1
+include_file: card swamp.2
+include_file: card swamp.3
+include_file: card healing counter
+include_file: card stun counter
+include_file: card 11 counter
+include_file: card iconic challenger
+include_file: card unweave
+include_file: card concealing ruins
+include_file: card blade reifier
+include_file: card ignelscor witch
+include_file: card kornas forward
+include_file: card meirel evacuator
+include_file: card unending exploration
+include_file: card cascading cleave
+include_file: card persisting timepiece
+include_file: card vineglare enclave
+include_file: card inkblot artist
+include_file: card reflected inclination
+include_file: card wandering travellers
+include_file: card bloomrock enclave
+include_file: card brightblossom enclave
+include_file: card dawnbreak resort
+include_file: card devoted riftpike
+include_file: card errant pillar
+include_file: card exhausting foundation
+include_file: card glowspore enclave
+include_file: card hostile pillars
+include_file: card listless monument
+include_file: card mistlake enclave
+include_file: card moonglow enclave
+include_file: card ominous temple
+include_file: card roaming ruins
+include_file: card soaring tethers
+include_file: card sunswept prairie
+include_file: card thyrsine way
+include_file: card vibrant knoll
+include_file: card windy weft
+include_file: card binding pools
+include_file: card frontier sanctuary
+include_file: card mirdrim summit
+include_file: card splitting caldera
+include_file: card winnowing tower
+include_file: card tavern sanctum
+include_file: card abandoned sanctum
+include_file: card bosket peak
+include_file: card orb wizard
+include_file: card outlands recruiter
+include_file: card julius skyknight of morriare
+include_file: card yearn for the sky
+include_file: card marching partisan
+include_file: card outland riftsower
+include_file: card clanless tunneler
+include_file: card coalesced company
+include_file: card inspiring dunes
+include_file: card hengs intercession
+include_file: card mentor of engagement
+include_file: card winding guide
+include_file: card safeguarded pair
+include_file: card peacewarden
+include_file: card chimarel clearing
+include_file: card ancient sigils
+include_file: card storm striker
+include_file: card dreamgill salamander
+include_file: card embracing intonation
+include_file: card moonscale koi
+include_file: card vertical shift
+include_file: card waterscape mystic
+include_file: card i know what you mean to me
+include_file: card rest for a new world
+include_file: card relentless spellseeker
+include_file: card cliffside surveyor
+include_file: card skycliff flow
+include_file: card slipstream cyprinus
+include_file: card mesmeric peaks
+include_file: card parasitic roots
+include_file: card howling gasp
+include_file: card i wont stand alone
+include_file: card ditto dagger
+include_file: card lizturbance
+include_file: card dissenting experience
+include_file: card omenspeaker avakin
+include_file: card your strength is fading
+include_file: card bloodstained fields
+include_file: card spire of rebirth
+include_file: card murkross spiritcaller
+include_file: card gold-streaked obelisks
+include_file: card fervent canyon
+include_file: card ignelscor jidiao
+include_file: card boundless hollow
+include_file: card rend hope
+include_file: card awakened wurm
+include_file: card moonlit congregation
+include_file: card bare your fangs
+include_file: card lost sunset
+include_file: card counterinsurgency
+include_file: card haphazard and unbound
+include_file: card new mordel fireweaver
+include_file: card seasoned flamefinder
+include_file: card broodmages furor
+include_file: card our march wont end
+include_file: card call to revolution
+include_file: card shimmer from beyond
+include_file: card encouraging passage
+include_file: card fritter skitter
+include_file: card dawncoil burnisher
+include_file: card ranging symbiote
+include_file: card leyline weaver
+include_file: card murkross shaman
+include_file: card virulent attendant
+include_file: card cervus sprouting
+include_file: card unexpected predator
+include_file: card cartographers survey
+include_file: card hunters strength
+include_file: card keras appointed
+include_file: card nurtured landscape
+include_file: card outlands caretaker
+include_file: card snowscaper bakunawa
+include_file: card awakened reactionary
+include_file: card crustacean surge
+include_file: card extraplanar portal
+include_file: card soul shatter
+include_file: card korna adventuring historian
+include_file: card zoslera exiled visionary
+include_file: card trade routes
+include_file: card where our paths meet
+include_file: card aurel born through discord
+include_file: card sonnet meirel lancer
+include_file: card marie hungerbound
+include_file: card skyskif flying fish
+include_file: card gael spiteflame phoenix
+include_file: card jothi awakened flock
+include_file: card jothi
+include_file: card tofnet ranger
+include_file: card axoladen adventurer
+include_file: card lasting discovery
+include_file: card trailing tethers
+include_file: card prismatic drake
+include_file: card ikorian skyshark
+include_file: card nirvanha bloom
+include_file: card forgiving monument
+include_file: card i will walk my own path
+include_file: card pathshaping
+include_file: card kaln-ocean streamliner
+include_file: card soaring chorus
+include_file: card shrouded pathcensor
+include_file: card chirps spice seeker
+include_file: card melodia drifter at heart
+include_file: card outlands chimera
+include_file: card lisse bound by the king
+include_file: card lorenz ascendant king of alira
+include_file: card soul of vinimroth
+include_file: card starling
+include_file: card cerise augur of flow
+include_file: card realmshaper
+include_file: card campsite
+include_file: card starfall outlook
+include_file: card the calm belt
+include_file: card wavehorn great winding wizard
+include_file: card heng hien reifer of justice
+include_file: card kera mordels new hope
+include_file: card no-name
+include_file: card mordel civil war
+include_file: card resurrection pools
+include_file: card themia steward of sanctity
+include_file: card zesha dream hedonist
+include_file: card lisse hope through sin
+include_file: card argent flash of mirdrim
+include_file: card maal and sevol twin sentries
+include_file: card scout maw of the moon
+include_file: card prophellos hungering manipulator
+include_file: card reichen verdant guard
+include_file: card the shattering of meirel
+include_file: card luminous in all colors
+include_file: card sanctum trader
+include_file: card mass mutation
+include_file: card ancient interference
+include_file: card probe the veil
+include_file: card lithify
+include_file: card cascading reflections
+include_file: card shifting spire
+include_file: card faloden scavenger
+include_file: card grazed by the endless
+include_file: card kindred spirits
+include_file: card falling sparks
+include_file: card soul splintering
+include_file: card icon
+include_file: card liminal ambiguity
+include_file: card dustfall
+include_file: card power null
+include_file: card common enemy
+include_file: card impunity of souls
+include_file: card experience cultivator
+include_file: card towing steladiuys
+include_file: card podinaetremata
+include_file: card a flock is born
+include_file: card branching paths
+include_file: card meso meso
+include_file: card defector of mordel
+include_file: card jothi token
+include_file: card exhuberant genesis
+include_file: card meirel drifter luminous
+include_file: card emergent parasitism
+include_file: card mordel peacekeeper
+include_file: card idol of reconstruction
+include_file: card called to eternity
+include_file: card shifting dream
+include_file: card abandoned sanctum.1
+include_file: card parallellism
+include_file: card kalim shivtas ear
+include_file: card avlod charm
+include_file: card gluttony
+include_file: card personal sins
+include_file: card bone salesman
+include_file: card mordel charm
+include_file: card fadove charm
+include_file: card longneck marketwatch
+include_file: card fossil laundering
+include_file: card continuity gap
+include_file: card market negotiator
+include_file: card food
+include_file: card blood
+include_file: card clue
+keyword:
+	keyword: Luminous
+	match: Luminous
+	reminder: If you control at least four permanents of a color, illuminate that color this game.
+	rules: Luminous — If you control {n} or more other {other} permanents 
+	mode: action
+keyword:
+	keyword: Materialize
+	match: Materialize <atom-param>number</atom-param>
+	reminder: Tap any number of other enchantments you control with total mana value {param1} or more: This becomes a creature in addition to its other types until your next upkeep.
+	rules: Tap {if param1.value == "1" then "an" else "{english_number(param1)}"} untapped {if param1.value == "1" then "enchantment" else "enchantments"} you control: This becomes an enchantment creature until your next upkeep.
+	mode: custom
+keyword:
+	keyword: Stun
+	match: stun
+	reminder: If a permanent with a stun counter would become untapped, remove one from it instead.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Dig
+	match: Dig <atom-param>number</atom-param>
+	reminder: Look at the top {english_number(param1)} cards of your library, reveal and put that card into your hand, then put the rest on bottom randomly.
+	rules: Dig 3 for a :W_~2: creature 3 CMC or less (Look at the top three cards of your library, add the target to your hand, and then put the rest on bottom of your library randomly.)
+	mode: custom
+keyword:
+	keyword: Powerstone Token
+	match: Powerstone toke<atom-param>*s</atom-param>
+	reminder: {if param1.value == "ns" then "The tokens are artifacts" else "It’s an artifact"} with "T: Add C. This mana can’t be spent to cast a nonartifact spell."
+	rules: 
+	mode: custom
+keyword:
+	keyword: Explorer
+	match: Explorer
+	reminder: 
+	rules: Explorer — If you control five or more differently named lands, [Effect]
+	mode: pseudo
+keyword:
+	keyword: Reflect
+	match: Reflect
+	reminder: Create a token thats a copy of another token you control.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Draft
+	match: Draft a card from your <atom-param>one_word</atom-param>
+	reminder: Look at three random cards from { if param1.value == "library" then "the top of your" else "your" } {param1}. Put one into your hand. { if param1.value == "library" then " Put the rest on bottom randomly." }
+	rules: Choose three cards at random from your {param1}. Put one into your hand.
+	mode: custom
+keyword:
+	keyword: Sanctified
+	match: Sanctified
+	reminder: This card may start in your sanctum.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Healer
+	match: healing <atom-param>number</atom-param>
+	reminder: Damage dealt by {if has_pt() then "this" else "that"} creature also causes you to gain {param1} life.
+	rules:
+		Editors note:<soft-line>
+		This can be Combat damage if this ends up insane.</soft-line>
+	mode: expert
+keyword:
+	keyword: Exploring
+	match: Exploring
+	reminder: 
+	rules: Explorer — If you control five or more differently named lands, [Effect]
+	mode: pseudo
+keyword:
+	keyword: Scry
+	match: Scry <atom-param>number</atom-param>
+	reminder:
+		Look at the top {
+		 if param1.value=="1" then "card of your library. You may put it on the bottom of your library."
+		 else "{english_number(param1)} cards of your library. Put any number of them on the bottom of your library and the rest on top in any order."
+		}
+	rules:
+		 (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+	mode: core
+keyword:
+	keyword: Sift
+	match: Sift <atom-param>number</atom-param>
+	reminder:
+		Look at the top {
+		 if param1.value=="1" then "card of your library. You may put it into your sanctum."
+		 else "{english_number(param1)} cards of your library. Put any number of them into your sanctum and the rest on top in any order."
+		}
+	rules:
+		 (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+	mode: expert
+keyword:
+	keyword: Recreate
+	match: Recreate
+	reminder: Create a token thats a copy of another nontoken nonland permanent you control. It’s a noncreature kindred enchantment.
+	rules: Create a token thats a copy of another token you control. It’s a noncreature kindred enchantment.
+	mode: custom
+keyword:
+	keyword: Exhaust
+	match: Exhaust —
+	reminder: Activate each exhaust ability only once.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Mirror
+	match: mirror
+	reminder: Create a token thats a copy of a token you control.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 

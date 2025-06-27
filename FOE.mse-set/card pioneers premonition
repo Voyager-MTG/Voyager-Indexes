@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-04-25 22:32:09
+	time_modified: 2024-11-13 10:38:40
+	name: Pioneer’s Premonition
+	casting_cost: 1B
+	image: image50
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		<kw-A><nospellcheck><key>Draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand. )</i-auto></atom-reminder-custom></kw-A>
+		Create a 1/1 black Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>Some adventurers give offerings before entering the paths, awakening to visions of their demise and what would save them.</i-flavor>
+	illustrator: asmeesh on Tumblr
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

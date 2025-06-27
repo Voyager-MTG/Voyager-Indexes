@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: tavern
+	time_created: 2024-07-01 22:34:42
+	time_modified: 2025-03-22 16:32:07
+	card_color: land, multicolor
+	name: Tavern Sanctum
+	image: image269
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		<kw-A><i-auto><nospellcheck><key>Imprint</key></nospellcheck></i-auto></kw-A> — When this land enters, you may exile a card that’s one or more colors from your hand.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. If a card is exiled with this land, you may add one mana from among the exiled cards colors instead.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Return the exiled card to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Yura Gvozdenko
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

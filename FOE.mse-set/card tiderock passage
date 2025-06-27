@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: false
+	notes:
+		!related Misty Aisleattach>;
+		!addtoken Misty Aisle;transform;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-06-14 15:48:31
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal front
+			smallbox_text: 
+	card_color_2: blue
+	name: Tiderock Passage
+	name_2: Misty Aisle
+	alias: This card can start in your sanctum.                             
+	casting_cost: 2U
+	image: image21
+	image_2: image_28.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		When this realm enters, create a 2/1 blue Drake creature token with <kw-0><nospellcheck><key>flying</key></nospellcheck></kw-0>.
+		<sym-auto>2U</sym-auto>: Transform this realm.
+	rule_text_2: Whenever you attack, <kw-A><nospellcheck><key>sift <param-number>2</param-number></key></nospellcheck>.<atom-reminder-expert> <i-auto>(Look at the top <param-number>two</param-number> cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_3: 
+	flavor_text: <i-flavor>“Chirps! I didn’t know you knew how to fly a drake!” <error-spelling:en_US>Melodia</error-spelling:en_US> said. “They’re a bird. I’d be surprised if they didn’t.” <error-spelling:en_US>Najael</error-spelling:en_US> responded.</i-flavor>
+	flavor_text_2: <i-flavor>Passage through the sanctum gave <error-spelling:en_US>Najael</error-spelling:en_US> the insight she needed to learn divination; A power that warned her of Marie’s next attack.</i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Lorenzo Tomaselli
+	illustrator_2: Nathanael Mortensen
+	card_code_text: 
+	card_code_text_2: • Story Spotlight
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

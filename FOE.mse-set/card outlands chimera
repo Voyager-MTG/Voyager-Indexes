@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!tag outlands;
+		recreate
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-06-16 09:15:56
+	name: Outlands Chimera
+	casting_cost: 3II
+	image: image389
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Chimera</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
+		Whenever <atom-cardname><nospellcheck>Outlands Chimera</nospellcheck></atom-cardname> enters or attacks, if its not a token, you may <kw-0><nospellcheck><key>mirror</key></nospellcheck></kw-0>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“A while back, I met a peculiar creature deep in the <error-spelling:en_US>outlands</error-spelling:en_US>. I wonder, does it remember me?”<soft-line>
+		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Coliandre
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

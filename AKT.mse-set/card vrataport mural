@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		ARCUNSET2
+		OTHERUNCOMMON
+		HUMANTYPE
+	time_created: 2023-01-08 16:33:51
+	time_modified: 2025-02-11 08:58:45
+	card_color: blue, black, artifact, multicolor, horizontal
+	name: Vrataport Mural
+	casting_cost: UB
+	image: image125
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text: <sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Reveal cards from the top of your library until you reveal a Human card. <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> it, then shuffle. <i-auto>(Exile it. You may cast it on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: 宋大能
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

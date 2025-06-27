@@ -1,0 +1,52 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!exportname Hengs Intercession
+		watch in testing
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-04-11 21:31:28
+	name: Heng’s Intercession
+	casting_cost: 4W
+	image: image288
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(If you control at least four permanents of a color, illuminate that color this game.)</i-auto></atom-reminder-action></kw-A>
+		This spell costs <sym-auto>2</sym-auto> less to cast if you’ve illuminated white.
+		Exile target nonland permanent.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The ancient <error-spelling:en_US>goliaths</error-spelling:en_US> that roamed <error-spelling:en_US>Vinimroth</error-spelling:en_US> wouldn’t make it to the paths under <error-spelling:en_US>Heng’s</error-spelling:en_US> scrutiny.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Kent Davis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

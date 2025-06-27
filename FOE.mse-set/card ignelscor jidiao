@@ -1,0 +1,57 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: adventure
+		adventure_type: focus
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!alt
+		
+		https://www.artstation.com/artwork/06Q6K
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-01-24 01:16:13
+	name: Ignelscor Jidiao
+	name_2: Tear a Path
+	casting_cost: 5B
+	casting_cost_2: 1B
+	image: image328
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Instant</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Turtle</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell>Focus</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		At the beginning of combat, you may put a card from your sanctum into your graveyard. If you do, up to one target creature you control gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn.
+	rule_text_2: Draw a card. <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put them into your sanctum. <i-auto>(Then put this into your sanctum.)</i-auto>
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 6
+	toughness: 3
+	illustrator: Magnus Norén
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

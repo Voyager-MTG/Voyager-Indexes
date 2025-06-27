@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-08-28 13:31:25
-	time_modified: 2024-08-30 18:51:12
+	time_modified: 2025-06-21 15:17:25
 	name: Lamplure
 	casting_cost: G
 	image: image56
@@ -13,7 +13,9 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Target creature you control gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and must be blocked if able until end of turn. You may have target creature you don’t control <kw-A><nospellcheck><key>fight</key></nospellcheck> it.<atom-reminder-action> <i-auto>(Each deals damage equal to its power to the other.)</i-auto></atom-reminder-action></kw-A>
+	rule_text:
+		Target creature you control gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and must be blocked if able until end of turn. 
+		Draw a card.
 	flavor_text: <i-flavor>Worried, the bird burned all of its feathers to make an everlasting lamp. Now the forest was under constant watch, day and night. </i-flavor>
 	illustrator: nishikujic
 	card_code_text:

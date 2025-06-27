@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUECOMMON
+		CU11
+		SPOTLIGHT
+	time_created: 2023-06-21 23:40:02
+	time_modified: 2025-01-30 19:52:38
+	card_color: blue
+	name: Negate
+	casting_cost: 1U
+	image: image108.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Counter target noncreature spell.
+	flavor_text:
+		<i-flavor>“Each <error-spelling:en_US>urdon</error-spelling:en_US> has an encrypted link in its soul that provides it Ur’s immense gifts to sustain <error-spelling:en_US>Worldbalance</error-spelling:en_US>. Could that link be <error-spelling:en_US>decrypted</error-spelling:en_US>? Destroyed? ...Transferred?”<soft-line>
+		—<error-spelling:en_US>Erys</error-spelling:en_US>,</i> Memoirs<i></soft-line></i-flavor>
+	watermark: other magic symbols story spotlight
+	illustrator: Yuliya Zabelina
+	card_code_text: Story Spotlight -2
+	card_code_text_2: Story Spotlight -2
+	card_code_text_3: Story Spotlight -2
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

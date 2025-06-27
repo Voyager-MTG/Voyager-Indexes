@@ -11,8 +11,7 @@ card:
 	time_created: 2024-08-27 13:52:34
 	time_modified: 2024-10-26 14:59:38
 	extra_data:
-		magic-m15-altered:
-			vorthos_box: he/they
+		magic-m15-altered: vorthos_box: he/they
 	name: Vaga, True Prophet
 	casting_cost: 2G
 	image: image38

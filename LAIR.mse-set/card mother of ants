@@ -7,7 +7,12 @@ card:
 		shrink_typeline_text: 1
 		grey_hybrid_name: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-	notes: https://www.instagram.com/p/DJl-PfLMMYY/?img_index=2
+	notes:
+		https://www.instagram.com/p/DJl-PfLMMYY/?img_index=2
+		!tag lair1;
+		!tag lairnumber1;
+		!tag lair#1;
+		!tag lairn1;
 	time_created: 2023-07-21 13:24:03
 	time_modified: 2025-05-16 20:15:53
 	card_color: blue, red, multicolor, horizontal

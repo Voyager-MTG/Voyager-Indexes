@@ -4,14 +4,14 @@ card:
 	stylesheet_version: 2025-01-11
 	has_styling: true
 	styling_data:
-		frames: copy
+		frames: 
 		other_options: 
 		shrink_typeline_text: 
 		shrink_font_size: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		center_text: short text only
 		overlay: 
-	notes: 
+	notes: !related Tenuous Partners;
 	time_created: 2024-12-08 12:24:23
 	time_modified: 2025-01-31 10:39:40
 	card_color: black

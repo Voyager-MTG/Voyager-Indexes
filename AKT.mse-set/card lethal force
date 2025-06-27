@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 12
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		REDCOMMON
+		CR05
+		INCARNATIONTYPE
+		SOLDIERTYPE
+	time_created: 2022-07-29 00:27:07
+	time_modified: 2024-03-07 17:44:05
+	card_color: red
+	name: Lethal Force
+	casting_cost: 2R
+	image: image60
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Incarnation</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When Lethal Force enters, create a 3/2 red Incarnation Soldier creature token.
+	flavor_text: <i-flavor>“I finally agree with my old <error-spelling:en_US>Callwolf</error-spelling:en_US> enemies: When law is evil, crime isn’t.”</i-flavor>
+	power: 0
+	toughness: 2
+	illustrator: Jeff Chen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

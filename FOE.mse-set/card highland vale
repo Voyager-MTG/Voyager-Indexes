@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		d20_dividers: off
+		use_holofoil_stamps: no
+		remove_from_autocount: yes
+		alt_rarity_color: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		CL01,Noncreature,0,,Stone Quarry
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-11-03 14:22:22
+	name: Highland Vale
+	image: image117
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
+		This land enters tapped.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Upon setting foot on <error-spelling:en_US>Ragrime</error-spelling:en_US>, it was clear to <error-spelling:en_US>Melodia</error-spelling:en_US> that this plane had not seen a humanoid since its inception.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Philip Sue
+	custom_card_number: 0004
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

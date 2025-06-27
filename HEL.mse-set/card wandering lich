@@ -10,7 +10,7 @@ card:
 	card_color: black
 	name: Wandering Lich
 	casting_cost: 1B
-	image: image883
+	image: image98
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>Pact</key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Pact</key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever you put a <kw-0><nospellcheck><key>pact</key></nospellcheck></kw-0> counter on a creature, each opponent loses 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

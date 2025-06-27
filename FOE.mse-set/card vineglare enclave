@@ -1,0 +1,58 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: frontier
+		other_options: pokemon evobar, auto nyx crowns
+		use_holofoil_stamps: no
+		remove_from_autocount: yes
+		alt_rarity_color: 
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tapped<soft-line>
+		</soft-line>
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-08-14 03:54:26
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: 
+	card_color: silver, land
+	name: Vineglare Enclave
+	alias: This card can start in your sanctum.                             
+	image: image242
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Frontier</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>I</sym-auto>.
+		<sym-auto>3I</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a Frontier: Look at the top four cards of your library, put one into your hand, and put the rest on the bottom at random.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Vadim Shchepilov
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

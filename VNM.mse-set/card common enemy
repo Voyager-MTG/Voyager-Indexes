@@ -1,7 +1,10 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes:
+		!tag fascism;
+		!tag outlands;
+		!tag clanless;
 	time_created: 2024-03-02 03:39:48
 	time_modified: 2024-06-28 21:53:31
 	name: Common Enemy

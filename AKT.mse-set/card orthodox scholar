@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENCOMMON
+		CG05
+		HEXTYPE
+	time_created: 2022-10-11 12:08:59
+	time_modified: 2025-02-09 07:16:03
+	name: Orthodox Scholar
+	casting_cost: 2G
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Hex</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When <atom-cardname><nospellcheck>Orthodox Scholar</nospellcheck></atom-cardname> enters, create a 1/1 green Hex Citizen creature token, then put a +1/+1 counter on a creature you control.
+	flavor_text: <i-flavor>“More than ever, those steeped in sin need our guidance. It is wrong to shirk that duty for <error-spelling:en_US>Erysian</error-spelling:en_US> ‘improvements.<error-spelling:en_US>’</error-spelling:en_US>”</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator:
+		Rustey Pulley
+		ShahabAlizadeh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

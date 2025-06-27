@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		ARCUNSET2
+		OTHERUNCOMMON
+		HEXTYPE
+	time_created: 2023-01-08 16:33:51
+	time_modified: 2025-02-09 07:18:12
+	name: Altar of Euthanasia
+	casting_cost: GW
+	image: image118
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text:
+		Whenever a Hex you control enters, either put a +1/+1 counter on it or <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		<sym-auto>T</sym-auto>, Sacrifice a creature: Return target creature card in your graveyard with lesser mana value than the sacrificed creature to the battlefield. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: David Franco
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

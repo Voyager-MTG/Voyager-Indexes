@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag fascism;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-23 18:29:29
+	name: New Mordel Fireweaver
+	name_2: 
+	casting_cost: 1R
+	image: image338
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — <sym-auto>1R</sym-auto>: This creature gets +2/+0 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn. Activate this ability only if you control five or more differently named lands.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>With <error-spelling:en_US>Kera’s</error-spelling:en_US> leadership, Clan <error-spelling:en_US>Mordel</error-spelling:en_US> was reborn as New <error-spelling:en_US>Mordel</error-spelling:en_US>, a group who would focus on protecting creativity.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Elena Kononenko
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

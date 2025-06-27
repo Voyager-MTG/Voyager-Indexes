@@ -16,6 +16,7 @@ card:
 		inverted_common_symbol: no
 		overlay: 
 	notes:
+		!tag outlands;
 		Preview
 		!addtoken Subdued Rift;conjured;
 	time_created: 2021-04-25 03:20:37

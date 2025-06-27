@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: URDONLANDSCYC
+	time_created: 2024-10-14 00:19:47
+	time_modified: 2025-03-31 03:23:35
+	card_color: land, multicolor
+	name: Prithite’s Palace Lost
+	image: image130.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		If a basic land you control would leave the battlefield, you may return it to its owner’s hand instead.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Untap each Lair you control. Then if you control five or more Lairs with different names, you win the game.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: PhaseRunner
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

@@ -1,8 +1,8 @@
 ﻿mse_version: 2.0.2
 game: magic
 game_version: 2024-10-01
-stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
 set_info:
 	title: Itera: Into the Dream
 	set_code: ITD
@@ -22,6 +22,9 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	magic-m15-altered-plus:
+		chop_top: 5
+		chop_bottom: 5
+		use_holofoil_stamps: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 

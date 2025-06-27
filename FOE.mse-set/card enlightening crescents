@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: false
+	notes:
+		!related Depths of Changeattach>;
+		!addtoken Depths of Change;transform;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-06-11 20:24:45
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal front
+			smallbox_text: 
+	card_color_2: silver
+	name: Enlightening Crescents
+	name_2: Depths of Change
+	alias: This card can start in your sanctum.                             
+	casting_cost: 3I
+	image: image97
+	image_2: image_27.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		When this realm enters, create a 3/3 silver Crab creature token.
+		<sym-auto>1</sym-auto>, Tap a token you control: Transform this realm.
+	rule_text_2: At the beginning of combat on your turn, this enchantment becomes a copy of up to one target token you control until end of turn.
+	rule_text_3: 
+	flavor_text: <i-flavor>“Are we lost? Because I swear I’ve seen that crescent already.” Said <error-spelling:en_US>Melodia</error-spelling:en_US>. “Its...Wait, I think...YES! This is a map!” Exclaimed <error-spelling:en_US>Najael</error-spelling:en_US>.</i-flavor>
+	flavor_text_2: <i-flavor>Just below the surface of the crescents lie a world reflecting the truths of the multiverse hidden by its silvery surface.</i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Surnuken
+	illustrator_2: Lazio Pinter
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

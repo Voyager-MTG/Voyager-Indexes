@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		OTHERRARE
+		INCARNATIONTYPE
+		BLACKRARE
+	time_created: 2024-02-09 02:08:14
+	time_modified: 2024-11-01 07:20:23
+	name: Decay
+	casting_cost: 2BB
+	image: image15.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Incarnation</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		Rather than sacrifice a permanent with a given quality, you may exile a card with that quality from your graveyard.<soft-line>
+		<i-auto>(For example, if you sacrifice a creature, you can exile a creature from your yard instead.You can’t exile cards to pay a self-sacrifice cost.)</i-auto></soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: AtSkiy
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

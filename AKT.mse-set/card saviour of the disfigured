@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: 
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		BLUEUNCOMMON
+		LIZARDTYPE
+	time_created: 2023-09-07 23:42:37
+	time_modified: 2025-02-14 08:00:56
+	card_color: blue
+	name: Saviour of the Disfigured
+	casting_cost: 2U
+	image: image61.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Lizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Survivor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Saviour of the Disfigured</nospellcheck></atom-cardname> enters, if it wasn’t cast from your hand, draw a card.
+		<sym-auto>U</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>Saviour of the Disfigured</nospellcheck></atom-cardname> from your hand: Exile target nontoken creature. At the beginning of the next end step, return it to the battlefield under its owner’s control. <i-auto>(Exile it. You may cast it on a later turn that a Lizard or Survivor you control dealt damage to an opponent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Cindy Avelino
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

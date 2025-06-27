@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-23 18:23:18
+	name: Podinaetremata
+	casting_cost: 2G
+	image: image441
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shark</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Octopus</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
+		When this creature enters, draw a card from your library or sanctum.
+		Whenever this creature attacks, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Its full classification is: <error-spelling:en_US>Octopodinaepleurotrematadetrius</error-spelling:en_US>.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Gemma C
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -3,7 +3,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: 
+	notes: !related Starstruck Skitter;
 	time_created: 2025-01-28 20:04:45
 	time_modified: 2025-01-28 20:05:48
 	card_color: red

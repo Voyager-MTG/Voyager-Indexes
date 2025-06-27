@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: false
+	notes:
+		GREENUNCOMMON
+		UG05
+		ARTIFICERTYPE
+		WEREWOLFTYPE
+	time_created: 2023-06-21 23:40:02
+	time_modified: 2024-02-09 12:46:10
+	extra_data:
+		magic-m15-mainframe-dfc:
+			back_type_hint: 0/0 Artificer
+			back_color_hint: <sym>3G</sym>
+			front_type_hint: 3/3 Lizard Artificer
+			front_color_hint: <sym>3G</sym>
+	card_color: green
+	name: Hazard Technician
+	name_2: Hazardous Technician
+	casting_cost: 3G
+	casting_cost_2: 3G
+	image: image104
+	image_2: image_211
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Lizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Werewolf</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-race-en>Werewolf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Bisapience</key></nospellcheck>—Tap another untapped artifact or enchantment you control.<atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>T</sym-auto>: Create a <kw-0><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-0>.
+	rule_text_2:
+		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0>—Tap another untapped artifact or enchantment you control.
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Hazardous Technician</nospellcheck></atom-cardname> gets +1/+1 for each artifact and/or enchantment you control.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 3
+	power_2: 0
+	toughness: 3
+	toughness_2: 0
+	illustrator: MDK_Art
+	illustrator_2: Victor Maury
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

@@ -17,7 +17,7 @@ card:
 	card_color: blue
 	name: Bloodmoon Champion
 	casting_cost: 3U
-	image: image1072
+	image: image474
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -26,7 +26,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Pact</key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Pact</key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)</i-auto></atom-reminder-custom></kw-A>
 		Creatures you control with <kw-0><nospellcheck><key>pact</key></nospellcheck></kw-0> counters on them have <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>“I never regret my deals.”</i-flavor>
 	power: 3

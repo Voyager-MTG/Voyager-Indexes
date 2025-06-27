@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2023-03-24 16:09:36
+	name: Otherworldly Entrance
+	casting_cost: 3BB
+	image: image46
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Reveal a creature card from your sanctum. Put that card onto the battlefield.
+		</li><li><bullet>• </bullet>Return target creature card from your graveyard to the battlefield.</li>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Lost souls would be torn asunder by the energies of the paths, if not for <error-spelling:en_US>Multaph</error-spelling:en_US> and his Entities.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Joni Aikio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

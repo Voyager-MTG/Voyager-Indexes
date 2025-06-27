@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: 
+		other_options: pokemon evobar, auto nyx crowns
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: You may reveal this card from your sanctum at the start of the game. If you do, put any combination of six basic lands of any type from outside the game into your sanctum. (You don’t reveal them. They do not count towards your starting sanctum size.)
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-04-01 12:49:56
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal front
+	name: Realmshaper
+	alias: This card can start in your sanctum.                             
+	casting_cost: 2
+	image: image395
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		If this card started in your sanctum, reveal it from your sanctum at the start of the game. Your starting sanctum may include up to six additional nonbasic land cards outside of the cards that may start in the sanctum.
+		You may play land cards from your sanctum.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Infinite_Art
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

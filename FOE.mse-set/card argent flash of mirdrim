@@ -1,0 +1,70 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		dfc_type: modal with standard flags
+		front_chop: 0,10
+		back_chop: 0,14
+		other_options: use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!related Mirdrim Cleaveattach>;
+		!addtoken Mirdrim Cleave;transform;
+		Verdant
+		!backname Midrim Cleave
+	time_created: 2023-05-07 14:48:33
+	time_modified: 2025-06-14 16:16:49
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal front
+			front_modal_flag: silver
+			back_modal_flag: silver, land
+			back_type_hint: 
+			back_color_hint: 
+			front_type_hint: 
+			front_color_hint: 
+		magic-m15-mainframe-dfc:
+			front_color_hint: <sym>4II</sym>
+	name: Argent, Flash of Mirdrim
+	name_2: Midrim Cleave
+	casting_cost: 4II
+	image: image414
+	image_2: image_217.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Land</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Drake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-land></word-list-land>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<margin:0:0:5>When <atom-cardname><nospellcheck>Argent, Flash of Mirdrim</nospellcheck></atom-cardname> deals combat damage, choose up to one—</margin:0:0:5>
+		<li><bullet>• </bullet>Whenever you cast your next spell this turn, copy it. You may choose new targets for the copy.
+		</li><li><bullet>• </bullet>Create a token that’s a copy of target permanent.</li>
+	rule_text_2:
+		As this land enters, you may pay 3 life. If you don’t, it enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.
+		<sym-auto>4II</sym-auto>: Transform this land until end of turn.
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2:
+		<i-flavor>“You are who you see yourself as.”<soft-line>
+		</soft-line>—Saying on <error-spelling:en_US>Mirdrim</i-flavor></error-spelling:en_US>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Asur Misoa
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

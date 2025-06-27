@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 12
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-06-21 02:11:02
+	time_modified: 2024-10-14 23:33:36
+	name: Reflected Inclination
+	casting_cost: I
+	image: image244
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Until end of turn, up to one target token you control becomes a copy of this creature with size 2/2.
+	flavor_text: <i-flavor>You always look better in the mirror.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: exellero
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

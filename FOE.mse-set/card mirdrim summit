@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		use_holofoil_stamps: no
+		remove_from_autocount: yes
+		alt_rarity_color: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-02-15 17:46:18
+	time_modified: 2024-11-03 10:07:41
+	name: Mirdrim Summit
+	image: image266
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add one mana of any color. Activate only if this land entered this turn.
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Create a 1/1 colorless Orb artifact creature token that can’t block with “Whenever this deals combat damage to a player, target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.”
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Anthony Avon
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

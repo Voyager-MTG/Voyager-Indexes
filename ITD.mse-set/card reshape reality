@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/danielebianchin/art/Despair-Land-609789112
 	time_created: 2024-10-17 19:17:54
-	time_modified: 2025-01-22 13:46:38
+	time_modified: 2025-06-21 15:17:00
 	name: Reshape Reality
 	casting_cost: 5UUU
 	image: image166
@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		You may cast a spell with mana value 7 or less from your hand without paying its mana cost.
-		Take an extra turn after this one.
+		If it isn’t an extra turn, take an extra turn after this one.
 	flavor_text: <i-flavor>At a wizard’s apex, they commit one final act that rips the magic from their soul.</i-flavor>
 	illustrator: danielebianchin
 	card_code_text: 

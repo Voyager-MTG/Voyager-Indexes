@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: 
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		WHITEUNCOMMON
+		UW05
+	time_created: 2023-09-07 23:42:37
+	time_modified: 2025-04-01 23:09:03
+	card_color: white
+	name: Lightning’s Protection
+	casting_cost: 2W
+	image: image37.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Create X 1/1 white Soldier creature tokens, where X is the number of creature types among non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erysite</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanents you control.
+	flavor_text:
+		<i-flavor>“This is </i>exactly<i> why I disowned you. No one </i>wants<i> your authoritarian <error-spelling:en_US>nannying</error-spelling:en_US>.”<soft-line>
+		— King Platinum <error-spelling:en_US>Sarajii</soft-line></i-flavor></error-spelling:en_US>
+	power: 
+	toughness: 
+	illustrator: Stepan Gilev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		REDRARE01
+		SPOTLIGHT
+	time_created: 2023-09-07 23:42:37
+	time_modified: 2025-04-13 17:45:03
+	card_color: red
+	name: Siege of Percitha
+	casting_cost: 1RR
+	image: image52
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: Whenever you cast a non-colorless spell from anywhere other than your hand, <atom-cardname><nospellcheck>Siege of Percitha</nospellcheck></atom-cardname> deals 2 damage to any target.
+	flavor_text:
+		<i-flavor>“Dispose of your <error-spelling:en_US>erysium</error-spelling:en_US> and your heretics, lest I dispose of </i>you<i>.”<soft-line>
+		—<error-spelling:en_US>Novablast</error-spelling:en_US>, to Platinum</soft-line></i-flavor>
+	watermark: other magic symbols story spotlight
+	illustrator: Eunsu Kang
+	card_code_text: Story Spotlight 4
+	card_code_text_2: Story Spotlight 4
+	card_code_text_3: Story Spotlight 4
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

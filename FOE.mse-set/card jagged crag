@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		use_holofoil_stamps: no
+		remove_from_autocount: yes
+		alt_rarity_color: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag outlands;
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-11-03 10:06:21
+	name: Jagged Crag
+	image: image125
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		This land enters tapped.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“Each passing moment, I weep for those unaware of the beauty hidden deep within the <error-spelling:en_US>outlands</error-spelling:en_US> of <error-spelling:en_US>Vinimroth</error-spelling:en_US>.”<soft-line>
+		—<error-spelling:en_US>Korna</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Philip Sue
+	custom_card_number: 0010
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

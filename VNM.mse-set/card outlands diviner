@@ -16,7 +16,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: Preview
+	notes:
+		!tag outlands;
+		Preview
 	time_created: 2021-04-25 03:20:37
 	time_modified: 2025-03-01 15:43:55
 	extra_data:

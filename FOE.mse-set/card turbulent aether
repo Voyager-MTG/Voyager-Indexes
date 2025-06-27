@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-10-11 00:12:51
+	name: Turbulent Aether
+	casting_cost: 2G
+	image: image82
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet> Destroy target artifact.
+		</li><li><bullet>• </bullet> Destroy target enchantment.
+		</li><li><bullet>• </bullet> Draw a card from your sanctum or library.</li>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Often, the <error-spelling:en_US>spellweavers</error-spelling:en_US> across <error-spelling:en_US>Vinimroth</error-spelling:en_US> forget just how powerful the forces they use are.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Živko Kondić
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

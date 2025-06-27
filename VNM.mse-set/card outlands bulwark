@@ -20,6 +20,7 @@ card:
 	notes:
 		!note hybrid
 		!addtoken BlackWurm;GreenWurm;
+		!tag outlands;
 	time_created: 2021-04-25 03:47:22
 	time_modified: 2025-02-28 22:12:29
 	name: Outlands Bulwark

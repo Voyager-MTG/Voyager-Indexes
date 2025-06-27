@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLUECOMMON
+		CU19
+		
+		!replacetoken Liberated Reminder;1
+	time_created: 2022-06-21 00:25:52
+	time_modified: 2025-02-07 06:42:45
+	name: Erysium Injection
+	casting_cost: 1U
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: <kw-A><nospellcheck><key>Liberate</key></nospellcheck> target artifact, creature, or enchantment.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>The Injectors covertly roam the streets, turning critics into converts or monsters.</i-flavor>
+	illustrator: Ludovico Tellatin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

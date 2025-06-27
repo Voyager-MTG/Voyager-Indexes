@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-10-08 22:24:50
-	time_modified: 2024-10-18 19:13:13
+	time_modified: 2025-06-21 15:14:33
 	name: Star-Binding Command
 	casting_cost: 1W
 	image: image114
@@ -19,7 +19,7 @@ card:
 	rarity: rare
 	rule_text:
 		Choose two—
-		<li><bullet>• </bullet>Players can’t cast noncreature spells until end of turn.
+		<li><bullet>• </bullet>Players can’t cast noncreature spells until your next turn.
 		</li><li><bullet>• </bullet>You gain 3 life.
 		</li><li><bullet>• </bullet>Prevent all damage target creature would deal until end of turn.
 		</li><li><bullet>• </bullet>Return target creature you control to its owner’s hand and draw a card.</li>

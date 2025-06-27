@@ -18,15 +18,18 @@ card:
 		!tag Waldemar
 		!tag Dewold
 		!tag Planeswalker
+		!tag fascism;
 	time_created: 2025-02-24 00:44:17
 	time_modified: 2025-04-25 09:07:08
 	special_text:
 		
-
+		When <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> deals combat damage to a player, you may exile <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> from the battlefield. If you do, return him to the battlefield transformed if he was your chosen heir.
+		When <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> dies, each opponent discards a card.<sep><line>
+		</line></sep><i-flavor></i-flavor>
 	special_text_2:
 		At the beginning of your upkeep, you lose 2 life and <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner draws a card. Remove a loyalty counter from <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>.
-		[-1]: <margin:190:0:0>Discard a card. If you didn’t discard a nonland card this way, <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner creates a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:190:0:0>
-		[-2]: <margin:190:0:0>Sacrifice a non-Waldemar permanent.</margin:190:0:0>
+		[-1]: <margin:130:0:0>Discard a card. If you didn’t discard a nonland card this way, <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner creates a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Sacrifice a non-Waldemar permanent.</margin:130:0:0>
 		<>
 		<>
 	card_color_2: black
@@ -63,8 +66,8 @@ card:
 	level_3_text: 
 	level_4_text: <kw-A><nospellcheck><key>Heir—<param-name>It’s not game one, you didn’t sideboard this game, and you had no other cards in your sanctum.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto></atom-reminder-expert></kw-A>
 	level_9_text: At the beginning of your upkeep, you lose 2 life and <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner draws a card. Remove a loyalty counter from <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>.
-	level_10_text: <margin:190:0:0>Discard a card. If you didn’t discard a nonland card this way, <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner creates a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:190:0:0>
-	level_11_text: <margin:190:0:0>Sacrifice a non-Waldemar permanent.</margin:190:0:0>
+	level_10_text: <margin:130:0:0>Discard a card. If you didn’t discard a nonland card this way, <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner creates a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_11_text: <margin:130:0:0>Sacrifice a non-Waldemar permanent.</margin:130:0:0>
 	level_12_text: <>
 	level_13_text: 
 	level_14_text: 

@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !tag deinomarket;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-06-17 20:52:38
+	name: Market Negotiator
+	casting_cost: GW
+	image: image466
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever you cast a noncreature spell, you may choose one that hasn’t been chosen this turn—
+		<li><bullet>• </bullet>You gain 3 life.
+		</li><li><bullet>• </bullet>Draw a card.
+		</li><li><bullet>• </bullet>Put a +1/+1 counter on this creature.</li>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Earl Lan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

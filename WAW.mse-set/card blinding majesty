@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: !tokens Wonder Token2>;
+	notes: 
 	time_created: 2024-12-14 17:39:27
 	time_modified: 2025-03-05 22:58:57
 	card_color: white

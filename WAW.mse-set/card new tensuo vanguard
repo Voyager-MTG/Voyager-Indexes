@@ -10,7 +10,9 @@ card:
 		shrink_font_size: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !exportname New Tensuo Vanguard Token;
+	notes:
+		!exportname New Tensuo Vanguard Token;
+		!related New Tensuo Vanguard
 	time_created: 2024-12-08 12:24:23
 	time_modified: 2025-01-30 22:47:30
 	card_color: white

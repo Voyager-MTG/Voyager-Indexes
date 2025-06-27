@@ -7,9 +7,10 @@ card:
 	time_created: 2024-10-15 16:26:45
 	time_modified: 2024-10-25 15:31:02
 	special_text:
-		
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		I, II — Draw a card.
 		III — When you next resolve an instant or sorcery spell this turn, return it from your graveyard to your hand.
+		​
 	name: Petition the Abominable
 	casting_cost: 1UU
 	image: image144

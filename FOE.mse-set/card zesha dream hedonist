@@ -1,0 +1,66 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		dfc_type: modal with standard flags
+		front_chop: 0,12
+		back_chop: 5,12
+		other_options: use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!related Lucillica Dreamscapeattach>;
+		!addtoken Lucillica Dreamscape;transform;
+		Verdant
+		!backname Lucillica Dreamscape
+	time_created: 2023-05-07 14:48:33
+	time_modified: 2025-06-14 16:28:18
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal front
+			front_modal_flag: blue
+			back_modal_flag: blue, land
+			back_type_hint: Land
+			back_color_hint: <sym>T</sym>: Add <sym>U</sym>.
+			front_type_hint: 
+			front_color_hint: 
+	card_color_2: blue, land
+	name: Zesha, Dream Hedonist
+	name_2: Lucillica Dreamscape
+	casting_cost: 2U
+	image: image412
+	image_2: image_222.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Land</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Nightmare</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-land></word-list-land>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Zesha, Dream Hedonist</nospellcheck></atom-cardname> deals combat damage to a player, that player exiles that many cards from the top of their library. 
+		You may play land cards from among face up cards you don’t own in exile.
+	rule_text_2:
+		As this land enters, you may pay 3 life. If you don’t, it enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
+		<sym-auto>3U</sym-auto>: Transform this land until end of turn.
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor>To sleep in <error-spelling:en_US>Lucillica</error-spelling:en_US> is to invite the evil in your heart to reign free.</i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Asur Misoa
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

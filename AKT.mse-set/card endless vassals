@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		BLACKUNCOMMON
+		UB10
+	time_created: 2021-05-07 18:30:53
+	time_modified: 2025-03-31 02:50:21
+	name: Endless Vassals
+	casting_cost: 1BB
+	image: image62
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Return to your hand any number of target creature cards in your graveyard that have no creature types in common.
+	flavor_text:
+		<i-flavor>“No point being a giraffe when one can be a god.”<soft-line>
+		—Lord <error-spelling:en_US>Herongrand</error-spelling:en_US>, <error-spelling:en_US>Thoughtlich</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Jaygraphixx
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

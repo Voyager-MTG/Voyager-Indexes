@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: Whenever a creature entering the battlefield would cause an ability to trigger, you may pay 2. If you do, copy that ability. You may choose new targets for the copy.
+	time_created: 2023-07-17 01:34:09
+	time_modified: 2025-03-19 22:52:04
+	special_text: 
+	name: Latent Powerstone
+	casting_cost: WU
+	image: image163
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en>Boon</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		You may cast spells with mana value 5 or greater from your sanctum.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Copy target triggered ability that triggered when a creature entered under your control. You may choose new targets for the copy.
+	rule_text_2: <i-auto>(Once per game, you may cast this boon if it’s path is at max loyalty.)</i-auto>
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	loyalty_cost_2: 5
+	level_1_text: 
+	level_2_text: 
+	level_3_text: 
+	level_4_text: 
+	power: 
+	toughness: 
+	illustrator: Kent Davis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

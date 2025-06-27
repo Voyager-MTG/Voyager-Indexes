@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-02-06 01:54:19
+	time_modified: 2024-12-08 22:25:01
+	name: Lizturbance
+	casting_cost: B
+	image: image314
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(If you control at least four permanents of a color, illuminate that color this game.)</i-auto></atom-reminder-action></kw-A>
+		Create a 1/1 black enchantment Lizard creature token. Then if you illuminated black, create a 1/1 black enchantment Lizard creature token.
+		Creature tokens you control gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Max Duran
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

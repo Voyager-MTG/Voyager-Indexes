@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		altered_plus_frames: star
+		other_options: pokemon evobar, auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-11-03 01:55:43
+	name: Smogborn Pilferer
+	alias: This card can start in your sanctum.                             
+	casting_cost: 1B
+	image: image40
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Healing <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>2</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever <atom-cardname><nospellcheck>Smogborn Pilferer</nospellcheck></atom-cardname> is blocked by a token, defending player loses 2 life.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>The paths offer grim opportunities that seldom find themselves pursued by the self-proclaimed righteous.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Vlashyrk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

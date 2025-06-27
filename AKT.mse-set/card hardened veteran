@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITECOMMON
+		CW11
+		SOLDIERTYPE
+	time_created: 2022-10-11 12:08:59
+	time_modified: 2025-01-24 22:25:34
+	name: Hardened Veteran
+	casting_cost: 4W
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snail</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: Whenever <atom-cardname><nospellcheck>Hardened Veteran</nospellcheck></atom-cardname> attacks, other creatures you control get +1/+1 until end of turn.
+	flavor_text:
+		<i-flavor>“I can’t stand the winter.”<soft-line>
+		</soft-line>“<error-spelling:en_US>Callwolves</error-spelling:en_US> get too rowdy this time?”<soft-line>
+		</soft-line>“Nah. Road salt.”</i-flavor>
+	power: 3
+	toughness: 5
+	illustrator: Akeiron
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		GREENCOMMON
+		CG01
+		CITIZENTYPE
+	time_created: 2022-11-12 02:53:29
+	time_modified: 2024-03-07 17:40:33
+	card_color: green
+	name: Signal Officer
+	casting_cost: G
+	image: image25
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Signal Officer</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>“Rat, human, or <error-spelling:en_US>urdon</error-spelling:en_US>, the trains exist to get you where you need to be.”</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Ben Guldemond
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-04-02 00:15:45
+	time_modified: 2025-03-20 00:52:43
+	name: Lithify
+	casting_cost: 2I
+	image: image425
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Destroy target enchantment.
+		Draw a card.
+	flavor_text: <i-flavor>Discovering the truth of the moon temporarily left the party speechless.</i-flavor>
+	illustrator: Earl Lan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

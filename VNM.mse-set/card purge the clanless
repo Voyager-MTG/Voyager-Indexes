@@ -15,7 +15,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: !note hybrid
+	notes:
+		!note hybrid
+		!tag fascism;
 	time_created: 2021-04-25 03:20:37
 	time_modified: 2025-02-27 16:28:42
 	extra_data:

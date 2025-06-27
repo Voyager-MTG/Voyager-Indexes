@@ -14,7 +14,7 @@ card:
 	time_created: 2024-10-14 16:40:14
 	time_modified: 2024-10-26 14:40:15
 	special_text:
-		
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		I — You may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>five</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		II — Return a permanent card from your graveyard to your hand.
 		III — You may put a permanent card from your hand onto the battlefield.

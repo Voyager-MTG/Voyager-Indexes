@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/NGBeAz
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-23 18:31:03
+	name: Rend Hope
+	name_2: 
+	casting_cost: 1B
+	image: image330
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: <kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — Exile target player’s graveyard, then draw a card. If you control five or more differently named lands, each opponent loses 3 life.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Marie quietly destroyed <error-spelling:en_US>Meirel’s</error-spelling:en_US> chance to stop her by removing their history.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Felipe Yonekawa
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

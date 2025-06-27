@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-04-03 00:27:43
+	time_modified: 2024-11-02 19:52:46
+	name: Clerics Claymore
+	casting_cost: 3
+	image: image192
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text:
+		When this equipment enters and whenever you gain life, attach this to up to one target creature you control.
+		Equipped creature gets +2/+2.
+		Equipped creature has <kw-A><nospellcheck><key>healing <param-number>2</param-number></key></nospellcheck>.<atom-reminder-expert> <i-auto>(Damage dealt by that creature also causes you to gain <param-number>2</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: BAD MOON ART STUDIO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

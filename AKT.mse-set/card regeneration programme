@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: hands
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		ARCUNSET2
+		OTHERUNCOMMON
+		ARTIFICERTYPE
+		
+		WORK
+	time_created: 2023-01-08 16:33:51
+	time_modified: 2024-01-13 04:15:07
+	name: Regeneration Programme
+	casting_cost: 1GU
+	image: image121
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en>Artificer</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Put four +1/+1 counters on target artifact or enchantment. It becomes a 0/0 Incarnation creature in addition to its other types.
+		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-legname><nospellcheck>Regeneration Programme</nospellcheck></atom-legname> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that an Artificer you control dealt damage to an opponent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Joseph Nickson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 5
+		frames: 
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		OTHERRARE
+		WORK
+		PENCILIN
+		ADVISORTYPE
+		NOBLECYC
+	time_created: 2023-09-24 12:55:22
+	time_modified: 2025-02-25 18:58:07
+	name: Ilx, Mothweft Ambassador
+	casting_cost: 1WB
+	image: image131.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		As an additional cost to cast <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ilx</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, <kw-0><nospellcheck><key>embrace</key></nospellcheck></kw-0> four other Advisors from your graveyard.  <i-auto>(Exile them. You may cast them on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</i-auto>
+		You may cast <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ilx</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> from your graveyard.
+		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 3
+	illustrator: MonoKubo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

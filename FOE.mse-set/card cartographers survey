@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !exportname Cartographers Survey
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2023-12-28 11:35:51
+	name: Cartographer's Survey
+	casting_cost: 3G
+	image: image353
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: Look at the top seven cards of your library. Put up to two land cards from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“Can you believe that they asked me to do cartography too?”<soft-line>
+		</soft-line>—<error-spelling:en_US>Murin</error-spelling:en_US>, Field <error-spelling:en_US>Cremator</i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Eren ARIK
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

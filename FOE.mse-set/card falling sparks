@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-10-16 22:02:40
+	time_modified: 2024-10-16 22:05:41
+	name: Falling Sparks
+	casting_cost: X1IR
+	image: image431
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: <kw-A><i-auto><nospellcheck><key>Converge</key></nospellcheck></i-auto></kw-A> — <atom-cardname><nospellcheck>Falling Sparks</nospellcheck></atom-cardname> deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. You gain that much life.
+	flavor_text: <i-flavor>“Every so often, we sat under the night sky, me and chirps. I wish we did it more often.” —<error-spelling:en_US>Najael</i-flavor></error-spelling:en_US>
+	illustrator: Artem Chebokha
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

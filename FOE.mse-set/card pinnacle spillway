@@ -1,0 +1,57 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		frames: lesson
+		altered_plus_frames: path, backdfc
+		name_color: white
+		typeline_color: white
+		custom_symbol: abstract-061.png
+		other_options: auto nyx crowns
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!related Eroding Riverattach>;
+		Note:Backside
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-07-30 22:29:18
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal back
+			smallbox_text: 
+	card_color: black
+	name: Pinnacle Spillway
+	casting_cost: 
+	image: image277
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: Whenever you attack, up to one target creature you control gets +1/+1 and gains <kw-A><nospellcheck><key>healing <param-number>1</param-number></key></nospellcheck> until end of turn.<atom-reminder-expert> <i-auto>(Damage dealt by that creature also causes you to gain <param-number>1</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>When the world split, some parts of <error-spelling:en_US>vinimroth</error-spelling:en_US> were torn off and sent into the blind eternities, creating their own sanctums to be discovered.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Max Duran
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

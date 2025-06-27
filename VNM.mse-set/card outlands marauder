@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes:
 		Updated<soft-line>
-		</soft-line>
+		!tag outlands;</soft-line>
 	time_created: 2021-04-25 03:20:37
 	time_modified: 2025-03-01 21:03:27
 	card_color: white

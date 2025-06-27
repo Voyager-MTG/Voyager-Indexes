@@ -1,0 +1,51 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: false
+	notes:
+		!related Pinnacle Spillwayattach>;
+		!addtoken Pinnacle Spillway;transform;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-06-14 16:08:58
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal front
+			smallbox_text: 
+	card_color_2: black
+	name: Eroding River
+	name_2: Pinnacle Spillaway
+	alias: This card can start in your sanctum.                             
+	casting_cost: 1B
+	image: image38
+	image_2: image_214.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		When this realm enters, create a 2/1 black Lizard creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
+		<sym-auto>2B</sym-auto>: Transform this realm.
+	rule_text_2: Whenever you attack, up to one target creature you control gets +1/+1 and gains <kw-A><nospellcheck><key>healing <param-number>1</param-number></key></nospellcheck> until end of turn.<atom-reminder-expert> <i-auto>(Damage dealt by that creature also causes you to gain <param-number>1</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“Though filled with decay, I can sense new life sprouting here. What a new feeling.”<soft-line>
+		—<error-spelling:en_US>Najael</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor>When the world split, some parts of <error-spelling:en_US>Vinimroth</error-spelling:en_US> were torn off and sent into the blind eternities, creating their own sanctums to be discovered.</i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Gabriel Nagypal
+	illustrator_2: Max Duran
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

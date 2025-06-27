@@ -9,7 +9,7 @@ card:
 		shrink_typeline_text: 1
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !related Norr, Ajha’s Lieutenant;
 	time_created: 2025-01-28 20:10:54
 	time_modified: 2025-01-28 20:12:07
 	card_color: black

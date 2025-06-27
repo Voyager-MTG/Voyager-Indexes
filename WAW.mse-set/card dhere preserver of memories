@@ -11,7 +11,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !tokens Story of a Dead Plane;
+	notes: 
 	time_created: 2025-01-25 12:24:46
 	time_modified: 2025-01-30 22:31:05
 	extra_data:

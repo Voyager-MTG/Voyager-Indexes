@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		ARCUNSET1
+		OTHERUNCOMMON
+		ADVISORTYPE
+	time_created: 2023-01-08 16:33:51
+	time_modified: 2024-06-10 02:44:11
+	name: Spokesman of the Mothweft
+	casting_cost: WB
+	image: image110
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Rat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>W</sym-auto>, Discard a card: Create a 1/1 white Insect Advisor creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		<sym-auto>B</sym-auto>, Pay 1 life, Tap three untapped Advisors you control: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Alexandr Elichev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

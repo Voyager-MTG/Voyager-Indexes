@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-03-03 03:52:20
+	name: Light of Hope
+	casting_cost: W
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		Choose one—
+		<li><bullet>• </bullet>You gain 4 life.
+		</li><li><bullet>• </bullet>Destroy target enchantment.
+		</li><li><bullet>• </bullet>Put a +1/+1 counter on target creature.</li>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: zandaraart
+	card_code_text: • Reprint
+	card_code_text_2: • Reprint
+	card_code_text_3: • Reprint
+	copyright: 
+	copyright_2: 
+	copyright_3: 

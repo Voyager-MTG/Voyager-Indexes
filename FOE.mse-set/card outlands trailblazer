@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		!tag outlands;
+		traverse 3
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-11-13 10:38:03
+	name: Outlands Trailblazer
+	casting_cost: 3U
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>Outlands Trailblazer</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand. )</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>“Our debt to <error-spelling:en_US>Vinimroth</error-spelling:en_US> will never truly be repaid. All we can do now is offer our minds and bodies to protect it.”</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: Aleksey Iromonik Konyshev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

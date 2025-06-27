@@ -73,282 +73,282 @@ styling:
 	magic-m15-token-legendary:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-include_file: card skeletonfy
-include_file: card broken shortsword
-include_file: card forest
-include_file: card fabers hatching
-include_file: card return for duty
-include_file: card deathless ceremony
-include_file: card spider
-include_file: card merfolk horror
-include_file: card frenzied predation
-include_file: card through the skull
-include_file: card craftiness of the meek
-include_file: card misleading mist
-include_file: card fling through hell
 include_file: card radiant chains
-include_file: card demonic vortex
-include_file: card hellfire ant
-include_file: card immortal oath
-include_file: card viscera blast
-include_file: card tranquil repose
-include_file: card return the forsaken
-include_file: card begin again
-include_file: card sign in blood
-include_file: card crackshot skeleton
-include_file: card skeleton
-include_file: card hallowed mist
-include_file: card gloom fracture
-include_file: card march from beyond
-include_file: card shamble en masse
-include_file: card orbisfabers corruption
-include_file: card whispering walls
-include_file: card impending return
-include_file: card silfidiaes influence
-include_file: card mad summoner
-include_file: card abyssal captain
-include_file: card burst forth
-include_file: card reduce to embers
-include_file: card fiendish scheming
-include_file: card bloodied lieutenant
-include_file: card davriel the pactmaker
-include_file: card nightmare webbing
-include_file: card invigorating essence
-include_file: card spitting hellfire
-include_file: card aggressive foraging
-include_file: card morideuss influence
-include_file: card demonic influence
-include_file: card maddening descent
-include_file: card aged warmage
-include_file: card provoking the masses
-include_file: card malicious mimicry
-include_file: card unshackled desire
-include_file: card cryptkeepers vow
+include_file: card dutybound lich
+include_file: card crypt defenders
+include_file: card kinnamons stitched
+include_file: card duskrider cavalry
+include_file: card smoke whisperer
 include_file: card faithful gaze
 include_file: card welcoming touch
-include_file: card fabricated phylactery
-include_file: card inflaming smite
-include_file: card castle saluss catacombs
-include_file: card cliff-pit hanger
+include_file: card skyclaws
+include_file: card upholder of rites
+include_file: card return the forsaken
+include_file: card hungering sentinel
+include_file: card tranquil repose
+include_file: card doubling imp
+include_file: card orbisfabers hellspawn
+include_file: card secret dealings
+include_file: card warping whisper
+include_file: card bloodied stalker
+include_file: card gigas screamer
+include_file: card drag under
+include_file: card fractured epiphany
+include_file: card last sip
+include_file: card osavotuss pet
+include_file: card gloom fracture
+include_file: card ends embrace
+include_file: card puppet weaver
+include_file: card return for duty
+include_file: card wandering lich
+include_file: card repurposed bloodrinker
+include_file: card bloodied corpse
+include_file: card phylactery crafter
+include_file: card bloodthirsty dragon
+include_file: card skeletonfy
+include_file: card moon renegade
+include_file: card deathless ceremony
+include_file: card embodiment of hell
+include_file: card through the skull
+include_file: card sign in blood
+include_file: card zeramanders spawn
+include_file: card magma spray
+include_file: card burst forth
+include_file: card bloodclot traveler
+include_file: card aloof ichormancer
+include_file: card salvaged legionnaire
+include_file: card vampire hemoblade
+include_file: card burning walker
+include_file: card reduce to embers
+include_file: card unshackled desire
+include_file: card nightmare webbing
+include_file: card aggressive foraging
+include_file: card skittering skullsifter
+include_file: card predators gaze
+include_file: card invigorating essence
+include_file: card quarter crasher
+include_file: card decomposing guardian
+include_file: card disturb the undergrowth
+include_file: card smeltingtree
+include_file: card bloodied overgrowth
+include_file: card bone collector
+include_file: card bloodroot demon
+include_file: card lichs assembly
+include_file: card capricious count
+include_file: card fabers hatching
+include_file: card craftiness of the meek
+include_file: card fides bloodied confidant
+include_file: card repulsive blast
+include_file: card forlorn scouring
+include_file: card mad summoner
+include_file: card orbisfabers corruption
+include_file: card misleading mist
+include_file: card secure mortality
+include_file: card skullspeaker
+include_file: card shamble en masse
+include_file: card aged warmage
+include_file: card demonic influence
+include_file: card whispering walls
+include_file: card hellfire ant
+include_file: card culling demon
+include_file: card ichorous tyrant
+include_file: card cryptborn bones
+include_file: card deerstalker
+include_file: card eternal slayer
+include_file: card rambunctious bonewalkers
+include_file: card zeramanders infiltrator
+include_file: card unflinching bloodlust
+include_file: card repulsive drake
+include_file: card composting hellion
+include_file: card stranded hatchling
+include_file: card eafems brood
+include_file: card disembodied lich
+include_file: card widespread cataclysm
+include_file: card fling through hell
+include_file: card overwhelming consumption
 include_file: card smoldering tormentor
 include_file: card davriels dealbroker
-include_file: card undue death devourer
-include_file: card magma spray
-include_file: card upholder of rites
-include_file: card repulsive blast
-include_file: card wandering lich
-include_file: card hellemental
-include_file: card unflinching bloodlust
-include_file: card fractured epiphany
-include_file: card embodiment of hell
-include_file: card predators gaze
-include_file: card burning walker
-include_file: card bloodied overgrowth
-include_file: card culling demon
-include_file: card zeramanders spawn
+include_file: card demonlord silfidiae
 include_file: card bonemarrow hydra
-include_file: card rambunctious bonewalkers
-include_file: card cryptborn bones
+include_file: card cryptkeepers vow
+include_file: card tenacious legion
+include_file: card watchdog liches
 include_file: card bones to flesh
-include_file: card decomposing guardian
-include_file: card repulsive drake
-include_file: card crumbling monstrosity
+include_file: card hibernating dragon
+include_file: card march from beyond
+include_file: card demonic vortex
+include_file: card cerebral devilfish
 include_file: card rattlers crusade
+include_file: card calcinere world burner
+include_file: card invigorating corpsemancer
+include_file: card viscera blast
+include_file: card cliff-pit hanger
+include_file: card aggravator of herds
+include_file: card savage snapper
+include_file: card crackshot skeleton
+include_file: card gaping skimmer
 include_file: card rattletroop
-include_file: card skeleton hydra
-include_file: card skeleton horse
-include_file: card vampire soldier
+include_file: card begin again
+include_file: card fabricated phylactery
+include_file: card thicket taker
+include_file: card twisted underling
+include_file: card retributive hellknight
+include_file: card unhinged giant
+include_file: card skittering hellflayer
+include_file: card crypt vessel
+include_file: card infected wolf
+include_file: card adapted servant
+include_file: card broken shortsword
+include_file: card dreaded savior
+include_file: card saintly remains
+include_file: card blood petunia
+include_file: card maddening descent
+include_file: card spitting hellfire
+include_file: card grafted boneshatterer
+include_file: card inflaming smite
+include_file: card provoking the masses
+include_file: card immortal oath
+include_file: card crashing murmurer
+include_file: card frenzied predation
+include_file: card marsh grower
+include_file: card legion bonecracker
+include_file: card malicious mimicry
+include_file: card vengeful grovekeeper
+include_file: card tanglemess hydra
+include_file: card unholy communion
+include_file: card infusing ritual
+include_file: card thought scour
+include_file: card schefelix abyssal retriever
+include_file: card crumbling monstrosity
+include_file: card twisted guardian
+include_file: card mirumea ambush master
+include_file: card davriel the pactmaker
+include_file: card overgrowing burial
+include_file: card submerging grotto
+include_file: card tunneling hideaway
+include_file: card slumbering lavafields
+include_file: card striking waterfalls
+include_file: card winding quagmire
+include_file: card despairing marsh
+include_file: card rotting mineshaft
+include_file: card receding coastline
+include_file: card forest
 include_file: card zombie
+include_file: card merfolk horror
+include_file: card skeleton
+include_file: card spider
+include_file: card castle saluss catacombs
+include_file: card hellemental
+include_file: card silfidiaes influence
+include_file: card kinnamons influence
+include_file: card morideuss influence
+include_file: card skeleton hydra
+include_file: card undue death devourer
+include_file: card skeleton horse
+include_file: card imposing asylum
+include_file: card agonizing pit
+include_file: card impending return
+include_file: card hallowed mist
+include_file: card rescede coffen of kings
+include_file: card fiendish scheming
+include_file: card abyssal captain
 include_file: card ashen watcher
 include_file: card assume power
 include_file: card awoken pariah
 include_file: card blood heron
-include_file: card tenacious legion
-include_file: card fides bloodied confidant
-include_file: card duskrider cavalry
+include_file: card bloodied lieutenant
 include_file: card blessing of blood and steel
-include_file: card ichorous tyrant
-include_file: card agonizing pit
-include_file: card calcinere world burner
 include_file: card bloodguard of salus
-include_file: card winding quagmire
-include_file: card tunneling hideaway
-include_file: card submerging grotto
-include_file: card striking waterfalls
-include_file: card slumbering lavafields
-include_file: card rotting mineshaft
-include_file: card receding coastline
-include_file: card overgrowing burial
-include_file: card despairing marsh
-include_file: card imposing asylum
-include_file: card forlorn scouring
-include_file: card disturb the undergrowth
-include_file: card secure mortality
-include_file: card last sip
-include_file: card widespread cataclysm
-include_file: card overwhelming consumption
-include_file: card bloodroot demon
 include_file: card bloodlord kinnamon
-include_file: card demonlord silfidiae
-include_file: card dreaded savior
-include_file: card thought scour
-include_file: card dutybound lich
-include_file: card hungering sentinel
-include_file: card kinnamons influence
-include_file: card kinnamons stitched
-include_file: card retributive hellknight
-include_file: card salvaged legionnaire
-include_file: card skyclaws
-include_file: card smoke whisperer
-include_file: card crypt defenders
-include_file: card watchdog liches
-include_file: card bloodied stalker
-include_file: card bone collector
-include_file: card doubling imp
-include_file: card drag under
-include_file: card ends embrace
-include_file: card schefelix abyssal retriever
+include_file: card vampire soldier
 include_file: card donum-dei lake of blood
-include_file: card mirumea ambush master
-include_file: card gaping skimmer
-include_file: card gigas screamer
-include_file: card skittering hellflayer
-include_file: card unhinged giant
-include_file: card blood petunia
-include_file: card deerstalker
-include_file: card legion bonecracker
-include_file: card hibernating dragon
-include_file: card lichs assembly
-include_file: card orbisfabers hellspawn
-include_file: card osavotuss pet
-include_file: card rescede coffen of kings
-include_file: card secret dealings
-include_file: card twisted underling
-include_file: card warping whisper
-include_file: card aloof ichormancer
-include_file: card bloodied corpse
-include_file: card bloodthirsty dragon
-include_file: card cerebral devilfish
-include_file: card moon renegade
-include_file: card phylactery crafter
-include_file: card puppet weaver
-include_file: card bloodclot traveler
-include_file: card capricious count
-include_file: card eternal slayer
-include_file: card invigorating corpsemancer
-include_file: card repurposed bloodrinker
-include_file: card vampire hemoblade
-include_file: card zeramanders infiltrator
-include_file: card aggravator of herds
-include_file: card composting hellion
-include_file: card infected wolf
-include_file: card quarter crasher
-include_file: card savage snapper
-include_file: card skittering skullsifter
-include_file: card smeltingtree
-include_file: card stranded hatchling
-include_file: card thicket taker
-include_file: card twisted guardian
-include_file: card crashing murmurer
-include_file: card disembodied lich
-include_file: card infusing ritual
-include_file: card marsh grower
-include_file: card saintly remains
-include_file: card skullspeaker
-include_file: card tanglemess hydra
-include_file: card unholy communion
-include_file: card vengeful grovekeeper
-include_file: card adapted servant
-include_file: card crypt vessel
-include_file: card grafted boneshatterer
-include_file: card gnarledroot demon
-include_file: card explosive might
-include_file: card return from ash
-include_file: card ichorsplosion
-include_file: card ransack the tombs
-include_file: card bemused gorger
-include_file: card skittering demon
-include_file: card corrupted nightwing
-include_file: card deerstalker.1
-include_file: card rattling gorger
-include_file: card gnarled hydra
-include_file: card ignition devil
-include_file: card dwellers hound
-include_file: card bone brigade
-include_file: card ashen crasher
-include_file: card resilient rot
-include_file: card husked consumer
-include_file: card demonic butcher
-include_file: card bloodstarved ghoul
-include_file: card icicle crasher
-include_file: card deceptive shadow
-include_file: card processing revenant
 include_file: card deeptomb guardian
-include_file: card ferocious maneater
-include_file: card overwhelming presence
-include_file: card monstrous invocation
-include_file: card unidentifiable mass
-include_file: card rotting leviathan
-include_file: card shambling mistwalker
-include_file: card abyssal smoke
-include_file: card chaining hellspawn
-include_file: card skullcrushing fiend
-include_file: card eafem lethal arachne
+include_file: card desperate sealing
+include_file: card ignosco deaths absolution
+include_file: card processing revenant
+include_file: card return from ash
 include_file: card sorin vengeful sangrablade
+include_file: card soul devouring core
+include_file: card bloodmoon champion
+include_file: card callous willbreaker
+include_file: card corrupted nightwing
+include_file: card creeping frost
+include_file: card deceptive shadow
+include_file: card demonlord orbisfaber
+include_file: card fervens the boiling lake
+include_file: card ghastly tide
+include_file: card hellish mistwarper
+include_file: card icicle crasher
+include_file: card orbisfabers influence
+include_file: card osavotus contract dealer
+include_file: card rotting leviathan
+include_file: card shadowbender lich
+include_file: card shambling mistwalker
+include_file: card tundra screecher
+include_file: card unidentifiable mass
+include_file: card abyssal smoke
+include_file: card bloodsoaked mass
+include_file: card bloodstarved ghoul
+include_file: card chaining hellspawn
+include_file: card demonic butcher
+include_file: card demonlord morideus
+include_file: card husked consumer
+include_file: card ichorsplosion
+include_file: card resilient rot
 include_file: card rotten insight
 include_file: card scouring flames
-include_file: card bloodthirsty howler
-include_file: card fields of bone
-include_file: card perpetual depths
-include_file: card shrine of unburial
-include_file: card mysterious altar
-include_file: card drained crevace
-include_file: card imposing clearing
-include_file: card cresting spires
-include_file: card splintering growth
-include_file: card sweltering shoals
-include_file: card twisted eruption
-include_file: card sparse weblands
-include_file: card orbisfabers influence
-include_file: card hellish mistwarper
-include_file: card zeramanders influence
-include_file: card creeping frost
-include_file: card from beneath the woods
-include_file: card tundra screecher
-include_file: card callous willbreaker
-include_file: card shadowbender lich
-include_file: card harvesting revenant
-include_file: card valley lurker
-include_file: card desperate sealing
-include_file: card intruding undergrowth
+include_file: card ashen crasher
+include_file: card bemused gorger
 include_file: card blazing raid
-include_file: card servant of laceration
-include_file: card foreboding milestone
-include_file: card vicaroam the crushing vines
-include_file: card bloodmoon champion
-include_file: card collapsing citadel
-include_file: card remains of despair
-include_file: card ignosco deaths absolution
-include_file: card fervens the boiling lake
-include_file: card osavotus contract dealer
-include_file: card bloodsoaked mass
-include_file: card demonlord orbisfaber
-include_file: card hateful amalgam
-include_file: card demonlord zeramander
-include_file: card demonlord morideus
-include_file: card ghastly tide
-include_file: card thickets ghostcaller
-include_file: card mountain
-include_file: card swamp
-include_file: card plains
-include_file: card island
-include_file: card midnight stalker
-include_file: card soul devouring core
 include_file: card bloodbag slaughterer
-include_file: card anord maddening lich
-include_file: card galvanized necrowing
+include_file: card bloodthirsty howler
+include_file: card bone brigade
+include_file: card demonlord zeramander
+include_file: card dwellers hound
+include_file: card hateful amalgam
+include_file: card ignition devil
+include_file: card ransack the tombs
+include_file: card skittering demon
+include_file: card twisted eruption
+include_file: card zeramanders influence
+include_file: card eafem lethal arachne
+include_file: card explosive might
+include_file: card ferocious maneater
+include_file: card from beneath the woods
+include_file: card gnarled hydra
+include_file: card gnarledroot demon
+include_file: card harvesting revenant
+include_file: card midnight stalker
+include_file: card overwhelming presence
+include_file: card rattling gorger
 include_file: card skittering host
-include_file: card eafems brood
+include_file: card skullcrushing fiend
+include_file: card splintering growth
+include_file: card valley lurker
+include_file: card vicaroam the crushing vines
+include_file: card anord maddening lich
+include_file: card deerstalker.1
+include_file: card galvanized necrowing
+include_file: card intruding undergrowth
+include_file: card monstrous invocation
+include_file: card remains of despair
+include_file: card thickets ghostcaller
+include_file: card foreboding milestone
+include_file: card servant of laceration
+include_file: card collapsing citadel
+include_file: card cresting spires
+include_file: card drained crevace
+include_file: card fields of bone
+include_file: card imposing clearing
+include_file: card island
+include_file: card mountain
+include_file: card mysterious altar
+include_file: card perpetual depths
+include_file: card plains
+include_file: card shrine of unburial
+include_file: card sparse weblands
+include_file: card swamp
+include_file: card sweltering shoals
 include_file: card thread the undergrowth
 keyword:
 	keyword: Ritual
@@ -377,7 +377,7 @@ keyword:
 keyword:
 	keyword: Pact
 	match: Pact
-	reminder: At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.
+	reminder: At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.
 	rules: 
 	mode: custom
 pack_type:

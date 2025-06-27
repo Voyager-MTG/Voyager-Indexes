@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-23 18:29:19
+	name: Leyline Weaver
+	casting_cost: 1G
+	image: image348
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Treefolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Put a land card from your hand onto the battlefield.
+		<kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — <sym-auto>5</sym-auto>: This creature gets +4/+4 until end of turn. Activate only if you control five or more differently named lands.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: senfeng chen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

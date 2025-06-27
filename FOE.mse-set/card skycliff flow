@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: false
+	notes:
+		!related Skycliff Densattach>;
+		!addtoken Skycliff Dens;transform;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-06-14 15:48:38
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal front
+			smallbox_text: 
+	card_color_2: blue
+	name: Skycliff Flow
+	name_2: Skycliff Dens
+	alias: This card can start in your sanctum.                             
+	casting_cost: 3U
+	image: image305
+	image_2: image_29.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When this enchantment enters, if you cast it and you have less than three cards in hand, draw cards until you have three cards.
+		<sym-auto>2U</sym-auto>: Transform this realm.
+	rule_text_2: Creatures your opponent control get -1/-0.
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Grady Frederick
+	illustrator_2: Gia-Han Lam
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

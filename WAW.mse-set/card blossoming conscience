@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: !tokens Wonder Token;
+	notes: 
 	time_created: 2025-01-23 11:46:16
 	time_modified: 2025-03-05 22:59:18
 	name: Blossoming Conscience

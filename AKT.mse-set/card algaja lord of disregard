@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		CITIZENTYPE
+		NOBLECYC
+		OTHERRARE
+	time_created: 2024-06-22 04:14:28
+	time_modified: 2025-04-05 01:25:08
+	name: Algaja, Lord of Disregard
+	casting_cost: 2BG
+	image: image100.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Crocodile</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Algaja</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>ten</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>Rendered economically worthless, those who refused to take <error-spelling:en_US>erysium</error-spelling:en_US> were pushed into the maws of poverty, loan sharks, sweatshops, and <error-spelling:en_US>Algaja</error-spelling:en_US>.</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: ChaosTheory999
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

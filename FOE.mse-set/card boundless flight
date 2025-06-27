@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 8
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-02-06 01:55:29
+	time_modified: 2025-03-20 00:26:45
+	name: Boundless Flight
+	casting_cost: 2IU
+	casting_cost_2: 
+	image: image174
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Chimera</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When this creature enters, target creature you control gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn. Draw a card from your sanctum or library.
+		<kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>1I/U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 2
+	power_2: 
+	toughness: 3
+	toughness_2: 
+	illustrator: Jessica Faucher
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

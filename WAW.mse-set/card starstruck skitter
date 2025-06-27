@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: !tokens Dragon Token
+	notes: 
 	time_created: 2025-01-08 19:32:47
 	time_modified: 2025-01-27 10:55:10
 	name: Starstruck Skitter

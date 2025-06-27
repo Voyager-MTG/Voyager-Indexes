@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: WORK
+	time_created: 2023-09-07 23:42:37
+	time_modified: 2025-02-14 08:22:35
+	name: High School
+	casting_cost: G
+	image: image55
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text: <sym-auto>G</sym-auto>, <sym-auto>T</sym-auto>, Discard a card with a creature type: Search your library for a card with at least one of that card’s creature types, reveal it, put it into your hand, then shuffle.
+	flavor_text: <i-flavor>Where kids become adults, newts become <error-spelling:en_US>urdons</error-spelling:en_US>, and chairs become chairmen.</i-flavor>
+	illustrator: Andreas Rocha
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

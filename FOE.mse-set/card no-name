@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		When this enchantment enters, draw a card.
+		Whenever you draw a card, you may draw from your library or sanctum.
+		1I, Discard a card: Draw a card.
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-04-01 14:09:44
+	name: 
+	casting_cost: 1
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text:
+		As this artifact enters, choose an opponent.
+		At the beginning of the chosen player’s upkeep, this artifact deals damage to that player equal to the number of cards in their sanctum minus 4.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

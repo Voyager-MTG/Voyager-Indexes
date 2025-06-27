@@ -1,0 +1,54 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: 
+		other_options: pokemon evobar, auto nyx crowns
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-10-14 22:40:31
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: 
+	name: Starfall Outlook
+	alias: This card can start in your sanctum.                             
+	casting_cost: 4U
+	image: image397
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever you cast an enchantment spell, draw a card from your library or sanctum.
+		<kw-A><nospellcheck><key><param-one_word>Frontier</param-one_word>cycling <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck><atom-reminder-action> <i-auto>(<param-cost><sym-auto>1</sym-auto></param-cost>, Discard this card: Search your library for a <param-one_word>Frontier</param-one_word> card, reveal it, put it into your hand, then shuffle.)</i-auto></atom-reminder-action></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>“I understand now. Our stars do fall.”</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Shahab Alizadeh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

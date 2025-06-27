@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-02-06 01:55:16
+	time_modified: 2024-11-03 16:41:12
+	name: Campsite
+	casting_cost: 1
+	image: image396
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: You gain 2 life.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this artifact: Put a card from your sanctum into your hand. Then shuffle up to three target cards from your graveyard into your sanctum.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Grace Liu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

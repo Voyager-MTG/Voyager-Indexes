@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-03-19 23:58:14
+	name: Vestige Prowler
+	casting_cost: 2U
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shark</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		When this creature enters, tap target creature an opponent controls and put a <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> on it.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“So long as you don’t bother it while its hunting, you can just pet the damned thing.”<soft-line>
+		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Sebastian BarthP
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

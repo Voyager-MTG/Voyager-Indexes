@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		WHITERARE07
+		LIZARDTYPE
+	time_created: 2024-02-08 09:57:00
+	time_modified: 2025-01-31 20:54:31
+	name: Mass Migration
+	casting_cost: 2WW
+	image: image83.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: Whenever a land you control enters, return target permanent card in your graveyard with mana value 1 or </sym>2<sym> to the battlefield with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.
+	flavor_text:
+		<i-flavor>“<error-spelling:en_US>Ith</error-spelling:en_US> is its fur, not its buildings. Flee so that its stories may still be woven.”<soft-line>
+		— <error-spelling:en_US>Syyakir</error-spelling:en_US> <error-spelling:en_US>Eyysapha</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Siggie1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: !tokens New Tensuo Physician Token;
+	notes: 
 	time_created: 2024-12-08 13:37:13
 	time_modified: 2025-03-18 16:59:50
 	name: New Tensuo Physician

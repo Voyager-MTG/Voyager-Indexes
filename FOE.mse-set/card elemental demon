@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!related Ignelscor Weaver;
+		!exportname Elemental Demon-01
+	time_created: 2023-06-21 20:58:25
+	time_modified: 2024-02-13 18:24:13
+	card_color: black, red, multicolor, horizontal
+	name: Elemental Demon
+	image: image140
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: <kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Fesbra
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
