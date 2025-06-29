@@ -9,8 +9,8 @@ card:
 		overlay: 
 	notes: //basically urzas saga
 	time_created: 2025-06-28 09:06:14
-	time_modified: 2025-06-28 09:22:44
-	name: 
+	time_modified: 2025-06-28 09:17:23
+	name: Frontier Spire
 	alias: This card can start in your sanctum.                             
 	image: 
 	image_2: 
@@ -20,14 +20,12 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land>Frontier</word-list-land> <soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type: <word-list-land>Frontier</word-list-land><atom-sep> </atom-sep><word-list-land>Spire</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		<sym>T</sym>: Add <sym>W</sym>. If this land entered this turn, add <sym-auto>C</sym-auto> instead.
-		<kw-A><nospellcheck><key>Cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text: <sym-auto>T</sym-auto>, Pay 2 life, Sacrifice this land: Search your library or sanctum for a Frontier card and put it onto the battlefield. If you searched your library this way, shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

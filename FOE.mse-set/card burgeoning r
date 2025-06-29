@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		altered_plus_frames: frontier
@@ -7,10 +9,10 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: //basically urzas saga
+	notes: !tag burgeoning;
 	time_created: 2025-06-28 09:06:14
-	time_modified: 2025-06-28 09:22:44
-	name: 
+	time_modified: 2025-06-28 09:25:04
+	name: Burgeoning R
 	alias: This card can start in your sanctum.                             
 	image: 
 	image_2: 
@@ -26,7 +28,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<sym>T</sym>: Add <sym>W</sym>. If this land entered this turn, add <sym-auto>C</sym-auto> instead.
+		<sym>T</sym>: Add <sym-auto>R</sym-auto>. If this land entered this turn, add <sym-auto>C</sym-auto> instead.
 		<kw-A><nospellcheck><key>Cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

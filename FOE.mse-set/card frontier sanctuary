@@ -17,7 +17,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-02-15 17:46:18
-	time_modified: 2024-11-03 09:58:40
+	time_modified: 2025-06-28 08:20:12
 	extra_data:
 		magic-m15-altered-plus:
 			smallbox_text: 
@@ -38,7 +38,7 @@ card:
 	rule_text:
 		As this land enters, choose a creature type.
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.
+		<sym-auto>T</sym-auto>: Add one mana of any color. Spend this mana only to cast a spell of the chosen type or activate an ability of a source of the chosen type.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The last safe place from Nowhere.</i-flavor>

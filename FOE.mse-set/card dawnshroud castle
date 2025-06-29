@@ -15,7 +15,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-02-13 18:02:26
-	time_modified: 2025-03-22 19:34:54
+	time_modified: 2025-06-28 08:27:43
 	extra_data:
 		magic-m15-altered-plus:
 			smallbox_text: 
@@ -33,7 +33,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — <sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Target creature you control gets +2/+2 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn. Activate only as a sorcery and only if you control six or more differently named lands.
+		<kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — <sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Target creature you control gets +2/+2 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn. Activate only as a sorcery and only if you control five or more differently named lands.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

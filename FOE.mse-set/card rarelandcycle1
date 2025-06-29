@@ -7,10 +7,10 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: //basically urzas saga
+	notes: !tag growing;
 	time_created: 2025-06-28 09:06:14
-	time_modified: 2025-06-28 09:22:44
-	name: 
+	time_modified: 2025-06-28 09:23:03
+	name: #RARELANDCYCLE1
 	alias: This card can start in your sanctum.                             
 	image: 
 	image_2: 

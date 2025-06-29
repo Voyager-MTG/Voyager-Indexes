@@ -490,6 +490,12 @@ include_file: card market negotiator
 include_file: card food
 include_file: card blood
 include_file: card clue
+include_file: card burgeoning w
+include_file: card burgeoning u
+include_file: card burgeoning b
+include_file: card burgeoning r
+include_file: card burgeoning g
+include_file: card burgeoning i
 keyword:
 	keyword: Luminous
 	match: Luminous

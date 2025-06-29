@@ -9,7 +9,7 @@ card:
 		font_cap: 
 		d20_dividers: d20 mode
 		frames: 
-		altered_plus_frames: star
+		altered_plus_frames: 
 		popout_image_style: 
 		use_holofoil_stamps: no
 		card_watermark: sets/Set-foe.png
