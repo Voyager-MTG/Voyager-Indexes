@@ -13,9 +13,11 @@ card:
 	notes: !designer TVP
 	time_created: 2024-02-27 23:55:10
 	time_modified: 2025-04-15 09:04:35
+	time_modified: 2025-04-09 23:31:20
 	name: Mooyan Curry
 	casting_cost: 1I
 	image: image90
+	image_2: image_21.png
 	image_2: image_21.png
 	mainframe_image: 
 	mainframe_image_2: 

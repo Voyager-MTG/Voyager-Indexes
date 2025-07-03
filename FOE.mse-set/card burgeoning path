@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		altered_plus_frames: frontier
+		other_options: pokemon evobar, auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tag burgeoning;
+		https://www.artstation.com/artwork/OvVK06
+	time_created: 2025-06-28 09:06:14
+	time_modified: 2025-06-29 19:34:01
+	card_color: land, multicolor
+	name: Burgeoning Path
+	alias: This card can start in your sanctum.                             
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Frontier</word-list-land> <soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<sym>T</sym>: Add <sym-auto>C</sym-auto>. If this land entered this turn, add one mana of any color instead.
+		<kw-A><nospellcheck><key>Cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>A path forms to connect creation.</i-flavor>
+	illustrator: Shahab Alizadeh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

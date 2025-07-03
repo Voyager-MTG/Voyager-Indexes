@@ -490,12 +490,13 @@ include_file: card market negotiator
 include_file: card food
 include_file: card blood
 include_file: card clue
-include_file: card burgeoning w
-include_file: card burgeoning u
-include_file: card burgeoning b
-include_file: card burgeoning r
-include_file: card burgeoning g
-include_file: card burgeoning i
+include_file: card burgeoning town
+include_file: card burgeoning mindscape
+include_file: card burgeoning pith
+include_file: card burgeoning rockfall
+include_file: card burgeoning jungle
+include_file: card burgeoning peaks
+include_file: card burgeoning path
 keyword:
 	keyword: Luminous
 	match: Luminous

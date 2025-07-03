@@ -18,6 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
+	sub_type_4: 
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
@@ -26,9 +27,11 @@ card:
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
+	rule_text_4: 
 	flavor_text: <i-flavor>An eye for an eye, a tear for a tear.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: kleinerHai
 	card_code_text: 
