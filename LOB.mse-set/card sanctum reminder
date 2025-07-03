@@ -1,0 +1,52 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: token, Yugioh Frame
+		name_color: default
+		popout_image_style_3: 
+		custom_symbol: abstract-061.png
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		!related Charubin the Fire Knight;Darkfire Dragon;Dragoness the Wicked Knight;Empress Judge;Flame Ghost;Flame Swordsman;Flower Wolf;Fusionist;Gaia the Dragon Champion;Kaiser Dragon;Kaminari Attack;Kamionwizard;Karbonala Warrior;Kwagar Hercules;Mavelus;Metal Dragon;Musician King;Pragticul;Punished Eagle;Rabid Horseman;Rare Fish;Roaring Ocean Snake;Rose Spectre of Dunn;Sanwitch;Skelegon;Skullbird;St. Joan;Vermillion Sparrow;Warrior of Tradition;Zombie Warrior;
+		
+		!tokenrarity
+	time_created: 2022-01-17 01:15:05
+	time_modified: 2024-06-24 17:00:42
+	name: Sanctum Reminder
+	image: image586
+	image_2: image587
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		Before each game starts, move up to seven cards with different names from your sideboard here face-down. These cards are in your sanctum.
+		Only cards that can start in the sanctum can start here.
+		If they can start in the sanctum, cards put into your sideboard between games may start the game in your sanctum.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Tony Washington
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

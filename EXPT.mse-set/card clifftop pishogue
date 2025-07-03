@@ -11,6 +11,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
+		!designer TVP
 		!gold
 		!noborder
 		

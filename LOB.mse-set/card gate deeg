@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-02-27 12:15:49
+	time_modified: 2025-07-02 18:49:09
+	name: Gate Deeg
+	casting_cost: 2B
+	image: image383
+	image_2: image_253.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		Other Zombies and Demons you control get +1/+0.
+		Whenever another Zombie or Demon you control dies, you may pay <sym-auto>2</sym-auto>. If you do, draw a card and you lose 1 life.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>This weird monster has a portal in its belly that brings reinforcements from the farthest reaches of the netherworld.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: YGO2MTG project by TVP
+	copyright_2: YGO2MTG project by TVP
+	copyright_3: YGO2MTG project by TVP

@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2023-07-21 13:23:00
-	time_modified: 2025-05-17 19:48:21
+	time_modified: 2025-07-01 09:40:12
 	name: The Thunderskin
 	casting_cost: 2GW
 	image: image216
@@ -35,7 +35,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		Whenever #The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Thunderskin</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, create an enchantment token named Heartbeat with “<sym-auto>GW</sym-auto>, Sacrifice this permanent: Return target card named #The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Thunderskin</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> from your graveyard to the battlefield tapped.”
+		Whenever The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Thunderskin</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, create an enchantment token named Heartbeat with “<sym-auto>GW</sym-auto>, Sacrifice this permanent: Return target card named The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Thunderskin</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> from your graveyard to the battlefield tapped.”
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“Endure with the world unceasing.”</i-flavor>

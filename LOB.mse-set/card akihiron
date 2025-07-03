@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-02-27 12:15:49
+	time_modified: 2025-07-02 18:40:24
+	name: Akihiron
+	casting_cost: 1U
+	image: image391
+	image_2: image_226.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fish</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever you discard a card for the first time each turn, you may pay <sym-auto>1U</sym-auto>. If you do, draw a card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>This strange creature hides in the deep, dark corners of the seven seas.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: YGO2MTG project by TVP
+	copyright_2: YGO2MTG project by TVP
+	copyright_3: YGO2MTG project by TVP

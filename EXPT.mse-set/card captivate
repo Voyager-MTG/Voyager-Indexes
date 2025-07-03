@@ -2,6 +2,7 @@
 card:
 	has_styling: false
 	notes:
+		!designer TVP
 		v1.2 Tap target creature. Put a stun counter on it.
 		You may discard a card. If you do, draw a card from your sanctum.
 		

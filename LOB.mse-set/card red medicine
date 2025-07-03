@@ -1,0 +1,60 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: Yugioh Frame
+		name_color: default
+		popout_image_style_3: 
+		custom_symbol: abstract-061.png
+		use_holofoil_stamps: no
+		color_indicator_dot: yes
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		
+		Choose effects based on the colors of mana spent to cast this spell:
+		Black| Target opponent sacrifices a creature.
+		Red | Creatures target player controls get +2/+0 and gain haste until end of turn.
+		Green| Return target card from your graveyard to your hand. Exile this card.
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2024-08-01 12:42:59
+	card_color: black, red, green, multicolor, horizontal
+	name: Red Medicine
+	casting_cost: X
+	image: image529
+	image_2: image530
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		If you spent <sym>B</sym> to cast this, target opponent loses 2 life and you gain 2 life.
+		If you spent <sym>R</sym> to cast this, target creature you control gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> until end of turn.
+		If you spent <sym>G</sym> to cast this, search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 
+	toughness: 
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

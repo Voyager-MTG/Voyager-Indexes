@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: !tapped
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2024-06-20 02:38:30
+	name: Mythical Umi
+	casting_cost: 
+	image: image564
+	image_2: image565
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Field</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<atom-name>This land</atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
+		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>2U</sym-auto>, Discard this: Return target noncreature, nonland permanent to its owner’s hand.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 
+	toughness: 
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

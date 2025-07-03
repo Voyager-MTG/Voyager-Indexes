@@ -5,6 +5,7 @@ stylesheet: m15-altered-plus
 stylesheet_version: 2020-09-04
 set_info:
 	title: Secret Lair Drops
+	description: !designer Voyager
 	set_code: LAIR
 	masterpiece_set_code: Voyager Champions
 	symbol: symbol1.mse-symbol

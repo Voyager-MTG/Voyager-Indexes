@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2025-07-02 18:38:16
+	name: M-Warrior 1
+	casting_cost: 1U
+	image: image263
+	image_2: image_217.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: Humans and creatures you control with <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> have “<sym-auto>T</sym-auto>: Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.”
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Specializing in combination attacks, this warrior uses magnetism to block an enemy’s escape.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 2
+	toughness: 2
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

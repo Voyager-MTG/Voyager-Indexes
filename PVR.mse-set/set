@@ -5,6 +5,7 @@ stylesheet: m15-altered
 stylesheet_version: 2024-09-23
 set_info:
 	title: Primivir
+	description: !designer Myr
 	copyright: Utaha
 	set_code: PVR
 	set_language: UV

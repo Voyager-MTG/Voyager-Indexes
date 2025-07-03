@@ -5,6 +5,7 @@ stylesheet: m15-altered
 stylesheet_version: 2024-09-23
 set_info:
 	title: Houses of Dewold
+	description: !designer Zangy
 	set_code: HOD
 	set_language: EN
 	symbol: symbol1.mse-symbol

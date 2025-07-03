@@ -12,6 +12,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
+		!designer TVP
 		Consider making this colorless for the up front cost
 		also, maybe 7 mana
 		!gold!noborder

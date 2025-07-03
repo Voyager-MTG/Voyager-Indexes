@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: star, Yugioh Frame
+		name_color: default
+		popout_image_style_3: 
+		custom_symbol: abstract-061.png
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2025-07-02 19:03:21
+	name: Vile Germs
+	casting_cost: 2G
+	image: image489
+	image_2: image_2118.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-0><nospellcheck><key>Enchant <param-name>creature you control.</param-name></key></nospellcheck></kw-0>
+		Enchanted creature gets +2/+2.
+		<sym-auto>4G</sym-auto>, Exile <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> from your graveyard: Return target card from your graveyard to your hand.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 
+	toughness: 
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

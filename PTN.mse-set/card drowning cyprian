@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-05-29 20:34:07
-	time_modified: 2025-05-17 19:48:34
+	time_modified: 2025-07-01 09:40:01
 	name: Drowning Cyprian
 	casting_cost: BR
 	image: image211
@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Drowning Cyprian</nospellcheck></atom-cardname> enters, if an opponent lose life this turn, put two +1/+1 counters on <atom-cardname><nospellcheck>Drowning Cyprian</nospellcheck></atom-cardname>.
+		When <atom-cardname><nospellcheck>Drowning Cyprian</nospellcheck></atom-cardname> enters, if an opponent lost life this turn, put two +1/+1 counters on <atom-cardname><nospellcheck>Drowning Cyprian</nospellcheck></atom-cardname>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Lost in the waters of desire.</i-flavor>

@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: Yugioh Frame
+		popout_image_style_3: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2025-07-02 18:32:37
+	name: Legendary Sword
+	casting_cost: 1W
+	image: image61
+	image_2: image_25.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		Equipped creature gets +2/+2.
+		As long as it’s your turn, equipped creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Equip <param-name>Warrior or Spirit</param-name> <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck></kw-a>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: none
+	level_1_text: 
+	power: 
+	toughness: 
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

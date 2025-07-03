@@ -5,6 +5,7 @@ stylesheet: m15-altered
 stylesheet_version: 2024-09-23
 set_info:
 	title: Fires of Hwel
+	description: !designer Panders
 	artist: Redpandersbear
 	set_code: HEL
 	symbol: symbol2.mse-symbol

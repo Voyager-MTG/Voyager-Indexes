@@ -12,6 +12,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
+		!designer TVP
 		"Giant Soldier of Stone."<soft-line>
 		—Giant Soldier of Stone, the Giant Soldier of Stone</soft-line>
 	time_created: 2022-07-18 21:25:51

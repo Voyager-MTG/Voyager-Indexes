@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 15
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: Yugioh Frame
+		name_color: default
+		popout_image_style_3: 
+		custom_symbol: abstract-061.png
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2023-03-05 12:42:56
+	time_modified: 2025-07-02 18:38:48
+	name: Wow Warrior
+	casting_cost: 3UU
+	image: image313
+	image_2: image_220.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>3</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
+		As long as you’ve discarded a card this turn, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> can’t be blocked.
+		<sym-auto>1U</sym-auto>: Return <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> to its owners hand.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>A fish with arms, legs, and some very sharp teeth.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

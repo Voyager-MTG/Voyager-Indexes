@@ -1,0 +1,54 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: mutate
+		altered_plus_frames: Yugioh Frame
+		name_color: default
+		popout_image_style_3: 
+		custom_symbol: abstract-061.png
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2023-02-27 12:15:49
+	time_modified: 2025-07-02 19:19:41
+	extra_data:
+		magic-m15-altered-plus:
+			corner: sanctum
+	name: Man-Eating Plant
+	casting_cost: 3G
+	image: image323
+	image_2: image_2165.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Other Plants you control get +1/+1.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>A meat-eating plant that is attractive to the eye but dangerous when approached.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: Fusion
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

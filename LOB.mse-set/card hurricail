@@ -1,0 +1,52 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: star, Yugioh Frame
+		name_color: default
+		popout_image_style_3: 
+		custom_symbol: abstract-061.png
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2023-02-27 12:15:49
+	time_modified: 2025-07-02 18:40:43
+	name: Hurricail
+	casting_cost: 3UU
+	image: image449
+	image_2: image_229.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, if there are eight of more cards in your graveyard,  each creature your opponent controls gets -2/-0 until your next turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Tornadoes aren’t normally friendly, yes, but this one is especially mean.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: YGO2MTG project by TVP
+	copyright_2: YGO2MTG project by TVP
+	copyright_3: YGO2MTG project by TVP

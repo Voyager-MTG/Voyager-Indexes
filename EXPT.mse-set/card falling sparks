@@ -10,7 +10,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !designer TVP
 	time_created: 2024-10-16 22:02:40
 	time_modified: 2025-03-30 17:07:25
 	name: Falling Sparks

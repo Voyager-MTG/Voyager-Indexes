@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: !designer Aanginer
 	time_created: 2025-02-22 22:38:54
 	time_modified: 2025-03-30 16:35:05
 	card_color: white, red, silver, multicolor, horizontal

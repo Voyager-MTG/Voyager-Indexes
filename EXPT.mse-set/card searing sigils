@@ -1,7 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: https://www.deviantart.com/nele-diel/art/Fiery-Sky-899411024
+	notes:
+		!designer Trewq
+		https://www.deviantart.com/nele-diel/art/Fiery-Sky-899411024
 	time_created: 2025-02-26 15:19:40
 	time_modified: 2025-03-30 16:53:09
 	name: Searing Sigils

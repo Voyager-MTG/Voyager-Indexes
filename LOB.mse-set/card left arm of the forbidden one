@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2024-03-06 19:30:31
+	name: Left Arm of the Forbidden One
+	casting_cost: 1
+	image: image576
+	image_2: image577
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>God</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i-auto></atom-reminder-action></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 1
+	toughness: 1
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

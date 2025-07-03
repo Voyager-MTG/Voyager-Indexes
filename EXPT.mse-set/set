@@ -5,12 +5,14 @@ stylesheet: m15-altered-plus
 stylesheet_version: 2020-09-04
 set_info:
 	title: TVP Silver Expansion
+	description: !designer Voyager
 	copyright: 
 	set_code: EXPT
 	set_language: EN
 	symbol: symbol2.mse-symbol
 	masterpiece_symbol: 
-	custom_mana_symbol_name: MyrCustoms\Vertex.png
+	custom_mana_symbol_name: MyrCustoms/Vertex.png
+	mana_symbol_options: enable in casting costs, enable in text boxes, colored mana symbols
 styling:
 	magic-m15:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -311,6 +313,12 @@ keyword:
 		Streamline 2U, Instant (You may cast this as an instant spell with its enters the battlefield effect for 2U.)
 		
 		{for_mana_costs(add:"pay an additional ", param1)}
+	mode: custom
+keyword:
+	keyword: Materialize
+	match: Materialize <atom-param>number</atom-param>
+	reminder: Tap one or more other enchantments you control with total mana value {param1} or more: This also becomes an Icon creature until your next upkeep.
+	rules: 
 	mode: custom
 version_control:
 	type: none

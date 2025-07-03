@@ -9,9 +9,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !designer Aanginer
 	time_created: 2025-02-23 10:07:10
-	time_modified: 2025-03-30 18:09:33
+	time_modified: 2025-07-01 09:41:18
 	name: Warping Wolf
 	casting_cost: II
 	image: image120
@@ -27,7 +27,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: When this creature attacks, exile up to one target creature card from your graveyard. You may cast that card for as long as it remains exiled. When you do, it enters as an enchantment with materialize </sym>X<sym>, where X is its mana value. <i-auto>(It loses all other creature and card types.)</i-auto>
+	rule_text: When this creature attacks, exile up to one target creature card from your graveyard. You may cast that card for as long as it remains exiled. When you do, it enters as an enchantment with <kw-0><nospellcheck><key>materialize </sym><param-number>X</param-number></key></nospellcheck></kw-0><sym>, where X is its mana value. <i-auto>(It loses all other creature and card types.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

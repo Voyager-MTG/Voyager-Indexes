@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: Yugioh Frame
+		name_color: default
+		popout_image_style_3: 
+		custom_symbol: abstract-061.png
+		use_holofoil_stamps: no
+		alt_rarity_color: 7,207,11:10,19,0:0,0,0:0,0,0:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2023-05-24 14:50:14
+	time_modified: 2024-03-06 19:29:39
+	name: Mental Lock
+	casting_cost: 2
+	image: image9
+	image_2: image10
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: special
+	rule_text:
+		As <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, choose a card name.
+		Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.
+		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>2</sym-auto>, Discard this: Draw a card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Konami & Karmen Loh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

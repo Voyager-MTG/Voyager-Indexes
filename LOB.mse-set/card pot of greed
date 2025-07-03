@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: Yugioh Frame
+		name_color: default
+		popout_image_style_3: 
+		custom_symbol: abstract-061.png
+		other_options: auto nyx crowns
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: short text only
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2024-05-05 01:07:48
+	name: Pot of Greed
+	alias: 
+	casting_cost: 3
+	image: image610
+	image_2: image611
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: Draw two cards.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Its true purpose lost completely to time, as well as its origin. Still, to this day, its said that you can hear the ancient duelists conjuring its purpose from their memory...three? No. That can’t be right.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 
+	toughness: 
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

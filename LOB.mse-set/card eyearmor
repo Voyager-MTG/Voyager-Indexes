@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2025-07-02 19:10:09
+	name: Eyearmor
+	casting_cost: 2II
+	image: image353
+	image_2: image_2137.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Shapeshifter</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Changeling</key></nospellcheck><atom-reminder-expert> <i-auto>(This card is every creature type.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create two 2/2 Insect Plant creature tokens with <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>This warrior transforms into various creatures to confuse its enemies in battle.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	watermark: none
+	level_1_text: 
+	power: 2
+	toughness: 3
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2023-10-31 01:36:31
+	name: Polymerization
+	casting_cost: 1
+	image: image608
+	image_2: image609
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text: Reveal a creature card with fusion from your sanctum. Until end of turn, you may cast that card from your sanctum.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“I use my <error-spelling:en_US>Kuriboh</error-spelling:en_US> and discard Fiend Mirror to summon <error-spelling:en_US>Karbonala</error-spelling:en_US> Warrior!”<soft-line>
+		<error-spelling:en_US>Yugi</error-spelling:en_US> said. “<error-spelling:en_US>Yugi</error-spelling:en_US>, you’re cheating!!!” <error-spelling:en_US>Kaiba</error-spelling:en_US> yelled.</soft-line></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 
+	toughness: 
+	illustrator: Konami and AlanMac95
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

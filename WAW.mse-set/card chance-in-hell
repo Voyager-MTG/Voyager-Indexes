@@ -46,12 +46,12 @@ card:
 	loyalty_cost_11: -3
 	loyalty_2: 7
 	level_5_text: 
-	level_6_text: <margin:190:0:0>Return target creature card from your graveyard to the battlefield. It gets +2/+0 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.</margin:190:0:0>
-	level_7_text: <margin:190:0:0>Destroy all other nonland permanents with mana value X or less.</margin:190:0:0>
-	level_8_text: <margin:190:0:0>Discard your hand, then draw five cards.</margin:190:0:0>
-	level_9_text: <margin:190:0:0>Each opponent loses 3 life, discards a card, and sacrifices a nonland permanent.</margin:190:0:0>
-	level_10_text: <margin:190:0:0>Exile target card from a graveyard with mana value X. You may cast a copy of that card without paying its mana cost.</margin:190:0:0>
-	level_11_text: <margin:190:0:0>Look at the top six cards of your library. Put up to three of them into your hand and the rest into your graveyard.</margin:190:0:0>
+	level_6_text: <margin:130:0:0>Return target creature card from your graveyard to the battlefield. It gets +2/+0 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
+	level_7_text: <margin:130:0:0>Destroy all other nonland permanents with mana value X or less.</margin:130:0:0>
+	level_8_text: <margin:130:0:0>Discard your hand, then draw five cards.</margin:130:0:0>
+	level_9_text: <margin:130:0:0>Each opponent loses 3 life, discards a card, and sacrifices a nonland permanent.</margin:130:0:0>
+	level_10_text: <margin:130:0:0>Exile target card from a graveyard with mana value X. You may cast a copy of that card without paying its mana cost.</margin:130:0:0>
+	level_11_text: <margin:130:0:0>Look at the top six cards of your library. Put up to three of them into your hand and the rest into your graveyard.</margin:130:0:0>
 	level_12_text: 
 	power: 6
 	toughness: 5

@@ -1,0 +1,64 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: 
+		altered_plus_frames: star, Yugioh Frame
+		name_color: default
+		popout_image_style_2: 
+		popout_image_style_3: 
+		custom_symbol: abstract-061.png
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		!Rework<soft-line>
+		<soft-line>
+		</soft-line><soft-line>
+		</soft-line>v1.2: Target player reveals their hand. You may put a creature card revealed this way or a creature that player controls into their sanctum. If it doesn’t have fusion, it gains fusion. (They may cast that card from their sanctum by sacrificing a creature that shares a creature type with it and discarding a card.)<soft-line>
+		</soft-line></soft-line>original: common<soft-line>
+		</soft-line>Exile target nonland permanent. Return that permanent to its owner’s control at the beginning of the next end step.<soft-line>
+		Flashback 2FF</soft-line>
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2025-07-02 19:32:15
+	name: Invigoration
+	casting_cost: 1I
+	image: image485
+	image_2: image_2171.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature or non-aura enchantment</param-name></key></nospellcheck></kw-a>
+		Enchanted permanent is also a creature with size 4/4.
+		Whenever <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> leaves the battlefield, draw a card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 
+	toughness: 
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-12-18 15:44:41
+	time_modified: 2025-03-31 11:38:11
+	name: Prismatic Bulb
+	casting_cost: 3
+	image: image13
+	image_2: image14
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<sym-auto>T</sym-auto>: Add one mana of any color.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Put target card from your graveyard on the bottom of your library. Target player discards a card, then draws a card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

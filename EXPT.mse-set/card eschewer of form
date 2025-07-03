@@ -3,7 +3,9 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: https://www.deviantart.com/yanadhyana/art/Guardian-Angel-944608827
+	notes:
+		!designer Trewq
+		https://www.deviantart.com/yanadhyana/art/Guardian-Angel-944608827
 	time_created: 2025-02-22 17:18:51
 	time_modified: 2025-03-30 16:34:54
 	name: Eschewer of Form
