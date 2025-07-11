@@ -7,7 +7,7 @@ card:
 		CITIZENTYPE
 		CB01
 	time_created: 2023-06-21 23:40:02
-	time_modified: 2024-06-22 04:22:23
+	time_modified: 2025-07-08 16:05:01
 	card_color: black
 	name: Malevolent Plumber
 	casting_cost: B
@@ -21,7 +21,7 @@ card:
 	rule_text: <sym-auto>1B</sym-auto>, Pay 1 life: Return <atom-cardname><nospellcheck>Malevolent Plumber</nospellcheck></atom-cardname> from your graveyard to your hand.
 	flavor_text:
 		<i-flavor>“Cleaning the sewers? Beneath us. Use thoughts and prayers on it instead.”<soft-line>
-		— <error-spelling:en_US>Haja</error-spelling:en_US>, Host Farm Escapee</soft-line></i-flavor>
+		—<error-spelling:en_US>Haja</error-spelling:en_US>, Host Farm Escapee</soft-line></i-flavor>
 	power: 1
 	toughness: 2
 	illustrator: ForrestImel

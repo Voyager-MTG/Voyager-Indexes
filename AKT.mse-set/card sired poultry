@@ -5,6 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		dfc_type: modal with custom flags
+		front_chop: 0,6
 		shrink_back_typeline_text: 
 		other_options: use hovering pt, use holofoil stamps, unindent nonloyalty abilities, auto nyx crowns, automate type frames
 		level_5_chop: 0,6,

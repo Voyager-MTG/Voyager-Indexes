@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<sym-auto>1U</sym-auto>: <atom-cardname><nospellcheck>Twins’ Guardian</nospellcheck></atom-cardname> gets +2/-2 until end of turn.
-		When <atom-cardname><nospellcheck>Twins’ Guardian</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Twins’ Guardian</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The union of the Twins was drowned at sea. Their ascension left power there.</i-flavor>

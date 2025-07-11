@@ -9,15 +9,15 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2023-07-21 13:24:03
-	time_modified: 2025-05-17 19:48:19
+	time_modified: 2025-07-02 22:42:43
 	special_text:
-		Whenever you draw a card put a loyalty counter on <atom-cardname><nospellcheck>The Vagabond</nospellcheck></atom-cardname>.
+		Whenever you draw a card, put a loyalty counter on <atom-cardname><nospellcheck>The Vagabond</nospellcheck></atom-cardname>.
 		[0]: <margin:130:0:0>Draw a card.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Return target permanent to its owner’s hand.</margin:130:0:0>
-		[-X]: <margin:130:0:0>Create a token that’s a copy of target land except its an X/X blue Merfolk creature with <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> in addition to its other types.</margin:130:0:0>
+		[-X]: <margin:130:0:0>Create a token that’s a copy of target land, except its an X/X blue Merfolk creature with <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> in addition to its other types.</margin:130:0:0>
 	name: The Vagabond
 	casting_cost: 2GU
-	image: image217
+	image: image14
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -41,10 +41,10 @@ card:
 	loyalty_cost_3: -3
 	loyalty_cost_4: -X
 	loyalty: 4
-	level_1_text: Whenever you draw a card put a loyalty counter on <atom-cardname><nospellcheck>The Vagabond</nospellcheck></atom-cardname>.
+	level_1_text: Whenever you draw a card, put a loyalty counter on <atom-cardname><nospellcheck>The Vagabond</nospellcheck></atom-cardname>.
 	level_2_text: <margin:130:0:0>Draw a card.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Return target permanent to its owner’s hand.</margin:130:0:0>
-	level_4_text: <margin:130:0:0>Create a token that’s a copy of target land except its an X/X blue Merfolk creature with <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> in addition to its other types.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Create a token that’s a copy of target land, except its an X/X blue Merfolk creature with <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> in addition to its other types.</margin:130:0:0>
 	level_5_text: 
 	power: 2
 	toughness: 3

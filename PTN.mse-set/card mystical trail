@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Mystical Trail</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Mystical Trail</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
 		Enchanted creature gets +1/+1 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
 	rule_text_2: 
 	rule_text_3: 

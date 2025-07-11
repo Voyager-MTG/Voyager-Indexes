@@ -5,7 +5,7 @@ card:
 		BLUEUNCOMMON
 		UU11 
 	time_created: 2023-09-07 23:42:37
-	time_modified: 2024-01-12 00:20:04
+	time_modified: 2025-07-08 16:17:27
 	name: Sensations Overwhelming
 	casting_cost: 1UU
 	image: image51.png
@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Choose one or both—
-		<li><bullet>• </bullet>Creatures target player controls gets -2/-0 until end of turn.
+		<li><bullet>• </bullet>Creatures target player controls get -2/-0 until end of turn.
 		</li><li><bullet>• </bullet>Counter target spell.</li>
 	flavor_text:
 		<i-flavor>“Empathy is so easily <error-spelling:en_US>weaponised</error-spelling:en_US>.”<soft-line>

@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: >FT
+	notes: 
 	time_created: 2021-10-13 23:24:53
-	time_modified: 2023-09-14 17:17:18
+	time_modified: 2025-07-02 22:36:54
 	name: Pulsing Vitality
 	casting_cost: W
-	image: image51
+	image: image34
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: Target creature gets +2/+2 until end of turn. If it’s an Angel or God, instead put a +1/+1 counter on it and it gets +1/+1 until end of turn.
+	rule_text: Target creature gets +2/+2 until end of turn. If it’s an Angel or a God, instead put a +1/+1 counter on it and it gets +1/+1 until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>My heart moves; the world moves.</i-flavor>

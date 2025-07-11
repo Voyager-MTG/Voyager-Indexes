@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		!taglair>postcard series
+		!taglairnumber> 2
+		!taglairauthor> fblthp the lost
+	time_created: 2025-07-06 09:40:18
+	time_modified: 2025-07-06 11:45:47
+	name: Forest
+	image: image6.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	watermark: mana symbol green
+	illustrator: VW
+	card_code_text: Postcard Series — Fblthp
+	card_code_text_2: 
+	card_code_text_3: 

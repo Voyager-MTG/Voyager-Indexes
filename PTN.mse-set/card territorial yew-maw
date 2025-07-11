@@ -8,16 +8,21 @@ card:
 		chop_bottom: 
 		frames: 
 		font_cap: 13
+		apply_custom_fonts: no
+		custom_name_font: 
+		custom_type_font: 
+		custom_body_font: 
+		custom_pt_font: 
 		hybrid_name: hybrid
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: https://www.deviantart.com/artofty/art/Timber-Drake-907310390
 	time_created: 2022-12-12 08:25:27
-	time_modified: 2025-03-30 19:21:25
+	time_modified: 2025-07-02 22:52:13
 	name: Territorial Yew-Maw
 	casting_cost: 1GG
-	image: image146
+	image: image177
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -29,7 +34,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Territorial Yew-Maw</nospellcheck></atom-cardname> enters you may have it deal 2 damage to itself.
+		When <atom-cardname><nospellcheck>Territorial Yew-Maw</nospellcheck></atom-cardname> enters, you may have it deal 2 damage to itself.
 		Whenever <atom-cardname><nospellcheck>Territorial Yew-Maw</nospellcheck></atom-cardname> is dealt damage during your turn, destroy up to one target artifact or enchantment if you control <atom-cardname><nospellcheck>Territorial Yew-Maw</nospellcheck></atom-cardname>.
 	rule_text_2: 
 	rule_text_3: 

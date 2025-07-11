@@ -8,7 +8,7 @@ card:
 		LIZARDTYPE
 		NOBLECYC
 	time_created: 2022-09-13 09:14:45
-	time_modified: 2024-11-29 02:41:07
+	time_modified: 2025-07-08 16:06:45
 	name: Eyysapha, Syakir in Exile
 	casting_cost: 1WU
 	image: image161
@@ -20,7 +20,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		<sym-auto>T</sym-auto>: Choose target creature card you own in exile that was put there from the battlefield this turn. At the beginning of the next end step, create a token copy of it.
+		<sym-auto>T</sym-auto>: Choose target creature card you own in exile that was put there from the battlefield this turn. At the beginning of the next end step, create a token that’s a copy of it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

@@ -14,10 +14,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2023-05-29 20:34:07
-	time_modified: 2024-07-16 19:49:02
+	time_modified: 2025-07-02 22:48:19
 	name: Percussigant
 	casting_cost: 1GW
-	image: image163
+	image: image181
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Percussigant</nospellcheck></atom-cardname> enters, search your library and/or graveyard for a Sanctuary card, put that card onto the battlefield tapped. If you search your library this way, shuffle.
+		When <atom-cardname><nospellcheck>Percussigant</nospellcheck></atom-cardname> enters, search your library and/or graveyard for a Sanctuary card and put it onto the battlefield tapped. If you searched your library this way, shuffle.
 		Activated abilities of Sanctuaries you control cost <sym-auto>1</sym-auto> less to activate.
 	rule_text_2: 
 	rule_text_3: 

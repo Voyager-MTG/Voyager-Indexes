@@ -14,10 +14,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-10-08 00:07:53
-	time_modified: 2023-09-14 19:40:48
+	time_modified: 2025-07-02 22:19:35
 	name: Verse Change
 	casting_cost: 1B
-	image: image294
+	image: image146
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, you may put a creature card from among the cards milled this way into your hand. 
-		As long as you control a God, you may cast <atom-cardname><nospellcheck>Verse Change</nospellcheck></atom-cardname> from your graveyard. Then exile it.
+		As long as you control a God and <atom-cardname><nospellcheck>Verse Change</nospellcheck></atom-cardname> is in your graveyard, it has <kw-A><nospellcheck><key>flashback <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>We call upon the Moth, who seeks among the trees of the Wood.</i-flavor>

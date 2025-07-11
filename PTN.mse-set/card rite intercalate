@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-07-21 13:23:00
-	time_modified: 2025-02-07 08:41:28
+	time_modified: 2025-07-02 22:47:34
 	name: Rite Intercalate
 	casting_cost: 3RR
-	image: image317
+	image: image64
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -19,7 +19,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		As an additional cost to cast this spell, exile any number of permanents you control.
-		If you own 36 or more cards in exile you win the game. Otherwise, <atom-cardname><nospellcheck>Rite Intercalate</nospellcheck></atom-cardname> deals 6 damage to target creature.
+		If you own 36 or more cards in exile, you win the game. Otherwise, <atom-cardname><nospellcheck>Rite Intercalate</nospellcheck></atom-cardname> deals 6 damage to target creature.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>This rite recapitulates the Sun’s abominable fate. It is used in extreme times by foolish adepts.</i-flavor>

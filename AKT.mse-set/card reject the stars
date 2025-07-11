@@ -5,7 +5,7 @@ card:
 		WHITERARE
 		SPOTLIGHT
 	time_created: 2025-01-26 10:32:28
-	time_modified: 2025-02-10 17:17:30
+	time_modified: 2025-07-08 16:12:38
 	name: Reject the Stars
 	casting_cost: 1W
 	image: image74.png
@@ -18,7 +18,7 @@ card:
 	rule_text:
 		Choose one —
 		<li><bullet>• </bullet>Exile target artifact or enchantment with mana value 3 or less.
-		</li><li><bullet>• </bullet>Exile target spell that wasn’t cast from a player’s hand.</li>
+		</li><li><bullet>• </bullet>Exile target spell that wasn’t cast from its owner’s hand.</li>
 	flavor_text: <i-flavor>As an <error-spelling:en_US>erysite</error-spelling:en_US>, Lightning could have protected everyone... But he saw that such smothering, omnipotent love would be mere tyranny.</i-flavor>
 	illustrator: Smite (Edited)
 	card_code_text: 

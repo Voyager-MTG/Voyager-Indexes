@@ -28,7 +28,7 @@ card:
 	sub_type: <word-list-race-en>Treefolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Zombie</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: When <atom-cardname><nospellcheck>Burgeoning Risen</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>Burgeoning Risen</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Its bones are rotten wood, and soon it will take root, but until then it will be a swift and subtle servant.</i-flavor>

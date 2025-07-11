@@ -14,11 +14,11 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/jasonengle/art/Mother-Hydra-820994184
 	time_created: 2023-06-22 22:15:28
-	time_modified: 2025-02-21 16:55:29
+	time_modified: 2025-07-02 22:01:13
 	card_color: blue
 	name: Painted Distorter
 	casting_cost: 5U
-	image: image6.png
+	image: image107
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -31,8 +31,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Painted Distorter</nospellcheck></atom-cardname> enters, counter target spell if its a noncreature spell. If <atom-cardname><nospellcheck>Painted Distorter</nospellcheck></atom-cardname> was cast from exile, counter that spell instead.
-		<kw-A><nospellcheck><key>Foretell <param-cost><sym>3UU</sym></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Painted Distorter</nospellcheck></atom-cardname> enters, counter target spell if its a noncreature spell or if <atom-cardname><nospellcheck>Painted Distorter</nospellcheck></atom-cardname> was cast from exile.
+		<kw-A><nospellcheck><key>Foretell <param-cost><sym-auto>3UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

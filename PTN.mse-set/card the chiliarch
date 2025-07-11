@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-07-18 19:11:37
-	time_modified: 2025-05-17 19:48:27
+	time_modified: 2025-07-02 22:47:47
 	name: The Chiliarch
 	casting_cost: 2GU
-	image: image214
+	image: image128
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		<atom-cardname><nospellcheck>The Chiliarch</nospellcheck></atom-cardname> can’t be the target of Instant spells.
+		<atom-cardname><nospellcheck>The Chiliarch</nospellcheck></atom-cardname> can’t be the target of instant spells.
 		If damage would be dealt to <atom-cardname><nospellcheck>The Chiliarch</nospellcheck></atom-cardname> while it isn’t blocking, prevent that damage and put that many +1/+1 counters on <atom-cardname><nospellcheck>The Chiliarch</nospellcheck></atom-cardname>.
 	rule_text_2: 
 	rule_text_3: 

@@ -1,12 +1,28 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: -2
+		chop_bottom: 
+		frames: 
+		font_cap: 13
+		apply_custom_fonts: no
+		custom_name_font: 
+		custom_type_font: 
+		custom_body_font: 
+		custom_pt_font: 
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2023-07-21 13:23:00
-	time_modified: 2024-02-27 22:01:11
+	time_modified: 2025-07-08 16:36:34
 	name: The Moth
 	casting_cost: 3BG
-	image: image326
+	image: image89
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,7 +36,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
 		If you would draw a card, instead <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		<sym-auto>1</sym-auto>: Return up to two target cards from your graveyard to your hand. Activate only during your turn and only once each turn.
+		<sym-auto>1</sym-auto>: Exile up to two target cards from your graveyard. Copy those cards. You may cast the copies. Activate only once during each of your turns.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

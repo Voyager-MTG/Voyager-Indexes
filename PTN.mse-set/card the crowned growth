@@ -2,13 +2,27 @@
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: -1
+		chop_bottom: 
+		frames: 
+		font_cap: 13
+		apply_custom_fonts: no
+		custom_name_font: 
+		custom_type_font: 
+		custom_body_font: 
+		custom_pt_font: 
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2023-07-01 20:40:11
-	time_modified: 2025-05-17 19:48:52
+	time_modified: 2025-07-06 21:43:45
 	name: The Crowned Growth
 	casting_cost: 3BB
-	image: image200
+	image: image116
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,14 +35,15 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>The Crowned Growth</nospellcheck></atom-cardname> or a creature dealt damage by it this turn leaves the battlefield, up to one target creature becomes a copy of <atom-cardname><nospellcheck>The Crowned Growth</nospellcheck></atom-cardname> except it isn’t legendary and each opponent gets 2 poison counters. <i-auto>(This effect lasts indefinitely.)</i-auto>
+		Whenever a creature dealt damage by <atom-cardname><nospellcheck>The Crowned Growth</nospellcheck></atom-cardname> this turn leaves the battlefield, its controller gets 2 poison counters.
+		Whenever one or more poison counters are put a player or <atom-cardname><nospellcheck>The Crowned Growth</nospellcheck></atom-cardname> dies, exile up to one target creature. Its controller creates a token that’s a copy of <atom-cardname><nospellcheck>The Crowned Growth</nospellcheck></atom-cardname> except it isn’t legendary.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 5
-	toughness: 3
+	toughness: 5
 	illustrator: Weather Factory
 	card_code_text: 
 	card_code_text_2: 

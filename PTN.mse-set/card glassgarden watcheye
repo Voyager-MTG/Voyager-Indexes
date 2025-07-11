@@ -35,7 +35,7 @@ card:
 	rarity: rare
 	rule_text:
 		Gods and other Clerics you control get +1/+0 and have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
-		Whenever <atom-cardname><nospellcheck>Glassgarden Watcheye</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>induct</key></nospellcheck> twice. Tokens created this way are tapped and attacking.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-cardname><nospellcheck>Glassgarden Watcheye</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>induct</key></nospellcheck> twice. Tokens created this way are tapped and attacking.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

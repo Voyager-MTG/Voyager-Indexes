@@ -30,7 +30,7 @@ card:
 	rarity: common
 	rule_text:
 		Equipped creature gets +1/+1.
-		Whenever equipped creature deals combat damage to a player, you may pay <sym-auto>1</sym-auto>. If you do, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever equipped creature deals combat damage to a player, you may pay <sym-auto>1</sym-auto>. If you do, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
 		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
 	rule_text_2: 
 	rule_text_3: 

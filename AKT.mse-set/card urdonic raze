@@ -5,7 +5,7 @@ card:
 		REDCOMMON
 		CR14
 	time_created: 2023-06-21 23:40:02
-	time_modified: 2023-12-10 17:11:16
+	time_modified: 2025-07-08 16:06:17
 	card_color: red
 	name: Urdonic Raze
 	casting_cost: 2R
@@ -17,7 +17,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		Choose one—
+		Choose one —
 		<li><bullet>• </bullet>Attacking creatures get +2/+0 until end of turn.
 		</li><li><bullet>• </bullet>Destroy target artifact.</li>
 	flavor_text: <i-flavor><error-spelling:en_US>Erys</error-spelling:en_US> saw the destruction of his hometown and wept. What could he do against such might? How could he stop such bullying?</i-flavor>

@@ -1,13 +1,13 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: https://www.deviantart.com/piotrdura/art/Run-667860262
 	time_created: 2023-06-22 22:15:28
-	time_modified: 2025-03-01 08:43:08
+	time_modified: 2025-07-02 22:52:57
 	card_color: green
 	name: Yew Colossus
 	casting_cost: 6G
-	image: image20.png
+	image: image174
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		This spell costs <sym-auto>1</sym-auto> less to cast for each Sanctuary you control and Sanctuary card in your graveyard.
+		This spell costs <sym-auto>1</sym-auto> less to cast for each Sanctuary you control and each Sanctuary card in your graveyard.
 		<kw-A><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>2</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 

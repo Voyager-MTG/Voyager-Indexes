@@ -13,7 +13,7 @@ card:
 		overlay: 
 	notes: URDONLANDSCYC
 	time_created: 2024-10-13 22:13:06
-	time_modified: 2025-02-14 09:04:32
+	time_modified: 2025-07-08 16:05:12
 	extra_data:
 		magic-m15-mainframe-dfc:
 			back_type_hint: Land — Lair
@@ -41,7 +41,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“Praise your ancestors, for their tireless work has made humanity the king of this world.”<soft-line>
-		— King Percival, </i>Memoirs<i></soft-line></i-flavor>
+		—King Percival, </i>Memoirs<i></soft-line></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: LPSDC

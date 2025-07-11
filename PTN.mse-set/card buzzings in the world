@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: USED TO BE WILDEST DREAMS
+	notes: 
 	time_created: 2022-12-12 08:25:27
-	time_modified: 2025-05-17 19:48:14
+	time_modified: 2025-07-02 22:41:26
 	name: Buzzings in the World
 	casting_cost: XGG
-	image: image220
+	image: image173
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: Put up to up to X land cards in your graveyard onto the battlefield tapped. You gain X life.
+	rule_text: Return up to up to X land cards in your graveyard to the battlefield tapped. You gain X life.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>I could cut a lock of hair before I sleep, to <error-spelling:en_US>honour</error-spelling:en_US> a power of the Wood. In my dreams, I listened to the dead as they approached the white bone gate.</i-flavor>

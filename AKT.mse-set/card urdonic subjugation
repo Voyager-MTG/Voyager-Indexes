@@ -5,7 +5,7 @@ card:
 		REDCOMMON
 		CR12
 	time_created: 2022-06-09 13:01:57
-	time_modified: 2025-01-24 09:24:39
+	time_modified: 2025-07-08 16:05:22
 	name: Urdonic Subjugation
 	casting_cost: 5R
 	image: image68.png
@@ -17,7 +17,7 @@ card:
 	rule_text: <atom-cardname><nospellcheck>Urdonic Subjugation</nospellcheck></atom-cardname> deals 6 damage to target creature or planeswalker.
 	flavor_text:
 		<i-flavor>“The <error-spelling:en_US>burdent’s</error-spelling:en_US> sacred affairs have suffered <error-spelling:en_US>unburdent</error-spelling:en_US> meddling for long enough.”<soft-line>
-		</soft-line>— <error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</i-flavor></error-spelling:en_US>
 	illustrator: Timi Honkanen
 	card_code_text: 
 	card_code_text_2: 

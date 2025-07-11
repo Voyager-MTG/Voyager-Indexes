@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-10-08 00:07:53
-	time_modified: 2024-04-14 00:01:29
+	time_modified: 2025-07-02 22:19:31
 	name: Verse Illuminate
 	casting_cost: 2WW
-	image: image292
+	image: image36
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Creatures you control get +2/+2 until end of turn.
-		As long as you control a God, you may cast <atom-cardname><nospellcheck>Verse Illuminate</nospellcheck></atom-cardname> from your graveyard. Then exile it.
+		As long as you control a God and <atom-cardname><nospellcheck>Verse Illuminate</nospellcheck></atom-cardname> is in your graveyard, it has <kw-A><nospellcheck><key>flashback <param-cost><sym-auto>2WW</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>We call upon the Sun-in-Rags, to bring about a glorious ending.</i-flavor>
