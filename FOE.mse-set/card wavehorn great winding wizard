@@ -33,8 +33,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Whenever you cast a noncreature spell, put a loyalty counter on <atom-legname><nospellcheck>Wavehorn</nospellcheck></atom-legname>. You may activate one of its loyalty abilities. <i-auto>(Creatures don’t lose loyalty from damage.)</i-auto>
-		<sym-auto>-1</sym-auto>: Put a +1/+1 counter on <atom-legname><nospellcheck>Wavehorn</nospellcheck></atom-legname>.
+		Whenever you cast a noncreature spell, put a loyalty counter on <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>. You may activate one of its loyalty abilities. <i-auto>(Creatures don’t lose loyalty from damage.)</i-auto>
+		<sym-auto>-1</sym-auto>: Put a +1/+1 counter on <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>.
 		<sym-auto>-3</sym-auto>: Until end of turn, whenever a creature you control deals combat damage, draw a card from your library or sanctum.
 	rule_text_2: 
 	rule_text_3: 

@@ -1,21 +1,33 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2024-04-02 00:15:45
-	time_modified: 2025-03-20 00:52:43
+	time_modified: 2025-07-02 00:13:32
 	name: Lithify
-	casting_cost: 2I
+	casting_cost: 1I
 	image: image425
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Destroy target enchantment.
-		Draw a card.
+		<kw-a><nospellcheck><key>Enchant <param-name>nonland permanent</param-name></key></nospellcheck></kw-a>
+		Enchanted permanent loses all abilities and is a colorless enchantment.
 	flavor_text: <i-flavor>Discovering the truth of the moon temporarily left the party speechless.</i-flavor>
 	illustrator: Earl Lan
 	card_code_text: 

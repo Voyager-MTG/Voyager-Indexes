@@ -20,6 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
+	rarity: uncommon
 	rule_text:
 		As long as <atom-cardname><nospellcheck>Cowering Lightbringer</nospellcheck></atom-cardname>’s power is 4 or greater, its a Human Warrior and has <kw-A><nospellcheck><key>healing <param-number>2</param-number></key></nospellcheck>. <i-auto>(Whenever this creature deals damage, you gain 2 life.)</i-auto><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>2</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
 		<sym-auto>1I</sym-auto>: <atom-cardname><nospellcheck>Cowering Lightbringer</nospellcheck></atom-cardname> gets +3/-3 and you get <sym-auto>V</sym-auto>. <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto>

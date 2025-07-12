@@ -6,9 +6,9 @@ card:
 		can possibly hit enchantments
 		Manifest
 	time_created: 2023-07-09 01:21:32
-	time_modified: 2025-03-20 00:23:19
+	time_modified: 2025-07-01 23:50:33
 	name: When Words Don’t Work
-	casting_cost: I
+	casting_cost: 1I
 	image: image198
 	image_2: 
 	mainframe_image: 
@@ -20,7 +20,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: Counter target creature spell if its power is greater than its toughness.
+	rule_text:
+		Counter target creature spell.
+		<sym-auto>2</sym-auto>, Discard this: Draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Deep in the paths, a magic unknown to <error-spelling:en_US>Vinimroth</error-spelling:en_US> manifested in <error-spelling:en_US>Melodia</error-spelling:en_US>.</i-flavor>

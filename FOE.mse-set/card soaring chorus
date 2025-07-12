@@ -4,8 +4,8 @@ card:
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		chop_top: 
-		chop_bottom: 
+		chop_top: 2
+		chop_bottom: 2
 		font_cap: 
 		d20_dividers: d20 mode
 		frames: 
@@ -34,7 +34,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		Other creatures you control whose base power and toughness aren’t equal get +1/+1.
-		Whenever you cast an enchantment spell, you may swap <atom-cardname><nospellcheck>Soaring Chorus</nospellcheck></atom-cardname>’s power and toughness until end of turn.
+		Whenever you cast an enchantment spell, you may swap <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>’s power and toughness until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>After the discovery of silver <error-spelling:en_US>mana</error-spelling:en_US>, <error-spelling:en_US>Multaph</error-spelling:en_US> sought out icons who could attune to it.</i-flavor>

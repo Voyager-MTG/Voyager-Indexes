@@ -12,7 +12,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: <atom-cardname><nospellcheck>Outfoxed</nospellcheck></atom-cardname> deals 4 damage to target attacking or blocking creature. Create a 1/1 white Fox creature token if you controlled an enchantment as you cast this spell.
+	rule_text: <atom-name>This spell</atom-cardname> deals 4 damage to target attacking or blocking creature. Create a 1/1 white Fox creature token if you controlled an enchantment as you cast this spell.
 	flavor_text: <i-flavor>The trespassers never seem to notice the signs that they’re being lead into a trap.</i-flavor>
 	illustrator: dagmara-matuszak-lis
 	card_code_text: 

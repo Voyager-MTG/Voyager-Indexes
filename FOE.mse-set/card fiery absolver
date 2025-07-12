@@ -31,7 +31,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <atom-cardname><nospellcheck>Fiery Absolver</nospellcheck></atom-cardname> gets +1/+1 as long as two or more nonland permanents entered the battlefield under your control this turn.
+	rule_text: <atom-name>This creature</atom-cardname> gets +1/+1 as long as two or more nonland permanents entered the battlefield under your control this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:

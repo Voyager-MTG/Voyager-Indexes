@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2025-07-07 20:39:01
+	time_modified: 2025-07-07 21:22:37
+	name: Jura
+	image: image402
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land Token</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Return target creature card with mana value 2 or less from your graveyard to the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Minea Juntura
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-07-23 21:49:35
-	time_modified: 2024-11-02 22:07:08
+	time_modified: 2025-06-14 19:46:52
 	card_color: land, multicolor
 	name: Abandoned Sanctum
-	image: image270
+	image: image454
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -17,6 +17,8 @@ card:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		<sym-auto>T</sym-auto>: Add one mana of any color. Spend this mana only to cast instant or sorcery spells with instant and/or sorcery <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>subtypes</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
 	flavor_text: <i-flavor>What used to be a sprawling tavern is now a squatted ruin.</i-flavor>
+	power: 
+	toughness: 
 	illustrator: Yura Gvozdenko
 	card_code_text: 
 	card_code_text_2: 

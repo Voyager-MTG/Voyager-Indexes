@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Cerise, Augur of Flow</nospellcheck></atom-cardname> enters and whenever you put one or more cards into your sanctum, create a 1/1 blue Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters and whenever you put one or more cards into your sanctum, create a 1/1 blue Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 		<sym-auto>I/WU</sym-auto>: Until end of turn, whenever one or more creatures you control deal combat damage to a player, draw a card from your sanctum or library. The same is true for battles and planeswalkers.
 	rule_text_2: 
 	rule_text_3: 

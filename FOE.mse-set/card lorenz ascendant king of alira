@@ -37,7 +37,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: Whenever <atom-legname><nospellcheck>Lorenz</nospellcheck></atom-legname> enters or attacks, you may search your library for an Equipment card with mana value less than or equal to <atom-legname><nospellcheck>Lorenz</nospellcheck></atom-legname>’s power, put it onto the battlefield, then shuffle. Then you may pay <sym-auto>I/B</sym-auto>. If you do, attach that Equipment to <atom-legname><nospellcheck>Lorenz</nospellcheck></atom-legname>.
+	rule_text: Whenever <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> enters or attacks, you may search your library for an Equipment card with mana value less than or equal to <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>’s power, put it onto the battlefield, then shuffle. Then you may pay <sym-auto>I/B</sym-auto>. If you do, attach that Equipment to <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

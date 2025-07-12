@@ -18,7 +18,7 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-altered:
-		custom_symbol: MyrCustoms/Vertex.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload,
+		custom_symbol: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -54,58 +54,9 @@ styling:
 	magic-scroll:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-include_file: card dust converter
-include_file: card avakin adventurer
-include_file: card meirel drifter
-include_file: card power from beyond
-include_file: card calign
-include_file: card captivate
-include_file: card adventurous pair
-include_file: card perspective shift
-include_file: card emigrating pilgrim
-include_file: card drougth oracle
-include_file: card morraire shimmer patrol
-include_file: card coiling jailer
-include_file: card cydina storm drake
-include_file: card flowsnail
-include_file: card promise of hunger
-include_file: card balutr runners
-include_file: card boundless flight
-include_file: card calamitous koi
-include_file: card omen of hunger
-include_file: card homestead pair
-include_file: card discover uncertainty
-include_file: card when words dont work
-include_file: card iconic challenger
-include_file: card unweave
-include_file: card ignelscor witch
-include_file: card kornas forward
-include_file: card meirel evacuator
-include_file: card unending exploration
-include_file: card persisting timepiece
-include_file: card inkblot artist
-include_file: card reflected inclination
-include_file: card wandering travellers
-include_file: card pathshaping
-include_file: card kaln-ocean streamliner
-include_file: card shrouded pathcensor
-include_file: card chirps spice seeker
-include_file: card melodia drifter at heart
-include_file: card outlands chimera
-include_file: card starling
-include_file: card cerise augur of flow
-include_file: card called to eternity
-include_file: card mass mutation
-include_file: card ancient interference
-include_file: card probe the veil
-include_file: card lithify
-include_file: card cascading reflections
-include_file: card kindred spirits
 include_file: card falling sparks
 include_file: card soul splintering
 include_file: card icon token
-include_file: card liminal ambiguity
-include_file: card experience cultivator
 include_file: card towing steladiuys
 include_file: card information recovery crew
 include_file: card exuberant archaeologist
@@ -117,13 +68,6 @@ include_file: card back to market
 include_file: card center mass
 include_file: card murky politics
 include_file: card memory restored
-include_file: card drifting crevasse
-include_file: card drifting field
-include_file: card drifting isle
-include_file: card drifting jungle
-include_file: card drifting mire
-include_file: card drifting peak
-include_file: card drifting sands
 include_file: card neverbloom
 include_file: card the lost heir
 include_file: card unveiling
@@ -136,7 +80,6 @@ include_file: card kaiju sighting
 include_file: card interstellar traveller
 include_file: card the depths talk loudly
 include_file: card horror
-include_file: card sanctum trader
 include_file: card lost in dreams of life
 include_file: card iridescent summit
 include_file: card one last sunset
@@ -171,7 +114,6 @@ include_file: card syphroid
 include_file: card tellavia balwar
 include_file: card refraction mech
 include_file: card writhing sight
-include_file: card soaring chorus
 include_file: card wall token
 include_file: card xylem attendant
 include_file: card clifftop pishogue
@@ -213,7 +155,6 @@ include_file: card wurm dragon token
 include_file: card elemental token
 include_file: card elemental token.1
 include_file: card dragon eye token
-include_file: card aubrey
 include_file: card orb wizard
 include_file: card treasure token
 include_file: card sanctuary of nectars
@@ -231,7 +172,6 @@ include_file: card yaiba robo
 include_file: card blooming peculiarity
 include_file: card mark of insanity
 include_file: card nildiver
-include_file: card wilmee
 include_file: card planar boundary
 include_file: card ashen wisps
 include_file: card fyndhorn betrayer

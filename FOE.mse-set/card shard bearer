@@ -18,7 +18,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2024-11-03 01:55:54
+	time_modified: 2025-07-07 00:46:42
 	extra_data:
 		magic-m15-altered-plus:
 			smallbox_text: 
@@ -38,7 +38,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-0><nospellcheck><key>Reach</key></nospellcheck></kw-0>
-		<kw-0><nospellcheck><key>Healing <param-number>1</param-number></key></nospellcheck></kw-0>
+		<kw-1><nospellcheck><key>Healing <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>1</param-number> life.)</i-auto></atom-reminder-expert></kw-1>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>With <error-spelling:en_US>Roduth’s</error-spelling:en_US> aid, <error-spelling:en_US>Multaph</error-spelling:en_US> helped shape an Icon to discover and return shards of the planar portal.</i-flavor>

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag fadove;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-15 21:11:05
+	time_modified: 2025-07-03 00:00:47
 	name: Fadove Charm
 	casting_cost: IWU
 	image: image462
@@ -23,7 +23,7 @@ card:
 		Choose one—
 		<li><bullet>• </bullet>Create two 1/1 white Bird creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 		</li><li><bullet>• </bullet>Exile target tapped creature.
-		</li><li><bullet>• </bullet>Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard.</li>
+		</li><li><bullet>• </bullet>Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.</li>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

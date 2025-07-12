@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		other_options: use taller frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		https://www.artstation.com/artwork/OknA8?collection_id=987758
+
+	time_created: 2024-04-01 22:07:49
+	time_modified: 2025-07-08 23:04:38
+	special_text:
+		[+1]: <margin:130:0:0><kw-A><nospellcheck><key>Sift <param-number>2</param-number></key></nospellcheck>. You gain 2 life.<atom-reminder-expert> <i-auto>(Look at the top <param-number>two</param-number> cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-expert></kw-A></margin:130:0:0>
+		[0]: <margin:130:0:0>Reveal a permanent card from your Sanctum, then put it into your hand. If it was a land card, put a loyalty counter on <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>.</margin:130:0:0>
+		[-7]: <margin:130:0:0> Exile up to two target permanents.</margin:130:0:0>
+	card_color: blue, black, silver, multicolor, horizontal
+	name: Oracle of Multaph
+	casting_cost: IUB
+	image: image408
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Pramma</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_1: +1
+	loyalty_cost_2: 0
+	loyalty_cost_3: -7
+	loyalty: 4
+	level_1_text: <margin:130:0:0><kw-A><nospellcheck><key>Sift <param-number>2</param-number></key></nospellcheck>. You gain 2 life.<atom-reminder-expert> <i-auto>(Look at the top <param-number>two</param-number> cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-expert></kw-A></margin:130:0:0>
+	level_2_text: <margin:130:0:0>Reveal a permanent card from your Sanctum, then put it into your hand. If it was a land card, put a loyalty counter on <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>.</margin:130:0:0>
+	level_3_text: <margin:130:0:0> Exile up to two target permanents.</margin:130:0:0>
+	level_4_text: 
+	illustrator: Julijana Mijailović
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

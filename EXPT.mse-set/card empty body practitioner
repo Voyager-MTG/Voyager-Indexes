@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/jasonwang7/art/Slay-the-Spire-Watcher-865135372
 	time_created: 2025-04-08 19:29:19
-	time_modified: 2025-04-08 19:37:10
+	time_modified: 2025-07-02 23:26:35
 	name: Empty Body Practitioner
 	casting_cost: 2I
 	image: image113
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<margin:0:0:5>When <atom-cardname><nospellcheck>Empty Body Practitioner</nospellcheck></atom-cardname> enters, choose one —</margin:0:0:5>
+		<margin:0:0:5>When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose one—</margin:0:0:5>
 		<li><bullet>• </bullet>Counter target triggered ability.
 		</li><li><bullet>• </bullet>Target creature with total power and toughness 5 or less loses all abilities.</li>
 	flavor_text: <i-flavor></i-flavor>
