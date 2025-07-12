@@ -16,14 +16,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!tag deinomarket;
-		THEY ALL CONNECT
-		(AND THEYRE ALL [T]: Add [G].GED)
-		WHAT HAPPENS IF I ALT [T]: Add [B].
-		MY FAVORITE MATHEMATICAL CONSTANT IS [T]: Add [U].
-		AND IF YOU MISSPELL IT ITS [T]: Add [W].
-		THANK YOUv(I LIKE [T]: Add [R].)
+	notes: !tag deinomarket;
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2025-06-15 18:55:44
 	name: Sanctum Trader

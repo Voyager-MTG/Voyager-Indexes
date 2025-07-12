@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/BkWgYk
+	time_created: 2024-04-01 22:07:49
+	time_modified: 2025-07-08 12:44:49
+	name: Radioactive Rumna
+	casting_cost: R
+	image: image407
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> can’t block.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks for the first time each turn or becomes the target of a spell or ability for the first time each turn, each opponent loses 1 life.
+	flavor_text: <i-flavor><error-spelling:en_US>Rumna</error-spelling:en_US> surrounding the civilizations of <error-spelling:en_US>Murkross</error-spelling:en_US> cause untold grief.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Victor Hugo Harmatiuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

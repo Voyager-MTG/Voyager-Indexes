@@ -237,6 +237,10 @@ styling:
 	magic-sync:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-universes-beyond_750:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-windy-ultima:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -586,6 +590,7 @@ include_file: card red wurm token
 include_file: card white wurm token
 include_file: card trace reminder
 include_file: card icon token
+include_file: card fault.2
 keyword:
 	keyword: Luminous
 	match: Luminous

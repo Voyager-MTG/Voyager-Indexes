@@ -33,7 +33,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Healing <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>2</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
-		Whenever <atom-cardname><nospellcheck>Smogborn Pilferer</nospellcheck></atom-cardname> is blocked by a token, defending player loses 2 life.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> is blocked by a token, defending player loses 2 life.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The paths offer grim opportunities that seldom find themselves pursued by the self-proclaimed righteous.</i-flavor>

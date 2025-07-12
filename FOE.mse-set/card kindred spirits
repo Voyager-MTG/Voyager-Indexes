@@ -18,7 +18,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-10-16 21:43:28
-	time_modified: 2025-03-20 01:06:02
+	time_modified: 2025-07-02 00:05:45
 	name: Kindred Spirits
 	casting_cost: 2I
 	image: image430
@@ -29,7 +29,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		When this creature enters, create a 1/1 silver Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, and a 0/2 white Fox creature token.
+		When this enchantment enters, create a 1/1 silver Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, and a 0/2 white Fox creature token.
 		Creature tokens you control get +1/+0.
 	flavor_text: <i-flavor>One born to land, one born to sky.</i-flavor>
 	illustrator: Aivven Valera

@@ -27,7 +27,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Syphroid</nospellcheck></atom-cardname> enters, destroy up to one target enchantment or planeswalker.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, destroy up to one target enchantment or planeswalker.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

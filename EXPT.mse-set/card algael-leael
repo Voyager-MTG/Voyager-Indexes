@@ -4,6 +4,7 @@ card:
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
+		chop_bottom: 8
 		frames: nyx
 		other_options: godzilla style alias, auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font

@@ -23,7 +23,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: <kw-A><i-auto><nospellcheck><key>Converge</key></nospellcheck></i-auto></kw-A> — <atom-cardname><nospellcheck>Falling Sparks</nospellcheck></atom-cardname> deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. You gain that much life.
+	rule_text: <kw-A><i-auto><nospellcheck><key>Converge</key></nospellcheck></i-auto></kw-A> — <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. You gain that much life.
 	flavor_text: <i-flavor>“Every so often, we sat under the night sky, me and chirps. I wish we did it more often.” —<error-spelling:en_US>Najael</i-flavor></error-spelling:en_US>
 	illustrator: Artem Chebokha
 	card_code_text: • Designed by TVP for LOB

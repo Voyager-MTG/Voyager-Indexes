@@ -5,7 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 3
-		chop_bottom: 3
+		chop_bottom: 11
 		frames: 
 		altered_plus_frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -13,7 +13,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/mantara1/art/Manta-973822942
 	time_created: 2025-02-24 19:14:53
-	time_modified: 2025-03-30 17:05:10
+	time_modified: 2025-07-02 23:24:58
 	name: Nildiver
 	casting_cost: II
 	image: image103
@@ -25,8 +25,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		As long as your complexity is three or greater, <atom-cardname><nospellcheck>Nildiver</nospellcheck></atom-cardname> is also a creature. <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto>
-		Materialize 5 <i-auto>(Tap any number of other enchantments you control with total mana value 5 or more: It also becomes an Icon creature until end of turn.)</i-auto>
+		Whenever your complexity is three or greater, <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> becomes a creature until your next upkeep. This ability triggers only once each turn. <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto>
+		Materialize 4 <i-auto>(Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

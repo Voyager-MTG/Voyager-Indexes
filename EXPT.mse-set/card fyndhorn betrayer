@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-08 17:30:12
-	time_modified: 2025-04-14 11:29:14
+	time_modified: 2025-07-02 22:57:59
 	name: Fyndhorn Betrayer
 	casting_cost: 1I
 	image: image106
@@ -14,13 +14,13 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Phyrexian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type: <word-list-race-en>Phyrexian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elf</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Fyndhorn Betrayer</nospellcheck></atom-cardname> enters, you may destroy target enchantment.
-	flavor_text: <i-flavor></i-flavor>
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may destroy target enchantment.
+	flavor_text: <i-flavor>The <error-spelling:en_US>Fyndhorn</error-spelling:en_US> elves stole <error-spelling:en_US>Dominaria’s</error-spelling:en_US> <error-spelling:en_US>leyline</error-spelling:en_US>, becoming the first who would walk the paths of the blind eternities. Little known was that a sleeper agent left with them.</i-flavor>
 	power: 2
 	toughness: 1
 	illustrator: David Gaillet

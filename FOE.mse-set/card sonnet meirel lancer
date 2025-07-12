@@ -35,7 +35,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-legname><nospellcheck>Sonnet</nospellcheck></atom-legname> enters, she deals damage equal to the number of creatures you control to up to one <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.
+		When <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> enters, she deals damage equal to the number of creatures you control to up to one <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“Don’t worry about it! I’ve still got plenty of food you haven’t even seen, Chirps!”</i-flavor>

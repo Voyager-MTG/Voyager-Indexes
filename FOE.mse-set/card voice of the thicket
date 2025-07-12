@@ -34,7 +34,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>Voice of the Thicket</nospellcheck></atom-cardname> enters, choose one. If a land entered under your control this turn, choose both:
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose one. If a land entered under your control this turn, choose both:
 		<li><bullet>• </bullet>Up to one target creature gets +2/+2 until end of turn.
 		</li><li><bullet>• </bullet>Create a 1/1 Elk Plant creature token.</li>
 	rule_text_2: 
