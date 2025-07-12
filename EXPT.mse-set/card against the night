@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: !addtoken Against the Night;conjure:3;
+	notes: !designer Aanginer!addtoken Against the Night;conjure:3;
 	time_created: 2025-02-23 09:56:41
 	time_modified: 2025-04-14 16:59:39
 	name: Against the Night

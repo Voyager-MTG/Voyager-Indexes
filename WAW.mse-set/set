@@ -5,6 +5,7 @@ stylesheet: m15-altered-plus
 stylesheet_version: 2020-09-04
 set_info:
 	title: The Wonderlands’ Wishes
+	description: !designer Wende
 	set_code: WAW
 	symbol: symbol1.mse-symbol
 	masterpiece_symbol: 

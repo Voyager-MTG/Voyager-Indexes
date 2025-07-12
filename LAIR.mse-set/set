@@ -5,13 +5,19 @@ stylesheet: m15-altered-plus
 stylesheet_version: 2020-09-04
 set_info:
 	title: Secret Lair Drops
+	description: !designer Voyager
 	set_code: LAIR
 	masterpiece_set_code: Voyager Champions
 	symbol: symbol1.mse-symbol
 	masterpiece_symbol: masterpiece_symbol1.mse-symbol
 	rarity_codes: no
 styling:
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	magic-m15-altered-plus:
+		main_style: normal
 		frames: 
 		altered_plus_frames: 
 		other_options: auto nyx crowns
@@ -21,6 +27,9 @@ styling:
 		overlay: 
 	magic-m15-cultist-simulator:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-unstable-basics:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 include_file: card mother of ants
 include_file: card the forge of days
 include_file: card the moth
@@ -28,6 +37,12 @@ include_file: card the red grail
 include_file: card the watchman
 include_file: card the thunderskin
 include_file: card drifting field
+include_file: card mountain
+include_file: card island
+include_file: card plains
+include_file: card swamp
+include_file: card forest
+include_file: card no-name
 version_control:
 	type: none
 apprentice_code: 

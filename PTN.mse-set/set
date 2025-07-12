@@ -17,7 +17,9 @@ set_info:
 		UR: Evasion<soft-line>
 		RW: Exiled
 		
-		10 more rares?</soft-line></soft-line></soft-line></soft-line></soft-line></soft-line></soft-line></soft-line></soft-line>
+		10 more rares?
+		
+		!designer Kogane</soft-line></soft-line></soft-line></soft-line></soft-line></soft-line></soft-line></soft-line></soft-line>
 	copyright: 
 	set_code: PTN
 	set_language: EN
@@ -100,16 +102,13 @@ styling:
 		overlay: 
 	magic-rulestip: mana_symbols: magic-mana-small.mse-symbol-font
 include_file: card the horned-axe
-include_file: card implant the seeds
 include_file: card mother of ants
 include_file: card the elegiast
 include_file: card the mirror-queen
 include_file: card the red grail
-include_file: card the sun-in-rags
 include_file: card the witch-and-sister
 include_file: card the wolf divided
 include_file: card the frangiclave
-include_file: card foretell
 include_file: card glassgarden prophet
 include_file: card dreamway key
 include_file: card perfect stillness
@@ -118,7 +117,6 @@ include_file: card woods deceiver
 include_file: card blazing crescendo
 include_file: card lessons of strife
 include_file: card maps edge explorer
-include_file: card thyrsine tracker
 include_file: card society headquarters
 include_file: card sanctuary of enlightenment
 include_file: card sanctuary of glory
@@ -142,39 +140,23 @@ include_file: card forest
 include_file: card forest.1
 include_file: card burgeoning risen
 include_file: card mirrored wolf
-include_file: card noon delver serpent
 include_file: card banisher priest
 include_file: card bars across the sun
 include_file: card broken sun-servant
-include_file: card defacement
 include_file: card forge secretkeeper
 include_file: card glass guardian
 include_file: card iron verdict
-include_file: card legacy of amber
 include_file: card legacy of tides
 include_file: card legacy of coils
 include_file: card subverted cyprian
-include_file: card verse illuminate
-include_file: card verse open
-include_file: card verse change
-include_file: card verse reshape
-include_file: card verse aggress
 include_file: card nowhere inhabits
-include_file: card names of the dead
-include_file: card nowhere illuminator
 include_file: card rite of twins union
 include_file: card seas feasting
 include_file: card seven-coil shipbreaker
 include_file: card carapace shearer
 include_file: card dry-soul angel
 include_file: card flesh asunder
-include_file: card herald of loss
-include_file: card skintwist
-include_file: card carnal thirst
-include_file: card ignus rites
 include_file: card the vitulation
-include_file: card rite intercalate
-include_file: card foul alteration
 include_file: card stained silver
 include_file: card subvert the light
 include_file: card subverting insurgent
@@ -182,10 +164,7 @@ include_file: card unlucky witness
 include_file: card lifes legacy
 include_file: card ezeem the second thirstly
 include_file: card king crucible
-include_file: card the moth
 include_file: card moths yearning
-include_file: card spirit of defiance
-include_file: card true blood of saint janus
 include_file: card house of the moon
 include_file: card extract secrets
 include_file: card ignite fervor
@@ -196,22 +175,17 @@ include_file: card forgotten tongues
 include_file: card take prisoners
 include_file: card ragged suns angel
 include_file: card sun-scorched tempering
-include_file: card skins division
-include_file: card corrivality
 include_file: card lost seraph
 include_file: card misguiding lighthouse
-include_file: card planar lockdown
 include_file: card angel of the true sun
 include_file: card rarefied illuminator
 include_file: card sunshard protector
-include_file: card crowned ghoul
 include_file: card paradoxical inquiry
 include_file: card rite of crucible soul
 include_file: card seven-coil invocation
 include_file: card rite of beasts division
 include_file: card the lionsmith
 include_file: card the knotwingknot
-include_file: card the ring-yew
 include_file: card the watchman
 include_file: card preemptive purge
 include_file: card reshaping phoenix
@@ -234,33 +208,24 @@ include_file: card flames of emnity
 include_file: card guided crusader
 include_file: card cindered tally
 include_file: card escape into the night
-include_file: card high cyprian
 include_file: card raw prophet
-include_file: card worm
-include_file: card wolf
-include_file: card angel
 include_file: card seven-coiled strength
 include_file: card ring-yews chosen
 include_file: card the allures light
 include_file: card the sky the soul
 include_file: card roost messengers
-include_file: card guardian percussigant
 include_file: card apostle entheate
 include_file: card cat olic priests
-include_file: card echoing charger
 include_file: card glassgarden elder
 include_file: card glassgarden seer
 include_file: card glorious enforcer
 include_file: card horomachist sacrifice
 include_file: card merciless illumination
 include_file: card mystical trail
-include_file: card pulsing vitality
 include_file: card root of mercy
 include_file: card seven-coil glider
 include_file: card augury raven
-include_file: card devoured messenger
 include_file: card eyes everywhere
-include_file: card painted distorter
 include_file: card maps edge monstrosity
 include_file: card moonlit augury
 include_file: card dreamway imposter
@@ -276,24 +241,18 @@ include_file: card evening isles skycomber
 include_file: card twins guardian
 include_file: card veil of dreams
 include_file: card white reaper
-include_file: card cyprian ophiomancer
-include_file: card dream whisperer
 include_file: card carapace guardian
 include_file: card carapace scavenger
 include_file: card cyprian haemomancer
 include_file: card despairing devotee
 include_file: card escape from nowhere
 include_file: card gloom sower
-include_file: card evening isles gravemouth
 include_file: card indulgent cyprian
-include_file: card monument of rags
 include_file: card nowhere ascender
-include_file: card nowhere stygian
 include_file: card rite of watchmans sorrow
 include_file: card scarring servitude
 include_file: card sky-scar angel
 include_file: card students of rememberance
-include_file: card throat of remnants
 include_file: card callidate invocation
 include_file: card cyprian sacristan
 include_file: card enflamed caligine
@@ -313,7 +272,6 @@ include_file: card carapace voyager
 include_file: card carapace youngling
 include_file: card cartographed risen
 include_file: card debilitated tragulari
-include_file: card flesh weaver
 include_file: card the old forms
 include_file: card ordeal of defiance
 include_file: card pupil of defiance
@@ -321,17 +279,13 @@ include_file: card thyrsine hunter
 include_file: card tireless recruiter
 include_file: card unceasing initiation
 include_file: card way to the wood
-include_file: card yew colossus
-include_file: card territorial yew-maw
 include_file: card study the histories
 include_file: card seven-coils successor
 include_file: card teferis banishment
 include_file: card breaching vespera
 include_file: card carapace shell-burster
-include_file: card horomachist ending
 include_file: card lorescale coatl
 include_file: card malleary phantasm
-include_file: card percussigant
 include_file: card places of peace
 include_file: card roost augur
 include_file: card vengeful restorer
@@ -339,18 +293,14 @@ include_file: card wound the world
 include_file: card covert cloak
 include_file: card field of ruin
 include_file: card sanctuary of mysteries
-include_file: card cleric
 include_file: card god horror
 include_file: card carapace ancestor
 include_file: card musicians remnant
 include_file: card ambitions of ascension
 include_file: card glassgarden watcheye
 include_file: card expose mortality
-include_file: card legacy of the wheel
 include_file: card ophidian soul
 include_file: card prison of glass
-include_file: card tenacious illuminator
-include_file: card the crowned growth
 include_file: card the museum of worms
 include_file: card legacy of flint
 include_file: card malleary augmenter
@@ -358,27 +308,79 @@ include_file: card malleary seer
 include_file: card malleary smelter
 include_file: card opener of glass
 include_file: card tattered cyprian
-include_file: card wandering unmaker
 include_file: card drowning cyprian
 include_file: card isidra foreign goddess
 include_file: card sister of venoms
-include_file: card the chiliarch
 include_file: card the forge of days
 include_file: card the thunderskin
-include_file: card the vagabond
-include_file: card ascent from snakes
-include_file: card buzzings in the world
 include_file: card dappled wing-clippers
-include_file: card dyads dance
 include_file: card ravenous unmaker
 include_file: card seven-coil ambusher
-include_file: card splinter-blossom
 include_file: card wolf-splinter
 include_file: card woods devourer
+include_file: card the sun-in-rags
+include_file: card the vagabond
+include_file: card thyrsine tracker
+include_file: card verse reshape
+include_file: card verse aggress
+include_file: card ignus rites
+include_file: card ascent from snakes
+include_file: card rite intercalate
+include_file: card foul alteration
+include_file: card the moth
+include_file: card spirit of defiance
+include_file: card true blood of saint janus
+include_file: card corrivality
+include_file: card the chiliarch
+include_file: card the ring-yew
+include_file: card high cyprian
+include_file: card wandering unmaker
+include_file: card flesh weaver
+include_file: card dyads dance
+include_file: card splinter-blossom
+include_file: card buzzings in the world
+include_file: card yew colossus
+include_file: card territorial yew-maw
+include_file: card horomachist ending
+include_file: card percussigant
+include_file: card cleric
+include_file: card foretell
+include_file: card angel
+include_file: card worm
+include_file: card wolf
+include_file: card noon delver serpent
+include_file: card planar lockdown
+include_file: card defacement
+include_file: card echoing charger
+include_file: card guardian percussigant
+include_file: card legacy of amber
+include_file: card pulsing vitality
+include_file: card verse illuminate
+include_file: card devoured messenger
+include_file: card evening isles gravemouth
+include_file: card legacy of the wheel
+include_file: card names of the dead
+include_file: card nowhere illuminator
+include_file: card painted distorter
+include_file: card skins division
+include_file: card verse open
+include_file: card crowned ghoul
+include_file: card the crowned growth
+include_file: card cyprian ophiomancer
+include_file: card dream whisperer
+include_file: card herald of loss
+include_file: card implant the seeds
+include_file: card monument of rags
+include_file: card nowhere stygian
+include_file: card skintwist
+include_file: card tenacious illuminator
+include_file: card throat of remnants
+include_file: card verse change
+include_file: card carnal thirst
 keyword:
 	keyword: Induct
 	match: induct
-	reminder: Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.
+	reminder: Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”
 	rules: 
 	mode: custom
 keyword:

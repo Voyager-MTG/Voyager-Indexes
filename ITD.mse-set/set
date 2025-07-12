@@ -5,6 +5,7 @@ stylesheet: m15-altered-plus
 stylesheet_version: 2020-09-04
 set_info:
 	title: Itera: Into the Dream
+	description: !designer Trewq
 	set_code: ITD
 	symbol: symbol21.mse-symbol
 	masterpiece_symbol: masterpiece_symbol1.mse-symbol

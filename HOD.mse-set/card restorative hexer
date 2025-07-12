@@ -6,7 +6,7 @@ card:
 		!tag Gosfridus
 		!tag Turnberry
 	time_created: 2025-02-24 00:31:14
-	time_modified: 2025-03-03 23:27:18
+	time_modified: 2025-07-01 09:37:07
 	name: Restorative Hexer
 	casting_cost: BG
 	image: image194.png
@@ -27,7 +27,7 @@ card:
 		<sym-auto>6BG</sym-auto>: Return target creature card from your graveyard to the battlefield with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it. It can’t block this turn.
 	flavor_text: <i-flavor>Those who die under the call of <error-spelling:en_US>Gosfridus</error-spelling:en_US> <error-spelling:en_US>Turnberry</error-spelling:en_US> don’t stay dead for long.</i-flavor>
 	power: 2
-	toughness: 3
+	toughness: 2
 	illustrator: Alena Kubikova
 	card_code_text: 
 	card_code_text_2: 

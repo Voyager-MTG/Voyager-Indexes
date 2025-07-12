@@ -1,17 +1,24 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: !ocean
-	time_created: 2025-06-18 12:05:44
-	time_modified: 2025-06-18 12:25:31
-	image: image10.png
+	notes: 
+	time_created: 2025-07-10 20:06:47
+	time_modified: 2025-07-10 20:20:48
+	card_color: land
+	card_color_2: colorless
+	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	rarity: rare
-	rule_text:
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		Whenever The Forge of Days attacks, you may put a creature card you own in exile onto the battlefield tapped and attacking. Its owner puts it on the bottom of their library at the beginning of the next end step.
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

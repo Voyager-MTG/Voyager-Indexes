@@ -1,7 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: https://www.deviantart.com/bonniesband/art/RW-Reach-993741952
+	notes:
+		!designer Trewq
+		https://www.deviantart.com/bonniesband/art/RW-Reach-993741952
 	time_created: 2025-02-23 17:57:17
 	time_modified: 2025-04-14 16:47:14
 	name: Curious Dexteria

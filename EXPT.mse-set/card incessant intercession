@@ -9,6 +9,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
+		!designer TVP
 		!gold
 		!noborder
 	time_created: 2022-07-18 21:25:51

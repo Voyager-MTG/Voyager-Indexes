@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: !designer Trewq
 	time_created: 2025-02-24 21:32:10
 	time_modified: 2025-03-30 16:52:52
 	name: Shell’s Scraping

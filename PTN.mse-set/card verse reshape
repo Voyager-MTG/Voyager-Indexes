@@ -14,10 +14,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-10-09 11:37:27
-	time_modified: 2023-06-22 14:48:30
+	time_modified: 2025-07-02 22:19:38
 	name: Verse Reshape
 	casting_cost: 1R
-	image: image295
+	image: image32
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Destroy up to one target artifact. Put a +1/+1 counter on up to one target creature.
-		As long as you control a God, you may cast <atom-cardname><nospellcheck>Verse Reshape</nospellcheck></atom-cardname> from your graveyard. Then exile it.
+		As long as you control a God and <atom-cardname><nospellcheck>Verse Reshape</nospellcheck></atom-cardname> is in your graveyard, it has <kw-A><nospellcheck><key>flashback <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>We call upon the Forge of Days, who ends what will not change.</i-flavor>

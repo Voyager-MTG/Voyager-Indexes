@@ -9,7 +9,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes: !designer TVP
 	time_created: 2025-01-18 15:32:19
 	time_modified: 2025-03-30 16:08:51
 	card_color: silver

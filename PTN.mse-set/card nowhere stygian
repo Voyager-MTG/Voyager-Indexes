@@ -3,15 +3,13 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		https://www.deviantart.com/artofty/art/Major-Arcana-XIII-162762552
-		!addtoken Scar;1
+	notes: https://www.deviantart.com/artofty/art/Major-Arcana-XIII-162762552
 	time_created: 2023-07-18 19:11:37
-	time_modified: 2024-11-07 14:56:31
+	time_modified: 2025-07-02 22:38:38
 	card_color: black
 	name: Nowhere Stygian
 	casting_cost: 3B
-	image: image91
+	image: image135
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -24,8 +22,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Nowhere Stygian</nospellcheck></atom-cardname> enters, each opponent sends a foretold card to the graveyard or discards a card.
-		Whenever a player discards one or more cards, you get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>. This ability triggers only once each turn.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Nowhere Stygian</nospellcheck></atom-cardname> enters, each opponent puts a foretold card to their graveyard or discards a card.
+		Whenever a player discards one or more cards, you get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

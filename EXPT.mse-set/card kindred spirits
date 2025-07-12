@@ -16,7 +16,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !related Drake Token;Fox Token;
+	notes:
+		!designer TVP
+		!related Drake Token;Fox Token;
 	time_created: 2024-10-16 21:43:28
 	time_modified: 2025-04-01 17:08:24
 	name: Kindred Spirits

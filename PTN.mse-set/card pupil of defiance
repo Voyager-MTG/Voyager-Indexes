@@ -29,7 +29,7 @@ card:
 	rarity: common
 	rule_text:
 		When <atom-cardname><nospellcheck>Pupil of Defiance</nospellcheck></atom-cardname> enters, choose one —
-		<li><bullet>• </bullet><kw-A><nospellcheck><key>Induct</key></nospellcheck><atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</i-auto></atom-reminder-custom></kw-A>
+		<li><bullet>• </bullet><kw-A><nospellcheck><key>Induct</key></nospellcheck><atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
 		</li><li><bullet>• </bullet>Target creature gets +2/+2 until end of turn and must be blocked this turn if able.</li>
 	rule_text_2: 
 	rule_text_3: 

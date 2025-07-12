@@ -2,6 +2,7 @@
 card:
 	has_styling: false
 	notes:
+		!designer TVP
 		CG16,Noncreature,3,,Blinding Fog
 		
 		Put a land card from your hand or sanctum onto the battlefield tapped.

@@ -15,7 +15,7 @@ card:
 		TRICOLOURCYCLE
 		PENCILIN
 	time_created: 2022-12-19 07:35:20
-	time_modified: 2025-02-14 07:53:35
+	time_modified: 2025-07-08 16:22:20
 	name: Original Position
 	casting_cost: 2WBG
 	image: image160
@@ -25,7 +25,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: At the beginning of your upkeep, exile a creature card in your graveyard at random. Create a token that’s a copy of it.
+	rule_text: At the beginning of your upkeep, exile a creature card from your graveyard at random. Create a token that’s a copy of it.
 	flavor_text:
 		<i-flavor>“A just society is one a person would willingly be born into at random.”<soft-line>
 		—<error-spelling:en_US>Vatroskylö</error-spelling:en_US>, </i>On <error-spelling:en_US>Bioprivilege<i></soft-line></i-flavor></error-spelling:en_US>

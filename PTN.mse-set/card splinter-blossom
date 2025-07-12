@@ -19,11 +19,11 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2023-06-22 22:15:28
-	time_modified: 2025-05-17 19:47:43
+	time_modified: 2025-07-02 22:51:54
 	card_color: green
 	name: Splinter-Blossom
 	casting_cost: 2G
-	image: image230
+	image: image171
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -35,7 +35,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Creatures with power less than <atom-cardname><nospellcheck>Splinter-Blossom</nospellcheck></atom-cardname>’s power can’t block it.
+		<atom-cardname><nospellcheck>Splinter-Blossom</nospellcheck></atom-cardname> can’t be blocked by creatures with lesser power.
 		Whenever <atom-cardname><nospellcheck>Splinter-Blossom</nospellcheck></atom-cardname> is dealt damage, put a +1/+1 counter on it. <i-auto>(It must survive the damage to get the counters.)</i-auto>
 	rule_text_2: 
 	rule_text_3: 

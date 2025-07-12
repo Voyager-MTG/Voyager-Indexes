@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: Preview
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-02-28 22:07:01
+	time_modified: 2025-07-01 09:37:56
 	card_color: black
 	name: Shaman of Rites Lost
 	casting_cost: 1B
@@ -29,7 +29,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Whenever a spell or ability puts one or more cards into your hand, <kw-A><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: Whenever a spell or ability puts one or more cards into your hand, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -4,8 +4,9 @@ card:
 	notes:
 		BLUEUNCOMMON
 		HUMANTYPE
+		!designer Janahwhamme
 	time_created: 2023-09-07 23:42:37
-	time_modified: 2025-01-25 09:57:10
+	time_modified: 2025-07-08 16:15:45
 	card_color: blue
 	name: Old Guard Interrogator
 	casting_cost: 4U
@@ -18,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		Exile a Human card in your graveyard: Until end of turn, Humans can’t be blocked.
+		Exile a Human card from your graveyard: Until end of turn, Humans can’t be blocked.
 	flavor_text: <i-flavor>“I know what you did. Where did you hide the girls?”</i-flavor>
 	power: 2
 	toughness: 5

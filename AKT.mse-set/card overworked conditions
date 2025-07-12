@@ -6,7 +6,7 @@ card:
 		OTHERUNCOMMON
 		CITIZENTYPE
 	time_created: 2023-01-08 16:33:51
-	time_modified: 2024-06-10 02:45:56
+	time_modified: 2025-07-08 16:15:34
 	card_color: black, green, multicolor, horizontal
 	name: Overworked Conditions
 	casting_cost: BG
@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		At the beginning of your upkeep, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
-		At the beginning of your end step, you may exile three cards in your graveyard. If there are three or more card types among cards exiled this way, draw a card.
+		At the beginning of your end step, you may exile three cards from your graveyard. If there are three or more card types among cards exiled this way, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Mingchen Zhen
 	card_code_text: 

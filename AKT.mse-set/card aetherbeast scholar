@@ -6,7 +6,7 @@ card:
 		WIZARDTYPE
 		BLUERARE
 	time_created: 2024-02-09 03:59:31
-	time_modified: 2025-03-31 03:45:09
+	time_modified: 2025-07-08 16:14:23
 	name: Aetherbeast Scholar
 	casting_cost: 2UU
 	image: image94.png
@@ -18,7 +18,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Aetherbeast Scholar</nospellcheck></atom-cardname> deals combat damage to a player, each player may shuffle their hand and graveyard into their library, then draw seven cards.
+		Whenever <atom-cardname><nospellcheck>Aetherbeast Scholar</nospellcheck></atom-cardname> deals combat damage to a player, each player may shuffle their hand and graveyard into their library. If they do, they draw seven cards.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4

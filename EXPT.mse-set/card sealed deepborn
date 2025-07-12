@@ -4,8 +4,8 @@ card:
 	stylesheet_version: 2020-09-04
 	has_styling: false
 	notes:
+		!designer Trewq
 		https://www.deviantart.com/eneyra/art/Experimental-sketch-1134781090
-		Whenever one or more tokens you control deal combat damage to a player, you may liberate one of them.
 	time_created: 2025-02-22 16:12:12
 	time_modified: 2025-07-02 23:24:37
 	name: Sealed Deepborn

@@ -1171,7 +1171,7 @@ Ploy—Each player loses 1 life and you draw a card. (When this creature attacks
         <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes></notes>
+        <notes>!designer Pipsqueak</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.

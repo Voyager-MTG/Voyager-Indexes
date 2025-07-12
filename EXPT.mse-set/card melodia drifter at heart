@@ -14,8 +14,8 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
+		!designer TVP
 		!smallbox 
-		!exportname Melodia Drifter at Heart
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2025-03-30 16:07:02
 	extra_data:

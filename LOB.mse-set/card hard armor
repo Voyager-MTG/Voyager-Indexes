@@ -1,0 +1,60 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 5
+		frames: prototype
+		altered_plus_frames: Yugioh Frame
+		popout_image_style_3: 
+		other_options: regular pt on levelers, auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns
+		level_offset: -15,-60,
+		level_label:
+			 
+		level_containers: pt boxes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: Unbound
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2024-12-12 12:11:32
+	name: Hard Armor
+	casting_cost: 1W
+	casting_cost_2: 3W
+	image: image47
+	image_2: image48
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Warrior</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: <kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>A living suit of armor that attacks enemies with a bone-jarring tackle- It is unaware it holds a sword and shield.        </i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_0: 
+	level_1_text: 
+	level_2_text: Unbound
+	level_3_text: 
+	power: 1
+	power_2: 3
+	power_3: 
+	toughness: 3
+	toughness_2: 3
+	toughness_3: 
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

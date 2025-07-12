@@ -14,10 +14,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-07-02 20:36:23
-	time_modified: 2023-09-15 20:08:10
+	time_modified: 2025-07-02 21:56:26
 	name: Noon Delver Serpent
 	casting_cost: 5
-	image: image265
+	image: image11
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -27,7 +27,7 @@ card:
 	sub_type: <word-list-race-en>Serpent</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Tap a creature you control: Target creature can’t block <atom-cardname><nospellcheck>Noon Delver Serpent</nospellcheck></atom-cardname> until end of turn.
+	rule_text: Tap an untapped creature you control: Target creature can’t block <atom-cardname><nospellcheck>Noon Delver Serpent</nospellcheck></atom-cardname> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Monsters not of the <error-spelling:en_US>Mansus</error-spelling:en_US> dwell in the waters of Port Noon, away from the notice of the Hours.</i-flavor>

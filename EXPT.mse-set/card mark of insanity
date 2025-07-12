@@ -1,7 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: https://www.deviantart.com/bluebitart/art/FIsh-In-The-Library-712961551
+	notes:
+		https://www.deviantart.com/bluebitart/art/FIsh-In-The-Library-712961551
+		!designer Trewq
 	time_created: 2025-02-24 19:02:17
 	time_modified: 2025-03-30 17:05:13
 	name: Mark of Insanity

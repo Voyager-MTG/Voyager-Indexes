@@ -17,7 +17,6 @@ card:
 		<i>His roots twist and twist and <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> deeper and deeper.</i>
 		I, II — This land gains “<sym-auto>T</sym-auto>:  Add <sym-auto>C</sym-auto>.” until your next turn.
 		III — Search your library for a non-Saga land card and put it onto the battlefield, then shuffle.
-		​
 	card_color: land
 	name: The Gardener’s Saga
 	image: image28

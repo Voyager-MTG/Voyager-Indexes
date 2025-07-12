@@ -16,7 +16,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !related Wurm Dragon Token;
+	notes:
+		!designer TVP
+		!related Wurm Dragon Token;
 	time_created: 2024-02-06 01:53:40
 	time_modified: 2025-03-30 16:04:40
 	name: Homestead Pair

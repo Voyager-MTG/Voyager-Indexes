@@ -1,13 +1,29 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 
+		frames: 
+		font_cap: 13
+		apply_custom_fonts: no
+		custom_name_font: 
+		custom_type_font: 
+		custom_body_font: 
+		custom_pt_font: 
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2023-06-22 22:15:28
-	time_modified: 2024-07-04 00:50:55
+	time_modified: 2025-07-02 22:46:58
 	card_color: red
 	name: Corrivality
 	casting_cost: 1R
-	image: image341
+	image: image105
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +34,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Whenever you attack with a one or more nontoken creatures, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Whenever you attack with one or more nontoken creatures, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Edge long ascend in pairs, locked in eternal combat.</i-flavor>

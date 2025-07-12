@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-06-30 11:37:37
-	time_modified: 2025-05-17 19:48:55
+	time_modified: 2025-07-02 22:40:03
 	name: Tenacious Illuminator
 	casting_cost: 2B
-	image: image199
+	image: image143
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever one or more other Angels you control die, each opponent loses 2 life and you gain 2 life, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>. This ability triggers only once each turn.
+		Whenever one or more other Angels you control die, each opponent loses 2 life and you gain 2 life and <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>. This ability triggers only once each turn.
 	flavor_text: <i-flavor>The sun may not be what it once was, but it burns still.</i-flavor>
 	power: 2
 	toughness: 2

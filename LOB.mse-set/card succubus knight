@@ -1,0 +1,56 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 10
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: prototype
+		altered_plus_frames: Yugioh Frame
+		name_color: default
+		popout_image_style_3: 
+		custom_symbol: abstract-061.png
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: Unbound
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2025-07-02 18:47:44
+	name: Succubus Knight
+	casting_cost: 1BB
+	casting_cost_2: 6B
+	image: image161
+	image_2: image_246.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<atom-name>This creature</atom-cardname> unbound ability costs <sym-auto>X</sym-auto> less, where X is the number of creature cards in your graveyard.
+		<sym-auto>1</sym-auto>, Sacrifice a creature: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gains <kw-0><nospellcheck><key>indestructible</key></nospellcheck></kw-0> and <kw-0><nospellcheck><key>menace</key></nospellcheck></kw-0> until end of turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	level_2_text: Unbound
+	power: 3
+	power_2: 6
+	toughness: 2
+	toughness_2: 4
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -12,13 +12,13 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !addtoken Scar;1
+	notes: 
 	time_created: 2023-05-07 21:22:38
-	time_modified: 2024-06-21 19:45:25
+	time_modified: 2025-07-02 22:38:52
 	card_color: black
 	name: Implant the Seeds
 	casting_cost: B
-	image: image19
+	image: image132
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -31,7 +31,7 @@ card:
 	rarity: common
 	rule_text:
 		Return target creature card from your graveyard to your hand.
-		You get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>. <atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		You get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>A dangerous recipe that unlocks memories from the dead.</i-flavor>

@@ -16,6 +16,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
+		!designer TVP
 		Rework
 		v1.0 5/5
 	time_created: 2022-06-23 00:00:00
