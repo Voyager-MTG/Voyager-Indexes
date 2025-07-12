@@ -5,7 +5,7 @@ card:
 		!note hybrid
 		!addtoken GreenWurm;
 	time_created: 2021-04-25 03:15:03
-	time_modified: 2025-03-01 16:17:25
+	time_modified: 2025-07-12 16:16:17
 	name: Bruin Wanderer
 	casting_cost: G/WG/W
 	image: image191
@@ -20,7 +20,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><i-auto><nospellcheck><key><i>Fracture</i></key></nospellcheck></i-auto></kw-A> — Whenever this creature attacks, if you cast a noncreature spell this turn, choose one—
+		<kw-A><i-auto><nospellcheck><key><i>Fracture</i></key></nospellcheck></i-auto></kw-A> — Whenever this creature attacks, if you cast a noncreature spell this turn, choose one —
 		<li><bullet>• </bullet>You gain 2 life.
 		</li><li><bullet>• </bullet>Create a 1/1 green Wurm creature token with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.</li>
 	rule_text_2: 

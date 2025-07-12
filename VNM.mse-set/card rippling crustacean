@@ -17,7 +17,7 @@ card:
 		overlay: 
 	notes: Preview
 	time_created: 2021-04-25 03:20:55
-	time_modified: 2025-03-01 16:23:29
+	time_modified: 2025-07-12 17:03:03
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -35,7 +35,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When this creature dies, create a trace of Fault into your hand.
+		When this creature dies, create a basic trace of Fault into your hand.
 		<b>Fault</b>|<i>Basic</i> <i>Land — Fault</i><soft-line>
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.)</i-auto></soft-line>
 	rule_text_2: 

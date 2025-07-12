@@ -30,7 +30,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Whenever <atom-cardname><nospellcheck>Prophellos, Pathborn Hunger</nospellcheck></atom-cardname> enters or attacks, if you’ve cast a noncreature spell this turn, each opponent sacrifices a creature.
+		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, if you’ve cast a noncreature spell this turn, each opponent sacrifices a creature.
 		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>5</sym-auto>, Exile four other cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text:
 		<i-flavor>Each passing moment it becomes hungrier <soft-line>

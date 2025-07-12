@@ -38,9 +38,9 @@ card:
 	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elk</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>God</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		You may spend <sym>I</sym> as any color to cast <atom-legname><nospellcheck>Multaph</nospellcheck></atom-legname> or activate their abilities.
-		When <atom-legname><nospellcheck>Multaph</nospellcheck></atom-legname> enters, create a trace of another target enchantment with mana value 4 or greater into your hand.
-		<sym-auto>1IUB</sym-auto>, Exile two <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonelk</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enchantments you control: Return <atom-legname><nospellcheck>Multaph</nospellcheck></atom-legname> from your graveyard to the battlefield tapped.
+		You may spend <sym>I</sym> as any color to cast <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> or activate their abilities.
+		When <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> enters, create a trace of another target enchantment with mana value 4 or greater into your hand.
+		<sym-auto>1IUB</sym-auto>, Exile two <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonelk</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enchantments you control: Return <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> from your graveyard to the battlefield tapped.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	power: 3

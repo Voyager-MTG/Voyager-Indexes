@@ -20,7 +20,7 @@ card:
 		!addtoken Reformed Rift;
 		!tag fascism;
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-04-14 16:50:52
+	time_modified: 2025-07-12 16:35:53
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -39,7 +39,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Destroy target land. If it was a basic land, its controller creates Reformed Rift token. Otherwise, its controller creates a basic Mountain token.
+		Destroy target land. If it was a basic land, its controller creates a Reformed Rift token. Otherwise, its controller creates a basic Mountain token.
 		Draw a card.
 		<b>Reformed Rift</b>| <i>Land</i><soft-line>
 		</soft-line><i><sym>T</sym></i>: Add one mana of any color.

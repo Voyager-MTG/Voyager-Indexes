@@ -2,8 +2,8 @@
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 5
-		chop_bottom: 10
+		chop_top: 2
+		chop_bottom: 
 		font_cap: 13.5
 		d20_dividers: d20 mode
 		frames: 
@@ -17,7 +17,7 @@ card:
 		overlay: 
 	notes: !exportname Multaphs Watch
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-04-07 16:02:40
+	time_modified: 2025-07-12 16:58:16
 	card_color: green
 	name: Multaph’s Watch
 	casting_cost: 4G
@@ -37,7 +37,7 @@ card:
 		<sym-auto>3GG</sym-auto>: Look at the top card of your library. If it’s a creature or enchantment card, you may reveal it and put it into your hand. If this creature attacked this turn, this ability costs <sym-auto>1GG</sym-auto> to activate.
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor>The elks are more mysterious than the elves. You can’t tell what they’re guarding, and following them gets you get lost.</i-flavor>
+	flavor_text: <i-flavor>“They seem to guard nothing and lead you astray at every turn.” —<error-spelling:en_US>Melodia</i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 3

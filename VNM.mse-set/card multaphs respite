@@ -22,7 +22,7 @@ card:
 		!addtoken Multaph’s Respite’s Spellbook;transform;
 		!backname Multaph’s Respite’s Spellbook;
 	time_created: 2022-04-02 19:29:38
-	time_modified: 2025-03-26 15:13:32
+	time_modified: 2025-07-12 16:40:22
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -43,7 +43,7 @@ card:
 	rarity: rare
 	chapter_text_2: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Multaph’s Respite</nospellcheck></atom-cardname> enters, create a trace of your choice into your hand among Subdued Rift, Warped Exploration, and Cut From Void.
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, create a trace into your hand of your choice from among Subdued Rift, Warped Exploration, and Cut From Void.
 		Once each turn, when you cast a noncreature spell, you may pay <sym-auto>2</sym-auto>. If you do, copy that spell. You may choose new targets for the copy.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>

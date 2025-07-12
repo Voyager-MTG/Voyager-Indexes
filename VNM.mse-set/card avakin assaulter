@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-02-28 22:13:17
+	time_modified: 2025-07-12 16:32:03
 	card_color: black
 	name: Avakin Assaulter
 	casting_cost: 3BB
@@ -34,7 +34,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: When this creature enters or whenever a spell or ability puts a card into your hand, target creature you control gets +2/+0 until end of turn.
+	rule_text: Whenever this creature enters or a spell or ability puts a card into your hand, target creature you control gets +2/+0 until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor><error-spelling:en_US>Shivta’s</error-spelling:en_US> warriors had been known to protect the respite with a ruthlessness beyond necessity. Even still, their heart bleeds when a single life is lost within their walls.</i-flavor>

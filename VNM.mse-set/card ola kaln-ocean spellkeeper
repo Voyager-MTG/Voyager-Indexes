@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: !exportname Ola Kaln-Ocean Spellkeeper
 	time_created: 2022-05-06 22:46:07
-	time_modified: 2025-02-27 16:52:28
+	time_modified: 2025-07-12 16:15:27
 	name: Ola, Kaln-Ocean Spellkeeper
 	casting_cost: 1UU
 	image: image44
@@ -31,9 +31,9 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<margin:0:0:5><i><kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> —</i> At the beginning of combat, if you cast a noncreature spell this turn, choose two—</margin:0:0:5>
+		<margin:0:0:5><i><kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> —</i> At the beginning of combat, if you cast a noncreature spell this turn, choose two —</margin:0:0:5>
 		<li><bullet>• </bullet>Tap or untap target permanent.
-		</li><li><bullet>• </bullet>Put a +1/+1 counter on <atom-legname><nospellcheck>Ola</nospellcheck></atom-legname>.
+		</li><li><bullet>• </bullet>Put a +1/+1 counter on <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>.
 		</li><li><bullet>• </bullet>Draw a card, then discard a card.</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

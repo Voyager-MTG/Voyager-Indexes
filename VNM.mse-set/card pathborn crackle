@@ -31,8 +31,8 @@ card:
 	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<sym-auto>I/R</sym-auto>, Sacrifice four permanents named <atom-cardname><nospellcheck>Pathborn Crackle</nospellcheck></atom-cardname>: This creature deals 7 damage to target opponent.
-		A deck can have any number of cards name <atom-cardname><nospellcheck>Pathborn Crackle</nospellcheck></atom-cardname>.
+		<sym-auto>I/R</sym-auto>, Sacrifice four permanents named <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: This creature deals 7 damage to target opponent.
+		A deck can have any number of cards name <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

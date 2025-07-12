@@ -22,7 +22,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-05-20 10:14:11
-	time_modified: 2024-03-03 03:12:59
+	time_modified: 2025-07-12 16:32:31
 	name: xXDust420Xx
 	alias: Dust for Dust
 	casting_cost: 1B
@@ -35,7 +35,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a nonland permanent.
-		Exile target nonartifact nonland permanent.
+		Exile target nonartifact, nonland permanent.
 		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>Slays your mum.</i-flavor>
 	watermark: none

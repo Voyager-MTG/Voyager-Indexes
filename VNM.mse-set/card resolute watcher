@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: previewed
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-03-01 21:26:04
+	time_modified: 2025-07-12 16:45:15
 	card_color: blue
 	name: Resolute Watcher
 	casting_cost: 2UU
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</i></key></nospellcheck></i-auto></kw-A> — Once each turn, whenever you cast a noncreature spell, draw a card, then put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on up to one target creature.
+	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</i></key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, draw a card, then you may put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on target creature.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>They say all it takes is a look.</i-flavor>

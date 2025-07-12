@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <atom-cardname><nospellcheck>Soul Fire</nospellcheck></atom-cardname> deals 3 damage to any target. If you spent <sym>I</sym> to cast this spell, up to one target creature gets +3/+0 until end of turn.
+	rule_text: <atom-name>This spell</atom-cardname> deals 3 damage to any target. If you spent <sym>I</sym> to cast this spell, up to one target creature gets +3/+0 until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Point the flames only towards something you want dead, or someone you know can handle it.</i-flavor>

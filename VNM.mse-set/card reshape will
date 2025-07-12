@@ -22,7 +22,7 @@ card:
 		</soft-line>!token
 		!conjured
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-03-01 15:28:21
+	time_modified: 2025-07-12 17:01:08
 	name: Reshape Will
 	casting_cost: 1W/U
 	image: image43
@@ -36,7 +36,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: special
-	rule_text: Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to its other types. Cast only outside of combat. <i-auto>(Traces are cards that become copies when they enter a public zone.)</i-auto>
+	rule_text: Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat. <i-auto>(Traces are cards that become copies when they enter a public zone.)</i-auto>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>And yet again, <error-spelling:en_US>Vinimroth’s</error-spelling:en_US> strange magic continues to bring forth life from the immaterial.</i-flavor>

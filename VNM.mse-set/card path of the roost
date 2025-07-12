@@ -21,12 +21,12 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2024-10-09 22:56:03
+	time_modified: 2025-07-12 18:13:41
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
 	name: Path of the Roost
-	casting_cost: 1U
+	casting_cost: 2U
 	image: image10.png
 	image_2: 
 	mainframe_image: 
@@ -38,7 +38,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: You may cast nonpermanent spells from your sanctum by paying <sym>1UU</sym> in addition to its other costs.
+	rule_text: Once each turn, you may cast a nonpermanent spell from your sanctum. that spell costs <sym-auto>U</sym-auto> more to cast, and if that card would be put into a graveyard, exile it instead.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

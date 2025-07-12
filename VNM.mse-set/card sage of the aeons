@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Whenever you sacrifice a nonland permanent, <atom-cardname><nospellcheck>Sage of the Aeons</nospellcheck></atom-cardname> deals 1 damage to target player or planeswalker.
-		<sym-auto>1</sym-auto>, Sacrifice a nonland permanent: <atom-cardname><nospellcheck>Sage of the Aeons</nospellcheck></atom-cardname> gets +1/+0 and gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
+		Whenever you sacrifice a nonland permanent, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals 1 damage to target player or planeswalker.
+		<sym-auto>1</sym-auto>, Sacrifice a nonland permanent: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+0 and gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

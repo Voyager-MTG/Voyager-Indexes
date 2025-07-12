@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-03-01 21:23:48
+	time_modified: 2025-07-12 16:55:29
 	name: Forest Assailant
 	casting_cost: 3GG
 	image: image78
@@ -19,7 +19,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</key></nospellcheck></i-auto></kw-A> </i>— At the beginning of combat on your turn, if you cast a noncreature spell this turn, target creature you control gets +1/+1 and must be blocked until end of turn.
+	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</key></nospellcheck></i-auto></kw-A> </i>— At the beginning of combat on your turn, if you cast a noncreature spell this turn, target creature you control gets +1/+1 and must be blocked if able until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:

@@ -12,6 +12,7 @@ set_info:
 	masterpiece_set_code: VNM
 	symbol: symbol13.mse-symbol
 	masterpiece_symbol: masterpiece_symbol1.mse-symbol
+	CARDNAME_replacement: card's type
 	remove_card_codes: no
 	automatic_card_numbers: yes
 	sort_special_rarity: separate numbering
@@ -364,7 +365,7 @@ include_file: card shroud walkers
 include_file: card verem-volcano stalker
 include_file: card power of oath
 include_file: card iconic absolution
-include_file: card wipe the wicked
+include_file: card wipe away the wicked
 include_file: card stalwart resolution
 include_file: card fadove willshaper
 include_file: card returned from beyond

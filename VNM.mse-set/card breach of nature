@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2025-03-01 17:03:08
+	time_modified: 2025-07-12 16:55:01
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -39,7 +39,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		You may look at the top card of your library at any time.
+		You may look at the top card of your library any time.
 		<sym-auto>T</sym-auto>: Reveal the top card of your library. If it’s a land, you may put it onto the battlefield. Otherwise, you may mill it.
 	rule_text_2: 
 	rule_text_3: 
