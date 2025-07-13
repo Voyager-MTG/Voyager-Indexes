@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-04-07 16:00:43
+	time_modified: 2025-07-12 16:49:28
 	card_color: red, green, multicolor, horizontal
 	name: Prismatic Offense
 	casting_cost: 1RG
@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
 		After your first combat phase, there is an additional combat phase where only enchantment creatures you control can attack.
-		<sym-auto>1</sym-auto>: Once each turn, add one mana of any color.
+		<sym-auto>1</sym-auto>: Add one mana of any color. You may only activate this ability once each turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Paradise is only found after war.</i-flavor>

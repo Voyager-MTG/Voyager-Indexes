@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
 		Target creature gets +3/-3 until end of turn. 
-		<sym-auto>2I</sym-auto>, Discard <atom-cardname><nospellcheck>Grazed by the Endless</nospellcheck></atom-cardname>: Target opponent loses 3 life.
+		<sym-auto>2I</sym-auto>, Discard <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>: Target opponent loses 3 life.
 	flavor_text: <i-flavor>All it takes is a single mistake.</i-flavor>
 	illustrator: J Edward Neill
 	card_code_text: 

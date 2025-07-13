@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-05-20 10:14:11
-	time_modified: 2023-05-13 22:11:00
+	time_modified: 2025-07-12 16:33:01
 	name: Dust for Dust
 	casting_cost: 1B
 	image: image167
@@ -31,9 +31,9 @@ card:
 	rarity: rare
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a nonland permanent.
-		Exile target nonartifact nonland permanent.
+		Exile target nonartifact, nonland permanent.
 		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
-	flavor_text: <i-flavor>And with one spell, an idea was traded for complete and utter removal.</i-flavor>
+	flavor_text: <i-flavor>An idea for erasure.</i-flavor>
 	watermark: none
 	illustrator: J Edward Neill
 	card_code_text: 

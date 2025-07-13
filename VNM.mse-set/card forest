@@ -8,7 +8,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		 !related Warped Exploration;Raze the Clanless;
+		 !related Warped Exploration;
 		!conjured
 		!exportname Vin-Forest
 	time_created: 2021-11-12 23:55:31

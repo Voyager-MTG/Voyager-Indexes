@@ -36,7 +36,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Whenever <atom-cardname><nospellcheck>Awakened Harmony</nospellcheck></atom-cardname> attacks, as long as you’ve cast a noncreature spell this turn, target creature you control gets +1/+1 until end of turn.
+	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, as long as you’ve cast a noncreature spell this turn, target creature you control gets +1/+1 until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“The forests are recovering, and we will make certain that is stays that way.”</i-flavor>

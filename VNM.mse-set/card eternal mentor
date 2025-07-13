@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !note hybrid
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-02-28 23:17:24
+	time_modified: 2025-07-12 16:52:41
 	name: Eternal Mentor
 	casting_cost: 1U/B
 	image: image204
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Once each turn, when a spell or ability puts a card into your hand, up to one target enchantment also becomes a 2/2 creature in addition to its other types until end of turn.
+		Once each turn, when a spell or ability puts a card into your hand, you may have target enchantment also becomes a 2/2 creature until end of turn.
 		<sym-auto>T</sym-auto>: Target creature you control can’t be blocked this turn if has power 2 or less.
 	rule_text_2: 
 	rule_text_3: 

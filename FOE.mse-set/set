@@ -514,6 +514,13 @@ include_file: card poison pincher
 include_file: card radioactive rumna
 include_file: card oracle of multaph
 include_file: card faloden barrier scout
+include_file: card kaln-ocean seahorse
+include_file: card coralwisp entity
+include_file: card warpath wurm
+include_file: card miori outlands future
+include_file: card terramorphic singularity
+include_file: card form of the paths
+include_file: card stinging surveyor
 keyword:
 	keyword: Luminous
 	match: Luminous

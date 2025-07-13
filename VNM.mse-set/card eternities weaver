@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2025-03-01 17:21:37
+	time_modified: 2025-07-12 17:50:24
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -41,10 +41,10 @@ card:
 	rule_text: You may play lands from your sanctum.
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>“My hope is that you see why the paths are part of the natural order here.”</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym-auto>IG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-1>
+	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym>I</sym>. Activate only if you’ve created a token this turn</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-1>
 	power: 1
 	toughness: 3
 	illustrator: Dan Watson

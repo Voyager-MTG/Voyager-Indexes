@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> enters tapped with three <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it.
+		<atom-name>This creature</atom-cardname> enters tapped with three <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it.
 		Whenever you remove one or more counters from a permanent you control, you <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. You gain 1 life.
 	rule_text_2: 
 	rule_text_3: 

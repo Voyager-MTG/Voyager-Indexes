@@ -16,7 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
-		<atom-cardname><nospellcheck>Rebuke the Foul</nospellcheck></atom-cardname> deals 3 damage to target creature if it’s attacking or blocking. If you’ve illuminated white, exile that creature instead.
+		<atom-name>This spell</atom-cardname> deals 3 damage to target creature if it’s attacking or blocking. If you’ve illuminated white, exile that creature instead.
 	flavor_text:
 		<i-flavor>“Begone.” <soft-line>
 		</soft-line>—<error-spelling:en_US>Roduth’s</error-spelling:en_US> emissary.</i-flavor>

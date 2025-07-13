@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		https://www.artstation.com/artwork/JrVm8A
+
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-07-13 01:22:45
+	name: Form of the Paths
+	casting_cost: 5RR
+	image: image435
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		You can’t play cards from your hand.
+		At the beginning of your upkeep, your life total becomes equal to the number of cards in your sanctum.
+		Creatures you control have base power and toughness equal to the number of cards in your sanctum.
+		<sym-auto>5RR</sym-auto>: Destroy <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Vladimir Matyukhin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

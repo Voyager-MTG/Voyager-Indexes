@@ -18,7 +18,7 @@ card:
 		overlay: 
 	notes: !smallbox
 	time_created: 2022-03-30 19:56:05
-	time_modified: 2025-02-28 22:47:24
+	time_modified: 2025-07-12 16:54:33
 	card_color: blue, black, red, multicolor, horizontal
 	name: Will of Destruction
 	casting_cost: U/RU/RB
@@ -35,7 +35,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
-		Whenever you attack with two or more nontoken creatures, you may pay <sym>U/RB</sym>. If you do, look at the top two cards of your library. Put one into your sanctum and one into your hand.
+		Whenever you attack with two or more nontoken creatures, you may pay <sym>U/RB</sym>. If you do, look at the top two cards of your library. Put one into your sanctum and the other into your hand.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -1,0 +1,56 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		font_cap: 
+		d20_dividers: d20 mode
+		frames: adventure
+		adventure_type: focus
+		altered_plus_frames: 
+		popout_image_style: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		https://www.artstation.com/artwork/ZePXbZ?collection_id=1415792
+
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-07-13 00:37:16
+	name: Warpath Wurm
+	name_2: Trembling Fear
+	casting_cost: 2RR
+	casting_cost_2: R
+	image: image431
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Instant</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Uk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell>Focus</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
+		<atom-name>This creature</atom-cardname> gets +1/+0 for each land you control.
+	rule_text_2: <atom-name><nospellcheck>This spell</nospellcheck></atom-cardname> deals 1 damage to any target. <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. <i-auto>(Then put this into your sanctum)</i-auto>
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 0
+	toughness: 4
+	illustrator: Anato Finnstark
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

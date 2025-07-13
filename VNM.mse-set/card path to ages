@@ -40,7 +40,7 @@ card:
 	rarity: rare
 	rule_text:
 		Add <sym-auto>IWUBRG</sym-auto>.
-		Exile <atom-cardname><nospellcheck>Path to Ages</nospellcheck></atom-cardname>.
+		Exile <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

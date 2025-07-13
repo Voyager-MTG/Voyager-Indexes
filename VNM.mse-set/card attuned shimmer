@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-05-20 22:05:01
-	time_modified: 2025-04-07 14:34:25
+	time_modified: 2025-07-12 16:51:47
 	name: Attuned Shimmer
 	casting_cost: W/BW/BW/B
 	image: image72.png
@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Lifelink</key></nospellcheck></kw-0> 
-		<kw-0><nospellcheck><key>Ward—<param-cost>pay 3 life</param-cost>.</key></nospellcheck></kw-0>
+		<kw-0><nospellcheck><key>Ward—<param-cost>Pay 3 life</param-cost>.</key></nospellcheck></kw-0>
 		Whenever you attack, target creature you control gets +1/+1 until end of turn.
 		<kw-1><nospellcheck><key>Materialize <param-number>4</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>4</param-number> or more: This also becomes an Icon creature until your next upkeep.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor></i-flavor>

@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/OvNOmw
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-07-13 01:09:15
+	name: Terramorphic Singularity
+	casting_cost: 4RR
+	image: image433
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		All nonbasic lands are legendary.
+		Players may play lands from their graveyard or sanctum.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor><error-spelling:en_US>Roduth</error-spelling:en_US>, instructed by <error-spelling:en_US>Multaph</error-spelling:en_US> and <error-spelling:en_US>Shivta</error-spelling:en_US>, instilled into it a belief that all worlds are unique and beautiful.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Vladimir Matyukhin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

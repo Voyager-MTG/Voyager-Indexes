@@ -31,7 +31,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<sym-auto>2R</sym-auto>, Discard <atom-cardname><nospellcheck>Lavaskimmer Wurm</nospellcheck></atom-cardname>: Up to two target creatures you control each get +2/+0 until end of turn and can attack as though they didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
+		<sym-auto>2R</sym-auto>, Discard <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Up to two target creatures you control each get +2/+0 until end of turn and can attack as though they didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>You’d be hard pressed to find a way to stop a <error-spelling:en_US>wurm</error-spelling:en_US> that jumps from volcano’s.</i-flavor>

@@ -18,7 +18,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-02-28 23:29:06
+	time_modified: 2025-07-12 17:01:19
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -39,7 +39,7 @@ card:
 		Whenever equipped creature attacks, you may cast a copy of a skill among permanents you control.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 		<b>Reshape Will</b> <sym>1W/U</sym>| <u>Skill Instant</u><soft-line>
-		</soft-line>Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to its other types. Cast only outside of combat.
+		</soft-line>Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

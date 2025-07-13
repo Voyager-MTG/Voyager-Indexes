@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2024-06-28 22:26:55
+	time_modified: 2025-07-12 18:17:25
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -38,12 +38,12 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>. <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:
-		<i-flavor>“This creature seems to follow others into the paths, maybe it needs them to open a way?”<soft-line>
-		— <error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</soft-line></i-flavor></error-spelling:en_US>
+		<i-flavor>“It seems to follow others into the paths, maybe it needs them to open a way?”<soft-line>
+		—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</soft-line></i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym-auto>1</sym-auto>, Pay 1 life</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>

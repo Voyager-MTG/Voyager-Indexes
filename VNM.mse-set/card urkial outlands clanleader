@@ -33,7 +33,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-1><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-1>
-		<atom-cardname><nospellcheck>Urkial, Outlands Clanleader</nospellcheck></atom-cardname> is all colors.
+		<atom-name>This creature</atom-cardname> is all colors.
 		Creatures you control get +1/+1 for each color you’ve illuminated.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

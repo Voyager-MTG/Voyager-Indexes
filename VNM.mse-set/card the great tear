@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		Exile all creatures and planeswalkers.
-		<sym-auto>2WW</sym-auto>, Discard <atom-cardname><nospellcheck>The Great Tear</nospellcheck></atom-cardname>: Exile target creature or planeswalker.
+		<sym-auto>2WW</sym-auto>, Discard <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>: Exile target creature or planeswalker.
 	flavor_text:
 		<i-flavor>“And in an instant, a hole opened in the sky. <error-spelling:en_US>Urza</error-spelling:en_US> had torn our world, and left us to repair it.”<soft-line>
 		—Retelling by <error-spelling:en_US>Korna</error-spelling:en_US>, <error-spelling:en_US>Vinimroth</error-spelling:en_US> Historian</soft-line></i-flavor>

@@ -20,7 +20,7 @@ card:
 		!note hybrid
 		!addtoken RedWurm;
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-03-01 16:40:05
+	time_modified: 2025-07-12 16:52:08
 	name: Conflict Mentor
 	casting_cost: 2B/RB/R
 	image: image205
@@ -35,7 +35,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — At the beginning of combat of your turn, if you cast a noncreature spell this turn, create a 1/1 red Wurm creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — At the beginning of combat on your turn, if you cast a noncreature spell this turn, create a 1/1 red Wurm creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 		Tokens you control have <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
 	rule_text_2: 
 	rule_text_3: 

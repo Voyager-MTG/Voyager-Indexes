@@ -17,7 +17,7 @@ card:
 	super_type: <word-list-type-en>Legendary Enchantment Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: Whenever <atom-legname><nospellcheck>The Wandering Cook</nospellcheck></atom-legname> attacks, choose up to one target creature an opponent controls. That creature can’t block this turn unless its owner pays <sym-auto>2</sym-auto>. If they do, untap <atom-cardname><nospellcheck>The Wandering Cook</nospellcheck></atom-cardname> and it gets +2/+0 until end of turn.
+	rule_text: Whenever <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> attacks, choose up to one target creature an opponent controls. That creature can’t block this turn unless its owner pays <sym-auto>2</sym-auto>. If they do, untap <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> and it gets +2/+0 until end of turn.
 	flavor_text: <i-flavor>“Let’s eat!”</i-flavor>
 	loyalty_cost_2: 
 	loyalty_cost_3: 

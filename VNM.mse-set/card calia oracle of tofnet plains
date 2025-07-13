@@ -3,7 +3,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
-		chop_bottom: 8
+		chop_bottom: 6
 		font_cap: 13.5
 		d20_dividers: off
 		frames: 
@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: !exportname Calia Oracle of Tofnet Plains
 	time_created: 2022-05-06 22:46:07
-	time_modified: 2025-07-08 16:34:14
+	time_modified: 2025-07-12 16:27:42
 	name: Calia, Oracle of Tofnet Plains
 	casting_cost: 2WW
 	image: image25
@@ -31,8 +31,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
-		Whenever you cast an enchantment, up to one other target permanent you control becomes a creature until end of turn. Put two +1/+1 counters on it.
-		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, if you cast a noncreature spell this turn, draw a card.
+		Whenever you cast an enchantment spell, up to one other target permanent you control becomes a creature until end of turn. Put two +1/+1 counters on it.
+		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

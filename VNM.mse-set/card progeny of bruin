@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-04-09 23:23:26
+	time_modified: 2025-07-12 16:59:16
 	card_color: green
 	name: Progeny of Bruin
 	casting_cost: 4GGG
@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 		When you cast this spell, draw a card and you gain 3 life.
-		<sym-auto>2G</sym-auto>, Put this card into your sanctum from your hand: You gain 4 life then draw a card.
+		<sym-auto>2G</sym-auto>, Put this card into your sanctum from your hand: You gain 4 life, then draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Raised by bears, educated by <error-spelling:en_US>avakin</error-spelling:en_US> and trained by the <error-spelling:en_US>fadove</error-spelling:en_US>.</i-flavor>

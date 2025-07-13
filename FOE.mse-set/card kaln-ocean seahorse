@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/43ZXq
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-07-13 00:15:24
+	name: Kaln-Ocean Seahorse
+	casting_cost: 2U
+	image: image470
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fish</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever one or more creatures you control attack, up to one target creature gets -X/-0, where X is the number of attacking creatures you control.
+		Whenever you cast or copy a noncreature spell, create a 1/1 white Shark enchantment creature token.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text:
+		<i-flavor>“They hunt using sharks as partners???”<soft-line>
+		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Godserg _art
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

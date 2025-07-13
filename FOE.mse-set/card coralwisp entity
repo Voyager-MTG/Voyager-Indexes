@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/NGZP2D
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2025-07-13 00:33:05
+	name: Coralwisp Entity
+	casting_cost: 3U
+	image: image429
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Entity</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters or attacks, <kw-A><nospellcheck><key>sift <param-number>2</param-number></key></nospellcheck>, then you may reveal a nonpermanent card from your sanctum and put it into your hand.<atom-reminder-expert> <i-auto>(Look at the top <param-number>two</param-number> cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-0><nospellcheck><key>Materialize <param-number>2</param-number></key></nospellcheck></kw-0>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Claudya Schmidt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

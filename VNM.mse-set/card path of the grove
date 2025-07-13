@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2025-03-01 16:50:39
+	time_modified: 2025-07-12 17:42:42
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -38,7 +38,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: Choose three cards from your graveyard at random. Put on into your hand. <i-auto>(The rest don’t leave the graveyard.)</i-auto>
+	rule_text:
+		Choose three cards from your graveyard at random. Put one into your hand. <i-auto>(The rest don’t leave the graveyard.)</i-auto>
+		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>I/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
