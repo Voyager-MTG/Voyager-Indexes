@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag fascism;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-23 08:16:57
+	time_modified: 2025-07-03 00:01:26
 	name: Mordel Charm
 	casting_cost: IRG
 	image: image461
@@ -23,7 +23,7 @@ card:
 		Choose one—
 		<li><bullet>• </bullet>Target creature gets +4/-4 until end of turn.
 		</li><li><bullet>• </bullet>Exile the top two cards of your library. You may play them until the end of your next turn. If it’s your turn, you may play an additional land this turn.
-		</li><li><bullet>• </bullet>You gain 7 life</li>
+		</li><li><bullet>• </bullet>You gain 7 life.</li>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

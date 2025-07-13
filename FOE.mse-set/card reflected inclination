@@ -18,7 +18,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-06-21 02:11:02
-	time_modified: 2024-10-14 23:33:36
+	time_modified: 2025-07-01 22:29:55
 	name: Reflected Inclination
 	casting_cost: I
 	image: image244
@@ -29,7 +29,7 @@ card:
 	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Until end of turn, up to one target token you control becomes a copy of this creature with size 2/2.
 	flavor_text: <i-flavor>You always look better in the mirror.</i-flavor>
 	power: 1

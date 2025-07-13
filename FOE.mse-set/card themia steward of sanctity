@@ -44,7 +44,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Themia, Steward of Sanctity</nospellcheck></atom-cardname> enters or transforms, exile up to one other target nonland permanent you control until <atom-cardname><nospellcheck>Themia, Steward of Sanctity</nospellcheck></atom-cardname> leaves or transforms.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or transforms, exile up to one other target nonland permanent you control until <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> leaves or transforms.
 	rule_text_2:
 		This land enters tapped unless you pay 3 life.
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.

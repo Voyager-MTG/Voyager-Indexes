@@ -32,7 +32,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Whenever one or more counters are put on a nonland permanent you control not named <atom-cardname><nospellcheck>Ranging Symbiote</nospellcheck></atom-cardname>, if it’s the first time a counter has been put on that permanent this turn, put a +1/+1 counter on this creature.
+	rule_text: Whenever one or more counters are put on a nonland permanent you control not named <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, if it’s the first time a counter has been put on that permanent this turn, put a +1/+1 counter on this creature.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

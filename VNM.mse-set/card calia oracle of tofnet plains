@@ -1,9 +1,25 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 8
+		font_cap: 13.5
+		d20_dividers: off
+		frames: 
+		altered_plus_frames: 
+		custom_symbol: 
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
 	notes: !exportname Calia Oracle of Tofnet Plains
 	time_created: 2022-05-06 22:46:07
-	time_modified: 2025-04-07 16:00:31
+	time_modified: 2025-07-08 16:34:14
 	name: Calia, Oracle of Tofnet Plains
 	casting_cost: 2WW
 	image: image25
@@ -15,8 +31,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
-		Whenever you cast an enchantment, draw a card.
-		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, if you cast a noncreature spell this turn, up to one other target permanent you control becomes a creature until end of turn. Put two +1/+1 counters on it.
+		Whenever you cast an enchantment, up to one other target permanent you control becomes a creature until end of turn. Put two +1/+1 counters on it.
+		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, if you cast a noncreature spell this turn, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

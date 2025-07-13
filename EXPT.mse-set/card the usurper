@@ -17,8 +17,8 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Whenever a creature you control attacks, move a counter from target permanent an opponent controls onto <atom-cardname><nospellcheck>The Usurper</nospellcheck></atom-cardname>.
-		<atom-cardname><nospellcheck>The Usurper</nospellcheck></atom-cardname> must be blocked if able.
+		Whenever a creature you control attacks, move a counter from target permanent an opponent controls onto <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		<atom-name>This creature</atom-cardname> must be blocked if able.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4

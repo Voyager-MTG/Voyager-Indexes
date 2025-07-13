@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://instagram.fosu2-2.fna.fbcdn.net/v/t51.29350-15/293634905_1361841970974313_1543883996225966264_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTcxOS5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fosu2-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFb9eVXbvWUS4RFuPs6lRr5K0u2RfA_XaJILvz0EEHZmMISIEmMdjF5jK4VchUaBuRs2XsL94IInsxy8DMu6Hu1&_nc_ohc=J0PqtbcRkGMQ7kNvwGLuXPk&_nc_gid=dPOcx49Qj3DKVHBOKW-rkA&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AfGTw06ovE5kbBrwAdunYgiim3lymTqXL5Isa7dIdNcKAg&oe=6802E9CA&_nc_sid=22de04
 	time_created: 2025-04-08 19:58:31
-	time_modified: 2025-04-14 10:58:17
+	time_modified: 2025-07-02 23:22:19
 	name: Raging Rubigrug
 	casting_cost: 1I
 	image: image114
@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Raging Rubigrug</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> as long as your opponent’s sanctum contains four or more cards.
-		Whenever <atom-cardname><nospellcheck>Raging Rubigrug</nospellcheck></atom-cardname> becomes the target of a spell for the first time each turn, draw a card from target player’s sanctum.
+		<atom-name>This creature</atom-cardname> has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> as long as your opponent’s sanctum contains four or more cards.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> becomes the target of a spell for the first time each turn, that spell’s owner reveals their sanctum. Exile a card from it. You may play cards exiled this way as long as they remain exiled.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

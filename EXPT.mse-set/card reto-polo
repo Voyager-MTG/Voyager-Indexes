@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: https://www.saatchiart.com/print/Painting-The-duplicate-bird/311344/7243987/view
 	time_created: 2025-04-08 18:58:44
-	time_modified: 2025-04-14 11:10:51
+	time_modified: 2025-07-02 23:22:54
 	name: Reto-Polo
 	casting_cost: 1I
 	image: image111
@@ -28,8 +28,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>nonland permanent you don’t control.</param-name></key></nospellcheck></kw-a>
-		As <atom-cardname><nospellcheck>Reto-Polo</nospellcheck></atom-cardname> enters choose a permanent you control.
+		<kw-a><nospellcheck><key>Enchant <param-name>nonland permanent you don’t control</param-name></key></nospellcheck></kw-a>
+		As <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters choose a permanent you control.
 		Enchanted permanent is a copy of the chosen permanent.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anica Govedarica

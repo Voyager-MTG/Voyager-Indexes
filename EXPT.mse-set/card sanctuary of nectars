@@ -20,7 +20,7 @@ card:
 	sub_type_3: 
 	rarity: basic land
 	rule_text:
-		<atom-cardname><nospellcheck>Sanctuary of Nectars</nospellcheck></atom-cardname> enters tapped.
+		<atom-name>This land</atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto> or <sym-auto>G</sym-auto>.
 		<sym-auto>4</sym-auto>, Sacrifice a Sanctuary: Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it. Activate only as a Sorcery.
 	rule_text_2: 

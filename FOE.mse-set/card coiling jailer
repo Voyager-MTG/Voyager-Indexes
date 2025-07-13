@@ -4,7 +4,7 @@ card:
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		chop_top: 2
+		chop_top: 4
 		chop_bottom: 
 		font_cap: 13.5
 		d20_dividers: d20 mode

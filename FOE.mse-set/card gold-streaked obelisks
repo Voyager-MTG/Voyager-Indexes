@@ -7,7 +7,7 @@ card:
 		!related Green-Streaked Ruinsattach>;
 		!addtoken Green-Streaked Ruins;transform;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-11 20:20:15
+	time_modified: 2025-07-07 00:46:07
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -42,6 +42,7 @@ card:
 	power: 
 	toughness: 
 	illustrator: ilya popov
+	illustrator_2: Grady Frederick
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

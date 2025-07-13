@@ -25,7 +25,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Lisse, Bound by the King</nospellcheck></atom-cardname> can’t attack or block unless you control two or more enchantments.
+		<atom-name>This creature</atom-cardname> can’t attack or block unless you control two or more enchantments.
 		<sym-auto>4I/W</sym-auto>, <sym-auto>T</sym-auto>: Each opponent loses 2 life and you gain 2 life.
 	rule_text_2: 
 	rule_text_3: 

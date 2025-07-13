@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		Create two 1/1 silver Horror creature tokens with <kw-0><nospellcheck><key>changeling</key></nospellcheck></kw-0>. <i-auto>(They’re every creature type.)</i-auto>
-		<atom-cardname><nospellcheck>Shell’s Scraping</nospellcheck></atom-cardname> deals damage to any target equal to the number of tokens you control. You gain life equal to the damage dealt this way.
+		<atom-name>This spell</atom-cardname> deals damage to any target equal to the number of tokens you control. You gain life equal to the damage dealt this way.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
