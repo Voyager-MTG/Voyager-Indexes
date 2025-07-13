@@ -8,7 +8,6 @@ card:
 		chop_bottom: 
 		font_cap: 
 		d20_dividers: d20 mode
-		main_style: normal
 		frames: 
 		altered_plus_frames: 
 		use_holofoil_stamps: no

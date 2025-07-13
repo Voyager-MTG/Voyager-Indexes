@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> can’t block.
+		<atom-name>This creature</atom-cardname> can’t block.
 		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks for the first time each turn or becomes the target of a spell or ability for the first time each turn, each opponent loses 1 life.
 	flavor_text: <i-flavor><error-spelling:en_US>Rumna</error-spelling:en_US> surrounding the civilizations of <error-spelling:en_US>Murkross</error-spelling:en_US> cause untold grief.</i-flavor>
 	power: 1
