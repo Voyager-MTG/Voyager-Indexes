@@ -251,6 +251,7 @@ include_file: card edification
 include_file: card canyon crustacean
 include_file: card cowering lightbringer
 include_file: card fish token
+include_file: card no-name
 keyword:
 	keyword: Mirror
 	match: mirror
