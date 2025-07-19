@@ -26,7 +26,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(If you control four or more permanents of a color, illuminate that color this game.)</i-auto></atom-reminder-action></kw-A>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
-		<atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> isn’t a creature unless you’ve illuminated silver.
+		<atom-legname><nospellcheck>Era</nospellcheck></atom-legname> isn’t a creature unless you’ve illuminated silver.
 		Whenever a token you control attacks, each opponent loses 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

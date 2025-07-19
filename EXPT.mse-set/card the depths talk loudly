@@ -1,14 +1,6 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 
-		chop_bottom: 
-		frames: nyx
-		use_holofoil_stamps: no
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes:
 		!designer Trewq
 		https://www.deviantart.com/ppp597/art/Kiosk-in-La-Linea-de-la-Concepcion-1162220477
@@ -26,8 +18,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, create a 2/2 silver Horror creature token with <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
-		Whenever one or more tokens you control deal combat damage to a player, you may sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>. If you do, draw two cards.
+		When <atom-cardname><nospellcheck>The Depths Talk Loudly</nospellcheck></atom-cardname> enters, create a 2/2 silver Horror creature token with <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever one or more tokens you control deal combat damage to a player, you may sacrifice <atom-cardname><nospellcheck>The Depths Talk Loudly</nospellcheck></atom-cardname>. If you do, draw two cards.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Kosior P
 	card_code_text: • Designed By Trewq

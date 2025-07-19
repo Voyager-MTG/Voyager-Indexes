@@ -14,7 +14,7 @@ card:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/Her
 	special_text:
-		[+2]: <margin:130:0:0><atom-cardname><nospellcheck>Miori, Outlands Future</nospellcheck></atom-cardname> deals 3 damage to any target.</margin:130:0:0>
+		[+2]: <margin:130:0:0><atom-name>This planeswalker</atom-cardname> deals 3 damage to any target.</margin:130:0:0>
 		[0]: <margin:130:0:0>Exile the top three cards of your library. You may play them this turn.</margin:130:0:0>
 		[-10]: <margin:130:0:0>Exile the top fifteen cards of your library. You may cast any number of spells among them without paying their mana cost.</margin:130:0:0>
 	name: Miori, Outlands Future
@@ -42,7 +42,7 @@ card:
 	loyalty_cost_2: 0
 	loyalty_cost_3: -10
 	loyalty: 4
-	level_1_text: <margin:130:0:0><atom-name><nospellcheck>This planeswalker</nospellcheck></atom-cardname> deals 3 damage to any target.</margin:130:0:0>
+	level_1_text: <margin:130:0:0><atom-name>This planeswalker</atom-cardname> deals 3 damage to any target.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Exile the top three cards of your library. You may play them this turn.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Exile the top fifteen cards of your library. You may cast any number of spells among them without paying their mana cost.</margin:130:0:0>
 	level_4_text: 

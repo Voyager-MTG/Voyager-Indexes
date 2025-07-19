@@ -28,7 +28,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature gets +2/-2 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
-		When enchanted creature dies, if you controlled it, return <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> to its owner’s hand.
+		When enchanted creature dies, if you controlled it, return <atom-cardname><nospellcheck>Blooming Peculiarity</nospellcheck></atom-cardname> to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Kosior P
 	card_code_text: •  Designed by Trewq

@@ -21,8 +21,8 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>mirror</key></nospellcheck></kw-0> a non-Turtle.
-		Whenever you create a token that doesn’t share a name with a token you control, you may exile <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, then return it to the battlefield under its owner’s control at the beginning of the next end step.   
+		When <atom-cardname><nospellcheck>Winged Turtle</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>mirror</key></nospellcheck></kw-0> a non-Turtle.
+		Whenever you create a token that doesn’t share a name with a token you control, you may exile <atom-cardname><nospellcheck>Winged Turtle</nospellcheck></atom-cardname>, then return it to the battlefield under its owner’s control at the beginning of the next end step.   
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

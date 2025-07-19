@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<margin:0:0:5>When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose one—</margin:0:0:5>
+		<margin:0:0:5>When <atom-cardname><nospellcheck>Empty Body Practitioner</nospellcheck></atom-cardname> enters, choose one—</margin:0:0:5>
 		<li><bullet>• </bullet>Counter target triggered ability.
 		</li><li><bullet>• </bullet>Target creature with total power and toughness 5 or less loses all abilities.</li>
 	flavor_text: <i-flavor></i-flavor>

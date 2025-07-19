@@ -43,6 +43,7 @@ include_file: card plains
 include_file: card swamp
 include_file: card forest
 include_file: card no-name
+include_file: card no-name.1
 version_control:
 	type: none
 apprentice_code: 

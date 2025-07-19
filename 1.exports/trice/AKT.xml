@@ -653,7 +653,7 @@ CB15</notes>
 CB16</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose one—
+      <text>Choose one —
 • Return target creature card from your graveyard to your hand.
 • Return two target cards that share a creature type from your graveyard to your hand.</text>
     </card>
@@ -953,7 +953,7 @@ INCARNATIONTYPE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Greivance gets +2/+2 if another permanent you control left the battlefield this turn.</text>
+Greivance gets +2/+2 as long as another permanent you control left the battlefield this turn.</text>
     </card>
     <card>
       <name>Transmuted Newt</name>
@@ -1034,7 +1034,7 @@ That creature deals 4 damage to any target.</text>
 CR14</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose one—
+      <text>Choose one —
 • Attacking creatures get +2/+0 until end of turn.
 • Destroy target artifact.</text>
     </card>
@@ -1832,7 +1832,7 @@ SOLDIERTYPE
 Related Cards: Recruit</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Diaspora Recruiters enters, choose a creature type among permanents you control. Create a red 1/1 creature token that’s the chosen type named Recruit.</text>
+      <text>When Diaspora Recruiters enters, choose a creature type from among permanents you control. Create a red 1/1 creature token that’s the chosen type named Recruit.</text>
     </card>
     <card>
       <name>Erysium Injection</name>
@@ -2102,7 +2102,7 @@ CR17
 !replacetoken Liberated Reminder;1</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Liberate target nonland permanent you control. The token created this way has haste and “at the beginning of your end step, sacrifice this creature.” (Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+      <text>Liberate target nonland permanent you control. The token created this way has haste and “At the beginning of your end step, sacrifice this creature.” (Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</text>
     </card>
     <card>
       <name>Gift of Erysium</name>
@@ -2141,7 +2141,7 @@ CW17
 CW19</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose one—
+      <text>Choose one —
 • Destroy target artifact, enchantment, or planeswalker.
 • Target creature gets +3/+2 until end of turn.</text>
     </card>
@@ -2727,7 +2727,7 @@ CITIZENTYPE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your upkeep, surveil 1.
-At the beginning of your end step, you may exile three cards in your graveyard. If there are three or more card types among cards exiled this way, draw a card.</text>
+At the beginning of your end step, you may exile three cards from your graveyard. If there are three or more card types among cards exiled this way, draw a card.</text>
     </card>
     <card>
       <name>Regeneration Programme</name>
@@ -3611,7 +3611,7 @@ HUMANTYPE
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Exile a Human card in your graveyard: Until end of turn, Humans can’t be blocked.</text>
+Exile a Human card from your graveyard: Until end of turn, Humans can’t be blocked.</text>
     </card>
     <card>
       <name>Umweltenshifter</name>
@@ -3651,7 +3651,7 @@ UU11 </notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one or both—
-• Creatures target player controls gets -2/-0 until end of turn.
+• Creatures target player controls get -2/-0 until end of turn.
 • Counter target spell.</text>
     </card>
     <card>
@@ -3831,7 +3831,7 @@ UR01
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-When you cast your second non-Human spell this turn, liberate Urdonic Attendant. (Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+When you cast your second non-Human spell in a turn, liberate Urdonic Attendant. This ability triggers only once. (Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</text>
     </card>
     <card>
       <name>Unburdent Matriarch</name>
@@ -4055,7 +4055,7 @@ ARTIFICERTYPE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>As Accommodation enters, choose a creature type.
-When Accommodation enters and at the beginning of your upkeep, create a colorless Equipment artifact token named House with “equipped creature gets +1/+1” and “equip creature with the chosen type {1}.”</text>
+When Accommodation enters and at the beginning of your upkeep, create a colorless Equipment artifact token named House with “Equipped creature gets +1/+1” and “Equip creature with the chosen type {1}.”</text>
     </card>
     <card>
       <name>Relentless Firefighter</name>
@@ -4354,9 +4354,8 @@ If Lyyrata usurped, creatures you control get +5000/+5000.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-I, II, III — Mill a card. Put that card into your hand unless an opponent pays life equal to its mana value.
-IV — Prithite’s Worldly Dicta deals damage to target creature or planeswalker equal to the number of land cards in your graveyard.
-​</text>
+Mill a card. Put that card into your hand unless an opponent pays life equal to its mana value.
+Prithite’s Worldly Dicta deals damage to target creature or planeswalker equal to the number of land cards in your graveyard.</text>
     </card>
     <card>
       <name>Triaja, Astral Apostate</name>
@@ -4497,7 +4496,7 @@ TRICOLOURCYCLE
 PENCILIN</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your upkeep, exile a creature card in your graveyard at random. Create a token that’s a copy of it.</text>
+      <text>At the beginning of your upkeep, exile a creature card from your graveyard at random. Create a token that’s a copy of it.</text>
     </card>
     <card>
       <name>Eyysapha, Syakir in Exile</name>
@@ -4521,7 +4520,7 @@ NOBLECYC</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess, vigilance
-{T}: Choose target creature card you own in exile that was put there from the battlefield this turn. At the beginning of the next end step, create a token copy of it.</text>
+{T}: Choose target creature card you own in exile that was put there from the battlefield this turn. At the beginning of the next end step, create a token that’s a copy of it.</text>
     </card>
     <card>
       <name>Hazenwyld Totem</name>
@@ -4942,7 +4941,7 @@ WEREWOLFTYPE</notes>
       <text>“Urdonic strength protects Ur’s creation. Your weakness is Akella’s health.”
 —Novablast
 I, II — Destroy target creature with the least power or tied for the least.
-III — If you control a creature, and you control the creature with the greatest power or tied for it, you draw two cards and you lose 2 life.
+III — If you control the creature with the greatest power or tied for it, you draw two cards and you lose 2 life.
 ​</text>
     </card>
     <card>
@@ -5249,7 +5248,7 @@ When Omnificient Vessel enters, each player may discard their hand. Each player 
 SPOTLIGHT</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you cast a non-colorless spell from anywhere other than your hand, Siege of Percitha deals 2 damage to any target.</text>
+      <text>Whenever you cast a spell with one or more colors from anywhere other than your hand, Siege of Percitha deals 2 damage to any target.</text>
     </card>
     <card>
       <name>Frail Friendship</name>
@@ -5329,7 +5328,7 @@ Prowess abilities of permanents you control also trigger whenever another Lizard
 LIZARDTYPE</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a land you control enters, return target permanent card in your graveyard with mana value 1 or 2 to the battlefield with a finality counter on it.</text>
+      <text>Whenever a land you control enters, return target permanent card  from your graveyard with mana value 1 or 2 to the battlefield with a finality counter on it.</text>
     </card>
     <card>
       <name>Ineffable Spawning</name>
@@ -5370,7 +5369,7 @@ NOBLECYC</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}, Discard a card: Draw a card. If an Incarnation is discarded this way, create a 1/1 red Incarnation creature token with flying.
-1BR, Sacrifice three creatures: You may cast target card in your graveyard with a creature type without paying its mana cost.</text>
+1BR, Sacrifice three creatures: You may cast target card with a creature type from your graveyard without paying its mana cost.</text>
     </card>
     <card>
       <name>Ruthless Revenge</name>
@@ -5413,7 +5412,7 @@ BLUERARE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess
-Whenever Aetherbeast Scholar deals combat damage to a player, each player may shuffle their hand and graveyard into their library, then draw seven cards.</text>
+Whenever Aetherbeast Scholar deals combat damage to a player, each player may shuffle their hand and graveyard into their library. If they do, they draw seven cards.</text>
     </card>
     <card>
       <name>Identity Connoisseur</name>
@@ -5497,7 +5496,7 @@ Spells of the chosen type cost {1} more to cast.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you cast a monocolored spell, create a 4/4 colourless Dragon creature token if each color is noted with Sustain Worldbalance. Otherwise note that color, then draw a card if it wasn’t already noted.</text>
+      <text>Whenever you cast a monocolored spell, create a 4/4 colorless Dragon creature token if each color is noted with Sustain Worldbalance. Otherwise note that color, then draw a card if it wasn’t already noted.</text>
     </card>
     <card>
       <name>Decay</name>
@@ -5989,7 +5988,7 @@ GREENRARE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Add one mana of any color.
-{2}, {T}: Add an amount of {G} equal to the number of card types among permanents you control. (Kindred is a card type.)</text>
+{2}, {T}: Add {G} for each card type among permanents you control. (Kindred is a card type.)</text>
     </card>
     <card>
       <name>Exalted Extrusion</name>
@@ -6166,7 +6165,7 @@ SOLDIERTYPE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, vigilance
-As Prithitian Justiciar enters, choose two other card names.
+As Prithitian Justiciar enters, choose two card names other than Prithitian Justiciar.
 Spells with a chosen name can’t be cast.
 You choose if creatures with a chosen name attack or block each combat and how they attack or block.</text>
     </card>
@@ -6187,7 +6186,7 @@ You choose if creatures with a chosen name attack or block each combat and how t
         <notes>WHITERARE</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Stellar Spymasters enters, investigate.
+      <text>When Stellar Spymasters enters, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)
 {T}, Sacrifice Stellar Spymasters: Any number of target creatures you control phase out.</text>
     </card>
     <card>
@@ -6516,7 +6515,7 @@ Flying</text>
 !replacetoken Liberated Reminder;1</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>{1}, {T}: Exile target card in a graveyard.
+      <text>{1}, {T}: Exile target card from a graveyard.
 {3}, {T}, Sacrifice Pillar of Worldbalance: You liberate an artifact, creature, or enchantment card exiled by it with mana value 3 or less. Activate only as a sorcery. (If it isn’t a Dragon, create a colorless 3/2 Dragon creature token with its abilities.)</text>
     </card>
     <card>
@@ -6651,7 +6650,7 @@ SPOTLIGHT</notes>
       <tablerow>3</tablerow>
       <text>Choose one —
 • Exile target artifact or enchantment with mana value 3 or less.
-• Exile target spell that wasn’t cast from a player’s hand.</text>
+• Exile target spell that wasn’t cast from its owner’s hand.</text>
     </card>
     <card>
       <name>Grocery Shopper</name>
@@ -6778,7 +6777,7 @@ Whenever Swiftmind Sage deals damage to an opponent, exile the top card of your 
         <notes>lyyrata</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Exile each opponent’s graveyard and library. For the rest of the game, they don’t lose the game for drawing from an empty library unless you control a transcended Erysite.</text>
+      <text>Exile each opponent’s graveyard and library. For the rest of the game, they don’t lose the game if they would draw a card from an empty library unless you control a transcended Erysite.</text>
     </card>
     <card>
       <name>Death Drive</name>
@@ -6838,7 +6837,7 @@ Tap an unburdent creature you control: Add GGG.</text>
         <notes>COLOURLESSRARE</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Callwolf Replica gets +2/+1 if you own an embraced card in exile.
+      <text>Callwolf Replica gets +2/+1 as long as  you own an embraced card in exile.
 When Callwolf Replica dies, it deals damage equal to its power to each opponent.</text>
     </card>
     <card>
@@ -6858,7 +6857,7 @@ When Callwolf Replica dies, it deals damage equal to its power to each opponent.
 UB10</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return to your hand any number of target creature cards in your graveyard that have no creature types in common.</text>
+      <text>Return any number of target creature cards with no creature types in common from your graveyard to your hand.</text>
     </card>
     <card>
       <name>Thoughtglass Shaper</name>
@@ -6880,3 +6879,205 @@ CU05</notes>
       <tablerow>2</tablerow>
       <text>When Thoughtglass Shaper enters, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
     </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Liberated Dragon</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes>TOKENREMINDER
+
+!tokentag Equalised Reminder</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Put a liberated card under this; this has its abilities, but not card types. This is single faced and can’t be transformed.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Insect Advisor</name>
+      <set>AKT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Insect Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>TOKENREMINDER</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Embraced Cards</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>TOKENREMINDER
+
+!tokentag EmbracedReminder</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Put your embraced cards here. They’re in exile, and you may play them on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Recruit</name>
+      <set>AKT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!tokentag Recruit</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(This is the creature type chosen as it was created.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+        <notes>Related cards: Aspect of Commerce, Sired Innocent
+
+Tooken</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Human</name>
+      <set>AKT</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes>Related cards: Host Farm
+
+Tooken</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Incarnation</name>
+      <set>AKT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>Related Cards: Mother of Notions
+
+Tooken</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Hex Citizen</name>
+      <set>AKT</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Hex Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>Related Cards: Infested Fortress, Host Farm Babysitter, Orthodox Scholar
+
+Tooken</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Werewolf Citizen</name>
+      <set>AKT</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Werewolf Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes>Related Cards: Mother of Notions
+
+Tooken</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Incarnation Soldier</name>
+      <set>AKT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Incarnation Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes>Related Cards: Lethal Force
+
+Tooken</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Soldier</name>
+      <set>AKT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>House</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes>Related Cards: Accommodation</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip creature of the chosen type {1}</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Dragon</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

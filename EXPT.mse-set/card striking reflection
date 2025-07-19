@@ -14,7 +14,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Reflection</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, you may have the size of another target creature you control become 3/2 until end of turn.
+	rule_text: Whenever <atom-cardname><nospellcheck>Striking Reflection</nospellcheck></atom-cardname> attacks, you may have the size of another target creature you control become 3/2 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

@@ -21,7 +21,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Choose one, then choose another for each card named <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> in your graveyard.
+		Choose one, then choose another for each card named <atom-cardname><nospellcheck>Unveiling</nospellcheck></atom-cardname> in your graveyard.
 		<li><bullet>• </bullet>Blank up to one target nonland permanent until your next turn. <i-auto>(It loses all abilities until your next turn.)</i-auto>
 		</li><li><bullet>• </bullet>Draw a card from your sanctum or library.
 		</li><li><bullet>• </bullet>Counter up to one target activated or triggered ability.
