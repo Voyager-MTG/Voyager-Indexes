@@ -17,7 +17,7 @@ card:
 		Preview
 		Updated
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 15:51:58
+	time_modified: 2025-07-21 01:02:23
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -32,7 +32,7 @@ card:
 	sub_type: <word-list-race-en>Hyena</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Spellshaper</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		When this creature enters, you may create a trace of its skill into your hand.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Military <kw-0><nospellcheck><key>Training</b></key></nospellcheck></kw-0> <sym>G/W</sym>| <u>Skill Instant<soft-line>
 		</u></soft-line>Put a +1/+1 counter on target creature you control. Cast only outside of combat.
 	flavor_text: <i-flavor></i-flavor>

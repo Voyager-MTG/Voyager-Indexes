@@ -23,19 +23,21 @@ card:
 		!conjured
 		!tag avlod;
 	time_created: 2021-09-19 22:49:27
-	time_modified: 2025-03-01 15:28:17
+	time_modified: 2025-07-21 01:32:37
 	name: Hollow Graze
 	casting_cost: U/B
 	image: image337
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Trace Skill Instant</word-list-type-en>
+	super_type: <word-list-type-en>Skill Instant</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text: Target creature gets -2/-0 until end of turn. Cast only outside of combat. <i-auto>(Traces are cards that become copies when they enter a public zone.)</i-auto>
 	rule_text_2: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-12 16:33:44
+	time_modified: 2025-07-21 02:59:45
 	card_color: red
 	name: Iconic Resolution
 	casting_cost: 1R
@@ -20,7 +20,7 @@ card:
 	rarity: common
 	rule_text:
 		Put a +1/+1 counter on target creature. Until end of turn, that creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and can attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
-		If you control an enchantment, target creature can’t block until end of turn.
+		Up to one target creature can’t block until end of turn as long as you control an enchantment.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>To attune to an Icon is to burn down your adversaries.</i-flavor>

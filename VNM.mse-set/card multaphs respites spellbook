@@ -20,7 +20,7 @@ card:
 		overlay: 
 	notes: !addtoken Subdued Rift;Warped Exploration;Cut from Void;
 	time_created: 2022-04-02 19:29:38
-	time_modified: 2025-03-01 16:43:53
+	time_modified: 2025-07-21 00:52:49
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -34,17 +34,21 @@ card:
 	image_2: image87
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Spellbook</word-list-type-en>
+	super_type: <word-list-type-en>Token Spellbook</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: 
 	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	chapter_text_2: 
 	rule_text:
 		<b>Subdued Rift</b> <sym>W/B</sym>| <u>Skill Sorcery</u><soft-line>
 		</soft-line>Create a 1/1 black and white Cat enchantment creature token.
 		<b>Warped Exploration</b> <sym>2</sym>| <u>Skill Sorcery</u><soft-line>
-		</soft-line>Create a trace of a basic land of any type into your hand.
+		</soft-line><kw-A><nospellcheck><key>Trace <param-name>a basic land of any type into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Cut from Void</b> <sym>2U</sym>| <u>Skill Instant</u><soft-line>
 		</soft-line><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>, then draw a card.
 	rule_text_2: 

@@ -26,7 +26,7 @@ card:
 		Blue| Tap target permanent.
 		Silver| Create a tapped token copy of target nonland permanent with mana value 2 or less.
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2024-08-01 12:30:59
+	time_modified: 2025-07-15 01:21:56
 	card_color: white, blue, silver, multicolor, horizontal
 	name: Blue Medicine
 	casting_cost: X
@@ -44,7 +44,7 @@ card:
 	rule_text:
 		If you spent <sym>W</sym> to cast this, create a 1/1 white Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.
 		If you spent <sym>U</sym> to cast this, draw a card, then tap up to X target creatures.
-		If you spent <sym>I</sym> to cast this, reflect.
+		If you spent <sym>I</sym> to cast this, <kw-A><nospellcheck><key>mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

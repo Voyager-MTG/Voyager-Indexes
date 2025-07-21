@@ -7,7 +7,7 @@ card:
 		!note hybrid
 		Preview
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 21:15:02
+	time_modified: 2025-07-21 01:53:45
 	name: Sublime Liquidation
 	casting_cost: 1R/WR/W
 	image: image100
@@ -23,8 +23,8 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
-		This creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
-		As long as you’ve illuminated white or red, this creature gets +1/+1.
+		<atom-name>This creature</atom-cardname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it’s your turn.
+		<atom-name>This creature</atom-cardname> gets +1/+1 as long as you’ve illuminated white or red.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

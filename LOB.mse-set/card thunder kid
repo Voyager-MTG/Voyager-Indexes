@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-07-02 19:10:53
+	time_modified: 2025-07-15 01:22:42
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: he/him
@@ -40,7 +40,7 @@ card:
 	rarity: common
 	rule_text:
 		Insects you control have <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
-		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>I</sym-auto>, Discard this: Reflect.
+		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>I</sym-auto>, Discard this: <kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>This monster stores electricity within his body, and can unleash it with catastrophic power.</i-flavor>

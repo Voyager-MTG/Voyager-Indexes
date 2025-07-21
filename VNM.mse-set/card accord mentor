@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-03-01 16:52:19
+	time_modified: 2025-07-21 04:32:43
 	special_text: 
 	name: Accord Mentor
 	casting_cost: 1W/UW/U
@@ -35,7 +35,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Whenever you cast your second spell each turn, target creature gets +2/+2 until end of turn.
+		Whenever you cast your second spell each turn, you may activate one of <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>s activated abilities without paying its costs.
 		<sym-auto>2IW/U</sym-auto>: Exile another target creature you control. Return it to the battlefield at the beginning of the next end step.
 	rule_text_2: 
 	rule_text_3: 

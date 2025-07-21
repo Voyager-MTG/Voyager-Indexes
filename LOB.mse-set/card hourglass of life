@@ -47,7 +47,7 @@ card:
 	level_1_text:
 		<soft-line>
 		</soft-line>
-	level_2_text: Unbound
+	level_2_text: <kw-A><nospellcheck><key>Unbound</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this for its unbound cost or pay its unbound cost as a sorcery. While unbound, its mana cost and size are altered.)</i-auto></atom-reminder-custom></kw-A>
 	power: 1
 	power_2: 2
 	toughness: 1

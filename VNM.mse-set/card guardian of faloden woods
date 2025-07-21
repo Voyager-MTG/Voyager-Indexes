@@ -9,7 +9,7 @@ card:
 		
 		!addtoken GreenWurm;2;
 	time_created: 2022-04-24 03:31:09
-	time_modified: 2025-03-01 17:24:54
+	time_modified: 2025-07-21 14:21:11
 	name: Guardian of Faloden Woods
 	casting_cost: 2I/GI/G
 	image: image52.png
@@ -20,8 +20,10 @@ card:
 	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		<sym-auto>1I/G</sym-auto>, Discard this: Create two 1/1 green Wurm creature tokens with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>. Activate only as a sorcery.
-	flavor_text: <i-flavor></i-flavor>
+		<sym-auto>1I/G</sym-auto>, Discard this: Create two 1/1 green Wurm creature tokens with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>. Activate only if its your turn.
+	flavor_text:
+		<i-flavor>“These guardians seem to span the entire wooded continent of <error-spelling:en_US>Faloden</error-spelling:en_US>.”<soft-line>
+		—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</soft-line></i-flavor></error-spelling:en_US>
 	power: 3
 	toughness: 4
 	illustrator: Duong ct

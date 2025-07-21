@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !note hybrid
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-03-01 20:55:38
+	time_modified: 2025-07-21 15:04:58
 	name: Hired Enforcer
 	casting_cost: 2W/BW/B
 	image: image5
@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-1><nospellcheck><key>Lifelink</key></nospellcheck><atom-reminder-core> <i-auto>(Damage dealt by this creature also causes you to gain that much life.)</i-auto></atom-reminder-core></kw-1>
-		At the beginning of combat on your turn, this creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn if you have at least 7 more life than an opponent.
+		At the beginning of combat on your turn, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn if you have at least 7 more life than an opponent.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“I came all the way out here to find you. It had better been worth the trek.”</i-flavor>

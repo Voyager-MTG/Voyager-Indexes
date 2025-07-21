@@ -18,7 +18,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-04-03 00:25:53
-	time_modified: 2025-03-20 00:45:26
+	time_modified: 2025-07-16 22:00:10
 	name: Nirvanha Bloom
 	casting_cost: 2
 	image: image380
@@ -33,7 +33,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Once each turn, whenever another permanent enters under your control, put a loyalty counter on this enchantment.
+		Once during each of your turns, whenever another permanent enters under your control, put a loyalty counter on this enchantment.
 		<sym-auto>-1</sym-auto>: Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		<sym-auto>-2</sym-auto>: Return target card from your graveyard to your hand.
 	rule_text_2: 

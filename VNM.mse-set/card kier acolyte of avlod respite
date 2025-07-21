@@ -21,7 +21,7 @@ card:
 		!exportname Kier Acolyte of Avlod Respite
 		!tag avlod;
 	time_created: 2022-05-06 22:46:07
-	time_modified: 2025-07-12 16:33:23
+	time_modified: 2025-07-21 01:25:15
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -35,8 +35,8 @@ card:
 	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks or blocks, create a trace of Steady Growth into your hand and you lose 1 life.
-		<sym-auto>5</sym-auto>, Discard an enchantment card: Return target creature card from your graveyard to the battlefield. Spend only different colors of mana to activate this.
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kier</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks or blocks, <kw-A><nospellcheck><key>trace <param-name>a card named Steady Growth into your hand and you lose 1 life.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>5</sym-auto>, Discard an enchantment: Return target creature card from your graveyard to the battlefield. Spend only different colors of mana to activate this ability.
 		<b>Steady Growth</b> <sym>B/G</sym>| <u>Enchantment<soft-line>
 		</soft-line></u><kw-a><nospellcheck><key>Enchant <param-name>land;</param-name></key></nospellcheck></kw-a> Enchanted land has “<sym-auto>T</sym-auto>: Add one mana of any color.”
 	flavor_text: <i-flavor></i-flavor>

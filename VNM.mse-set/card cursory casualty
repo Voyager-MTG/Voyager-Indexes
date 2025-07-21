@@ -2,12 +2,28 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 5
+		font_cap: 13.5
+		d20_dividers: off
+		frames: 
+		altered_plus_frames: 
+		custom_symbol: 
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
 	notes:
 		!note hybrid
 		Preview
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 15:29:32
+	time_modified: 2025-07-21 01:51:52
 	name: Cursory Casualty
 	casting_cost: 1B/GB/G
 	image: image97
@@ -24,7 +40,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		As long as you’ve illuminated black or green, this creature gets +1/+1.
+		<atom-name>This creature</atom-cardname> gets +1/+1 as long as you’ve illuminated black or green.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

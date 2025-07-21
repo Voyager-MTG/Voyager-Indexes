@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2023-11-13 00:26:47
+	time_modified: 2025-07-21 02:58:28
 	card_color: white
 	name: Iconic Absolution
 	casting_cost: 1W
@@ -25,7 +25,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
-	rule_text: Destroy target artifact or enchantment. If you control an enchantment, <kw-a><nospellcheck><key>scry <param-number><kw-A>1</param-number></key></nospellcheck></kw-a>.
+	rule_text: Destroy target artifact or enchantment. Then <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a> if you control an enchantment.
 	flavor_text: <i-flavor>To attune to an Icon is to cleanse the land.</i-flavor>
 	illustrator: rafsarmento
 	card_code_text: 
