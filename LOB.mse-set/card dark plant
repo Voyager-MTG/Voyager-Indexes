@@ -2,7 +2,13 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		altered_plus_frames: Yugioh Frame
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2022-07-18 21:25:51
 	time_modified: 2025-07-02 18:47:49
@@ -19,7 +25,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <sym-auto>3BB</sym-auto>, Exile <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard as a sorcery: Put a +1/+1 counter on target creature you control. That creature gains healing 3 until end of turn.
+	rule_text: <sym-auto>3BB</sym-auto>, Exile <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard as a sorcery: Put a +1/+1 counter on target creature you control. That creature gains <kw-A><nospellcheck><key>healing <param-number>3</param-number></key></nospellcheck> until end of turn.<atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>3</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>This mutant flower draws its power from pollutants and the dark forces.</i-flavor>

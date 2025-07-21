@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2024-03-21 16:22:21
+	time_modified: 2025-07-21 05:07:42
 	card_color: red
 	name: Fervent Incandescence
 	casting_cost: 1R
@@ -22,7 +22,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<i><kw-A><i-auto><nospellcheck><key>Fracture</i></key></nospellcheck></i-auto></kw-A> — At the beginning of combat, if you cast a noncreature spell this turn, up to one target creature you control gets +2/+0 until end of turn. Then you <kw-a><nospellcheck><key>scry <param-number><kw-A>1</param-number></key></nospellcheck></kw-a>.
+		<i><kw-A><i-auto><nospellcheck><key>Fracture</i></key></nospellcheck></i-auto></kw-A> — At the beginning of combat on each turn, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>, then up to one target creature you control gets +2/+0 until end of turn as long as you cast a noncreature spell this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:

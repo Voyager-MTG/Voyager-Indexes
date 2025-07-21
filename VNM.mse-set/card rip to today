@@ -20,7 +20,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:20:55
-	time_modified: 2025-03-01 16:06:30
+	time_modified: 2025-07-21 00:09:59
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -45,7 +45,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Pathbound <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck>, Pay 2 life, then exile a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>multicolor</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> card from your hand.<atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym-auto>1</sym-auto>, Pay 2 life, then exile a multicolor card from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
 	illustrator: Alena Aenami
 	card_code_text: 
 	card_code_text_2: 

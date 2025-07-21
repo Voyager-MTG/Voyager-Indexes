@@ -16,7 +16,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-03-01 15:50:26
+	time_modified: 2025-07-21 00:49:02
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -36,7 +36,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		Whenever this creature attacks, create a trace of its skill into your hand.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Cut From Void</b> <sym>2U</sym>| <u>Skill Instant</u><i><soft-line>
 		</i><kw-a><nospellcheck><key>Scry <param-number><kw-A>1</param-number></key></nospellcheck></kw-a>, then draw a card.</soft-line>
 	rule_text_2: 

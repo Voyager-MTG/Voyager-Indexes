@@ -8,19 +8,21 @@ card:
 		</soft-line>!token
 		!conjured
 	time_created: 2021-10-06 22:38:50
-	time_modified: 2025-03-01 20:59:12
+	time_modified: 2025-07-21 04:29:47
 	name: Steady Growth
 	casting_cost: 1B/G
 	image: image262
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Trace Enchantment</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>

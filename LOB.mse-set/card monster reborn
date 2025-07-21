@@ -16,7 +16,7 @@ card:
 		also, maybe 7 mana
 		!gold!noborder
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2024-08-01 12:48:56
+	time_modified: 2025-07-15 01:22:33
 	name: Monster Reborn
 	casting_cost: 2IW
 	image: image523
@@ -32,7 +32,7 @@ card:
 	rarity: rare
 	rule_text:
 		Create a token that’s a copy of target creature card or planeswalker card in a graveyard, except its not legendary.
-		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>IW</sym-auto>, Discard this: Reflect.
+		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>IW</sym-auto>, Discard this: <kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

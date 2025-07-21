@@ -5,7 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
-		chop_bottom: 14
+		chop_bottom: 
 		font_cap: 13.5
 		d20_dividers: off
 		frames: 
@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2023-05-24 20:06:16
+	time_modified: 2025-07-21 15:19:52
 	name: Scornful Pursuit
 	casting_cost: 4B
 	image: image7
@@ -40,9 +40,7 @@ card:
 		<i><kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> </i>—  At the beginning of your end step, if you cast a noncreature spell this turn, return up to one target creature card from your graveyard to your hand.
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text:
-		<i-flavor>Cross a clan and you may survive.<soft-line>
-		</soft-line>Cross an Icon, and you’ll never know peace.</i-flavor>
+	flavor_text: <i-flavor>Cross a clan and you may survive. Cross an Icon, and you’ll never know peace.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 4

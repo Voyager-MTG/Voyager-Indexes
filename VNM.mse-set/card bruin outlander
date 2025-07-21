@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 15:29:36
+	time_modified: 2025-07-21 02:03:58
 	card_color: green
 	name: Bruin Outlander
 	casting_cost: 1G
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <sym-auto>3G</sym-auto>: Put a +1/+1 counter on this creature.
+	rule_text: <sym-auto>3G</sym-auto>: Put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Sometimes all a scout needs to end a confrontation is their stature.</i-flavor>

@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2025-07-12 17:57:50
+	time_modified: 2025-07-21 02:49:25
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -38,7 +38,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may return up to one other target creature or enchantment you control to its owner’s hand.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may return up to one other target creature or enchantment you control to its owners hand.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag fascism;
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 17:47:15
+	time_modified: 2025-07-21 01:18:38
 	card_color: red
 	name: Clanless Destruction
 	casting_cost: R
@@ -21,8 +21,8 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When this enchantment enters, it deals 2 damage to target creature.
-		<sym-auto>R</sym-auto>, Sacrifice this enchantment: This enchantment deals 1 damage to target opponent.
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, it deals 2 damage to target creature.
+		<sym-auto>R</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>: This enchantment deals 1 damage to target opponent.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

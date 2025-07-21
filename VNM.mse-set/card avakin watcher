@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-12 17:01:33
+	time_modified: 2025-07-21 01:02:07
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -37,7 +37,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When this creature enters, create a trace of a skill from among permanents you control into your hand.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>trace <param-name>a skill from among permanents you control into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Reshape Will</b> <sym>1W/U</sym>| <u>Skill Instant</u><soft-line>
 		</soft-line>Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat.
 	rule_text_2: 

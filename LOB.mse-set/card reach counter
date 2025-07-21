@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
-	stylesheet: m15-altered-plus
-	stylesheet_version: 2020-09-04
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
 	has_styling: false
 	notes: !related Marmot of Nefariousness;
 	time_created: 2023-07-26 12:25:58
@@ -18,6 +18,7 @@ card:
 	sub_type: 
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text: 
 	rule_text_2: 
 	rule_text_3: 

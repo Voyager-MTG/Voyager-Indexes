@@ -16,7 +16,7 @@ card:
 		Find out if Ward 3 is too good here
 		!addtoken WhiteWurm;2;
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-26 15:00:01
+	time_modified: 2025-07-21 15:21:23
 	card_color: white
 	name: Oathkeep Wurm
 	casting_cost: 4WW
@@ -27,7 +27,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Wurm</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When this creature enters, create two 1/1 white Wurm creature tokens.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create two 1/1 white Wurm creature tokens.
 	flavor_text: <i-flavor>The strength of <error-spelling:en_US>Wurms</error-spelling:en_US> was found once the clans began to accept them.</i-flavor>
 	level_1_text: 
 	power: 4

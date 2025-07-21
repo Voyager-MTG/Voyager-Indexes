@@ -16,7 +16,7 @@ card:
 		overlay: 
 	notes: Preview
 	time_created: 2021-09-19 22:49:27
-	time_modified: 2025-03-01 15:49:41
+	time_modified: 2025-07-21 00:51:50
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -34,7 +34,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When this equipment enters, create a trace of its skill into your hand.
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +2/+0.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 		<b>Prepared Strike</b> <sym>R</sym>| <u>Skill Sorcery<soft-line>

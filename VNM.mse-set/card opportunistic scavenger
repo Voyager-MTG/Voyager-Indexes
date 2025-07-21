@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-03-01 00:00:16
+	time_modified: 2025-07-21 04:06:27
 	name: Opportunistic Scavenger
 	alias_2: 
 	casting_cost: 1B/G
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When this enchantment enters, return up to two target creature cards that share a creature type from your graveyard to your hand.
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, return up to two target creature cards that share a creature type from your graveyard to your hand.
 		<kw-A><nospellcheck><key>Materialize <param-number>1</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>1</param-number> or more: This also becomes an Icon creature until your next upkeep.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 

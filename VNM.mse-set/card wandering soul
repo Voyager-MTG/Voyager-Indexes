@@ -8,7 +8,7 @@ card:
 		
 		Fracture — Once each turn, when you cast a noncreature spell, tap up to one target creature.
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-04-07 14:18:30
+	time_modified: 2025-07-21 05:11:19
 	card_color: white
 	name: Wandering Soul
 	casting_cost: 2W
@@ -25,7 +25,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: common
-	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</i></key></nospellcheck></i-auto></kw-A> — Whenever this creature attacks, if you cast a noncreature spell this turn, tap up to one target creature.
+	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</i></key></nospellcheck></i-auto></kw-A> — Whenever this creature attacks, tap up to one target creature if you cast a noncreature spell this turn.
 	flavor_text: <i-flavor>Finding a lost Icon may have you finding yourself lost.</i-flavor>
 	power: 3
 	toughness: 2

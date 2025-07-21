@@ -20,7 +20,7 @@ card:
 		!tag outlands;
 		!exportname Urkial Outlands Clanleader
 	time_created: 2022-05-10 22:53:34
-	time_modified: 2025-03-01 17:29:31
+	time_modified: 2025-07-21 04:13:44
 	card_color: multicolor
 	name: Urkial, Outlands Clanleader
 	casting_cost: 4
@@ -32,9 +32,9 @@ card:
 	sub_type: <word-list-race-en>Bear</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-1><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-1>
-		<atom-name>This creature</atom-cardname> is all colors.
-		Creatures you control get +1/+1 for each color you’ve illuminated.
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urkial</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> is all colors.
+		Creatures you control get <kw-0><nospellcheck><key>healing <param-number>2</param-number></key></nospellcheck></kw-0> as long as you’ve illuminated white. The same is true with <kw-0><nospellcheck><key>vigilance</key></nospellcheck></kw-0> and blue, <kw-0><nospellcheck><key>menace</key></nospellcheck></kw-0> and black, <kw-0><nospellcheck><key>first strike</key></nospellcheck></kw-0> and red, <kw-0><nospellcheck><key>trample</key></nospellcheck></kw-0> and green, <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0> and silver.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-05-20 16:31:32
-	time_modified: 2025-02-27 16:37:06
+	time_modified: 2025-07-21 00:59:17
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -33,8 +33,8 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters or you attack, create a trace of its skill into your hand.
-		Whenever you cast a skill, <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+		Whenever Pinnacle of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Vinimroth</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters or you attack,  <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you cast a skill, Pinnacle of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Vinimroth</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 1 damage to each opponent.
 		<b>In the Moment</b> <sym>1R</sym>|<i> </i><u>Skill Sorcery<soft-line>
 		</u>Exile the top card of your library. You may play it this turn.</soft-line>
 	flavor_text: <i-flavor></i-flavor>

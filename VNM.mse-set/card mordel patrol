@@ -17,7 +17,7 @@ card:
 		overlay: 
 	notes: !tag fascism;
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 16:21:41
+	time_modified: 2025-07-21 00:54:35
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -36,9 +36,9 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When this creature enters, create a trace of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Voidstone</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Shard into your hand.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Voidstone</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Shard</b> <sym>2</sym>|<i>Enchantment<soft-line>
-		</soft-line></i>When this enters, <kw-a><nospellcheck><key>scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>.
+		</soft-line></i>When this enchantment enters, <kw-a><nospellcheck><key>scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>A patrol’s purpose is a simple one: Protect the clan from outsiders.</i-flavor>

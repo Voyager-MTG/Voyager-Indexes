@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: !tag fascism;
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 17:35:37
+	time_modified: 2025-07-21 15:21:33
 	card_color: green
 	name: Progeny of Mordel
 	casting_cost: 4GG
@@ -31,7 +31,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When this creature enters, put a +1/+1 counter on each of up to two target creatures you control.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, put a +1/+1 counter on each of up to two target creatures you control.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Abandoned <error-spelling:en_US>Wurm</error-spelling:en_US> broods were common during the war, and many clans adopted them out of kindness. The favor was never forgotten.</i-flavor>

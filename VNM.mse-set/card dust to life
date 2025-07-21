@@ -17,7 +17,7 @@ card:
 		overlay: 
 	notes: !note hybrid
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 16:28:38
+	time_modified: 2025-07-21 01:31:57
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -35,7 +35,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		Return target creature card from your graveyard to your hand, then create a trace of Steady Growth into your hand.
+		Return target creature card from your graveyard to your hand. <kw-A><nospellcheck><key>T<kw-A>race <param-name>a card named Steady Growth into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Steady Growth</b> <sym>B/G</sym>|<i><u>Enchantment<soft-line>
 		</u></i><kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a><soft-line>
 		Enchanted land has “<sym-auto>T</sym-auto>: Add one mana of any color.”</soft-line></soft-line>

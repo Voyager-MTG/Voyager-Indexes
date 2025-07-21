@@ -14,7 +14,7 @@ card:
 		!note hybrid
 		!addtoken GreenWurm;RedWurm;
 	time_created: 2021-04-25 03:15:03
-	time_modified: 2025-03-01 17:37:16
+	time_modified: 2025-07-21 15:05:30
 	name: Bulwark of the Thicket
 	casting_cost: 2R/GR/G
 	image: image2
@@ -30,8 +30,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When this creature enters, create a 1/1 green Wurm creature token with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> and a 1/1 red Wurm creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
-		Whenever this creature attacks, put a +1/+1 counter on target attacking token creature you control.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 1/1 green Wurm creature token with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> and a 1/1 red Wurm creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, put a +1/+1 counter on target attacking token creature you control.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -641,6 +641,58 @@ keyword:
 	reminder: Activate each exhaust ability only once.
 	rules: 
 	mode: expert
+keyword:
+	keyword: Trace
+	match: create a trace
+	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Trace
+	match: trace its
+	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Trace
+	match: trace a
+	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Trace
+	match: trace <atom-param>english_number</atom-param> 
+	reminder: Create those cards. Traces are cards that become copies when they enter public zones.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Trace
+	match: trace another
+	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Trace
+	match: trace <atom-param>name</atom-param>
+	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Healing
+	match: healing counter
+	reminder: Whenever your creature with a healing counter deals damage, you gain 1 life for each healing counter on it.
+	rules:
+		Editors note:<soft-line>
+		This can be Combat damage if this ends up insane.</soft-line>
+	mode: expert
+keyword:
+	keyword: Healer
+	match: healing <atom-param>number</atom-param>
+	reminder: Damage dealt by {if has_pt() then "this" else "that"} creature also causes you to gain {param1} life.
+	rules:
+		Editors note:<soft-line>
+		This can be Combat damage if this ends up insane.</soft-line>
+	mode: expert
 pack_type:
 	name: Silver Pack
 	enabled: true

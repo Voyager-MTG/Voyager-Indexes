@@ -44,7 +44,7 @@ card:
 	flavor_text: <i-flavor>A bluish starfish with a solid hide capable of fending off attacks.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	level_1_text: Fusion
+	level_1_text: <kw-A><nospellcheck><key>Fusion</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)</i-auto></atom-reminder-custom></kw-A>
 	power: 0
 	toughness: 3
 	illustrator: Konami

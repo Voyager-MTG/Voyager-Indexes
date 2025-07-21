@@ -13,7 +13,7 @@ card:
 		overlay: 
 	notes: Preview
 	time_created: 2021-04-25 03:48:07
-	time_modified: 2025-07-12 16:26:14
+	time_modified: 2025-07-21 15:25:31
 	name: Tidepool Scuttler
 	casting_cost: 6
 	image: image160
@@ -28,8 +28,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		This creature can’t be blocked except by creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
-		Whenever this creature deals combat damage to a player or noncreature, <kw-a><nospellcheck><key>scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>, then draw a card.
+		<atom-name>This creature</atom-cardname> can’t be blocked except by creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage to a player or noncreature, <kw-a><nospellcheck><key>scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>, then draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

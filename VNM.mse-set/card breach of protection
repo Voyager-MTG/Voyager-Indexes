@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: !addtoken White Drake Token;
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2025-07-12 17:45:40
+	time_modified: 2025-07-21 02:04:50
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -38,7 +38,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: At the beginning of your end step, if you’ve gained 3 or more life this turn, create a 2/2 white Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	rule_text: At the beginning of your end step, create a 2/2 white Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> if you’ve gained 3 or more life this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Healing 1
+		<kw-A><nospellcheck><key>Healing <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>1</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
 		Activated abilities of cards in each player’s hands cost <sym-auto>1</sym-auto> more to activate.
 	rule_text_2: 
 	rule_text_3: 

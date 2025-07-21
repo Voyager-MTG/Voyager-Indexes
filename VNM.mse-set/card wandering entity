@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:48:07
-	time_modified: 2025-03-01 00:01:24
+	time_modified: 2025-07-21 01:41:08
 	name: Wandering Entity
 	alias: 
 	alias_2: 
@@ -20,7 +20,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		Whenever this enchantment attacks, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.
+		Whenever <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> attacks, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.
 		<kw-A><nospellcheck><key>Materialize <param-number>1</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>1</param-number> or more: This also becomes an Icon creature until your next upkeep.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 

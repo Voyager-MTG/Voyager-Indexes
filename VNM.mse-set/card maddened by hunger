@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 15:18:06
+	time_modified: 2025-07-21 03:19:49
 	card_color: white
 	name: Maddened by Hunger
 	casting_cost: 1W
@@ -16,8 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>nonland permanent</param-name></key></nospellcheck></kw-a>
-		As long as enchanted permanent is a creature, it can’t attack or block.
-		Enchanted permanent is colorless and has no abilities.
+		Enchanted permanent can’t attack, block, has no abilities and is colorless.
 	flavor_text: <i-flavor>On <error-spelling:en_US>Vinimroth</error-spelling:en_US>, there are tales of a hunger. A hunger so enthralling it holds one to feed it no matter the cost.</i-flavor>
 	illustrator: 000Fesbra000
 	card_code_text: 

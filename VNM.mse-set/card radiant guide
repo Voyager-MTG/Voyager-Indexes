@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 21:27:02
+	time_modified: 2025-07-21 15:22:12
 	card_color: white
 	name: Radiant Guide
 	casting_cost: 4WW
@@ -22,7 +22,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		<i><kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> —</i> Whenever this creature attacks or blocks, if you cast a noncreature spell this turn, other creatures you control get +2/+1 until end of turn.
+		<i><kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> —</i> Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks or blocks, other creatures you control get +2/+1 until end of turn as long as you cast a noncreature spell this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Icons are often wary of clans, but the few that aren’t have been known to save the lives of those they find troubled.</i-flavor>

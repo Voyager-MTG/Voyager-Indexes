@@ -21,7 +21,7 @@ card:
 		Preview
 		!tag avlod;
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-03-01 17:50:41
+	time_modified: 2025-07-21 01:58:49
 	card_color: blue
 	name: Avlod Diviner
 	casting_cost: 1U
@@ -39,7 +39,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		Whenever you cast your second spell each turn, put a +1/+1 counter on this creature.
-		<sym-auto>U</sym-auto>: Until end of turn, you may cast spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> by tapping two untapped enchantments you control as an additional cost.
+		You may cast spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> by tapping two untapped enchantments you control as an additional cost to cast those spells.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

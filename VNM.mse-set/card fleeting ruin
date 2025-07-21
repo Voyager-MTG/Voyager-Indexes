@@ -7,7 +7,7 @@ card:
 		!note hybrid
 		Preview
 	time_created: 2021-08-13 20:53:40
-	time_modified: 2025-03-01 15:29:42
+	time_modified: 2025-07-21 01:47:56
 	name: Fleeting Ruin
 	casting_cost: B/RB/R
 	image: image93
@@ -23,7 +23,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		As long as you’ve illuminated black or red, this creature gets +1/+1.
+		<atom-name>This creature</atom-cardname> gets +1/+1 as long as you’ve illuminated black or red.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

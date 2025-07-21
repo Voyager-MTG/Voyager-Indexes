@@ -15,7 +15,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-03-01 15:43:13
+	time_modified: 2025-07-21 00:46:16
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -33,12 +33,12 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Whenever this creature attacks, create a trace of its skill into your hand.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Harsh Reprise </b><sym>B</sym>| <u>Skill Instant</u><i><soft-line>
 		</i>Each opponent loses 2 life.</soft-line>
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor>“The blind eternities and the paths are a powerful force. They will <b>rip and tear</b> your being to shreds. Respect them.”</i-flavor>
+	flavor_text: <i-flavor>“The paths of the blind eternities are a powerful force. They will <b>rip and tear</b> your being to shreds. Respect them.”</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	level_1: 

@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: !exportname Scouts Bow
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-03-01 16:37:28
+	time_modified: 2025-07-21 01:24:51
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -37,7 +37,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When this equipment enters, create a trace of Steady Growth into your hand.
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>trace <param-name>a card named Steady Growth into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +1/+0 and has <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
 		<b>Steady Growth</b> <sym>B/G</sym>| <u>Enchantment<soft-line>

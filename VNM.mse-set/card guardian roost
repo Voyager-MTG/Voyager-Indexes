@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2025-07-12 18:01:10
+	time_modified: 2025-07-21 02:56:04
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -40,13 +40,13 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>vigilance</key></nospellcheck></kw-0>
-		When you cast this spell, if it isn’t a copy, create three traces of it into your hand.
+		When you cast this spell, if it isn’t a copy, <kw-0><nospellcheck><key>trace <param-name>three cards named Guardian Roost into your hand.</param-name></key></nospellcheck></kw-0>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym-auto>I/W</sym-auto>, Reveal two cards with flying and/or vigilance from your hand. </param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-1>
+	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym-auto>I/W</sym-auto>, Reveal two cards with flying and/or vigilance from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-1>
 	power: 1
 	toughness: 1
 	illustrator: Nightpark

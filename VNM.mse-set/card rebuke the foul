@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2023-07-16 00:56:53
+	time_modified: 2025-07-21 04:01:10
 	card_color: white
 	name: Rebuke the Foul
-	casting_cost: 1W
+	casting_cost: W
 	image: image39
 	image_2: 
 	mainframe_image: 
@@ -16,7 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
-		<atom-name>This spell</atom-cardname> deals 3 damage to target creature if it’s attacking or blocking. If you’ve illuminated white, exile that creature instead.
+		<atom-name>This spell</atom-cardname> deals 3 damage to target attacking or blocking creature. If you’ve illuminated white, instead exile target creature.
 	flavor_text:
 		<i-flavor>“Begone.” <soft-line>
 		</soft-line>—<error-spelling:en_US>Roduth’s</error-spelling:en_US> emissary.</i-flavor>

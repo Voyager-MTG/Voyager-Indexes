@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: previewed
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 15:30:51
+	time_modified: 2025-07-21 05:10:43
 	card_color: red
 	name: Tenuous Empowerment
 	casting_cost: 1RR
@@ -22,7 +22,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
-		<i><kw-A><i-auto><nospellcheck><key>Fracture</i></key></nospellcheck></i-auto></kw-A> — At the beginning of combat on each turn, if you cast a noncreature spell this turn, up to one target creature you control gets +1/+0 until end of turn and can attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
+		<i><kw-A><i-auto><nospellcheck><key>Fracture</i></key></nospellcheck></i-auto></kw-A> — At the beginning of combat on each turn, up to one target creature you control gets +1/+0 until end of turn and can attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> as long as you cast a noncreature spell this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

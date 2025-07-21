@@ -22,19 +22,21 @@ card:
 		!token
 		!conjured
 	time_created: 2021-11-14 03:36:21
-	time_modified: 2025-03-01 15:23:36
+	time_modified: 2025-07-21 03:00:25
 	name: In the Moment
 	casting_cost: 1R
 	image: image192
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Trace Skill Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Skill Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text: Exile the top card of your library. You may play it this turn. <i-auto>(Traces are cards that become copies when they enter a public zone.)</i-auto>
 	rule_text_2: 

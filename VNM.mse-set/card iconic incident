@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2021-12-28 00:54:59
+	time_modified: 2025-07-21 02:58:51
 	card_color: blue
 	name: Iconic Incident
 	casting_cost: 1U
@@ -30,7 +30,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		Target creature gets -2/-0 until end of turn. If you control an enchantment, that creature gets -6/-0 until end of turn instead.
+		Target creature gets -2/-0 until end of turn. If you control an enchantment, instead that creature gets -6/-0 until end of turn.
 		Draw a card.
 	rule_text_2: 
 	rule_text_3: 
