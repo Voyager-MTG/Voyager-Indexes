@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: !ocean
+	time_created: 2024-02-09 05:59:32
+	time_modified: 2025-07-27 13:57:49
+	extra_data:
+		magic-m15-altered-plus:
+			pins: black
+	name: Identity Connoisseur
+	casting_cost: 1BB
+	image: image8.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Assassin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: masterpiece
+	rule_text:
+		When <atom-cardname><nospellcheck>Identity Connoisseur</nospellcheck></atom-cardname> enters, target player discards a card.
+		Whenever a player discards a card with a creature type, you embrace it, and you may spend mana as though it was mana of any color to cast it. <i-auto>(Exile it. You may cast it on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: JakubJagoda
+	custom_card_number: GP2 — Panders
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

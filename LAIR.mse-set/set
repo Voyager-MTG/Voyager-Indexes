@@ -43,8 +43,6 @@ include_file: card island
 include_file: card plains
 include_file: card swamp
 include_file: card forest
-include_file: card gp winner promo
-include_file: card gp top cut promo
 version_control:
 	type: none
 apprentice_code: 
