@@ -391,7 +391,7 @@ keyword:
 keyword:
 	keyword: Embrace
 	match: Embrace
-	reminder: Exile it. You may cast it on a later turn that a YOUFUCKEDUP you control dealt damage to an opponent.
+	reminder: Exile it. You may cast it on a later turn that a {card.sub_type} you control dealt damage to an opponent.
 	rules: 
 	mode: action
 keyword:

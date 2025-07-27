@@ -1,12 +1,6 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 
-		chop_bottom: 16
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes:
 		!tag Dewold
 		!tag Vance
@@ -16,7 +10,7 @@ card:
 	card_color: blue, black, red, multicolor, horizontal
 	name: Secluded Arachnomorph
 	casting_cost: 4UBR
-	image: image221.png
+	image: image594
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

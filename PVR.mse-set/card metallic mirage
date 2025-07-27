@@ -14,14 +14,14 @@ card:
 		SHADERCYCLE
 		BLUERARE
 	time_created: 2023-03-12 05:12:25
-	time_modified: 2023-05-05 08:16:05
+	time_modified: 2025-07-27 08:17:00
 	special_text:
 		
 		<i-auto>(This spell gains effects based on the sources of mana spent to cast it.)</i-auto>
 		I — Land — <soft-line>
 		Return target spell or nonland permanent to its owner’s hand.</soft-line>
 		II — Creature — <soft-line>
-		Whenever you cast your next noncreature spell this turn, copy it. You may choose new targets for the copies.</soft-line>
+		When you cast your next noncreature spell this turn, copy it. You may choose new targets for the copies.</soft-line>
 		III — Sorcery — <soft-line>
 		</soft-line>Add <sym>CCC</sym>.
 	name: Metallic Mirage
@@ -42,7 +42,7 @@ card:
 		Return target spell or nonland permanent to its owner’s hand.</soft-line>
 	level_3_text:
 		Creature — <soft-line>
-		Whenever you cast your next noncreature spell this turn, copy it. You may choose new targets for the copies.</soft-line>
+		When you cast your next noncreature spell this turn, copy it. You may choose new targets for the copies.</soft-line>
 	level_4_text:
 		Sorcery — <soft-line>
 		</soft-line>Add <sym>CCC</sym>.

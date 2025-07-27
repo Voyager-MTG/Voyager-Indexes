@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -11,10 +13,10 @@ card:
 		!tag Dewold
 		!tag Attwater
 	time_created: 2025-02-24 00:31:14
-	time_modified: 2025-03-05 03:46:55
+	time_modified: 2025-07-15 18:35:11
 	name: Hillcrest Vanguard
 	casting_cost: 1GU
-	image: image199.png
+	image: image584
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -29,7 +31,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>GU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>GU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
-		If a creature entering the battlefield or dealing combat damage to an opponent causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+		If a creature entering the battlefield or dealing combat damage to an opponent causes a triggered ability of a permanent you control to trigger during combat, that ability triggers an additional time.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

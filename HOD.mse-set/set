@@ -174,7 +174,7 @@ include_file: card raving bomber
 include_file: card beacon of greatness
 include_file: card turnberry mediator
 include_file: card the call to adventure
-include_file: card foilage decoy
+include_file: card foliage decoy
 include_file: card encroach upon
 include_file: card hunters expertise
 include_file: card attwater elite
@@ -392,6 +392,7 @@ include_file: card house sigil.13
 include_file: card house sigil.14
 include_file: card hann herald of the conqueror
 include_file: card marilyes revelation
+include_file: card heir tracking
 keyword:
 	keyword: Deception
 	match: Deception <atom-param>cost</atom-param>

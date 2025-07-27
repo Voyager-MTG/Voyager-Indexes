@@ -5,10 +5,10 @@ card:
 		!tag Dewold
 		!tag Rivers
 	time_created: 2025-02-24 00:35:24
-	time_modified: 2025-03-05 20:05:17
+	time_modified: 2025-07-01 21:14:26
 	name: Travelcart’s Care
 	casting_cost: W
-	image: image128.png
+	image: image507
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Create a 2/1 red Soldier creature token then one <kw-A><nospellcheck><key>in your reserves</key></nospellcheck> if you control fewer creatures than an opponent. Do the same for Food and a lower life total, a Clue token fewer cards in hand, and a Treasure for fewer lands.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Create a 2/1 red Soldier creature token <kw-A><nospellcheck><key>in your reserves</key></nospellcheck> if you control fewer creatures than an opponent. Do the same for Food and a lower life total, a Clue and fewer cards in hand, and Treasure and fewer lands.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Feael
 	card_code_text: 

@@ -5,10 +5,10 @@ card:
 		!tag Dewold
 		!tag Banefort
 	time_created: 2025-02-24 00:35:24
-	time_modified: 2025-02-27 15:28:51
+	time_modified: 2025-07-19 14:20:01
 	name: Foilage Decoy
-	casting_cost: G
-	image: image38.png
+	casting_cost: 1G
+	image: image193
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

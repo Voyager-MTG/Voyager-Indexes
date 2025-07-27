@@ -54,8 +54,7 @@ At the beginning of each of your postcombat main phase, add {R} for each 2 life 
 !designer Kogane</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample, haste
-Whenever The Forge of Days attacks, you may put a creature card you own in exile onto the battlefield tapped and attacking. Its owner puts it on the bottom of their library at the beginning of the next end step.</text>
+      <text>Whenever The Forge of Days attacks, you may put a creature card you own in exile onto the battlefield tapped and attacking. Its owner puts it on the bottom of their library at the beginning of the next end step.</text>
     </card>
     <card>
       <name>The Moth</name>
@@ -281,8 +280,8 @@ Exhaust — {T}: Choose a color.
       <text></text>
     </card>
     <card>
-      <name></name>
-      <set rarity="common">LAIR</set>
+      <name>GP Winner Promo</name>
+      <set rarity="">LAIR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -293,14 +292,14 @@ Exhaust — {T}: Choose a color.
         <mv>0</mv>
         <type></type>
         <maintype></maintype>
-        <notes></notes>
+        <notes>!porthole</notes>
       </prop>
       <tablerow>1</tablerow>
       <text></text>
     </card>
     <card>
-      <name></name>
-      <set rarity="common">LAIR</set>
+      <name>GP Top Cut Promo</name>
+      <set rarity="">LAIR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -311,14 +310,8 @@ Exhaust — {T}: Choose a color.
         <mv>0</mv>
         <type></type>
         <maintype></maintype>
-        <notes></notes>
+        <notes>!ocean</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>textbox test</text>
+      <text></text>
     </card>
-
-    <!-->Tokens</-->
-
-
-  </cards>
-</cockatrice_carddatabase>

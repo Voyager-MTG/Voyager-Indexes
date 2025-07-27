@@ -12,11 +12,11 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/cobaltplasma/art/Titanslayer-625300286
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-03-12 17:47:40
+	time_modified: 2025-07-03 12:17:14
 	card_color: green
 	name: Bloodroot Demon
 	casting_cost: 2GG
-	image: image211
+	image: image614
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -24,7 +24,7 @@ card:
 	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		As an additional cost to cast this spell, exile two creature cards and/or land cards from your graveyard.
+		As an additional cost to cast this spell, exile two creature and/or land cards from your graveyard.
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor><error-spelling:en_US>Silfidiae</error-spelling:en_US> prefers to create his own servants, powerful visages of despair gnarled from the ground beneath.</i-flavor>
 	power: 5

@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/chrisnazgul/art/Necro-916621334
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2025-02-07 01:20:06
+	time_modified: 2025-07-14 21:14:02
 	card_color: white, red, multicolor, horizontal
 	name: Inflaming Smite
 	casting_cost: 1RW
-	image: image410
+	image: image686
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -16,9 +16,11 @@ card:
 	rarity: uncommon
 	rule_text:
 		Choose one —
-		<li><bullet>• </bullet><atom-cardname><nospellcheck>Inflaming Smite</nospellcheck></atom-cardname> deals 3 damage to target creature or player and you gain 3 life.
+		<li><bullet>• </bullet><atom-cardname><nospellcheck>Inflaming Smite</nospellcheck></atom-cardname> deals 3 damage to any target and you gain 3 life.
 		</li><li><bullet>• </bullet>Exile target creature with power 4 or greater.</li>
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text:
+		<i-flavor>“That’s the best part about fire. It’s judgment is impartial.”<soft-line>
+		—<error-spelling:en_US>Fides</error-spelling:en_US>, <error-spelling:en_US>Vampiric</error-spelling:en_US> Commander</soft-line></i-flavor>
 	watermark: none
 	power: 
 	toughness: 

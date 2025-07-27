@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -16,7 +18,7 @@ card:
 	card_color: white
 	name: Leon’s Claim
 	casting_cost: 4W
-	image: image80.png
+	image: image422
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

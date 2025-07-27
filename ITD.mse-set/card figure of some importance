@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/themefinland/art/The-narrator-906224784
 	time_created: 2024-10-17 19:19:02
-	time_modified: 2025-01-23 21:12:57
+	time_modified: 2025-07-25 10:19:55
 	name: Figure of Some Importance
 	casting_cost: 3UU
 	image: image167
@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>UUU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>UUU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
-		When this creature enters, if it was cast or entered from your hand, each player may shuffle their hand and graveyard into their library and then draw seven cards.
+		When this creature enters, if it was cast or entered from your hand, each player may shuffle their hand and graveyard into their library, then draw seven cards.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

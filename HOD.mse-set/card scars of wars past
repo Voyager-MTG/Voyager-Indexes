@@ -6,15 +6,15 @@ card:
 		!tag Rey
 		Tricolor
 	time_created: 2025-02-24 00:36:31
-	time_modified: 2025-03-05 17:36:50
+	time_modified: 2025-07-24 14:52:02
 	card_color: white, red, green, multicolor, horizontal
 	name: Scars of Wars Past
 	casting_cost: 1RGW
-	image: image275.png
+	image: image484
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -23,7 +23,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>six</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put any number of creature cards with total mana value 4 or less and a land card milled this way onto the battlefield.
+	rule_text: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>six</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may return any number of creature cards with total mana value 4 or less milled this way onto the battlefield.
 	flavor_text: <i-flavor>At first, each of the Great Houses were stunned and shocked at their king’s death. It only took hours before the infighting began.</i-flavor>
 	illustrator: Nicolas Aucher
 	card_code_text: 

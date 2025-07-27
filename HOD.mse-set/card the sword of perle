@@ -12,15 +12,15 @@ card:
 	notes:
 		!tag Dewold
 		Renowned Cycle
-		!related Overzealous Page; Kirsa’s Page;Beacon of Greatness;
+		!related Call of the King; Kirsa’s Page; Beckon Greatness;
 	time_created: 2022-04-02 19:45:43
-	time_modified: 2022-05-21 12:08:46
+	time_modified: 2025-07-01 21:13:56
 	extra_data:
 		magic-m15-mainframe-tokens:
 			vorthos_box: She/her
 	card_color: red
 	name: The Sword of Perle
-	image: image4
+	image: image723
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -29,7 +29,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <atom-cardname><nospellcheck>The Sword of Perle</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it is attacking.
+	rule_text: <atom-cardname><nospellcheck>The Sword of Perle</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it’s attacking.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

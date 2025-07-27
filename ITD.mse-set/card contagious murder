@@ -8,7 +8,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2023-12-14 16:07:01
-	time_modified: 2024-08-25 13:21:46
+	time_modified: 2025-07-24 20:21:31
 	card_color: black
 	name: Contagious Murder
 	casting_cost: 1B
@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		Destroy target creature with mana value 3 or less.
-		When <atom-cardname><nospellcheck>Contagious Murder</nospellcheck></atom-cardname> leaves your graveyard, copy it. You may cast the copy. <i-auto>(You still pay its costs.)</i-auto>
+		When <atom-cardname><nospellcheck>Contagious Murder</nospellcheck></atom-cardname> leaves your graveyard during your turn, copy it. You may cast the copy. <i-auto>(You still pay its costs.)</i-auto>
 	flavor_text: <i-flavor>“As before, all injuries seem to originate from inside the victim.”</i-flavor>
 	illustrator: Aaron Lovett
 	card_code_text: 

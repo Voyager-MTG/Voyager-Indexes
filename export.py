@@ -1,7 +1,6 @@
 import os, shutil
 
 exclude_sets = [
-    "FOE",
     "LOB"
 ]
 

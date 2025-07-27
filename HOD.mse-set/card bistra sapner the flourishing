@@ -5,13 +5,13 @@ card:
 		!tag Dewold
 		!tag Sapner
 	time_created: 2025-02-24 00:42:32
-	time_modified: 2025-03-05 03:16:10
+	time_modified: 2025-07-15 18:24:54
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
 	name: Bistra Sapner, the Flourishing
 	casting_cost: WBG
-	image: image8
+	image: image493
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -25,7 +25,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-0><nospellcheck><key>Ward—<param-cost>Exile three cards that don’t share any types from your graveyard</param-cost>.</key></nospellcheck></kw-0>
+		<kw-0><nospellcheck><key>Ward—<param-cost>Exile at least three cards from your gravyard that have three or more card types among them</param-cost>.</key></nospellcheck></kw-0>
 		You have <kw-0><nospellcheck><key>bloom</key></nospellcheck></kw-0>. <i-auto>(Whenever you cast a spell that targets yourself, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

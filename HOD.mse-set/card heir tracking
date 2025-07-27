@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2025-03-05 21:44:48
+	time_modified: 2025-03-05 21:46:01
+	name: Heir Tracking
+	image: image774
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Reminder</word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Use this to see how close you are to receiving your Heir!
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: KartStudioDigi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

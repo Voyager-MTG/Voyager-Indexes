@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: !tag Dewold
 	time_created: 2025-02-24 00:35:24
-	time_modified: 2025-03-30 19:24:38
+	time_modified: 2025-03-04 22:15:06
 	name: In Hopeful Caress
 	casting_cost: 2W
-	image: image219.png
+	image: image518
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +21,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		This spell costs <sym-auto>2</sym-auto> less to cast if you control a legendary creature or a Knight.
-		When <atom-cardname><nospellcheck>In Hopeful Caress</nospellcheck></atom-cardname> enters, exile target nonland, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonlegendary</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanent an opponent controls until <atom-cardname><nospellcheck>In Hopeful Caress</nospellcheck></atom-cardname> leaves the battlefield. 
+		When <atom-cardname><nospellcheck>In Hopeful Caress</nospellcheck></atom-cardname> enters, exile target nonland, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonlegendary</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanent an opponent controls until Engrossed in the Tale leaves the battlefield. 
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Yana Vaseva
 	card_code_text: 

@@ -14,7 +14,7 @@ card:
 		!taglairauthor> kogane
 		!designer Kogane
 	time_created: 2023-07-21 13:24:03
-	time_modified: 2025-05-16 20:51:14
+	time_modified: 2025-07-26 16:47:41
 	card_color: white, blue, multicolor, horizontal
 	name: The Watchman
 	casting_cost: 1WU
@@ -42,7 +42,8 @@ card:
 	power: 2
 	toughness: 3
 	illustrator: Valun
-	card_code_text: • The Hours — Kogane
+	custom_card_number: 1 — 005 • The Hours — Kogane
+	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Kogane

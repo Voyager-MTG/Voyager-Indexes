@@ -3,20 +3,20 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/28yg9B
 	time_created: 2022-05-28 04:35:50
-	time_modified: 2025-02-05 18:03:36
+	time_modified: 2025-07-12 20:51:12
 	name: Maddening Descent
 	casting_cost: XUR
-	image: image407
+	image: image683
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: Maddening Descent deals X plus two damage to target creature. Then mill that many cards.
+	rule_text: Maddening Descent deals X plus 2 damage to target creature. Mill X plus two cards.
 	flavor_text:
 		<i-flavor>“I don’t have time for this. I’ve spent three hundred years looking for a way to transform a demon into a puppy and I’ll be damned if I let you distract me.”<soft-line>
-		</soft-line>— <error-spelling:en_US>Anord</error-spelling:en_US>, The Maddening <error-spelling:en_US>Lich</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Anord</error-spelling:en_US>, The Maddening <error-spelling:en_US>Lich</i-flavor></error-spelling:en_US>
 	illustrator: Vincenzo Prattico
 	card_code_text: 
 	card_code_text_2: 

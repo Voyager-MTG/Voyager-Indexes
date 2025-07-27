@@ -2454,7 +2454,7 @@ NOBLECYC</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bisapience 1WR (Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)
-Whenever this enters or transforms into Sarajex Rescuer, create a 1/1 white Soldier creature token.
+Whenever this attacks or transforms into Sarajex Rescuer, create a 1/1 white Soldier creature token.
 ---
 (Back): Sarajex Protector</text>
       <related attach="transform">Sarajex Protector</related>
@@ -2779,11 +2779,11 @@ INCARNATIONTYPE</notes>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
-        <manacost>3RW</manacost>
-        <cost>3RW</cost>
-        <mana>3RW</mana>
-        <cmc>5</cmc>
-        <mv>5</mv>
+        <manacost>R/W</manacost>
+        <cost>R/W</cost>
+        <mana>R/W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
         <type>Kindred Sorcery - Soldier </type>
         <maintype>Sorcery</maintype>
         <notes>ARCUNSET2
@@ -2791,8 +2791,8 @@ SOLDIERTYPE
 OTHERUNCOMMON</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Untap each creature that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
-Tap two untapped creatures you control, Embrace Northern Tactics from your hand: Draw a card. (Exile it. You may play it on a later turn that a Soldier you control dealt damage to an opponent.)</text>
+      <text>Create a 1/1 white Soldier creature token.
+Tap two untapped creatures you control, Embrace Northern Tactics from your hand: Create a 1/1 white Soldier creature token. (Exile it. You may play it on a later turn that a Soldier you control dealt damage to an opponent.)</text>
     </card>
     <card>
       <name>Twinbirth</name>
@@ -5902,7 +5902,7 @@ ARTIFICERTYPE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Gigant Nestcrafter enters, search your library for an artifact or enchantment card with mana value 3 or less, put it onto the battlefield, then shuffle.</text>
+When Gigant Nestcrafter enters, if it was cast, search your library for an artifact or enchantment card with mana value 3 or less, put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>Homestead of the Meek</name>
@@ -6879,205 +6879,3 @@ CU05</notes>
       <tablerow>2</tablerow>
       <text>When Thoughtglass Shaper enters, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
     </card>
-
-    <!-->Tokens</-->
-
-    <card>
-      <name>Liberated Dragon</name>
-      <set>AKT</set>
-      <prop>
-        <colors></colors>
-        <type>Token Creature - Dragon </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-        <notes>TOKENREMINDER
-
-!tokentag Equalised Reminder</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>(Put a liberated card under this; this has its abilities, but not card types. This is single faced and can’t be transformed.)</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Insect Advisor</name>
-      <set>AKT</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature - Insect Advisor </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>TOKENREMINDER</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Embraced Cards</name>
-      <set>AKT</set>
-      <prop>
-        <colors></colors>
-        <type>Reminder</type>
-        <maintype>Reminder</maintype>
-        <notes>TOKENREMINDER
-
-!tokentag EmbracedReminder</notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>(Put your embraced cards here. They’re in exile, and you may play them on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Recruit</name>
-      <set>AKT</set>
-      <prop>
-        <colors>R</colors>
-        <type>Token Creature</type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>!tokentag Recruit</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>(This is the creature type chosen as it was created.)</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Treasure</name>
-      <set>AKT</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact - Treasure </type>
-        <maintype>Artifact</maintype>
-        <notes>Related cards: Aspect of Commerce, Sired Innocent
-
-Tooken</notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Human</name>
-      <set>AKT</set>
-      <prop>
-        <colors>B</colors>
-        <type>Token Creature - Human </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-        <notes>Related cards: Host Farm
-
-Tooken</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Incarnation</name>
-      <set>AKT</set>
-      <prop>
-        <colors>R</colors>
-        <type>Token Creature - Incarnation </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>Related Cards: Mother of Notions
-
-Tooken</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Hex Citizen</name>
-      <set>AKT</set>
-      <prop>
-        <colors>G</colors>
-        <type>Token Creature - Hex Citizen </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>Related Cards: Infested Fortress, Host Farm Babysitter, Orthodox Scholar
-
-Tooken</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Werewolf Citizen</name>
-      <set>AKT</set>
-      <prop>
-        <colors>G</colors>
-        <type>Token Creature - Werewolf Citizen </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-        <notes>Related Cards: Mother of Notions
-
-Tooken</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Incarnation Soldier</name>
-      <set>AKT</set>
-      <prop>
-        <colors>R</colors>
-        <type>Token Creature - Incarnation Soldier </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-        <notes>Related Cards: Lethal Force
-
-Tooken</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Soldier</name>
-      <set>AKT</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature - Soldier </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes></notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>House</name>
-      <set>AKT</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact - Equipment </type>
-        <maintype>Artifact</maintype>
-        <notes>Related Cards: Accommodation</notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Equipped creature gets +1/+1.
-Equip creature of the chosen type {1}</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Dragon</name>
-      <set>AKT</set>
-      <prop>
-        <colors></colors>
-        <type>Token Creature - Dragon </type>
-        <maintype>Creature</maintype>
-        <pt>4/4</pt>
-        <notes></notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying</text>
-      <token>1</token>
-    </card>
-
-  </cards>
-</cockatrice_carddatabase>

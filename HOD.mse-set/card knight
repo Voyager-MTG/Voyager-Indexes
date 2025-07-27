@@ -6,12 +6,12 @@ card:
 	notes:
 		!tag Dewold
 		!exportname Destroyed-Knight
-		!related Meeting of Powers;Roul Banefort, the Stern;Sapner Decree;Lucky Break;Grasp of the Mirrorkin;Gleaming Courage;Replenishing Camp;Standing Army;Long Night’s Rest;Leon’s Claim;Dirt to Flesh;Call of the King;Turnberry Overseer;Geistwald Abomination;Sandrock Infantry;Hopeful Spouse;Knight of Skyspire;Fleshborne Horror;Terrel Battlemage;Resolute Elk;Glory on Bloodied Wings;
+		!related Knight of Skyspire; Banefort Archer; Replenishing Camp; Resolute Elk; Turnberry Overseer;
 	time_created: 2022-04-02 19:45:43
 	time_modified: 2022-05-25 13:19:05
 	card_color: white, blue, black, red, green, hybrid, horizontal
 	name: Knight
-	image: image38
+	image: image734
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

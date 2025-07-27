@@ -140,7 +140,7 @@ Exile three cards from your graveyard: Sapner Vindicator becomes an artifact unt
       </prop>
       <tablerow>3</tablerow>
       <text>Create X 1/1 green Knight creature tokens.
-Escape—4W, Exile X cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+Escape—4WW, Exile X cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
     </card>
     <card>
       <name>Regal Lion</name>
@@ -186,9 +186,9 @@ When Regal Lion enters, other permanents you control gain indestructible until e
         <tag>DewoldTerrelLeon</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Heir—You’ve created seven or more tokens this game. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)
+      <text>Heir—You’ve created five or more tokens with different names this game. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)
 Vigilance
-Other creatures you control get +2/+1.</text>
+Other creature tokens you control get +1/+1 and have vigilance.</text>
     </card>
     <card>
       <name>Scorched Earth</name>
@@ -210,7 +210,7 @@ Other creatures you control get +2/+1.</text>
         <tag>DewoldDewoldWaldemarHODStory</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, you may forsake. If you do it costs {2} less to cast. (To forsake, sacrifice creatures with total toughness 3 or more.)
+      <text>As an additional cost to cast this spell, you may forsake. If you do, it costs {2} less to cast. (To forsake, sacrifice creatures with total toughness 3 or more.)
 Destroy all creatures.</text>
     </card>
     <card>
@@ -298,7 +298,7 @@ Destroy all creatures.</text>
         <tag>DewoldVance</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever another nontoken creature you control leave the battlefield without dying, you may create a token that’s a copy of that creature in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+      <text>Whenever another nontoken creature you control leaves the battlefield without dying, you may create a token that’s a copy of that creature in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>Idol of Forgotten Gods</name>
@@ -524,7 +524,7 @@ At the beginning of each opponent’s upkeep, draw a card unless that player has
         <tag>DewoldWulfricHook</tag>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your upkeep, exile target creature card from your graveyard. Create a token that’s a copy of it in your reserves. You lose life equal to its mana value. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+      <text>At the beginning of your upkeep, exile target creature card from your graveyard create a token that’s a copy of it in your reserves. You lose life equal to its mana value. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>Petula Vance, the Solemn Joke</name>
@@ -547,7 +547,7 @@ At the beginning of each opponent’s upkeep, draw a card unless that player has
       </prop>
       <tablerow>2</tablerow>
       <text>Heir—You’ve cast five or more spells for an amount of mana less than their mana value. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)
-Whenever Petula Vance attacks, you exile another attacking creature you control. If you do, return target creature card from your graveyard to the battlefield and attacking.</text>
+Whenever Petula Vance attacks, exile another attacking creature you control. If you do, return target creature card from your graveyard to the battlefield tapped and attacking.</text>
     </card>
     <card>
       <name>Thriving Hyena</name>
@@ -638,7 +638,7 @@ Whenever Vance Informant deals combat damage to a player or planeswalker, mill t
       </prop>
       <tablerow>2</tablerow>
       <text>Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
-Whenever you copy a spell, you draw a card and you lose 1 life.</text>
+Whenever you copy a spell that was targeting a creature you control, you draw a card and you lose 1 life.</text>
     </card>
     <card>
       <name>Plaskett Trickster</name>
@@ -675,17 +675,16 @@ Whenever Plaskett Trickster deals combat damage to a player or planeswalker, def
         <mv>3</mv>
         <type>Creature - Hag Warlock </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/1</pt>
         <notes>!tag Dewold
 !tag Turnberry</notes>
         <tag>DewoldTurnberry</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deathtouch, lifelink
-When Virulent Hexer enters, choose one. Each player exiles or removes the chosen until they have exactly one.
-• Counters on permanents they control and counters on themselves.
-• Tokens they control and in their reserves.
-• Cards in their sanctum.</text>
+      <text>Deathtouch
+When Virulent Hexer enters, choose one —
+• Exile each token and each token in each player’s reserves.
+• Reveal each player’s sanctum, then each player exiles three nonland cards revealed this way at random.</text>
     </card>
     <card>
       <name>Closure</name>
@@ -761,7 +760,7 @@ Whenever a nontoken creature you control dies, create a token that’s a copy of
         <loyalty>4</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your upkeep, you lose 2 life and Waldemar’s owner draws a card. Remove a loyalty counter from Waldemar.
+      <text>At the beginning of your upkeep, you lose 2 life, Waldemar’s owner draws a card, then remove a loyalty counter from Waldemar.
 [-1]: Discard a card. If you didn’t discard a nonland card this way, Waldemar’s owner creates a tapped Treasure token.
 [-2]: Sacrifice a non-Waldemar permanent.
 
@@ -828,13 +827,13 @@ Whenever Caryl Rey, the Rose attacks, exile the top card of your library. You ma
         <mv>3</mv>
         <type>Creature - Spirit Soldier </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>2/3</pt>
         <notes>!tag Dewold
 !tag Phyre</notes>
         <tag>DewoldPhyre</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Ardleby Gatekeeper attacks, target attacking creature you control gets +1/+0 until end of turn. Create a token that’s a copy of that creature in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+      <text>Whenever you attack, target attacking creature gets +1/+0 until end of turn. Create a token that’s a copy it in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>Geistwald Deceiver</name>
@@ -1014,7 +1013,7 @@ Escape—2RR, Exile eight other cards from your graveyard. (You may cast this ca
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-Enchanted creature has “Whenever this creature deals combat damage to a player or planeswalker, two +1/+1 counters on it” and “When this creature leaves the battlefield, create a number of 2/1 red Soldier creature tokens in your reserves equal the number of counters on it.” ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+Enchanted creature has “Whenever this creature deals combat damage to a player or planeswalker, put two +1/+1 counters on it” and “When this creature leaves the battlefield, create a number of 2/1 red Soldier creature tokens in your reserves equal to the number of counters on it.” ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>Quirky Chameleon</name>
@@ -1103,7 +1102,7 @@ Escape—4G, Exile X other cards from your graveyard. X can’t be 0. (You may c
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, reach
-When Geistwald Abomination dies, choose two names. For each name, create a legendary 3/3 Knight creature token that is all colors with that name in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+When Geistwald Abomination dies, choose two names. For each chosen name, create a legendary 3/3 Knight creature token that is all colors with that name in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>Choice of Salvations</name>
@@ -1274,7 +1273,7 @@ If a creature would enter under an opponent’s control and wasn’t cast from t
         <mv>2</mv>
         <type>Legendary Creature - Human Warrior </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+        <pt>2/1</pt>
         <notes>!tag Dewold
 !tag Wulfric
 !tag Hook</notes>
@@ -1641,15 +1640,15 @@ Enchanted player can’t gain life, spells they cast cost {2} more to cast, and 
         <mana>1RGW</mana>
         <cmc>4</cmc>
         <mv>4</mv>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
         <notes>!tag Dewold
 !tag Rey
 Tricolor</notes>
         <tag>DewoldRey</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>Mill six cards. You may put any number of creature cards with total mana value 4 or less and a land card milled this way onto the battlefield.</text>
+      <text>Mill six cards. You may return any number of creature cards with total mana value 4 or less milled this way onto the battlefield.</text>
     </card>
     <card>
       <name>Succession Scandal</name>
@@ -1708,14 +1707,15 @@ Whenever Castle Delta Agitator deals combat damage to a player or planeswalker, 
         <mv>3</mv>
         <type>Creature - Azra Knight </type>
         <maintype>Creature</maintype>
-        <pt>4/2</pt>
+        <pt>3/2</pt>
         <notes>!tag Dewold
 !tag Sapner
 Tricolor</notes>
         <tag>DewoldSapner</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>At the beginning of each end step, you may discard a card. If you do, return Cherrywood Elite from your graveyard to the battlefield if you spent four or more mana on casting noncreature spells or paying for bloom costs this turn.</text>
+      <text>Lifelink
+At the beginning of each end step, you may discard a card. If you do, return Cherrywood Elite from your graveyard to the battlefield if you spent four or more mana on casting noncreature spells and/or paying for bloom costs this turn.</text>
     </card>
     <card>
       <name>Stoic at Graven Laughs</name>
@@ -1761,7 +1761,7 @@ Tricolor</notes>
         <tag>DewoldRey</tag>
       </prop>
       <tablerow>1</tablerow>
-      <text>When The Crown of Skyspire enters, return target creature card from your graveyard to the battlefield and attach The Crown of Skyspire to it.
+      <text>When The Crown of Skyspire enters, you may return target creature card from your graveyard to the battlefield and attach The Crown of Skyspire to it.
 Equipped creature gets +3/+3 and has trample.
 Equip {4}</text>
     </card>
@@ -1850,7 +1850,7 @@ Tricolor</notes>
         <tag>DewoldSapner</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ward—Exile three cards that don’t share any types from your graveyard.
+      <text>Ward—Exile at least three cards from your gravyard that have three or more card types among them.
 You have bloom. (Whenever you cast a spell that targets yourself, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</text>
     </card>
     <card>
@@ -2087,7 +2087,7 @@ Equip creature {3}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>{1}, {T}: Exile target card from a graveyard.
-{2}, Sacrifice Important Parcel: Exile each opponent’s graveyard. Draw a card.</text>
+{2}, Sacrifice Important Parcel: Draw a card.</text>
     </card>
     <card>
       <name>Overflowing Sanctuary</name>
@@ -2149,7 +2149,7 @@ At the beginning of combat on your turn, you may return a creature you control t
         <tag>DewoldRivers</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>Create a 2/1 red Soldier creature token then one in your reserves if you control fewer creatures than an opponent. Do the same for Food and a lower life total, a Clue token fewer cards in hand, and a Treasure for fewer lands. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+      <text>Create a 2/1 red Soldier creature token in your reserves if you control fewer creatures than an opponent. Do the same for Food and a lower life total, a Clue and fewer cards in hand, and Treasure and fewer lands. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>Whitaker Elite</name>
@@ -2392,7 +2392,7 @@ Escape—2W, Exile three other cards from your graveyard. (You may cast this car
       </prop>
       <tablerow>1</tablerow>
       <text>This spell costs {2} less to cast if you control a legendary creature or a Knight.
-When In Hopeful Caress enters, exile target nonland, nonlegendary permanent an opponent controls until In Hopeful Caress leaves the battlefield. </text>
+When In Hopeful Caress enters, exile target nonland, nonlegendary permanent an opponent controls until Engrossed in the Tale leaves the battlefield. </text>
     </card>
     <card>
       <name>Lost at Sea</name>
@@ -2412,7 +2412,7 @@ When In Hopeful Caress enters, exile target nonland, nonlegendary permanent an o
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature to its owner’s hand. Create a 1/1 blue Scout creature token if you didn’t control it. Otherwise create a token that’s a copy of it in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+      <text>Return target creature to its owner’s hand. Create a token that’s a copy of it in your reserves if you controlled it. Otherwise, create a 1/1 blue Scout creature token in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>Nye Battlemage</name>
@@ -2591,7 +2591,7 @@ When Town Busybody enters, tap target creature.</text>
       <tablerow>2</tablerow>
       <text>Lodema can’t be blocked.
 Whenever one or more creatures you control deal combat damage to a player, put that many theft counters on Lodema.
-2U, Remove X theft counters from Lodema: Surveil X, then draw a card. </text>
+2U, Remove X theft counters from Lodema: Surveil X, then draw a card. X can’t be 0. </text>
     </card>
     <card>
       <name>Grasp of the Mirrorkin</name>
@@ -2632,7 +2632,7 @@ Whenever one or more creatures you control deal combat damage to a player, put t
         <tag>DewoldHoDStoryMarilye</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>Surveil 3, then draw two cards. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+      <text>Surveil 3, then draw two cards.</text>
     </card>
     <card>
       <name>Grand Snail Race at Riverdale</name>
@@ -2653,7 +2653,7 @@ Whenever one or more creatures you control deal combat damage to a player, put t
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a creature you control dies, exile the top three cards of each opponent’s library.
-{2}: If there are 12 or more cards exiled by Grand Snail Race at Riverdale, it becomes a 5/5 blue Snail creature until end of turn.</text>
+{2}: If there are twelve or more cards exiled by Grand Snail Race at Riverdale, it becomes a 5/5 blue Snail creature until end of turn.</text>
     </card>
     <card>
       <name>Vance Soulsapper</name>
@@ -2761,7 +2761,7 @@ Whenever another creature you control dies, Vance Soulsapper deals 1 damage to t
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-When Reaper of Graven Laughs enters, create a 1/1 blue Scout token for each card in your graveyard in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+When Reaper of Graven Laughs enters, create a 1/1 blue Scout token in your reserves for each card in your graveyard. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>Fueled by Vengeance</name>
@@ -2960,7 +2960,7 @@ Torch deals 4 damage to target creature or planeswalker.  If a permanent dealt d
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-Whenever William Rey attacks, you may mill three cards. If you do, William Rey gets +X/+0 until end of turn, where X is the total mana value of cards milled this way.</text>
+Whenever William Rey attacks, you may mill three cards. You may play one card milled this way until end of turn.</text>
     </card>
     <card>
       <name>All-Out Charge</name>
@@ -3160,7 +3160,7 @@ Whenever you sacrifice a permanent, target creature can’t block this turn.</te
       <tablerow>3</tablerow>
       <text>Choose one, then create a token with those characteristics, then create a 3/3 white Soldier creature token with defender.
 • Lover to All, a legendary 2/3 red Human Noble creature token with menace.
-• The Sword of Perle, a legendary 3/1 red Orc Soldier creature token with “This creature has first strike as long as it is attacking.”</text>
+• The Sword of Perle, a legendary 3/1 red Orc Soldier creature token with “This creature has first strike as long as it’s attacking.”</text>
     </card>
     <card>
       <name>Turnberry Mediator</name>
@@ -3206,16 +3206,16 @@ Escape—3G, Exile seven other cards from your graveyard. (You may cast this car
 Whenever The Call to Adventure enters during combat or a creature you control deals combat damage to a player or planeswalker, draw a card.</text>
     </card>
     <card>
-      <name>Foilage Decoy</name>
+      <name>Foliage Decoy</name>
       <set rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
-        <manacost>G</manacost>
-        <cost>G</cost>
-        <mana>G</mana>
-        <cmc>1</cmc>
-        <mv>1</mv>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
         <notes>!tag Dewold
@@ -3231,11 +3231,11 @@ Whenever The Call to Adventure enters during combat or a creature you control de
       <prop>
         <colors>G</colors>
         <color>G</color>
-        <manacost>1G</manacost>
-        <cost>1G</cost>
-        <mana>1G</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
         <notes>!tag Dewold
@@ -3243,7 +3243,7 @@ Whenever The Call to Adventure enters during combat or a creature you control de
         <tag>DewoldTurnberry</tag>
       </prop>
       <tablerow>1</tablerow>
-      <text>The first time each turn you create one or more tokens, create a token copy of one of those tokens in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+      <text>The first time each turn you create one or more tokens, create a token that’s a copy of one of those tokens in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>Hunter&apos;s Expertise</name>
@@ -3361,14 +3361,14 @@ Whenever you cast or copy a noncreature spell, creatures you control get +1/+1 u
       <prop>
         <colors>G</colors>
         <color>G</color>
-        <manacost>1G</manacost>
-        <cost>1G</cost>
-        <mana>1G</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Zombie Knight </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>2/2</pt>
         <notes>!tag Dewold
 !tag Turnberry</notes>
         <tag>DewoldTurnberry</tag>
@@ -3405,14 +3405,14 @@ Whenever Silberwald Trailblazer deals combat damage to a player or planeswalker,
       <prop>
         <colors>G</colors>
         <color>G</color>
-        <manacost>2G</manacost>
-        <cost>2G</cost>
-        <mana>2G</mana>
-        <cmc>3</cmc>
-        <mv>3</mv>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Ox </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>1/1</pt>
         <notes>!tag Dewold
 !tag HouseAnimal
 !tag Banefort</notes>
@@ -3636,7 +3636,7 @@ Other Knights you control get +1/+1.</text>
         <tag>DewoldBanefort</tag>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you attack, create two 1/1 blue Scout creature tokens in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)
+      <text>At the beginning of your end step, create a 1/1 blue Scout creature tokens in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)
 Exile three tokens from your reserves: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
@@ -3836,7 +3836,7 @@ Whenever one or more legendary creatures you control attacks, exile the top card
       </prop>
       <tablerow>2</tablerow>
       <text>Deception GU (GU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
-If a creature entering the battlefield or dealing combat damage to an opponent causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+If a creature entering the battlefield or dealing combat damage to an opponent causes a triggered ability of a permanent you control to trigger during combat, that ability triggers an additional time.</text>
     </card>
     <card>
       <name>Attwater Warsworn</name>
@@ -4090,7 +4090,7 @@ Tricolor</notes>
         <tag>DewoldRey</tag>
       </prop>
       <tablerow>1</tablerow>
-      <text>Landfall — Whenever a land you control enters, you may mill three cards. Create a 1/1 blue Scout creature token if a land card is milled this way. Create a Treasure token if a land card is milled this way. Create a Weapon token if a nonland, noncreature card is milled this way. (A Weapon token is an Equipment artifact token with equip {2} and “Equipped creature gets +1/+1.)</text>
+      <text>Landfall — Whenever a land you control enters, you may mill three cards. Create a 1/1 blue Scout creature token if a creature card is milled this way. Create a Treasure token if a land card is milled this way. Create a Weapon token if a nonland, noncreature card is milled this way. (A Weapon token is an Equipment artifact token with equip {2} and “Equipped creature gets +1/+1.)</text>
     </card>
     <card>
       <name>Faceless Mirrorkin</name>
@@ -4159,7 +4159,7 @@ Tricolor</notes>
       <tablerow>1</tablerow>
       <text>When Sacred Avenger enters, create three 1/1 blue Scout creature tokens.
 Equipped creature is a 4/4 white Angel creature with flying and vigilance.
-Equip— Forsake. (Sacrifice creatures with total toughness three or more.)</text>
+Equip—Forsake. (Sacrifice creatures with total toughness three or more.)</text>
     </card>
     <card>
       <name>Nye Decree</name>
@@ -4315,7 +4315,7 @@ Plainscycling {2}, Swampcycling {2}, Forestcycling {2} ({2}, Discard this card: 
         <tag>DewoldTerrel</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>{2}, Sacrifice another creature: Highborn Sovereign becomes indestructible until end of turn.
+      <text>{2}, Sacrifice another creature: Highborn Sovereign gains indestructible until end of turn.
 Islandcycling {2}, Mountaincycling {2}, Plainscycling {2} ({2}, Discard this card: Search your library for a Island, Mountain, or Plains card, reveal it, put it into your hand, then shuffle.)</text>
     </card>
     <card>
@@ -4720,7 +4720,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
         <tag>DewoldRivers</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>As an additional cost to cast this spell, you may forsake. If you do it costs {3} less to cast. (To forsake, sacrifice creatures with total toughness 3 or more.)
+      <text>As an additional cost to cast this spell, you may forsake. If you do, it costs {3} less to cast. (To forsake, sacrifice creatures with total toughness 3 or more.)
 Flying</text>
     </card>
     <card>
@@ -4807,7 +4807,7 @@ Flying</text>
         <tag>HODStoryDewoldTerrelLeonBennet</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, you may forsake. If you do it costs {3} less to cast. (To forsake, sacrifice creatures with total toughness 3 or more.)
+      <text>As an additional cost to cast this spell, you may forsake. If you do, it costs {3} less to cast. (To forsake, sacrifice creatures with total toughness 3 or more.)
 Surveil 2, then draw three cards.</text>
     </card>
     <card>
@@ -5006,7 +5006,7 @@ Sycophant (Whenever this creature deals damage to a player or planeswalker, the 
         <tag>DewoldBennetTerrel</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, you may forsake. If you do it costs {4} less to cast. (To forsake, sacrifice creatures with total toughness 3 or more.)
+      <text>As an additional cost to cast this spell, you may forsake. If you do, it costs {4} less to cast. (To forsake, sacrifice creatures with total toughness 3 or more.)
 Exile target nonland permanent.</text>
     </card>
     <card>
@@ -5135,9 +5135,8 @@ Choose a name. Create a legendary 3/3 Knight creature token that’s all colors 
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
-• Return target creature to its owner’s hand.
-• Draw a card.
-• Return up to three tokens in target player’s reserves to their owner’s hand.</text>
+• Return target creature to its owner’s hand. Draw a card.
+• Return up to three target tokens in a player’s reserves or on the battlefield to their owner’s hand.</text>
     </card>
     <card>
       <name>Pull unto Death</name>
@@ -5442,7 +5441,7 @@ Exile the top three cards of your library. You may play them until the end of yo
         <tag>DewoldPerle</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>As an additional cost to cast this spell, you may forsake. If you do it costs {3} less to cast. (To forsake, sacrifice creatures with total toughness 3 or more.)
+      <text>As an additional cost to cast this spell, you may forsake. If you do, it costs {3} less to cast. (To forsake, sacrifice creatures with total toughness 3 or more.)
 Vigilance, lifelink</text>
     </card>
     <card>
@@ -5817,7 +5816,7 @@ When Honored Eagle enters, create a 1/1 blue Scout creature token.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>When Vance Recruit enters, create a Treasure token.
-1U/RU/R, Exile Vance Recruit from your graveyard: You draw two cards and you lose 2 life.</text>
+2U/R, Exile Vance Recruit from your graveyard: You draw a card and you lose 1 life.</text>
     </card>
     <card>
       <name>Measured Strike</name>
@@ -5838,7 +5837,7 @@ When Honored Eagle enters, create a 1/1 blue Scout creature token.</text>
         <tag>DewoldWulfricHook</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, you may forsake. If you do it costs {3} less to cast. (To forsake, sacrifice creatures with total toughness 3 or more.)
+      <text>As an additional cost to cast this spell, you may forsake. If you do, it costs {3} less to cast. (To forsake, sacrifice creatures with total toughness 3 or more.)
 Measured Strike deals 4 damage to any target.</text>
     </card>
     <card>
@@ -6078,7 +6077,7 @@ Whenever Castle Delta Lookout deals combat damage to a player or planeswalker, d
         <tag>DewoldSapner</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>This spell costs {2} less to cast if there are two or more noncreature nonland cards in your graveyard.
+      <text>This spell costs {2} less to cast as long as there are two or more noncreature nonland cards in your graveyard.
 Choose one —
 • Create The Gentle Giant, a legendary 5/5 green Azra Knight creature token with vigilance.
 • Put two +1/+1 counters on target creature you control. It fights target creature you don’t control.</text>
@@ -6105,7 +6104,7 @@ Choose one —
       </prop>
       <tablerow>2</tablerow>
       <text>When Overzealous Page enters, create one of the following tokens in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)
-• The Sword of Perle, a legendary 3/1 red Orc Soldier creature token with “This creature has first strike as long as it is attacking.”
+• The Sword of Perle, a legendary 3/1 red Orc Soldier creature token with “This creature has first strike as long as it’s attacking.”
 • The Occultist, a legendary 2/3 Human Wizard with lifelink.</text>
     </card>
     <card>
@@ -6285,7 +6284,7 @@ Whenever Ardent Warsworn deals combat damage to a player or planeswalker, you ma
       <tablerow>2</tablerow>
       <text>When Kirsa’s Page enters, choose one —
 • Destroy target artifact or nonbasic land.
-• Create The Sword of Perle, a legendary 3/1 red Orc Soldier creature token with “This creature has first strike as long as it is attacking.”</text>
+• Create The Sword of Perle, a legendary 3/1 red Orc Soldier creature token with “This creature has first strike as long as it’s attacking.”</text>
     </card>
     <card>
       <name>Sapner Recruit</name>
@@ -6327,7 +6326,7 @@ Whenever Ardent Warsworn deals combat damage to a player or planeswalker, you ma
         <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Hopeful Spouse enters, create a 2/1 red Soldier creature token in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+      <text>When Hopeful Spouse enters, choose a name. Create a 2/1 red Soldier creature token in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>King&apos;s Rock Warden</name>
@@ -7487,420 +7486,3 @@ Sword Cycle</notes>
       <tablerow>3</tablerow>
       <text>Search your library for a legendary card, exile it, then shuffle. You may cast that card without paying its mana cost if its mana value is less than or equal to the number of legendary cards in your graveyard. If you don’t cast it this way, put it into your hand.</text>
     </card>
-
-    <!-->Tokens</-->
-
-    <card>
-      <name>Intisuyus Armies</name>
-      <set>HOD</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Enchantment</type>
-        <maintype>Enchantment</maintype>
-        <notes>!tag Dewold
-!exportname Intisuyus Armies
-!related Capac Suyay, Grim Seeker&lt;2>;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>At the beginning of your end step, create a 1/1 white Soldier creature token for each creature you control.</text>
-      <token>1</token>
-      <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
-    </card>
-    <card>
-      <name>Suyay&apos;s Soldier</name>
-      <set>HOD</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature - Soldier </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>!tag Dewold
-!exportname Suyay’s Soldier
-!related Capac Suyay, Grim Seeker&lt;2>; Intisuyu’s Armies;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-      <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
-      <reverse-related> Intisuyu&apos;s Armies</reverse-related>
-    </card>
-    <card>
-      <name>The Sword of Perle</name>
-      <set>HOD</set>
-      <prop>
-        <colors>R</colors>
-        <type>Token Legendary Creature - Orc Soldier </type>
-        <maintype>Creature</maintype>
-        <pt>3/1</pt>
-        <notes>!tag Dewold
-Renowned Cycle
-!related Overzealous Page; Kirsa’s Page;Beacon of Greatness;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>The Sword of Perle has first strike as long as it is attacking.</text>
-      <token>1</token>
-      <reverse-related>Overzealous Page</reverse-related>
-      <reverse-related> Kirsa&apos;s Page</reverse-related>
-      <reverse-related>Beacon of Greatness</reverse-related>
-    </card>
-    <card>
-      <name>Scout</name>
-      <set>HOD</set>
-      <prop>
-        <colors>U</colors>
-        <type>Token Creature - Scout </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>!tag Dewold</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>The Gentle Giant</name>
-      <set>HOD</set>
-      <prop>
-        <colors>G</colors>
-        <type>Token Legendary Creature - Azra Knight </type>
-        <maintype>Creature</maintype>
-        <pt>5/5</pt>
-        <notes>!tag Dewold
-!related House Negotiations;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Vigilance</text>
-      <token>1</token>
-      <reverse-related>House Negotiations</reverse-related>
-    </card>
-    <card>
-      <name>Vances Claw</name>
-      <set>HOD</set>
-      <prop>
-        <colors>B</colors>
-        <type>Token Legendary Creature - Elf Soldier </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>!tag Dewold
-!exportname Vances Claw
-Renowned Cycle
-!related Blessing at Graven Laughs;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Deathtouch, lifelink</text>
-      <token>1</token>
-      <reverse-related>Blessing at Graven Laughs</reverse-related>
-    </card>
-    <card>
-      <name>Lover to All</name>
-      <set>HOD</set>
-      <prop>
-        <colors>R</colors>
-        <type>Token Legendary Creature - Human Noble </type>
-        <maintype>Creature</maintype>
-        <pt>2/3</pt>
-        <notes>!tag Dewold
-Renowned Cycle
-!related Beckon Greatness;Call of the Rose;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Menace</text>
-      <token>1</token>
-      <reverse-related>Beckon Greatness</reverse-related>
-      <reverse-related>Call of the Rose</reverse-related>
-    </card>
-    <card>
-      <name>The Diamond of the Nye</name>
-      <set>HOD</set>
-      <prop>
-        <colors>U</colors>
-        <type>Token Legendary Creature - Human Pirate </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-        <notes>!tag Dewold
-Renowned Cycle
-!related Dealings at the Delta;
-!tag Lodema</notes>
-        <tag>DewoldLodema</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>The Diamond of the Nye can’t be blocked.</text>
-      <token>1</token>
-      <reverse-related>Dealings at the Delta</reverse-related>
-    </card>
-    <card>
-      <name>The Occultist</name>
-      <set>HOD</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Legendary Creature - Human Wizard </type>
-        <maintype>Creature</maintype>
-        <pt>2/3</pt>
-        <notes>!tag Dewold
-Renowned Cycle
-!related Overzealous Page;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Lifelink</text>
-      <token>1</token>
-      <reverse-related>Overzealous Page</reverse-related>
-    </card>
-    <card>
-      <name>Horror</name>
-      <set>HOD</set>
-      <prop>
-        <colors>B</colors>
-        <type>Token Creature - Horror </type>
-        <maintype>Creature</maintype>
-        <pt>8/8</pt>
-        <notes>!tag Dewold
-!related Gosfridus Turnberry;One with the Geistwald;Mirrorkin’s Bargain;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-      <reverse-related>Gosfridus Turnberry</reverse-related>
-      <reverse-related>One with the Geistwald</reverse-related>
-      <reverse-related>Mirrorkin&apos;s Bargain</reverse-related>
-    </card>
-    <card>
-      <name>Dewold Army</name>
-      <set>HOD</set>
-      <prop>
-        <colors>B</colors>
-        <type>Token Creature - Army </type>
-        <maintype>Creature</maintype>
-        <pt>X/X</pt>
-        <notes>!tag Dewold
-!exportname Dewold Army
-!related Left to Wander</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-      <reverse-related>Left to Wander</reverse-related>
-    </card>
-    <card>
-      <name>Young Soldier</name>
-      <set>HOD</set>
-      <prop>
-        <colors>R</colors>
-        <type>Token Creature - Soldier </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-        <notes>!tag Dewold
-!exportname Young Soldier
-!related Whitaker Captain; Turnberry Scout &lt;2>; Patrol the Geistwald; Leon’s Claim; Hulking Vessel; Hopeful Spouse;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-      <reverse-related>Whitaker Captain</reverse-related>
-      <reverse-related count="2"> Turnberry Scout </reverse-related>
-      <reverse-related> Patrol the Geistwald</reverse-related>
-      <reverse-related> Leon&apos;s Claim</reverse-related>
-      <reverse-related> Hulking Vessel</reverse-related>
-      <reverse-related> Hopeful Spouse</reverse-related>
-    </card>
-    <card>
-      <name>Reserves</name>
-      <set>HOD</set>
-      <prop>
-        <colors></colors>
-        <type>Token Reminder</type>
-        <maintype>Reminder</maintype>
-        <notes>!tag Dewold</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>You put tokens that you create in your reserves here. They are not on the battlefield and don’t trigger enter the battlefield abilities.
-{3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Destroyed-Knight</name>
-      <set>HOD</set>
-      <prop>
-        <colors>WUBRG</colors>
-        <type>Token Creature - Knight </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-        <notes>!tag Dewold
-!exportname Destroyed-Knight
-!related Meeting of Powers;Roul Banefort, the Stern;Sapner Decree;Lucky Break;Grasp of the Mirrorkin;Gleaming Courage;Replenishing Camp;Standing Army;Long Night’s Rest;Leon’s Claim;Dirt to Flesh;Call of the King;Turnberry Overseer;Geistwald Abomination;Sandrock Infantry;Hopeful Spouse;Knight of Skyspire;Fleshborne Horror;Terrel Battlemage;Resolute Elk;Glory on Bloodied Wings;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Knight is all colors.</text>
-      <token>1</token>
-      <reverse-related>Meeting of Powers</reverse-related>
-      <reverse-related>Roul Banefort, the Stern</reverse-related>
-      <reverse-related>Sapner Decree</reverse-related>
-      <reverse-related>Lucky Break</reverse-related>
-      <reverse-related>Grasp of the Mirrorkin</reverse-related>
-      <reverse-related>Gleaming Courage</reverse-related>
-      <reverse-related>Replenishing Camp</reverse-related>
-      <reverse-related>Standing Army</reverse-related>
-      <reverse-related>Long Night&apos;s Rest</reverse-related>
-      <reverse-related>Leon&apos;s Claim</reverse-related>
-      <reverse-related>Dirt to Flesh</reverse-related>
-      <reverse-related>Call of the King</reverse-related>
-      <reverse-related>Turnberry Overseer</reverse-related>
-      <reverse-related>Geistwald Abomination</reverse-related>
-      <reverse-related>Sandrock Infantry</reverse-related>
-      <reverse-related>Hopeful Spouse</reverse-related>
-      <reverse-related>Knight of Skyspire</reverse-related>
-      <reverse-related>Fleshborne Horror</reverse-related>
-      <reverse-related>Terrel Battlemage</reverse-related>
-      <reverse-related>Resolute Elk</reverse-related>
-      <reverse-related>Glory on Bloodied Wings</reverse-related>
-    </card>
-    <card>
-      <name>Soldier</name>
-      <set>HOD</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature - Soldier </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-        <notes>!tag Dewold</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Defender</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Knight</name>
-      <set>HOD</set>
-      <prop>
-        <colors>G</colors>
-        <type>Token Creature - Knight </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>!tag Dewold</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>The True Heir</name>
-      <set>HOD</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Legendary Creature - Human Noble </type>
-        <maintype>Creature</maintype>
-        <pt>5/5</pt>
-        <notes>!tag Dewold</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Lifelink</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Treasure</name>
-      <set>HOD</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact - Treasure </type>
-        <maintype>Artifact</maintype>
-        <notes>!tag Dewold
-!related Bounty Collectors;Cautious Seadog&lt;2>;Wealthy Slabman;Writ of Supplies;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-      <token>1</token>
-      <reverse-related>Bounty Collectors</reverse-related>
-      <reverse-related count="2">Cautious Seadog</reverse-related>
-      <reverse-related>Wealthy Slabman</reverse-related>
-      <reverse-related>Writ of Supplies</reverse-related>
-    </card>
-    <card>
-      <name>Weapon</name>
-      <set>HOD</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact - Equipment </type>
-        <maintype>Artifact</maintype>
-        <notes>!tag Dewold
-!related Camp Supplier;Sandrock Blacksmith;Weapons Holder;Heirloom Sword;Wealthy Slabman;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Equipped creature gets +1/+1.
-Equip {2}</text>
-      <token>1</token>
-      <reverse-related>Camp Supplier</reverse-related>
-      <reverse-related>Sandrock Blacksmith</reverse-related>
-      <reverse-related>Weapons Holder</reverse-related>
-      <reverse-related>Heirloom Sword</reverse-related>
-      <reverse-related>Wealthy Slabman</reverse-related>
-    </card>
-    <card>
-      <name>Food</name>
-      <set>HOD</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact - Food </type>
-        <maintype>Artifact</maintype>
-        <notes>!tag Dewold
-!related Orcish Shepherd;Writ of Supplies;</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-      <token>1</token>
-      <reverse-related>Orcish Shepherd</reverse-related>
-      <reverse-related>Writ of Supplies</reverse-related>
-    </card>
-    <card>
-      <name>Clue</name>
-      <set>HOD</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact - Clue </type>
-        <maintype>Artifact</maintype>
-        <notes>!tag Dewold
-!tag Dewold
-!related Overt Warning; Writ of Supplies;</notes>
-        <tag>DewoldDewold</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{2}, Sacrifice this artifact: Draw a card.</text>
-      <token>1</token>
-      <reverse-related>Overt Warning</reverse-related>
-      <reverse-related> Writ of Supplies</reverse-related>
-    </card>
-    <card>
-      <name>Spirit</name>
-      <set>HOD</set>
-      <prop>
-        <colors>R</colors>
-        <type>Token Creature - Spirit </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>!tag Dewold</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-
-  </cards>
-</cockatrice_carddatabase>

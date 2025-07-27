@@ -5,10 +5,10 @@ card:
 		!tag Dewold
 		!tag Turnberry
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-03-05 16:44:50
+	time_modified: 2025-07-01 21:17:02
 	name: Geistwald Abomination
 	casting_cost: 5G
-	image: image240.png
+	image: image460
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Geistwald Abomination</nospellcheck></atom-cardname> dies, choose two names. For each name, create a legendary 3/3 Knight creature token that is all colors with that name <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Geistwald Abomination</nospellcheck></atom-cardname> dies, choose two names. For each chosen name, create a legendary 3/3 Knight creature token that is all colors with that name <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
 	toughness: 7
