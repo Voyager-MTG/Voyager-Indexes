@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 15:28:53
+	time_modified: 2025-07-21 01:38:24
 	card_color: white
 	name: Power of Oath
 	casting_cost: W
@@ -17,7 +17,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature gets +1/+1 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
-		You may cast this enchantment from your graveyard by exiling two other cards from your graveyard and paying <sym>1W</sym>.
+		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>1W</sym-auto>, Exile two cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Moe Balinger
 	card_code_text: 

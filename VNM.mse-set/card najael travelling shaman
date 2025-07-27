@@ -20,7 +20,7 @@ card:
 		overlay: 
 	notes: !exportname Najael Travelling Shaman
 	time_created: 2022-04-03 15:13:15
-	time_modified: 2025-07-12 16:46:05
+	time_modified: 2025-07-21 14:45:17
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: She/Her
@@ -36,7 +36,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, distribute two +1/+1 counters among any number of target enchantments you control.
-		Once each turn, when an enchantment you control becomes a creature, you may draw a card.
+		Once each turn, when an enchantment you control becomes a creature, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	loyalty_cost_2: 
 	loyalty_cost_3: 

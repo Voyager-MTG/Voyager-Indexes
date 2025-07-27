@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
-	stylesheet: m15-altered-plus
-	stylesheet_version: 2020-09-04
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
 	has_styling: false
 	notes: !related Basic Insect;Monster Egg;Ray and Temperature;Rare Fish;Skelegon;Gaia the Dragon Champion;Witty Phantom;Kumootoko;Meda Bat;Skull Red Bird;Darkworld Thorns;Drooling Lizard;Celtic Guardian;Follow Wind2>;Lucky Trinket;Dig Beak;One Who Hunts Souls;Dark Plant;Kuwagata Alpha2>;Light of Hope;Abyss Flower;Bat;Wood Clown;Mabarrel;Tomozaurus;Winged Cleaver;Cyber Soldier of Darkworld;Yormungarde;Ascent of Snakes;The Judgement Hand;Harpie Lady2>;
 	time_created: 2023-07-26 12:12:00
@@ -18,6 +18,7 @@ card:
 	sub_type: 
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text: 
 	rule_text_2: 
 	rule_text_3: 

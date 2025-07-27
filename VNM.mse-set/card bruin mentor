@@ -5,7 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
-		chop_bottom: 
+		chop_bottom: 8
 		font_cap: 13.5
 		d20_dividers: all breaks
 		frames: lesson
@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: !related Military Training;
 	time_created: 2021-10-06 22:38:50
-	time_modified: 2025-03-01 15:53:08
+	time_modified: 2025-07-21 00:50:21
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -37,7 +37,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When this creature enters, or whenever this creature attacks with a creature with lesser power, create a trace of its skill to your hand.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, or whenever this creature attacks with a creature with lesser power, <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Military <kw-0><nospellcheck><key>Training</b></key></nospellcheck></kw-0> <sym>G/W</sym>| <u>Skill Instant</u><soft-line>
 		Put a +1/+1 counter on target creature you control. Cast only outside of combat.</soft-line>
 	rule_text_2: 

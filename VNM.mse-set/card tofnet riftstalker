@@ -19,7 +19,7 @@ card:
 		!note hybrid
 		Updated
 	time_created: 2021-04-25 03:15:03
-	time_modified: 2025-07-12 16:48:36
+	time_modified: 2025-07-21 01:01:27
 	name: Tofnet Riftstalker
 	casting_cost: 1W/BW/B
 	image: image9
@@ -33,7 +33,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, you may create a trace of target nontoken creature you control into your hand.
+	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, you may <kw-A><nospellcheck><key>trace <param-name>a copy of target nontoken creature you control into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Patrolling <error-spelling:en_US>Tofnet</error-spelling:en_US> Plains is a harsh, and grueling work, but finding new rifts is always worth the effort.</i-flavor>

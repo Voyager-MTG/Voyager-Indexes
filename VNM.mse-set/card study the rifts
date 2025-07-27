@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2022-03-06 01:44:26
+	time_modified: 2025-07-21 01:55:47
 	card_color: blue
 	name: Study the Rifts
 	casting_cost: 2UU
@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
-		<kw-a><nospellcheck><key>Scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>, then draw two cards. If you’ve illuminated blue, <kw-a><nospellcheck><key>scry <param-number><kw-A>4</param-number></key></nospellcheck></kw-a>, then draw two cards instead.
+		<kw-a><nospellcheck><key>Scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>, then draw two cards. If you’ve illuminated blue, instead <kw-a><nospellcheck><key>scry <param-number>4</param-number></key></nospellcheck></kw-a>, then draw two cards.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

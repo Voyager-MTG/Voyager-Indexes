@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-02-28 23:02:31
+	time_modified: 2025-07-21 01:18:49
 	card_color: black
 	name: Cooing Foundling
 	casting_cost: B
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: Whenever a spell or ability puts a card into your hand, each opponent loses 1 life and you gain 1 life.
+	rule_text: Whenever a spell or ability puts one or more cards into your hand, each opponent loses 1 life and you gain 1 life.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“What a cute foundling! What can I do for you?”</i-flavor>

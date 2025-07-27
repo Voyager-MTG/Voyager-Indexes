@@ -16,7 +16,7 @@ card:
 		overlay: 
 	notes: Preview
 	time_created: 2021-10-06 22:38:50
-	time_modified: 2025-03-01 16:19:51
+	time_modified: 2025-07-21 04:51:45
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -34,7 +34,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When this creature enters, create a trace of Steady Growth into your hand.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Steady Growth</b> <sym>B/G</sym>|<i> </i><u>Enchantment</u><i><soft-line>
 		</i><kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
 		Enchanted land has “<sym-auto>T</sym-auto>: Add one mana of any color.”</soft-line>

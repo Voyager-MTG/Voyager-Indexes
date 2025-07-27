@@ -44,7 +44,7 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	level_1_text: 
-	level_2_text: Unbound
+	level_2_text: <kw-A><nospellcheck><key>Unbound</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this for its unbound cost or pay its unbound cost as a sorcery. While unbound, its mana cost and size are altered.)</i-auto></atom-reminder-custom></kw-A>
 	power: 1
 	power_2: 3
 	toughness: 1

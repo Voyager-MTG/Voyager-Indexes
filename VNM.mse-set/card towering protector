@@ -3,23 +3,25 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 15:32:06
+	time_modified: 2025-07-21 15:03:47
 	name: Towering Protector
 	casting_cost: 2RR
 	image: image64
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Artifact Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		<soft-line>As long as this creature is equipped, enchanted, or has a counter on it, this creature may attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.</soft-line>
+		<soft-line>As long as <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> is equipped, enchanted, or has a counter on it, this creature may attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.</soft-line>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Ancient structures, built to protect the meek and destroy the brazen.</i-flavor>
