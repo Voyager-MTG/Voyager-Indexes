@@ -733,7 +733,7 @@ CG06</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Humongous Detritivore enters, mill three cards.
-Humongous Detritivore gets +2/+1 if there are eight or more cards in your graveyard.</text>
+Humongous Detritivore gets +2+1 as long as there are eight or more cards in your graveyard.</text>
     </card>
     <card>
       <name>Herald of the Restored Age</name>
@@ -1016,7 +1016,7 @@ UR01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste, menace
-Blazefoxes of Moz gets +2/+0 if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+Blazefoxes of Moz gets +2/+0 as long as your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
     </card>
     <card>
       <name>Sunbound Swarm</name>
@@ -1134,7 +1134,7 @@ Retopology 2GG (Cast a copy of this from your graveyard by exiling it and paying
 GREENCOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Elder Gigantops gets +2/+2 if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+      <text>Elder Gigantops gets +2/+2 as long as your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
     </card>
     <card>
       <name>Stampeding Goliath</name>
@@ -1336,25 +1336,6 @@ Retopology RR (Cast a copy of this from your graveyard by exiling it and paying 
       <text>When The Downscaling enters, for each player, you choose from among the permanents that player controls another enchantment, an artifact, a creature, a planeswalker, and a land. Exile those permanents until The Downscaling leaves the battlefield.</text>
     </card>
     <card>
-      <name>Vertex Reminder</name>
-      <set rarity="">PVR</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Token Reminder</type>
-        <maintype>Reminder</maintype>
-        <notes>I’M SORRY CAJUN 
-!token</notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text></text>
-    </card>
-    <card>
       <name>Font of Decadence</name>
       <set rarity="rare">PVR</set>
       <prop>
@@ -1449,7 +1430,7 @@ OTHERRARE</notes>
         <notes>GREENRARE10</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Nonland permanent cards in your graveyard with mana value 3 or greater have retopology. The retopology cost is an amount of {G} equal to its mana value. (Cast a copy of it by exiling it from your graveyard and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+      <text>Each nonland permanent card in your graveyard with mana value 3 or greater have retopology. The retopology cost is an amount of {G} equal to its mana value. (Cast a copy of it by exiling it from your graveyard and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Imperial Excommunicator</name>
@@ -1573,7 +1554,7 @@ ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Uverngon’s Messenger gets +1/+1 and has hexproof if a spell or ability put a nontoken card into your hand this turn.</text>
+Uverngon’s Messenger gets +1/+1 and has hexproof as long as a spell or ability put a nontoken card into your hand this turn.</text>
     </card>
     <card>
       <name>Rastira Depths Trawler</name>
@@ -1710,7 +1691,7 @@ Equip {2}, {T}</text>
         <notes>OTHERRARE</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you cast a noncreature spell, if your complexity is twice its mana value or greater, copy that spell. You may choose new targets for it. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+      <text>Whenever you cast a noncreature spell, if your complexity is greater than twice its mana value, copy that spell. You may choose new targets for it. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
     </card>
     <card>
       <name>Defragment</name>
@@ -2096,7 +2077,7 @@ CW12</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
-This permanent has double strike if it’s attacking.</text>
+This permanent has double strike if its attacking.</text>
     </card>
     <card>
       <name>Shelter from the Elements</name>
@@ -2216,7 +2197,7 @@ LANDCYCLECOMMON</notes>
 UU09</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Counter target spell if you have equal or greater complexity than its controller. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+      <text>Counter target spell if you have complexity greater than or equal to its controller’s complexity. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
     </card>
     <card>
       <name>Occluded Bog</name>
@@ -2397,7 +2378,7 @@ Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying
 CB01</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Conscripted Serpengon attacks, exile up to one target card in a graveyard and you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
+      <text>Whenever Conscripted Serpengon attacks, exile up to one target card from a graveyard and you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>
     <card>
       <name>Ngonification</name>
@@ -2800,7 +2781,7 @@ If a library has twenty or fewer cards in it, add BBB.</text>
 BLACKRARE8</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of each player’s upkeep, that player exiles a card in their hand or a permanent they control four times. If they can’t, they lose 100 life.</text>
+      <text>At the beginning of each player’s upkeep, that player exiles a card from their hand or a permanent they control four times. If they can’t, they lose 100 life.</text>
     </card>
     <card>
       <name>Anivir&apos;s Warning</name>
@@ -2917,7 +2898,7 @@ BLUERARE10</notes>
 ARCUNSET2</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>You may cast copies of spells from your graveyard with mana value equal to your complexity. As an additional cost to cast spells this way, exile that card from your graveyard.  (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+      <text>You may cast copies of spells from your graveyard with mana value equal to your complexity. As an additional cost to cast spells this way, exile that card from your graveyard. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
     </card>
     <card>
       <name>Boolean Lake</name>
@@ -3562,7 +3543,7 @@ UU05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess, vigilance
-Whenever Rastira Trawler attacks, exile target noncreature, nonland card in your graveyard. You may cast a copy of it. It costs {2} less to cast.</text>
+Whenever Rastira Trawler attacks, exile target noncreature, nonland card from your graveyard. You may cast a copy of it. It costs {2} less to cast.</text>
     </card>
     <card>
       <name>Rastira Reconstructor</name>
@@ -4549,7 +4530,7 @@ Retopology 2UU (Cast a copy of this from your graveyard by exiling it and paying
 CU11</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>This spell costs 1U less to cast if its target wasn’t cast from a hand.
+      <text>This spell costs 1U less to cast if it targets a spell that wasn’t cast from a hand.
 Counter target spell.</text>
     </card>
     <card>
@@ -4775,7 +4756,7 @@ Basic lands you control are the chosen land type in addition to their other type
       </prop>
       <tablerow>3</tablerow>
       <text>This spell can’t be countered except by spells with mana value 4 or greater.
-Target player draws four cards, gains 4 life and gets {V/B}. (Spend {V} to cast copies of Vertex spells.)</text>
+Target player draws four cards, gains 4 life, and gets {V/B}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>
     <card>
       <name>Turbulence Algorithm</name>
@@ -5104,9 +5085,9 @@ Whenever this permanent deals damage to a player or planeswalker, create a token
       <prop>
         <colors>U</colors>
         <color>U</color>
-        <manacost>1UU</manacost>
-        <cost>1UU</cost>
-        <mana>1UU</mana>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
         <mv>3</mv>
         <type>Creature - Human Rogue </type>
@@ -5116,7 +5097,7 @@ Whenever this permanent deals damage to a player or planeswalker, create a token
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Luddite Infiltrator enters, return target instant or sorcery card from your graveyard to your hand. Then if your complexity is three or greater, you may cast a copy of that card. It costs {3} less to cast. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+When Luddite Infiltrator enters, exile target instant or sorcery card from your graveyard. You may cast it on any turn your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
     </card>
     <card>
       <name>Abstraction Breaker</name>
@@ -5551,7 +5532,7 @@ CW11</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever a spell or ability puts one or more nontokencards into your hand, tap up to that many nonland permanents.</text>
+Whenever a spell or ability puts one or more nontoken cards into your hand, tap up to that many nonland permanents.</text>
     </card>
     <card>
       <name>Dynotopic Stampede</name>
@@ -5925,7 +5906,7 @@ NEWCARD</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Deprecated Harvest enters, you get {V/U}. (Spend {V} to cast copies of Vertex spells.)
-{T}, Exile a Texture or a Texture card in your graveyard: Search your library for a land card, put it onto the battlefield, then shuffle.</text>
+{T}, Exile a Texture or a Texture card from your graveyard: Search your library for a land card, put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>Albedo Arbalest</name>
@@ -5974,11 +5955,11 @@ BLACKRARE</notes>
       <text>
 (This spell gains effects based on the sources of mana spent to cast it.)
 I — Land — 
-Occult Occlusion deals 3 damage to any target and you gain 3 life.
+Occult Occlusion deals 3 damage to target player and you gain 3 life.
 II — Artifact — 
 Target player draws two cards and loses 2 life.
 III — Instant —
-At the beginning of the next end step, target player discards two cards.</text>
+Target player sacrifices a nontoken creature or enchantment.</text>
     </card>
     <card>
       <name>Metallic Mirage</name>
@@ -6003,7 +5984,7 @@ BLUERARE</notes>
 I — Land — 
 Return target spell or nonland permanent to its owner’s hand.
 II — Creature — 
-Whenever you cast your next noncreature spell this turn, copy it. You may choose new targets for the copies.
+When you cast your next noncreature spell this turn, copy it. You may choose new targets for the copies.
 III — Sorcery — 
 Add CCC.</text>
     </card>
@@ -6391,6 +6372,6 @@ Defender, haste
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-If you would put cards from your hand to the bottom of your library as part of mulligans, you may reveal Eons of Ancestry from your hand instead.
+If you would put cards from your hand on the bottom of your library during mulligans, you may reveal Eons of Ancestry from your hand instead.
 Enchanted creature gets +2/+2 for each permanent attached to it.</text>
     </card>

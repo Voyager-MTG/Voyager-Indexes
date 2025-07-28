@@ -20,6 +20,7 @@ card:
 	border_color: rgb(5,5,5)
 	name: Denizen of New Akella
 	casting_cost: 6
+	transformation: custom symbol one
 	image: image45
 	image_2: 
 	mainframe_image: 

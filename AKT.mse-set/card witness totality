@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+mse_version: 2.5.6
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -15,7 +15,7 @@ card:
 		REDRARE
 		AEONITERARECYC1
 	time_created: 2022-02-26 15:29:17
-	time_modified: 2025-07-26 03:06:35
+	time_modified: 2025-07-27 09:42:30
 	extra_data:
 		magic-m15-altered: ascend: 
 		magic-m15-altered-plus:
@@ -23,7 +23,8 @@ card:
 	border_color: rgb(5,5,5)
 	name: Witness Totality
 	casting_cost: 3RR
-	image: image151.png
+	transformation: custom symbol one
+	image: image159
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

@@ -15,12 +15,10 @@ card:
 		AEONITEUNCOMMONCYCLE
 		UR07
 	time_created: 2022-02-26 15:29:17
-	time_modified: 2025-07-28 00:35:44
-	extra_data:
-		magic-m15-altered-plus:
-			corner: custom
+	time_modified: 2025-07-27 09:42:46
 	name: Omnificient Vessel
 	casting_cost: 5RR
+	transformation: custom symbol one
 	image: image107
 	image_2: 
 	mainframe_image: 

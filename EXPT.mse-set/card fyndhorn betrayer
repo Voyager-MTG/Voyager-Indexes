@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may destroy target enchantment.
+	rule_text: When <atom-cardname><nospellcheck>Fyndhorn Betrayer</nospellcheck></atom-cardname> enters, you may destroy target enchantment.
 	flavor_text: <i-flavor>The <error-spelling:en_US>Fyndhorn</error-spelling:en_US> elves stole <error-spelling:en_US>Dominaria’s</error-spelling:en_US> <error-spelling:en_US>leyline</error-spelling:en_US>, becoming the first who would walk the paths of the blind eternities. Little known was that a sleeper agent left with them.</i-flavor>
 	power: 2
 	toughness: 1

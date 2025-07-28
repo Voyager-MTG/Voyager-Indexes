@@ -5,7 +5,7 @@ card:
 		BLUEUNCOMMON
 		UU05
 	time_created: 2022-03-08 04:03:47
-	time_modified: 2023-02-10 00:22:16
+	time_modified: 2025-07-27 08:21:08
 	name: Rastira Trawler
 	casting_cost: 4UU
 	image: image232
@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-0><nospellcheck><key>Prowess</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>vigilance</key></nospellcheck></kw-0>
-		Whenever <atom-cardname><nospellcheck>Rastira Trawler</nospellcheck></atom-cardname> attacks, exile target noncreature, nonland card in your graveyard. You may cast a copy of it. It costs <sym-auto>2</sym-auto> less to cast.
+		Whenever <atom-cardname><nospellcheck>Rastira Trawler</nospellcheck></atom-cardname> attacks, exile target noncreature, nonland card from your graveyard. You may cast a copy of it. It costs <sym-auto>2</sym-auto> less to cast.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

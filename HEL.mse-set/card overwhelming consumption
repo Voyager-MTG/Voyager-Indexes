@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/davesrightmind/art/Songbird-363159215
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-03-11 02:39:36
+	time_modified: 2025-07-14 21:01:44
 	card_color: red
 	name: Overwhelming Consumption
 	casting_cost: R
-	image: image370
+	image: image646
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -17,7 +17,9 @@ card:
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a creature.
 		Exile the top two cards of your library. You may play those cards until the end of your next turn.
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text:
+		<i-flavor>“Fly away little <error-spelling:en_US>birdy</error-spelling:en_US>, the chase is half the fun.”<soft-line>
+		—<error-spelling:en_US>Demonlord</error-spelling:en_US> <error-spelling:en_US>Zeramander</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Davesrightmind
 	card_code_text: 
 	card_code_text_2: 

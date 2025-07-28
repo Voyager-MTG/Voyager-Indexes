@@ -1195,8 +1195,8 @@ Augmented — If you’ve spent WUBRG to cast spells this turn, put four +1/+1 c
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-As long as you control a nontoken green or blue permanent, Windwish Pests has vigilance and ward {1}.
-As long as you control a nontoken red or black permanent, Windwish Pests gets +1/+0 and has haste.</text>
+As long as you control a nontoken green or blue permanent, Windwish Pests has vigilance.
+As long as you control a nontoken red or black permanent, Windwish Pests gets +1/+0.</text>
     </card>
     <card>
       <name>Wish for Separation</name>
@@ -2082,29 +2082,6 @@ Destroy target creature if it’s tapped or if this spell emerged. You gain 3 li
       <text>When Antlerweaver enters, mill four cards. Then you may put a creature card with mana value 1 from your hand or graveyard onto the battlefield, or create a 1/1 Wonder creature token that’s all colors. That creature gains haste until end of turn.</text>
     </card>
     <card>
-      <name>Anything and Everything</name>
-      <set rarity="mythic">WAW</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost>3</manacost>
-        <cost>3</cost>
-        <mana>3</mana>
-        <cmc>3</cmc>
-        <mv>3</mv>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-        <notes>!tokens Beast Token;</notes>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Choose one—
-• [Exile up to one target nonland permanent with mana value 1 or less.]
-• [Scry 2, then draw a card.]
-• [Create a 3/3 green Beast creature token.]
-Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the text in square brackets for WUBRG. Then exile it.)</text>
-      <related>Beast Token</related>
-    </card>
-    <card>
       <name>Blinding Majesty</name>
       <set rarity="common">WAW</set>
       <prop>
@@ -2416,28 +2393,6 @@ Ploy—Up to two target creatures can’t block this turn. Draw a card. (When th
       <tablerow>2</tablerow>
       <text>Reach, trample
 Augmented — {5}: If Ilcan Avenger has no +1/+1 counters on it, put three +1/+1 counters on it. This ability costs {5} less to activate if you’ve spent WUBRG to cast spells this turn.</text>
-    </card>
-    <card>
-      <name>Ilcan Entrancer</name>
-      <set rarity="uncommon">WAW</set>
-      <prop>
-        <colors>U</colors>
-        <color>U</color>
-        <manacost>2U</manacost>
-        <cost>2U</cost>
-        <mana>2U</mana>
-        <cmc>3</cmc>
-        <mv>3</mv>
-        <type>Creature - Kor Wizard </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-        <notes>!tokens Beast Token;</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Ilcan Entrancer enters, choose one —
-• Tap target creature. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
-• Create a tapped 3/3 green Beast creature token. Put a stun counter on it.</text>
-      <related>Beast Token</related>
     </card>
     <card>
       <name>Ilcan Resolution</name>
@@ -3142,27 +3097,6 @@ Spells you cast with mana value 5 or greater cost {2} less to cast.</text>
       <text>Menace
 {2}, Exile a green or white card from your graveyard: Alpine Salvager gains indestructible until end of turn. Tap it.
 {2}, Pay 2 life, Exile a blue or red card from your graveyard: Draw a card.     </text>
-    </card>
-    <card>
-      <name>Borderholt Herdcaller</name>
-      <set rarity="uncommon">WAW</set>
-      <prop>
-        <colors>G</colors>
-        <color>G</color>
-        <manacost>3G</manacost>
-        <cost>3G</cost>
-        <mana>3G</mana>
-        <cmc>4</cmc>
-        <mv>4</mv>
-        <type>Creature - Elf Druid </type>
-        <maintype>Creature</maintype>
-        <pt>3/5</pt>
-        <notes>!tokens Beast Token;</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>4G, Exile a card from your graveyard: [Create a 3/3 green Beast creature token.] Activate only as a sorcery. 
-Impetus 4G (You may cast this from your graveyard as a sorcery with only the text in square brackets for 4G. Then exile it.)</text>
-      <related>Beast Token</related>
     </card>
     <card>
       <name>Broken Tranquility</name>
@@ -4515,7 +4449,7 @@ Ploy —New Tensuo Collaborator deals X damage to any nonplayer target, where X 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When New Tensuo Physician enters, return target card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
+      <text>When New Tensuo Physician enters, return target permanent card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
 Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Druid without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
@@ -5164,27 +5098,6 @@ When Paradel Prism enters, target opponent sacrifices a monocolored permanent, t
       <tablerow>2</tablerow>
       <text>Emerge 8B (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
 Ward—Sacrifice a nontoken creature.</text>
-    </card>
-    <card>
-      <name>Worldsoul Ambassador</name>
-      <set rarity="common">WAW</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost>7</manacost>
-        <cost>7</cost>
-        <mana>7</mana>
-        <cmc>7</cmc>
-        <mv>7</mv>
-        <type>Creature - Elemental </type>
-        <maintype>Creature</maintype>
-        <pt>4/5</pt>
-        <notes>!tokens Beast Token;</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Worldsoul Ambassador enters, create a 3/3 green Beast creature token.
-{2}, Discard Worldsoul Ambassador: Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
-      <related>Beast Token</related>
     </card>
     <card>
       <name>Sailing the Starsea</name>

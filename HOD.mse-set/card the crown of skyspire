@@ -6,10 +6,10 @@ card:
 		!tag Rey
 		Tricolor
 	time_created: 2025-02-24 00:36:31
-	time_modified: 2025-04-01 16:56:31
+	time_modified: 2025-03-31 19:56:05
 	name: The Crown of Skyspire
 	casting_cost: 2RGW
-	image: image75.png
+	image: image489
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,7 +23,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>The Crown of Skyspire</nospellcheck></atom-cardname> enters, return target creature card from your graveyard to the battlefield and attach <atom-cardname><nospellcheck>The Crown of Skyspire</nospellcheck></atom-cardname> to it.
+		When <atom-cardname><nospellcheck>The Crown of Skyspire</nospellcheck></atom-cardname> enters, you may return target creature card from your graveyard to the battlefield and attach <atom-cardname><nospellcheck>The Crown of Skyspire</nospellcheck></atom-cardname> to it.
 		Equipped creature gets +3/+3 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>

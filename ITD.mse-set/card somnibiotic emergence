@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://x.com/Slitherbop/status/1776511056531325293/photo/1
 	time_created: 2024-10-16 17:18:28
-	time_modified: 2025-07-01 09:45:18
+	time_modified: 2025-07-25 10:16:51
 	name: Somnibiotic Emergence
 	casting_cost: G
 	image: image158
@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a creature.
-		Search your library for a creature card with mana value lesser than or equal to that of the sacrificed creature, put it into the battlefield, then shuffle.
+		Search your library for a creature card with mana value less than or equal to that of the sacrificed creature, put it into the battlefield, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Slitherbop
 	card_code_text: 

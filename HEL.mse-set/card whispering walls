@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/bohrokki/art/Wall-Of-Flesh-806935794
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2025-01-19 18:22:51
+	time_modified: 2025-07-03 12:35:23
 	card_color: black
 	name: Whispering Walls
 	casting_cost: 1B
-	image: image274
+	image: image630
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -16,7 +16,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
-		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>. Spend this mana only to cast an instant or sorcery spell or to activate an ability in a graveyard. You lose 2 life.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>. Spend this mana only to cast an instant or sorcery spell or to activate an ability of a card in your graveyard. You lose 2 life.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Spshhellllooee</error-spelling:en_US>....”</i-flavor>
 	power: 0
 	toughness: 4

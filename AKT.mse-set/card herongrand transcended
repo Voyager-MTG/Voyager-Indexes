@@ -23,6 +23,7 @@ card:
 	border_color: rgb(5,5,5)
 	name: Herongrand Transcended
 	casting_cost: 4UB
+	transformation: custom symbol one
 	image: image149
 	image_2: 
 	mainframe_image: 

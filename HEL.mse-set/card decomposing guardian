@@ -6,11 +6,11 @@ card:
 		
 		Decomposing Guardian can’t block.
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-14 15:58:18
+	time_modified: 2025-07-03 12:18:05
 	card_color: green
 	name: Decomposing Guardian
 	casting_cost: 5GG
-	image: image200
+	image: image609
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -19,7 +19,7 @@ card:
 	rarity: common
 	rule_text:
 		This creature attacks each combat if able.
-		<sym-auto>G</sym-auto>, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.
+		<sym-auto>G</sym-auto>, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 	flavor_text: <i-flavor>While the stench might send creatures running for miles, vegetation has other plans.</i-flavor>
 	power: 8
 	toughness: 8

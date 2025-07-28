@@ -25,8 +25,8 @@ card:
 	time_modified: 2025-07-21 00:56:19
 	extra_data:
 		magic-m15-altered-plus:
-			corner: instant
 			vorthos_box: They/Them
+			corner: instant
 	card_color: blue, black, hybrid, horizontal
 	name: Multaph, Riftborn God
 	casting_cost: 1UB

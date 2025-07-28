@@ -6,10 +6,10 @@ card:
 		!tag Minna
 		!tag Radcliff
 	time_created: 2025-02-25 12:10:23
-	time_modified: 2025-04-30 16:00:02
+	time_modified: 2025-04-30 17:40:50
 	name: Show of Might
 	casting_cost: 2U
-	image: image102.png
+	image: image643
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,9 +23,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		Choose one —
-		<li><bullet>• </bullet>Return target creature to its owner’s hand.
-		</li><li><bullet>• </bullet>Draw a card.
-		</li><li><bullet>• </bullet>Return up to three tokens in target player’s reserves to their owner’s hand.</li>
+		<li><bullet>• </bullet>Return target creature to its owner’s hand. Draw a card.
+		</li><li><bullet>• </bullet>Return up to three target tokens in a player’s reserves or on the battlefield to their owner’s hand.</li>
 	flavor_text:
 		<i-flavor>“The dragons roar and mortals tremble.”<soft-line>
 		—<error-spelling:en_US>Minna</error-spelling:en_US> Radcliff</soft-line></i-flavor>

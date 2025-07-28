@@ -22,6 +22,7 @@ card:
 	border_color: rgb(5,5,5)
 	name: Clutch Divinity
 	casting_cost: 3BB
+	transformation: custom symbol one
 	image: image155
 	image_2: 
 	mainframe_image: 

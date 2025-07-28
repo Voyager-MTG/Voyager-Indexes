@@ -26,7 +26,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, it deals 2 damage to up to one noncreature target.
+		When <atom-cardname><nospellcheck>Siege Crossbow</nospellcheck></atom-cardname> enters, it deals 2 damage to up to one noncreature target.
 		Equipped creature gets +1/+0 and has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	rule_text_2: 

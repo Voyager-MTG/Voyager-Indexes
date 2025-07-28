@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/joshhutchinson/art/Rumination-Pool-481531236
 	time_created: 2022-04-26 06:25:39
-	time_modified: 2025-05-14 16:20:12
+	time_modified: 2025-07-03 12:20:16
 	name: From Beneath the Woods
 	casting_cost: XGG
-	image: image519
+	image: image795
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -19,7 +19,7 @@ card:
 	rarity: rare
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a creature.
-		Search your library for a creature card with mana value equal to or less than X plus the sacrificed creature’s mana value, put that card onto the battlefield, then shuffle your library.
+		Search your library for a creature card with mana value equal to or less than X plus the sacrificed creature’s mana value, put that card onto the battlefield, then shuffle.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

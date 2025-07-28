@@ -6,11 +6,11 @@ card:
 		
 		Silly topend/reanimation
 	time_created: 2022-05-11 16:01:58
-	time_modified: 2025-03-31 18:57:18
+	time_modified: 2025-07-14 21:10:39
 	card_color: green
 	name: Thicket Taker
 	casting_cost: 5GG
-	image: image395
+	image: image671
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -26,7 +26,7 @@ card:
 		Whenever this creature attacks, up to one other target creature you control deals damage equal to its power to target creature you don’t control.
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>Fists the size of mountains, malice larger than any forest.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 8

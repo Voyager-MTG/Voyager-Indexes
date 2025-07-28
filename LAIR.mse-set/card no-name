@@ -1,20 +1,27 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		main_style: normal
+		frames: 
+		altered_plus_frames: 
+		other_options: auto nyx crowns
+		additional_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
-	time_created: 2025-07-10 20:06:47
-	time_modified: 2025-07-10 20:20:48
-	card_color: land
-	card_color_2: colorless
+	time_created: 2025-07-13 16:23:02
+	time_modified: 2025-07-13 16:28:08
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	super_type: <word-list-type-en></word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type: 
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 

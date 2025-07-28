@@ -154,7 +154,6 @@ include_file: card hellfire ant
 include_file: card culling demon
 include_file: card ichorous tyrant
 include_file: card cryptborn bones
-include_file: card deerstalker
 include_file: card eternal slayer
 include_file: card rambunctious bonewalkers
 include_file: card zeramanders infiltrator
@@ -284,7 +283,7 @@ include_file: card orbisfabers influence
 include_file: card osavotus contract dealer
 include_file: card rotting leviathan
 include_file: card shadowbender lich
-include_file: card shambling mistwalker
+include_file: card lurking mistwalker
 include_file: card tundra screecher
 include_file: card unidentifiable mass
 include_file: card abyssal smoke
@@ -328,7 +327,7 @@ include_file: card splintering growth
 include_file: card valley lurker
 include_file: card vicaroam the crushing vines
 include_file: card anord maddening lich
-include_file: card deerstalker.1
+include_file: card deerstalker
 include_file: card galvanized necrowing
 include_file: card intruding undergrowth
 include_file: card monstrous invocation

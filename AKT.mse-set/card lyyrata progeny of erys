@@ -24,6 +24,7 @@ card:
 	border_color: rgb(5,5,5)
 	name: Lyyrata, Progeny of Erys
 	casting_cost: 5RW
+	transformation: custom symbol one
 	image: image150
 	image_2: 
 	mainframe_image: 

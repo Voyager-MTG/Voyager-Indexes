@@ -6,10 +6,10 @@ card:
 		
 		https://www.deviantart.com/austenmengler/art/The-Dead-Come-469872905
 	time_created: 2022-05-08 14:27:21
-	time_modified: 2025-02-03 16:40:13
+	time_modified: 2025-07-12 20:49:43
 	name: Morideus’s Influence
 	casting_cost: XBB
-	image: image446
+	image: image722
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -28,7 +28,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“I do not demand obedience, but do know the other <error-spelling:en_US>Demonlords</error-spelling:en_US> fear me for a reason.”<soft-line>
-		— <error-spelling:en_US>Morideus</error-spelling:en_US>, <error-spelling:en_US>Demonlord</error-spelling:en_US> of Death</soft-line></i-flavor>
+		—<error-spelling:en_US>Morideus</error-spelling:en_US>, <error-spelling:en_US>Demonlord</error-spelling:en_US> of Death</soft-line></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: AustinMengler

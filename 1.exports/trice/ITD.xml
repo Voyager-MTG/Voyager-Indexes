@@ -107,7 +107,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature with mana value 3 or less.
-When Contagious Murder leaves your graveyard, copy it. You may cast the copy. (You still pay its costs.)</text>
+When Contagious Murder leaves your graveyard during your turn, copy it. You may cast the copy. (You still pay its costs.)</text>
     </card>
     <card>
       <name>Endless Distortion Line</name>
@@ -291,7 +291,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
 !spellbook I9;1</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Artifact spells with mana value 2 or greater you cast cost {1} less to cast. 
+      <text>Artifact spells you cast with mana value 2 or greater cost {1} less to cast. 
 Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
     </card>
     <card>
@@ -433,7 +433,7 @@ III — Search your library for a non-Saga land card and put it onto the battlef
       <tablerow>2</tablerow>
       <text>Flash
 Flying
-When this creature enters, it gains “Creatures and enchantments you don’t control lose all abilities” until your next first main phase.</text>
+When this creature enters, creatures and enchantments you don’t control lose all abilities until the beginning of your next first main phase.</text>
     </card>
     <card>
       <name>Vertigomancer</name>
@@ -453,7 +453,7 @@ When this creature enters, it gains “Creatures and enchantments you don’t co
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature attacks, mill a card.
-Deep dwelling—  As long as your main library contains a number of cards less than or equal to half your starting deck size, this creature gets +3/+3.</text>
+Deep dwelling — As long as your library contains a number of cards less than or equal to half your starting deck size, this creature gets +3/+3.</text>
     </card>
     <card>
       <name>Unsightly Mutate</name>
@@ -473,7 +473,7 @@ Deep dwelling—  As long as your main library contains a number of cards less t
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of your upkeep, surveil 1.
-Deep dwelling— As long as your main library contains a number of cards less than or equal to half your starting deck size, this creature gets +2/+1 and has flying.</text>
+Deep dwelling — As long as your library contains a number of cards less than or equal to half your starting deck size, this creature gets +2/+1 and has flying.</text>
     </card>
     <card>
       <name>Beacon Dreamer</name>
@@ -726,7 +726,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Mill a card. When you do, add {C}.
-Deep dwelling— {T}: Add one mana of any color. Activate only if your main library contains a number of cards less than or equal to half your starting deck size.</text>
+Deep dwelling — {T}: Add one mana of any color. Activate only if your library contains a number of cards less than or equal to half your starting deck size.</text>
     </card>
     <card>
       <name>Unfair Judgment</name>
@@ -1204,7 +1204,7 @@ Whenever this creature deals combat damage to a player, return it to its owner�
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Whenever an opponent casts a noncreature spell with mana value lesser than this creature’s power, draw a card.
+Whenever an opponent casts a noncreature spell with mana value less than this creature’s power, draw a card.
 Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
     </card>
     <card>
@@ -1224,7 +1224,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Impending 5—{R} (If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
+      <text>Impending 4—1R (If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
 Menace
 Whenever Warden of Scorching Days enters or attacks, discard a card, then draw a card.</text>
     </card>
@@ -1306,7 +1306,7 @@ When this enchantment leaves the battlefield, draw a card.</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying, deathtouch
+      <text>Flying
 Whenever Angel of the Forest leaves your graveyard during your turn or attacks, create a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”</text>
     </card>
     <card>
@@ -1428,7 +1428,7 @@ Search your library for a basic land card and put it onto the battlefield tapped
       </prop>
       <tablerow>2</tablerow>
       <text>If you would draw a card, instead look at the top three cards of your library, put two of them into your graveyard, then draw a card.
-Deep Dwelling—Ajaxala can’t be blocked as long as your main library contains a number of cards less than or equal to half your starting deck size.</text>
+Deep Dwelling — Ajaxala can’t be blocked as long as your library contains a number of cards less than or equal to half your starting deck size.</text>
     </card>
     <card>
       <name>Avaz, Moontouched Prince</name>
@@ -1511,7 +1511,7 @@ Whenever a time counter is removed from Firmament Sculptor, create a token copy 
         <notes>https://www.artstation.com/artwork/GXJKPW</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>If Abstracter of Thought would be put into your graveyard from anywhere, instead shuffle it into your library.
+      <text>If Abstracter of Thought would be put into a graveyard from anywhere, shuffle it into its owner’s library instead.
 Once each turn, if you would draw a card while your library has no cards in it, you may instead exile a card from your graveyard. If it’s a nonland card, you may cast a copy of that card without paying its mana cost.</text>
     </card>
     <card>
@@ -1535,7 +1535,7 @@ Once each turn, if you would draw a card while your library has no cards in it, 
 Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand. It’s not a land.)</text>
     </card>
     <card>
-      <name>To be Forgotten in a Dream</name>
+      <name>To Be Forgotten in a Dream</name>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
@@ -1572,7 +1572,7 @@ Each player creates a tapped 3/3 white Illusion creature token.</text>
       <tablerow>2</tablerow>
       <text>Impending 5—1G (If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
 Trample
-When Tyrant of Long Death enters or attacks, you gain 2 life and conjure a duplicate of target land you control into your hand.</text>
+When Tyrant of Long Death enters or attacks, you gain 2 life and conjure a duplicate of target nontoken land you control into your hand.</text>
     </card>
     <card>
       <name>Antisun&apos;s Domain</name>
@@ -1713,7 +1713,7 @@ Whenever you attack, if you control five or more lands, Nightmares you control g
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature you control enters, you may return a permanent card with lesser mana value than it from your graveyard to your hand. If you don’t, mill two cards. </text>
+      <text>Whenever a creature you control enters, you may return a permanent card with less mana value than it from your graveyard to your hand. If you don’t, mill two cards. </text>
     </card>
     <card>
       <name>Tyrant&apos;s Rage</name>
@@ -1751,7 +1751,7 @@ Whenever you attack, if you control five or more lands, Nightmares you control g
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Mill two cards, then exile up to one instant or sorcery card from your graveyard. Until end of turn, you may cast a copy of that card. Activate only on your turn.
-Deep Dwelling — Once each turn, when you cast an instant or sorcery spell, untap this creature if your main library contains a number of cards less than or equal to half your starting deck size. </text>
+Deep Dwelling — Once each turn, when you cast an instant or sorcery spell, untap this creature if your library contains a number of cards less than or equal to half your starting deck size. </text>
     </card>
     <card>
       <name>Water-Witch&apos;s Bargain</name>
@@ -1769,7 +1769,7 @@ Deep Dwelling — Once each turn, when you cast an instant or sorcery spell, unt
         <notes>https://www.emilylubanko.com/tarot</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Deep dwelling— Mill four cards. Return each land card milled this way from your graveyard to your hand. If your main library contains a number of cards less than or equal to half your starting deck size, return each nonland permanent card milled this way to your hand.</text>
+      <text>Deep dwelling — Mill four cards. Return each land card milled this way from your graveyard to your hand. If your library contains a number of cards less than or equal to half your starting deck size, return each nonland permanent card milled this way to your hand.</text>
     </card>
     <card>
       <name>Drown in Self Reflection</name>
@@ -1788,7 +1788,7 @@ Deep Dwelling — Once each turn, when you cast an instant or sorcery spell, unt
       </prop>
       <tablerow>3</tablerow>
       <text>Surveil 2, then draw a card.
-Whenever Drown in Self Reflection leaves your graveyard, you may cast a copy of it. (You still pay its costs.)</text>
+Whenever Drown in Self Reflection leaves your graveyard during your turn, you may cast a copy of it. (You still pay its costs.)</text>
     </card>
     <card>
       <name>Fleeting Merriment</name>
@@ -2009,7 +2009,7 @@ Whenever a time counter is removed from Imprisoned Aspect, put a +1/+1 counter o
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell unless its controller pays {1}. 
-Deep Dwelling—If your main library contains a number of cards less than or equal to half your starting deck size, instead counter that spell.</text>
+Deep Dwelling — If your library contains a number of cards less than or equal to half your starting deck size, counter that spell instead.</text>
     </card>
     <card>
       <name>Harbinger of Doubt</name>
@@ -2129,8 +2129,8 @@ You may cast this creature from your graveyard by exiling four land cards from y
       </prop>
       <tablerow>1</tablerow>
       <text>
-I — Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
-II, III — You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.
+Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
+You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.
 ​</text>
     </card>
     <card>
@@ -2352,8 +2352,8 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       </prop>
       <tablerow>1</tablerow>
       <text>
-I, II — Draw a card.
-III — When you next resolve an instant or sorcery spell this turn, return it from your graveyard to your hand.</text>
+Draw a card.
+When you next cast an instant or sorcery spell this turn, it gains “If this spell would be put into a graveyard this turn, return it to its owner’s hand instead.”</text>
     </card>
     <card>
       <name>Longlegs</name>
@@ -2452,7 +2452,7 @@ Creatures you control gain haste until end of turn.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Deception 3WU (3WU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
-Whenever one or more creatures you control deal combat damage to an opponent, draw a card. Then you may cast a spell from your hand with mana value lesser than or equal to the damage dealt without paying its mana cost.</text>
+Whenever one or more creatures you control deal combat damage to an opponent, draw a card. Then you may cast a spell from your hand with mana value less than or equal to the damage dealt without paying its mana cost.</text>
     </card>
     <card>
       <name>Somnibiotic Emergence</name>
@@ -2471,7 +2471,7 @@ Whenever one or more creatures you control deal combat damage to an opponent, dr
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, sacrifice a creature.
-Search your library for a creature card with mana value lesser than or equal to that of the sacrificed creature, put it into the battlefield, then shuffle.</text>
+Search your library for a creature card with mana value less than or equal to that of the sacrificed creature, put it into the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>Exiled Trickster</name>
@@ -2492,7 +2492,7 @@ Search your library for a creature card with mana value lesser than or equal to 
       <tablerow>2</tablerow>
       <text>Flash
 Flying
-When this creature enters, exile up to one target instant or sorcery card in your graveyard with mana value lesser than or equal to the number of creatures you control. You may cast a copy of that spell.</text>
+When this creature enters, exile up to one target instant or sorcery card in your graveyard with mana value less than or equal to the number of creatures you control. You may cast a copy of that spell.</text>
     </card>
     <card>
       <name>Cascade Coherency Failure</name>
@@ -2531,7 +2531,7 @@ When this creature enters, exile up to one target instant or sorcery card in you
         <notes>https://x.com/Slitherbop/status/1758830935792103554/photo/1</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Draw two cards, then discard a card. You may cast a spell from your hand with mana value lesser than the amount of mana spent to cast this spell without paying its mana cost.
+      <text>Draw two cards, then discard a card. You may cast a spell from your hand with mana value less than the amount of mana spent to cast this spell without paying its mana cost.
 Flashback 3WWUU (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
@@ -2611,7 +2611,7 @@ When this creature enters, it deals 2 damage to up to one target creature or pla
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, surveil 3, then draw a card.
-Deep Dwelling— Whenever one or more cards are put into your graveyard from your library, you may return one of them to your hand if your main library contains a number of cards less than or equal to half your starting deck size.</text>
+Deep Dwelling — Whenever one or more cards are put into your graveyard from your library, you may return one of them to your hand if your library contains a number of cards less than or equal to half your starting deck size.</text>
     </card>
     <card>
       <name>Strange Wayfarer</name>
@@ -2670,7 +2670,7 @@ If it isn’t an extra turn, take an extra turn after this one.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Deception UUU (UUU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
-When this creature enters, if it was cast or entered from your hand, each player may shuffle their hand and graveyard into their library and then draw seven cards.</text>
+When this creature enters, if it was cast or entered from your hand, each player may shuffle their hand and graveyard into their library, then draw seven cards.</text>
     </card>
     <card>
       <name>One of Keys</name>
@@ -2881,11 +2881,11 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <prop>
         <colors>R</colors>
         <color>R</color>
-        <manacost>3RR</manacost>
-        <cost>3RR</cost>
-        <mana>3RR</mana>
-        <cmc>5</cmc>
-        <mv>5</mv>
+        <manacost>4RR</manacost>
+        <cost>4RR</cost>
+        <mana>4RR</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
         <type>Artifact Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
@@ -3114,7 +3114,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <tablerow>1</tablerow>
       <text>MX-04 enters with an additional loyalty counter on it for each land in your realm. You gain that much life. (Your realm consists of up to one land of each of the basic land types.)
 [+1]: This planeswalker deals 3 damage to target opponent.
-[-3]: Create a colorless Mx-04 token planeswalker with 1 starting loyalty named Replicant with “+1: Each opponent loses 2 life and you gain 2 life.” and “-2: Draw a card.”</text>
+[-3]: Create a colorless Mx-04 planeswalker token with 1 starting loyalty named Replicant with “+1: Each opponent loses 2 life and you gain 2 life.” and “-2: Draw a card.”</text>
     </card>
     <card>
       <name>Wandering Moon </name>
@@ -3478,7 +3478,7 @@ Whenever an opponent loses life on your turn, creatures you control get +1/+0 an
         <notes>https://es.pinterest.com/pin/412783122110307933/</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature or planeswalker card with mana value 5 or less from your graveyard to the battlefield. If that card has mana value lesser than 5, mill a number of cards equal to the difference.</text>
+      <text>Return target creature or planeswalker card with mana value 5 or less from your graveyard to the battlefield. If that card has mana value less than 5, mill a number of cards equal to the difference.</text>
     </card>
     <card>
       <name>Devoted Numena</name>
@@ -3639,7 +3639,7 @@ At the beginning of your end step, if you gained life this turn, choose one—
       </prop>
       <tablerow>1</tablerow>
       <text>The Gardener, Crowned costs 1 less to cast for each colorless permanent you control. (Lands are colorless.)
-[+2]: Create three colorless 1/1 Faerie Horror creature tokens with flying that can’t block.
+[+2]: Create three 1/1 colorless Faerie Horror creature tokens with flying that can’t block.
 [-3]: Gain control of target permanent.
 [-5]: You get an emblem with “You may look at the top card of your library any time and you may play lands and cast colorless spells from the top of your library.”</text>
     </card>

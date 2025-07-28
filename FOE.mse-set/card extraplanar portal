@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: RA03,Noncreature,2,,Sorcerous Spyglass
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-19 23:08:21
+	time_modified: 2025-07-27 18:11:58
 	name: Extraplanar Portal
 	casting_cost: 6
 	image: image361
@@ -30,7 +30,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, each opponent chooses two creatures they control and put it into their owner’s sanctum.
-		Once during each of your turns, you may play a card from your sanctum. It costs <sym-auto>2</sym-auto> less to cast.
+		Once during each of your turns, you may play a card from your sanctum. 
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

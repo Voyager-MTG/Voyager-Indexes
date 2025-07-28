@@ -5,10 +5,10 @@ card:
 		!tag Dewold
 		!tag Nye
 	time_created: 2025-02-24 00:35:24
-	time_modified: 2025-03-03 20:15:33
+	time_modified: 2025-07-18 15:53:18
 	name: Lost at Sea
 	casting_cost: 1U
-	image: image150.png
+	image: image519
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Return target creature to its owner’s hand. Create a 1/1 blue Scout creature token if you didn’t control it. Otherwise create a token that’s a copy of it <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Return target creature to its owner’s hand. Create a token that’s a copy of it <kw-A><nospellcheck><key>in your reserves</key></nospellcheck> if you controlled it. Otherwise, create a 1/1 blue Scout creature token <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<blob></kw-A><moved><atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Nele Diel
 	card_code_text: 

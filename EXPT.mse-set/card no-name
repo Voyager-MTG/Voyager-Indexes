@@ -1,15 +1,28 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
-	time_created: 2025-07-28 02:53:23
-	time_modified: 2025-07-28 02:54:57
+	notes: !designer Hervor
+	time_created: 2025-07-11 17:37:47
+	time_modified: 2025-07-11 17:41:09
+	name: 
+	casting_cost: 1I
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto> or M. <atom-cardname><nospellcheck>This</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Target nonbasic permanent’s types become the types of another target permanent until end of turn.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></i-flavor>
+	card_code_text: • Designer by Hervor
 	card_code_text_2: 
 	card_code_text_3: 

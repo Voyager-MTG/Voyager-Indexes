@@ -5,10 +5,10 @@ card:
 		!tag Dewold
 		!tag Turnberry
 	time_created: 2025-02-24 00:35:24
-	time_modified: 2025-03-05 03:39:26
+	time_modified: 2025-07-01 21:16:51
 	name: Encroach Upon 
-	casting_cost: 1G
-	image: image259.png
+	casting_cost: 2G
+	image: image557
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: The first time each turn you create one or more tokens, create a token copy of one of those tokens <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: The first time each turn you create one or more tokens, create a token that’s a copy of one of those tokens <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Vera Slepysheva
 	card_code_text: 

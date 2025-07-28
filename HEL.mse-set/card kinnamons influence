@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/2wenty/art/Castle-of-the-Crow-King-557858578
 	time_created: 2024-06-04 04:15:23
-	time_modified: 2025-03-22 16:12:30
+	time_modified: 2025-07-03 12:30:55
 	name: Kinnamon’s Influence
 	casting_cost: WW
-	image: image445
+	image: image721
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -16,7 +16,7 @@ card:
 	rule_text:
 		Choose one or both —
 		<li><bullet>• </bullet>Destroy target tapped creature.
-		</li><li><bullet>• </bullet>Exile target creature. Return it to the battlefield under its owners control at the beginning of the next end step.</li>
+		</li><li><bullet>• </bullet>Exile target creature. Return it to the battlefield under its owner’s control at the beginning of the next end step.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 2wenty
 	card_code_text: 

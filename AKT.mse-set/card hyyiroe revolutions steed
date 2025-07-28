@@ -4,8 +4,9 @@ card:
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		frames: lesson, frameless art
-		altered_plus_frames: 
+		chop_top: 0
+		chop_bottom: 8
+		frames: frameless art
 		custom_symbol: MyrCustoms/Ith.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -24,6 +25,7 @@ card:
 	border_color: rgb(5,5,5)
 	name: Hyyiroe, Revolution’s Steed
 	casting_cost: 4GW
+	transformation: custom symbol one
 	image: image72.png
 	image_2: 
 	mainframe_image: 

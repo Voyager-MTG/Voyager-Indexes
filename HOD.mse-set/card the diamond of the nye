@@ -12,7 +12,7 @@ card:
 	notes:
 		!tag Dewold
 		Renowned Cycle
-		!related Dealings at the Delta;
+		!related Tavern Dealings;
 		!tag Lodema
 	time_created: 2022-04-02 19:45:43
 	time_modified: 2022-05-21 15:28:24
@@ -21,7 +21,7 @@ card:
 			vorthos_box: She/her
 	card_color: blue
 	name: The Diamond of the Nye
-	image: image30
+	image: image728
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

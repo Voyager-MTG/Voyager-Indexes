@@ -5,7 +5,7 @@ card:
 		REDUNCOMMON
 		UR01
 	time_created: 2021-10-08 07:44:01
-	time_modified: 2022-05-15 16:15:44
+	time_modified: 2025-07-27 08:18:17
 	name: Blazefoxes of Moz
 	casting_cost: R
 	image: image4
@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Blazefoxes of Moz</nospellcheck></atom-cardname> gets +2/+0 if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+		<atom-cardname><nospellcheck>Blazefoxes of Moz</nospellcheck></atom-cardname> gets +2/+0 as long as your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2

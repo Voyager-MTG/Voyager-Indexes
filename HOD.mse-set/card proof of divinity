@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -17,7 +19,7 @@ card:
 	time_modified: 2025-03-05 00:27:12
 	name: Proof of Divinity
 	casting_cost: 1WB
-	image: image15.png
+	image: image577
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

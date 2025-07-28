@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: https://x.com/boomstudios/status/1352330234230673410/photo/3
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-02-05 19:45:42
+	time_modified: 2025-07-03 12:30:32
 	card_color: white
 	name: Faithful Gaze
 	casting_cost: 1W
-	image: image24
+	image: image561
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -16,7 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Enchanted creature has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “When this creature dies, return it to the battlefield under its owners control.” 
+		Enchanted creature has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “When this creature dies, return it to the battlefield under its owner’s control.” 
 	flavor_text:
 		<i-flavor>“You know, <error-spelling:en_US>Kinnamon</error-spelling:en_US>, you showed me great patience.It would be a shame to let such a noble family die out.”<soft-line>
 		—<error-spelling:en_US>Sorin</error-spelling:en_US> Markov, <error-spelling:en_US>Vampiric</error-spelling:en_US> Champion</soft-line></i-flavor>

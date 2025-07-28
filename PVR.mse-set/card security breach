@@ -5,7 +5,7 @@ card:
 		BLUECOMMON
 		CU11
 	time_created: 2021-10-10 03:07:08
-	time_modified: 2022-08-04 23:17:20
+	time_modified: 2025-07-27 08:17:21
 	name: Security Breach
 	casting_cost: 1UU
 	image: image282
@@ -19,7 +19,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		This spell costs <sym-auto>1U</sym-auto> less to cast if its target wasn’t cast from a hand.
+		This spell costs <sym-auto>1U</sym-auto> less to cast if it targets a spell that wasn’t cast from a hand.
 		Counter target spell.
 	rule_text_2: 
 	rule_text_3: 

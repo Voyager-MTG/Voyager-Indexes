@@ -14,7 +14,7 @@ card:
 		!taglairauthor> kogane
 		!designer Kogane
 	time_created: 2023-07-21 11:45:53
-	time_modified: 2025-05-16 20:16:02
+	time_modified: 2025-07-26 16:47:35
 	name: The Red Grail
 	casting_cost: 3BR
 	image: image4
@@ -42,7 +42,8 @@ card:
 	power: 2
 	toughness: 5
 	illustrator: Valun
-	card_code_text: • The Hours — Kogane
+	custom_card_number: 1 — 004 • The Hours — Kogane
+	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Kogane

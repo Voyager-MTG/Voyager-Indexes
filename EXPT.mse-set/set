@@ -19,6 +19,7 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-altered:
+		frames: 
 		custom_symbol: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -26,6 +27,7 @@ styling:
 	magic-m15-altered-plus:
 		chop_top: 
 		chop_bottom: 
+		frames: 
 		other_options: auto nyx crowns
 		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -192,11 +194,7 @@ include_file: card edification
 include_file: card canyon crustacean
 include_file: card cowering lightbringer
 include_file: card fish token
-include_file: card castle of split lands
-include_file: card no-name
-include_file: card no-name.1
-include_file: card no-name.2
-include_file: card no-name.3
+include_file: card faulty recreation
 keyword:
 	keyword: Mirror
 	match: mirror

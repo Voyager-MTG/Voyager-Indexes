@@ -6,10 +6,10 @@ card:
 		!tag Terrel
 		Tricolor
 	time_created: 2025-02-24 00:28:39
-	time_modified: 2025-03-05 16:47:32
+	time_modified: 2025-07-01 21:16:19
 	name: Sacred Avenger
 	casting_cost: 1URW
-	image: image232.png
+	image: image598
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -25,7 +25,7 @@ card:
 	rule_text:
 		When <atom-cardname><nospellcheck>Sacred Avenger</nospellcheck></atom-cardname> enters, create three 1/1 blue Scout creature tokens.
 		Equipped creature is a 4/4 white Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
-		<kw-a><nospellcheck><key>Equip—<param-cost> <kw-1>Forsake</param-cost>.</key></nospellcheck></kw-a> <i-auto>(Sacrifice creatures with total toughness three or more.)</i-auto>
+		<kw-a><nospellcheck><key>Equip—<param-cost><kw-1>Forsake</param-cost>.</key></nospellcheck></kw-a> <i-auto>(Sacrifice creatures with total toughness three or more.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Even Amundsen
 	card_code_text: 

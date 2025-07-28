@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -14,7 +16,7 @@ card:
 	time_modified: 2025-03-03 20:12:42
 	name: Monarch-Wing Retainer
 	casting_cost: 4U
-	image: image148.png
+	image: image703
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

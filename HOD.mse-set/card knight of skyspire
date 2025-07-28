@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -14,7 +16,7 @@ card:
 	time_modified: 2025-03-05 16:37:24
 	name: Knight of Skyspire
 	casting_cost: 4W
-	image: image211.png
+	image: image667
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

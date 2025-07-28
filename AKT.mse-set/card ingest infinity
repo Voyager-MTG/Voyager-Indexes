@@ -22,7 +22,8 @@ card:
 	border_color: rgb(5,5,5)
 	name: Ingest Infinity
 	casting_cost: 3GG
-	image: image103.png
+	transformation: custom symbol one
+	image: image168
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
