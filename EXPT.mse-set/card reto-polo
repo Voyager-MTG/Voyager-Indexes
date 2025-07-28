@@ -29,7 +29,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>nonland permanent you don’t control</param-name></key></nospellcheck></kw-a>
-		As <atom-cardname><nospellcheck>Reto-Polo</nospellcheck></atom-cardname> enters choose a permanent you control.
+		As <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters choose a permanent you control.
 		Enchanted permanent is a copy of the chosen permanent.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anica Govedarica

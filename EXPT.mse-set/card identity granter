@@ -34,7 +34,7 @@ card:
 	loyalty_cost_2: -2
 	loyalty_cost_3: 
 	loyalty: 4
-	level_1_text: <margin:130:0:0>Put a loyalty counter on <atom-cardname><nospellcheck>Identity Granter</nospellcheck></atom-cardname> for each enchantment you control.</margin:130:0:0>
+	level_1_text: <margin:130:0:0>Put a loyalty counter on <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> for each enchantment you control.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Target enchantment becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.</margin:130:0:0>
 	level_3_text: 
 	level_4_text: 

@@ -195,6 +195,11 @@ include_file: card canyon crustacean
 include_file: card cowering lightbringer
 include_file: card fish token
 include_file: card faulty recreation
+include_file: card castle of split lands
+include_file: card castle
+include_file: card castle.1
+include_file: card castle.2
+include_file: card castle.3
 keyword:
 	keyword: Mirror
 	match: mirror
