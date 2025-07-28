@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/43ZXq
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-07-13 00:15:24
+	time_modified: 2025-07-27 18:15:04
 	name: Kaln-Ocean Seahorse
 	casting_cost: 2U
 	image: image470
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever one or more creatures you control attack, up to one target creature gets -X/-0, where X is the number of attacking creatures you control.
+		Whenever one or more creatures you control attack, up to one target creature gets -X/-0 until end of turn, where X is the number of attacking creatures you control.
 		Whenever you cast or copy a noncreature spell, create a 1/1 white Shark enchantment creature token.
 	rule_text_2: 
 	rule_text_3: 
