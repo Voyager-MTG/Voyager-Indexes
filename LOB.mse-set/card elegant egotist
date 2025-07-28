@@ -9,7 +9,7 @@ card:
 		font_cap: 13.5
 		d20_dividers: d20 mode
 		frames: 
-		altered_plus_frames: star, Yugioh Frame
+		altered_plus_frames: Yugioh Frame
 		name_color: default
 		popout_image_style_3: 
 		custom_symbol: abstract-061.png

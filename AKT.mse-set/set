@@ -23,6 +23,7 @@ styling:
 	magic-m15-altered-plus:
 		frames: 
 		altered_plus_frames: 
+		custom_symbol: MyrCustoms/Ith.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 

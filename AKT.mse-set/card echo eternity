@@ -1,12 +1,11 @@
 ﻿mse_version: 2.5.6
 card:
-	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		chop_top: 2
-		chop_bottom: 8
 		frames: lesson, frameless art
+		altered_plus_frames: 
 		custom_symbol: MyrCustoms/Ith.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -15,19 +14,23 @@ card:
 		BLUERARE08
 		AEONITERARECYC1
 	time_created: 2022-02-26 15:29:17
-	time_modified: 2025-03-19 00:42:53
+	time_modified: 2025-07-26 01:46:24
 	extra_data:
-		magic-m15-altered:
-			ascend: 
+		magic-m15-altered: ascend: 
+		magic-m15-altered-plus:
+			corner: custom
 	border_color: rgb(5,5,5)
 	name: Echo Eternity
 	casting_cost: 3UU
-	image: image165
+	image: image20.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
 	sub_type: <word-list-race-en>Erysite</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dragon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		<kw-1><nospellcheck><key>Transcend <param-cost><sym>1UUU</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of combat, cast your chosen Erysite from outside the game by paying its Transcend cost and exiling a Dragon creature you control.)</i-auto></atom-reminder-custom></kw-1>

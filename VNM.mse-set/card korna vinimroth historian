@@ -1,9 +1,25 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		font_cap: 13.5
+		d20_dividers: off
+		frames: 
+		altered_plus_frames: 
+		custom_symbol: 
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
 	notes: 
 	time_created: 2022-05-13 14:46:43
-	time_modified: 2025-07-21 03:17:17
+	time_modified: 2025-07-21 16:45:39
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: He/Him
@@ -18,8 +34,9 @@ card:
 	sub_type: <word-list-race-en>Wurm</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Entity</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Korna</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> is a creature, after this phase, there’s an additional combat phase where only enchantment creatures you control may attack.
-		<kw-1><nospellcheck><key>Materialize <param-number>6</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>6</param-number> or more: This also becomes an Icon creature until your next upkeep.)</i-auto></atom-reminder-custom></kw-1>
+		At the beginning of combat on your turn for the first time each turn, target creature you control gets +1/+1 until end of turn. If <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Korna</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> is a creature, after this phase, there’s an additional combat phase where only enchantment creatures you control may attack.
+		<kw-1><nospellcheck><key>Materialize <param-number>6</param-number></key></nospellcheck><soft-line><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>6</param-number> or more: This also becomes an Icon creature until your next upkeep.)</i-auto></atom-reminder-custom></kw-1>
+		</soft-line>
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: 
 	power: 6

@@ -23,7 +23,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
 		<kw-1><nospellcheck><key>Lifelink</key></nospellcheck><atom-reminder-core> <i-auto>(Damage dealt by this creature also causes you to gain that much life.)</i-auto></atom-reminder-core></kw-1>
-		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+1 as long as you’ve illuminated white or black.
+		<atom-name>This creature</atom-cardname> gets +1/+1 as long as you’ve illuminated white or black.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

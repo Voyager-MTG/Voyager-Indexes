@@ -2,22 +2,31 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
-	notes: !related Calamitous Koi;
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		altered_plus_frames: token
+		additional_options: framed, readable
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
 	time_created: 2023-07-20 22:44:33
-	time_modified: 2024-12-08 22:18:37
+	time_modified: 2025-07-28 00:48:35
 	name: Healing Counter
-	casting_cost: B
+	casting_cost: 
 	image: image229
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	super_type: <word-list-type-en>Token Reminder</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: 
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text: 
 	rule_text_2: 
@@ -25,7 +34,8 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	card_code_text: • Ahmad Alromeadheen
+	illustrator: Ahmad Alromeadheen
+	card_code_text: 
 	card_code_text_2: • Ahmad Alromeadheen
 	card_code_text_3: • Ahmad Alromeadheen
 	copyright: Set by Tvpattack

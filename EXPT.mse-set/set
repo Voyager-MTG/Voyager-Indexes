@@ -11,6 +11,7 @@ set_info:
 	set_language: EN
 	symbol: symbol2.mse-symbol
 	masterpiece_symbol: 
+	CARDNAME_replacement: card's type
 	custom_mana_symbol_name: MyrCustoms/Vertex.png
 	mana_symbol_options: enable in casting costs, enable in text boxes, colored mana symbols
 styling:
@@ -118,7 +119,7 @@ include_file: card wall token
 include_file: card xylem attendant
 include_file: card clifftop pishogue
 include_file: card malevolent knowledge
-include_file: card shadow eater
+include_file: card shadow ghoul
 include_file: card mirrored magic
 include_file: card siege crossbow
 include_file: card the demon within
@@ -191,6 +192,11 @@ include_file: card edification
 include_file: card canyon crustacean
 include_file: card cowering lightbringer
 include_file: card fish token
+include_file: card castle of split lands
+include_file: card no-name
+include_file: card no-name.1
+include_file: card no-name.2
+include_file: card no-name.3
 keyword:
 	keyword: Mirror
 	match: mirror

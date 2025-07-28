@@ -5,7 +5,7 @@ card:
 		!note hybrid
 		!addtoken Blue Drake Token;2;
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-12 16:47:22
+	time_modified: 2025-07-21 17:20:45
 	name: Aerial Roost
 	casting_cost: 2U/BU/B
 	image: image114.png
@@ -19,7 +19,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Once each turn, when a spell or ability puts one or more card into your hand, you may create two 1/1 blue Drake creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.
+	rule_text: Once each turn, when a spell or ability puts one or more cards into your hand, you may create two 1/1 blue Drake creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The wild drakes often circle the skies around the rifts in unclaimed territory. Its often no surprise that those areas stay unclaimed.</i-flavor>

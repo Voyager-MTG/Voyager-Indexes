@@ -16,7 +16,7 @@ card:
 		!gold
 		!noborder
 	time_created: 2023-03-04 21:20:43
-	time_modified: 2025-07-02 23:22:49
+	time_modified: 2025-07-23 21:48:14
 	name: Reflection Tender
 	alias: Weather Control
 	casting_cost: IW
@@ -32,8 +32,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>
-		Creature tokens you control get +1/+1 and have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Creature tokens you control get +1/+1.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Its visage visits your vision.</i-flavor>

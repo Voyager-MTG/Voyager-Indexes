@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-07-21 04:32:43
+	time_modified: 2025-07-21 17:20:21
 	special_text: 
 	name: Accord Mentor
 	casting_cost: 1W/UW/U
@@ -39,7 +39,7 @@ card:
 		<sym-auto>2IW/U</sym-auto>: Exile another target creature you control. Return it to the battlefield at the beginning of the next end step.
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor>“In ages past, we failed to protect your world from a hunger that festers still among us. We must protect our peace from it.”</i-flavor>
+	flavor_text: <i-flavor>“In ages past, we failed to protect your world from a hunger that festers among us.”</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 2
