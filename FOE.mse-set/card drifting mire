@@ -8,7 +8,7 @@ card:
 		!noborder
 		</soft-line>
 	time_created: 2024-02-11 19:36:31
-	time_modified: 2025-03-30 16:11:22
+	time_modified: 2025-07-28 04:12:08
 	card_color: black, land, multicolor
 	name: Drifting Mire
 	image: image275
@@ -35,7 +35,7 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: Alessandro Emanuelli
 	custom_card_number: 0018
-	card_code_text: • Designed by TVP for FOE
+	card_code_text: 
 	card_code_text_2: • Designed by TVP for FOE
 	card_code_text_3: • Designed by TVP for FOE
 	copyright: Set by Tvpattack

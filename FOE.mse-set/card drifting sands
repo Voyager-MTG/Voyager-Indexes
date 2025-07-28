@@ -14,7 +14,7 @@ card:
 		!noborder
 		</soft-line>
 	time_created: 2024-02-11 19:36:31
-	time_modified: 2025-03-30 16:11:39
+	time_modified: 2025-07-28 04:11:59
 	card_color: land, multicolor
 	name: Drifting Sands
 	image: image277
@@ -41,7 +41,7 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: Alessandro Emanuelli
 	custom_card_number: 0022
-	card_code_text: • Designed by TVP for FOE
+	card_code_text: 
 	card_code_text_2: • Designed by TVP for FOE
 	card_code_text_3: • Designed by TVP for FOE
 	copyright: Set by Tvpattack
