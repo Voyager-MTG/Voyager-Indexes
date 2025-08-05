@@ -3,8 +3,8 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-10-06 16:47:04
-	time_modified: 2024-11-23 15:17:06
-	card_color: land, multicolor
+	time_modified: 2025-08-04 22:59:17
+	card_color: land
 	name: Shifting Spire
 	image: image427
 	image_2: 
@@ -19,8 +19,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym>1</sym>, <sym-auto>T</sym-auto>: Add one mana of any color.
-		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Search your sanctum for a land card, then put it onto the battlefield tapped.
+		<sym-auto>T</sym-auto>, Sacrifice this land: Search your sanctum for a land card, then put it onto the battlefield tapped. Activate only as a sorcery
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
