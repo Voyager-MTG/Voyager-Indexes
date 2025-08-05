@@ -7,7 +7,7 @@ card:
 		!related Skycliff Densattach>;
 		!addtoken Skycliff Dens;transform;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-14 15:48:38
+	time_modified: 2025-08-04 21:10:26
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -30,7 +30,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		When this enchantment enters, if you cast it and you have less than three cards in hand, draw cards until you have three cards.
+		When this enchantment enters, if you cast it and you have fewer than three cards in hand, draw cards equal to the difference.
 		<sym-auto>2U</sym-auto>: Transform this realm.
 	rule_text_2: Creatures your opponent control get -1/-0.
 	rule_text_3: 

@@ -16,9 +16,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: #updated
 	time_created: 2024-02-06 01:56:27
-	time_modified: 2025-03-19 23:07:15
+	time_modified: 2025-08-04 19:00:14
 	name: Upsurge Nemato-Gnathi
 	casting_cost: 2UR
 	casting_cost_2: 
@@ -30,7 +30,7 @@ card:
 	sub_type: <word-list-race-en>Fish</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Entity</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When this enchantment enters, whenever you cast your next noncreature spell this turn, copy it. You may choose new targets for the copy.
+		When this enchantment enters, when you cast your next noncreature spell this turn, copy it. You may choose new targets for the copy.
 		<sym-auto>1UR</sym-auto>: This enchantment also becomes an Icon creature until end of turn.
 		<kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>1U/R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-07-07 01:41:14
+	time_modified: 2025-08-04 20:39:45
 	name: Murkross’s Hold
 	casting_cost: 2G
 	image: image325
@@ -23,7 +23,7 @@ card:
 		As an additional cost to cast this spell, exile an instant or sorcery card from your graveyard.
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature gets +4/+4. 
-		Instant and sorcery spells you control that target enchanted permanent cost <sym-auto>3</sym-auto> less to cast. 
+		Instant and sorcery spells you cast that target enchanted permanent cost <sym-auto>3</sym-auto> less to cast. 
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

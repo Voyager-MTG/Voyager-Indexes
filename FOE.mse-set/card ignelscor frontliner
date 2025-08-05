@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-20 00:02:10
+	time_modified: 2025-08-04 19:33:05
 	name: Ignelscor Frontliner
 	casting_cost: 3RG
 	image: image169
@@ -27,7 +27,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		You may look at the top card of your library at any time and you may play land cards from the top of your library. 
-		At the beginning of combat on each turn, if a land entered under your control this turn,  put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		At the beginning of combat on each turn, if a land entered under your control this turn, put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
