@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-19 23:56:50
+	time_modified: 2025-08-04 20:09:49
 	name: Virulent Attendant
 	name_2: Growth is for All
 	casting_cost: 1G
@@ -39,7 +39,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever this creature attacks with one or more other creatures, until end of turn, target attacking creature you control gets +1/+1.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> and at least one other creature attack, until end of turn, target attacking creature you control gets +1/+1.
 	rule_text_2: Put a +1/+1 counter on each of up to X target creatures. <i-auto>(Then put this card into your sanctum.)</i-auto>
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

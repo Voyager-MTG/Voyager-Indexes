@@ -462,7 +462,6 @@ include_file: card called to eternity
 include_file: card shifting dream
 include_file: card abandoned sanctum
 include_file: card parallellism
-include_file: card kalim shivtas ear
 include_file: card avlod charm
 include_file: card gluttony
 include_file: card personal sins
@@ -521,6 +520,7 @@ include_file: card miori outlands future
 include_file: card terramorphic singularity
 include_file: card form of the paths
 include_file: card stinging surveyor
+include_file: card kalim shivtas ear
 keyword:
 	keyword: Luminous
 	match: Luminous

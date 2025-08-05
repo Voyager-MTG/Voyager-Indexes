@@ -1,9 +1,14 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: https://www.artstation.com/artwork/PeBDVo
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-07-03 00:41:30
+	time_modified: 2025-08-04 20:57:43
 	name: Magic of Ignelscor
 	casting_cost: 3B
 	image: image108
@@ -21,7 +26,7 @@ card:
 	rarity: rare
 	rule_text:
 		At the beginning of your upkeep, choose one—
-		<li><bullet>• </bullet>Create a 3/1 black and red Demon creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>. put a <kw-A><nospellcheck><key>decayed</key></nospellcheck> counter on it.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		<li><bullet>• </bullet>Create a 3/1 black and red Demon creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. put a <kw-A><nospellcheck><key>decayed</key></nospellcheck> counter on it.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 		</li><li><bullet>• </bullet>Sacrifice a permanent. Each opponent discards a card of their choice and you draw a card.</li>
 	rule_text_2: 
 	rule_text_3: 

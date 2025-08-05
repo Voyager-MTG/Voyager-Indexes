@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: #updated
 	time_created: 2025-04-01 13:28:46
-	time_modified: 2025-04-01 13:46:54
+	time_modified: 2025-08-04 19:34:57
 	name: Idol of Reconstruction
 	casting_cost: GW
 	image: image451
@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		When this artifact enters, exile any number of creature cards with mana value 3 or less from your sanctum until this artifact leaves the battlefield.
-		<sym-auto>GW</sym-auto>, <sym-auto>T</sym-auto>: Until end of turn, you may cast a creature card from among cards exiled with this artifact without paying its mana cost.
+		<sym-auto>GW</sym-auto>, <sym-auto>T</sym-auto>: Until end of turn, you may cast a creature spell from among cards exiled with this artifact without paying its mana cost.
 	flavor_text: <i-flavor><error-spelling:en_US>Meirel</error-spelling:en_US> may not be totally lost...</i-flavor>
 	illustrator: Vasiliy Ivanov
 	card_code_text: 

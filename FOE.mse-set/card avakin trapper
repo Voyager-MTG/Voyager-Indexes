@@ -17,7 +17,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-19 23:58:21
+	time_modified: 2025-08-04 21:05:12
 	name: Avakin Trapper
 	casting_cost: 2B
 	image: image41
@@ -31,7 +31,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: Whenever this creature attacks, sacrifice a nonland permanent. If you do, draw a card.
+	rule_text: Whenever this creature attacks, you may sacrifice a nonland permanent. If you do, draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“Yes yes, you wanted coin! That I do have yes, though you’ll need something of equal value. How about the peculiar creature with you? It’ll fetch for much.” </i-flavor>

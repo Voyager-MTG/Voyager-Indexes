@@ -5,7 +5,9 @@ card:
 	has_styling: true
 	styling_data:
 		dfc_type: modal with standard flags
-		back_chop: 0,14
+		shrink_name_text: 2
+		front_chop: 0,11
+		back_chop: 2,15
 		other_options: use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font

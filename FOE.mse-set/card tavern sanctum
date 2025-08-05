@@ -17,9 +17,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: tavern
+	notes:
+		tavern
+		#updated
 	time_created: 2024-07-01 22:34:42
-	time_modified: 2025-03-22 16:32:07
+	time_modified: 2025-08-04 18:43:50
 	card_color: land, multicolor
 	name: Tavern Sanctum
 	image: image269
@@ -31,7 +33,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-A><i-auto><nospellcheck><key>Imprint</key></nospellcheck></i-auto></kw-A> — When this land enters, you may exile a card that’s one or more colors from your hand.
-		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. If a card is exiled with this land, you may add one mana from among the exiled cards colors instead.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto> or one mana of any of the exiled card’s colors.
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Return the exiled card to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Yura Gvozdenko

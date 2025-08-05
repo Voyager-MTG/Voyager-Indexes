@@ -15,11 +15,13 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: https://www.artstation.com/artwork/ykA99
+	notes:
+		https://www.artstation.com/artwork/ykA99<soft-line>
+		#updated</soft-line>
 	time_created: 2023-10-13 21:24:47
-	time_modified: 2025-03-22 16:31:08
+	time_modified: 2025-08-04 20:18:58
 	name: Forgiving Monument
-	casting_cost: 3
+	casting_cost: 6
 	image: image381
 	image_2: 
 	mainframe_image: 
@@ -32,7 +34,7 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		When this enchantment enters, search your library for a colorless card not named <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>, reveal it, put it into your hand, then shuffle.
+		When this enchantment enters, search your library for a colorless card not named Forgiving Monument, reveal it, put it into your hand, then shuffle.
 		At the beginning of your first main phase, add <sym-auto>CC</sym-auto>. You can’t spend this mana to cast spells that aren’t mana value 5 or greater.
 	rule_text_2: 
 	rule_text_3: 

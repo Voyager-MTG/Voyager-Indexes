@@ -16,9 +16,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: #updated
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2024-11-02 20:10:08
+	time_modified: 2025-08-04 20:25:27
 	name: Ranging Symbiote
 	casting_cost: G
 	image: image347
@@ -32,7 +32,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Whenever one or more counters are put on a nonland permanent you control not named <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, if it’s the first time a counter has been put on that permanent this turn, put a +1/+1 counter on this creature.
+	rule_text: Whenever one or more counters are put on a nonland permanent not named Ranging <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Symbiote</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control, if it’s the first time counters have been put on that permanent this turn, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
