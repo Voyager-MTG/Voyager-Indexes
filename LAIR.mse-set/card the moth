@@ -14,7 +14,7 @@ card:
 		!taglairauthor> kogane
 		!designer Kogane
 	time_created: 2023-07-21 13:23:00
-	time_modified: 2025-05-16 20:15:59
+	time_modified: 2025-07-26 16:47:26
 	name: The Moth
 	casting_cost: 3BG
 	image: image3
@@ -41,7 +41,8 @@ card:
 	power: 3
 	toughness: 4
 	illustrator: Valun
-	card_code_text: • The Hours — Kogane
+	custom_card_number: 1 — 003 • The Hours — Kogane
+	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Kogane

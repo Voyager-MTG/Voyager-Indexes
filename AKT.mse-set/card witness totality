@@ -15,13 +15,14 @@ card:
 		REDRARE
 		AEONITERARECYC1
 	time_created: 2022-02-26 15:29:17
-	time_modified: 2025-03-19 00:42:47
+	time_modified: 2025-07-27 09:42:30
 	extra_data:
 		magic-m15-altered:
 			ascend: 
 	border_color: rgb(5,5,5)
 	name: Witness Totality
 	casting_cost: 3RR
+	transformation: custom symbol one
 	image: image159
 	image_2: 
 	mainframe_image: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-03-30 22:04:17
-	time_modified: 2025-03-01 15:17:22
+	time_modified: 2025-07-21 15:25:18
 	name: The Great Tear
 	casting_cost: 4WW
 	image: image223
@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		Exile all creatures and planeswalkers.
-		<sym-auto>2WW</sym-auto>, Discard <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>: Exile target creature or planeswalker.
+		<sym-auto>2WW</sym-auto>, Discard this: Exile target creature or planeswalker.
 	flavor_text:
 		<i-flavor>“And in an instant, a hole opened in the sky. <error-spelling:en_US>Urza</error-spelling:en_US> had torn our world, and left us to repair it.”<soft-line>
 		—Retelling by <error-spelling:en_US>Korna</error-spelling:en_US>, <error-spelling:en_US>Vinimroth</error-spelling:en_US> Historian</soft-line></i-flavor>

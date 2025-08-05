@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -14,10 +16,10 @@ card:
 		!tag Waldemar
 		!tag HODStory
 	time_created: 2025-02-24 00:31:14
-	time_modified: 2025-03-05 03:00:38
+	time_modified: 2025-03-05 02:00:38
 	name: Vindictive Spiral
 	casting_cost: 1UB
-	image: image235.png
+	image: image568
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

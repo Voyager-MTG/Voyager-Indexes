@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: https://www.instagram.com/digitalrowye/?hl=en
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-03-31 18:16:35
+	time_modified: 2025-07-07 12:02:11
 	card_color: red
 	name: Vampire Hemoblade
 	casting_cost: 1R
-	image: image170
+	image: image599
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -17,7 +17,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
-	flavor_text: <i-flavor>FT</i-flavor>
+	flavor_text: <i-flavor>“One drop is all I need to cut you down.”</i-flavor>
 	power: 2
 	toughness: 1
 	illustrator: Roger Creus

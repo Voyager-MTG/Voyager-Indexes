@@ -17,7 +17,7 @@ card:
 		
 		Vengeful Sangrablade or Vampiric Paragon
 	time_created: 2022-05-11 14:43:03
-	time_modified: 2025-06-23 07:49:01
+	time_modified: 2025-06-11 15:22:29
 	special_text:
 		Once during each of your turns, when an opponent loses life, you may gain that much life.
 		[+1]: <margin:130:0:0>Create a 3/1 white Vampire Soldier creature token.</margin:130:0:0>
@@ -25,7 +25,7 @@ card:
 		[-7]: <margin:130:0:0>Until end of turn, <atom-legname><nospellcheck>Sorin</nospellcheck></atom-legname> becomes an X/X legendary Vampire creature with <kw-0><nospellcheck><key>protection from <param-name>everything, where X is your life total.</param-name></key></nospellcheck></kw-0> <i-auto>(This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything until end of turn)</i-auto></margin:130:0:0>
 	name: Sorin, Vengeful Sangrablade
 	casting_cost: 3WW
-	image: image472
+	image: image748
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

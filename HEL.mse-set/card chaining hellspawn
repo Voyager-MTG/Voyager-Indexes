@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: https://www.instagram.com/p/BzGL86Zl8l3/
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2025-05-07 15:59:02
+	time_modified: 2025-07-14 20:56:19
 	card_color: black
 	name: Chaining Hellspawn
 	casting_cost: 3BB
-	image: image494
+	image: image770
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +18,7 @@ card:
 		<kw-A><nospellcheck><key>Pact</key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		Whenever a creature you control with a <kw-0><nospellcheck><key>pact</key></nospellcheck></kw-0> counter on it dies, target player discards a card.
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>A taskmaster of torment and hellfire.</i-flavor>
 	power: 5
 	toughness: 5
 	illustrator: Jim_pavelec

@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: !tag Dewold
 	time_created: 2025-02-25 12:11:13
-	time_modified: 2025-04-30 15:52:33
+	time_modified: 2025-04-29 15:24:02
 	name: Hopeful Spouse
 	casting_cost: W
-	image: image129.png
+	image: image697
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,10 +18,10 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: When <atom-cardname><nospellcheck>Hopeful Spouse</nospellcheck></atom-cardname> enters, create a 2/1 red Soldier creature token <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>Hopeful Spouse</nospellcheck></atom-cardname> enters, choose a name. Create a 2/1 red Soldier creature token <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
-		<i-flavor>“Remember that with all of my heart, I love you. When this petty squabble is over, I will rejoin you back home.”<soft-line>
-		</soft-line>—Last in the letters to <error-spelling:en_US>Bryanna</i-flavor></error-spelling:en_US>
+		<i-flavor>“I will always love you. When this petty squabble is over, I will return to you.”<soft-line>
+		—Last in the letters to <error-spelling:en_US>Bryanna</soft-line></i-flavor></error-spelling:en_US>
 	power: 1
 	toughness: 1
 	illustrator: Viviane Souza

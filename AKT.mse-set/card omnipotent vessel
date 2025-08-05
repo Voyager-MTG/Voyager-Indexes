@@ -16,9 +16,10 @@ card:
 		AEONITEUNCOMMONCYCLE
 		UB07
 	time_created: 2022-02-26 15:29:17
-	time_modified: 2025-03-19 00:42:15
+	time_modified: 2025-07-27 09:41:28
 	name: Omnipotent Vessel
 	casting_cost: 5BB
+	transformation: custom symbol one
 	image: image140
 	image_2: 
 	mainframe_image: 

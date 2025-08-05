@@ -13,7 +13,7 @@ card:
 		GREENCOMMON
 		CG06
 	time_created: 2021-10-10 04:09:00
-	time_modified: 2024-11-08 13:40:36
+	time_modified: 2025-07-27 08:22:02
 	name: Humongous Detritivore
 	casting_cost: 2G
 	image: image63
@@ -25,7 +25,7 @@ card:
 	rarity: common
 	rule_text:
 		When <atom-cardname><nospellcheck>Humongous Detritivore</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		<atom-cardname><nospellcheck>Humongous Detritivore</nospellcheck></atom-cardname> gets +2/+1 if there are eight or more cards in your graveyard.
+		<atom-cardname><nospellcheck>Humongous Detritivore</nospellcheck></atom-cardname> gets +2+1 as long as there are eight or more cards in your graveyard.
 	flavor_text: <i-flavor>Nothing in <error-spelling:en_US>Primivir</error-spelling:en_US> can go to waste.</i-flavor>
 	power: 2
 	toughness: 3

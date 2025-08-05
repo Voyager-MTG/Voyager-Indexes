@@ -16,9 +16,9 @@ card:
 		SOLDIERTYPE
 		OTHERUNCOMMON
 	time_created: 2023-02-07 02:26:54
-	time_modified: 2024-01-13 04:15:39
+	time_modified: 2025-07-24 20:26:37
 	name: Northern Tactics
-	casting_cost: 3RW
+	casting_cost: R/W
 	image: image123
 	image_2: 
 	mainframe_image: 
@@ -27,8 +27,8 @@ card:
 	sub_type: <word-list-race-en>Soldier</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		Untap each creature that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
-		Tap two untapped creatures you control, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-legname><nospellcheck>Northern Tactics</nospellcheck></atom-legname> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Soldier you control dealt damage to an opponent.)</i-auto>
+		Create a 1/1 white Soldier creature token.
+		Tap two untapped creatures you control, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-legname><nospellcheck>Northern Tactics</nospellcheck></atom-legname> from your hand: Create a 1/1 white Soldier creature token. <i-auto>(Exile it. You may play it on a later turn that a Soldier you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Micheal Adamidis
 	card_code_text: 

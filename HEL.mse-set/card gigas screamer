@@ -3,21 +3,27 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/b58gE
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-03-31 16:05:21
+	time_modified: 2025-07-14 20:49:06
 	card_color: blue
 	name: Gigas Screamer
 	casting_cost: 5UU
-	image: image74
+	image: image573
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Nightmare</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text:
 		When this creature enters, draw a card.
 		<sym-auto>2U</sym-auto>, Discard this card: Create two 1/1 blue Merfolk Horror creature tokens. Activate only as a sorcery.
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>The <error-spelling:en_US>merfolk</error-spelling:en_US> of <error-spelling:en_US>Hwel</error-spelling:en_US> were quickly subjugated when <error-spelling:en_US>Orbisfaber</error-spelling:en_US> rose to power, tormented amalgams he delighted in corrupting.</i-flavor>
 	power: 6
 	toughness: 5
 	illustrator: Fares Maese

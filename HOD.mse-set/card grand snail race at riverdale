@@ -5,10 +5,10 @@ card:
 		!tag Dewold
 		!tag Rivers
 	time_created: 2025-02-24 00:35:24
-	time_modified: 2025-03-05 20:10:28
+	time_modified: 2025-07-01 21:14:36
 	name: Grand Snail Race at Riverdale
 	casting_cost: 1U
-	image: image160.png
+	image: image530
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,7 +23,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever a creature you control dies, exile the top three cards of each opponent’s library.
-		<sym-auto>2</sym-auto>: If there are 12 or more cards exiled by <atom-cardname><nospellcheck>Grand Snail Race at Riverdale</nospellcheck></atom-cardname>, it becomes a 5/5 blue Snail creature until end of turn.
+		<sym-auto>2</sym-auto>: If there are twelve or more cards exiled by <atom-cardname><nospellcheck>Grand Snail Race at Riverdale</nospellcheck></atom-cardname>, it becomes a 5/5 blue Snail creature until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sam Keiser
 	card_code_text: 

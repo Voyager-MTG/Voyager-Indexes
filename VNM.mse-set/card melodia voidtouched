@@ -8,7 +8,7 @@ card:
 		!exportname Melodia Voidtouched
 		!addtoken Blue Drake Token;
 	time_created: 2022-05-03 23:46:32
-	time_modified: 2025-07-12 16:38:55
+	time_modified: 2025-07-27 18:13:35
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: She/Her
@@ -23,8 +23,8 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When this creature enters, create a 1/1 blue Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block”.
-		Whenever a creature token you control attacks, it gets +2/+1 until end of turn.
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Melodia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, create a 1/1 blue Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block”.
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Melodia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, attacking creature tokens you control get +2/+1 until end of turn
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/xZRD2
 	time_created: 2022-04-27 11:47:01
-	time_modified: 2025-02-05 19:44:02
+	time_modified: 2025-07-12 20:52:29
 	card_color: white, blue, multicolor, horizontal
 	name: Provoking the Masses
 	casting_cost: 1WU
-	image: image411
+	image: image687
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -17,7 +17,7 @@ card:
 	rule_text: Until end of turn, creatures you control get +2/+0 and gain “When this creature deals combat damage to a player, draw a card.”
 	flavor_text:
 		<i-flavor>“Come, The horde has started. The time to strike <error-spelling:en_US>Zeramander</error-spelling:en_US> is now or never!”<soft-line>
-		— <error-spelling:en_US>Kinnamon’s</error-spelling:en_US> orders.</soft-line></i-flavor>
+		—<error-spelling:en_US>Kinnamon’s</error-spelling:en_US> orders.</soft-line></i-flavor>
 	watermark: none
 	power: 
 	toughness: 

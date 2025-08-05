@@ -10,7 +10,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-10-02 17:08:43
-	time_modified: 2025-03-01 19:05:37
+	time_modified: 2025-07-24 20:21:08
 	name: Warden of Scorching Days
 	casting_cost: 3RR
 	image: image85
@@ -21,7 +21,7 @@ card:
 	sub_type: <word-list-race-en>God</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-0><nospellcheck><key>Impending <param-number>5</param-number>—<param-cost><sym>R</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)</i-auto>
+		<kw-0><nospellcheck><key>Impending <param-number>4</param-number>—<param-cost><sym>1R</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)</i-auto>
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		Whenever <atom-cardname><nospellcheck>Warden of Scorching Days</nospellcheck></atom-cardname> enters or attacks, discard a card, then draw a card.
 	flavor_text: <i-flavor></i-flavor>

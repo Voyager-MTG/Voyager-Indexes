@@ -6,10 +6,10 @@ card:
 		
 		Sorcery clause
 	time_created: 2022-05-20 00:58:43
-	time_modified: 2025-03-31 16:07:45
+	time_modified: 2025-07-14 21:03:24
 	name: Unhinged Giant
 	casting_cost: 5R
-	image: image398
+	image: image674
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +18,7 @@ card:
 	rule_text:
 		When this creature enters, exile the top card of your library. You may play it until the end of your next turn.
 		<sym-auto>1R</sym-auto>, Discard this card: It deals 2 damage to any target.
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>Each piece of rotten flesh that drops crushes the ground beneath as if it were a boulder.</i-flavor>
 	power: 5
 	toughness: 4
 	illustrator: Rick Troula

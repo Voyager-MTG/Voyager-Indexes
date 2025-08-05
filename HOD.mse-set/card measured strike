@@ -6,10 +6,10 @@ card:
 		!tag Wulfric
 		!tag Hook
 	time_created: 2025-02-25 12:10:23
-	time_modified: 2025-03-03 18:18:42
+	time_modified: 2025-07-01 21:13:25
 	name: Measured Strike
 	casting_cost: 3R
-	image: image85.png
+	image: image675
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,7 +22,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		As an additional cost to cast this spell, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do it costs <sym-auto>3</sym-auto> less to cast.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
+		As an additional cost to cast this spell, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do, it costs <sym-auto>3</sym-auto> less to cast.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
 		<atom-cardname><nospellcheck>Measured Strike</nospellcheck></atom-cardname> deals 4 damage to any target.
 	flavor_text:
 		<i-flavor>“Everything requires sacrifice. Only when you are gone will people truly see what you achieved.”<soft-line>

@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -12,13 +14,13 @@ card:
 		!tag Nye
 		!tag Lodema
 	time_created: 2025-02-24 00:35:24
-	time_modified: 2025-03-05 15:47:31
+	time_modified: 2025-07-15 12:34:33
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
 	name: Lodema, Diamond of the Nye
 	casting_cost: 1U
-	image: image25.png
+	image: image527
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -34,7 +36,7 @@ card:
 	rule_text:
 		<atom-legname><nospellcheck>Lodema</nospellcheck></atom-legname> can’t be blocked.
 		Whenever one or more creatures you control deal combat damage to a player, put that many theft counters on <atom-legname><nospellcheck>Lodema</nospellcheck></atom-legname>.
-		<sym-auto>2U</sym-auto>, Remove X theft counters from <atom-legname><nospellcheck>Lodema</nospellcheck></atom-legname>: <kw-0><nospellcheck><key>Surveil <param-number>X</param-number></key></nospellcheck></kw-0>, then draw a card. 
+		<sym-auto>2U</sym-auto>, Remove X theft counters from <atom-legname><nospellcheck>Lodema</nospellcheck></atom-legname>: <kw-0><nospellcheck><key>Surveil <param-number>X</param-number></key></nospellcheck></kw-0>, then draw a card. X can’t be 0. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

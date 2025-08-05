@@ -12,11 +12,11 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/witopia/art/deal-with-the-devil-V2-987753865
 	time_created: 2022-05-11 14:43:03
-	time_modified: 2025-02-11 19:16:05
+	time_modified: 2025-07-14 19:55:57
 	card_color: red
 	name: Davriel’s Dealbroker
 	casting_cost: RR
-	image: image372
+	image: image648
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -26,8 +26,8 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
 		<sym-auto>R</sym-auto>: This creature gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
-		Whenever this creature deals combat damage to a player, you may discard a card. If you do, exile the top three cards of your library. You may play cards exiled this way until end of turn.
-	flavor_text: <i-flavor>No cost too great to circumvent.</i-flavor>
+		Whenever this creature deals combat damage to a player, you may discard a card. If you do, exile the top three cards of your library. Until end of turn, you may cast spells from among those exiled cards.
+	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
 	illustrator: Witopia

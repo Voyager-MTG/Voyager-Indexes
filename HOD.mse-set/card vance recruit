@@ -5,10 +5,10 @@ card:
 		!tag Dewold
 		!tag Vance
 	time_created: 2025-02-25 12:10:23
-	time_modified: 2025-03-05 14:50:22
+	time_modified: 2025-07-15 18:06:06
 	name: Vance Recruit
 	casting_cost: 3B
-	image: image172.png
+	image: image674
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		When <atom-cardname><nospellcheck>Vance Recruit</nospellcheck></atom-cardname> enters, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
-		<sym-auto>1U/RU/R</sym-auto>, Exile <atom-cardname><nospellcheck>Vance Recruit</nospellcheck></atom-cardname> from your graveyard: You draw two cards and you lose 2 life.
+		<sym-auto>2U/R</sym-auto>, Exile <atom-cardname><nospellcheck>Vance Recruit</nospellcheck></atom-cardname> from your graveyard: You draw a card and you lose 1 life.
 	flavor_text: <i-flavor>“In House Vance, I see greatness and a way to achieve my potential.”</i-flavor>
 	power: 3
 	toughness: 3

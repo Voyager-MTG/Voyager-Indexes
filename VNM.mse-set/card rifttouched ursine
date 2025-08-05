@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-03-01 15:15:07
+	time_modified: 2025-07-21 01:49:45
 	card_color: green
 	name: Rifttouched Ursine
 	casting_cost: 1G
@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
-		Creatures you control get +1/+1 if you’ve illuminated green.
+		Creatures you control get +1/+1 as long as you’ve illuminated green.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/aY3Kq2
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-03-31 15:16:42
+	time_modified: 2025-07-03 12:31:07
 	card_color: white
 	name: Smoke Whisperer
 	casting_cost: 4W
-	image: image23
+	image: image560
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -16,7 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Spectacle <param-cost><sym-auto>3W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)</i-auto></atom-reminder-expert></kw-A>
-		When this creature enters, you may exile another target creature. Return it to the battlefield under its owners control at the beginning of the next end step.
+		When this creature enters, you may exile another target creature. Return it to the battlefield under its owner’s control at the beginning of the next end step.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3

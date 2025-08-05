@@ -5,7 +5,7 @@ card:
 		UM19
 		ARCUNSET2
 	time_created: 2022-01-29 20:39:37
-	time_modified: 2022-08-18 07:13:56
+	time_modified: 2025-07-27 08:19:03
 	name: Erfex Summons
 	casting_cost: 1BG
 	image: image219
@@ -15,7 +15,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
-	rule_text: You may cast copies of spells from your graveyard with mana value equal to your <kw-A><nospellcheck><key>complexity</key></nospellcheck>. As an additional cost to cast spells this way, exile that card from your graveyard. <atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: You may cast copies of spells from your graveyard with mana value equal to your <kw-A><nospellcheck><key>complexity</key></nospellcheck>. As an additional cost to cast spells this way, exile that card from your graveyard.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Déborah Maradan
 	card_code_text: 

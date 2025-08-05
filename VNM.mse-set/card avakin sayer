@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-07-12 16:30:08
+	time_modified: 2025-07-21 04:40:55
 	card_color: blue
 	name: Avakin Sayer
 	casting_cost: 2U
@@ -34,7 +34,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Once each turn, when a spell or ability puts a card into your hand, put a +1+1 counter on this creature.
+	rule_text: Once each turn, when a spell or ability puts a card into your hand, put a +1/+1 counter on this creature.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The Elves lost their connection to green <error-spelling:en_US>mana</error-spelling:en_US> after being infused with <error-spelling:en_US>Vinimroth’s</error-spelling:en_US> <error-spelling:en_US>worldsoul</error-spelling:en_US>. As a result, they used their collective knowledge of <error-spelling:en_US>Urza’s</error-spelling:en_US> machinations to help empower the <error-spelling:en_US>Avakin</error-spelling:en_US>.</i-flavor>

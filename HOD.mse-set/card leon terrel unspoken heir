@@ -15,13 +15,13 @@ card:
 		!tag Terrel
 		!tag Leon
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-03-05 17:23:56
+	time_modified: 2025-07-15 17:57:09
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
 	name: Leon Terrel, Unspoken Heir
 	casting_cost: 4W
-	image: image54.png
+	image: image419
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -36,9 +36,9 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		Other creatures you control get +2/+1.
+		Other creature tokens you control get +1/+1 and have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Heir—<param-name>You’ve created seven or more tokens this game.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Heir—<param-name>You’ve created five or more tokens with different names this game.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto></atom-reminder-expert></kw-A>
 	power: 3
 	toughness: 3
 	illustrator: Catalin Lartist

@@ -5,7 +5,7 @@ card:
 		CG08
 		GREENCOMMON
 	time_created: 2021-10-01 20:19:49
-	time_modified: 2022-06-01 00:33:28
+	time_modified: 2025-07-27 08:21:45
 	name: Elder Gigantops
 	casting_cost: 3G
 	image: image62
@@ -14,7 +14,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Ape</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: <atom-cardname><nospellcheck>Elder Gigantops</nospellcheck></atom-cardname> gets +2/+2 if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: <atom-cardname><nospellcheck>Elder Gigantops</nospellcheck></atom-cardname> gets +2/+2 as long as your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>It puts the “<error-spelling:en_US>bam</error-spelling:en_US>” in bamboo.</i-flavor>
 	power: 4
 	toughness: 3

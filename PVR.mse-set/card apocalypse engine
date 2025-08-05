@@ -13,7 +13,7 @@ card:
 		SPOTLIGHT
 		BLACKRARE8
 	time_created: 2022-01-24 11:30:55
-	time_modified: 2023-03-12 08:51:33
+	time_modified: 2025-07-27 08:17:31
 	name: Apocalypse Engine
 	casting_cost: 5BB
 	image: image135
@@ -23,7 +23,7 @@ card:
 	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: mythic rare
-	rule_text: At the beginning of each player’s upkeep, that player exiles a card in their hand or a permanent they control four times. If they can’t, they lose 100 life.
+	rule_text: At the beginning of each player’s upkeep, that player exiles a card from their hand or a permanent they control four times. If they can’t, they lose 100 life.
 	flavor_text: <i-flavor><error-spelling:en_US>Prawth’s</error-spelling:en_US> schemes were now irreversible.</i-flavor>
 	watermark: other magic symbols color spotlight
 	illustrator: Ali Hoff

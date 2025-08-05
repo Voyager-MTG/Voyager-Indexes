@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 21:29:48
+	time_modified: 2025-07-21 05:06:12
 	card_color: white
 	name: Shining Idol
 	casting_cost: 1W
@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</i></key></nospellcheck></i-auto></kw-A> — Whenever this creature attacks or blocks, if you cast a noncreature spell this turn, you gain 2 life.
+	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</i></key></nospellcheck></i-auto></kw-A> — Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks or blocks, you gain 2 life as long as you cast a noncreature spell this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>There are very few Icons that join clans, but the few that do are among the most powerful.</i-flavor>

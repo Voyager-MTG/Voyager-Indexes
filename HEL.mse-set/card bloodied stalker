@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/3qZQv
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-03-31 15:29:33
+	time_modified: 2025-07-03 12:32:33
 	card_color: blue
 	name: Bloodied Stalker
 	casting_cost: 2U
-	image: image71
+	image: image572
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -16,7 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Spectacle <param-cost><sym-auto>U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)</i-auto></atom-reminder-expert></kw-A>
-		Creatures with power greater than this creature can’t block it.
+		This creature can’t be blocked by creatures with greater power.
 	flavor_text: <i-flavor>Be careful spilling blood too close to the water.</i-flavor>
 	power: 1
 	toughness: 4

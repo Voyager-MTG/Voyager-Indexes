@@ -19,7 +19,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2025-07-12 16:41:01
+	time_modified: 2025-07-21 15:15:34
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -32,7 +32,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Drake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, you may have this creature gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn. If you cast your third noncreature spell this turn, other creatures you control get +2/+0 until end of turn.
+	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, you may have <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn. If you cast your third noncreature spell this turn, other creatures you control get +2/+0 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym>2</sym>. Activate only if you control no nonland permanents</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
 	power: 3

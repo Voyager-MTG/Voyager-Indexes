@@ -6,13 +6,13 @@ card:
 		!tag Wulfric
 		!tag Hook
 	time_created: 2025-02-24 00:39:22
-	time_modified: 2025-03-05 03:19:41
+	time_modified: 2025-07-24 13:05:16
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
 	name: Wulfric Hook, Lord of Ends
 	casting_cost: BR
-	image: image48.png
+	image: image468
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -34,7 +34,7 @@ card:
 		</li><li><bullet>• </bullet>You win the game if you’ve chosen all other modes.</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
-	toughness: 3
+	toughness: 1
 	illustrator: Paul Nong
 	card_code_text: 
 	card_code_text_2: 

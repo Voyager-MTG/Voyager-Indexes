@@ -18,7 +18,7 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-altered:
-		frames: fullart
+		frames: 
 		custom_symbol: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -193,7 +193,7 @@ include_file: card edification
 include_file: card canyon crustacean
 include_file: card cowering lightbringer
 include_file: card fish token
-include_file: card no-name
+include_file: card faulty recreation
 keyword:
 	keyword: Mirror
 	match: mirror

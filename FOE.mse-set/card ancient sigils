@@ -31,7 +31,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		When this realm enters if you cast it, exile up to one other target nonland permanent, then return it to the battlefield under its owner’s control at the beginning of the next end step.
+		When this realm enters, if you cast it, exile up to one other target enchantment, then return it to the battlefield under its owner’s control at the beginning of the next end step.
 		<sym-auto>2U</sym-auto>: Transform this realm.
 	rule_text_2: Whenever you spend five or more mana to a cast a spell, draw a card.
 	rule_text_3: 

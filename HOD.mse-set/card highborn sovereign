@@ -5,10 +5,10 @@ card:
 		!tag Dewold
 		!tag Terrel
 	time_created: 2025-02-25 12:09:33
-	time_modified: 2025-02-26 03:53:29
+	time_modified: 2025-07-01 21:16:11
 	name: Highborn Sovereign
 	casting_cost: 2URW
-	image: image18.png
+	image: image605
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<sym-auto>2</sym-auto>, Sacrifice another creature: <atom-cardname><nospellcheck>Highborn Sovereign</nospellcheck></atom-cardname> becomes <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>2</sym-auto>, Sacrifice another creature: <atom-cardname><nospellcheck>Highborn Sovereign</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
 		<kw-0><nospellcheck><key><param-one_word>Island</param-one_word>cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>, <kw-0><nospellcheck><key><param-one_word>Mountain</param-one_word>cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>, <kw-0><nospellcheck><key><param-one_word>Plains</param-one_word>cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>2</sym-auto>, Discard this card: Search your library for a Island, Mountain, or Plains card, reveal it, put it into your hand, then shuffle.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 5

@@ -15,7 +15,7 @@ card:
 		OTHERUNCOMMON
 		SOLDIERTYPE
 	time_created: 2023-01-08 16:33:51
-	time_modified: 2025-03-31 02:37:48
+	time_modified: 2025-07-24 20:25:43
 	extra_data:
 		magic-m15-mainframe-dfc:
 			back_type_hint: 3/1 Soldier
@@ -37,7 +37,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Bisapience</key></nospellcheck> <sym>1WR</sym><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever this enters or transforms into <atom-cardname><nospellcheck>Sarajex Rescuer</nospellcheck></atom-cardname>, create a 1/1 white Soldier creature token.
+		Whenever this attacks or transforms into <atom-cardname><nospellcheck>Sarajex Rescuer</nospellcheck></atom-cardname>, create a 1/1 white Soldier creature token.
 	rule_text_2:
 		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0> <sym>WR</sym>
 		Whenever <atom-cardname><nospellcheck>Sarajex Protector</nospellcheck></atom-cardname> attacks, you may discard a card. If you do, put a +1/+1 counter on each creature you control.

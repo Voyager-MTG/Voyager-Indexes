@@ -8,11 +8,11 @@ card:
 		“Say what you will about Silfidiae, he knows what he wants and how to get it unlike you.”
 		— Undue to Osavotus.
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-03-11 01:27:07
+	time_modified: 2025-07-03 12:18:50
 	card_color: green
 	name: Disturb the Undergrowth
 	casting_cost: 2G
-	image: image207
+	image: image610
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,8 +21,8 @@ card:
 	rarity: common
 	rule_text:
 		Choose one or both —
-		<li><bullet>• </bullet>Return target land card in your graveyard to the battlefield tapped.
-		</li><li><bullet>• </bullet>Return target creature card in your graveyard to your hand.</li>
+		<li><bullet>• </bullet>Return target land card from your graveyard to the battlefield tapped.
+		</li><li><bullet>• </bullet>Return target creature card from your graveyard to your hand.</li>
 	flavor_text: <i-flavor>Every year <error-spelling:en_US>Zeramander</error-spelling:en_US> razes the same forest, and like clockwork <error-spelling:en_US>Silfidiae</error-spelling:en_US> grows it out further.</i-flavor>
 	illustrator: Calder Moore
 	card_code_text: 

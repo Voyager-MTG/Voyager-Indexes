@@ -15,13 +15,13 @@ card:
 		!tag Ranulf
 		!tag Sapner
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-03-05 03:15:28
+	time_modified: 2025-03-05 02:15:28
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
 	name: Ranulf, the Seed of Sapner
 	casting_cost: 5G
-	image: image64.png
+	image: image458
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

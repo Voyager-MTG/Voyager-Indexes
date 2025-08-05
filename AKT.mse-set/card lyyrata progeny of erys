@@ -16,13 +16,14 @@ card:
 		USURPATE
 		PENCILIN
 	time_created: 2022-02-26 15:29:17
-	time_modified: 2025-03-19 00:42:41
+	time_modified: 2025-07-27 09:42:21
 	extra_data:
 		magic-m15-altered:
 			ascend: 
 	border_color: rgb(5,5,5)
 	name: Lyyrata, Progeny of Erys
 	casting_cost: 5RW
+	transformation: custom symbol one
 	image: image150
 	image_2: 
 	mainframe_image: 

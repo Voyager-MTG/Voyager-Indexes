@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/morkardfc/art/Cerberus-Rise-of-Titans-616307887
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-05-06 18:25:05
+	time_modified: 2025-07-12 20:50:13
 	card_color: red
 	name: Dweller’s Hound
 	casting_cost: 2R
-	image: image509
+	image: image785
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,8 +18,8 @@ card:
 		<sym-auto>1R</sym-auto>: <atom-cardname><nospellcheck>Dweller’s Hound</nospellcheck></atom-cardname> gets +2/+0 until end of turn.
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
-		<i-flavor>“I am no stranger to strange, friend. I’d gladly trade secrets of the creator with another artisan.”<soft-line>
-		— Undue to <error-spelling:en_US>Anord</error-spelling:en_US>, the Mad <error-spelling:en_US>Lich</soft-line></i-flavor></error-spelling:en_US>
+		<i-flavor>“I am no stranger to strange, friend. I’d gladly trade secrets with another artisan.”<soft-line>
+		—Undue to <error-spelling:en_US>Anord</error-spelling:en_US>, the Mad <error-spelling:en_US>Lich</soft-line></i-flavor></error-spelling:en_US>
 	power: 1
 	toughness: 3
 	illustrator: MorkarDFC

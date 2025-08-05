@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -14,7 +16,7 @@ card:
 	time_modified: 2025-03-05 18:20:00
 	name: Approach of the Newly Crowned
 	casting_cost: 1W
-	image: image269.png
+	image: image714
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

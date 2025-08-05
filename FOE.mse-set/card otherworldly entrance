@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-03-24 16:09:36
+	time_modified: 2025-07-27 14:29:34
 	name: Otherworldly Entrance
 	casting_cost: 3BB
 	image: image46
@@ -18,9 +18,8 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		Choose one —
-		<li><bullet>• </bullet>Reveal a creature card from your sanctum. Put that card onto the battlefield.
-		</li><li><bullet>• </bullet>Return target creature card from your graveyard to the battlefield.</li>
+		Return target creature card from your graveyard to the battlefield.
+		<sym-auto>1B</sym-auto>, Discard this: Put a card from your sanctum into your graveyard. You lose 2 life.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Lost souls would be torn asunder by the energies of the paths, if not for <error-spelling:en_US>Multaph</error-spelling:en_US> and his Entities.</i-flavor>

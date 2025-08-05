@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: !tag avlod;
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2025-03-01 15:35:44
+	time_modified: 2025-07-21 05:05:33
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -40,7 +40,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — At the beginning of combat, if you cast a noncreature spell this turn, this creature has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and can attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
+		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — At the beginning of combat, this creature has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and can attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> as long as you cast a noncreature spell this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

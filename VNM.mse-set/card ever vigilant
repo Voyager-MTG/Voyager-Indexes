@@ -22,19 +22,21 @@ card:
 		</soft-line>!token
 		!conjured
 	time_created: 2021-11-14 03:36:21
-	time_modified: 2025-03-01 15:28:30
+	time_modified: 2025-07-21 02:07:11
 	name: Ever Vigilant
 	casting_cost: 1G/U
 	image: image169
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Trace Skill Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Skill Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text: Target creature gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and can’t be blocked by creatures with power 2 or less until end of turn. <i-auto>(Traces are cards that become copies when they enter a public zone.)</i-auto>
 	rule_text_2: 

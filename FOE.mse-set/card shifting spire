@@ -19,7 +19,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, Sacrifice this land: Search your sanctum for a land card, then put it onto the battlefield tapped. Activate only as a sorcery
+		<sym-auto>T</sym-auto>, Sacrifice this land: Search your sanctum for a land card, then put it onto the battlefield tapped. Activate only as a sorcery.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

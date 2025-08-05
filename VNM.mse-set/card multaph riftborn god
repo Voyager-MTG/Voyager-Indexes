@@ -22,11 +22,11 @@ card:
 		!gold
 		!exportname Multaph Riftborn God
 	time_created: 2022-03-27 20:50:44
-	time_modified: 2025-04-07 14:29:50
+	time_modified: 2025-07-21 00:56:19
 	extra_data:
 		magic-m15-altered-plus:
-			corner: instant
 			vorthos_box: They/Them
+			corner: instant
 	card_color: blue, black, hybrid, horizontal
 	name: Multaph, Riftborn God
 	casting_cost: 1UB
@@ -38,9 +38,8 @@ card:
 	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elk</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>God</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		You may spend <sym>I</sym> as any color to cast <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> or activate their abilities.
-		When <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> enters, create a trace of another target enchantment with mana value 4 or greater into your hand.
-		<sym-auto>1IUB</sym-auto>, Exile two <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonelk</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enchantments you control: Return <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> from your graveyard to the battlefield tapped.
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Multaph</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, <kw-A><nospellcheck><key>trace <param-name>another target enchantment with mana value 4 or greater into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>1IUB</sym-auto>, Exile two non-Elk enchantments you control: Return <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Multaph</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> from your graveyard to the battlefield tapped.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	power: 3

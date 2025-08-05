@@ -34,7 +34,7 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		When this enchantment enters, search your library for a colorless card not named Forgiving Monument, reveal it, put it into your hand, then shuffle.
+		When this enchantment enters, search your library for a non-planeswalker colorless card not named Forgiving Monument, reveal it, put it into your hand, then shuffle.
 		At the beginning of your first main phase, add <sym-auto>CC</sym-auto>. You can’t spend this mana to cast spells that aren’t mana value 5 or greater.
 	rule_text_2: 
 	rule_text_3: 

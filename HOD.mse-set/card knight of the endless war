@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -15,7 +17,7 @@ card:
 	card_color: black
 	name: Knight of the Endless War
 	casting_cost: 2BB
-	image: image89.png
+	image: image443
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

@@ -5,10 +5,10 @@ card:
 		!tag Dewold
 		!tag Vance
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-04-01 17:01:08
+	time_modified: 2025-04-01 17:23:42
 	name: Sovereign Echomage
 	casting_cost: 1U
-	image: image249.png
+	image: image424
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever another nontoken creature you control leave the battlefield without dying, you may create a token that’s a copy of that creature <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Whenever another nontoken creature you control leaves the battlefield without dying, you may create a token that’s a copy of that creature <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 4

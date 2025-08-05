@@ -5,10 +5,10 @@ card:
 		!tag Dewold
 		!tag Sapner
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-07-01 09:37:39
+	time_modified: 2025-06-24 13:42:23
 	name: House Negotiations
 	casting_cost: 2G
-	image: image51.png
+	image: image456
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Enchanted creature has “Whenever this creature deals combat damage to a player or planeswalker, two +1/+1 counters on it” and “When this creature leaves the battlefield, create a number of 2/1 red Soldier creature tokens <kw-A><nospellcheck><key>in your reserves</key></nospellcheck> equal the number of counters on it.”<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		Enchanted creature has “Whenever this creature deals combat damage to a player or planeswalker, put two +1/+1 counters on it” and “When this creature leaves the battlefield, create a number of 2/1 red Soldier creature tokens <kw-A><nospellcheck><key>in your reserves</key></nospellcheck> equal to the number of counters on it.”<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Shalizeh
 	card_code_text: 

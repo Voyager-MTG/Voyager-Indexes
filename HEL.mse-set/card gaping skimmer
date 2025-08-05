@@ -7,27 +7,31 @@ card:
 		Bones, runes, and even rubble are more reliable, but nothing is cheaper than someone else’s blood.
 		 FT:Ellardy
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-03-31 15:56:33
+	time_modified: 2025-07-14 20:46:11
 	card_color: blue
 	name: Gaping Skimmer
 	casting_cost: 2UU
-	image: image391
+	image: image667
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Serpent</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fish</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		As an additional cost to cast this spell, discard a card.
 		When this creature enters, return up to one target creature to its owner’s hand.
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text:
+		<i-flavor>“Don’t mind the teeth, they prefer swallowing their meals whole.”<soft-line>
+		—Imp to <error-spelling:en_US>Davriel</error-spelling:en_US> as he Journeys through the depths</soft-line></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 5

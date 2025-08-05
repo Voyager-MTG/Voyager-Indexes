@@ -6,11 +6,11 @@ card:
 		!tag Rey
 		Tricolor
 	time_created: 2025-02-24 00:27:56
-	time_modified: 2025-03-05 15:19:48
+	time_modified: 2025-07-09 12:16:23
 	card_color: white, red, green, multicolor, horizontal
 	name: Explore the Great Unknown
 	casting_cost: RGW
-	image: image168.png
+	image: image595
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,7 +23,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Whenever a land you control enters, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Create a 1/1 blue Scout creature token if a land card is milled this way. Create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a> if a land card is milled this way. Create a <kw-0><nospellcheck><key>Weapon token</key></nospellcheck></kw-0> if a nonland, noncreature card is milled this way. <i-auto>(A <kw-0><nospellcheck><key>Weapon token</key></nospellcheck></kw-0> is an Equipment artifact token with <kw-a><nospellcheck><key>equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a> and “Equipped creature gets +1/+1.)</i-auto>
+	rule_text: <kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Whenever a land you control enters, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Create a 1/1 blue Scout creature token if a creature card is milled this way. Create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a> if a land card is milled this way. Create a <kw-0><nospellcheck><key>Weapon token</key></nospellcheck></kw-0> if a nonland, noncreature card is milled this way. <i-auto>(A <kw-0><nospellcheck><key>Weapon token</key></nospellcheck></kw-0> is an Equipment artifact token with <kw-a><nospellcheck><key>equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a> and “Equipped creature gets +1/+1.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Alexander Forssberg
 	card_code_text: 

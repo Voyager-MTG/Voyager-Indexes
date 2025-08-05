@@ -7,10 +7,10 @@ card:
 		!tag Waldemar
 		!tag HODStory
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-03-05 18:23:56
+	time_modified: 2025-07-01 21:12:58
 	name: Scorched Earth
 	casting_cost: 3WW
-	image: image37.png
+	image: image420
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -24,7 +24,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		As an additional cost to cast this spell, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do it costs <sym-auto>2</sym-auto> less to cast.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
+		As an additional cost to cast this spell, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do, it costs <sym-auto>2</sym-auto> less to cast.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
 		Destroy all creatures.
 	flavor_text: <i-flavor>The succession crisis left Houses shattered, civilians murdered, and <error-spelling:en_US>Dewold</error-spelling:en_US> in shambles.</i-flavor>
 	illustrator: Alejo Ramos

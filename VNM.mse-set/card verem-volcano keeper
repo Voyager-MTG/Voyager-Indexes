@@ -21,7 +21,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-12 18:29:44
+	time_modified: 2025-07-21 15:25:37
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -34,7 +34,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Wurm</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: Whenever this creature becomes the target of a spell or ability, its controller puts the top ten cards of their library into their sanctum.
+	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> becomes the target of a spell or ability, its controller puts the top ten cards of their library into their sanctum.
 	flavor_text: <i-flavor><error-spelling:en_US>Roduth</error-spelling:en_US> left a select few to protect the secrets of <error-spelling:en_US>Verem</error-spelling:en_US>-Volcano.</i-flavor>
 	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym-auto>II</sym-auto>, Put two cards from your hand into your sanctum</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-1>
 	power: 7

@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -14,7 +16,7 @@ card:
 	time_modified: 2025-03-04 22:22:05
 	name: Plaskett Trickster
 	casting_cost: 2B
-	image: image100.png
+	image: image440
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

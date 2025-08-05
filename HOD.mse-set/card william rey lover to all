@@ -5,14 +5,14 @@ card:
 		!tag Dewold
 		!tag Rey
 	time_created: 2025-02-24 00:35:24
-	time_modified: 2025-03-05 18:00:15
+	time_modified: 2025-07-15 18:26:10
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
 	card_color: red
 	name: William Rey, Lover to All
 	casting_cost: 2R
-	image: image31.png
+	image: image544
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -27,7 +27,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever <atom-legname><nospellcheck>William Rey</nospellcheck></atom-legname> attacks, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. If you do, <atom-legname><nospellcheck>William Rey</nospellcheck></atom-legname> gets +X/+0 until end of turn, where X is the total mana value of cards milled this way.
+		Whenever <atom-legname><nospellcheck>William Rey</nospellcheck></atom-legname> attacks, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may play one card milled this way until end of turn.
 	flavor_text: <i-flavor>“Live and love.”</i-flavor>
 	power: 2
 	toughness: 3

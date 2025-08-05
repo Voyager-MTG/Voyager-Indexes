@@ -340,7 +340,7 @@ include_file: card king platinum sarajii
 include_file: card old guard blackrod
 include_file: card unextinct cavern
 include_file: card submerged spires
-include_file: card denizen of newakella
+include_file: card denizen of new akella.1
 include_file: card gigant nestcrafter
 include_file: card homestead of the meek
 include_file: card house
@@ -391,7 +391,7 @@ keyword:
 keyword:
 	keyword: Embrace
 	match: Embrace
-	reminder: Exile it. You may cast it on a later turn that a YOUFUCKEDUP you control dealt damage to an opponent.
+	reminder: Exile it. You may cast it on a later turn that a {card.sub_type} you control dealt damage to an opponent.
 	rules: 
 	mode: action
 keyword:

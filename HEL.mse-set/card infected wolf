@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/mD5Qye
 	time_created: 2022-05-21 00:56:43
-	time_modified: 2025-03-31 18:55:52
+	time_modified: 2025-07-12 20:53:04
 	name: Infected Wolf
 	casting_cost: G
-	image: image401
+	image: image677
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -17,8 +17,8 @@ card:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
 		Whenever this creature deals combat damage to a player, if it doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.
 	flavor_text:
-		<i-flavor>“A bit more flesh then I would like, but a marvelous specimen for the collection.”<soft-line>
-		— <error-spelling:en_US>Undue’s</error-spelling:en_US> <error-spelling:en_US>Necromantic</error-spelling:en_US> Journey</soft-line></i-flavor>
+		<i-flavor>“A bit more flesh than I would like, but a marvelous specimen for the collection.”<soft-line>
+		—<error-spelling:en_US>Undue’s</error-spelling:en_US> Journey through <error-spelling:en_US>Hwel</soft-line></i-flavor></error-spelling:en_US>
 	power: 1
 	toughness: 1
 	illustrator: Mariya S

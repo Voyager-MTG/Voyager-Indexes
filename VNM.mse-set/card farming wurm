@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-03-01 15:30:14
+	time_modified: 2025-07-21 01:42:18
 	card_color: green
 	name: Farming Wurm
 	casting_cost: G
@@ -20,7 +20,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<sym-auto>3G</sym-auto>: This creature gets +3/+3 until end of turn.
+		<sym-auto>3G</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +3/+3 until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Its best not to disturb a <error-spelling:en_US>Wurm</error-spelling:en_US> while it’s tilling the land. If you trample their fields, you better have a fast mount.</i-flavor>

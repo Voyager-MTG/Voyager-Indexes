@@ -22,7 +22,7 @@ card:
 		rework
 		Possible shift to White/Green
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2023-08-08 23:55:37
+	time_modified: 2025-07-21 03:41:06
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: FT by FLAREdirector
@@ -40,7 +40,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Once each turn, when you cast a spell that targets a creature you control, you may exile a card from your graveyard with mana value less than or equal to that spell. You may cast a copy of the exiled card until end of turn.
+		Once each turn, when you cast a spell that targets a creature you control, you may exile a card from your graveyard with mana value less than or equal to that spell. You may cast a copy of the exiled card this turn.
 		Creature tokens you control have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 	rule_text_2: 
 	rule_text_3: 

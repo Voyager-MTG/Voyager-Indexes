@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/N5rkRz
 	time_created: 2021-09-19 08:23:59
-	time_modified: 2025-05-05 15:00:14
+	time_modified: 2025-07-03 12:31:36
 	card_color: white
 	name: Return from Ash
 	casting_cost: W
-	image: image471
+	image: image747
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,7 +22,7 @@ card:
 		Choose one —
 		<li><bullet>• </bullet>Draw a card. You gain 1 life.
 		</li><li><bullet>• </bullet>Return target permanent card that was put into your graveyard this turn to your hand.
-		</li><li><bullet>• </bullet>Exile target players graveyard.</li>
+		</li><li><bullet>• </bullet>Exile target player’s graveyard.</li>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -12,7 +12,7 @@ card:
 	notes:
 		!tag Dewold
 		Renowned Cycle
-		!related Overzealous Page;
+		!related Call of the King; Wystan’s Page;
 	time_created: 2022-04-02 19:45:43
 	time_modified: 2022-05-21 11:56:58
 	extra_data:
@@ -20,7 +20,7 @@ card:
 			vorthos_box: He/him
 	card_color: white
 	name: The Occultist
-	image: image31
+	image: image729
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

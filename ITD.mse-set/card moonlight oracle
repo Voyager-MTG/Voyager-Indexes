@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/michaelwilliamaustin/art/Bad-moon-rising-1110839761
 	time_created: 2024-10-17 19:09:38
-	time_modified: 2025-01-23 19:39:36
+	time_modified: 2025-07-25 10:22:33
 	name: Moonlight Oracle
 	casting_cost: 3U
 	image: image164
@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		When this creature enters, <kw-0><nospellcheck><key>surveil <param-number>3</param-number></key></nospellcheck></kw-0>, then draw a card.
-		<i>Deep Dwelling</i>— Whenever one or more cards are put into your graveyard from your library, you may return one of them to your hand if your main library contains a number of cards less than or equal to half your starting deck size.
+		<i>Deep Dwelling </i>— Whenever one or more cards are put into your graveyard from your library, you may return one of them to your hand if your library contains a number of cards less than or equal to half your starting deck size.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4

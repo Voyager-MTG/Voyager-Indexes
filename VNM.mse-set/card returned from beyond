@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: Redesign
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2023-09-08 01:26:03
+	time_modified: 2025-07-21 15:24:54
 	card_color: black
 	name: Returned from Beyond
 	casting_cost: 4BB
@@ -23,7 +23,7 @@ card:
 		Return target creature card from your graveyard to the battlefield.
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor>Death need only be temporary.</i-flavor>
+	flavor_text: <i-flavor>The shamans of <error-spelling:en_US>Vinimroth</error-spelling:en_US> find death an injustice on the living, so much that they battle with the wild energies of the paths. </i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Dan Roff

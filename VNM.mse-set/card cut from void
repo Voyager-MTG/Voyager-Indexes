@@ -21,19 +21,21 @@ card:
 		!related Kaln-Ocean Cloak;Multaphs Respites Spellbook;Sage of Truths;Storm Bearer;
 		!token
 	time_created: 2021-01-31 20:53:58
-	time_modified: 2025-03-01 15:28:28
+	time_modified: 2025-07-21 04:45:54
 	name: Cut from Void
 	casting_cost: 2U
 	image: image255
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Trace Skill Instant</word-list-type-en>
+	super_type: <word-list-type-en>Skill Instant</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text: <kw-a><nospellcheck><key>Scry <param-number><kw-A>1</param-number></key></nospellcheck></kw-a>, then draw a card. <i-auto>(Traces are cards that become copies when they enter a public zone.)</i-auto>
 	rule_text_2: 

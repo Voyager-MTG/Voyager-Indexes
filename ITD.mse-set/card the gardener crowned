@@ -11,13 +11,13 @@ card:
 		clear: no
 	notes: https://www.artstation.com/artwork/Kr8vY4
 	time_created: 2024-08-01 15:06:56
-	time_modified: 2025-02-27 16:48:13
+	time_modified: 2025-07-25 10:14:13
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: he/it
 	special_text:
 		<atom-cardname><nospellcheck>The Gardener, Crowned</nospellcheck></atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each colorless permanent you control. <i-auto>(Lands are colorless.)</i-auto>
-		[+2]: <margin:130:0:0>Create three colorless 1/1 Faerie Horror creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.</margin:130:0:0>
+		[+2]: <margin:130:0:0>Create three 1/1 colorless Faerie Horror creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Gain control of target permanent.</margin:130:0:0>
 		[-5]: <margin:130:0:0>You get an emblem with “You may look at the top card of your library any time and you may play lands and cast colorless spells from the top of your library.”</margin:130:0:0>
 	name: The Gardener, Crowned
@@ -35,7 +35,7 @@ card:
 	loyalty_cost_5: 
 	loyalty: 7
 	level_1_text: <atom-cardname><nospellcheck>The Gardener, Crowned</nospellcheck></atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each colorless permanent you control. <i-auto>(Lands are colorless.)</i-auto>
-	level_2_text: <margin:130:0:0>Create three colorless 1/1 Faerie Horror creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Create three 1/1 colorless Faerie Horror creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Gain control of target permanent.</margin:130:0:0>
 	level_4_text: <margin:130:0:0>You get an emblem with “You may look at the top card of your library any time and you may play lands and cast colorless spells from the top of your library.”</margin:130:0:0>
 	level_5_text: 

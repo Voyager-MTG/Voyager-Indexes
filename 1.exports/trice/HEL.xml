@@ -46,7 +46,7 @@
 Maybe make 4/2</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, create a token that is a copy of target creature card in your graveyard with mana value 2 or less.</text>
+      <text>When this creature enters, create a token that’s a copy of target creature card in your graveyard with mana value 2 or less.</text>
     </card>
     <card>
       <name>Crypt Defenders</name>
@@ -126,7 +126,7 @@ Feedback: activated feels slightly disconnected.</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Spectacle 3W (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
-When this creature enters, you may exile another target creature. Return it to the battlefield under its owners control at the beginning of the next end step.</text>
+When this creature enters, you may exile another target creature. Return it to the battlefield under its owner’s control at the beginning of the next end step.</text>
     </card>
     <card>
       <name>Faithful Gaze</name>
@@ -145,7 +145,7 @@ When this creature enters, you may exile another target creature. Return it to t
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-Enchanted creature has lifelink and “When this creature dies, return it to the battlefield under its owners control.” </text>
+Enchanted creature has lifelink and “When this creature dies, return it to the battlefield under its owner’s control.” </text>
     </card>
     <card>
       <name>Welcoming Touch</name>
@@ -183,7 +183,7 @@ Enchanted creature has lifelink and “When this creature dies, return it to the
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this creature enters, if it isn’t a token, you may sacrifice another creature. If you do, create a token that’s copy of this creature.</text>
+When this creature enters, if it isn’t a token, you may sacrifice another creature. If you do, create a token that’s a copy of this creature.</text>
     </card>
     <card>
       <name>Upholder of Rites</name>
@@ -202,8 +202,7 @@ When this creature enters, if it isn’t a token, you may sacrifice another crea
         <notes>https://www.deviantart.com/jasonengle/art/Andal-The-Foul-622493301</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ward {2}
-Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Creatures you control with pact counters on them have +1/+0.</text>
     </card>
     <card>
@@ -235,14 +234,13 @@ Creatures you control with pact counters on them have +1/+0.</text>
         <mana>W</mana>
         <cmc>1</cmc>
         <mv>1</mv>
-        <type>Creature - Vampire Scout </type>
+        <type>Creature - Vampire Soldier </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>2/1</pt>
         <notes>https://www.deviantart.com/gongcheng/art/Vampire-483704624vv</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Vigilance
-This creature gets +2/+0 as long as you control three or more creatures.</text>
+      <text>When this creature and at least two other creatures attack, untap this creature. It gets +1/+0 until end of turn.</text>
     </card>
     <card>
       <name>Tranquil Repose</name>
@@ -364,7 +362,7 @@ Maybe change Art</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Spectacle {U} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
-Creatures with power greater than this creature can’t block it.</text>
+This creature can’t be blocked by creatures with greater power.</text>
     </card>
     <card>
       <name>Gigas Screamer</name>
@@ -377,7 +375,7 @@ Creatures with power greater than this creature can’t block it.</text>
         <mana>5UU</mana>
         <cmc>7</cmc>
         <mv>7</mv>
-        <type>Creature - Merfolk Nightmare </type>
+        <type>Creature - Merfolk Horror </type>
         <maintype>Creature</maintype>
         <pt>6/5</pt>
         <notes>https://www.artstation.com/artwork/b58gE</notes>
@@ -484,7 +482,7 @@ When this creature enters, draw a card.</text>
         <notes>https://www.deviantart.com/cobaltplasma/art/Siren-490727428</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Gloom Fracture costs {2} less to cast if you or a permanent you control is being targeted.
+      <text>Gloom Fracture costs {2} less to cast if you or a permanent you control is the target of a spell or ability.
 Counter target noncreature spell unless its controller pays {X}.</text>
     </card>
     <card>
@@ -606,7 +604,7 @@ When this creature dies, target player loses 2 life.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste, lifelink
-This creature has +1/+0 as long as a creature has died this turn.</text>
+This creature has +1/+0 as long as a creature died this turn.</text>
     </card>
     <card>
       <name>Phylactery Crafter</name>
@@ -1100,7 +1098,7 @@ Decomposing Guardian can’t block.</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This creature attacks each combat if able.
-{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.</text>
+{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Disturb the Undergrowth</name>
@@ -1123,8 +1121,8 @@ Decomposing Guardian can’t block.</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one or both —
-• Return target land card in your graveyard to the battlefield tapped.
-• Return target creature card in your graveyard to your hand.</text>
+• Return target land card from your graveyard to the battlefield tapped.
+• Return target creature card from your graveyard to your hand.</text>
     </card>
     <card>
       <name>Smeltingtree</name>
@@ -1163,7 +1161,7 @@ When this creature enters, destroy up to one target artifact or enchantment.</te
       </prop>
       <tablerow>3</tablerow>
       <text>Spectacle 1G (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
-Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 If this spell’s spectacle cost was paid, you may put a land card from your hand onto the battlefield tapped.</text>
     </card>
     <card>
@@ -1203,7 +1201,7 @@ Whenever this creature attacks, each player draws a card.</text>
         <notes>https://www.deviantart.com/cobaltplasma/art/Titanslayer-625300286</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>As an additional cost to cast this spell, exile two creature cards and/or land cards from your graveyard.
+      <text>As an additional cost to cast this spell, exile two creature and/or land cards from your graveyard.
 Trample, haste</text>
     </card>
     <card>
@@ -1224,7 +1222,7 @@ Trample, haste</text>
       <tablerow>1</tablerow>
       <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever a creature you control with a pact counter on it dies, draw a card for each pact counter on it.
-{U}, Sacrifice this enchantment: Surveil 3. Activate only as a sorcery.</text>
+Sacrifice this enchantment: The next spell you cast this turn can be cast as though it has flash.</text>
     </card>
     <card>
       <name>Capricious Count</name>
@@ -1332,17 +1330,17 @@ Repulsive Blast deals 3 damage to each creature. You gain 3 life.</text>
       <prop>
         <colors>B</colors>
         <color>B</color>
-        <manacost>2BB</manacost>
-        <cost>2BB</cost>
-        <mana>2BB</mana>
-        <cmc>4</cmc>
-        <mv>4</mv>
+        <manacost>3BB</manacost>
+        <cost>3BB</cost>
+        <mana>3BB</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
         <notes>https://www.artstation.com/artwork/w8Kbg</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>You mill half your library, rounded up. Then you may put a card in your graveyard on top of your library.</text>
+      <text>You Mill half your library, rounded up. Then you may put a card from your graveyard on top of your library.</text>
     </card>
     <card>
       <name>Mad Summoner</name>
@@ -1518,7 +1516,7 @@ Enchanted creature gets +2/-2 and has haste.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
-{T}: Add {B}. Spend this mana only to cast an instant or sorcery spell or to activate an ability in a graveyard. You lose 2 life.</text>
+{T}: Add {B}. Spend this mana only to cast an instant or sorcery spell or to activate an ability of a card in your graveyard. You lose 2 life.</text>
     </card>
     <card>
       <name>Hellfire Ant</name>
@@ -1604,27 +1602,6 @@ Who says a scavenger should have to suffer eating things raw?</notes>
 You may cast this creature from your graveyard if you attacked with creatures with total power 6 or greater this turn.</text>
     </card>
     <card>
-      <name>Deerstalker</name>
-      <set rarity="uncommon">HEL</set>
-      <prop>
-        <colors>RG</colors>
-        <color>RG</color>
-        <manacost>RG</manacost>
-        <cost>RG</cost>
-        <mana>RG</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Creature - Shade </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-        <notes>https://www.artstation.com/artwork/rJvgL</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Unrelenting (When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)
-Trample
-1R/G: This creature gets +1/+1 until end of turn.</text>
-    </card>
-    <card>
       <name>Eternal Slayer</name>
       <set rarity="uncommon">HEL</set>
       <prop>
@@ -1705,7 +1682,7 @@ At the beginning of combat on your turn, you may pay {1} and exile a Skeleton ca
         <notes>https://www.deviantart.com/encreate/art/Dragon-Witch-913641712</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on target creature you control.</text>
+      <text>Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on that creature.</text>
     </card>
     <card>
       <name>Repulsive Drake</name>
@@ -1739,7 +1716,7 @@ When this creature dies, you may return another target card from your graveyard 
         <mana>1G</mana>
         <cmc>2</cmc>
         <mv>2</mv>
-        <type>Creature - Wurm </type>
+        <type>Creature - Hellion </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
         <notes>https://www.artstation.com/artwork/baBPxm</notes>
@@ -1785,7 +1762,7 @@ At the beginning of combat on your turn, you may discard a card or sacrifice ano
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-This creature can only be blocked by one creature each combat.
+This creature can’t be blocked by more than one creature.
 1G: Spiders you control get +1/+0 until end of turn.</text>
     </card>
     <card>
@@ -1910,7 +1887,7 @@ This creature can’t attack or block unless there are two or more pact counters
       <tablerow>2</tablerow>
       <text>Haste
 {R}: This creature gains flying until end of turn.
-Whenever this creature deals combat damage to a player, you may discard a card. If you do, exile the top three cards of your library. You may play cards exiled this way until end of turn.</text>
+Whenever this creature deals combat damage to a player, you may discard a card. If you do, exile the top three cards of your library. Until end of turn, you may cast spells from among those exiled cards.</text>
     </card>
     <card>
       <name>Demonlord Silfidiae</name>
@@ -1929,7 +1906,7 @@ Whenever this creature deals combat damage to a player, you may discard a card. 
         <notes>https://www.deviantart.com/vulpes-ibculta/art/Enemy-707906990</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>As an additional cost to cast this spell, sacrifice a creature. When you do, search your library for up to two land cards and put them onto the battlefield tapped. Then shuffle.
+      <text>As an additional cost to cast this spell, sacrifice a creature. When you do, search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.
 Demonlord Silfidiae can’t be blocked by creatures with power 2 or less.</text>
     </card>
     <card>
@@ -1971,7 +1948,7 @@ Sacrifice another creature: This creature must be blocked this turn if able. Put
 — Kinnamons Letter of Summons</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Search your library for a Vampire or Bat card, reveal it, and put it into your hand. Then shuffle your library. You gain 3 life.</text>
+      <text>Search your library for a Vampire or Bat card, reveal it, put it into your hand, then shuffle. You gain 3 life.</text>
     </card>
     <card>
       <name>Tenacious Legion</name>
@@ -2091,7 +2068,7 @@ Whenever a creature you control dies, return it the battlefield tapped under you
       </prop>
       <tablerow>1</tablerow>
       <text>Players can’t gain life.
-1B: Target player draws a card and loses 1 life. Activate this ability only once per turn.</text>
+1B: Target player draws a card and loses 1 life. Activate this ability only once each turn.</text>
     </card>
     <card>
       <name>Cerebral Devilfish</name>
@@ -2146,7 +2123,7 @@ Skeletons you control get +1/+0 and and have trample.</text>
         <type>Legendary Creature - Elemental Devil </type>
         <maintype>Creature</maintype>
         <pt>8/4</pt>
-        <notes>https://www.deviantart.com/awesomeidea/art/ChoGath-982336130</notes>
+        <notes>https://www.deviantart.com/tacosauceninja/art/Devils-Dare-643434168</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast for each land card in your graveyard.
@@ -2286,7 +2263,7 @@ At the beginning of combat on your turn, target Skeleton you control gets +1/+0 
         <mana>2UU</mana>
         <cmc>4</cmc>
         <mv>4</mv>
-        <type>Creature - Serpent </type>
+        <type>Creature - Fish Horror </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
         <notes>https://www.artstation.com/artwork/YaxRP
@@ -2529,7 +2506,7 @@ Weird filler aggro piece
 Change tails mode? Lower power?</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, flip a coin. If heads, put a menace counter on it and you gain 2 life. If tails, put a lifelink counter on it and each opponent loses 2 life.</text>
+      <text>When this creature enters, flip a coin. If the coin comes up heads, put a menace counter on it and you gain 2 life. If the coin comes up tails, put a lifelink counter on it and each opponent loses 2 life.</text>
     </card>
     <card>
       <name>Broken Shortsword</name>
@@ -2631,7 +2608,7 @@ When this creature enters, search your library for a basic land card, reveal it,
         <notes>https://www.artstation.com/artwork/28yg9B</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Maddening Descent deals X plus two damage to target creature. Then mill that many cards.</text>
+      <text>Maddening Descent deals X plus 2 damage to target creature. Mill X plus two cards.</text>
     </card>
     <card>
       <name>Spitting Hellfire</name>
@@ -2669,7 +2646,7 @@ Spitting Hellfire deals 4 damage to target creature or planeswalker.</text>
         <notes>https://www.deviantart.com/ianllanas/art/Bone-Enhancer-403104921</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>This creature enters with your choice of a menace, haste, or a +1/+1 counter on it.
+      <text>This creature enters with your choice of a menace, haste, or +1/+1 counter on it.
 {2}, Discard this card: Draw a card.</text>
     </card>
     <card>
@@ -2689,7 +2666,7 @@ Spitting Hellfire deals 4 damage to target creature or planeswalker.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
-• Inflaming Smite deals 3 damage to target creature or player and you gain 3 life.
+• Inflaming Smite deals 3 damage to any target and you gain 3 life.
 • Exile target creature with power 4 or greater.</text>
     </card>
     <card>
@@ -3008,7 +2985,7 @@ When this creature dies, search your library for a basic land card, reveal it, p
         <notes>https://www.deviantart.com/sandara/art/Galrauch-from-WHF-Hero-s-Call-270404507</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>You may cast Mirumea as though it has flash if X is 3 or greater.
+      <text>You may cast Mirumea as though it had flash if X is 3 or greater.
 Reach
 When Mirumea enters, put X +1/+1 counters on it and destroy up to X target artifacts or enchantments.</text>
     </card>
@@ -3303,7 +3280,7 @@ When this creature dies, create two 1/1 black Skeleton creature tokens.</text>
       <tablerow>3</tablerow>
       <text>Choose one or both —
 • Destroy target tapped creature.
-• Exile target creature. Return it to the battlefield under its owners control at the beginning of the next end step.</text>
+• Exile target creature. Return it to the battlefield under its owner’s control at the beginning of the next end step.</text>
     </card>
     <card>
       <name>Morideus&apos;s Influence</name>
@@ -3347,7 +3324,7 @@ hate piece/counters</notes>
       <tablerow>1</tablerow>
       <text>[+1]: Surveil 2. You gain 2 life.
 [-2]: Exile target nonland permanent with mana value 2 or less.
-[-3]: Create a green Skeleton Horse creature token. It has “This creature’s power and toughness are each equal to the number of creature or planeswalker cards in your graveyard.”</text>
+[-3]: Create a green Skeleton Horse creature token. It has “This creature’s power and toughness are each equal to the number of creature cards and/or planeswalker cards in your graveyard”.</text>
     </card>
     <card>
       <name>Imposing Asylum</name>
@@ -3385,7 +3362,7 @@ hate piece/counters</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
-{T}: Add one mana of any color. Activate only if you have discarded a card, lost life, or had a creature die under your control this turn.</text>
+{T}: Add one mana of any color. Activate only if you discarded a card, lost life, or if a creature you control died this turn.</text>
     </card>
     <card>
       <name>Impending Return</name>
@@ -3771,7 +3748,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
       <text>Choose one —
 • Draw a card. You gain 1 life.
 • Return target permanent card that was put into your graveyard this turn to your hand.
-• Exile target players graveyard.</text>
+• Exile target player’s graveyard.</text>
     </card>
     <card>
       <name>Sorin, Vengeful Sangrablade</name>
@@ -3958,14 +3935,14 @@ Demonlord Orbisfaber can’t be blocked except by three or more creatures.</text
         <mv>3</mv>
         <type>Legendary Creature - Elemental Devil </type>
         <maintype>Creature</maintype>
-        <pt>*/*</pt>
+        <pt>*/3</pt>
         <notes>https://www.deviantart.com/the-hand/art/Water-Demon-137651494
 
 As the corpses started to pile into the water, they melted. The water swelled and started to boil, hungry for more.</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Fervens’s power and toughness are each equal to the number of instant and sorcery cards you own in your graveyard and in exile.
+Fervens’s power is equal to the number of instant and sorcery cards you own in your graveyard.
 As long as it’s not your turn, Fervens is an Island land. (It’s not a creature.)</text>
     </card>
     <card>
@@ -4028,7 +4005,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
         <notes>https://www.artstation.com/artwork/zAPZ5L</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>This creature can’t attack or block unless you return another creature or land you control to its owner hand.
+      <text>This creature can’t attack or block unless you return another creature or land you control to its owner’s hand.
 Unrelenting (When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</text>
     </card>
     <card>
@@ -4119,7 +4096,7 @@ When this creature leaves the battlefield, discard three cards.</text>
 Whenever a creature you control with a pact counter on it attacks, defending player mills two cards for each pact counter on it.</text>
     </card>
     <card>
-      <name>Shambling Mistwalker</name>
+      <name>Lurking Mistwalker</name>
       <set rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
@@ -4769,7 +4746,7 @@ This creature can’t be blocked by creatures with power 2 or less.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, sacrifice a creature.
-Search your library for a creature card with mana value equal to or less than X plus the sacrificed creature’s mana value, put that card onto the battlefield, then shuffle your library.</text>
+Search your library for a creature card with mana value equal to or less than X plus the sacrificed creature’s mana value, put that card onto the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>Gnarled Hydra</name>
@@ -4777,21 +4754,21 @@ Search your library for a creature card with mana value equal to or less than X 
       <prop>
         <colors>G</colors>
         <color>G</color>
-        <manacost>1GG</manacost>
-        <cost>1GG</cost>
-        <mana>1GG</mana>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
         <mv>3</mv>
         <type>Creature - Hydra Plant </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>3/2</pt>
         <notes>https://www.deviantart.com/morkardfc/art/Blessed-Pilgrim-832026093
 
-Tanglemess hydras continue expanding for life, eventually consuming entire forests and ecosystems.</notes>
+Tanglemess hydras continue expanding for life, eventually consuming  entire forests and ecosystems.</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Whenever this creature attacks, put a +1/+1 counter on it.
+Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.
 Unrelenting (When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</text>
     </card>
     <card>
@@ -5018,7 +4995,7 @@ Combo/value piece
 “It’s quite humorous. A sweet word is all it takes for someone to spill their blood for you.”</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>You may have nontoken creatures you control enter the battlefield with decayed and haste. (It can’t block. When it attacks, sacrifice it at end of combat.)
+      <text>Whenever a nontoken creature enters under your control, you may have it gain decayed and haste. (Creatures with decayed can’t block. When it attacks, sacrifice it at end of combat.)
 Whenever you sacrifice a creature, you may draw a card and lose 1 life.</text>
     </card>
     <card>
@@ -5078,7 +5055,7 @@ At the beginning of your end step, if three or more cards were put into your gra
         <notes>https://www.artstation.com/artwork/r9YQY6</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose a card type. Each player sacrifices a permanent of that type. For each player that does, they may search their library for a basic land card and put it onto the battlefield tapped. Then shuffle their library.</text>
+      <text>Choose a card type. Each player sacrifices a permanent of that type. Each player that does may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
     </card>
     <card>
       <name>Monstrous Invocation</name>
@@ -5117,7 +5094,7 @@ You may put a creature card with mana value 4 or less from your hand onto the ba
         <notes>https://www.deviantart.com/alexkuhn/art/Hell-WIP-688678062</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Create three 1/1 black Skeleton creature tokens. If this spells flashback cost was paid, create X of those tokens instead.
+      <text>Create three 1/1 black Skeleton creature tokens. If this spell’s flashback cost was paid, create X of those tokens instead.
 Flashback XBR (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
@@ -5464,108 +5441,3 @@ WU, {T}: Target player mills two cards. Then if that player’s graveyard has tw
       <tablerow>3</tablerow>
       <text>Create three 2/1 green Spider creature tokens with reach.</text>
     </card>
-
-    <!-->Tokens</-->
-
-    <card>
-      <name>Zombie</name>
-      <set>HEL</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature - Zombie </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-        <notes>https://www.deviantart.com/markusvogt/art/Underworld-Rising-697237078</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Lifelink
-Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Merfolk Horror</name>
-      <set>HEL</set>
-      <prop>
-        <colors>U</colors>
-        <type>Token Creature - Merfolk Horror </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>https://www.deviantart.com/davesrightmind/art/Siren-Final-369903638</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Skeleton</name>
-      <set>HEL</set>
-      <prop>
-        <colors>B</colors>
-        <type>Token Creature - Skeleton </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>https://www.artstation.com/artwork/nQ2J0E</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Spider</name>
-      <set>HEL</set>
-      <prop>
-        <colors>G</colors>
-        <type>Token Creature - Spider </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-        <notes>https://www.deviantart.com/highdarktemplar/art/Spider-of-Leng-820654490</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Reach</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Skeleton Hydra</name>
-      <set>HEL</set>
-      <prop>
-        <colors>G</colors>
-        <type>Token Creature - Skeleton Hydra </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>https://www.deviantart.com/pininkela/art/The-Serpent-283704184</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Skeleton Horse</name>
-      <set>HEL</set>
-      <prop>
-        <colors>G</colors>
-        <type>Token Creature - Skeleton Horse </type>
-        <maintype>Creature</maintype>
-        <pt>X/X</pt>
-        <notes>https://www.deviantart.com/thedurrrrian/art/Fear-the-black-horse-of-famine-488974264</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Vampire Soldier</name>
-      <set>HEL</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature - Vampire Soldier </type>
-        <maintype>Creature</maintype>
-        <pt>3/1</pt>
-        <notes>https://www.deviantart.com/sinealas/art/The-Knight-600552138</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Lifelink</text>
-      <token>1</token>
-    </card>
-
-  </cards>
-</cockatrice_carddatabase>
