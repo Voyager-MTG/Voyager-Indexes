@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-name>This creature</atom-cardname> has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> as long as your opponent’s sanctum contains four or more cards.
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> becomes the target of a spell for the first time each turn, that spell’s owner reveals their sanctum. Exile a card from it. You may play cards exiled this way as long as they remain exiled.
+		Whenever <atom-cardname><nospellcheck>Raging Rubigrug</nospellcheck></atom-cardname> becomes the target of a spell for the first time each turn, that spell’s owner reveals their sanctum. Exile a card from it. You may play cards exiled this way as long as they remain exiled.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

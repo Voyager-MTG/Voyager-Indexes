@@ -1,19 +1,7 @@
 import os, shutil
 
-include_sets = [
-    "AKT",
-    "EXPT",
-    "FOE",
-    "HEL",
-    "HOD",
-    "ITD",
-    "LAIR",
-    # "LOB",
-    "PTN",
-    "PVR",
-    "VNM",
-    "WAW",
-    "xxx"
+exclude_sets = [
+    "LOB"
 ]
 
 try:
@@ -43,7 +31,7 @@ basedir = os.getcwd()
 for dir in dirs:
     if dir[-8:] == ".mse-set":
         set_name = dir.split(".mse-set")[0]
-        if not set_name in include_sets:
+        if set_name in exclude_sets:
             continue
 
         

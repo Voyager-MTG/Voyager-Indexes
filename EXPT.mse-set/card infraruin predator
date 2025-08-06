@@ -26,7 +26,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		<sym-auto>I</sym-auto>, Sacrifice an artifact and an enchantment: Return <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard to the battlefield. activate only as a sorcery.
+		<sym-auto>I</sym-auto>, Sacrifice an artifact and an enchantment: Return <atom-cardname><nospellcheck>Infraruin Predator</nospellcheck></atom-cardname> from your graveyard to the battlefield. activate only as a sorcery.
 	flavor_text: <i-flavor>These creatures are adapted to the vast towers and decaying structures of their plane.</i-flavor>
 	power: 3
 	toughness: 3
