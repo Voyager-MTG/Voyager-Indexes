@@ -24,7 +24,7 @@ card:
 	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Grasping Eternity</nospellcheck></atom-cardname> enters, create a 1/1 white Nightmare creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 1/1 white Nightmare creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
 		<margin:0:0:5>At the beginning of your end step, if you gained life this turn, choose one—</margin:0:0:5>
 		<li><bullet>• </bullet>Each opponent loses 1 life.
 		</li><li><bullet>• </bullet>Put a +1/+1 counter on this creature.</li>

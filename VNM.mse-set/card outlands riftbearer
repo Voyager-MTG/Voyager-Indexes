@@ -36,7 +36,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-1><nospellcheck><key>Lifelink</key></nospellcheck><atom-reminder-core> <i-auto>(Damage dealt by this creature also causes you to gain that much life.)</i-auto></atom-reminder-core></kw-1>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> </sym>enters<sym>, <kw-1><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-1>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> </sym>enters<sym>, <kw-1><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Traces are cards that become token copies as they move into public zones.)</i-auto></atom-reminder-custom></kw-1>
 		<b>Subdued Rift</b> <sym><b>W/B</sym></b>| <u>Skill Sorcery</u><soft-line>
 		</soft-line>Create a 1/1 black and white Cat enchantment creature token.
 	flavor_text: <i-flavor></i-flavor>

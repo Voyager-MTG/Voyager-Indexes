@@ -22,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Impending <param-number>4</param-number>—<param-cost><sym>1G</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)</i-auto>
-		Whenever a time counter is removed from <atom-cardname><nospellcheck>Imprisoned Aspect</nospellcheck></atom-cardname>, put a +1/+1 counter on target creature or enchantment you control.
+		Whenever a time counter is removed from <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, put a +1/+1 counter on target creature or enchantment you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

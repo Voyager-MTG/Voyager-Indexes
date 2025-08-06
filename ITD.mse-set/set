@@ -9,6 +9,7 @@ set_info:
 	set_code: ITD
 	symbol: symbol21.mse-symbol
 	masterpiece_symbol: masterpiece_symbol1.mse-symbol
+	CARDNAME_replacement: card's type
 	mainframe_rarity_name: 
 styling:
 	magic-m15:

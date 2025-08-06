@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		Destroy target creature with mana value 3 or less.
-		When <atom-cardname><nospellcheck>Contagious Murder</nospellcheck></atom-cardname> leaves your graveyard during your turn, copy it. You may cast the copy. <i-auto>(You still pay its costs.)</i-auto>
+		When <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> leaves your graveyard during your turn, copy it. You may cast the copy. <i-auto>(You still pay its costs.)</i-auto>
 	flavor_text: <i-flavor>“As before, all injuries seem to originate from inside the victim.”</i-flavor>
 	illustrator: Aaron Lovett
 	card_code_text: 

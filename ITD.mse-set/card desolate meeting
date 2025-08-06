@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Desolate Meeting</nospellcheck></atom-cardname> enters, create a 1/1 white Nightmare creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, create a 1/1 white Nightmare creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
 		Whenever you attack, if you control five or more lands, Nightmares you control get +1/+1 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Afodelo

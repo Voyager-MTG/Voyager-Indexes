@@ -40,7 +40,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a> 
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Traces are cards that become token copies as they move into public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Cut from Void</b> <sym>2U</sym>| <u>Skill Instant</u><soft-line>
 		<kw-a><nospellcheck><key>Scry <param-number><kw-A>1</param-number></key></nospellcheck></kw-a>, then draw a card.</soft-line>
 	rule_text_2: 

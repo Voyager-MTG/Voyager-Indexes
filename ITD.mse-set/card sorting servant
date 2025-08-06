@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Golem</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Sorting Servant</nospellcheck></atom-cardname> dies, search your library for a colorless card with mana value </sym>5 or greater<sym>, reveal it and put it into your hand. Then shuffle.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, search your library for a colorless card with mana value </sym>5 or greater<sym>, reveal it and put it into your hand. Then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

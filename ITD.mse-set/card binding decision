@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Binding Decision</nospellcheck></atom-cardname> enters, target opponent chooses a nontoken creature they control and exiles it until <atom-cardname><nospellcheck>Binding Decision</nospellcheck></atom-cardname> leaves the battlefield.
+	rule_text: When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, target opponent chooses a nontoken creature they control and exiles it until <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> leaves the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: DON
 	card_code_text: 

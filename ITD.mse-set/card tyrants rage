@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: <atom-cardname><nospellcheck>Tyrant’s Rage</nospellcheck></atom-cardname> deals X damage to each creature and each planeswalker, where X is the number of lands in your realm. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto>
+	rule_text: <atom-name><nospellcheck>This spell</nospellcheck></atom-cardname> deals X damage to each creature and each planeswalker, where X is the number of lands in your realm. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto>
 	flavor_text: <i-flavor>Take cover when he flies, go up high when he burrows, and kneel when he walks.</i-flavor>
 	illustrator: Masianis Andrzej
 	card_code_text: 

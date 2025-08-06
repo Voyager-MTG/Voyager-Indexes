@@ -14,8 +14,8 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Far-off Door</nospellcheck></atom-cardname> enters, search your library for a planeswalker card, reveal it, put it into your hand, then shuffle.
-		<atom-cardname><nospellcheck>Far-off Door</nospellcheck></atom-cardname> has all loyalty abilities of nonartifact permanents you control.
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, search your library for a planeswalker card, reveal it, put it into your hand, then shuffle.
+		<atom-name><nospellcheck>This artifact</nospellcheck></atom-cardname> has all loyalty abilities of nonartifact permanents you control.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Andreea Dumuta
 	card_code_text: 

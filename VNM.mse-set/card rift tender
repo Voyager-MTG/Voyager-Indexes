@@ -38,7 +38,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<sym-auto>W/BW/B</sym-auto>: Exile two target cards from your graveyard. If you do, <kw-A><nospellcheck><key>trace <param-name>a card named Subdued Rift into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>W/BW/B</sym-auto>: Exile two target cards from your graveyard. If you do, <kw-A><nospellcheck><key>trace <param-name>a card named Subdued Rift into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Traces are cards that become token copies as they move into public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Subdued Rift <sym></b>W/B</sym>| <u>Skill Sorcery</u><soft-line>
 		Create a 1/1 black and white Cat enchantment creature token</soft-line>.
 	rule_text_2: 

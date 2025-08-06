@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>The Living Coffin</nospellcheck></atom-cardname> enters, if you cast it, you may return any number of lands you control to their owner’s hand. Draw a card for each land card returned to your hand this way.
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, if you cast it, you may return any number of lands you control to their owner’s hand. Draw a card for each land card returned to your hand this way.
 		Sacrifice a nonland permanent: You may play an additional land this turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: VALUN

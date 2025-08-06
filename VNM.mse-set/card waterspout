@@ -35,7 +35,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>T<kw-A>race <param-name>a card named Voidstone Shard into your hand, then <kw-a>mill three cards.</param-name></key></nospellcheck> You may put a card from among the cards milled this way into your hand. <atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>T<kw-A>race <param-name>a card named Voidstone Shard into your hand, then <kw-a>mill three cards.</param-name></key></nospellcheck> You may put a card from among the cards milled this way into your hand. <atom-reminder-custom> <i-auto>(Traces are cards that become token copies as they move into public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Voidstone</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Shard</b> <sym>2</sym>|<i>Enchantment<soft-line>
 		</soft-line></i>When this enchantment enters, <kw-a><nospellcheck><key>scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>.
 	rule_text_2: 

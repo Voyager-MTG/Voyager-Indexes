@@ -28,7 +28,7 @@ card:
 	sub_type_3: 
 	rarity: masterpiece
 	rule_text:
-		<atom-cardname><nospellcheck>Ancient Forerunner ITD</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
+		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
 		When this creature enters, it deals damage equal to its power to each opponent.
 	flavor_text: <i-flavor>“Now little one, you shall see many journeys ahead, but remember to always rebuild yourself when you fall.”</i-flavor>
 	power: 4

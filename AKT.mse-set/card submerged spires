@@ -13,7 +13,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !tapped
 	time_created: 2024-06-28 09:27:58
 	time_modified: 2024-07-13 08:21:18
 	extra_data:

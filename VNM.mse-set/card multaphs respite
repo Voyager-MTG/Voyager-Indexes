@@ -43,7 +43,7 @@ card:
 	rarity: rare
 	chapter_text_2: 
 	rule_text:
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Multaph’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Respite enters, <kw-A><nospellcheck><key>trace <param-name>a card of your choice from among Subdued Rift, Warped Exploration, and Cut From Void into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Multaph’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Respite enters, <kw-A><nospellcheck><key>trace <param-name>a card of your choice from among Subdued Rift, Warped Exploration, and Cut From Void into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Traces are cards that become token copies as they move into public zones.)</i-auto></atom-reminder-custom></kw-A>
 		Once each turn, when you cast a noncreature spell, you may pay <sym-auto>2</sym-auto>. If you do, copy that spell. You may choose new targets for the copy.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>

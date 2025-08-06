@@ -3,7 +3,9 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: 
+	notes:
+		
+		!tag beast;
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2025-03-22 16:38:28
 	extra_data:

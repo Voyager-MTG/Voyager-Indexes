@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-10-03 23:55:55
-	time_modified: 2025-07-25 10:22:20
+	time_modified: 2025-07-31 23:51:09
 	extra_data:
 		magic-m15-altered: vorthos_box: she/her
 	name: Ajaxala, Cunning Puppeteer
@@ -25,7 +25,7 @@ card:
 	rarity: rare
 	rule_text:
 		If you would draw a card, instead look at the top three cards of your library, put two of them into your graveyard, then draw a card.
-		<i>Deep Dwelling </i>— <atom-legname><nospellcheck>Ajaxala</nospellcheck></atom-legname> can’t be blocked as long as your library contains a number of cards less than or equal to half your starting deck size.
+		<i>Deep Dwelling </i>— <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ajaxala</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> can’t be blocked as long as your library contains a number of cards less than or equal to half your starting deck size.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

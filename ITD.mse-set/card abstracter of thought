@@ -21,7 +21,7 @@ card:
 	sub_type: <word-list-race-en>Eldrazi</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		If <atom-cardname><nospellcheck>Abstracter of Thought</nospellcheck></atom-cardname> would be put into a graveyard from anywhere, shuffle it into its owner’s library instead.
+		If <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> would be put into a graveyard from anywhere, shuffle it into its owner’s library instead.
 		Once each turn, if you would draw a card while your library has no cards in it, you may instead exile a card from your graveyard. If it’s a nonland card, you may cast a copy of that card without paying its mana cost.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

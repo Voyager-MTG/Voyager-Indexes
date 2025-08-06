@@ -22,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Corvid Defacer</nospellcheck></atom-cardname> dies, if it wasn’t the target of a spell this turn, return it to the battlefield tapped at the beginning of the next end step.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, if it wasn’t the target of a spell this turn, return it to the battlefield tapped at the beginning of the next end step.
 	flavor_text: <i-flavor>Built to be an <error-spelling:en_US>alchemical</error-spelling:en_US> engine of destruction, It defied death and escaped into the dark forest where nothing ever lives.</i-flavor>
 	power: 5
 	toughness: 4

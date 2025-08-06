@@ -6,13 +6,13 @@ card:
 	styling_data:
 		frames: lesson, frameless art
 		altered_plus_frames: 
-		custom_symbol: MyrCustoms/Ith.png
+		custom_symbol: MyrCustoms/ithLarge.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: COLOURLESSCOMMON
 	time_created: 2022-02-26 15:29:17
-	time_modified: 2025-07-27 01:01:07
+	time_modified: 2025-07-29 00:05:21
 	extra_data:
 		magic-m15-altered: ascend: 
 		magic-m15-altered-plus:

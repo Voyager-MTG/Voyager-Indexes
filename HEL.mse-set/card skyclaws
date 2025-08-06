@@ -1,7 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: https://www.deviantart.com/babanillustration/art/CATBATS-Prints-781809902
+	notes:
+		https://www.deviantart.com/babanillustration/art/CATBATS-Prints-781809902
+		!tag beast;
 	time_created: 2021-09-19 08:23:59
 	time_modified: 2025-07-03 12:31:50
 	card_color: white

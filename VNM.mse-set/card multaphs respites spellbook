@@ -48,7 +48,7 @@ card:
 		<b>Subdued Rift</b> <sym>W/B</sym>| <u>Skill Sorcery</u><soft-line>
 		</soft-line>Create a 1/1 black and white Cat enchantment creature token.
 		<b>Warped Exploration</b> <sym>2</sym>| <u>Skill Sorcery</u><soft-line>
-		</soft-line><kw-A><nospellcheck><key>Trace <param-name>a basic land of any type into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		</soft-line><kw-A><nospellcheck><key>Trace <param-name>a basic land of any type into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Traces are cards that become token copies as they move into public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Cut from Void</b> <sym>2U</sym>| <u>Skill Instant</u><soft-line>
 		</soft-line><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>, then draw a card.
 	rule_text_2: 

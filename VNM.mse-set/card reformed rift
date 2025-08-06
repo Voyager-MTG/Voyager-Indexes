@@ -11,19 +11,21 @@ card:
 		 !related Raze the Clanless;
 		!conjured
 	time_created: 2021-11-12 23:55:31
-	time_modified: 2025-02-28 22:21:45
+	time_modified: 2025-08-04 00:11:47
 	card_color: land, multicolor
 	name: Reformed Rift
 	image: image55
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Trace Land</word-list-type-en>
+	super_type: <word-list-type-en>Land</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text:
 		<i-auto>(Created by Raze the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Clanless</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.)</i-auto>

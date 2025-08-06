@@ -33,7 +33,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
 		Whenever you cast a noncreature spell, create a 1/1 white Wurm creature token.
-		Whenever you attack, <kw-A><nospellcheck><key>trace <param-name>a skill from among permanents you control.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you attack, <kw-A><nospellcheck><key>trace <param-name>a skill from among permanents you control.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Traces are cards that become token copies as they move into public zones.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 4

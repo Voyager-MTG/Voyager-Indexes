@@ -24,7 +24,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>2UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2UU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Like Butterflies on Strings </nospellcheck></atom-cardname>deals combat damage to a player, if it entered this turn, gain control of up to one target creature for as long as you control this creature.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>deals combat damage to a player, if it entered this turn, gain control of up to one target creature for as long as you control this creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

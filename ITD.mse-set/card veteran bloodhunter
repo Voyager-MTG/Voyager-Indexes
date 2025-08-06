@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
-		<soft-line>When <atom-cardname><nospellcheck>Veteran Bloodhunter</nospellcheck></atom-cardname> enters, conjure a card named Drain into your hand. <i-auto>(It’s a <sym>B</sym> sorcery with “Target opponent loses 1 life and you gain 1 life.”)</i-auto></soft-line>
+		<soft-line>When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, conjure a card named Drain into your hand. <i-auto>(It’s a <sym>B</sym> sorcery with “Target opponent loses 1 life and you gain 1 life.”)</i-auto></soft-line>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

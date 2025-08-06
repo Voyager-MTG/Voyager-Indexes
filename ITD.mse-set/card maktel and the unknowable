@@ -28,7 +28,7 @@ card:
 	rarity: rare
 	rule_text:
 		<i-auto>(Creatures don’t lose loyalty from damage.)</i-auto>
-		<sym-auto>+1</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. <atom-cardname><nospellcheck>Maktel and the Unknowable</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>+1</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 		<sym-auto>-1</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may return a creature or land card milled this way to your hand.
 		<sym-auto>-3</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put a creature or land card milled this way onto the battlefield.
 	flavor_text: <i-flavor></i-flavor>

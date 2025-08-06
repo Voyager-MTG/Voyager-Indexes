@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw a card.
-		Whenever <atom-cardname><nospellcheck>Drown in Self Reflection</nospellcheck></atom-cardname> leaves your graveyard during your turn, you may cast a copy of it. <i-auto>(You still pay its costs.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> leaves your graveyard during your turn, you may cast a copy of it. <i-auto>(You still pay its costs.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Emily LUbanko
 	card_code_text: 

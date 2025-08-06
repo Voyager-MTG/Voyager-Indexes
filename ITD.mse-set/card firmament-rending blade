@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Firmament-Rending Blade</nospellcheck></atom-cardname> enters, attach it to target creature you control.
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, attach it to target creature you control.
 		Equipped creature attacking causes abilities of that creature to trigger as though it entered.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor><error-spelling:en_US>Vorpal</error-spelling:en_US> blades take many forms, from the last sunbeam of summer to an ugly gash in reality.</i-flavor>

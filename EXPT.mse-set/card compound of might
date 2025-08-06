@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		castle
+		https://www.artstation.com/artwork/rlnXw2
+	time_created: 2025-07-28 13:37:24
+	time_modified: 2025-07-28 17:36:24
+	name: Compound of Might
+	image: image29.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto> or <sym-auto>G</sym-auto>. <atom-cardname><nospellcheck>This land</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
+	flavor_text: <i-flavor>Cutting through the heart of the city, an underground empire makes its stamp on the markets surrounding it.</i-flavor>
+	illustrator: Jordan Grimmer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

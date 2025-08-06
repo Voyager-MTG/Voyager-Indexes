@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_bottom: 8
+		frames: lesson, frameless art
+		custom_symbol: MyrCustoms/IthLarge.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-07-26 01:20:16
+	time_modified: 2025-07-26 11:35:25
+	extra_data:
+		magic-m15-altered-plus:
+			corner: custom
+	name: Omnigenius Vessel
+	casting_cost: 5II
+	image: image139
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Erysite</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dragon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Transcend <param-cost><sym-auto>5II</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of combat, cast your chosen Erysite from outside the game by paying its Transcend cost and exiling a Dragon creature you control.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, up to one target nonland permanent becomes an enchantment. <i-auto>(It loses all other card types.)</i-auto> 
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Christina Yen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

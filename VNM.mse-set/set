@@ -112,6 +112,10 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
+	magic-m15-mainframe-dfc-plus:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	magic-m15-mainframe-planeswalker:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -650,31 +654,31 @@ keyword:
 keyword:
 	keyword: Trace
 	match: trace its
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	reminder: Traces are cards that become token copies as they move into public zones.
 	rules: 
 	mode: custom
 keyword:
 	keyword: Trace
 	match: trace a
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	reminder: Traces are cards that become token copies as they move into public zones.
 	rules: 
 	mode: custom
 keyword:
 	keyword: Trace
 	match: trace <atom-param>english_number</atom-param> 
-	reminder: Create those cards. Traces are cards that become copies when they enter public zones.
+	reminder: Traces are cards that become token copies as they move into public zones.
 	rules: 
 	mode: custom
 keyword:
 	keyword: Trace
 	match: trace another
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	reminder: Traces are cards that become token copies as they move into public zones.
 	rules: 
 	mode: custom
 keyword:
 	keyword: Trace
 	match: trace <atom-param>name</atom-param>
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	reminder: Traces are cards that become token copies as they move into public zones.
 	rules: 
 	mode: custom
 keyword:

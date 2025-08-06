@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Impending <param-number>5</param-number>—<param-cost><sym>2B</sym> </param-cost></key></nospellcheck></kw-0> <i-auto>(If this spell was impending, it enters with five time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)</i-auto>
-		Whenever <atom-cardname><nospellcheck>Longlegs</nospellcheck></atom-cardname> enters or attacks, each opponent sacrifices a creature.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, each opponent sacrifices a creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
 	toughness: 7

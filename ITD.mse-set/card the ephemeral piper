@@ -12,7 +12,7 @@ card:
 	special_text:
 		Enchantments you control have <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>.
 		[+2]: <margin:130:0:0>Target creature you control gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and can’t be blocked until end of turn.</margin:130:0:0>
-		[-1]: <margin:130:0:0>Target creature <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0> until <atom-cardname><nospellcheck>The Ephemeral Piper</nospellcheck></atom-cardname> leaves the battlefield.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Target creature <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0> until <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> leaves the battlefield.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Create a colorless enchantment token named Ringing Noise with “At the beginning of each opponent’s upkeep, for each creature they control, destroy that creature unless its controller pays <sym-auto>1</sym-auto>.”</margin:130:0:0>
 	card_color: white, blue, green, multicolor, horizontal
 	name: The Ephemeral Piper
@@ -31,7 +31,7 @@ card:
 	loyalty: 4
 	level_1_text: Enchantments you control have <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>.
 	level_2_text: <margin:130:0:0>Target creature you control gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and can’t be blocked until end of turn.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>Target creature <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0> until <atom-cardname><nospellcheck>The Ephemeral Piper</nospellcheck></atom-cardname> leaves the battlefield.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Target creature <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0> until <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> leaves the battlefield.</margin:130:0:0>
 	level_4_text: <margin:130:0:0>Create a colorless enchantment token named Ringing Noise with “At the beginning of each opponent’s upkeep, for each creature they control, destroy that creature unless its controller pays <sym-auto>1</sym-auto>.”</margin:130:0:0>
 	level_5_text: 
 	illustrator: Valeriy Vegera

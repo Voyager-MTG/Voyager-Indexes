@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		When <atom-cardname><nospellcheck>Antisun’s Domain</nospellcheck></atom-cardname> enters, if you control five or more lands with different names, create two 1/1 white Nightmare creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
+		When <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> enters, if you control five or more lands with different names, create two 1/1 white Nightmare creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Valun_art
 	card_code_text: 

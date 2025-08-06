@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Distortion World</nospellcheck></atom-cardname> enters, if it was cast, exile all other nonland permanents and create four colorless 1/1 Faerie Horror creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, if it was cast, exile all other nonland permanents and create four colorless 1/1 Faerie Horror creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.
 		At the beginning of each player’s upkeep, they may put a card they own exiled with this enchantment onto the battlefield under their control.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jakub Gazmercik

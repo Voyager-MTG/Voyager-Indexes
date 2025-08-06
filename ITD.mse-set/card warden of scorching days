@@ -23,7 +23,7 @@ card:
 	rule_text:
 		<kw-0><nospellcheck><key>Impending <param-number>4</param-number>—<param-cost><sym>1R</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)</i-auto>
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Warden of Scorching Days</nospellcheck></atom-cardname> enters or attacks, discard a card, then draw a card.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, discard a card, then draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

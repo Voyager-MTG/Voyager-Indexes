@@ -17,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Deepmind Oracle</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>surveil <param-number>X</param-number></key></nospellcheck></kw-0>, where X is its power.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>surveil <param-number>X</param-number></key></nospellcheck></kw-0>, where X is its power.
 		Iterate <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

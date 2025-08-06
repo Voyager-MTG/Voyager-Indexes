@@ -4,6 +4,7 @@ card:
 	notes:
 		GREENRARE02
 		!replacetoken Liberated Reminder;1
+		!tapped
 	time_created: 2024-01-10 17:58:10
 	time_modified: 2025-02-07 06:47:04
 	name: Sapience Spreading

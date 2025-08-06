@@ -13,6 +13,7 @@ card:
 	notes:
 		COLOURLESSUNCOMMON
 		FELLOWLANDCYCLE
+		!tapped
 	time_created: 2022-06-09 06:25:33
 	time_modified: 2025-02-19 13:54:26
 	card_color: black, red, land, horizontal

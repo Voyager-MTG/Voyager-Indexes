@@ -15,8 +15,8 @@ card:
 	time_modified: 2025-07-25 10:27:29
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I, II — Draw a card.
-		III — When you next cast an instant or sorcery spell this turn, it gains “If this spell would be put into a graveyard this turn, return it to its owner’s hand instead.”
+		Draw a card.
+		When you next cast an instant or sorcery spell this turn, it gains “If this spell would be put into a graveyard this turn, return it to its owner’s hand instead.”
 		​
 	name: Petition the Abominable
 	casting_cost: 1UU

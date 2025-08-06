@@ -33,7 +33,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<sym-auto>2</sym-auto>, Discard this: <kw-A><nospellcheck><key>Trace <param-name>a card named Fault into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>2</sym-auto>, Discard this: <kw-A><nospellcheck><key>Trace <param-name>a card named Fault into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Traces are cards that become token copies as they move into public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Fault</b>|<i>Basic Land — Fault</i><soft-line>
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.)</i-auto></soft-line>
 	rule_text_2: 

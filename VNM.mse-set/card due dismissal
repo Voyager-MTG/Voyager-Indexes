@@ -36,7 +36,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		Counter target spell unless its controller pays <sym-auto>2</sym-auto>. Then <kw-A><nospellcheck><key>trace <param-name>a card named Hollow Graze into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		Counter target spell unless its controller pays <sym-auto>2</sym-auto>. Then <kw-A><nospellcheck><key>trace <param-name>a card named Hollow Graze into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Traces are cards that become token copies as they move into public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Hollow Graze</b> <sym>U/B</sym>| <u>Skill Instant<soft-line>
 		</u></soft-line>Target creature gets -2/-0 until end of turn. Cast only outside of combat.
 	rule_text_2: 

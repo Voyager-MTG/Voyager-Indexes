@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Protostar Bombardment</nospellcheck></atom-cardname> enters, it deals 4 damage to each creature.
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, it deals 4 damage to each creature.
 		Whenever a creature an opponent controls dies, its controller loses 2 life unless they sacrifice a land.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Fieldweeble

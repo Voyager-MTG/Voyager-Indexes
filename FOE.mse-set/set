@@ -5,7 +5,7 @@ stylesheet: m15-altered-plus
 stylesheet_version: 2020-09-04
 set_info:
 	title: Frontiers of Eternity
-	description: 
+	description: !designer:TVP
 	copyright: Set by Tvpattack
 	set_code: FOE
 	set_language: EN

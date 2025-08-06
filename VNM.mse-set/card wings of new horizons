@@ -34,7 +34,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Traces are cards that become token copies as they move into public zones.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +1/+1 and has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0>
 		<b>Warped Exploration</b> <sym>2</sym>|<i> </i><u>Skill Sorcery</u><soft-line>

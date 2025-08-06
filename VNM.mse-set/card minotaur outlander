@@ -35,7 +35,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> or another creature you control enters, <kw-A><nospellcheck><key>trace <param-name><atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>s skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> or another creature you control enters, <kw-A><nospellcheck><key>trace <param-name><atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>s skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Traces are cards that become token copies as they move into public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Prepared Strike</b> <sym>R</sym>| <u>Skill Sorcery<soft-line>
 		</u>Target creature you control gets +1/+0 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.</soft-line>
 	rule_text_2: 

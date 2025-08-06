@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Watching Wolf</nospellcheck></atom-cardname> can’t blocked by creatures with power 2 or less.
+		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> can’t blocked by creatures with power 2 or less.
 	flavor_text: <i-flavor>Molded in the vague shape of wolves, they have no need for food. Their mouths simply disable victims to be dissolved by the caustic fluid they weep.</i-flavor>
 	power: 4
 	toughness: 4

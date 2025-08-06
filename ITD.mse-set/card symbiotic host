@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Symbiotic Host</nospellcheck></atom-cardname> leaves your graveyard during your turn or dies, create a 1/1 colorless Insect artifact creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> leaves your graveyard during your turn or dies, create a 1/1 colorless Insect artifact creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”
 	flavor_text: <i-flavor>Never follow a butterfly.</i-flavor>
 	power: 3
 	toughness: 3

@@ -35,7 +35,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<soft-line>Whenever you attack, <kw-A><nospellcheck><key>trace <param-name><atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>’s skill into your hand.</soft-line></param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		<soft-line>Whenever you attack, <kw-A><nospellcheck><key>trace <param-name><atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>’s skill into your hand.</soft-line></param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Traces are cards that become token copies as they move into public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Reshape Will</b> <sym>1W/U</sym>| <u>Skill Instant<soft-line>
 		</u></soft-line>Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat.
 	rule_text_2: 

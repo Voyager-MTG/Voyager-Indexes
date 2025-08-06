@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Matryoshka Crawler</nospellcheck></atom-cardname> dies, you may search your library for a colorless card with mana value 3 or less, put it onto the battlefield, then shuffle.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, you may search your library for a colorless card with mana value 3 or less, put it onto the battlefield, then shuffle.
 	flavor_text: <i-flavor>It contains multitudes.</i-flavor>
 	power: 4
 	toughness: 4

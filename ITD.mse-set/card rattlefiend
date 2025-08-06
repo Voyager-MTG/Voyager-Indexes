@@ -16,7 +16,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Rattlefiend</nospellcheck></atom-cardname> dies, if it had base toughness 2 or greater, create a token copy of <atom-cardname><nospellcheck>Rattlefiend</nospellcheck></atom-cardname>, except it’s </sym>X/X<sym>, where X is <atom-cardname><nospellcheck>Rattlefiend</nospellcheck></atom-cardname>’s base toughness minus 1.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, if it had base toughness 2 or greater, create a token copy of <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, except it’s </sym>X/X<sym>, where X is <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>’s base toughness minus 1.
 	flavor_text: <i-flavor></i-flavor>
 	power: 8
 	toughness: 8
