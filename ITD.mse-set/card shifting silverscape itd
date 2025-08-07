@@ -12,6 +12,7 @@ card:
 	notes:
 		!tokentag I10
 		!related Shifting Silverscape;
+		!conjured
 	time_created: 2024-10-04 11:50:19
 	time_modified: 2025-04-23 11:09:24
 	card_color: artifact

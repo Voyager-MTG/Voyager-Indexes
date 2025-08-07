@@ -7,7 +7,7 @@ card:
 		chop_top: 0
 		chop_bottom: 8
 		frames: frameless art
-		custom_symbol: MyrCustoms/Ith-Large.png
+		custom_symbol: MyrCustoms/Ith.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 

@@ -6,6 +6,7 @@ include_sets = [
     "FOE",
     "HEL",
     "HOD",
+    "LAIR",
     # "LOB",
     "ITD",
     "PTN",
