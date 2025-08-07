@@ -13,9 +13,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: <soft-line><soft-line>Updated</soft-line></soft-line>
+	notes: <soft-line><soft-line>#updated</soft-line></soft-line>
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-20 00:51:54
+	time_modified: 2025-08-04 18:50:34
 	extra_data:
 		magic-m15-altered-plus:
 			corner: custom
@@ -33,8 +33,8 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand. )</i-auto></atom-reminder-custom></kw-A>
 		This artifact enters tapped.
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand. )</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this artifact: Draw a card from your sanctum or library.
 	rule_text_2: 
 	rule_text_3: 

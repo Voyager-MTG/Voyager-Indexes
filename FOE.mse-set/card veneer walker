@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-23 18:29:44
+	time_modified: 2025-08-04 21:08:25
 	name: Veneer Walker
 	casting_cost: 1U
 	image: image27
@@ -21,7 +21,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
-		<kw-1><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-1> — Whenever this creature attacks, draw a card, then discard a card. If you control five or more differently named lands, you may draw a card instead.
+		<kw-1><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-1> — Whenever this creature attacks, draw a card, then discard a card if you don’t control five or more differently named lands.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The paths shape themselves around the minds of those who walk them.</i-flavor>

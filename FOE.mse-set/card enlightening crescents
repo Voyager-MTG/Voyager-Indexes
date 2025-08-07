@@ -5,9 +5,10 @@ card:
 	has_styling: false
 	notes:
 		!related Depths of Changeattach>;
-		!addtoken Depths of Change;transform;
+		!addtoken Depths of Change;transform;<soft-line>
+		#updated</soft-line>
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-11 20:24:45
+	time_modified: 2025-08-04 20:02:03
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -31,7 +32,7 @@ card:
 	rarity: common
 	rule_text:
 		When this realm enters, create a 3/3 silver Crab creature token.
-		<sym-auto>1</sym-auto>, Tap a token you control: Transform this realm.
+		<sym-auto>1</sym-auto>, Tap an untapped token you control: Transform this realm.
 	rule_text_2: At the beginning of combat on your turn, this enchantment becomes a copy of up to one target token you control until end of turn.
 	rule_text_3: 
 	flavor_text: <i-flavor>“Are we lost? Because I swear I’ve seen that crescent already.” Said <error-spelling:en_US>Melodia</error-spelling:en_US>. “Its...Wait, I think...YES! This is a map!” Exclaimed <error-spelling:en_US>Najael</error-spelling:en_US>.</i-flavor>

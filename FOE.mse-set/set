@@ -5,17 +5,8 @@ stylesheet: m15-altered-plus
 stylesheet_version: 2020-09-04
 set_info:
 	title: Frontiers of Eternity
-	description: !designer:TVP
-	copyright: Set by Tvpattack
-	set_code: FOE
-	set_language: EN
-	symbol: symbol1.mse-symbol
-	masterpiece_symbol: masterpiece_symbol9.mse-symbol
-	CARDNAME_replacement: card's type
-	automatic_reminder_text: old, expert, pseudo, action, custom, lower case
-	remove_card_codes: no
-	blend_with_colors: yes
-	custom_index: rarity,color
+	symbol: symbol2.mse-symbol
+	masterpiece_symbol: 
 styling:
 	magic-m15-altered:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -467,7 +458,6 @@ include_file: card called to eternity
 include_file: card shifting dream
 include_file: card abandoned sanctum
 include_file: card parallellism
-include_file: card kalim shivtas ear
 include_file: card avlod charm
 include_file: card gluttony
 include_file: card personal sins
@@ -526,6 +516,7 @@ include_file: card miori outlands future
 include_file: card terramorphic singularity
 include_file: card form of the paths
 include_file: card stinging surveyor
+include_file: card kalim shivtas ear
 keyword:
 	keyword: Luminous
 	match: Luminous

@@ -1,9 +1,11 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: watch power in testing
+	notes:
+		watch power in testing
+		#updated
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-19 23:53:55
+	time_modified: 2025-08-04 19:31:36
 	name: Ignelscor Weaver
 	casting_cost: 1BR
 	image: image184
@@ -18,7 +20,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When this creature enters, create a 2/1 black and red Elemental Demon creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
+		When this creature enters, create a 2/1 black and red Elemental Demon creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 		<sym-auto>1</sym-auto>, Sacrifice another creature: Put a +1/+1 counter on this creature. It gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
