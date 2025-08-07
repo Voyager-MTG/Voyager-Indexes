@@ -7,7 +7,7 @@ card:
 		HUMANTYPE
 		CITIZENTYPE
 	time_created: 2023-09-07 23:42:37
-	time_modified: 2024-10-29 12:09:47
+	time_modified: 2025-08-07 11:25:58
 	card_color: black
 	name: Hired Bouncer
 	casting_cost: 1B
@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Hired Bouncer</nospellcheck></atom-cardname> enters, each player sacrifices a creature.
+		When <atom-cardname><nospellcheck>Hired Bouncer</nospellcheck></atom-cardname> enters, if it was cast, each player sacrifices a creature.
 	flavor_text: <i-flavor>“Lowly humans like <error-spelling:en_US>us’ve</error-spelling:en_US> got no chance in a fair fight with a <error-spelling:en_US>callwolf</error-spelling:en_US>. So convince them it’s unfair.”</i-flavor>
 	power: 1
 	toughness: 1

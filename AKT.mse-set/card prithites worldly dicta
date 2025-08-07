@@ -20,7 +20,6 @@ card:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. Put that card into your hand unless an opponent pays life equal to its mana value.
 		<atom-cardname><nospellcheck><i>Prithite’s Worldly Dicta</i></nospellcheck></atom-cardname> deals damage to target creature or planeswalker equal to the number of land cards in your graveyard.
-		​
 	name: <i>Prithite’s Worldly Dicta</i>
 	casting_cost: 2RR
 	image: image151

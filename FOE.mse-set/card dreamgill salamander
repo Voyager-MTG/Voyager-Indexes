@@ -36,7 +36,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text: Whenever you look at one or more cards from the top of your library, put a +1/+1 counter on this creature.
-	rule_text_2: Tap target creature and put three <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> on it. <i-auto>(Then put this into your sanctum.)</i-auto>
+	rule_text_2: Tap target creature and put three <kw-0><nospellcheck><key>stun</key></nospellcheck></kw-0> counter on it. <i-auto>(Then put this into your sanctum.)</i-auto>
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“Not as terrifying as I heard it’d be.”<soft-line>
