@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters or attacks, <kw-A><nospellcheck><key>sift <param-number>2</param-number></key></nospellcheck>, then you may reveal a nonpermanent card from your sanctum and put it into your hand.<atom-reminder-expert> <i-auto>(Look at the top <param-number>two</param-number> cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever <atom-cardname><nospellcheck>Coralwisp Entity</nospellcheck></atom-cardname> enters or attacks, <kw-A><nospellcheck><key>sift <param-number>2</param-number></key></nospellcheck>, then you may reveal a nonpermanent card from your sanctum and put it into your hand.<atom-reminder-expert> <i-auto>(Look at the top <param-number>two</param-number> cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-0><nospellcheck><key>Materialize <param-number>2</param-number></key></nospellcheck></kw-0>
 	rule_text_2: 
 	rule_text_3: 

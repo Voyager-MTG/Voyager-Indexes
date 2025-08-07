@@ -34,7 +34,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		During each of your turns, you may cast a copy of a Realm permanent you control on the battlefield or in your sanctum. The copy becomes colorless.
-		Sacrifice two nonland colorless permanents: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
+		Sacrifice two nonland colorless permanents: <atom-cardname><nospellcheck>Prophellos, Hungering Manipulator</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

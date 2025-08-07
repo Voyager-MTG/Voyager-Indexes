@@ -28,7 +28,7 @@ card:
 	rarity: rare
 	rule_text:
 		<i-auto>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, cast it transformed.)</i-auto>
-		When <atom-cardname><nospellcheck>this battle</nospellcheck></atom-cardname> enters, it deals 4 damage to any other <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.
+		When <atom-cardname><nospellcheck>Mordel Civil War</nospellcheck></atom-cardname> enters, it deals 4 damage to any other <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

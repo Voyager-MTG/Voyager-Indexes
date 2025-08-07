@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put a permanent card from among the milled cards into your hand.
-		<kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — If you control five or more differently named lands, you may instead <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then you put a card from your graveyard into your hand. If you do, exile <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>.
+		<kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — If you control five or more differently named lands, you may instead <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then you put a card from your graveyard into your hand. If you do, exile <atom-cardname><nospellcheck>Exhuberant Genesis</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Calder Moore
 	card_code_text: 

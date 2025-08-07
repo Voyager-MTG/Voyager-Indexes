@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> enters or attacks, it deals 2 damage to up to one target permanent or player that was dealt damage this turn.
+		Whenever <atom-legname><nospellcheck>Kalim</nospellcheck></atom-legname> enters or attacks, it deals 2 damage to up to one target permanent or player that was dealt damage this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 5

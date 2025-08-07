@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> enters or attacks, put a +1/+1 counter on another target creature you control. It gains your choice of <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
-		At the beginning of your end step, if a creature you control died this turn, <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> deals 3 damage to each opponent and each planeswalker you don’t control.
+		Whenever <atom-legname><nospellcheck>Numa</nospellcheck></atom-legname> enters or attacks, put a +1/+1 counter on another target creature you control. It gains your choice of <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		At the beginning of your end step, if a creature you control died this turn, <atom-legname><nospellcheck>Numa</nospellcheck></atom-legname> deals 3 damage to each opponent and each planeswalker you don’t control.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

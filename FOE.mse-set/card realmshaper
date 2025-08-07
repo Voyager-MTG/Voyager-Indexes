@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: You may reveal this card from your sanctum at the start of the game. If you do, put any combination of six basic lands of any type from outside the game into your sanctum. (You don’t reveal them. They do not count towards your starting sanctum size.)
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-08-04 22:59:53
+	time_modified: 2025-08-06 23:54:14
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -35,7 +35,7 @@ card:
 	rule_text:
 		This artifact enters tapped.
 		When this artifact enters, you may exile a land card from your hand or sanctum.
-		<sym-auto>T</sym-auto>: Put a land card exiled by this artifact onto the battlefield tapped.
+		<sym-auto>T</sym-auto>: Put a land card exiled by this artifact onto the battlefield.
 		<sym-auto>3</sym-auto>: Return this artifact to its owner’s hand.
 	rule_text_2: 
 	rule_text_3: 

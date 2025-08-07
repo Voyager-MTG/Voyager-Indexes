@@ -39,9 +39,9 @@ card:
 	loyalty_cost_2: +1
 	loyalty_cost_3: 0
 	loyalty: 2
-	level_1_text: When <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> enters, you may search your library for a Bird card, reveal it, then put it into your hand. Then shuffle.
+	level_1_text: When <atom-cardname><nospellcheck>Jothi, Awakened Flock</nospellcheck></atom-cardname> enters, you may search your library for a Bird card, reveal it, then put it into your hand. Then shuffle.
 	level_2_text: <margin:130:0:0>Put a +1/+1 counter on a Bird permanent or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jothi</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> planeswalker you control.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>Until end of turn, <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> becomes an X/X Legendary Bird creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, where X is the number of Birds you control.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Until end of turn, <atom-cardname><nospellcheck>Jothi, Awakened Flock</nospellcheck></atom-cardname> becomes an X/X Legendary Bird creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, where X is the number of Birds you control.</margin:130:0:0>
 	level_4_text: 
 	illustrator: FleetingEmber, Edited by TVP
 	card_code_text: 

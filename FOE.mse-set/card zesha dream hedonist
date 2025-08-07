@@ -45,7 +45,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage to a player, that player exiles that many cards from the top of their library. 
+		Whenever <atom-cardname><nospellcheck>Zesha, Dream Hedonist</nospellcheck></atom-cardname> deals combat damage to a player, that player exiles that many cards from the top of their library. 
 		You may play land cards from among face up cards you don’t own in exile.
 	rule_text_2:
 		As this land enters, you may pay 3 life. If you don’t, it enters tapped.

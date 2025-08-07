@@ -39,7 +39,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> and at least one other creature attack, until end of turn, target attacking creature you control gets +1/+1.
+		Whenever <atom-cardname><nospellcheck>Virulent Attendant</nospellcheck></atom-cardname> and at least one other creature attack, until end of turn, target attacking creature you control gets +1/+1.
 	rule_text_2: Put a +1/+1 counter on each of up to X target creatures. <i-auto>(Then put this card into your sanctum.)</i-auto>
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

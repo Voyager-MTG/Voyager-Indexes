@@ -30,7 +30,7 @@ card:
 	super_type: <word-list-type-en>Echantment Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Icon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose one—
+		When <atom-cardname><nospellcheck>Parading Terrain</nospellcheck></atom-cardname> enters, choose one—
 		<li><bullet>• </bullet>Search your library for a basic land card.
 		</li><li><bullet>• </bullet>Choose a land card from your sanctum.
 		<margin:0:0:5></li>Reveal it, shuffle, then put that card on top of your library.</margin:0:0:5>

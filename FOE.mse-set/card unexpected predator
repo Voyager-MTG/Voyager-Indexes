@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — <sym-auto>3G</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+1 until end of turn for each differently named land you control. Activate only once each turn.
+		<kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — <sym-auto>3G</sym-auto>: <atom-cardname><nospellcheck>Unexpected Predator</nospellcheck></atom-cardname> gets +1/+1 until end of turn for each differently named land you control. Activate only once each turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:

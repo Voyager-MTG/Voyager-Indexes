@@ -30,7 +30,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, it deals 1 damage to any target. If you control five or more differently named lands, repeat this process once.
+		<kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — Whenever <atom-cardname><nospellcheck>Stinging Surveyor</nospellcheck></atom-cardname> enters or attacks, it deals 1 damage to any target. If you control five or more differently named lands, repeat this process once.
 		Whenever you deal noncombat damage to a creature you control, it gets +2/+0 until end of turn.
 	rule_text_2: 
 	rule_text_3: 

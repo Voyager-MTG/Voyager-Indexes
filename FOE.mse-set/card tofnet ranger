@@ -19,7 +19,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 1/1 white and silver Insect creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Tofnet Ranger</nospellcheck></atom-cardname> enters, create a 1/1 white and silver Insect creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 		At the beginning of your end step, you may pay <sym-auto>2</sym-auto> and sacrifice a token. If you do, create a 3/3 green Beast creature token.
 	rule_text_2: 
 	rule_text_3: 
