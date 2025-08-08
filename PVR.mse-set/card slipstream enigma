@@ -16,12 +16,12 @@ card:
 		BLUERARE1
 		VERTEXCYCLE
 	time_created: 2021-10-18 20:14:59
-	time_modified: 2025-03-02 21:35:45
+	time_modified: 2025-08-08 11:48:01
 	card_color_2: blue
 	name: Slipstream Enigma
 	name_2: Emerge 
 	casting_cost: U
-	casting_cost_2: UV/GV/W
+	casting_cost_2: 2UV/GV/W
 	image: image11
 	image_2: 
 	mainframe_image: 
