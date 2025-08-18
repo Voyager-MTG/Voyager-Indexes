@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -35,11 +35,11 @@ card:
 	sub_type_2: <word-list-race-en>Fish</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Werewolf</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0> <sym>2UG</sym> <i-auto>(Play either half of this card. Once each turn, pay this cost as a sorcery to transform it until end of turn.)</i-auto>
+		<kw-0><nospellcheck><key>Bisapience <param-cost><sym>2UG</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(Play either half of this card. Once each turn, pay this cost as a sorcery to transform it until end of turn.)</i-auto>
 		<atom-cardname><nospellcheck>Submerged Spires</nospellcheck></atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>G</sym-auto>.
 	rule_text_2:
-		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0> <sym>0</sym>
+		<kw-0><nospellcheck><key>Bisapience <param-cost><sym>0</sym></param-cost></key></nospellcheck></kw-0>
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
 		<atom-cardname><nospellcheck>Emerged Stonepiler</nospellcheck></atom-cardname> can’t be blocked.
 	flavor_text: <i-flavor>One must breathe, one must swim.</i-flavor>

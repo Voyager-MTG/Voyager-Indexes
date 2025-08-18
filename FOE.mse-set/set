@@ -21,7 +21,6 @@ styling:
 		chop_top: 2
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	magic-m15-mainframe-battles:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(If you control at least four permanents of a color, illuminate that color this game.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
 		Create two 1/1 green Elk Plant creature tokens and put a +1/+1 counter on up to one token you control. Then If you illuminated green, put a +1/+1 counter on each other creature you control. <i-auto>(This spell’s tokens can cause you to illuminate green before putting counters.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Melanie Miklitza

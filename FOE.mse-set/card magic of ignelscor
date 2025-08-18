@@ -1,11 +1,10 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: https://www.artstation.com/artwork/PeBDVo
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2025-08-04 20:57:43

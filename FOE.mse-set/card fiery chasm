@@ -1,22 +1,19 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 2
-		font_cap: 
 		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: 
+		font_cap: 
 		popout_image_style: 
+		card_watermark: sets/Set-foe.png
+		alt_rarity_color: 
 		use_holofoil_stamps: no
 		remove_from_autocount: yes
-		alt_rarity_color: 
-		card_watermark: sets/Set-foe.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		CL01,Noncreature,0,,Stone Quarry
 		!tapped

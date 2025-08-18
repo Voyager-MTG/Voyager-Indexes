@@ -2,7 +2,12 @@
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
-	has_styling: false
+	has_styling: true
+	styling_data:
+		combined_chop: -4
+		other_options: clear frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: guest walker by requiem
 	time_created: 2024-10-25 20:47:10
 	time_modified: 2025-07-25 10:14:26

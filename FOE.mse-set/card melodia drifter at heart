@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -7,12 +7,10 @@ card:
 		chop_top: 2
 		chop_bottom: 
 		font_cap: 13.5
-		altered_plus_frames: star
-		use_holofoil_stamps: no
 		card_watermark: sets/Set-foe.png
+		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		!smallbox 
 		!exportname Melodia Explorer at Heart

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: !addtoken Scar;1
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <sym-auto>2G</sym-auto>, Exile <atom-cardname><nospellcheck>Carapace Disciple</nospellcheck></atom-cardname> from your graveyard: Put two +1/+1 counters on target creature and you get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>. Activate only as a sorcery.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+	rule_text: <sym-auto>2G</sym-auto>, Exile <atom-cardname><nospellcheck>Carapace Disciple</nospellcheck></atom-cardname> from your graveyard: Put two +1/+1 counters on target creature and <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>. Activate only as a sorcery.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

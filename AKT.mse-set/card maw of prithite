@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -38,9 +38,9 @@ card:
 	sub_type_2: <word-list-race-en>Dragon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>Bisapience</key></nospellcheck> <sym>R</sym><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Bisapience <param-cost><sym>R</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>4R</sym-auto>: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery.
-	rule_text_2: <kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0> <sym>R</sym>
+	rule_text_2: <kw-0><nospellcheck><key>Bisapience <param-cost><sym>R</sym></param-cost></key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor>Alicia snarled at the massive <error-spelling:en_US>urdon’s</error-spelling:en_US> appraisal of her. How inconsequential, how defenseless she truly was. But then, understanding.</i-flavor>
 	power_2: 3

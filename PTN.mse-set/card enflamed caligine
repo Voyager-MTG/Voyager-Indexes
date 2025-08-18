@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -30,7 +30,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Enflamed Caligine</nospellcheck></atom-cardname> enters, if it was cast from exile, it gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
-		<kw-A><nospellcheck><key>Foretell <param-cost><sym>3R</sym></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Foretell <param-cost><sym>3R</sym></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

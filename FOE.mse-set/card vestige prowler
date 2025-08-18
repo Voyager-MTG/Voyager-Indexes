@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -19,7 +19,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When this creature enters, tap target creature an opponent controls and put a <kw-0><nospellcheck><key>stun</key></nospellcheck></kw-0> counter on it.
+		When this creature enters, tap target creature an opponent controls and put a <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> on it.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:

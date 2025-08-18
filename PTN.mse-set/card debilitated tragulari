@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
@@ -30,7 +30,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Debilitated Tragulari</nospellcheck></atom-cardname> enters, you get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Debilitated Tragulari</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
 		When <atom-cardname><nospellcheck>Debilitated Tragulari</nospellcheck></atom-cardname> enters, choose two target creatures controlled by different players. Those creatures <kw-0><nospellcheck><key>fight</key></nospellcheck></kw-0> each other.
 	rule_text_2: 
 	rule_text_3: 

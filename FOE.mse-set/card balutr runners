@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,16 +6,13 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		font_cap: 
 		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: 
+		font_cap: 
 		popout_image_style: 
-		use_holofoil_stamps: no
 		card_watermark: sets/Set-foe.png
+		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: 
 	time_created: 2024-02-06 01:56:27
 	time_modified: 2025-06-14 16:33:07
@@ -31,7 +28,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When this creature enters, if you cast it from your hand, choose one— 
-		<li><bullet>• </bullet><kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of another token you control.)</i-auto></atom-reminder-custom></kw-A>
+		<li><bullet>• </bullet><kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token that’s a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
 		</li><li><bullet>• </bullet>Reveal the top card of your library. If its a permanent card, put it into your hand.
 		<margin:0:0:5></li><kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>1I/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A></margin:0:0:5>
 	rule_text_2: 

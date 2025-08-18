@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,29 +6,28 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
-		font_cap: 13.5
 		d20_dividers: d20 mode
-		frames: lesson
-		altered_plus_frames: token, backdfc
+		font_cap: 13.5
 		name_color: shadowed white
 		typeline_color: shadowed white
-		use_holofoil_stamps: no
-		alt_rarity_color: 224,224,224:84,84,84:0,0,0:0,0,0:0.07:
 		card_watermark: sets/Set-foe.png
+		alt_rarity_color: 224,224,224:84,84,84:0,0,0:0,0,0:0.07:
+		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		!related Mordel Civil War;
 		!addtoken Mordel Civil War;transform;
 		!tag fascism;
 	time_created: 2023-06-24 00:58:34
-	time_modified: 2024-11-03 10:06:29
+	time_modified: 2025-08-16 01:37:52
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal back
+	card_trim_plus: backdfc
 	card_color: red
 	name: Kera, Mordel’s New Hope
+	transformation: back triangle
 	image: image405
 	image_2: 
 	mainframe_image: 

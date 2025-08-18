@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -34,9 +34,9 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Werewolf</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: <word-list-race-en>Horror</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Werewolf</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
-	rule_text: <kw-A><nospellcheck><key>Bisapience</key></nospellcheck>—Exile six cards from your graveyard.<atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <kw-A><nospellcheck><key>Bisapience—<param-cost>Exile six cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2:
-		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0> <sym>BB</sym>
+		<kw-0><nospellcheck><key>Bisapience <param-cost><sym>BB</sym></param-cost></key></nospellcheck></kw-0>
 		Whenever another creature enters or blocks, it gets -0/-4 until end of turn.
 	flavor_text: <i-flavor>“I love my job, but I wish the state was more upfront on who I’d be sired onto.”</i-flavor>
 	flavor_text_2: <i-flavor>What would be an impossibly dangerous monster a decade ago is now Margaret, a fan of pizza, piano, and rotary phones.</i-flavor>

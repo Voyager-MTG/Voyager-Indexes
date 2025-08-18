@@ -19,13 +19,11 @@ styling:
 		overlay: 
 	magic-m15-altered-plus:
 		main_style: normal
-		frames: 
-		altered_plus_frames: 
 		other_options: auto nyx crowns
 		additional_options: 
+		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	magic-m15-cultist-simulator:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-unstable-basics:
@@ -45,6 +43,13 @@ include_file: card swamp
 include_file: card forest
 include_file: card drown in self reflection
 include_file: card apostle entheate
+include_file: card identity connoisseur
+include_file: card illuminant spire
+include_file: card ivory spire
+include_file: card searing spire
+include_file: card silent spire
+include_file: card twisted spire
+include_file: card verdant spire
 version_control:
 	type: none
 apprentice_code: 
