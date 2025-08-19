@@ -13,7 +13,8 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-22 16:30:15
+	time_modified: 2025-08-18 15:47:58
+	card_trim: clear
 	name: The Shattering of Meirel
 	casting_cost: 7
 	image: image419

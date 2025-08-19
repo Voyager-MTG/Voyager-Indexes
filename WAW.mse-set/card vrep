@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -16,7 +16,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<atom-cardname><nospellcheck>Vrep</nospellcheck></atom-cardname> can’t be blocked by more than one creature.
-		<i>Augmented</i> — At the beginning of combat on your turn, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, put a number of +1/+1 counters on target creature equal to <atom-cardname><nospellcheck>Vrep</nospellcheck></atom-cardname>’s power.
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — At the beginning of combat on your turn, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, put a number of +1/+1 counters on target creature equal to <atom-cardname><nospellcheck>Vrep</nospellcheck></atom-cardname>’s power.
 		<kw-A><nospellcheck><key>Reflect <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1</sym-auto></param-cost>: Create a token copy of this creature, except it’s a 1/1 Wonder Salamander without reflect. Reflect only as a sorcery, and only once.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 5

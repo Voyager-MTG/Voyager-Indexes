@@ -18,7 +18,8 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !alt
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-22 16:24:49
+	time_modified: 2025-08-18 15:49:41
+	card_trim: clear, adventure focus
 	name: A Flock is Born
 	name_2: Winged Guide
 	casting_cost: 5
@@ -30,9 +31,11 @@ card:
 	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en>Sorcery</word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: <word-list-spell>Focus</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
 	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text: Create three 1/1 black Bird creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	rule_text_2: Search your library for a basic land card, reveal it, put it into your hand. Then shuffle. Create a 1/1 black Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. <i-auto>(Then put this into your sanctum.)</i-auto>

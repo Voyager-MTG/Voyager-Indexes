@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		<i>Augmented</i> — If you’ve spent <sym>WUBRG</sym> to cast spells this turn, create a 3/3 green Beast creature token. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><i-auto><nospellcheck><key><i>Augmented</i></key></nospellcheck></i-auto></kw-A> — If you’ve spent <sym>WUBRG</sym> to cast spells this turn, create a 3/3 green Beast creature token. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 		Creatures you control get +2/+2 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Timi Honkanen

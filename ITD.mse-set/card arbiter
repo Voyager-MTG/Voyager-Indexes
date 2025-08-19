@@ -1,15 +1,14 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_bottom: 5
-		frames: clear
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: https://www.tumblr.com/witnesstheabsurd/723270931458457600/an-arbiter
 	time_created: 2024-08-27 13:55:19
-	time_modified: 2024-10-27 18:13:55
+	time_modified: 2025-08-18 18:38:32
+	card_trim: clear, legend
 	name: Arbiter
 	casting_cost: 5
 	image: image42

@@ -17,7 +17,8 @@ card:
 		Pay X Traverse X<soft-line>
 		Traverse X, x is the number of other cards in graveyard</soft-line>
 	time_created: 2024-02-06 01:55:16
-	time_modified: 2024-12-08 22:18:13
+	time_modified: 2025-08-18 15:49:31
+	card_trim: clear
 	name: Ambitious Haze
 	casting_cost: 1
 	image: image190
@@ -28,8 +29,8 @@ card:
 	sub_type: <word-list-race-en>Icon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<sym-auto>1</sym-auto>, Sacrifice this creature: <kw-A><nospellcheck><key>Draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand.)</i-auto></atom-reminder-custom></kw-A>
-		<sym-auto>4</sym-auto>, Exile this land from your graveyard: <kw-A><nospellcheck><key>Draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>1</sym-auto>, Sacrifice this creature: <kw-A><nospellcheck><key>Draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand. )</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>4</sym-auto>, Exile this land from your graveyard: <kw-A><nospellcheck><key>Draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand. )</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

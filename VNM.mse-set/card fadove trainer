@@ -1,18 +1,15 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		d20_dividers: all breaks
-		frames: lesson
-		altered_plus_frames: 
-		other_options: auto nyx crowns
 		hybrid_name: hybrid
+		d20_dividers: all breaks
+		other_options: auto nyx crowns
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: Preview
 	time_created: 2021-04-25 03:20:37
 	time_modified: 2025-07-21 00:51:53

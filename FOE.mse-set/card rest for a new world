@@ -33,7 +33,7 @@ card:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		When this enchantment enters, tap enchanted permanent.
 		Enchanted permanent doesn’t untap during its controller’s untap step.
-		When this enchantment leaves the battlefield, <kw-A><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		When this enchantment leaves the battlefield, <kw-A><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand. )</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -1,14 +1,11 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		frames: 
-		altered_plus_frames: token, space
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		!tokentag I10
 		!related Shifting Silverscape;

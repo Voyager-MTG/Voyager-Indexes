@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<b>[Target creature you control gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.]</b> Put a +1/+1 counter on it.
-		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>1B</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Diana Tsareva
 	card_code_text: 

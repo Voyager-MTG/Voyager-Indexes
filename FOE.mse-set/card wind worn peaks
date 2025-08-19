@@ -1,12 +1,11 @@
 ﻿mse_version: 2.5.8
 card:
-	stylesheet: m15-mainframe-dfc
+	stylesheet: m15-mainframe-dfc-plus
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
-		dfc_type: transforming
-		front_style: normal
-		other_options: pokemon evobar
+		official_frames: evobar (front)
+		altered_plus_frames: frontier (front), frontier (back)
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -34,6 +33,7 @@ card:
 	sub_type: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: <word-list-enchantment>Realm</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text:
 		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Draw a card, then discard a card. When you do, add one mana of any type.

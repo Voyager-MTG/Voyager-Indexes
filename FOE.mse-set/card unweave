@@ -20,7 +20,7 @@ card:
 	rule_text:
 		Choose one—
 		<li><bullet>• </bullet>Counter target permanent spell unless its controller pays <sym-auto>2</sym-auto>. If you control three or more tokens, counter that spell instead.
-		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand.)</i-auto></atom-reminder-custom></kw-A></li>
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand. )</i-auto></atom-reminder-custom></kw-A></li>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

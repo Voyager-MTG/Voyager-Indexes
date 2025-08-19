@@ -1,22 +1,19 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
 		chop_bottom: 8
-		font_cap: 13.5
-		d20_dividers: off
-		frames: 
-		altered_plus_frames: 
-		custom_symbol: abstract-061.png
-		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
-		use_holofoil_stamps: no
-		alt_rarity_color: 
 		hybrid_name: grey
+		d20_dividers: off
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		font_cap: 13.5
+		custom_symbol: abstract-061.png
+		alt_rarity_color: 
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:47:22
 	time_modified: 2025-02-28 23:35:10
@@ -37,7 +34,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When this enchantment enters, up to one target creature or enchantment you control becomes a 4/4 blue and green Turtle creature until end of turn.
-		<kw-A><nospellcheck><key>Materialize <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>2</param-number> or more: This also becomes an Icon creature until your next upkeep.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Materialize <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>2</param-number> or more: This also becomes an Icon creature until end of turn.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

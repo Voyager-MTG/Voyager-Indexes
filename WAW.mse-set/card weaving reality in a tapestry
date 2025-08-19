@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: !designer Pipsqueak
@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
 		Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-		<i>Augmented</i> — If you’ve spent <sym>WUBRG</sym> to cast spells this turn, put four +1/+1 counters on up to one target creature you control.
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — If you’ve spent <sym>WUBRG</sym> to cast spells this turn, put four +1/+1 counters on up to one target creature you control.
 	flavor_text:
 		<i-flavor>“What was this plane before the Wonderlands?”<soft-line>
 		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></i-flavor>

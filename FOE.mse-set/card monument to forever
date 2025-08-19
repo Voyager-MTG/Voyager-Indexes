@@ -15,7 +15,8 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: UA04,Noncreature,3,,Sleek Schooner
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-23 18:30:17
+	time_modified: 2025-08-18 15:48:25
+	card_trim: clear
 	name: Monument to Forever
 	casting_cost: 6
 	image: image188

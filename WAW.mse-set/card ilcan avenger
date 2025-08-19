@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-race-en>Kor</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
-		<i>Augmented</i> — <sym-auto>5</sym-auto>: If <atom-cardname><nospellcheck>Ilcan Avenger</nospellcheck></atom-cardname> has no +1/+1 counters on it, put three +1/+1 counters on it. This ability costs <sym-auto>5</sym-auto> less to activate if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — <sym-auto>5</sym-auto>: If <atom-cardname><nospellcheck>Ilcan Avenger</nospellcheck></atom-cardname> has no +1/+1 counters on it, put three +1/+1 counters on it. This ability costs <sym-auto>5</sym-auto> less to activate if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
 	flavor_text: <i-flavor>The survivors of <error-spelling:en_US>Ilcae</error-spelling:en_US>, battle-hardened and fueled by grief, tear through the Wonderlands in desperate hope for a wish to resurrect their plane.</i-flavor>
 	power: 3
 	toughness: 3

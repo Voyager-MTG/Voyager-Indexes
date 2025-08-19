@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,20 +6,17 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		font_cap: 13.5
+		hybrid_name: grey
 		d20_dividers: off
-		frames: 
-		altered_plus_frames: 
+		other_options: godzilla style alias, auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		font_cap: 13.5
 		popout_image_style: 90,90,100,100,
 		custom_symbol: abstract-061.png
-		other_options: godzilla style alias, auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
-		use_holofoil_stamps: no
 		alt_rarity_color: 
-		hybrid_name: grey
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: 
 	time_created: 2022-05-20 10:14:11
 	time_modified: 2025-07-12 16:32:31

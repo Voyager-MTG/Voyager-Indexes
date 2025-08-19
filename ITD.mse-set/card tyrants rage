@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: https://www.deviantart.com/masiani/art/Gate-acrylic-on-canvas-964705608
@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: <atom-cardname><nospellcheck>Tyrant’s Rage</nospellcheck></atom-cardname> deals X damage to each creature and each planeswalker, where X is the number of lands in your realm. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto>
+	rule_text: <atom-cardname><nospellcheck>Tyrant’s Rage</nospellcheck></atom-cardname> deals X damage to each creature and each planeswalker, where X is the number of lands <kw-A><nospellcheck><key>in your realm</key></nospellcheck>. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto><atom-reminder-custom> <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>Take cover when he flies, go up high when he burrows, and kneel when he walks.</i-flavor>
 	illustrator: Masianis Andrzej
 	card_code_text: 

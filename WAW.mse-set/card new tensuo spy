@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -16,7 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		When <atom-cardname><nospellcheck>New Tensuo Spy</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
-		<i>Augmented</i> — At the beginning of your end step, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, you may exile target nonland permanent you control, then return it to the battlefield under its owner’s control.
+		<i><kw-0><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-0> — At the beginning of your end step, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, you may exile target nonland permanent you control, then return it to the battlefield under its owner’s control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 3

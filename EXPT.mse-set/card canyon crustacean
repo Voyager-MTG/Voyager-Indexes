@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -28,7 +28,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Bake <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto>
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto><atom-reminder-custom> <i-auto>(When this enters, up to one target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-custom></kw-A>
 		When this creature dies, create a trace of Fault into your hand.
 		<b>Fault</b>|<i>Basic Land – Fault</i><soft-line>
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.)</i-auto></soft-line>

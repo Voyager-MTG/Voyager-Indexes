@@ -1,13 +1,11 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
 		chop_bottom: 8
-		frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: https://www.emilylubanko.com/tarot
 	time_created: 2024-10-12 13:11:31
 	time_modified: 2025-07-25 10:22:00
@@ -22,7 +20,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then exile up to one instant or sorcery card from your graveyard. Until end of turn, you may cast a copy of that card. Activate only on your turn.
-		<i>Deep Dwelling </i>— Once each turn, when you cast an instant or sorcery spell, untap this creature if your library contains a number of cards less than or equal to half your starting deck size. 
+		<i><kw-A><i-auto><nospellcheck><key>Deep Dwelling</key></nospellcheck></i-auto></kw-A> </i>— Once each turn, when you cast an instant or sorcery spell, untap this creature if your library contains a number of cards less than or equal to half your starting deck size. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

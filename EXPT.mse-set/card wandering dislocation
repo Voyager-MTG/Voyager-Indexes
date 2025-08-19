@@ -1,14 +1,11 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		frames: mutate
-		altered_plus_frames: path
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: !designer Aanginer
 	time_created: 2025-02-22 22:53:03
 	time_modified: 2025-07-07 00:26:30

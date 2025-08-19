@@ -1,14 +1,12 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 6
 		chop_bottom: 7
 		shrink_name_text: 
-		frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		https://www.deviantart.com/elentori/art/Where-Giants-Walk-391434742<soft-line>
 		!spellbook I8;1
@@ -27,7 +25,7 @@ card:
 	rule_text:
 		<atom-cardname><nospellcheck>Ancient Forerunner</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
 		When this creature enters, it deals damage equal to its power to each opponent.
-		Iterate <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto>
+		<kw-A><nospellcheck><key>Iterate</key></nospellcheck> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without <kw-A><nospellcheck><key>iterate</key></nospellcheck> into your hand.)</i-auto><blob></kw-A><moved><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

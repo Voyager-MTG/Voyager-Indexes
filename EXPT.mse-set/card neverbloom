@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: !designer Styles
@@ -19,7 +19,7 @@ card:
 	rarity: rare
 	rule_text:
 		You may play an additional land on each of your turns.
-		Whenever a land enters under your control for the second time each turn, blank up to one target nonland permanent until your next turn. <i-auto>(It loses all abilities.)</i-auto>
+		Whenever a land enters under your control for the second time each turn, <kw-A><nospellcheck><key>blank</key></nospellcheck> up to one target nonland permanent until your next turn. <i-auto>(It loses all abilities.)</i-auto><atom-reminder-custom> <i-auto>(It loses all abilities.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 2

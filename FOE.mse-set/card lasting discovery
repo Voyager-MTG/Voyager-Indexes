@@ -15,12 +15,13 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-01-05 17:56:58
+	time_modified: 2025-08-18 15:49:09
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal back
 			front_type_hint: 
 			front_color_hint: 
+	card_trim: clear
 	name: Lasting Discovery
 	casting_cost: X
 	image: image376

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
@@ -6,7 +6,6 @@ card:
 		chop_bottom: 7
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: https://www.deviantart.com/evi-gilatio/art/Aha-891587483
 	time_created: 2024-08-25 23:42:49
 	time_modified: 2025-01-22 16:13:28

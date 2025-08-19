@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes:
@@ -22,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		Choose one, then choose another for each card named <atom-cardname><nospellcheck>Unveiling</nospellcheck></atom-cardname> in your graveyard.
-		<li><bullet>• </bullet>Blank up to one target nonland permanent until your next turn. <i-auto>(It loses all abilities until your next turn.)</i-auto>
+		<li><bullet>• </bullet><kw-A><nospellcheck><key>Blank</key></nospellcheck> up to one target nonland permanent until your next turn. <i-auto>(It loses all abilities until your next turn.)</i-auto><atom-reminder-custom> <i-auto>(It loses all abilities.)</i-auto></atom-reminder-custom></kw-A>
 		</li><li><bullet>• </bullet>Draw a card from your sanctum or library.
 		</li><li><bullet>• </bullet>Counter up to one target activated or triggered ability.
 		</li><li><bullet>• </bullet>Create a 1/1 silver Elemental creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and another with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</li>

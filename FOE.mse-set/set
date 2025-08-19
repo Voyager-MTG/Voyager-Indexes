@@ -29,6 +29,10 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
+	magic-m15-mainframe-dfc-plus:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	magic-m15-mainframe-planeswalker:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 

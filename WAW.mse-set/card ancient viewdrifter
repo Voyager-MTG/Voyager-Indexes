@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		<kw-0><nospellcheck><key>Ploy</key></nospellcheck></kw-0>—Exile target nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle. If they do, you draw a card. <i-auto>(When this creature attacks, you may trigger its <kw-0><nospellcheck><key>ploy</key></nospellcheck></kw-0>. If you do, sacrifice it at the next end step.)</i-auto>
+		<kw-0><nospellcheck><key>Ploy—<param-action>Exile target nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle. If they do, you draw a card</param-action>.</key></nospellcheck></kw-0> <i-auto>(When this creature attacks, you may trigger its <kw-0><nospellcheck><key>ploy</key></nospellcheck></kw-0>. If you do, sacrifice it at the next end step.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

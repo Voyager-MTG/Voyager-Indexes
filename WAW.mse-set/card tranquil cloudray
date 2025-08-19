@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -16,7 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<i>Augmented</i> — Whenever <atom-cardname><nospellcheck>Tranquil Cloudray</nospellcheck></atom-cardname> enters or attacks, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, creatures you control get +1/+1 until end of turn.
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — Whenever <atom-cardname><nospellcheck>Tranquil Cloudray</nospellcheck></atom-cardname> enters or attacks, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, creatures you control get +1/+1 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

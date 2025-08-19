@@ -1,13 +1,11 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
-		frames: nyx
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: https://windydrawallday.tumblr.com/post/154315147365/living-nightmares
 	time_created: 2024-10-13 22:35:58
 	time_modified: 2025-02-27 17:33:41

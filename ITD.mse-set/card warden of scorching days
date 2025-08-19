@@ -1,13 +1,11 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
-		frames: nyx
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: 
 	time_created: 2024-10-02 17:08:43
 	time_modified: 2025-07-24 20:21:08

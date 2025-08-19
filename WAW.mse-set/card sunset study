@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,11 +6,8 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
-		frames: nyx
-		altered_plus_frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: 
 	time_created: 2024-12-14 17:39:27
 	time_modified: 2025-01-28 20:00:29
@@ -30,7 +27,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>Sunset Study</nospellcheck></atom-cardname> enters, exile the top three cards of your library. You may play those cards until the end of your next turn.
-		<i>Augmented</i> — <sym-auto>5</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Sunset Study</nospellcheck></atom-cardname>: Put each card exiled with <atom-cardname><nospellcheck>Sunset Study</nospellcheck></atom-cardname> and the top two cards of your library into your hand. This ability costs <sym-auto>5</sym-auto> less to activate if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — <sym-auto>5</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Sunset Study</nospellcheck></atom-cardname>: Put each card exiled with <atom-cardname><nospellcheck>Sunset Study</nospellcheck></atom-cardname> and the top two cards of your library into your hand. This ability costs <sym-auto>5</sym-auto> less to activate if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

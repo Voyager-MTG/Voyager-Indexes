@@ -31,7 +31,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(If you control at least four permanents of a color, illuminate that color this game.)</i-auto></atom-reminder-action></kw-A>
 		This creature is all colors among other permanents you control.
 		Whenever you cast a spell that is one or more colors, if you’ve illuminated any of that spell’s colors, put a +1/+1 counter on target creature you control.
 	rule_text_2: 

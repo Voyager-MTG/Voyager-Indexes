@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <i>Augmented</i> — Destroy target creature if it has mana value 2 or less or if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
+	rule_text: <kw-A><i-auto><nospellcheck><key><i>Augmented</i></key></nospellcheck></i-auto></kw-A> — Destroy target creature if it has mana value 2 or less or if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

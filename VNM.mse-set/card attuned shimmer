@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -17,7 +17,7 @@ card:
 		<kw-0><nospellcheck><key>Lifelink</key></nospellcheck></kw-0> 
 		<kw-0><nospellcheck><key>Ward—<param-cost>Pay 3 life</param-cost>.</key></nospellcheck></kw-0>
 		Whenever you attack, target creature you control gets +1/+1 until end of turn.
-		<kw-1><nospellcheck><key>Materialize <param-number>4</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>4</param-number> or more: This also becomes an Icon creature until your next upkeep.)</i-auto></atom-reminder-custom></kw-1>
+		<kw-1><nospellcheck><key>Materialize <param-number>4</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>4</param-number> or more: This also becomes an Icon creature until end of turn.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: 
 	power: 4

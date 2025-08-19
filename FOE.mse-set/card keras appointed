@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(If you control at least four permanents of a color, illuminate that color this game.)</i-auto></atom-reminder-action></kw-A>
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
 		Whenever this creature attacks, you gain 2 life. If you’ve illuminated green, draw a card.
 	rule_text_2: 

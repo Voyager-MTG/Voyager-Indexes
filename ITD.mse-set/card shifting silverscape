@@ -1,13 +1,11 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 
 		chop_bottom: 2
-		frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		https://www.artstation.com/artwork/YaxyQK<soft-line>
 		!spellbook I10;1</soft-line>
@@ -24,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		Iterate <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand. It’s not a land.)</i-auto>
+		<kw-A><nospellcheck><key>Iterate</key></nospellcheck> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without <kw-A><nospellcheck><key>iterate</key></nospellcheck> into your hand. It’s not a land.)</i-auto><blob></kw-A><moved><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Aldo Katayanagi
 	card_code_text: 
