@@ -7,7 +7,7 @@ card:
 		FWB
 		Multicolor
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-15 15:43:58
+	time_modified: 2025-08-07 00:24:01
 	name: Lisse, Bound by the King
 	casting_cost: 1B
 	image: image390
@@ -25,8 +25,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<atom-name>This creature</atom-cardname> can’t attack or block unless you control two or more enchantments.
-		<sym-auto>4I/W</sym-auto>, <sym-auto>T</sym-auto>: Each opponent loses 2 life and you gain 2 life.
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lisse</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Bound by the King can’t attack or block unless you control two or more enchantments.
+		<sym-auto>4I/W</sym-auto>, <sym-auto>T</sym-auto>: Each opponent loses 2 life and you gain 2 life.</atom-cardname><atom-name>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

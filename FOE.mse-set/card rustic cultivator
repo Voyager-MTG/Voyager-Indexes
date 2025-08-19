@@ -34,7 +34,7 @@ card:
 	rarity: common
 	rule_text:
 		This artifact enters tapped.
-		When <atom-cardname><nospellcheck>Rustic Cultivator</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand. )</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand. )</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this artifact: Draw a card from your sanctum or library.
 	rule_text_2: 
 	rule_text_3: 

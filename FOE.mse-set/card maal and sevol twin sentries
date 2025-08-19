@@ -15,7 +15,7 @@ card:
 		Verdant
 		!backname Astrus Quandry
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-07-16 21:56:32
+	time_modified: 2025-08-07 00:48:56
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -28,7 +28,7 @@ card:
 	casting_cost: 6
 	transformation: front triangle
 	transformation_2: back triangle
-	image: image415
+	image: image14.png
 	image_2: image_216.png
 	mainframe_image: 
 	mainframe_image_2: 
@@ -53,7 +53,8 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4
-	illustrator: Sam Flegal
+	illustrator: Taran fiddler
+	illustrator_2: Sam Flegal
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

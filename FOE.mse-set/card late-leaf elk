@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Late-Leaf Elk</nospellcheck></atom-cardname> enters, if you control an enchantment, draw a card.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, if you control an enchantment, draw a card.
 		Whenever an enchantment you control enters, draw a card.
 	rule_text_2: 
 	rule_text_3: 

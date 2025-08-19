@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Carrigol Tender</nospellcheck></atom-cardname> enters, create two 0/1 white and black Goat creature tokens with “Whenever this creature becomes blocked, each opponent loses 2 life.”
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create two 0/1 white and black Goat creature tokens with “Whenever this creature becomes blocked, each opponent loses 2 life.”
 		Once each turn, whenever you gain life, put a +1/+1 counter on target creature you control.
 	rule_text_2: 
 	rule_text_3: 

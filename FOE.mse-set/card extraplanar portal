@@ -31,7 +31,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Extraplanar Portal</nospellcheck></atom-cardname> enters, each opponent chooses two creatures they control and put it into their owner’s sanctum.
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, each opponent chooses two creatures they control and put it into their owner’s sanctum.
 		Once during each of your turns, you may play a card from your sanctum.
 	rule_text_2: 
 	rule_text_3: 

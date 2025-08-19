@@ -29,7 +29,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-0><nospellcheck><key>Menace</key></nospellcheck></kw-0>
-		When <atom-cardname><nospellcheck>Relentless Truthseeker</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck></kw-0>.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck></kw-0>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Clan <error-spelling:en_US>Avlod</error-spelling:en_US> fostered some of the greatest minds, and with the help of the paths, their mastery of magic could grow further.</i-flavor>

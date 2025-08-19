@@ -18,7 +18,7 @@ card:
 		Verdant
 		!backname Asahr Sahel
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2025-06-14 16:27:21
+	time_modified: 2025-08-07 00:28:37
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -31,6 +31,8 @@ card:
 	name: Themia, Steward of Sanctity
 	name_2: Asahr Sahel
 	casting_cost: 2WW
+	transformation: front triangle
+	transformation_2: back triangle
 	image: image411
 	image_2: image_221.png
 	mainframe_image: 
@@ -46,7 +48,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Themia, Steward of Sanctity</nospellcheck></atom-cardname> enters or transforms, exile up to one other target nonland permanent you control until <atom-cardname><nospellcheck>Themia, Steward of Sanctity</nospellcheck></atom-cardname> leaves or transforms.
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Themia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Steward of Sanctity enters or transforms, exile up to one other target nonland permanent you control until <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Themia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> leaves or transforms.
 	rule_text_2:
 		This land enters tapped unless you pay 3 life.
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.

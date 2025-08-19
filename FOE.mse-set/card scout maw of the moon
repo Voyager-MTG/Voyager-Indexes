@@ -45,7 +45,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Scout, Maw of the Moon</nospellcheck></atom-cardname> attacks, other creatures you control get +1/+0 until end of turn.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, other creatures you control get +1/+0 until end of turn.
 	rule_text_2:
 		As this land enters, you may pay 3 life. If you don’t, it enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.

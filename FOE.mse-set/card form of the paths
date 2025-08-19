@@ -23,7 +23,7 @@ card:
 		You may play cards from your sanctum.
 		You can’t play cards from your hand.
 		At the beginning of your upkeep, your life total becomes equal to the number of cards in your sanctum.
-		<sym-auto>5RR</sym-auto>: Destroy <atom-cardname><nospellcheck>Form of the Paths</nospellcheck></atom-cardname>.
+		<sym-auto>5RR</sym-auto>: Destroy <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

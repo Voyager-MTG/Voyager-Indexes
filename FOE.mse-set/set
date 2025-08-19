@@ -7,6 +7,7 @@ set_info:
 	title: Frontiers of Eternity
 	symbol: symbol2.mse-symbol
 	masterpiece_symbol: 
+	CARDNAME_replacement: card's type
 styling:
 	magic-m15-altered:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -517,6 +518,7 @@ include_file: card terramorphic singularity
 include_file: card form of the paths
 include_file: card stinging surveyor
 include_file: card kalim shivtas ear
+include_file: card dragon token
 keyword:
 	keyword: Luminous
 	match: Luminous

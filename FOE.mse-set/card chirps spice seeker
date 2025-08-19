@@ -15,7 +15,7 @@ card:
 		overlay: 
 	notes: !exportname Chirps Spice Seeker
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2024-06-21 02:15:01
+	time_modified: 2025-08-07 00:25:34
 	extra_data:
 		magic-m15-mainframe-planeswalker-altered: vorthos_box: They/Them
 	special_text: 
@@ -34,7 +34,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>
-		When Chirps enters and at the beginning of your upkeep, if you don’t control a creature named Aubrey, create Aubrey, a 2/1 legendary red and silver Drake creature token with <kw-0><nospellcheck><key>flying</key></nospellcheck></kw-0> and <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0>.
+		When Chirps, Spice Seeker enters and at the beginning of your upkeep, if you don’t control a creature named Aubrey, create Aubrey, a 2/1 legendary red and silver Drake creature token with <kw-0><nospellcheck><key>flying</key></nospellcheck></kw-0> and <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

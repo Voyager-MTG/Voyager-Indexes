@@ -34,7 +34,7 @@ card:
 	loyalty_cost_3: -7
 	loyalty: 4
 	level_1_text: <margin:130:0:0><kw-A><nospellcheck><key>Sift <param-number>2</param-number></key></nospellcheck>. You gain 2 life.<atom-reminder-expert> <i-auto>(Look at the top <param-number>two</param-number> cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-expert></kw-A></margin:130:0:0>
-	level_2_text: <margin:130:0:0>Reveal a permanent card from your Sanctum, then put it into your hand. If it was a land card, put a loyalty counter on <atom-cardname><nospellcheck>Oracle of Multaph</nospellcheck></atom-cardname>.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Reveal a permanent card from your Sanctum, then put it into your hand. If it was a land card, put a loyalty counter on <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>.</margin:130:0:0>
 	level_3_text: <margin:130:0:0> Exile up to two target permanents.</margin:130:0:0>
 	level_4_text: 
 	illustrator: Julijana Mijailović

@@ -37,7 +37,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Waterscape Mystic</nospellcheck></atom-cardname> enters, up to one target creature gets -2/-0 until end of turn.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, up to one target creature gets -2/-0 until end of turn.
 	rule_text_2: Create a blue 4/4 Dragon Eye creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>. <i-auto>(Then put this into your sanctum.)</i-auto>
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
