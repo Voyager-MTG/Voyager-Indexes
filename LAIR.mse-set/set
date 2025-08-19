@@ -50,6 +50,14 @@ include_file: card searing spire
 include_file: card silent spire
 include_file: card twisted spire
 include_file: card verdant spire
+include_file: card true blood of saint janus
+include_file: card the heart of ischav
+include_file: card found family
+include_file: card delete
+include_file: card the calm belt
+include_file: card wanderers shrine
+include_file: card falling sparks
+include_file: card sundown
 version_control:
 	type: none
 apprentice_code: 

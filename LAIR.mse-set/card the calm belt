@@ -16,15 +16,16 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2024-04-03 01:39:14
-	time_modified: 2025-08-18 20:51:00
+	time_modified: 2025-08-18 21:28:19
 	extra_data:
 		magic-m15-altered-plus:
 			smallbox_text: 
-	card_trim: clear, nyx
+	card_trim: special guest, inverted
+	card_trim_plus: none
 	name: The Calm Belt
 	alias: This card can start in your sanctum.                             
 	casting_cost: 1
-	image: image398
+	image: image19.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -35,10 +36,11 @@ card:
 		As this realm enters, choose a card name.
 		Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: alena aenami
+	illustrator: Ryky
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Set by Tvpattack
 	copyright_2: Set by Tvpattack
 	copyright_3: Set by Tvpattack
+	secondary_copyright: TVP
