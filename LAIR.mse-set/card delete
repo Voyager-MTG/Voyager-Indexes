@@ -5,7 +5,7 @@ card:
 		BLACKCOMMON
 		CB12
 	time_created: 2021-10-10 04:09:00
-	time_modified: 2025-08-18 21:23:46
+	time_modified: 2025-08-19 15:15:00
 	card_trim: special guest, inverted
 	card_color: black
 	name: Delete
@@ -21,9 +21,9 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text: Destroy target creature with power or toughness 2 or less.
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>Destruction could never truly exist. Until now.</i-flavor>
 	illustrator: Ryky
-	custom_card_number: 
+	custom_card_number: 4 — 002 • Top Cards I
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

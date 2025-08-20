@@ -12,7 +12,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer TVP
 	time_created: 2024-10-16 22:02:40
-	time_modified: 2025-08-18 21:05:07
+	time_modified: 2025-08-19 15:15:23
 	card_trim: special guest, inverted
 	name: Falling Sparks
 	alias: Raimei
@@ -23,11 +23,11 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rarity: rare
+	rarity: mythic rare
 	rule_text: <kw-A><i-auto><nospellcheck><key>Converge</key></nospellcheck></i-auto></kw-A> — <atom-cardname><nospellcheck>Falling Sparks</nospellcheck></atom-cardname> deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. You gain that much life.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ryky
-	custom_card_number: 
+	custom_card_number: 4 — 005 • Top Cards I
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

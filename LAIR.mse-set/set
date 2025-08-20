@@ -26,6 +26,10 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	magic-m15-cultist-simulator:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-mainframe-tokens:
+		frames: legendary, M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-unstable-basics:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -58,6 +62,13 @@ include_file: card the calm belt
 include_file: card wanderers shrine
 include_file: card falling sparks
 include_file: card sundown
+include_file: card restored plains
+include_file: card restored island
+include_file: card restored swamp
+include_file: card restored mountain
+include_file: card restored fault
+include_file: card restored forest
+include_file: card tyrant of long death
 version_control:
 	type: none
 apprentice_code: 

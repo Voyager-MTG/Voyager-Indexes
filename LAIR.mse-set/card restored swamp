@@ -1,0 +1,62 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		hybrid_name: grey
+		d20_dividers: d20 mode
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		font_cap: 13.5
+		custom_symbol: abstract-061.png
+		alt_rarity_color: 
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!tapped<soft-line>
+		</soft-line>
+	time_created: 2022-05-26 21:49:52
+	time_modified: 2025-08-18 23:58:19
+	extra_data:
+		magic-m15-altered-plus:
+			corner: sanctum
+	card_trim: special guest, inverted, mutate
+	card_trim_plus: none
+	card_color: black, land
+	name: Restored Swamp
+	casting_cost: 
+	image: image27.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text:
+		This land enters tapped.
+		When this land enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.)</i-auto>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym-auto>1</sym-auto>, Pay 2 life</param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+	power: 
+	toughness: 
+	illustrator: T1na
+	custom_card_number: 5 — 003 • Restoration — Aanginer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
