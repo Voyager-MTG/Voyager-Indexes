@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes:
 		!related Pathward Riftcalling;
-		!exportname Whale-01
+		Whale-01
 	time_created: 2023-06-27 01:35:05
 	time_modified: 2024-04-22 21:16:02
 	card_color: white, black, multicolor, horizontal

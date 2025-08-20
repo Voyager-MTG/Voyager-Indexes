@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes:
 		!related Outlands Rescuer;Ancient Font;Enduring Woodland;
-		!exportname Cat-01
+		Cat-01
 	time_created: 2023-08-14 23:47:45
 	time_modified: 2024-02-13 18:31:57
 	card_color: green

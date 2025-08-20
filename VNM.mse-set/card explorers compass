@@ -12,7 +12,7 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !exportname Explorers Compass
+	notes: Explorers Compass
 	time_created: 2021-04-25 03:48:07
 	time_modified: 2025-07-21 01:24:21
 	extra_data:

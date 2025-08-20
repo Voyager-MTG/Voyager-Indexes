@@ -13,7 +13,7 @@ card:
 		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !exportname Gael Spiteflame Phoenix
+	notes: Gael Spiteflame Phoenix
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2024-03-27 02:15:52
 	card_color: blue, black, red, multicolor, horizontal

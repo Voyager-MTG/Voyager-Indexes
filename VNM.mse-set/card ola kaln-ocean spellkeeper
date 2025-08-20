@@ -14,7 +14,7 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !exportname Ola Kaln-Ocean Spellkeeper
+	notes: Ola Kaln-Ocean Spellkeeper
 	time_created: 2022-05-06 22:46:07
 	time_modified: 2025-07-21 05:09:03
 	name: Ola, Kaln-Ocean Spellkeeper

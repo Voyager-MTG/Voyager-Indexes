@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
 		!tag outlands;
-		!exportname Urkial Outlands Clanleader
+		Urkial Outlands Clanleader
 	time_created: 2022-05-10 22:53:34
 	time_modified: 2025-07-21 04:13:44
 	card_color: multicolor

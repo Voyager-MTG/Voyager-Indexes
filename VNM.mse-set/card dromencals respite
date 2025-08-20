@@ -14,7 +14,7 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !exportname Dromencals Respite
+	notes: Dromencals Respite
 	time_created: 2022-04-25 20:17:39
 	time_modified: 2025-07-21 01:27:00
 	extra_data:

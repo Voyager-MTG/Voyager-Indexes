@@ -12,7 +12,7 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !exportname Multaphs Watch
+	notes: Multaphs Watch
 	time_created: 2021-04-25 03:20:37
 	time_modified: 2025-07-12 16:58:16
 	card_color: green

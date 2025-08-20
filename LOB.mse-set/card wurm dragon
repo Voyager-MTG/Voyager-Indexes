@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes:
 		!related Homestead Pair;
-		!exportname Wurm Dragon-01
+		Wurm Dragon-01
 	time_created: 2024-02-17 23:42:31
 	time_modified: 2024-06-11 00:04:43
 	name: Wurm Dragon

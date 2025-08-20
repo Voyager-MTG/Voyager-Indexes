@@ -15,7 +15,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
-		!exportname Kier Acolyte of Avlod Respite
+		Kier Acolyte of Avlod Respite
 		!tag avlod;
 	time_created: 2022-05-06 22:46:07
 	time_modified: 2025-07-21 01:25:15

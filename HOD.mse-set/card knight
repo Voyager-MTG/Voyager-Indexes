@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes:
 		!tag Dewold
-		!exportname Destroyed-Knight
+		Destroyed-Knight
 		!related Knight of Skyspire; Banefort Archer; Replenishing Camp; Resolute Elk; Turnberry Overseer;
 	time_created: 2022-04-02 19:45:43
 	time_modified: 2022-05-25 13:19:05

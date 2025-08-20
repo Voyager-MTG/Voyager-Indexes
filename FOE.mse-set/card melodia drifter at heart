@@ -13,7 +13,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
 		!smallbox 
-		!exportname Melodia Explorer at Heart
+		Melodia Explorer at Heart
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2025-04-01 13:53:47
 	extra_data:

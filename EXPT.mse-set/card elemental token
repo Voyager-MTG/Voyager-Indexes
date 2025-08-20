@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes:
 		!related Unveiling;
-		!exportname Elemental Token 2;
+		Elemental Token 2;
 	time_created: 2025-03-10 14:31:22
 	time_modified: 2025-03-10 18:26:10
 	card_color: silver

@@ -9,7 +9,7 @@ card:
 		overlay: 
 	notes:
 		!related Ignelscor Weaver;
-		!exportname Elemental Demon-01
+		Elemental Demon-01
 	time_created: 2023-06-21 20:58:25
 	time_modified: 2024-02-13 18:24:13
 	card_color: black, red, multicolor, horizontal

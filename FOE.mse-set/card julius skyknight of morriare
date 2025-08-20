@@ -13,7 +13,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
-		!exportname Julius Skyknight of Morriare
+		Julius Skyknight of Morriare
 		WRU
 		Multicolor
 	time_created: 2022-06-23 00:00:00

@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !exportname Fault-01
+	notes: Fault-01
 	time_created: 2022-06-13 00:00:00
 	time_modified: 2024-06-19 23:02:25
 	card_color: silver, land

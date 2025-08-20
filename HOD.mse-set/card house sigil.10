@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes:
 		!tag Dewold
-		!exportname Attwater Sigil
+		Attwater Sigil
 		!tag Attwater
 	time_created: 2025-02-24 00:20:33
 	time_modified: 2025-03-05 16:41:58
