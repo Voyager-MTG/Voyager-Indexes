@@ -30,7 +30,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Counter target permanent spell unless its controller pays <sym-auto>3</sym-auto>. If this spell was foretold, instead counter that spell, then <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
-		<kw-A><nospellcheck><key>Foretell <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Foretell <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

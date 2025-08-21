@@ -27,7 +27,7 @@ set_info:
 	masterpiece_symbol: 
 	use_gradient_multicolor: yes
 	default_stamp: none
-	custom_watermark_1: Lantern.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
+	custom_watermark_1: Lantern.png,File found,500x500px
 	blend_with_colors: yes
 	auto_legends: yes
 styling:

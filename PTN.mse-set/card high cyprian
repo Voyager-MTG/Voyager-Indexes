@@ -1,6 +1,15 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 
+		frames: 
+		font_cap: 12.5
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2022-09-02 18:35:56
 	time_modified: 2025-07-08 16:11:17
