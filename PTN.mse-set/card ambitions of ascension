@@ -5,20 +5,20 @@ card:
 	has_styling: true
 	styling_data:
 		snap_chapter_to_box: 1,2,3,
-		chapter_divider_coordinates: 235,325,
+		chapter_divider_coordinates: 240,325,
 		reminder_coordinate: 
 		separated_text_size: 13.5
 		reminder_text_size: 12
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: USED TO BE BROUGHT BACK
+	notes: 
 	time_created: 2023-07-18 19:11:37
-	time_modified: 2025-05-17 19:49:05
+	time_modified: 2025-08-19 12:23:57
 	special_text:
-		
-		Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
-		Search for library for a God card with mana value greater than the greatest mana value among Gods you control.
-		Choose a card in your hand or graveyard. Reveal it. Up to one target God gains the revealed card’s abilities. <i-auto>(This effect lasts indefinitely)</i-auto>
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		I — Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
+		II — Search your library for a God card, reveal it, put it into your hand, then shuffle.
+		III — Reveal a card in your hand. Target God you control gains the revealed card’s abilities. <i-auto>(This effect lasts indefinitely)</i-auto>
 	card_color: white
 	name: Ambitions of Ascension
 	casting_cost: 3W
@@ -41,8 +41,8 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	level_1_text: Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
-	level_2_text: Search for library for a God card with mana value greater than the greatest mana value among Gods you control.
-	level_3_text: Choose a card in your hand or graveyard. Reveal it. Up to one target God gains the revealed card’s abilities. <i-auto>(This effect lasts indefinitely)</i-auto>
+	level_2_text: Search your library for a God card, reveal it, put it into your hand, then shuffle.
+	level_3_text: Reveal a card in your hand. Target God you control gains the revealed card’s abilities. <i-auto>(This effect lasts indefinitely)</i-auto>
 	illustrator: u/HoundArchon
 	card_code_text: 
 	card_code_text_2: 
