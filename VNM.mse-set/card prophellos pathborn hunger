@@ -13,7 +13,7 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !exportname Prophellos Pathborn Hunger
+	notes: Prophellos Pathborn Hunger
 	time_created: 2022-05-17 14:44:58
 	time_modified: 2025-08-18 15:44:06
 	card_trim: clear, legend

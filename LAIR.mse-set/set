@@ -26,6 +26,10 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	magic-m15-cultist-simulator:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-mainframe-tokens:
+		frames: legendary, M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-unstable-basics:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -50,14 +54,6 @@ include_file: card searing spire
 include_file: card silent spire
 include_file: card twisted spire
 include_file: card verdant spire
-include_file: card true blood of saint janus
-include_file: card the heart of ischav
-include_file: card found family
-include_file: card delete
-include_file: card the calm belt
-include_file: card wanderers shrine
-include_file: card falling sparks
-include_file: card sundown
 version_control:
 	type: none
 apprentice_code: 

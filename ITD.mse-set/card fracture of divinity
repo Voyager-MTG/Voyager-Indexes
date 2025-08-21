@@ -5,7 +5,7 @@ card:
 		https://www.behance.net/gallery/82915737/BLADERUNNER-2049<soft-line>
 		!spellbook I4;1</soft-line>
 	time_created: 2024-10-02 17:02:01
-	time_modified: 2025-07-25 10:16:34
+	time_modified: 2025-08-20 13:22:54
 	name: Fracture of Divinity
 	casting_cost: 1U
 	image: image82
@@ -18,7 +18,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
 		Whenever an opponent casts a noncreature spell with mana value less than this creature’s power, draw a card.
-		<kw-A><nospellcheck><key>Iterate</key></nospellcheck> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without <kw-A><nospellcheck><key>iterate</key></nospellcheck> into your hand.)</i-auto><blob></kw-A><moved><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+		<kw-A><nospellcheck><key>Iterate</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

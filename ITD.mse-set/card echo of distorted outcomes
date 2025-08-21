@@ -9,10 +9,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: it/its
-	special_text:
-		[+1]: <margin:130:0:0>Sacrifice up to one nontoken creature you control. Create a token copy of it except it’s an artifact in addition to its other types.</margin:130:0:0>
-		[-2]: <margin:130:0:0>Return target creature card with mana value 3 or less from your graveyard to the battlefield.</margin:130:0:0>
-		[-5]: <margin:130:0:0>Create two token copies of <atom-cardname><nospellcheck>Echo of Distorted Outcomes</nospellcheck></atom-cardname>, except they’re not legendary.</margin:130:0:0>
 	name: Echo of Distorted Outcomes
 	casting_cost: 2W
 	image: image80
@@ -37,3 +33,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		[+1]: <margin:130:0:0>Sacrifice up to one nontoken creature you control. Create a token copy of it except it’s an artifact in addition to its other types.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Return target creature card with mana value 3 or less from your graveyard to the battlefield.</margin:130:0:0>
+		[-5]: <margin:130:0:0>Create two token copies of <atom-cardname><nospellcheck>Echo of Distorted Outcomes</nospellcheck></atom-cardname>, except they’re not legendary.</margin:130:0:0>

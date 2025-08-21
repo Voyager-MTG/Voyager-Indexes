@@ -9,10 +9,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: she/her
-	special_text:
-		When <atom-cardname><nospellcheck>Aeon, of the Living Coffin</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a> and return each land card from your graveyard to the battlefield tapped.
-		[+2]: <margin:130:0:0>Creatures you control gain <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Untap target land you control. It becomes a 4/4 Elemental creature with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. It’s still a land.</margin:130:0:0>
 	name: Aeon, of the Living Coffin
 	casting_cost: 3GG
 	image: image179
@@ -36,3 +32,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		When <atom-cardname><nospellcheck>Aeon, of the Living Coffin</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a> and return each land card from your graveyard to the battlefield tapped.
+		[+2]: <margin:130:0:0>Creatures you control gain <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Untap target land you control. It becomes a 4/4 Elemental creature with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. It’s still a land.</margin:130:0:0>

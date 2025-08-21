@@ -9,7 +9,7 @@ card:
 		overlay: 
 	notes:
 		!related Lasting Discovery;
-		!exportname Mongoose-01
+		Mongoose-01
 	time_created: 2022-09-01 18:21:44
 	time_modified: 2024-06-16 02:08:30
 	card_color: silver

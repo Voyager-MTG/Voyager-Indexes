@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !exportname PTN Forest
+	notes: PTN Forest
 	time_created: 2022-06-23 12:41:44
 	time_modified: 2023-05-06 14:21:29
 	name: Forest

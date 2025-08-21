@@ -11,7 +11,7 @@
 
     <card>
       <name>Rustic Cultivator</name>
-      <set rarity="common">FOE</set>
+      <set num="338" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31,7 +31,7 @@ When this artifact enters, draft a card from your sanctum. (Look at three random
     </card>
     <card>
       <name>Wind Worn Peaks</name>
-      <set rarity="common" splitterPath="/Wind Worn Peaks.jpg" >FOE</set>
+      <set num="18" rarity="common" splitterPath="/Wind Worn Peaks.jpg" >FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -52,7 +52,7 @@ Explorer — {2}, {T}: Transform this realm. Activate only if you control five o
     </card>
     <card>
       <name>Polychromatic Peaks</name>
-      <set rarity="common" splitterPath="/Polychromatic Peaks.jpg" >FOE</set>
+      <set num="18" rarity="common" splitterPath="/Polychromatic Peaks.jpg" >FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -73,7 +73,7 @@ Explorer — {2}, {T}: Transform this realm. Activate only if you control five o
     </card>
     <card>
       <name>Light of Hope</name>
-      <set rarity="common">FOE</set>
+      <set num="36" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -94,7 +94,7 @@ Explorer — {2}, {T}: Transform this realm. Activate only if you control five o
     </card>
     <card>
       <name>History&apos;s Weave</name>
-      <set rarity="common">FOE</set>
+      <set num="31" rarity="common">FOE</set>
       <prop>
         <colors>M</colors>
         <manacost>W // W</manacost>
@@ -110,7 +110,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
     </card>
     <card>
       <name>Fall Through Reality</name>
-      <set rarity="common">FOE</set>
+      <set num="26" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -128,7 +128,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
     </card>
     <card>
       <name>Meirel Pathwalker</name>
-      <set rarity="common">FOE</set>
+      <set num="40" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -147,7 +147,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
     </card>
     <card>
       <name>Staggering Spires</name>
-      <set rarity="common" splitterPath="/Staggering Spires.jpg" >FOE</set>
+      <set num="54" rarity="common" splitterPath="/Staggering Spires.jpg" >FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -168,7 +168,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
     </card>
     <card>
       <name>Monument In Unity</name>
-      <set rarity="common" splitterPath="/Monument In Unity.jpg" >FOE</set>
+      <set num="54" rarity="common" splitterPath="/Monument In Unity.jpg" >FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -189,7 +189,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
     </card>
     <card>
       <name>Pathfinder Wurm</name>
-      <set rarity="common">FOE</set>
+      <set num="48" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -208,7 +208,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
     </card>
     <card>
       <name>Rising Haze</name>
-      <set rarity="common">FOE</set>
+      <set num="51" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -227,7 +227,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
     </card>
     <card>
       <name>Meirel Caretaker</name>
-      <set rarity="common">FOE</set>
+      <set num="39" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -248,7 +248,7 @@ This creature gets +1/+1 as long as you’ve illuminated white.</text>
     </card>
     <card>
       <name>Outlands Rescinder</name>
-      <set rarity="common">FOE</set>
+      <set num="47" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -268,7 +268,7 @@ This creature gets +1/+1 as long as you’ve illuminated white.</text>
     </card>
     <card>
       <name>Outlander Mercenary</name>
-      <set rarity="common">FOE</set>
+      <set num="45" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -288,7 +288,7 @@ This creature gets +0/+1 and has vigilance as long as you’ve illuminated white
     </card>
     <card>
       <name>Fadove Lawkeeper</name>
-      <set rarity="common">FOE</set>
+      <set num="25" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -311,7 +311,7 @@ This creature gets +0/+1 and has vigilance as long as you’ve illuminated white
     </card>
     <card>
       <name>Fadove Air Supplier</name>
-      <set rarity="common">FOE</set>
+      <set num="24" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -333,7 +333,7 @@ When this creature enters, create a tapped Powerstone token. (It’s an artifact
     </card>
     <card>
       <name>Veteran Party</name>
-      <set rarity="common">FOE</set>
+      <set num="56" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -352,7 +352,7 @@ When this creature enters, create a tapped Powerstone token. (It’s an artifact
     </card>
     <card>
       <name>Cleric of the Dawn</name>
-      <set rarity="common">FOE</set>
+      <set num="21" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -371,7 +371,7 @@ When this creature enters, create a tapped Powerstone token. (It’s an artifact
     </card>
     <card>
       <name>Focus of Fadove</name>
-      <set rarity="common">FOE</set>
+      <set num="28" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -391,7 +391,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Outfoxed</name>
-      <set rarity="common">FOE</set>
+      <set num="43" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -408,8 +408,8 @@ Draw a card.</text>
       <text>This spell deals 4 damage to target attacking or blocking creature. Create a 1/1 white Fox creature token if you controlled an enchantment as you cast this spell.</text>
     </card>
     <card>
-      <name>Apprentices Drake</name>
-      <set rarity="common">FOE</set>
+      <name>Apprentice&apos;s Drake</name>
+      <set num="60" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -422,7 +422,7 @@ Draw a card.</text>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!tag fadove;
-!exportname Apprentices Drake</notes>
+Apprentices Drake</notes>
         <tag>fadove;</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -431,7 +431,7 @@ Whenever this creature deals combat damage, sift 1. (Look at the top card of you
     </card>
     <card>
       <name>Crystalline Cover</name>
-      <set rarity="common">FOE</set>
+      <set num="67" rarity="common">FOE</set>
       <prop>
         <colors>M</colors>
         <manacost>U // U</manacost>
@@ -447,7 +447,7 @@ Target creature you control gains hexproof until end of turn. (Then put this int
     </card>
     <card>
       <name>Tiderock Passage</name>
-      <set rarity="common" splitterPath="/Tiderock Passage.jpg" >FOE</set>
+      <set num="92" rarity="common" splitterPath="/Tiderock Passage.jpg" >FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -468,7 +468,7 @@ Target creature you control gains hexproof until end of turn. (Then put this int
     </card>
     <card>
       <name>Misty Aisle</name>
-      <set rarity="common" splitterPath="/Misty Aisle.jpg" >FOE</set>
+      <set num="92" rarity="common" splitterPath="/Misty Aisle.jpg" >FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -489,7 +489,7 @@ Target creature you control gains hexproof until end of turn. (Then put this int
     </card>
     <card>
       <name>Fold the Truth</name>
-      <set rarity="common">FOE</set>
+      <set num="71" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -507,7 +507,7 @@ Target creature you control gains hexproof until end of turn. (Then put this int
     </card>
     <card>
       <name>Consult Eternity</name>
-      <set rarity="common">FOE</set>
+      <set num="64" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -526,7 +526,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Pristine Denial</name>
-      <set rarity="common">FOE</set>
+      <set num="82" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -545,7 +545,7 @@ Counter target spell. </text>
     </card>
     <card>
       <name>Reshape Eternity</name>
-      <set rarity="common">FOE</set>
+      <set num="84" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -563,7 +563,7 @@ Counter target spell. </text>
     </card>
     <card>
       <name>Pathwrought Overseer</name>
-      <set rarity="common">FOE</set>
+      <set num="80" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <manacost>5UU // 1U</manacost>
@@ -579,7 +579,7 @@ Tap target creature. It loses all abilities until end of turn. Draw a card. (Cas
     </card>
     <card>
       <name>Veneer Walker</name>
-      <set rarity="common">FOE</set>
+      <set num="95" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -599,7 +599,7 @@ Explorer — Whenever this creature attacks, draw a card, then discard a card if
     </card>
     <card>
       <name>Outlands Trailblazer</name>
-      <set rarity="common">FOE</set>
+      <set num="79" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -620,7 +620,7 @@ traverse 3</notes>
     </card>
     <card>
       <name>Vestige Prowler</name>
-      <set rarity="common">FOE</set>
+      <set num="97" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -640,7 +640,7 @@ When this creature enters, tap target creature an opponent controls and put a st
     </card>
     <card>
       <name>Ridgeback Dragonturtle</name>
-      <set rarity="common">FOE</set>
+      <set num="86" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -661,7 +661,7 @@ This creature gets +1/+1 and has vigilance as long as you’ve illuminated blue.
     </card>
     <card>
       <name>Bropheria</name>
-      <set rarity="common">FOE</set>
+      <set num="62" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -680,7 +680,7 @@ This creature gets +1/+1 and has vigilance as long as you’ve illuminated blue.
     </card>
     <card>
       <name>Gripping Truths</name>
-      <set rarity="common">FOE</set>
+      <set num="72" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -700,7 +700,7 @@ Enchanted creature gets -3/-0.</text>
     </card>
     <card>
       <name>Migratory Flotilla</name>
-      <set rarity="common">FOE</set>
+      <set num="77" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -720,7 +720,7 @@ Threshold — This creature has flying as long as you have seven or more cards i
     </card>
     <card>
       <name>Fly Away With Me</name>
-      <set rarity="common">FOE</set>
+      <set num="70" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -738,7 +738,7 @@ Threshold — This creature has flying as long as you have seven or more cards i
     </card>
     <card>
       <name>Aspect of Moth</name>
-      <set rarity="common">FOE</set>
+      <set num="101" rarity="common">FOE</set>
       <prop>
         <colors>M</colors>
         <manacost>B // 1B</manacost>
@@ -754,8 +754,8 @@ Put up to two target cards in a graveyard into their owner’s sanctum.
 Draw a card. (Then put this into your sanctum.)</text>
     </card>
     <card>
-      <name>You Cant Face Me</name>
-      <set rarity="common">FOE</set>
+      <name>You Can&apos;t Face Me</name>
+      <set num="139" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -766,14 +766,14 @@ Draw a card. (Then put this into your sanctum.)</text>
         <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname You Cant Face Me</notes>
+        <notes>You Cant Face Me</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target opponent reveals their hand. You choose a creature or enchantment card from it. That player discards that card.</text>
     </card>
     <card>
       <name>Duskcharm Drake</name>
-      <set rarity="common">FOE</set>
+      <set num="110" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -793,7 +793,7 @@ Whenever you cast a noncreature spell, each opponent loses 1 life and you gain 1
     </card>
     <card>
       <name>Eroding River</name>
-      <set rarity="common" splitterPath="/Eroding River.jpg" >FOE</set>
+      <set num="111" rarity="common" splitterPath="/Eroding River.jpg" >FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -814,7 +814,7 @@ Whenever you cast a noncreature spell, each opponent loses 1 life and you gain 1
     </card>
     <card>
       <name>Pinnacle Spillaway</name>
-      <set rarity="common" splitterPath="/Pinnacle Spillaway.jpg" >FOE</set>
+      <set num="111" rarity="common" splitterPath="/Pinnacle Spillaway.jpg" >FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -835,7 +835,7 @@ Whenever you cast a noncreature spell, each opponent loses 1 life and you gain 1
     </card>
     <card>
       <name>Foolish Footing</name>
-      <set rarity="common">FOE</set>
+      <set num="112" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -854,7 +854,7 @@ Destroy target creature or planeswalker if it has mana value 2 or less or if you
     </card>
     <card>
       <name>Smogborn Pilferer</name>
-      <set rarity="common">FOE</set>
+      <set num="134" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -874,7 +874,7 @@ Whenever this creature is blocked by a token, defending player loses 2 life.</te
     </card>
     <card>
       <name>Avakin Trapper</name>
-      <set rarity="common">FOE</set>
+      <set num="103" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -893,7 +893,7 @@ Whenever this creature is blocked by a token, defending player loses 2 life.</te
     </card>
     <card>
       <name>Hedgecrow</name>
-      <set rarity="common">FOE</set>
+      <set num="114" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -913,7 +913,7 @@ When this creature dies, create a 1/1 black enchantment Lizard creature token.</
     </card>
     <card>
       <name>Scaled Rippler</name>
-      <set rarity="common">FOE</set>
+      <set num="133" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <manacost>5BB // 1B</manacost>
@@ -929,7 +929,7 @@ Up to one target creature gets -1/-1 until end of turn. Create a 1/1 black encha
     </card>
     <card>
       <name>Left for the Crows</name>
-      <set rarity="common">FOE</set>
+      <set num="118" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -947,7 +947,7 @@ Up to one target creature gets -1/-1 until end of turn. Create a 1/1 black encha
     </card>
     <card>
       <name>Relentless Truthseeker</name>
-      <set rarity="common">FOE</set>
+      <set num="131" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -969,7 +969,7 @@ When this creature enters, draft a card from your sanctum.</text>
     </card>
     <card>
       <name>Otherworldly Entrance</name>
-      <set rarity="common">FOE</set>
+      <set num="126" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -988,7 +988,7 @@ When this creature enters, draft a card from your sanctum.</text>
     </card>
     <card>
       <name>Pathborn Stinger</name>
-      <set rarity="common">FOE</set>
+      <set num="128" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1008,7 +1008,7 @@ When this creature dies, create a 1/1 black enchantment Lizard creature token.</
     </card>
     <card>
       <name>Voidborn Horror</name>
-      <set rarity="common">FOE</set>
+      <set num="138" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1028,7 +1028,7 @@ This spell costs {2} less to cast if you’ve illuminated black or if you contro
     </card>
     <card>
       <name>Avakin Devotee</name>
-      <set rarity="common">FOE</set>
+      <set num="102" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1048,7 +1048,7 @@ Threshold — Whenever this creature attacks while you have seven or more cards 
     </card>
     <card>
       <name>Pioneer&apos;s Premonition</name>
-      <set rarity="common">FOE</set>
+      <set num="129" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1067,7 +1067,7 @@ Create a 1/1 black Drake creature token with flying.</text>
     </card>
     <card>
       <name>Basalt Hammer</name>
-      <set rarity="common">FOE</set>
+      <set num="142" rarity="common">FOE</set>
       <prop>
         <colors>M</colors>
         <manacost>R // 1R</manacost>
@@ -1083,7 +1083,7 @@ This spell deals 1 damage to each creature you don’t control. (Then put this i
     </card>
     <card>
       <name>Clanless Combatant</name>
-      <set rarity="common">FOE</set>
+      <set num="146" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1103,8 +1103,8 @@ This spell deals 1 damage to each creature you don’t control. (Then put this i
 As long as you’ve illuminated red, this creature gets +2/+0 and has first strike.</text>
     </card>
     <card>
-      <name>Willbournes Flame</name>
-      <set rarity="common">FOE</set>
+      <name>Willbourne&apos;s Flame</name>
+      <set num="179" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1115,14 +1115,14 @@ As long as you’ve illuminated red, this creature gets +2/+0 and has first stri
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname Willbournes Flame</notes>
+        <notes>Willbournes Flame</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell deals 3 damage to any nonplayer target. If you control a red permanent, it deals 4 damage to that target instead.</text>
     </card>
     <card>
       <name>Fiery Absolver</name>
-      <set rarity="common">FOE</set>
+      <set num="154" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1141,7 +1141,7 @@ As long as you’ve illuminated red, this creature gets +2/+0 and has first stri
     </card>
     <card>
       <name>Drougth Adventurer</name>
-      <set rarity="common">FOE</set>
+      <set num="151" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1160,7 +1160,7 @@ As long as you’ve illuminated red, this creature gets +2/+0 and has first stri
     </card>
     <card>
       <name>Warforged Pair</name>
-      <set rarity="common">FOE</set>
+      <set num="177" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1180,7 +1180,7 @@ When this creature enters, create a 3/1 red Wurm creature token.</text>
     </card>
     <card>
       <name>Mordel Hammer</name>
-      <set rarity="common">FOE</set>
+      <set num="163" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <manacost>4R // 1R</manacost>
@@ -1196,7 +1196,7 @@ Up to two target creature can’t block this turn. (Then put this into your sanc
     </card>
     <card>
       <name>Pathborn Spitter</name>
-      <set rarity="common">FOE</set>
+      <set num="167" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <manacost>4RR // R</manacost>
@@ -1212,7 +1212,7 @@ Target creature you control gains first strike and trample until end of turn. (T
     </card>
     <card>
       <name>Mordel Flamespeaker</name>
-      <set rarity="common">FOE</set>
+      <set num="162" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1232,8 +1232,8 @@ Target creature you control gains first strike and trample until end of turn. (T
 As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</text>
     </card>
     <card>
-      <name>Drakes Intuition</name>
-      <set rarity="common">FOE</set>
+      <name>Drake&apos;s Intuition</name>
+      <set num="150" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1244,7 +1244,7 @@ As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</
         <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname Drakes Intuition</notes>
+        <notes>Drakes Intuition</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -1254,7 +1254,7 @@ As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</
     </card>
     <card>
       <name>Smelt Corruption</name>
-      <set rarity="common">FOE</set>
+      <set num="174" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1272,7 +1272,7 @@ As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</
     </card>
     <card>
       <name>Mordel Shaper</name>
-      <set rarity="common">FOE</set>
+      <set num="164" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1292,7 +1292,7 @@ As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</
     </card>
     <card>
       <name>Shifting Landscape</name>
-      <set rarity="common">FOE</set>
+      <set num="172" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1311,7 +1311,7 @@ Draw a card from your sanctum or library.</text>
     </card>
     <card>
       <name>Depthscout</name>
-      <set rarity="common">FOE</set>
+      <set num="189" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1332,7 +1332,7 @@ v1.0 Whenever a spell or ability puts a card into your hand, you gain 2 life.
     </card>
     <card>
       <name>Disciple of the Thicket</name>
-      <set rarity="common">FOE</set>
+      <set num="190" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1352,7 +1352,7 @@ Landfall — Whenever a land enters the battlefield under your control, this cre
     </card>
     <card>
       <name>Enduring Woodland</name>
-      <set rarity="common" splitterPath="/Enduring Woodland.jpg" >FOE</set>
+      <set num="192" rarity="common" splitterPath="/Enduring Woodland.jpg" >FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1373,7 +1373,7 @@ Whenever you attack with exactly two creatures, transform this realm.
     </card>
     <card>
       <name>Deepwoods Pillars</name>
-      <set rarity="common" splitterPath="/Deepwoods Pillars.jpg" >FOE</set>
+      <set num="192" rarity="common" splitterPath="/Deepwoods Pillars.jpg" >FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1394,7 +1394,7 @@ Whenever you attack with exactly two creatures, transform this realm.
     </card>
     <card>
       <name>Surubim Harpoon</name>
-      <set rarity="common">FOE</set>
+      <set num="217" rarity="common">FOE</set>
       <prop>
         <colors>M</colors>
         <manacost>G // 2G</manacost>
@@ -1410,7 +1410,7 @@ Destroy target creature with flying. (Then put this into your sanctum.)</text>
     </card>
     <card>
       <name>Meirel Traveller</name>
-      <set rarity="common">FOE</set>
+      <set num="201" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1429,7 +1429,7 @@ Destroy target creature with flying. (Then put this into your sanctum.)</text>
     </card>
     <card>
       <name>Shard Bearer</name>
-      <set rarity="common">FOE</set>
+      <set num="213" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1449,7 +1449,7 @@ Healing 1 (Damage dealt by this creature also causes you to gain 1 life.)</text>
     </card>
     <card>
       <name>Clanless Weaver</name>
-      <set rarity="common">FOE</set>
+      <set num="185" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1470,7 +1470,7 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
     </card>
     <card>
       <name>Illusion Reamer</name>
-      <set rarity="common">FOE</set>
+      <set num="197" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1489,7 +1489,7 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
     </card>
     <card>
       <name>Voice of the Thicket</name>
-      <set rarity="common">FOE</set>
+      <set num="223" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1510,7 +1510,7 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
     </card>
     <card>
       <name>Inspiring Recruit</name>
-      <set rarity="common">FOE</set>
+      <set num="158" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1529,7 +1529,7 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
     </card>
     <card>
       <name>Dance of Discovery</name>
-      <set rarity="common">FOE</set>
+      <set num="148" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <manacost>1R // R</manacost>
@@ -1545,7 +1545,7 @@ Target creature you control gets +1/+1 and gains haste until end of turn. (Then 
     </card>
     <card>
       <name>Outland Pair</name>
-      <set rarity="common">FOE</set>
+      <set num="206" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1565,7 +1565,7 @@ When this creature enters, draft a card from your sanctum. (Look at three random
     </card>
     <card>
       <name>Outlands Rescuer</name>
-      <set rarity="common">FOE</set>
+      <set num="208" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <manacost>5GG // G</manacost>
@@ -1581,7 +1581,7 @@ Target creature you control gets +1/+2 until end of turn. Untap it. (Then put th
     </card>
     <card>
       <name>Stand Your Ground</name>
-      <set rarity="common">FOE</set>
+      <set num="215" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1602,7 +1602,7 @@ Target creature you control gets +1/+2 until end of turn. Untap it. (Then put th
     </card>
     <card>
       <name>Guide With and Through</name>
-      <set rarity="common">FOE</set>
+      <set num="195" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1620,7 +1620,7 @@ Target creature you control gets +1/+2 until end of turn. Untap it. (Then put th
     </card>
     <card>
       <name>Teachings of the Coiled</name>
-      <set rarity="common">FOE</set>
+      <set num="218" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1639,7 +1639,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>The Strength to Overcome</name>
-      <set rarity="common">FOE</set>
+      <set num="216" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <manacost>1G // 2G</manacost>
@@ -1654,7 +1654,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
     </card>
     <card>
       <name>Turbulent Aether</name>
-      <set rarity="common">FOE</set>
+      <set num="220" rarity="common">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1675,7 +1675,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
     </card>
     <card>
       <name>Dust Converter</name>
-      <set rarity="common">FOE</set>
+      <set num="239" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1694,7 +1694,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
     </card>
     <card>
       <name>Avakin Adventurer</name>
-      <set rarity="common">FOE</set>
+      <set num="228" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1713,7 +1713,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
     </card>
     <card>
       <name>Meirel Drifter</name>
-      <set rarity="common">FOE</set>
+      <set num="257" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1733,7 +1733,7 @@ As long as you’ve illuminated silver, this creature gets +2/+1 and has flying.
     </card>
     <card>
       <name>Pathworn Blade</name>
-      <set rarity="common">FOE</set>
+      <set num="265" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <manacost>I // I</manacost>
@@ -1749,7 +1749,7 @@ Draw a card from your library or sanctum. (Then put this into your sanctum.)</te
     </card>
     <card>
       <name>Power from Beyond</name>
-      <set rarity="common">FOE</set>
+      <set num="267" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1768,7 +1768,7 @@ Draw a card from your library or sanctum. (Then put this into your sanctum.)</te
     </card>
     <card>
       <name>Calign</name>
-      <set rarity="common">FOE</set>
+      <set num="230" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1787,7 +1787,7 @@ Draw a card from your library or sanctum. (Then put this into your sanctum.)</te
     </card>
     <card>
       <name>Captivate</name>
-      <set rarity="common">FOE</set>
+      <set num="232" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1809,7 +1809,7 @@ You may draw a card from your sanctum or library. If you do, discard a card.</te
     </card>
     <card>
       <name>Adventurous Pair</name>
-      <set rarity="common">FOE</set>
+      <set num="225" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1829,7 +1829,7 @@ When this creature enters, create a 1/1 silver Drake creature token with flying.
     </card>
     <card>
       <name>Drougth Attuner</name>
-      <set rarity="common">FOE</set>
+      <set num="237" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <manacost>1I // 1I</manacost>
@@ -1845,7 +1845,7 @@ Create two 1/1 white and silver Insect creature tokens with flying and decayed. 
     </card>
     <card>
       <name>Perspective Shift</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="266" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1864,7 +1864,7 @@ Target creature becomes an enchantment land. (It loses all other card types.) It
     </card>
     <card>
       <name>Enlisted Arms</name>
-      <set rarity="common">FOE</set>
+      <set num="242" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <manacost>2I // I</manacost>
@@ -1880,7 +1880,7 @@ Create a 1/1 silver Drake creature token with flying. (Then put this into your s
     </card>
     <card>
       <name>Emigrating Pilgrim</name>
-      <set rarity="common">FOE</set>
+      <set num="240" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1899,7 +1899,7 @@ Create a 1/1 silver Drake creature token with flying. (Then put this into your s
     </card>
     <card>
       <name>Mana Compression</name>
-      <set rarity="common">FOE</set>
+      <set num="255" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1917,7 +1917,7 @@ Create a 1/1 silver Drake creature token with flying. (Then put this into your s
     </card>
     <card>
       <name>Drougth Oracle</name>
-      <set rarity="common">FOE</set>
+      <set num="238" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1937,7 +1937,7 @@ When this creature enters, draw a card.</text>
     </card>
     <card>
       <name>Enlightening Crescents</name>
-      <set rarity="common" splitterPath="/Enlightening Crescents.jpg" >FOE</set>
+      <set num="241" rarity="common" splitterPath="/Enlightening Crescents.jpg" >FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1958,7 +1958,7 @@ When this creature enters, draw a card.</text>
     </card>
     <card>
       <name>Depths of Change</name>
-      <set rarity="common" splitterPath="/Depths of Change.jpg" >FOE</set>
+      <set num="241" rarity="common" splitterPath="/Depths of Change.jpg" >FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1980,7 +1980,7 @@ When this creature enters, draw a card.</text>
     </card>
     <card>
       <name>Mutated Pioneer</name>
-      <set rarity="common">FOE</set>
+      <set num="261" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2000,7 +2000,7 @@ When this creature enters, draw a card.</text>
     </card>
     <card>
       <name>Somber Marsh</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2021,7 +2021,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Fiery Chasm</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2042,7 +2042,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Barren Fissure</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2063,7 +2063,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Sodden Cavern</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2084,7 +2084,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Rainforest Spring</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2105,7 +2105,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Roaring Cascade</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2126,7 +2126,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Cleft River</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2146,7 +2146,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Splintered Thicket</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2167,7 +2167,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Carrigol Spires</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2186,7 +2186,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Dawnshroud Castle</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2205,7 +2205,7 @@ Explorer — {2}, {T}: Target creature you control gets +2/+2 and gains trample 
     </card>
     <card>
       <name>Formless Frontier</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2224,7 +2224,7 @@ Explorer — {2}, {T}: Target creature you control gets +2/+2 and gains trample 
     </card>
     <card>
       <name>Glittering Vale</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2243,7 +2243,7 @@ Explorer — {2}, {T}: Target creature you control gets +2/+2 and gains trample 
     </card>
     <card>
       <name>Sainard Boneyard</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2262,7 +2262,7 @@ Explorer — {2}, {T}: Target creature you control gets +2/+2 and gains trample 
     </card>
     <card>
       <name>Soarwing Coast</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2281,7 +2281,7 @@ Explorer — {2}, {T}: Target creature you control gets +2/+2 and gains trample 
     </card>
     <card>
       <name>Highland Vale</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2302,7 +2302,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Tectonic Rime</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2324,7 +2324,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Desolate Barrens</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2344,7 +2344,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Tranquil Stream</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2365,7 +2365,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Alpine Meadow</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2386,7 +2386,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Jagged Crag</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2408,7 +2408,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Crackling Expanse</name>
-      <set rarity="common">FOE</set>
+      <set num="0" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2428,7 +2428,7 @@ This land enters tapped.</text>
     </card>
     <card>
       <name>Morraire Shimmer Patrol</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="314" rarity="uncommon">FOE</set>
       <prop>
         <colors>WI</colors>
         <color>WI</color>
@@ -2450,7 +2450,7 @@ Evoke 1I/W (You may cast this spell for its evoke cost. If you do, it’s sacrif
     </card>
     <card>
       <name>Coiling Jailer</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="286" rarity="uncommon">FOE</set>
       <prop>
         <colors>WI</colors>
         <color>WI</color>
@@ -2472,7 +2472,7 @@ When this creature leaves the battlefield, put the exiled creature onto the batt
     </card>
     <card>
       <name>Sisters in Sorrow</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="326" rarity="uncommon">FOE</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -2496,7 +2496,7 @@ Whenever you attack, reveal the top card of your library. If it’s a permanent 
     </card>
     <card>
       <name>Feather Piper</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="293" rarity="uncommon">FOE</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -2517,7 +2517,7 @@ Evoke 2R/W (You may cast this spell for its evoke cost. If you do, it’s sacrif
     </card>
     <card>
       <name>Whisperer of the Paths</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="331" rarity="uncommon">FOE</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -2536,7 +2536,7 @@ Evoke 2R/W (You may cast this spell for its evoke cost. If you do, it’s sacrif
     </card>
     <card>
       <name>Sunlace Panthera</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="328" rarity="uncommon">FOE</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -2557,7 +2557,7 @@ Evoke 1G/W (You may cast this spell for its evoke cost. If you do, it’s sacrif
     </card>
     <card>
       <name>Shadow of Grace</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="324" rarity="uncommon">FOE</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -2578,7 +2578,7 @@ Evoke W/UW/U (You may cast this spell for its evoke cost. If you do, it’s sacr
     </card>
     <card>
       <name>Latent Powerstone</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="306" rarity="uncommon">FOE</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -2597,7 +2597,7 @@ Evoke W/UW/U (You may cast this spell for its evoke cost. If you do, it’s sacr
     </card>
     <card>
       <name>Pathward Riftcalling</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="320" rarity="uncommon">FOE</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -2616,7 +2616,7 @@ Once each turn, when you cast an enchantment spell, create a 1/1 white Shark enc
     </card>
     <card>
       <name>Menithel Demon</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="310" rarity="uncommon">FOE</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -2637,7 +2637,7 @@ Evoke W/BW/B (You may cast this spell for its evoke cost. If you do, it’s sacr
     </card>
     <card>
       <name>Cydina Storm Drake</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="287" rarity="uncommon">FOE</set>
       <prop>
         <colors>RI</colors>
         <color>RI</color>
@@ -2659,7 +2659,7 @@ This creature gets +1/+1 if you’ve illuminated red, and +1/+1 if you’ve illu
     </card>
     <card>
       <name>Flowsnail</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="294" rarity="uncommon">FOE</set>
       <prop>
         <colors>RI</colors>
         <color>RI</color>
@@ -2680,7 +2680,7 @@ Evoke {I/R} (You may cast this spell for its evoke cost. If you do, it’s sacri
     </card>
     <card>
       <name>Mordel Spiritcaller</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="313" rarity="uncommon">FOE</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -2701,7 +2701,7 @@ Evoke {R/G} (You may cast this spell for its evoke cost. If you do, it’s sacri
     </card>
     <card>
       <name>Ignelscor Frontliner</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="300" rarity="uncommon">FOE</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -2721,7 +2721,7 @@ At the beginning of combat on each turn, if a land entered under your control th
     </card>
     <card>
       <name>Promise of Hunger</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="322" rarity="uncommon">FOE</set>
       <prop>
         <colors>GI</colors>
         <color>GI</color>
@@ -2740,7 +2740,7 @@ At the beginning of combat on each turn, if a land entered under your control th
     </card>
     <card>
       <name>Balutr Runners</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="281" rarity="uncommon">FOE</set>
       <prop>
         <colors>GI</colors>
         <color>GI</color>
@@ -2762,7 +2762,7 @@ Evoke 1I/G (You may cast this spell for its evoke cost. If you do, it’s sacrif
     </card>
     <card>
       <name>Drake Mentor</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="289" rarity="uncommon">FOE</set>
       <prop>
         <colors>M</colors>
         <manacost>IU // 1IU</manacost>
@@ -2779,7 +2779,7 @@ Return target battle, planeswalker, or sorcery card from your graveyard to your 
     </card>
     <card>
       <name>Boundless Flight</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="283" rarity="uncommon">FOE</set>
       <prop>
         <colors>UI</colors>
         <color>UI</color>
@@ -2801,7 +2801,7 @@ Evoke 1I/U (You may cast this spell for its evoke cost. If you do, it’s sacrif
     </card>
     <card>
       <name>Upsurge Nemato-Gnathi</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="330" rarity="uncommon">FOE</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -2821,7 +2821,7 @@ Evoke 1U/R (You may cast this spell for its evoke cost. If you do, it’s sacrif
     </card>
     <card>
       <name>Duraval Starmapper</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="290" rarity="uncommon">FOE</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -2841,7 +2841,7 @@ Whenever this creature deals combat damage to a noncreature permanent or player,
     </card>
     <card>
       <name>Kaln-Ocean Harmonizer</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="304" rarity="uncommon">FOE</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -2864,7 +2864,7 @@ Tap three untapped creatures you control: Draw a card.</text>
     </card>
     <card>
       <name>Outlands Duelists</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="319" rarity="uncommon">FOE</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -2886,7 +2886,7 @@ Evoke {G/U} (You may cast this spell for its evoke cost. If you do, it’s sacri
     </card>
     <card>
       <name>Meirel Pathrunner</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="309" rarity="uncommon">FOE</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -2908,7 +2908,7 @@ Evoke 1U/B (You may cast this spell for its evoke cost. If you do, it’s sacrif
     </card>
     <card>
       <name>Those Lost in the Paths</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="329" rarity="uncommon">FOE</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -2929,7 +2929,7 @@ Threshold — As long as you have seven or more cards in your graveyard, this cr
     </card>
     <card>
       <name>Calamitous Koi</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="284" rarity="uncommon">FOE</set>
       <prop>
         <colors>BI</colors>
         <color>BI</color>
@@ -2949,7 +2949,7 @@ Can’t have shit in detroit.</notes>
     </card>
     <card>
       <name>Omen of Hunger</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="317" rarity="uncommon">FOE</set>
       <prop>
         <colors>BI</colors>
         <color>BI</color>
@@ -2970,7 +2970,7 @@ Evoke 1I/B (You may cast this spell for its evoke cost. If you do, it’s sacrif
     </card>
     <card>
       <name>Ardent Grief</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="278" rarity="uncommon">FOE</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -2990,7 +2990,7 @@ Evoke {B/R} (You may cast this spell for its evoke cost. If you do, it’s sacri
     </card>
     <card>
       <name>Ignelscor Weaver</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="301" rarity="uncommon">FOE</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -3011,7 +3011,7 @@ Evoke {B/R} (You may cast this spell for its evoke cost. If you do, it’s sacri
     </card>
     <card>
       <name>Guardian of the Cinders</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="277" rarity="uncommon">FOE</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -3033,7 +3033,7 @@ Note:Backside</notes>
     </card>
     <card>
       <name>Mourncast Disciple</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="315" rarity="uncommon">FOE</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -3053,7 +3053,7 @@ Evoke 1B/G (You may cast this spell for its evoke cost. If you do, it’s sacrif
     </card>
     <card>
       <name>Remnants of the War</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="323" rarity="uncommon">FOE</set>
       <prop>
         <colors>BG</colors>
         <manacost>2BG</manacost>
@@ -3076,7 +3076,7 @@ When this battle enters or is defeated, choose one that has not been chosen—
     </card>
     <card>
       <name>Monument to Forever</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="11" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3096,7 +3096,7 @@ Exile target permanent.</text>
     </card>
     <card>
       <name>Kilnhart Smoghorn</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="7" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3119,7 +3119,7 @@ This creature gets +1/+0 for each enchantment you control.</text>
     </card>
     <card>
       <name>Ambitious Haze</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="1" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3140,7 +3140,7 @@ Traverse X, x is the number of other cards in graveyard</notes>
     </card>
     <card>
       <name>Drakesteel Effigy</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="335" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3159,7 +3159,7 @@ Exploring — {6}, {T}: Draw a card. Each opponent loses 1 life and you gain 1 l
     </card>
     <card>
       <name>Clerics Claymore</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="334" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3179,7 +3179,7 @@ Equipped creature has healing 2. (Damage dealt by that creature also causes you 
     </card>
     <card>
       <name>Crystalline Refraction</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="4" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3200,7 +3200,7 @@ Whenever you cast a spell that is one or more colors, if you’ve illuminated an
     </card>
     <card>
       <name>Homestead Pair</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="244" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -3220,7 +3220,7 @@ When this creature enters, create a colorless 3/3 Wurm Dragon kindred enchantmen
     </card>
     <card>
       <name>Parading Terrain</name>
-      <set rarity="common">FOE</set>
+      <set num="14" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3242,7 +3242,7 @@ Reveal it, shuffle, then put that card on top of your library.</text>
     </card>
     <card>
       <name>Discover Uncertainty</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="236" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -3259,8 +3259,8 @@ Reveal it, shuffle, then put that card on top of your library.</text>
       <text>Sift 3, then draw a card. (Look at the top three cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</text>
     </card>
     <card>
-      <name>When Words Dont Work</name>
-      <set rarity="common">FOE</set>
+      <name>When Words Don&apos;t Work</name>
+      <set num="276" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -3271,7 +3271,7 @@ Reveal it, shuffle, then put that card on top of your library.</text>
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname When Words Dont Work
+        <notes>When Words Dont Work
 can possibly hit enchantments
 Manifest</notes>
       </prop>
@@ -3280,8 +3280,8 @@ Manifest</notes>
 {2}, Discard this: Draw a card.</text>
     </card>
     <card>
-      <name>Fault-01</name>
-      <set rarity="">FOE</set>
+      <name>Fault</name>
+      <set num="379" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3292,14 +3292,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
-        <notes>!exportname Fault-01</notes>
+        <notes>Fault-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Fault-03</name>
-      <set rarity="">FOE</set>
+      <name>Fault</name>
+      <set num="378" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3310,14 +3310,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
-        <notes>!exportname Fault-03</notes>
+        <notes>Fault-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Fault-02</name>
-      <set rarity="">FOE</set>
+      <name>Fault</name>
+      <set num="377" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3328,14 +3328,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
-        <notes>!exportname Fault-02</notes>
+        <notes>Fault-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Fault-04</name>
-      <set rarity="">FOE</set>
+      <name>Fault</name>
+      <set num="376" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3346,14 +3346,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
-        <notes>!exportname Fault-04</notes>
+        <notes>Fault-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest-01</name>
-      <set rarity="">FOE</set>
+      <name>Forest</name>
+      <set num="372" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3364,14 +3364,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Forest-01</notes>
+        <notes>Forest-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest-03</name>
-      <set rarity="">FOE</set>
+      <name>Forest</name>
+      <set num="375" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3382,14 +3382,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Forest-03</notes>
+        <notes>Forest-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest-02</name>
-      <set rarity="">FOE</set>
+      <name>Forest</name>
+      <set num="374" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3400,14 +3400,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Forest-02</notes>
+        <notes>Forest-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest-04</name>
-      <set rarity="">FOE</set>
+      <name>Forest</name>
+      <set num="373" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3418,14 +3418,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Forest-04</notes>
+        <notes>Forest-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island-01</name>
-      <set rarity="">FOE</set>
+      <name>Island</name>
+      <set num="362" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3436,14 +3436,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Island-01</notes>
+        <notes>Island-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island-03</name>
-      <set rarity="">FOE</set>
+      <name>Island</name>
+      <set num="360" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3454,14 +3454,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Island-03</notes>
+        <notes>Island-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island-02</name>
-      <set rarity="">FOE</set>
+      <name>Island</name>
+      <set num="361" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3472,14 +3472,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Island-02</notes>
+        <notes>Island-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island-04</name>
-      <set rarity="">FOE</set>
+      <name>Island</name>
+      <set num="363" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3490,14 +3490,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Island-04</notes>
+        <notes>Island-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Mountain-01</name>
-      <set rarity="">FOE</set>
+      <name>Mountain</name>
+      <set num="371" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3508,14 +3508,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Mountain-01</notes>
+        <notes>Mountain-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Mountain-02</name>
-      <set rarity="">FOE</set>
+      <name>Mountain</name>
+      <set num="370" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3526,14 +3526,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Mountain-02</notes>
+        <notes>Mountain-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Mountain-03</name>
-      <set rarity="">FOE</set>
+      <name>Mountain</name>
+      <set num="369" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3544,14 +3544,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Mountain-03</notes>
+        <notes>Mountain-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Mountain-04</name>
-      <set rarity="">FOE</set>
+      <name>Mountain</name>
+      <set num="368" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3562,14 +3562,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Mountain-04</notes>
+        <notes>Mountain-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains-04</name>
-      <set rarity="">FOE</set>
+      <name>Plains</name>
+      <set num="357" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3580,14 +3580,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname Plains-04</notes>
+        <notes>Plains-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains-01</name>
-      <set rarity="">FOE</set>
+      <name>Plains</name>
+      <set num="356" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3598,14 +3598,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname Plains-01</notes>
+        <notes>Plains-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains-03</name>
-      <set rarity="">FOE</set>
+      <name>Plains</name>
+      <set num="359" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3616,14 +3616,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname Plains-03</notes>
+        <notes>Plains-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains-02</name>
-      <set rarity="">FOE</set>
+      <name>Plains</name>
+      <set num="358" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3634,14 +3634,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname Plains-02</notes>
+        <notes>Plains-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp-01</name>
-      <set rarity="">FOE</set>
+      <name>Swamp</name>
+      <set num="364" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3652,14 +3652,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Swamp-01</notes>
+        <notes>Swamp-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp-03</name>
-      <set rarity="">FOE</set>
+      <name>Swamp</name>
+      <set num="365" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3670,14 +3670,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Swamp-03</notes>
+        <notes>Swamp-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp-02</name>
-      <set rarity="">FOE</set>
+      <name>Swamp</name>
+      <set num="366" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3688,14 +3688,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Swamp-02</notes>
+        <notes>Swamp-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp-04</name>
-      <set rarity="">FOE</set>
+      <name>Swamp</name>
+      <set num="367" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3706,14 +3706,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Swamp-04</notes>
+        <notes>Swamp-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
       <name>Healing Counter</name>
-      <set rarity="">FOE</set>
+      <set num="381" rarity="">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3731,7 +3731,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Stun Counter</name>
-      <set rarity="">FOE</set>
+      <set num="380" rarity="">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3748,8 +3748,8 @@ Manifest</notes>
       <text></text>
     </card>
     <card>
-      <name>plus one plus one counter</name>
-      <set rarity="">FOE</set>
+      <name>+1+1 Counter</name>
+      <set num="382" rarity="">FOE</set>
       <prop>
         <colors>WUBRGI</colors>
         <color>WUBRGI</color>
@@ -3760,7 +3760,7 @@ Manifest</notes>
         <mv>5</mv>
         <type>Reminder</type>
         <maintype>Reminder</maintype>
-        <notes>!exportname plus one plus one counter
+        <notes>plus one plus one counter
 !related Whisperer of the Paths;Disciplined Seeker;Ignelscor Frontliner;Ignelscor Weaver;Dominator of Drakes;Clanless Weaver;Safeguarded Pair;Shard Bearer;Tiderock Passage;Tiderock Passage Promo;Light of Hope;Meditation&lt;2>;Open Eternity;Alternate Path;Lasting Discovery&lt;2>;Scale the Heights;Start of an Adventure;
 
 !framed!readable</notes>
@@ -3770,7 +3770,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Iconic Challenger</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="246" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -3790,7 +3790,7 @@ Discard a card: This creature has size 4/4 until end of turn.</text>
     </card>
     <card>
       <name>Unweave</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="274" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -3810,7 +3810,7 @@ Discard a card: This creature has size 4/4 until end of turn.</text>
     </card>
     <card>
       <name>Concealing Ruins</name>
-      <set rarity="uncommon" splitterPath="/Concealing Ruins.jpg" >FOE</set>
+      <set num="235" rarity="uncommon" splitterPath="/Concealing Ruins.jpg" >FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -3831,7 +3831,7 @@ Discard a card: This creature has size 4/4 until end of turn.</text>
     </card>
     <card>
       <name>Concealed Passage</name>
-      <set rarity="uncommon" splitterPath="/Concealed Passage.jpg" >FOE</set>
+      <set num="235" rarity="uncommon" splitterPath="/Concealed Passage.jpg" >FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -3852,7 +3852,7 @@ Discard a card: This creature has size 4/4 until end of turn.</text>
     </card>
     <card>
       <name>Blade Reifier</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="229" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <manacost>2I // 1I</manacost>
@@ -3868,7 +3868,7 @@ Exile target creature you control, then return it to the battlefield under its o
     </card>
     <card>
       <name>Ignelscor Witch</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="247" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -3888,8 +3888,8 @@ FGU</notes>
 When this creature enters, you may choose up to two target creatures you control. Those creatures become copies of this creature until this creature leaves the battlefield.</text>
     </card>
     <card>
-      <name>Kornas Forward</name>
-      <set rarity="uncommon">FOE</set>
+      <name>Korna&apos;s Forward</name>
+      <set num="252" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -3901,7 +3901,7 @@ When this creature enters, you may choose up to two target creatures you control
         <type>Creature - Wurm Scout </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!exportname Kornas Forward</notes>
+        <notes>Kornas Forward</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward—Pay 2 life.
@@ -3909,7 +3909,7 @@ When this creature enters, it deals damage to any noncreature target equal to th
     </card>
     <card>
       <name>Meirel Evacuator</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="259" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -3930,7 +3930,7 @@ Whenever you attack, draw a card from your sanctum or library, then discard a ca
     </card>
     <card>
       <name>Unending Exploration</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="273" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -3949,7 +3949,7 @@ You may play cards from your sanctum with mana value equal to the mana value of 
     </card>
     <card>
       <name>Cascading Cleave</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3969,7 +3969,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
     </card>
     <card>
       <name>Persisting Timepiece</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -3989,7 +3989,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
     </card>
     <card>
       <name>Vineglare Enclave</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4010,7 +4010,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
     </card>
     <card>
       <name>Inkblot Artist</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="248" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -4029,7 +4029,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
     </card>
     <card>
       <name>Reflected Inclination</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="269" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -4049,7 +4049,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
     </card>
     <card>
       <name>Wandering Travellers</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="275" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -4068,7 +4068,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
     </card>
     <card>
       <name>Bloomrock Enclave</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4088,7 +4088,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
     </card>
     <card>
       <name>Brightblossom Enclave</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4108,7 +4108,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
     </card>
     <card>
       <name>Dawnbreak Resort</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4128,7 +4128,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
     </card>
     <card>
       <name>Devoted Riftpike</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4149,7 +4149,7 @@ Flying
     </card>
     <card>
       <name>Errant Pillar</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4170,7 +4170,7 @@ Trample
     </card>
     <card>
       <name>Exhausting Foundation</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4191,7 +4191,7 @@ Menace
     </card>
     <card>
       <name>Glowspore Enclave</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4211,7 +4211,7 @@ Menace
     </card>
     <card>
       <name>Hostile Pillars</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4231,7 +4231,7 @@ Menace
     </card>
     <card>
       <name>Listless Monument</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4252,7 +4252,7 @@ Reach
     </card>
     <card>
       <name>Mistlake Enclave</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4272,7 +4272,7 @@ Reach
     </card>
     <card>
       <name>Moonglow Enclave</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4293,7 +4293,7 @@ Reach
     </card>
     <card>
       <name>Ominous Temple</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4313,7 +4313,7 @@ Reach
     </card>
     <card>
       <name>Roaming Ruins</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4334,7 +4334,7 @@ Vigilance
     </card>
     <card>
       <name>Soaring Tethers</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4354,7 +4354,7 @@ When this land enters tapped, up to one target creature you control gains flying
     </card>
     <card>
       <name>Sunswept Prairie</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4374,7 +4374,7 @@ When this land enters tapped, up to one target creature gets +0/+1 and gains vig
     </card>
     <card>
       <name>Thyrsine Way</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4394,7 +4394,7 @@ When this land enters tapped, up to one target creature gains deathtouch until e
     </card>
     <card>
       <name>Vibrant Knoll</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4414,7 +4414,7 @@ When this land enters tapped, up to one target creature gains trample and hexpro
     </card>
     <card>
       <name>Windy Weft</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="0" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4434,7 +4434,7 @@ When this land enters tapped, up to one target creature you control gains haste 
     </card>
     <card>
       <name>Binding Pools</name>
-      <set rarity="rare">FOE</set>
+      <set num="0" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4453,7 +4453,7 @@ When this land enters tapped, up to one target creature you control gains haste 
     </card>
     <card>
       <name>Frontier Sanctuary</name>
-      <set rarity="rare">FOE</set>
+      <set num="0" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4473,7 +4473,7 @@ When this land enters tapped, up to one target creature you control gains haste 
     </card>
     <card>
       <name>Mirdrim Summit</name>
-      <set rarity="rare">FOE</set>
+      <set num="0" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4493,7 +4493,7 @@ When this land enters tapped, up to one target creature you control gains haste 
     </card>
     <card>
       <name>Splitting Caldera</name>
-      <set rarity="rare">FOE</set>
+      <set num="0" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4514,7 +4514,7 @@ When this land enters tapped, up to one target creature you control gains haste 
     </card>
     <card>
       <name>Winnowing Tower</name>
-      <set rarity="rare">FOE</set>
+      <set num="0" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4534,7 +4534,7 @@ When this land enters tapped, up to one target creature you control gains haste 
     </card>
     <card>
       <name>Tavern Sanctum</name>
-      <set rarity="mythic">FOE</set>
+      <set num="355" rarity="mythic">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4555,7 +4555,7 @@ When this land enters tapped, up to one target creature you control gains haste 
     </card>
     <card>
       <name>Bosket Peak</name>
-      <set rarity="common" splitterPath="/Bosket Peak.jpg" >FOE</set>
+      <set num="143" rarity="common" splitterPath="/Bosket Peak.jpg" >FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4576,7 +4576,7 @@ When this land enters tapped, up to one target creature you control gains haste 
     </card>
     <card>
       <name>Peaks of War</name>
-      <set rarity="common" splitterPath="/Peaks of War.jpg" >FOE</set>
+      <set num="143" rarity="common" splitterPath="/Peaks of War.jpg" >FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4599,7 +4599,7 @@ When this land enters tapped, up to one target creature you control gains haste 
     </card>
     <card>
       <name>Outlands Recruiter</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="46" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <manacost>W // W</manacost>
@@ -4615,8 +4615,8 @@ You may cast this creature from your sanctum for 1W.
 Put a +1/+1 counter on target creature you control. (Then put this into your sanctum.)</text>
     </card>
     <card>
-      <name>Julius Skyknight of Morriare</name>
-      <set rarity="uncommon">FOE</set>
+      <name>Julius, Skyknight of Morriare</name>
+      <set num="35" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4628,7 +4628,7 @@ Put a +1/+1 counter on target creature you control. (Then put this into your san
         <type>Legendary Creature - Mouse Bird Knight </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
-        <notes>!exportname Julius Skyknight of Morriare
+        <notes>Julius Skyknight of Morriare
 WRU
 Multicolor</notes>
       </prop>
@@ -4638,7 +4638,7 @@ Whenever this creature deals combat damage to a noncreature, you may pay {U/R}. 
     </card>
     <card>
       <name>Yearn for the Sky</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="58" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4656,7 +4656,7 @@ Whenever this creature deals combat damage to a noncreature, you may pay {U/R}. 
     </card>
     <card>
       <name>Marching Partisan</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="38" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4676,7 +4676,7 @@ Tokens you control have vigilance. (Attacking doesn’t cause them to tap.)</tex
     </card>
     <card>
       <name>Outland Riftsower</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="44" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4697,7 +4697,7 @@ As long as you’ve gained 3 or more life this turn, you may cast a creature car
     </card>
     <card>
       <name>Clanless Tunneler</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="20" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4721,7 +4721,7 @@ Explorer — When this creature attacks, if you control five or more differently
     </card>
     <card>
       <name>Coalesced Company</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="22" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4742,7 +4742,7 @@ This creature has vigilance and flying as long as you’ve illuminated white.</t
     </card>
     <card>
       <name>Inspiring Dunes</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="32" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4759,8 +4759,8 @@ This creature has vigilance and flying as long as you’ve illuminated white.</t
       <text>Creatures you control get +1/+1 and have ward {1}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
     </card>
     <card>
-      <name>Hengs Intercession</name>
-      <set rarity="uncommon">FOE</set>
+      <name>Heng&apos;s Intercession</name>
+      <set num="29" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4771,7 +4771,7 @@ This creature has vigilance and flying as long as you’ve illuminated white.</t
         <mv>5</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname Hengs Intercession
+        <notes>Hengs Intercession
 watch in testing</notes>
       </prop>
       <tablerow>3</tablerow>
@@ -4781,7 +4781,7 @@ Exile target nonland permanent.</text>
     </card>
     <card>
       <name>Mentor of Engagement</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="41" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4802,7 +4802,7 @@ Explorer — Whenever this creature attacks, if you control five or more differe
     </card>
     <card>
       <name>Winding Guide</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="57" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4823,7 +4823,7 @@ Evoke {W} (You may cast this spell for its evoke cost. If you do, it’s sacrifi
     </card>
     <card>
       <name>Safeguarded Pair</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="52" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <manacost>1W // 2W</manacost>
@@ -4840,7 +4840,7 @@ Return target creature card with mana value 3 or less from your graveyard to the
     </card>
     <card>
       <name>Peacewarden</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="49" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4860,7 +4860,7 @@ Sacrifice this creature: Target creature gains indestructible until end of turn.
     </card>
     <card>
       <name>Chimarel Clearing</name>
-      <set rarity="uncommon" splitterPath="/Chimarel Clearing.jpg" >FOE</set>
+      <set num="19" rarity="uncommon" splitterPath="/Chimarel Clearing.jpg" >FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4881,7 +4881,7 @@ Sacrifice this creature: Target creature gains indestructible until end of turn.
     </card>
     <card>
       <name>Restful Clearing</name>
-      <set rarity="uncommon" splitterPath="/Restful Clearing.jpg" >FOE</set>
+      <set num="19" rarity="uncommon" splitterPath="/Restful Clearing.jpg" >FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4902,7 +4902,7 @@ Sacrifice this creature: Target creature gains indestructible until end of turn.
     </card>
     <card>
       <name>Ancient Sigils</name>
-      <set rarity="uncommon" splitterPath="/Ancient Sigils.jpg" >FOE</set>
+      <set num="59" rarity="uncommon" splitterPath="/Ancient Sigils.jpg" >FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4923,7 +4923,7 @@ Sacrifice this creature: Target creature gains indestructible until end of turn.
     </card>
     <card>
       <name>Ancient Aurora</name>
-      <set rarity="uncommon" splitterPath="/Ancient Aurora.jpg" >FOE</set>
+      <set num="59" rarity="uncommon" splitterPath="/Ancient Aurora.jpg" >FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4944,7 +4944,7 @@ Sacrifice this creature: Target creature gains indestructible until end of turn.
     </card>
     <card>
       <name>Storm Striker</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="91" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4964,7 +4964,7 @@ Once each turn, when you cast a nonpermanent spell, sift 1. (Look at the top car
     </card>
     <card>
       <name>Dreamgill Salamander</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="68" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <manacost>1U // 2U</manacost>
@@ -4980,7 +4980,7 @@ Tap target creature and put three stun counter on it. (Then put this into your s
     </card>
     <card>
       <name>Embracing Intonation</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="69" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5001,7 +5001,7 @@ Whenever you attack, sift 1. (Look at the top card of your library. You may put 
     </card>
     <card>
       <name>Moonscale Koi</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="78" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5022,7 +5022,7 @@ Whenever you attack, sift 1. (Look at the top card of your library. You may put 
     </card>
     <card>
       <name>Vertical Shift</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="96" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <manacost>1U // 3U</manacost>
@@ -5037,7 +5037,7 @@ Draw two cards. (Then put this into your sanctum.)</text>
     </card>
     <card>
       <name>Waterscape Mystic</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="98" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <manacost>1U // 4U</manacost>
@@ -5054,7 +5054,7 @@ Create a blue 4/4 Dragon Eye creature token with trample. (Then put this into yo
     </card>
     <card>
       <name>I Know What You Mean to Me</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="73" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5072,7 +5072,7 @@ Create a blue 4/4 Dragon Eye creature token with trample. (Then put this into yo
     </card>
     <card>
       <name>Rest For a New World</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="85" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5093,7 +5093,7 @@ When this enchantment leaves the battlefield, draft a card from your sanctum. (L
     </card>
     <card>
       <name>Relentless Spellseeker</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="83" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5114,7 +5114,7 @@ Whenever you cast a nonpermanent spell, you may copy it. You may choose new targ
     </card>
     <card>
       <name>Cliffside Surveyor</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="63" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5135,7 +5135,7 @@ You may cast instant and sorcery cards from your sanctum on any turn you drew tw
     </card>
     <card>
       <name>Skycliff Flow</name>
-      <set rarity="uncommon" splitterPath="/Skycliff Flow.jpg" >FOE</set>
+      <set num="88" rarity="uncommon" splitterPath="/Skycliff Flow.jpg" >FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5156,7 +5156,7 @@ You may cast instant and sorcery cards from your sanctum on any turn you drew tw
     </card>
     <card>
       <name>Skycliff Dens</name>
-      <set rarity="uncommon" splitterPath="/Skycliff Dens.jpg" >FOE</set>
+      <set num="88" rarity="uncommon" splitterPath="/Skycliff Dens.jpg" >FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5177,7 +5177,7 @@ You may cast instant and sorcery cards from your sanctum on any turn you drew tw
     </card>
     <card>
       <name>Slipstream Cyprinus</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="89" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5197,7 +5197,7 @@ Tap two untapped enchantments and/or creatures you control: This enchantment als
     </card>
     <card>
       <name>Mesmeric Peaks</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="76" rarity="uncommon">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5215,7 +5215,7 @@ Tap two untapped enchantments and/or creatures you control: This enchantment als
     </card>
     <card>
       <name>Parasitic Roots</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="127" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5233,7 +5233,7 @@ Tap two untapped enchantments and/or creatures you control: This enchantment als
     </card>
     <card>
       <name>Howling Gasp</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="115" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5253,8 +5253,8 @@ Menace
 This creature gets +2/+0 if you’ve illuminated black.</text>
     </card>
     <card>
-      <name>I Wont Stand Alone</name>
-      <set rarity="uncommon">FOE</set>
+      <name>I Won&apos;t Stand Alone</name>
+      <set num="116" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5265,7 +5265,7 @@ This creature gets +2/+0 if you’ve illuminated black.</text>
         <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname I Wont Stand Alone
+        <notes>I Wont Stand Alone
 // mini bleak return :)</notes>
       </prop>
       <tablerow>3</tablerow>
@@ -5274,7 +5274,7 @@ Flashback 2B (You may cast this card from your graveyard for its flashback cost.
     </card>
     <card>
       <name>Ditto Dagger</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="109" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5294,7 +5294,7 @@ Explorer — 1B: Return this creature from your graveyard to the battlefield. Ac
     </card>
     <card>
       <name>Lizturbance</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="121" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5314,7 +5314,7 @@ Creature tokens you control gain haste until end of turn.</text>
     </card>
     <card>
       <name>Dissenting Experience</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="108" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5333,7 +5333,7 @@ Creature tokens you control gain haste until end of turn.</text>
     </card>
     <card>
       <name>Omenspeaker Avakin</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="125" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5352,7 +5352,7 @@ Creature tokens you control gain haste until end of turn.</text>
     </card>
     <card>
       <name>Your Strength is Fading</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="140" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5371,7 +5371,7 @@ Whenever you attack, if you’ve illuminated black, each opponent loses 2 life a
     </card>
     <card>
       <name>Bloodstained Fields</name>
-      <set rarity="uncommon" splitterPath="/Bloodstained Fields.jpg" >FOE</set>
+      <set num="105" rarity="uncommon" splitterPath="/Bloodstained Fields.jpg" >FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5392,7 +5392,7 @@ Whenever you attack, if you’ve illuminated black, each opponent loses 2 life a
     </card>
     <card>
       <name>Drake-Brood Peak</name>
-      <set rarity="uncommon" splitterPath="/Drake-Brood Peak.jpg" >FOE</set>
+      <set num="105" rarity="uncommon" splitterPath="/Drake-Brood Peak.jpg" >FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5413,7 +5413,7 @@ Whenever you attack, if you’ve illuminated black, each opponent loses 2 life a
     </card>
     <card>
       <name>Spire of Rebirth</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="136" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5432,7 +5432,7 @@ Whenever you attack, if you’ve illuminated black, each opponent loses 2 life a
     </card>
     <card>
       <name>Murkross Spiritcaller</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="124" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <manacost>2B // 2B</manacost>
@@ -5449,7 +5449,7 @@ Target player sacrifices an enchantment. (Then put this into your sanctum.)</tex
     </card>
     <card>
       <name>Gold-Streaked Obelisks</name>
-      <set rarity="uncommon" splitterPath="/Gold-Streaked Obelisks.jpg" >FOE</set>
+      <set num="194" rarity="uncommon" splitterPath="/Gold-Streaked Obelisks.jpg" >FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5470,7 +5470,7 @@ Target player sacrifices an enchantment. (Then put this into your sanctum.)</tex
     </card>
     <card>
       <name>Green-Streaked Ruins</name>
-      <set rarity="uncommon" splitterPath="/Green-Streaked Ruins.jpg" >FOE</set>
+      <set num="194" rarity="uncommon" splitterPath="/Green-Streaked Ruins.jpg" >FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5491,7 +5491,7 @@ Target player sacrifices an enchantment. (Then put this into your sanctum.)</tex
     </card>
     <card>
       <name>Fervent Canyon</name>
-      <set rarity="uncommon" splitterPath="/Fervent Canyon.jpg" >FOE</set>
+      <set num="153" rarity="uncommon" splitterPath="/Fervent Canyon.jpg" >FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5513,7 +5513,7 @@ Whenever a creature you control with power 2 or less attacks, this enchantment d
     </card>
     <card>
       <name>Fervent Monuments</name>
-      <set rarity="uncommon" splitterPath="/Fervent Monuments.jpg" >FOE</set>
+      <set num="153" rarity="uncommon" splitterPath="/Fervent Monuments.jpg" >FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5534,7 +5534,7 @@ Whenever a creature you control with power 2 or less attacks, this enchantment d
     </card>
     <card>
       <name>Ignelscor Jidiao</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="117" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <manacost>5B // 1B</manacost>
@@ -5551,7 +5551,7 @@ Draw a card. Mill two cards. You may put them into your sanctum. (Then put this 
     </card>
     <card>
       <name>Boundless Hollow</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="106" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5569,7 +5569,7 @@ Draw a card. Mill two cards. You may put them into your sanctum. (Then put this 
     </card>
     <card>
       <name>Rend Hope</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="132" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5587,7 +5587,7 @@ Draw a card. Mill two cards. You may put them into your sanctum. (Then put this 
     </card>
     <card>
       <name>Awakened Wurm</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="104" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5608,7 +5608,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Moonlit Congregation</name>
-      <set rarity="uncommon" splitterPath="/Moonlit Congregation.jpg" >FOE</set>
+      <set num="123" rarity="uncommon" splitterPath="/Moonlit Congregation.jpg" >FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5629,7 +5629,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Dawnlist Adherent</name>
-      <set rarity="uncommon" splitterPath="/Dawnlist Adherent.jpg" >FOE</set>
+      <set num="123" rarity="uncommon" splitterPath="/Dawnlist Adherent.jpg" >FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5650,7 +5650,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Bare Your Fangs</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="141" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5668,7 +5668,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Lost Sunset</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="160" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5689,7 +5689,7 @@ Haste
     </card>
     <card>
       <name>Counterinsurgency</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="147" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5710,7 +5710,7 @@ Haste
     </card>
     <card>
       <name>Haphazard and Unbound</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="157" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5728,7 +5728,7 @@ Haste
     </card>
     <card>
       <name>New Mordel Fireweaver</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="165" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5749,7 +5749,7 @@ Explorer — 1R: This creature gets +2/+0 and gains trample until end of turn. A
     </card>
     <card>
       <name>Seasoned Flamefinder</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="171" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5769,7 +5769,7 @@ Whenever this creature attacks, you may discard a card. If you do, draft a card 
     </card>
     <card>
       <name>Broodmages Furor</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="144" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5788,8 +5788,8 @@ Multicolor</notes>
 2I/G: Create a token that’s a copy of this enchantment without this ability. It’s a 2/2 red Human Wizard enchantment creature. Activate only once.</text>
     </card>
     <card>
-      <name>Our March Wont End</name>
-      <set rarity="uncommon">FOE</set>
+      <name>Our March Won&apos;t End</name>
+      <set num="166" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5800,7 +5800,7 @@ Multicolor</notes>
         <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname Our March Wont End
+        <notes>Our March Wont End
 !tag fascism;</notes>
         <tag>fascism;</tag>
       </prop>
@@ -5809,7 +5809,7 @@ Multicolor</notes>
     </card>
     <card>
       <name>Call to Revolution</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="145" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5828,7 +5828,7 @@ Creatures you control get +1/+0 and gain haste until end of turn.</text>
     </card>
     <card>
       <name>Shimmer From Beyond</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="173" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5846,7 +5846,7 @@ Creatures you control get +1/+0 and gain haste until end of turn.</text>
     </card>
     <card>
       <name>Encouraging Passage</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="152" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5865,7 +5865,7 @@ Creatures you control have trample.</text>
     </card>
     <card>
       <name>Fritter Skitter</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="156" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <manacost>4RR // 1R</manacost>
@@ -5882,7 +5882,7 @@ This spell deals 3 damage to any target. (Then put this into your sanctum.)</tex
     </card>
     <card>
       <name>Dawncoil Burnisher</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="149" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5902,7 +5902,7 @@ When this creature enters, destroy target artifact or land.</text>
     </card>
     <card>
       <name>Ranging Symbiote</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="210" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5921,7 +5921,7 @@ When this creature enters, destroy target artifact or land.</text>
     </card>
     <card>
       <name>Leyline Weaver</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="200" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5941,7 +5941,7 @@ Explorer — {5}: This creature gets +4/+4 until end of turn. Activate only if y
     </card>
     <card>
       <name>Murkross Shaman</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="203" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5962,7 +5962,7 @@ Explorer — {5}: This creature gets +4/+4 until end of turn. Activate only if y
     </card>
     <card>
       <name>Virulent Attendant</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="222" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <manacost>1G // XG</manacost>
@@ -5979,7 +5979,7 @@ Put a +1/+1 counter on each of up to X target creatures. (Then put this card int
     </card>
     <card>
       <name>Cervus Sprouting </name>
-      <set rarity="uncommon">FOE</set>
+      <set num="184" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5998,7 +5998,7 @@ Create two 1/1 green Elk Plant creature tokens and put a +1/+1 counter on up to 
     </card>
     <card>
       <name>Unexpected Predator</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="221" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6017,8 +6017,8 @@ Create two 1/1 green Elk Plant creature tokens and put a +1/+1 counter on up to 
 Explorer — 3G: This creature gets +1/+1 until end of turn for each differently named land you control. Activate only once each turn.</text>
     </card>
     <card>
-      <name>Cartographers Survey</name>
-      <set rarity="uncommon">FOE</set>
+      <name>Cartographer&apos;s Survey</name>
+      <set num="183" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6029,14 +6029,14 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname Cartographers Survey</notes>
+        <notes>Cartographers Survey</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top seven cards of your library. Put up to two land cards from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.</text>
     </card>
     <card>
-      <name>Hunters Strength</name>
-      <set rarity="uncommon">FOE</set>
+      <name>Hunter&apos;s Strength</name>
+      <set num="196" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6047,14 +6047,14 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <mv>4</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname Hunters Strength</notes>
+        <notes>Hunters Strength</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power or toughness to target creature you don’t control.</text>
     </card>
     <card>
-      <name>Keras Appointed</name>
-      <set rarity="uncommon">FOE</set>
+      <name>Kera&apos;s Appointed</name>
+      <set num="198" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6066,7 +6066,7 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <type>Creature - Treefolk Warrior </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
-        <notes>!exportname Keras Appointed</notes>
+        <notes>Keras Appointed</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
@@ -6075,7 +6075,7 @@ Whenever this creature attacks, you gain 2 life. If you’ve illuminated green, 
     </card>
     <card>
       <name>Nurtured Landscape</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="205" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6094,7 +6094,7 @@ Whenever this creature attacks, you gain 2 life. If you’ve illuminated green, 
     </card>
     <card>
       <name>Outlands Caretaker</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="207" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6115,7 +6115,7 @@ Whenever you put one or more counters on a creature you control, you may pay 3G.
     </card>
     <card>
       <name>Snowscaper Bakunawa</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="214" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6136,7 +6136,7 @@ This creature can’t be blocked by creatures with power 2 or less.
     </card>
     <card>
       <name>Awakened Reactionary</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="180" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <manacost>7G // 1G</manacost>
@@ -6152,7 +6152,7 @@ Each opponent exiles two cards from their sanctum. Draw a card. (Then put this i
     </card>
     <card>
       <name>Crustacean Surge</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="186" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6171,7 +6171,7 @@ Each opponent exiles two cards from their sanctum. Draw a card. (Then put this i
     </card>
     <card>
       <name>Extraplanar Portal</name>
-      <set rarity="rare">FOE</set>
+      <set num="336" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6191,7 +6191,7 @@ Once during each of your turns, you may play a card from your sanctum.</text>
     </card>
     <card>
       <name>Soul Shatter</name>
-      <set rarity="rare">FOE</set>
+      <set num="135" rarity="rare">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6208,8 +6208,8 @@ Once during each of your turns, you may play a card from your sanctum.</text>
       <text>Each opponent sacrifices a creature or planeswalker with the highest mana value among creatures and planeswalkers they control.</text>
     </card>
     <card>
-      <name>Korna Adventuring Historian</name>
-      <set rarity="rare">FOE</set>
+      <name>Korna, Adventuring Historian</name>
+      <set num="305" rarity="rare">FOE</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -6220,7 +6220,7 @@ Once during each of your turns, you may play a card from your sanctum.</text>
         <mv>5</mv>
         <type>Legendary Enchantment - Wurm Entity </type>
         <maintype>Enchantment</maintype>
-        <notes>!exportname Korna Adventuring Historian</notes>
+        <notes>Korna Adventuring Historian</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Materialize 2 (Tap any number of other enchantments you control with total mana value 2 or more: This becomes a creature in addition to its other types until your next upkeep.)
@@ -6228,8 +6228,8 @@ Trample, vigilance
 Once each turn, whenever a spell or ability puts a card into your hand, create a 2/2 white Wurm creature token with vigilance.</text>
     </card>
     <card>
-      <name>Zoslera Exiled Visionary</name>
-      <set rarity="rare">FOE</set>
+      <name>Zoslera, Exiled Visionary</name>
+      <set num="332" rarity="rare">FOE</set>
       <prop>
         <colors>RG</colors>
         <manacost>2RG</manacost>
@@ -6240,7 +6240,7 @@ Once each turn, whenever a spell or ability puts a card into your hand, create a
         <type>Legendary Planeswalker - Zoslera </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
-        <notes>!exportname Zoslera Exiled Visionary
+        <notes>Zoslera Exiled Visionary
 
 Maybe the zero is a -1</notes>
       </prop>
@@ -6252,7 +6252,7 @@ Maybe the zero is a -1</notes>
     </card>
     <card>
       <name>Trade Routes</name>
-      <set rarity="rare">FOE</set>
+      <set num="93" rarity="rare">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6271,7 +6271,7 @@ Maybe the zero is a -1</notes>
     </card>
     <card>
       <name>Where Our Paths Meet</name>
-      <set rarity="rare">FOE</set>
+      <set num="224" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6290,8 +6290,8 @@ Once each turn, you may cast an enchantment or creature spell from the top of yo
 Tap two untapped enchantments you control: Add one mana of any color. This mana can’t be spent to cast noncreature, nonenchantment spells.</text>
     </card>
     <card>
-      <name>Aurel Born Through Discord</name>
-      <set rarity="rare">FOE</set>
+      <name>Aurel, Born Through Discord</name>
+      <set num="279" rarity="rare">FOE</set>
       <prop>
         <colors>WUR</colors>
         <color>WUR</color>
@@ -6303,15 +6303,15 @@ Tap two untapped enchantments you control: Add one mana of any color. This mana 
         <type>Legendary Creature - Angel </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>!exportname Aurel Born Through Discord</notes>
+        <notes>Aurel Born Through Discord</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
 The first creature spell with mana value 3 or less you cast each turn has cascade. (When you cast that spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
     </card>
     <card>
-      <name>Sonnet Meirel Lancer</name>
-      <set rarity="rare">FOE</set>
+      <name>Sonnet, Meirel Lancer</name>
+      <set num="53" rarity="rare">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6323,15 +6323,15 @@ The first creature spell with mana value 3 or less you cast each turn has cascad
         <type>Legendary Creature - Fox Warrior </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>!exportname Sonnet Meirel Lancer</notes>
+        <notes>Sonnet Meirel Lancer</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
 When this creature enters, she deals damage equal to the number of creatures you control to up to one nonplayer target.</text>
     </card>
     <card>
-      <name>Marie Hungerbound</name>
-      <set rarity="mythic">FOE</set>
+      <name>Marie, Hungerbound</name>
+      <set num="10" rarity="mythic">FOE</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -6342,7 +6342,7 @@ When this creature enters, she deals damage equal to the number of creatures you
         <type>Legendary Planeswalker - Marie </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
-        <notes>!exportname Marie Hungerbound</notes>
+        <notes>Marie Hungerbound</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>If at least three mana of the same color was spent to cast this spell, this planeswalker enters with an additional three loyalty counters.
@@ -6351,7 +6351,7 @@ When this creature enters, she deals damage equal to the number of creatures you
     </card>
     <card>
       <name>Skyskif Flying Fish</name>
-      <set rarity="rare">FOE</set>
+      <set num="327" rarity="rare">FOE</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -6371,8 +6371,8 @@ When this creature enters, look at the top five cards of your library. You may r
 Evoke 1G/U (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
     <card>
-      <name>Gael Spiteflame Phoenix</name>
-      <set rarity="rare">FOE</set>
+      <name>Gael, Spiteflame Phoenix</name>
+      <set num="296" rarity="rare">FOE</set>
       <prop>
         <colors>UBR</colors>
         <color>UBR</color>
@@ -6384,7 +6384,7 @@ Evoke 1G/U (You may cast this spell for its evoke cost. If you do, it’s sacrif
         <type>Legendary Creature - Phoenix </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!exportname Gael Spiteflame Phoenix</notes>
+        <notes>Gael Spiteflame Phoenix</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
@@ -6392,8 +6392,8 @@ You may cast enchantment spells as through they had flash.
 U/BR, Sacrifice an enchantment: Return this creature from your graveyard to the battlefield.</text>
     </card>
     <card>
-      <name>Jothi Awakened Flock</name>
-      <set rarity="rare">FOE</set>
+      <name>Jothi, Awakened Flock</name>
+      <set num="303" rarity="rare">FOE</set>
       <prop>
         <colors>WB</colors>
         <manacost>1WB</manacost>
@@ -6404,7 +6404,7 @@ U/BR, Sacrifice an enchantment: Return this creature from your graveyard to the 
         <type>Legendary Planeswalker - Jothi </type>
         <maintype>Planeswalker</maintype>
       <loyalty>2</loyalty>
-        <notes>!exportname Jothi Awakened Flock</notes>
+        <notes>Jothi Awakened Flock</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this planeswalker enters, you may search your library for a Bird card, reveal it, then put it into your hand. Then shuffle.
@@ -6413,7 +6413,7 @@ U/BR, Sacrifice an enchantment: Return this creature from your graveyard to the 
     </card>
     <card>
       <name>Jothi</name>
-      <set rarity="rare">FOE</set>
+      <set num="33" rarity="rare">FOE</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -6434,7 +6434,7 @@ When this planeswalker enters, put a +1/+1 counter on up to one target creature.
     </card>
     <card>
       <name>Tofnet Ranger</name>
-      <set rarity="rare">FOE</set>
+      <set num="219" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6455,7 +6455,7 @@ At the beginning of your end step, you may pay {2} and sacrifice a token. If you
     </card>
     <card>
       <name>Axoladen Adventurer</name>
-      <set rarity="rare">FOE</set>
+      <set num="182" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6475,7 +6475,7 @@ Explorer — Whenever this creature attacks, if you control five or more differe
     </card>
     <card>
       <name>Lasting Discovery</name>
-      <set rarity="rare">FOE</set>
+      <set num="8" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6499,7 +6499,7 @@ Explorer — Whenever this creature attacks, if you control five or more differe
     </card>
     <card>
       <name>Trailing Tethers</name>
-      <set rarity="rare">FOE</set>
+      <set num="94" rarity="rare">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6519,7 +6519,7 @@ Whenever a nontoken enchantment enters under your control, you may pay 1U. If yo
     </card>
     <card>
       <name>Prismatic Drake</name>
-      <set rarity="rare">FOE</set>
+      <set num="81" rarity="rare">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6539,7 +6539,7 @@ When this creature enters or attacks, if you’ve spent five or more different c
     </card>
     <card>
       <name>Ikorian Skyshark</name>
-      <set rarity="rare">FOE</set>
+      <set num="302" rarity="rare">FOE</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -6560,7 +6560,7 @@ Whenever an opponent draws a card except the first one they draw in each of thei
     </card>
     <card>
       <name>Nirvanha Bloom</name>
-      <set rarity="rare">FOE</set>
+      <set num="12" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6580,7 +6580,7 @@ Whenever an opponent draws a card except the first one they draw in each of thei
     </card>
     <card>
       <name>Forgiving Monument</name>
-      <set rarity="mythic">FOE</set>
+      <set num="6" rarity="mythic">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6600,7 +6600,7 @@ At the beginning of your first main phase, add CC. You can’t spend this mana t
     </card>
     <card>
       <name>I Will Walk My Own Path</name>
-      <set rarity="mythic">FOE</set>
+      <set num="245" rarity="mythic">FOE</set>
       <prop>
         <colors>I</colors>
         <manacost>4II // 1I</manacost>
@@ -6615,7 +6615,7 @@ Create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This
     </card>
     <card>
       <name>Pathshaping</name>
-      <set rarity="rare">FOE</set>
+      <set num="264" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -6636,7 +6636,7 @@ Escape—{I}, Exile a card from your sanctum. (You may cast this card from your 
     </card>
     <card>
       <name>Kaln-Ocean Streamliner</name>
-      <set rarity="rare">FOE</set>
+      <set num="250" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -6657,7 +6657,7 @@ Whenever this creature attacks, if you’ve illuminated silver, create a tapped 
     </card>
     <card>
       <name>Soaring Chorus</name>
-      <set rarity="rare">FOE</set>
+      <set num="271" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -6678,7 +6678,7 @@ Whenever you cast an enchantment spell, you may swap this creature’s power and
     </card>
     <card>
       <name>Shrouded Pathcensor</name>
-      <set rarity="rare">FOE</set>
+      <set num="270" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -6699,8 +6699,8 @@ Flying
 If a card would be put from an opponents sanctum into anywhere other than exile, you may exile it instead. If you do, that player may cast it for as long as it remains exiled. Spells cast this way cost {2} more to cast.</text>
     </card>
     <card>
-      <name>Chirps Spice Seeker</name>
-      <set rarity="rare">FOE</set>
+      <name>Chirps, Spice Seeker</name>
+      <set num="234" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -6712,15 +6712,15 @@ If a card would be put from an opponents sanctum into anywhere other than exile,
         <type>Legendary Enchantment Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/5</pt>
-        <notes>!exportname Chirps Spice Seeker</notes>
+        <notes>Chirps Spice Seeker</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, ward {1}
 When Chirps enters and at the beginning of your upkeep, if you don’t control a creature named Aubrey, create Aubrey, a 2/1 legendary red and silver Drake creature token with flying and haste.</text>
     </card>
     <card>
-      <name>Melodia Explorer at Heart</name>
-      <set rarity="rare">FOE</set>
+      <name>Melodia, Drifter at Heart</name>
+      <set num="260" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -6733,7 +6733,7 @@ When Chirps enters and at the beginning of your upkeep, if you don’t control a
         <maintype>Creature</maintype>
         <pt>4/4</pt>
         <notes>!smallbox 
-!exportname Melodia Explorer at Heart</notes>
+Melodia Explorer at Heart</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
@@ -6741,7 +6741,7 @@ Whenever you attack with two or more creatures, you may reveal a permanent card 
     </card>
     <card>
       <name>Outlands Chimera</name>
-      <set rarity="mythic">FOE</set>
+      <set num="262" rarity="mythic">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -6762,8 +6762,8 @@ recreate</notes>
 Whenever this creature enters or attacks, if its not a token, you may mirror.</text>
     </card>
     <card>
-      <name>Lisse Bound by the King</name>
-      <set rarity="rare">FOE</set>
+      <name>Lisse, Bound by the King</name>
+      <set num="119" rarity="rare">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6775,7 +6775,7 @@ Whenever this creature enters or attacks, if its not a token, you may mirror.</t
         <type>Legendary Creature - Zombie Cleric  </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
-        <notes>!exportname Lisse Bound by the King
+        <notes>Lisse Bound by the King
 alira
 FWB
 Multicolor</notes>
@@ -6786,8 +6786,8 @@ This creature can’t attack or block unless you control two or more enchantment
 4I/W, {T}: Each opponent loses 2 life and you gain 2 life.</text>
     </card>
     <card>
-      <name>Lorenz Ascendant King of Alira</name>
-      <set rarity="rare">FOE</set>
+      <name>Lorenz, Ascendant King of Alira</name>
+      <set num="75" rarity="rare">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6803,14 +6803,14 @@ This creature can’t attack or block unless you control two or more enchantment
 Alira
 UWB
 Multicolor
-!exportname Lorenz Ascendant King of Alira</notes>
+Lorenz Ascendant King of Alira</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature enters or attacks, you may search your library for an Equipment card with mana value less than or equal to this creature’s power, put it onto the battlefield, then shuffle. Then you may pay {I/B}. If you do, attach that Equipment to this creature.</text>
     </card>
     <card>
       <name>Soul of Vinimroth</name>
-      <set rarity="rare">FOE</set>
+      <set num="17" rarity="rare">FOE</set>
       <prop>
         <colors>WUBRGI</colors>
         <color>WUBRGI</color>
@@ -6832,7 +6832,7 @@ For each color you’ve illuminated, this creature gets +1/+1.</text>
     </card>
     <card>
       <name>Starling</name>
-      <set rarity="rare">FOE</set>
+      <set num="272" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -6852,8 +6852,8 @@ For each color you’ve illuminated, this creature gets +1/+1.</text>
 {1}: This creature gets +1/-1 or -1/+1 until end of turn.</text>
     </card>
     <card>
-      <name>Cerise Auger of Flow</name>
-      <set rarity="rare">FOE</set>
+      <name>Cerise, Augur of Flow</name>
+      <set num="285" rarity="rare">FOE</set>
       <prop>
         <colors>WUI</colors>
         <color>WUI</color>
@@ -6865,7 +6865,7 @@ For each color you’ve illuminated, this creature gets +1/+1.</text>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
-        <notes>!exportname Cerise Auger of Flow</notes>
+        <notes>Cerise Auger of Flow</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters and whenever you put one or more cards into your sanctum, create a 1/1 blue Drake creature token with flying.
@@ -6873,7 +6873,7 @@ I/WU: Until end of turn, whenever one or more creatures you control deal combat 
     </card>
     <card>
       <name>Realmshaper</name>
-      <set rarity="rare">FOE</set>
+      <set num="337" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6894,7 +6894,7 @@ When this artifact enters, you may exile a land card from your hand or sanctum.
     </card>
     <card>
       <name>Campsite</name>
-      <set rarity="rare">FOE</set>
+      <set num="333" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6913,7 +6913,7 @@ When this artifact enters, you may exile a land card from your hand or sanctum.
     </card>
     <card>
       <name>Starfall Outlook</name>
-      <set rarity="rare">FOE</set>
+      <set num="90" rarity="rare">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6932,7 +6932,7 @@ Frontiercycling {1} ({1}, Discard this card: Search your library for a Frontier 
     </card>
     <card>
       <name>The Calm Belt</name>
-      <set rarity="rare">FOE</set>
+      <set num="3" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6951,7 +6951,7 @@ Activated abilities of sources with the chosen name can’t be activated unless 
     </card>
     <card>
       <name>Wavehorn, Great Winding Wizard</name>
-      <set rarity="rare">FOE</set>
+      <set num="99" rarity="rare">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6971,8 +6971,8 @@ Activated abilities of sources with the chosen name can’t be activated unless 
 {-3}: Until end of turn, whenever a creature you control deals combat damage, draw a card from your library or sanctum.</text>
     </card>
     <card>
-      <name>Heng Hien Reifer of Justice</name>
-      <set rarity="rare">FOE</set>
+      <name>Heng Hien, Reifer of Justice</name>
+      <set num="297" rarity="rare">FOE</set>
       <prop>
         <colors>WU</colors>
         <manacost>1WU</manacost>
@@ -6983,7 +6983,7 @@ Activated abilities of sources with the chosen name can’t be activated unless 
         <type>Legendary Planeswalker - Heng </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
-        <notes>!exportname Heng Hien Reifer of Justice</notes>
+        <notes>Heng Hien Reifer of Justice</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a spell or ability puts a card into an opponents hand, you may remove a loyalty counter from this planeswalker and draw a card. If you don’t, you gain 2 life.
@@ -6992,7 +6992,7 @@ Activated abilities of sources with the chosen name can’t be activated unless 
     </card>
     <card>
       <name>Kera, Mordel&apos;s New Hope</name>
-      <set rarity="rare">FOE</set>
+      <set num="159" rarity="rare">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -7015,7 +7015,7 @@ At the end of your first postcombat main phase, if this creature entered the bat
     </card>
     <card>
       <name>Mordel Civil War</name>
-      <set rarity="rare">FOE</set>
+      <set num="161" rarity="rare">FOE</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -7037,7 +7037,7 @@ When this battle enters, it deals 4 damage to any other nonplayer target.</text>
     </card>
     <card>
       <name>Resurrection Pools</name>
-      <set rarity="rare">FOE</set>
+      <set num="50" rarity="rare">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -7056,7 +7056,7 @@ When this battle enters, it deals 4 damage to any other nonplayer target.</text>
     </card>
     <card>
       <name>Themia, Steward of Sanctity</name>
-      <set rarity="mythic" splitterPath="/Themia, Steward of Sanctity.jpg" >FOE</set>
+      <set num="55" rarity="mythic" splitterPath="/Themia, Steward of Sanctity.jpg" >FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -7079,7 +7079,7 @@ When this creature enters or transforms, exile up to one other target nonland pe
     </card>
     <card>
       <name>Asahr Sahel</name>
-      <set rarity="mythic" splitterPath="/Asahr Sahel.jpg" >FOE</set>
+      <set num="55" rarity="mythic" splitterPath="/Asahr Sahel.jpg" >FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -7104,7 +7104,7 @@ Verdant
     </card>
     <card>
       <name>Zesha, Dream Hedonist</name>
-      <set rarity="mythic" splitterPath="/Zesha, Dream Hedonist.jpg" >FOE</set>
+      <set num="100" rarity="mythic" splitterPath="/Zesha, Dream Hedonist.jpg" >FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -7127,7 +7127,7 @@ You may play land cards from among face up cards you don’t own in exile.
     </card>
     <card>
       <name>Lucillica Dreamscape</name>
-      <set rarity="mythic" splitterPath="/Lucillica Dreamscape.jpg" >FOE</set>
+      <set num="100" rarity="mythic" splitterPath="/Lucillica Dreamscape.jpg" >FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -7151,8 +7151,8 @@ Verdant
       <related attach="transform">Zesha, Dream Hedonist</related>
     </card>
     <card>
-      <name>Lisse Hope Through Sin</name>
-      <set rarity="mythic" splitterPath="/Lisse Hope Through Sin.jpg" >FOE</set>
+      <name>Lisse, Hope Through Sin</name>
+      <set num="120" rarity="mythic" splitterPath="/Lisse, Hope Through Sin.jpg" >FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -7174,7 +7174,7 @@ Whenever this creature attacks, this creature deals 1 damage to any target.
     </card>
     <card>
       <name>Alira Glade</name>
-      <set rarity="mythic" splitterPath="/Alira Glade.jpg" >FOE</set>
+      <set num="120" rarity="mythic" splitterPath="/Alira Glade.jpg" >FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -7186,7 +7186,7 @@ Whenever this creature attacks, this creature deals 1 damage to any target.
         <type>Land</type>
         <notes>!related Alira Glade&lt;attach>;
 Verdant
-!exportname Lisse Hope Through Sin
+Lisse Hope Through Sin
 !backname Alira Glade
 !addtoken Alira Glade;transform;</notes>
       </prop>
@@ -7195,12 +7195,12 @@ Verdant
 {T}: Add {B}.
 3BB: Transform this land until end of turn.
 ---
-(Front): Lisse Hope Through Sin</text>
+(Front): Lisse, Hope Through Sin</text>
       <related attach="transform">Lisse, Hope Through Sin</related>
     </card>
     <card>
       <name>Argent, Flash of Mirdrim</name>
-      <set rarity="mythic" splitterPath="/Argent, Flash of Mirdrim.jpg" >FOE</set>
+      <set num="227" rarity="mythic" splitterPath="/Argent, Flash of Mirdrim.jpg" >FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -7224,7 +7224,7 @@ When this creature deals combat damage, choose up to one—
     </card>
     <card>
       <name>Midrim Cleave</name>
-      <set rarity="mythic" splitterPath="/Midrim Cleave.jpg" >FOE</set>
+      <set num="227" rarity="mythic" splitterPath="/Midrim Cleave.jpg" >FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -7249,7 +7249,7 @@ Verdant
     </card>
     <card>
       <name>Maal and Sevol, Twin Sentries</name>
-      <set rarity="mythic" splitterPath="/Maal and Sevol, Twin Sentries.jpg" >FOE</set>
+      <set num="9" rarity="mythic" splitterPath="/Maal and Sevol, Twin Sentries.jpg" >FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7271,7 +7271,7 @@ Whenever Maal and Sevol attacks, create a 3/4 colorless Dragon creature token wi
     </card>
     <card>
       <name>Astrus Quandry</name>
-      <set rarity="mythic" splitterPath="/Astrus Quandry.jpg" >FOE</set>
+      <set num="9" rarity="mythic" splitterPath="/Astrus Quandry.jpg" >FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7296,7 +7296,7 @@ Verdant
     </card>
     <card>
       <name>Scout, Maw of the Moon</name>
-      <set rarity="mythic" splitterPath="/Scout, Maw of the Moon.jpg" >FOE</set>
+      <set num="170" rarity="mythic" splitterPath="/Scout, Maw of the Moon.jpg" >FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -7318,7 +7318,7 @@ Whenever this creature attacks, other creatures you control get +1/+0 until end 
     </card>
     <card>
       <name>Mangriel Precipice</name>
-      <set rarity="mythic" splitterPath="/Mangriel Precipice.jpg" >FOE</set>
+      <set num="170" rarity="mythic" splitterPath="/Mangriel Precipice.jpg" >FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -7343,7 +7343,7 @@ Verdant
     </card>
     <card>
       <name>Prophellos, Hungering Manipulator</name>
-      <set rarity="mythic">FOE</set>
+      <set num="15" rarity="mythic">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7363,7 +7363,7 @@ Sacrifice two nonland colorless permanents: This creature gains hexproof until e
     </card>
     <card>
       <name>Reichen, Verdant Guard</name>
-      <set rarity="mythic" splitterPath="/Reichen, Verdant Guard.jpg" >FOE</set>
+      <set num="211" rarity="mythic" splitterPath="/Reichen, Verdant Guard.jpg" >FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -7385,7 +7385,7 @@ This creature can’t be blocked by creatures with power 2 or less.
     </card>
     <card>
       <name>Foruden Shrine</name>
-      <set rarity="mythic" splitterPath="/Foruden Shrine.jpg" >FOE</set>
+      <set num="211" rarity="mythic" splitterPath="/Foruden Shrine.jpg" >FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -7410,7 +7410,7 @@ Verdant
     </card>
     <card>
       <name>The Shattering of Meirel</name>
-      <set rarity="mythic">FOE</set>
+      <set num="16" rarity="mythic">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7428,7 +7428,7 @@ Verdant
     </card>
     <card>
       <name>Sanctum Trader</name>
-      <set rarity="rare">FOE</set>
+      <set num="169" rarity="rare">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -7449,7 +7449,7 @@ Whenever this creature attacks, you may discard a card. If you do, reveal random
     </card>
     <card>
       <name>Mass Mutation</name>
-      <set rarity="rare">FOE</set>
+      <set num="256" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -7467,7 +7467,7 @@ Whenever this creature attacks, you may discard a card. If you do, reveal random
     </card>
     <card>
       <name>Ancient Interference</name>
-      <set rarity="rare">FOE</set>
+      <set num="226" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -7486,7 +7486,7 @@ Draft a card from your sanctum. (Look at three random cards from your sanctum. P
     </card>
     <card>
       <name>Probe the Veil</name>
-      <set rarity="rare">FOE</set>
+      <set num="268" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -7504,7 +7504,7 @@ Draft a card from your sanctum. (Look at three random cards from your sanctum. P
     </card>
     <card>
       <name>Lithify</name>
-      <set rarity="rare">FOE</set>
+      <set num="254" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -7523,7 +7523,7 @@ Enchanted permanent loses all abilities and is a colorless enchantment.</text>
     </card>
     <card>
       <name>Cascading Reflections</name>
-      <set rarity="rare">FOE</set>
+      <set num="233" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -7541,7 +7541,7 @@ Enchanted permanent loses all abilities and is a colorless enchantment.</text>
     </card>
     <card>
       <name>Shifting Spire</name>
-      <set rarity="mythic">FOE</set>
+      <set num="354" rarity="mythic">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7560,7 +7560,7 @@ Enchanted permanent loses all abilities and is a colorless enchantment.</text>
     </card>
     <card>
       <name>Kindred Spirits</name>
-      <set rarity="rare">FOE</set>
+      <set num="251" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -7579,7 +7579,7 @@ Creature tokens you control get +1/+0.</text>
     </card>
     <card>
       <name>Liminal Ambiguity</name>
-      <set rarity="rare">FOE</set>
+      <set num="253" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -7598,7 +7598,7 @@ Target creature gets -0/-X until end of turn.</text>
     </card>
     <card>
       <name>Experience Cultivator</name>
-      <set rarity="common">FOE</set>
+      <set num="291" rarity="common">FOE</set>
       <prop>
         <colors>GI</colors>
         <color>GI</color>
@@ -7618,7 +7618,7 @@ Target creature gets -0/-X until end of turn.</text>
     </card>
     <card>
       <name>Podinaetremata</name>
-      <set rarity="rare">FOE</set>
+      <set num="209" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -7639,7 +7639,7 @@ Whenever this creature attacks, create a Treasure token.</text>
     </card>
     <card>
       <name>A Flock is Born</name>
-      <set rarity="rare">FOE</set>
+      <set num="5" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <manacost>5 // 2</manacost>
@@ -7654,7 +7654,7 @@ Search your library for a basic land card, reveal it, put it into your hand. The
     </card>
     <card>
       <name>Branching Paths</name>
-      <set rarity="rare">FOE</set>
+      <set num="61" rarity="rare">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -7672,7 +7672,7 @@ Search your library for a basic land card, reveal it, put it into your hand. The
     </card>
     <card>
       <name>Meso Meso</name>
-      <set rarity="rare">FOE</set>
+      <set num="42" rarity="rare">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -7692,7 +7692,7 @@ Whenever this creature attacks, sift 1. (Look at the top card of your library. Y
     </card>
     <card>
       <name>Defector of Mordel</name>
-      <set rarity="rare">FOE</set>
+      <set num="188" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <manacost>1G // G</manacost>
@@ -7708,8 +7708,8 @@ When this creature enters, until end of turn, you may cast a copy of a Focus fro
 Counter target activated or triggered ability from an artifact or enchantment source. (Then put this into your sanctum.)</text>
     </card>
     <card>
-      <name>Jothi-01</name>
-      <set rarity="common">FOE</set>
+      <name>Jothi Token</name>
+      <set num="34" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -7722,7 +7722,7 @@ Counter target activated or triggered ability from an artifact or enchantment so
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Jothi;
-!exportname Jothi-01</notes>
+Jothi-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -7732,7 +7732,7 @@ When Jothi enters, put a +1/+1 counter on up to one target creature.
     </card>
     <card>
       <name>Exhuberant Genesis</name>
-      <set rarity="rare">FOE</set>
+      <set num="193" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -7751,7 +7751,7 @@ Explorer — If you control five or more differently named lands, you may instea
     </card>
     <card>
       <name>Meirel Drifter (Luminous)</name>
-      <set rarity="common">FOE</set>
+      <set num="258" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -7770,7 +7770,7 @@ Explorer — If you control five or more differently named lands, you may instea
     </card>
     <card>
       <name>Emergent Parasitism</name>
-      <set rarity="rare">FOE</set>
+      <set num="191" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -7790,7 +7790,7 @@ As long as you control a white, blue, black, red, or silver permanent, this crea
     </card>
     <card>
       <name>Mordel Peacekeeper</name>
-      <set rarity="rare">FOE</set>
+      <set num="202" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <manacost>3GG // 1G</manacost>
@@ -7806,7 +7806,7 @@ Prevent all combat damage that would be dealt to players this turn. (Then put th
     </card>
     <card>
       <name>Idol of Reconstruction</name>
-      <set rarity="rare">FOE</set>
+      <set num="298" rarity="rare">FOE</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -7825,7 +7825,7 @@ GW, {T}: Until end of turn, you may cast a creature spell from among cards exile
     </card>
     <card>
       <name>Called to Eternity</name>
-      <set rarity="rare">FOE</set>
+      <set num="231" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -7846,7 +7846,7 @@ At the beginning of your end step, each opponent loses 3 life minus the number o
     </card>
     <card>
       <name>Shifting Dream</name>
-      <set rarity="rare">FOE</set>
+      <set num="87" rarity="rare">FOE</set>
       <prop>
         <colors>U</colors>
         <manacost>U // 1U</manacost>
@@ -7863,7 +7863,7 @@ Mill four cards, then return up to one nonpermanent card from among the milled c
     </card>
     <card>
       <name>Abandoned Sanctum</name>
-      <set rarity="uncommon">FOE</set>
+      <set num="339" rarity="uncommon">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7882,7 +7882,7 @@ Mill four cards, then return up to one nonpermanent card from among the milled c
     </card>
     <card>
       <name>Parallellism</name>
-      <set rarity="rare">FOE</set>
+      <set num="263" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -7901,7 +7901,7 @@ Untapped creatures can’t block.</text>
     </card>
     <card>
       <name>Avlod Charm</name>
-      <set rarity="rare">FOE</set>
+      <set num="280" rarity="rare">FOE</set>
       <prop>
         <colors>UBI</colors>
         <color>UBI</color>
@@ -7924,7 +7924,7 @@ https://www.artstation.com/artwork/GvzBEa</notes>
     </card>
     <card>
       <name>Gluttony</name>
-      <set rarity="rare">FOE</set>
+      <set num="243" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7945,7 +7945,7 @@ If a player would gain life, put a +1/+1 counter on this creature instead.</text
     </card>
     <card>
       <name>Personal Sins</name>
-      <set rarity="rare">FOE</set>
+      <set num="321" rarity="rare">FOE</set>
       <prop>
         <colors>UGI</colors>
         <color>UGI</color>
@@ -7964,7 +7964,7 @@ Whenever you cast a spell, you may cast a face-up card from your sanctum that ha
     </card>
     <card>
       <name>Bone Salesman</name>
-      <set rarity="rare">FOE</set>
+      <set num="282" rarity="rare">FOE</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -7985,7 +7985,7 @@ Whenever you cast a spell, you may cast a face-up card from your sanctum that ha
     </card>
     <card>
       <name>Mordel Charm</name>
-      <set rarity="rare">FOE</set>
+      <set num="312" rarity="rare">FOE</set>
       <prop>
         <colors>RGI</colors>
         <color>RGI</color>
@@ -8007,7 +8007,7 @@ Whenever you cast a spell, you may cast a face-up card from your sanctum that ha
     </card>
     <card>
       <name>Fadove Charm</name>
-      <set rarity="rare">FOE</set>
+      <set num="292" rarity="rare">FOE</set>
       <prop>
         <colors>WUI</colors>
         <color>WUI</color>
@@ -8029,7 +8029,7 @@ Whenever you cast a spell, you may cast a face-up card from your sanctum that ha
     </card>
     <card>
       <name>Longneck Marketwatch</name>
-      <set rarity="rare">FOE</set>
+      <set num="307" rarity="rare">FOE</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -8050,7 +8050,7 @@ Non-Advisor creatures with mana value 5 or greater can’t attack.</text>
     </card>
     <card>
       <name>Fossil Laundering</name>
-      <set rarity="rare">FOE</set>
+      <set num="113" rarity="rare">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -8071,7 +8071,7 @@ If you do, for each mana value chosen this way, return target creature card from
     </card>
     <card>
       <name>Continuity Gap</name>
-      <set rarity="rare">FOE</set>
+      <set num="65" rarity="rare">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -8090,7 +8090,7 @@ Put this card into your sanctum.</text>
     </card>
     <card>
       <name>Market Negotiator</name>
-      <set rarity="rare">FOE</set>
+      <set num="308" rarity="rare">FOE</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -8113,7 +8113,7 @@ Put this card into your sanctum.</text>
     </card>
     <card>
       <name>Burgeoning Town</name>
-      <set rarity="rare">FOE</set>
+      <set num="346" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8134,7 +8134,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Burgeoning Mindscape</name>
-      <set rarity="rare">FOE</set>
+      <set num="341" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8155,7 +8155,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Burgeoning Pith</name>
-      <set rarity="rare">FOE</set>
+      <set num="344" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8176,7 +8176,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Burgeoning Rockfall</name>
-      <set rarity="rare">FOE</set>
+      <set num="345" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8197,7 +8197,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Burgeoning Jungle</name>
-      <set rarity="rare">FOE</set>
+      <set num="340" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8218,7 +8218,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Burgeoning Peaks</name>
-      <set rarity="rare">FOE</set>
+      <set num="343" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8239,7 +8239,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Burgeoning Path</name>
-      <set rarity="rare">FOE</set>
+      <set num="342" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8260,7 +8260,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Drifting Crevasse</name>
-      <set rarity="common">FOE</set>
+      <set num="347" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8282,7 +8282,7 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
     </card>
     <card>
       <name>Drifting Field</name>
-      <set rarity="common">FOE</set>
+      <set num="348" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8304,7 +8304,7 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
     </card>
     <card>
       <name>Drifting Isle</name>
-      <set rarity="common">FOE</set>
+      <set num="349" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8326,7 +8326,7 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
     </card>
     <card>
       <name>Drifting Jungle</name>
-      <set rarity="common">FOE</set>
+      <set num="350" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8348,7 +8348,7 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
     </card>
     <card>
       <name>Drifting Mire</name>
-      <set rarity="common">FOE</set>
+      <set num="351" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8370,7 +8370,7 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
     </card>
     <card>
       <name>Drifting Peak</name>
-      <set rarity="common">FOE</set>
+      <set num="352" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8392,7 +8392,7 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
     </card>
     <card>
       <name>Drifting Sands</name>
-      <set rarity="common">FOE</set>
+      <set num="353" rarity="common">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8414,7 +8414,7 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
     </card>
     <card>
       <name>Outlands Charm</name>
-      <set rarity="rare">FOE</set>
+      <set num="13" rarity="rare">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8436,7 +8436,7 @@ Choose one—
     </card>
     <card>
       <name>Deino Charm</name>
-      <set rarity="rare">FOE</set>
+      <set num="288" rarity="rare">FOE</set>
       <prop>
         <colors>WGI</colors>
         <color>WGI</color>
@@ -8457,7 +8457,7 @@ Choose one—
     </card>
     <card>
       <name>Ignelscor Charm</name>
-      <set rarity="rare">FOE</set>
+      <set num="299" rarity="rare">FOE</set>
       <prop>
         <colors>BRI</colors>
         <color>BRI</color>
@@ -8479,7 +8479,7 @@ Choose one—
     </card>
     <card>
       <name>Magic of Ignelscor</name>
-      <set rarity="rare">FOE</set>
+      <set num="122" rarity="rare">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -8499,7 +8499,7 @@ Choose one—
     </card>
     <card>
       <name>Call of Ancestry</name>
-      <set rarity="rare" splitterPath="/Call of Ancestry.jpg" >FOE</set>
+      <set num="2" rarity="rare" splitterPath="/Call of Ancestry.jpg" >FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8521,7 +8521,7 @@ Whenever your sanctum has four or more face up kindred cards and/or creature car
     </card>
     <card>
       <name>Shalewing, Age of Dragons</name>
-      <set rarity="rare" splitterPath="/Shalewing, Age of Dragons.jpg" >FOE</set>
+      <set num="2" rarity="rare" splitterPath="/Shalewing, Age of Dragons.jpg" >FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8544,7 +8544,7 @@ Whenever this creature attacks, you may cast a face up card in your sanctum with
     </card>
     <card>
       <name>Shivta, Vinimroth&apos;s Blade</name>
-      <set rarity="rare">FOE</set>
+      <set num="325" rarity="rare">FOE</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -8564,7 +8564,7 @@ Whenever this creature attacks, you may cast a face up card in your sanctum with
     </card>
     <card>
       <name>Flying Counter</name>
-      <set rarity="">FOE</set>
+      <set num="295" rarity="">FOE</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -8576,7 +8576,7 @@ Whenever this creature attacks, you may cast a face up card in your sanctum with
         <type></type>
         <maintype></maintype>
         <notes>!related Dominator of Drakes;Lasting Discovery;Calamitous Koi;
-!exportname Flying Counter
+Flying Counter
 !framed!readable</notes>
       </prop>
       <tablerow>1</tablerow>
@@ -8584,7 +8584,7 @@ Whenever this creature attacks, you may cast a face up card in your sanctum with
     </card>
     <card>
       <name>Tangled Heart</name>
-      <set rarity="rare">FOE</set>
+      <set num="137" rarity="rare">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -8603,7 +8603,7 @@ Whenever a creature you control with mana value 4 or greater dies, this artifact
     </card>
     <card>
       <name>Numa, On Hope&apos;s Trail</name>
-      <set rarity="rare">FOE</set>
+      <set num="316" rarity="rare">FOE</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -8623,7 +8623,7 @@ At the beginning of your end step, if a creature you control died this turn, thi
     </card>
     <card>
       <name>Carrigol Tender</name>
-      <set rarity="rare">FOE</set>
+      <set num="107" rarity="rare">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -8643,7 +8643,7 @@ Once each turn, whenever you gain life, put a +1/+1 counter on target creature y
     </card>
     <card>
       <name>Heron Drake</name>
-      <set rarity="rare">FOE</set>
+      <set num="30" rarity="rare">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -8663,7 +8663,7 @@ Other creatures you control enter with your choice of three healing counters, a 
     </card>
     <card>
       <name>Reid, Unrelenting Dias</name>
-      <set rarity="rare">FOE</set>
+      <set num="212" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -8685,7 +8685,7 @@ This creature and creatures you control can’t be blocked by more than one crea
     </card>
     <card>
       <name>Murkross&apos;s Hold</name>
-      <set rarity="rare">FOE</set>
+      <set num="204" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -8706,7 +8706,7 @@ Instant and sorcery spells you cast that target enchanted permanent cost {3} les
     </card>
     <card>
       <name>Late-Leaf Elk</name>
-      <set rarity="rare">FOE</set>
+      <set num="199" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -8726,7 +8726,7 @@ Whenever an enchantment you control enters, draw a card.</text>
     </card>
     <card>
       <name>Deeplost Traveller</name>
-      <set rarity="rare">FOE</set>
+      <set num="187" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -8746,7 +8746,7 @@ Whenever you remove one or more counters from a permanent you control, you surve
     </card>
     <card>
       <name>Awakened Titan</name>
-      <set rarity="rare">FOE</set>
+      <set num="181" rarity="rare">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -8765,7 +8765,7 @@ Whenever you remove one or more counters from a permanent you control, you surve
     </card>
     <card>
       <name>Marblewrought Titan</name>
-      <set rarity="rare">FOE</set>
+      <set num="37" rarity="rare">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -8785,7 +8785,7 @@ Once each turn, whenever an artifact you control dies, create Jura, a legendary 
     </card>
     <card>
       <name>Coven of the Black Sun</name>
-      <set rarity="rare">FOE</set>
+      <set num="23" rarity="rare">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -8804,7 +8804,7 @@ Once each turn, whenever an artifact you control dies, create Jura, a legendary 
     </card>
     <card>
       <name>Poison Pincher</name>
-      <set rarity="rare">FOE</set>
+      <set num="130" rarity="rare">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -8824,7 +8824,7 @@ Whenever this creature or another creature you control with deathtouch or menace
     </card>
     <card>
       <name>Radioactive Rumna</name>
-      <set rarity="rare">FOE</set>
+      <set num="168" rarity="rare">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -8844,7 +8844,7 @@ Whenever this creature attacks for the first time each turn or becomes the targe
     </card>
     <card>
       <name>Oracle of Multaph</name>
-      <set rarity="rare">FOE</set>
+      <set num="318" rarity="rare">FOE</set>
       <prop>
         <colors>UBI</colors>
         <manacost>IUB</manacost>
@@ -8864,7 +8864,7 @@ Whenever this creature attacks for the first time each turn or becomes the targe
     </card>
     <card>
       <name>Faloden Barrier Scout</name>
-      <set rarity="rare">FOE</set>
+      <set num="27" rarity="rare">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -8884,7 +8884,7 @@ Players can’t create tokens or cards. (This includes conjuring cards and creat
     </card>
     <card>
       <name>Kaln-Ocean Seahorse</name>
-      <set rarity="rare">FOE</set>
+      <set num="74" rarity="rare">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -8904,7 +8904,7 @@ Whenever you cast or copy a noncreature spell, create a 1/1 white Shark enchantm
     </card>
     <card>
       <name>Coralwisp Entity</name>
-      <set rarity="rare">FOE</set>
+      <set num="66" rarity="rare">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -8924,7 +8924,7 @@ Materialize 2</text>
     </card>
     <card>
       <name>Warpath Wurm</name>
-      <set rarity="rare">FOE</set>
+      <set num="178" rarity="rare">FOE</set>
       <prop>
         <colors>R</colors>
         <manacost>2RR // R</manacost>
@@ -8941,7 +8941,7 @@ This spell deals 1 damage to any target. Scry 1. (Then put this into your sanctu
     </card>
     <card>
       <name>Miori, Outlands Future</name>
-      <set rarity="rare">FOE</set>
+      <set num="311" rarity="rare">FOE</set>
       <prop>
         <colors>UR</colors>
         <manacost>4UR</manacost>
@@ -8962,7 +8962,7 @@ This spell deals 1 damage to any target. Scry 1. (Then put this into your sanctu
     </card>
     <card>
       <name>Terramorphic Singularity</name>
-      <set rarity="rare">FOE</set>
+      <set num="176" rarity="rare">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -8982,7 +8982,7 @@ Players may play lands from their graveyard or sanctum.</text>
     </card>
     <card>
       <name>Form of the Paths</name>
-      <set rarity="rare">FOE</set>
+      <set num="155" rarity="rare">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -9003,7 +9003,7 @@ At the beginning of your upkeep, your life total becomes equal to the number of 
     </card>
     <card>
       <name>Stinging Surveyor</name>
-      <set rarity="rare">FOE</set>
+      <set num="175" rarity="rare">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -9023,7 +9023,7 @@ Whenever you deal noncombat damage to a creature you control, it gets +2/+0 unti
     </card>
     <card>
       <name>Kalim, Shivta&apos;s Ear</name>
-      <set rarity="rare">FOE</set>
+      <set num="249" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>

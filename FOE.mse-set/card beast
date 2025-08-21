@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes:
 		!related Lasting Discovery;Outlands Caretaker;Brightblossom Enclave;
-		!exportname Beast-01
+		Beast-01
 	time_created: 2023-08-31 18:51:52
 	time_modified: 2024-03-27 02:08:51
 	card_color: green

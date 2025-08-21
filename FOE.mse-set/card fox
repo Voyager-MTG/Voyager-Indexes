@@ -9,7 +9,7 @@ card:
 		overlay: 
 	notes:
 		!related Meirel Caretaker;Staggering Spires;Meirel Pathwalker;Clerics Claymore;
-		!exportname Fox-01
+		Fox-01
 	time_created: 2022-09-01 18:21:44
 	time_modified: 2024-02-13 18:34:53
 	card_color: white

@@ -10,7 +10,7 @@ card:
 	notes:
 		 !related Warped Exploration;
 		!conjured
-		!exportname Vin-Swamp
+		Vin-Swamp
 	time_created: 2021-11-12 23:55:31
 	time_modified: 2022-03-10 15:59:13
 	name: Swamp

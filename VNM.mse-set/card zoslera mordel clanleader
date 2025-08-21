@@ -16,7 +16,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
-		!exportname Zoslera Mordel Clanleader
+		Zoslera Mordel Clanleader
 		!tag fascism;
 	time_created: 2022-05-10 22:53:34
 	time_modified: 2025-07-12 16:16:31

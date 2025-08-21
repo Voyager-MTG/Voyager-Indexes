@@ -9,7 +9,7 @@ card:
 		overlay: 
 	notes:
 		!related Hedgecrow;Scaled Rippler;Scaled Ripper // Lunging Mitosis;Lizturbance;
-		!exportname Lizard-01
+		Lizard-01
 	time_created: 2022-09-01 18:21:44
 	time_modified: 2024-06-21 02:17:41
 	card_color: black

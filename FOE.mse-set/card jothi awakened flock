@@ -8,7 +8,7 @@ card:
 		other_options: use taller frame, un-indent nonloyalty abilities
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !exportname Jothi Awakened Flock
+	notes: Jothi Awakened Flock
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2024-03-27 02:30:53
 	extra_data:

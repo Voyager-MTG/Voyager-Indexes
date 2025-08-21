@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes:
 		!related Enlightening Crescents;
-		!exportname Crab-01
+		Crab-01
 	time_created: 2024-01-01 23:14:02
 	time_modified: 2024-06-21 00:51:07
 	card_color: silver

@@ -9,7 +9,7 @@ card:
 		overlay: 
 	notes:
 		!related CG02 Gold-Streaked Obelisks;
-		!exportname Fish-01
+		Fish-01
 	time_created: 2022-10-29 13:22:10
 	time_modified: 2024-02-13 18:32:28
 	card_color: green

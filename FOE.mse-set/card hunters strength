@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !exportname Hunters Strength
+	notes: Hunters Strength
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2023-12-28 16:42:51
 	name: Hunter’s Strength
