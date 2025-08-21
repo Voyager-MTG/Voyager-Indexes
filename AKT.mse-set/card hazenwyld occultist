@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -40,10 +40,10 @@ card:
 	sub_type_2: <word-list-race-en>Dragon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Werewolf</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<kw-1><nospellcheck><key>Bisapience</key></nospellcheck>—Exile an instant or sorcery card from your graveyard.<atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-1>
+		<kw-1><nospellcheck><key>Bisapience—<param-cost>Exile an instant or sorcery card from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-1>
 		<sym-auto>2R</sym-auto>, Discard a card: Draw a card.
 	rule_text_2:
-		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0> — Exile an instant or sorcery card from your graveyard.
+		<kw-0><nospellcheck><key>Bisapience <param-cost><atom-kwpph>cost</atom-kwpph></param-cost></key></nospellcheck></kw-0>— Exile an instant or sorcery card from your graveyard.
 		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor>“I told my sire to get stronger.”</i-flavor>
 	flavor_text_2:

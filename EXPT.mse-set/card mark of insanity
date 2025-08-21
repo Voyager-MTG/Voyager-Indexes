@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes:
@@ -17,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		Target creature gets +3/-3 until end of turn.
-		You may return a Fault you control to its owners hand rather than pay this spell’s mana cost as long as your complexity is three or greater. <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto>
+		You may return a Fault you control to its owners hand rather than pay this spell’s mana cost as long as your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater. <i-auto>(Your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto><blob></kw-A><moved><atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: bluebitart
 	card_code_text: •  Designed by Trewq

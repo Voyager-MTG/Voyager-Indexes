@@ -21,11 +21,8 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	magic-m15-altered-plus:
-		frames: 
-		altered_plus_frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	magic-m15-clear-color:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -411,12 +408,6 @@ keyword:
 	match: Withdraw <atom-param>cost</atom-param>
 	reminder: If you cast this for its withdraw cost, it’s tribal instead of a creature.
 	rules: 
-	mode: custom
-keyword:
-	keyword: Umweltenshift
-	match: Bisapience
-	reminder: Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.
-	rules: saWhile on the battlefield or the hand, you can cast this card as this face.
 	mode: custom
 version_control:
 	type: none

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -16,7 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		<atom-cardname><nospellcheck>Heat of Potential</nospellcheck></atom-cardname> deals 2 damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.
-		<i>Augmented</i> — <atom-cardname><nospellcheck>Heat of Potential</nospellcheck></atom-cardname> deals 5 damage to that target instead if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — <atom-cardname><nospellcheck>Heat of Potential</nospellcheck></atom-cardname> deals 5 damage to that target instead if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
 	flavor_text:
 		<i-flavor>“Fire has only one wish, and it’s been granted.”<soft-line>
 		—<error-spelling:en_US>Ovueli</error-spelling:en_US>, New <error-spelling:en_US>Tensuo</error-spelling:en_US> mage</soft-line></i-flavor>

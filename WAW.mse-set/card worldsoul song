@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,11 +6,8 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
-		frames: nyx
-		altered_plus_frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: 
 	time_created: 2025-01-24 15:15:22
 	time_modified: 2025-01-28 17:32:55

@@ -1,13 +1,11 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 10
-		frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: https://www.artstation.com/artwork/042WzV
 	time_created: 2024-10-17 17:43:45
 	time_modified: 2025-03-05 19:37:43

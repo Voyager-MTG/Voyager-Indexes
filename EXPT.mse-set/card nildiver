@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,11 +6,8 @@ card:
 	styling_data:
 		chop_top: 
 		chop_bottom: 6
-		frames: 
-		altered_plus_frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		!designer Trewq
 		https://www.deviantart.com/mantara1/art/Manta-973822942
@@ -27,8 +24,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		As long as your complexity is three or greater, <atom-cardname><nospellcheck>Nildiver</nospellcheck></atom-cardname> is also a creature. <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto>
-		<kw-A><nospellcheck><key>Materialize <param-number>4</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>4</param-number> or more: This also becomes an Icon creature until your next upkeep.)</i-auto></atom-reminder-custom></kw-A>
+		As long as your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, <atom-cardname><nospellcheck>Nildiver</nospellcheck></atom-cardname> is also a creature. <i-auto>(Your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto><blob></kw-A><moved><atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+		<kw-A><nospellcheck><key>Materialize <param-number>4</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>4</param-number> or more: This also becomes an Icon creature until end of turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

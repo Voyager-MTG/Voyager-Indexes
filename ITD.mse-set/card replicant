@@ -1,8 +1,13 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
-	has_styling: false
+	has_styling: true
+	styling_data:
+		combined_chop: -4
+		other_options: clear frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes:
 		https://www.deviantart.com/morkardfc/art/Furnace-Soldier-Steampunk-Warrior-509211628
 		

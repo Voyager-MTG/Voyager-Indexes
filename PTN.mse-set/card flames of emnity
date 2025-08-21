@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -32,7 +32,7 @@ card:
 	rule_text:
 		At the beginning of your end step, if you attacked, choose one—
 		<li><bullet>• </bullet>If a creature you control died this turn, create a 2/2 green Wolf creature token.
-		</li><li><bullet>• </bullet>You get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A></li>
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>You get a <kw-A>Scar</key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A></li>
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

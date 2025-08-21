@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,14 +6,12 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
-		frames: clear
-		altered_plus_frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: !tokens Beast Token;
 	time_created: 2025-01-28 15:14:44
-	time_modified: 2025-01-28 15:35:52
+	time_modified: 2025-08-18 18:35:43
+	card_trim: clear
 	name: Anything and Everything
 	casting_cost: 3
 	image: image118

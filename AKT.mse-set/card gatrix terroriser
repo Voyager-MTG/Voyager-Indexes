@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -33,10 +33,10 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>Bisapience</key></nospellcheck> <sym>1U</sym><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Bisapience <param-cost><sym>1U</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
 		<atom-cardname><nospellcheck>Gatrix Terroriser</nospellcheck></atom-cardname> can’t be blocked.
 	rule_text_2:
-		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0> <sym>U</sym>
+		<kw-0><nospellcheck><key>Bisapience <param-cost><sym>U</sym></param-cost></key></nospellcheck></kw-0>
 		<kw-0><nospellcheck><key>Prowess</key></nospellcheck></kw-0>
 		Whenever this enters or transforms into <atom-cardname><nospellcheck>Cunning Mastermind</nospellcheck></atom-cardname>, draw a card, then discard a card.
 	rule_text_3: 

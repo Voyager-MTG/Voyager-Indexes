@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		Counter target spell unless its controller pays <sym-auto>1</sym-auto>. 
-		<i>Deep Dwelling </i>— If your library contains a number of cards less than or equal to half your starting deck size, counter that spell instead.
+		<i><kw-A><i-auto><nospellcheck><key>Deep Dwelling</key></nospellcheck></i-auto></kw-A> </i>— If your library contains a number of cards less than or equal to half your starting deck size, counter that spell instead.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Miyuli
 	card_code_text: 

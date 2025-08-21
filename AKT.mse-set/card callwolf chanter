@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -41,10 +41,10 @@ card:
 	sub_type_2: <word-list-race-en>Werewolf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Avatar</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Bisapience</key></nospellcheck> <sym>R/G</sym><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Bisapience <param-cost><sym>R/G</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever <atom-cardname><nospellcheck>Callwolf Chanter</nospellcheck></atom-cardname> attacks, exile the top card of your library. You may play it this turn.
 	rule_text_2:
-		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0> <sym>R/G</sym>
+		<kw-0><nospellcheck><key>Bisapience <param-cost><sym>R/G</sym></param-cost></key></nospellcheck></kw-0>
 		<atom-cardname><nospellcheck>Skarrgsong</nospellcheck></atom-cardname> can’t be blocked by creatures with power 2 or less.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2:

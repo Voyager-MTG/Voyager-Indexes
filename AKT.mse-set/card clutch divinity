@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7,7 +7,7 @@ card:
 		chop_top: 2
 		chop_bottom: 8
 		frames: lesson, frameless art
-		custom_symbol: MyrCustoms/Ith.png
+		custom_symbol: MyrCustoms/Ith.png,File found,706,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 

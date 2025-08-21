@@ -1,8 +1,13 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
-	has_styling: false
+	has_styling: true
+	styling_data:
+		combined_chop: -4
+		other_options: clear frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: guest walker by requiem
 	time_created: 2024-10-25 20:47:10
 	time_modified: 2025-07-25 10:14:26
@@ -25,7 +30,7 @@ card:
 	loyalty_cost_2: +1
 	loyalty_cost_3: -3
 	loyalty: 1
-	level_1_text: <atom-legname><nospellcheck>MX-04</nospellcheck></atom-legname> enters with an additional loyalty counter on it for each land in your realm. You gain that much life. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto>
+	level_1_text: <atom-legname><nospellcheck>MX-04</nospellcheck></atom-legname> enters with an additional loyalty counter on it for each land <kw-A><nospellcheck><key>in your realm</key></nospellcheck>. You gain that much life. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto><atom-reminder-custom> <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto></atom-reminder-custom></kw-A>
 	level_2_text: <margin:130:0:0>This planeswalker deals 3 damage to target opponent.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Create a colorless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mx</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-04 planeswalker token with 1 starting loyalty named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Replicant</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with “<sym-auto>+1</sym-auto>: Each opponent loses 2 life and you gain 2 life.” and “<sym-auto>-2</sym-auto>: Draw a card.”</margin:130:0:0>
 	level_4_text: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -19,7 +19,7 @@ card:
 	rarity: rare
 	rule_text:
 		Destroy target creature. 
-		You may have this spell deals 3 damage to each other creature if there are five or more lands in your realm. If you didn’t, you may put a land card from your hand onto the battlefield tapped. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto>
+		You may have this spell deals 3 damage to each other creature if there are five or more lands <kw-A><nospellcheck><key>in your realm</key></nospellcheck>. If you didn’t, you may put a land card from your hand onto the battlefield tapped. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto><atom-reminder-custom> <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>The greater the tyrant, the greater the fall.</i-flavor>
 	illustrator: the3Ss
 	card_code_text: 

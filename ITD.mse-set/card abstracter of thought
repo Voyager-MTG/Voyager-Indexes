@@ -1,16 +1,15 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 7
-		frames: clear
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: https://www.artstation.com/artwork/GXJKPW
 	time_created: 2024-10-04 11:49:17
-	time_modified: 2025-07-25 10:13:54
+	time_modified: 2025-08-18 18:38:53
+	card_trim: clear
 	name: Abstracter of Thought
 	casting_cost: 3
 	image: image107

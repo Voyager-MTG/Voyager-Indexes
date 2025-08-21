@@ -1,19 +1,18 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
 		shrink_name_text: 
-		frames: clear
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		https://www.deviantart.com/aths-art/art/Fallen-Knight-638614346
 		new
 	time_created: 2024-07-12 18:14:42
-	time_modified: 2025-01-03 20:57:54
+	time_modified: 2025-08-18 18:37:36
+	card_trim: clear
 	name: Through Violence
 	casting_cost: 4
 	image: image197

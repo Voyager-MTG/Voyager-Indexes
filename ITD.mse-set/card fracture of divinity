@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes:
@@ -18,7 +18,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
 		Whenever an opponent casts a noncreature spell with mana value less than this creature’s power, draw a card.
-		Iterate <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto>
+		<kw-A><nospellcheck><key>Iterate</key></nospellcheck> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without <kw-A><nospellcheck><key>iterate</key></nospellcheck> into your hand.)</i-auto><blob></kw-A><moved><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<i>Augmented</i> — At the beginning of your end step, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, put a +1/+1 counter on <atom-cardname><nospellcheck>Enlightenment Iterator</nospellcheck></atom-cardname>.
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, put a +1/+1 counter on <atom-cardname><nospellcheck>Enlightenment Iterator</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor>Wherever it came from and whatever it’s learned, it’s uninterested in sharing.</i-flavor>
 	power: 3
 	toughness: 3

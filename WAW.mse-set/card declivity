@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,10 +6,8 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
-		frames: nyx
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: 
 	time_created: 2024-12-14 17:39:27
 	time_modified: 2025-03-05 23:18:21
@@ -25,7 +23,7 @@ card:
 	rarity: common
 	rule_text:
 		When <atom-cardname><nospellcheck>Declivity</nospellcheck></atom-cardname> enters, draw two cards.
-		<i>Augmented</i> — At the beginning of your end step, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, you may exile <atom-cardname><nospellcheck>Declivity</nospellcheck></atom-cardname>. If you do, return target card from your graveyard to your hand.
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, you may exile <atom-cardname><nospellcheck>Declivity</nospellcheck></atom-cardname>. If you do, return target card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ryan Groscamp
 	card_code_text: 

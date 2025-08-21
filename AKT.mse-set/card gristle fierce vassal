@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -39,10 +39,10 @@ card:
 	sub_type_2: <word-list-race-en>Werewolf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Bisapience</key></nospellcheck> <sym>7</sym><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Bisapience <param-cost><sym>7</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever <atom-cardname><nospellcheck>Gristle, Fierce Vassal</nospellcheck></atom-cardname> enters or attacks, draw a card for each transformed permanent you control.
 	rule_text_2:
-		<kw-0><nospellcheck><key>Bisapience</key></nospellcheck></kw-0>—Discard a card.
+		<kw-0><nospellcheck><key>Bisapience—<param-cost>Discard a card</param-cost>.</key></nospellcheck></kw-0>
 		<kw-0><nospellcheck><key>Trample</key></nospellcheck></kw-0>
 		Whenever <atom-cardname><nospellcheck>Gristlethark, Godsire</nospellcheck></atom-cardname> enters or attacks, double the power of another target creature you control until end of turn.
 	flavor_text: <i-flavor></i-flavor>

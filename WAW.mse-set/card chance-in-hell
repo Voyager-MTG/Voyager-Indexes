@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -36,7 +36,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		Pay 3 life: <atom-cardname><nospellcheck>Chance-in-Hell</nospellcheck></atom-cardname> <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>.
-		<i>Augmented</i> — At the beginning of your end step, discard a card or sacrifice a nonland permanent. If you’ve spent <sym>WUBRG</sym> to cast spells this turn, instead exile <atom-cardname><nospellcheck>Chance-in-Hell</nospellcheck></atom-cardname> and return her to the battlefield transformed at the beginning of your next upkeep. 
+		<i><kw-0><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-0> — At the beginning of your end step, discard a card or sacrifice a nonland permanent. If you’ve spent <sym>WUBRG</sym> to cast spells this turn, instead exile <atom-cardname><nospellcheck>Chance-in-Hell</nospellcheck></atom-cardname> and return her to the battlefield transformed at the beginning of your next upkeep. 
 	flavor_text: <i-flavor></i-flavor>
 	loyalty_cost_6: -2
 	loyalty_cost_7: -X

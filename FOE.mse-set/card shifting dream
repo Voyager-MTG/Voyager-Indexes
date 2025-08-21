@@ -1,15 +1,12 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 2
-		frames: adventure
-		adventure_type: focus
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: It was born between the cusp of wakefulness and deep sleep.
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2025-07-02 23:56:30

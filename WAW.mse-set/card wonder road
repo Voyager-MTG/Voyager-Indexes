@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,10 +6,8 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		altered_plus_frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: 
 	time_created: 2025-01-24 15:15:22
 	time_modified: 2025-02-20 15:20:51
@@ -24,7 +22,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		<i>Augmented</i> — When you cast this spell, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, copy it twice. You may choose new targets for the copies.
+		<kw-A><i-auto><nospellcheck><key><i>Augmented</i></key></nospellcheck></i-auto></kw-A> — When you cast this spell, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, copy it twice. You may choose new targets for the copies.
 		Untap target land you control. Put three +1/+1 counters on it. It becomes a 0/0 Wonder creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, and <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>. It’s still a land.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Francisco Mon

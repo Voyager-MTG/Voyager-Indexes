@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		WHITEUNCOMMON
+		UW10
+	time_created: 2023-09-07 23:42:37
+	time_modified: 2025-08-18 21:15:45
+	card_trim: special guest, inverted
+	card_color: white
+	name: Found Family
+	casting_cost: 1W
+	image: image18.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: Choose target nonland permanent with a creature type. Its owner embraces it.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ryky
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken
+	secondary_copyright: Myr

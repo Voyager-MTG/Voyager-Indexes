@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,17 +6,14 @@ card:
 	styling_data:
 		chop_top: 3
 		chop_bottom: 
-		font_cap: 
 		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: 
+		font_cap: 
 		popout_image_style: 
-		use_holofoil_stamps: no
-		alt_rarity_color: 
 		card_watermark: sets/Set-foe.png
+		alt_rarity_color: 
+		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		tavern
 		#updated

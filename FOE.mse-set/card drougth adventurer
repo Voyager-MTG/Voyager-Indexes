@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,16 +6,13 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 1
-		font_cap: 
 		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: 
+		font_cap: 
 		popout_image_style: 
-		use_holofoil_stamps: no
 		card_watermark: sets/Set-foe.png
+		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: traverse 5
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2024-11-13 10:39:17
@@ -32,7 +29,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: When this creature enters, you may discard a card. If you do, <kw-A><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand. )</i-auto></atom-reminder-custom></kw-A>
+	rule_text: When this creature enters, you may discard a card. If you do, <kw-A><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Some born in <error-spelling:en_US>Drougth</error-spelling:en_US> ignored the sanctions against <error-spelling:en_US>interplanar</error-spelling:en_US> travel and chose to aid in the fight against Marie.</i-flavor>

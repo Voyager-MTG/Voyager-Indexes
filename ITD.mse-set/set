@@ -28,7 +28,6 @@ styling:
 		use_holofoil_stamps: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	magic-m15-mainframe-planeswalker:
 		combined_chop: -4
 		other_options: un-indent nonloyalty abilities

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,17 +6,15 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 
-		frames: clear
-		altered_plus_frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: 
 	time_created: 2025-01-28 13:20:47
-	time_modified: 2025-02-14 09:31:10
+	time_modified: 2025-08-18 18:35:59
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: she/her
+	card_trim: clear, legend
 	card_color: colorless
 	name: Khiare, Last of the Lost
 	casting_cost: 3

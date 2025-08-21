@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-01-28 13:47:41
+	time_modified: 2025-08-18 21:31:48
+	card_trim: special guest, inverted
+	card_color: land, multicolor
+	name: The Heart of Ischav
+	image: image16.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		When <atom-cardname><nospellcheck>The Heart of Ischav</nospellcheck></atom-cardname> enters, you may exile a card from your hand. If you do, exile a basic land card you own from your sanctum.
+		<sym-auto>T</sym-auto>: Add one mana of any color basic lands you control could produce.
+		<sym-auto>T</sym-auto>, Pay 1 life: Return a basic land card exiled with <atom-cardname><nospellcheck>The Heart of Ischav</nospellcheck></atom-cardname> to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ryky
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Wende

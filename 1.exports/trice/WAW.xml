@@ -1059,7 +1059,7 @@ When Scrappy Wisp-Speaker dies, if there is a card exiled with it, create a 1/1 
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast a noncreature spell, you may [create an X/X black Spirit creature token that can’t block], where X is that spell’s mana value.
-Impetus — XB, Pay X life. (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus cost— XB, Pay X life. (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.) (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Smug Upstart</name>

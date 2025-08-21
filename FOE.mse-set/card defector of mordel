@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,22 +6,19 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		font_cap: 
 		d20_dividers: d20 mode
-		frames: adventure
-		adventure_type: focus
-		altered_plus_frames: 
+		font_cap: 
 		popout_image_style: 
-		use_holofoil_stamps: no
 		card_watermark: sets/Set-foe.png
+		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		!alt
 		Clan Mordel made enemies both inside and out their walls.
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-22 18:26:34
+	time_modified: 2025-08-16 01:46:26
+	card_trim: adventure focus
 	name: Defector of Mordel
 	name_2: Unmade Weavings
 	casting_cost: 1G
@@ -33,9 +30,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en>Instant</word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-race-en>Minotaur</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: <word-list-spell>Focus</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
 	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: !addtoken Scar;1
@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever you exile one or more cards, you get a <kw-A><nospellcheck><key>Sca<param-*s>r</param-*s></key></nospellcheck> if this is the first time this ability has resolved this turn. Otherwise, you gain 1 life.<atom-reminder-expert> <i-auto>(It’s a boon with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		Whenever you exile one or more cards, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck> if this is the first time this ability has resolved this turn. Otherwise, you gain 1 life.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

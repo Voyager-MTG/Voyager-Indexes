@@ -1,13 +1,11 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: -4
 		chop_bottom: 5
-		frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: https://x.com/Slitherbop/status/1787906825918234640
 	time_created: 2024-10-16 17:16:37
 	time_modified: 2025-07-25 10:16:56
