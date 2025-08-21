@@ -10,7 +10,7 @@ card:
 		https://www.artstation.com/artwork/YaxyQK<soft-line>
 		!spellbook I10;1</soft-line>
 	time_created: 2024-10-04 11:50:19
-	time_modified: 2025-04-15 08:51:50
+	time_modified: 2025-08-20 13:22:58
 	card_color: artifact, land
 	name: Shifting Silverscape
 	image: image108
@@ -22,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<kw-A><nospellcheck><key>Iterate</key></nospellcheck> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without <kw-A><nospellcheck><key>iterate</key></nospellcheck> into your hand. It’s not a land.)</i-auto><blob></kw-A><moved><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+		<kw-A><nospellcheck><key>Iterate</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Aldo Katayanagi
 	card_code_text: 

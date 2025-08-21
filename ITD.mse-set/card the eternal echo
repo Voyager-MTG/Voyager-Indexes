@@ -10,12 +10,6 @@ card:
 	notes: 
 	time_created: 2024-10-27 18:23:43
 	time_modified: 2025-08-11 12:45:41
-	special_text:
-		Whenever you activate a loyalty ability of <atom-cardname><nospellcheck>The Eternal Echo</nospellcheck></atom-cardname>, create a colorless Echo planeswalker token at the beginning of your next end step and put 3 loyalty counters on it. It gains that ability, except it costs <sym-auto>-1</sym-auto>.
-		[+1]: <margin:130:0:0>You gain 2 life.</margin:130:0:0>
-		[0]: <margin:130:0:0>Put a +1/+1 counter on target creature you control. </margin:130:0:0>
-		[-2]: <margin:130:0:0>Each opponent loses 2 life.</margin:130:0:0>
-		[-5]: <margin:130:0:0>Draw a card.</margin:130:0:0>
 	card_color: colorless
 	name: The Eternal Echo
 	casting_cost: 4
@@ -47,3 +41,9 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		Whenever you activate a loyalty ability of <atom-cardname><nospellcheck>The Eternal Echo</nospellcheck></atom-cardname>, create a colorless Echo planeswalker token at the beginning of your next end step and put 3 loyalty counters on it. It gains that ability, except it costs <sym-auto>-1</sym-auto>.
+		[+1]: <margin:130:0:0>You gain 2 life.</margin:130:0:0>
+		[0]: <margin:130:0:0>Put a +1/+1 counter on target creature you control. </margin:130:0:0>
+		[-2]: <margin:130:0:0>Each opponent loses 2 life.</margin:130:0:0>
+		[-5]: <margin:130:0:0>Draw a card.</margin:130:0:0>

@@ -15,10 +15,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: he/it
-	special_text:
-		Whenever a land you control enters, add one mana of any color.
-		[-1]: <margin:130:0:0>Return target land card from your graveyard to your hand.</margin:130:0:0>
-		[-1]: <margin:130:0:0>You may play an additional land this turn.</margin:130:0:0>
 	name: The Gardener, Waning
 	casting_cost: XG
 	image: image177
@@ -42,3 +38,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		Whenever a land you control enters, add one mana of any color.
+		[-1]: <margin:130:0:0>Return target land card from your graveyard to your hand.</margin:130:0:0>
+		[-1]: <margin:130:0:0>You may play an additional land this turn.</margin:130:0:0>

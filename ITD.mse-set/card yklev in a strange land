@@ -13,10 +13,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: they/them
-	special_text:
-		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A>— Whenever a land enters under your control, you gain 1 life.
-		[+1]: <margin:130:0:0>Untap target land. <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Search your library or graveyard for a land card, reveal it, put it into your hand, then shuffle.</margin:130:0:0>
 	name: Yklev, In a Strange Land
 	casting_cost: 3
 	image: image11
@@ -40,3 +36,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A>— Whenever a land enters under your control, you gain 1 life.
+		[+1]: <margin:130:0:0>Untap target land. <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Search your library or graveyard for a land card, reveal it, put it into your hand, then shuffle.</margin:130:0:0>

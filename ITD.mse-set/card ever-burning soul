@@ -9,9 +9,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: They/them
-	special_text:
-		[+1]: <margin:130:0:0>Exile the top card of your library. You may play it this turn. When you do,  you may activate this ability an additional time this turn.</margin:130:0:0>
-		[-2]: <margin:130:0:0>This planeswalker deals X damage to any target, where X is 2 plus the number of cards exiled with it. If that permanent would die this turn, exile it instead.</margin:130:0:0>
 	name: Ever-Burning Soul
 	casting_cost: 3R
 	image: image178
@@ -36,3 +33,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		[+1]: <margin:130:0:0>Exile the top card of your library. You may play it this turn. When you do,  you may activate this ability an additional time this turn.</margin:130:0:0>
+		[-2]: <margin:130:0:0>This planeswalker deals X damage to any target, where X is 2 plus the number of cards exiled with it. If that permanent would die this turn, exile it instead.</margin:130:0:0>

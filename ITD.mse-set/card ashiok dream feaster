@@ -13,9 +13,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: they/them
-	special_text:
-		You may cast nonland cards exiled with Ashiok planeswalkers and spend mana as though it were mana of any color to cast those spells.
-		[-2]: <margin:130:0:0>Target player reveals their hand. You choose a nonland card from it. That player exiles that card.</margin:130:0:0>
 	name: Ashiok, Dream Feaster
 	casting_cost: 2BB
 	image: image74
@@ -41,3 +38,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		You may cast nonland cards exiled with Ashiok planeswalkers and spend mana as though it were mana of any color to cast those spells.
+		[-2]: <margin:130:0:0>Target player reveals their hand. You choose a nonland card from it. That player exiles that card.</margin:130:0:0>

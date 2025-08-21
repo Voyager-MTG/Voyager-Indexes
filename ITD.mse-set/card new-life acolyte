@@ -14,7 +14,7 @@ card:
 		https://momarkmagic.blogspot.com/2013/10/pyramid-lord-speedpainting.html<soft-line>
 		!spellbook I9;1</soft-line>
 	time_created: 2024-08-20 18:26:47
-	time_modified: 2025-07-25 10:22:59
+	time_modified: 2025-08-20 13:22:45
 	name: New-Life Acolyte
 	casting_cost: 1U
 	image: image22
@@ -26,7 +26,7 @@ card:
 	rarity: rare
 	rule_text:
 		Artifact spells you cast with mana value 2 or greater cost <sym-auto>1</sym-auto> less to cast. 
-		<kw-A><nospellcheck><key>Iterate</key></nospellcheck> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without <kw-A><nospellcheck><key>iterate</key></nospellcheck> into your hand.)</i-auto><blob></kw-A><moved><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+		<kw-A><nospellcheck><key>Iterate</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>A perfect fusion of metal and flesh.         </i-flavor>
 	power: 1
 	toughness: 2

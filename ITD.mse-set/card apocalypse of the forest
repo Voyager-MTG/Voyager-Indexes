@@ -16,7 +16,6 @@ card:
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: he/it
-	special_text: 
 	name: Apocalypse of the Forest
 	casting_cost: 3BB
 	image: image201
@@ -42,3 +41,4 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text: 

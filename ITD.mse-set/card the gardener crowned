@@ -15,11 +15,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: he/it
-	special_text:
-		<atom-cardname><nospellcheck>The Gardener, Crowned</nospellcheck></atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each colorless permanent you control. <i-auto>(Lands are colorless.)</i-auto>
-		[+2]: <margin:130:0:0>Create three 1/1 colorless Faerie Horror creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Gain control of target permanent.</margin:130:0:0>
-		[-5]: <margin:130:0:0>You get an emblem with “You may look at the top card of your library any time and you may play lands and cast colorless spells from the top of your library.”</margin:130:0:0>
 	name: The Gardener, Crowned
 	casting_cost: 15
 	image: image71
@@ -46,3 +41,8 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		<atom-cardname><nospellcheck>The Gardener, Crowned</nospellcheck></atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each colorless permanent you control. <i-auto>(Lands are colorless.)</i-auto>
+		[+2]: <margin:130:0:0>Create three 1/1 colorless Faerie Horror creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Gain control of target permanent.</margin:130:0:0>
+		[-5]: <margin:130:0:0>You get an emblem with “You may look at the top card of your library any time and you may play lands and cast colorless spells from the top of your library.”</margin:130:0:0>

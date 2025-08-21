@@ -6,7 +6,7 @@ card:
 		!spellbook I1;1
 		</soft-line>
 	time_created: 2024-10-17 19:35:09
-	time_modified: 2025-01-21 16:19:19
+	time_modified: 2025-08-20 13:23:03
 	name: Cloudscape Observer
 	casting_cost: 2U
 	image: image172
@@ -18,7 +18,7 @@ card:
 	rarity: rare
 	rule_text:
 		When this creature enters, return up to one target creature you don’t control to its owner’s hand.
-		<kw-A><nospellcheck><key>Iterate</key></nospellcheck> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without <kw-A><nospellcheck><key>iterate</key></nospellcheck> into your hand.)</i-auto><blob></kw-A><moved><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+		<kw-A><nospellcheck><key>Iterate</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

@@ -17,9 +17,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: she/her
-	special_text:
-		[+1]: <margin:130:0:0>You may pay 1 life. If you do, create a 1/1 colorless Faerie Horror creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”</margin:130:0:0>
-		[-6]: <margin:130:0:0>Destroy up to one target creature. When you do, put a creature from a graveyard onto the battlefield under your control. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Exile it at end of turn.</margin:130:0:0>
 	name: Goddess of Puppet Strings
 	casting_cost: 1B
 	image: image174
@@ -43,3 +40,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		[+1]: <margin:130:0:0>You may pay 1 life. If you do, create a 1/1 colorless Faerie Horror creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”</margin:130:0:0>
+		[-6]: <margin:130:0:0>Destroy up to one target creature. When you do, put a creature from a graveyard onto the battlefield under your control. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Exile it at end of turn.</margin:130:0:0>

@@ -12,7 +12,7 @@ card:
 		!spellbook I8;1
 		</soft-line>
 	time_created: 2024-10-24 21:45:04
-	time_modified: 2025-02-23 18:58:59
+	time_modified: 2025-08-20 13:23:07
 	name: Ancient Forerunner
 	casting_cost: R
 	image: image130
@@ -25,7 +25,7 @@ card:
 	rule_text:
 		<atom-cardname><nospellcheck>Ancient Forerunner</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
 		When this creature enters, it deals damage equal to its power to each opponent.
-		<kw-A><nospellcheck><key>Iterate</key></nospellcheck> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without <kw-A><nospellcheck><key>iterate</key></nospellcheck> into your hand.)</i-auto><blob></kw-A><moved><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+		<kw-A><nospellcheck><key>Iterate</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

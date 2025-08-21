@@ -13,10 +13,6 @@ card:
 	notes: https://www.deviantart.com/yonaz/art/Forest-2-348501057
 	time_created: 2024-08-25 16:58:35
 	time_modified: 2025-01-21 15:56:38
-	special_text:
-		<i>His roots twist and twist and <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> deeper and deeper.</i>
-		I, II — This land gains “<sym-auto>T</sym-auto>:  Add <sym-auto>C</sym-auto>.” until your next turn.
-		III — Search your library for a non-Saga land card and put it onto the battlefield, then shuffle.
 	card_color: land
 	name: The Gardener’s Saga
 	image: image28
@@ -38,3 +34,8 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		<i>His roots twist and twist and <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> deeper and deeper.</i>
+		I, II — This land gains “<sym-auto>T</sym-auto>:  Add <sym-auto>C</sym-auto>.” until your next turn.
+		III — Search your library for a non-Saga land card and put it onto the battlefield, then shuffle.
+		​

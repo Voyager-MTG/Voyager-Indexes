@@ -14,10 +14,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: they/it
-	special_text:
-		<atom-legname><nospellcheck>MX-04</nospellcheck></atom-legname> enters with an additional loyalty counter on it for each land in your realm. You gain that much life. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto>
-		[+1]: <margin:130:0:0>This planeswalker deals 3 damage to target opponent.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Create a colorless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mx</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-04 planeswalker token with 1 starting loyalty named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Replicant</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with “<sym-auto>+1</sym-auto>: Each opponent loses 2 life and you gain 2 life.” and “<sym-auto>-2</sym-auto>: Draw a card.”</margin:130:0:0>
 	name: MX-04, Electric Usurper
 	casting_cost: 5
 	image: image160
@@ -41,3 +37,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		<atom-legname><nospellcheck>MX-04</nospellcheck></atom-legname> enters with an additional loyalty counter on it for each land <kw-A><nospellcheck><key>in your realm</key></nospellcheck>. You gain that much life. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto><atom-reminder-custom> <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto></atom-reminder-custom></kw-A>
+		[+1]: <margin:130:0:0>This planeswalker deals 3 damage to target opponent.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Create a colorless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mx</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-04 planeswalker token with 1 starting loyalty named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Replicant</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with “<sym-auto>+1</sym-auto>: Each opponent loses 2 life and you gain 2 life.” and “<sym-auto>-2</sym-auto>: Draw a card.”</margin:130:0:0>

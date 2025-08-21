@@ -9,9 +9,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: they/them
-	special_text:
-		If you would draw a card, instead exile the top three cards of your library, then put a card you own exiled with an Ashiok planeswalker into your hand.
-		[-2]: <margin:130:0:0>Exile the top card of your library, then put a card you own exiled with an Ashiok planeswalker into your hand.</margin:130:0:0>
 	name: Ashiok, Lone Dreamer
 	casting_cost: 1UU
 	image: image77
@@ -34,3 +31,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		If you would draw a card, instead exile the top three cards of your library, then put a card you own exiled with an Ashiok planeswalker into your hand.
+		[-2]: <margin:130:0:0>Exile the top card of your library, then put a card you own exiled with an Ashiok planeswalker into your hand.</margin:130:0:0>
