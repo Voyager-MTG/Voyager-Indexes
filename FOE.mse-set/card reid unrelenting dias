@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes:
@@ -23,8 +23,8 @@ card:
 	rarity: rare
 	rule_text:
 		This spell can’t be countered.
-		Reid, Unrelenting Dias and creatures you control can’t be blocked by more than one creature.
-		<sym-auto>2</sym-auto>: Reid, Unrelenting Dias gets +1/+1 and gains your choice of <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.</atom-cardname><atom-name>
+		Reid, <kw-A><nospellcheck><key>Unrelenting</key></nospellcheck> Dias and creatures you control can’t be blocked by more than one creature.<atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>2</sym-auto>: Reid, <kw-A><nospellcheck><key>Unrelenting</key></nospellcheck> Dias gets +1/+1 and gains your choice of <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.</atom-cardname><atom-name><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 5

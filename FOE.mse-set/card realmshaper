@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,12 +6,10 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		frames: 
 		other_options: 
 		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: You may reveal this card from your sanctum at the start of the game. If you do, put any combination of six basic lands of any type from outside the game into your sanctum. (You don’t reveal them. They do not count towards your starting sanctum size.)
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2025-08-07 14:16:48

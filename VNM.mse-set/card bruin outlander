@@ -1,9 +1,9 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-21 02:03:58
+	time_modified: 2025-08-19 02:17:57
 	card_color: green
 	name: Bruin Outlander
 	casting_cost: 1G
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <sym-auto>3G</sym-auto>: Put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — At the beginning of combat on each turn, if you cast a noncreature spell this turn, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> has base size 4/4 until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Sometimes all a scout needs to end a confrontation is their stature.</i-flavor>

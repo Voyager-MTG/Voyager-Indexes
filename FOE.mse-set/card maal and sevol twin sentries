@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -10,12 +10,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!related Astrus Quandryattach>;
 		!addtoken Astrus Quandry;transform;
+		!addtoken Maal and Sevol, Twin Sentries;transform;
 		Verdant
-		!backname Astrus Quandry
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-08-07 00:48:56
+	time_modified: 2025-08-19 01:13:23
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -25,7 +24,7 @@ card:
 			front_color_hint: 
 	name: Maal and Sevol, Twin Sentries
 	name_2: Astrus Quandry
-	casting_cost: 6
+	casting_cost: 7
 	transformation: front triangle
 	transformation_2: back triangle
 	image: image14.png

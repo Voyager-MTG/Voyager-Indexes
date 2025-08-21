@@ -1,19 +1,16 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
 		chop_bottom: 5
-		d20_dividers: all breaks
-		frames: lesson
-		altered_plus_frames: 
-		popout_image_style_2: 
-		other_options: 
 		hybrid_name: hybrid
+		d20_dividers: all breaks
+		other_options: 
+		popout_image_style_2: 
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes:
 		Preview
 		!addtoken Subdued Rift;conjured;

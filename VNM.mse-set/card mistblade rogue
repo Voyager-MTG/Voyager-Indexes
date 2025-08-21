@@ -1,11 +1,11 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-21 05:07:10
+	time_modified: 2025-08-19 01:49:49
 	name: Mistblade Rogue
 	casting_cost: 1BB
 	image: image82
@@ -19,7 +19,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</key></nospellcheck></i-auto></kw-A> </i>— At the beginning of combat on your turn, up to one target creature gets +1/+0 and can’t be blocked by non-enchantment creatures until end of turn as long as you cast a noncreature spell this turn.
+	rule_text:
+		<atom-name>This creature</atom-cardname> can’t be blocked by non-enchantment creatures.
+		<i><kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> </i>— At the beginning of combat on your turn, up to one target creature can’t be blocked by non-enchantment creatures until end of turn as long as you cast a noncreature spell this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Hiring a <error-spelling:en_US>Mistblade</error-spelling:en_US> isn’t just a guarantee, its a commitment.</i-flavor>

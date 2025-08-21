@@ -1,22 +1,19 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		font_cap: 13.5
-		d20_dividers: off
-		frames: lesson
-		altered_plus_frames: 
-		custom_symbol: abstract-061.png
-		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
-		use_holofoil_stamps: no
-		alt_rarity_color: 
 		hybrid_name: grey
+		d20_dividers: off
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		font_cap: 13.5
+		custom_symbol: abstract-061.png
+		alt_rarity_color: 
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes:
 		!related Multaph’s Respite’s Spellbookattach>;
 		!addtoken Multaph’s Respite’s Spellbook;transform;

@@ -1,9 +1,9 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: I’m basically tvps unpaid intern
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-15 17:20:39
+	time_modified: 2025-08-19 13:24:43
 	name: Personal Sins
 	casting_cost: 2IGU
 	image: image459
@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When this enchantment enters, turn any number of creature cards in your sanctum face up.
-		Whenever you cast a spell, you may cast a face-up card from your sanctum that has mana value less than that spell’s mana value without paying its mana cost.
+		When this enchantment enters, exile any number of creature cards in your sanctum.
+		Whenever you cast a spell from your hand, you may cast a card exiled with <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> that has mana value less than that spell’s mana value without paying its mana cost.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

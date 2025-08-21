@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,16 +6,13 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
-		font_cap: 
 		d20_dividers: d20 mode
-		frames: lesson
-		altered_plus_frames: star, token
-		use_holofoil_stamps: no
-		alt_rarity_color: 224,224,224:84,84,84:0,0,0:0,0,0:0.07:
+		font_cap: 
 		card_watermark: sets/Set-foe.png
+		alt_rarity_color: 224,224,224:84,84,84:0,0,0:0,0,0:0.07:
+		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		<soft-line>!related Remnants of the Warattach>;
 		

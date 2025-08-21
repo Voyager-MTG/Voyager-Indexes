@@ -1,14 +1,12 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		altered_plus_frames: frontier
 		other_options: pokemon evobar, auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		!tag burgeoning;
 		https://www.artstation.com/artwork/OvVK06

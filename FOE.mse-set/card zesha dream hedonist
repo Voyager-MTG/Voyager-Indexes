@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -17,7 +17,7 @@ card:
 		Verdant
 		!backname Lucillica Dreamscape
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2025-08-07 00:28:50
+	time_modified: 2025-08-19 01:11:15
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -50,9 +50,9 @@ card:
 		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Zesha</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Dream Hedonist deals combat damage to a player, that player exiles that many cards from the top of their library. 
 		You may play land cards from among face up cards you don’t own in exile.
 	rule_text_2:
-		As this land enters, you may pay 3 life. If you don’t, it enters tapped.
+		This land enters enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
-		<sym-auto>3U</sym-auto>: Transform this land until end of turn.
+		<sym-auto>2U</sym-auto>: Transform this land until end of turn.
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor>To sleep in <error-spelling:en_US>Lucillica</error-spelling:en_US> is to invite the evil in your heart to reign free.</i-flavor>

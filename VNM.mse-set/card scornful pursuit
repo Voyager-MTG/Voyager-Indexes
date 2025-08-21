@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,22 +6,19 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		font_cap: 13.5
-		d20_dividers: off
-		frames: 
-		altered_plus_frames: 
-		custom_symbol: abstract-061.png
-		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
-		use_holofoil_stamps: no
-		alt_rarity_color: 
 		hybrid_name: grey
+		d20_dividers: off
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		font_cap: 13.5
+		custom_symbol: abstract-061.png
+		alt_rarity_color: 
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-21 15:19:52
+	time_modified: 2025-08-19 02:00:12
 	name: Scornful Pursuit
 	casting_cost: 4B
 	image: image7
@@ -37,14 +34,14 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		<i><kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> </i>—  At the beginning of your end step, if you cast a noncreature spell this turn, return up to one target creature card from your graveyard to your hand.
+		<i><kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> </i>—  At the beginning of each end step, if you cast a noncreature spell this turn, return up to one target creature card from your graveyard to your hand.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Cross a clan and you may survive. Cross an Icon, and you’ll never know peace.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 4
-	toughness: 3
+	toughness: 4
 	illustrator: ChangYuan Jou
 	card_code_text: 
 	card_code_text_2: 

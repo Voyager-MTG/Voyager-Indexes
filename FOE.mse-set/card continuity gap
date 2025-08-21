@@ -1,9 +1,9 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-15 16:46:14
+	time_modified: 2025-08-19 13:23:47
 	name: Continuity Gap
 	casting_cost: 4U
 	image: image465
@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		Take an extra turn after this one. During that turn’s untap step, untap only one creature and two lands you control.
-		Put this card into your sanctum.
+		Exile Continuity Gap.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor><error-spelling:en_US>Prophellos</error-spelling:en_US> found a plane that was worth consuming. <error-spelling:en_US>Meirel</error-spelling:en_US>.</i-flavor>

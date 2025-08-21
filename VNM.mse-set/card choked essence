@@ -1,24 +1,21 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		font_cap: 13.5
-		d20_dividers: off
-		frames: 
-		altered_plus_frames: 
-		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
-		use_holofoil_stamps: no
-		alt_rarity_color: 
 		hybrid_name: grey
+		d20_dividers: off
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		font_cap: 13.5
+		alt_rarity_color: 
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: 
 	time_created: 2022-06-08 13:23:53
-	time_modified: 2025-07-12 16:15:41
+	time_modified: 2025-08-19 02:23:05
 	name: Choked Essence
 	casting_cost: 1I
 	image: image62
@@ -31,7 +28,7 @@ card:
 	rule_text:
 		Choose one —
 		<li><bullet>• </bullet>Counter target spell that was cast from anywhere other than its owner’s hand.
-		</li><li><bullet>• </bullet>Create a token that’s a copy of target token, except its a creature and has size 2/2. <i-auto>(It keeps its types and abilities.)</i-auto></li>
+		</li><li><bullet>• </bullet>Create a token that’s a copy of target token, except its a creature in addition to its other types and has size 2/2. <i-auto>(It keeps its abilities.)</i-auto></li>
 	flavor_text: <i-flavor>The Blind Eternities warps all that it touches; A newfound power <error-spelling:en_US>Melodia</error-spelling:en_US> now had.</i-flavor>
 	illustrator: exellero
 	card_code_text: 

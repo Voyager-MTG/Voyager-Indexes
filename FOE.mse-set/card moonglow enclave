@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,18 +6,15 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		font_cap: 13.5
 		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: frontier
 		other_options: pokemon evobar, auto nyx crowns
+		font_cap: 13.5
+		card_watermark: sets/Set-foe.png
+		alt_rarity_color: 
 		use_holofoil_stamps: no
 		remove_from_autocount: yes
-		alt_rarity_color: 
-		card_watermark: sets/Set-foe.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes:
 		!tapped<soft-line>
 		</soft-line>

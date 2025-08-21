@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -17,7 +17,7 @@ card:
 		!backname Alira Glade
 		!addtoken Alira Glade;transform;
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2025-08-07 00:29:43
+	time_modified: 2025-08-19 01:12:03
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -49,7 +49,7 @@ card:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
 		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lisse</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Hope Through Sin attacks, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lisse</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 1 damage to any target.
 	rule_text_2:
-		As this land enters, you may pay 3 life. If you don’t, it enters tapped.
+		This land enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
 		<sym-auto>3BB</sym-auto>: Transform this land until end of turn.
 	rule_text_3: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -17,7 +17,7 @@ card:
 		Verdant
 		!backname Midrim Cleave
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2025-08-07 00:30:31
+	time_modified: 2025-08-19 01:12:11
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -32,6 +32,8 @@ card:
 	name: Argent, Flash of Mirdrim
 	name_2: Midrim Cleave
 	casting_cost: 4II
+	transformation: front triangle
+	transformation_2: back triangle
 	image: image414
 	image_2: image_217.png
 	mainframe_image: 
@@ -50,7 +52,7 @@ card:
 		<li><bullet>• </bullet>Whenever you cast your next spell this turn, copy it. You may choose new targets for the copy.
 		</li><li><bullet>• </bullet>Create a token that’s a copy of target permanent.</li>
 	rule_text_2:
-		As this land enters, you may pay 3 life. If you don’t, it enters tapped.
+		This land enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.
 		<sym-auto>4II</sym-auto>: Transform this land until end of turn.
 	rule_text_3: 

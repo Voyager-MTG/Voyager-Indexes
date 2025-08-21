@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -16,7 +16,7 @@ card:
 		Verdant
 		!backname Mangriel Precipice
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2025-06-14 16:24:19
+	time_modified: 2025-08-19 01:12:24
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -31,6 +31,8 @@ card:
 	name: Scout, Maw of the Moon
 	name_2: Mangriel Precipice
 	casting_cost: 3RRR
+	transformation: front triangle
+	transformation_2: back triangle
 	image: image416
 	image_2: image_219.png
 	mainframe_image: 
@@ -47,7 +49,7 @@ card:
 		<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
 		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, other creatures you control get +1/+0 until end of turn.
 	rule_text_2:
-		As this land enters, you may pay 3 life. If you don’t, it enters tapped.
+		This land enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.
 		<sym-auto>3RRR</sym-auto>: Transform this land until end of turn.
 	rule_text_3: 

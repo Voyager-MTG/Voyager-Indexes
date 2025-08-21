@@ -1,9 +1,9 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
 	time_created: 2022-05-06 22:46:07
-	time_modified: 2025-03-01 21:22:21
+	time_modified: 2025-08-19 02:02:06
 	name: Somma, Blade of Faloden Woods
 	casting_cost: 3GG
 	image: image249
@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
-		<i><kw-0><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-0> </i>— At the beginning of your end step, if you cast a noncreature spell this turn, you may put a permanent card from your hand onto the battlefield.
+		<i><kw-0><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-0> </i>— At the beginning of combat on your turn, if you cast a noncreature spell this turn, you may put a permanent card from your hand onto the battlefield.
 	flavor_text: <i-flavor>A heavy blade for a heavy task.</i-flavor>
 	power: 6
 	toughness: 6

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,15 +6,12 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: -5
-		font_cap: 13.5
 		d20_dividers: all breaks +2
-		frames: lesson
-		altered_plus_frames: 
 		other_options: auto familiars, auto nyx crowns
+		font_cap: 13.5
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: 
 	time_created: 2021-09-19 22:49:27
 	time_modified: 2025-07-21 00:51:39
