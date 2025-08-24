@@ -13,9 +13,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-23 18:28:48
+	time_modified: 2025-08-21 14:00:31
 	name: Branching Paths
-	casting_cost: U
+	casting_cost: 1U
 	image: image443
 	image_2: 
 	mainframe_image: 
@@ -27,7 +27,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: <kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — Return target creature to its owners hand. If you control five or more differently named lands, you may return it to the top of its owner’s library instead.
+	rule_text: <kw-A><i-auto><nospellcheck><key>Explorer</key></nospellcheck></i-auto></kw-A> — Return target creature to its owners hand. If you control five or more differently named lands, its owner puts it on their choice of the top or bottom of their library.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Each branch is a new path to explore.</i-flavor>

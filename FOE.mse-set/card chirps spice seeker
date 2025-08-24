@@ -16,7 +16,6 @@ card:
 	time_modified: 2024-06-21 02:15:01
 	extra_data:
 		magic-m15-mainframe-planeswalker-altered: vorthos_box: They/Them
-	special_text: 
 	name: Chirps, Spice Seeker
 	casting_cost: 3I
 	image: image387
@@ -54,3 +53,4 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text: 

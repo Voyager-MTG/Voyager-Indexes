@@ -12,10 +12,6 @@ card:
 	time_modified: 2024-10-14 22:28:28
 	extra_data:
 		magic-m15-mainframe-planeswalker-altered: vorthos_box: She/Her
-	special_text:
-		Whenever a spell or ability puts a card into an opponents hand, you may remove a loyalty counter from <atom-legname><nospellcheck>this planeswalker</nospellcheck></atom-legname> and draw a card. If you don’t, you gain 2 life.
-		[+1]: <margin:130:0:0>You may tap or untap up to one target nonland permanent.</margin:130:0:0>
-		[0]: <margin:130:0:0>Target player draws a card, then discards a card.</margin:130:0:0>
 	name: Heng Hien, Reifer of Justice
 	casting_cost: 1WU
 	image: image400
@@ -49,3 +45,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		Whenever a spell or ability puts a card into an opponents hand, you may remove a loyalty counter from <atom-legname><nospellcheck>this planeswalker</nospellcheck></atom-legname> and draw a card. If you don’t, you gain 2 life.
+		[+1]: <margin:130:0:0>You may tap or untap up to one target nonland permanent.</margin:130:0:0>
+		[0]: <margin:130:0:0>Target player draws a card, then discards a card.</margin:130:0:0>

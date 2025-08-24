@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -20,15 +20,6 @@ card:
 		!tag Planeswalker
 	time_created: 2025-02-24 00:44:17
 	time_modified: 2025-04-20 19:41:48
-	special_text:
-		
-
-	special_text_2:
-		At the beginning of your upkeep, you lose 2 life, <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner draws a card, then remove a loyalty counter from <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>.
-		[-1]: <margin:130:0:0>Discard a card. If you didn’t discard a nonland card this way, <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner creates a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
-		[-2]: <margin:130:0:0>Sacrifice a non-Waldemar permanent.</margin:130:0:0>
-		<>
-		<>
 	card_color_2: black
 	name: Waldemar, Forgotten Heir
 	name_2: Waldemar, Jaded Prince
@@ -78,3 +69,14 @@ card:
 	card_code_text_3: 
 	secondary_copyright: He/him
 	secondary_copyright_2: He/him
+	special_text:
+		
+		Once per game, when <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> deals combat damage to a player, if he was your chosen heir exile him, then return him to the battlefield transformed under that player’s control.
+		When <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> dies, each opponent discards a card.<sep><line>
+		</line></sep><i-flavor></i-flavor>
+	special_text_2:
+		At the beginning of your upkeep, you lose 2 life, <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner draws a card, then remove a loyalty counter from <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>.
+		[-1]: <margin:130:0:0>Discard a card. If you didn’t discard a nonland card this way, <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname>’s owner creates a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Sacrifice a non-Waldemar permanent.</margin:130:0:0>
+		<>
+		<>

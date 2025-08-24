@@ -10,10 +10,6 @@ card:
 	notes: https://www.artstation.com/artwork/OknA8?collection_id=987758
 	time_created: 2024-04-01 22:07:49
 	time_modified: 2025-07-08 23:04:38
-	special_text:
-		[+1]: <margin:130:0:0><kw-A><nospellcheck><key>Sift <param-number>2</param-number></key></nospellcheck>. You gain 2 life.<atom-reminder-expert> <i-auto>(Look at the top <param-number>two</param-number> cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-expert></kw-A></margin:130:0:0>
-		[0]: <margin:130:0:0>Reveal a permanent card from your Sanctum, then put it into your hand. If it was a land card, put a loyalty counter on <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>.</margin:130:0:0>
-		[-7]: <margin:130:0:0> Exile up to two target permanents.</margin:130:0:0>
 	card_color: blue, black, silver, multicolor, horizontal
 	name: Oracle of Multaph
 	casting_cost: IUB
@@ -44,3 +40,7 @@ card:
 	copyright: Set by Tvpattack
 	copyright_2: Set by Tvpattack
 	copyright_3: Set by Tvpattack
+	special_text:
+		[+1]: <margin:130:0:0><kw-A><nospellcheck><key>Sift <param-number>2</param-number></key></nospellcheck>. You gain 2 life.<atom-reminder-expert> <i-auto>(Look at the top <param-number>two</param-number> cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-expert></kw-A></margin:130:0:0>
+		[0]: <margin:130:0:0>Reveal a permanent card from your Sanctum, then put it into your hand. If it was a land card, put a loyalty counter on <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>.</margin:130:0:0>
+		[-7]: <margin:130:0:0> Exile up to two target permanents.</margin:130:0:0>

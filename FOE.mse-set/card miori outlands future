@@ -15,10 +15,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/Her
-	special_text:
-		[+2]: <margin:130:0:0><atom-name>This planeswalker</atom-cardname> deals 3 damage to any target.</margin:130:0:0>
-		[0]: <margin:130:0:0>Exile the top three cards of your library. You may play them this turn.</margin:130:0:0>
-		[-10]: <margin:130:0:0>Exile the top fifteen cards of your library. You may cast any number of spells from among them without paying their mana costs.</margin:130:0:0>
 	name: Miori, Outlands Future
 	casting_cost: 4UR
 	image: image432
@@ -55,3 +51,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		[+2]: <margin:130:0:0><atom-name>This planeswalker</atom-cardname> deals 3 damage to any target.</margin:130:0:0>
+		[0]: <margin:130:0:0>Exile the top three cards of your library. You may play them this turn.</margin:130:0:0>
+		[-10]: <margin:130:0:0>Exile the top fifteen cards of your library. You may cast any number of spells from among them without paying their mana costs.</margin:130:0:0>

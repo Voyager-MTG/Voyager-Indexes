@@ -16,7 +16,6 @@ card:
 	notes: 
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2024-04-22 23:32:37
-	special_text: 
 	name: History’s Weave
 	name_2: Khestri’s Salve
 	casting_cost: W
@@ -51,3 +50,4 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text: 

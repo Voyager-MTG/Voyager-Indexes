@@ -13,10 +13,6 @@ card:
 	time_modified: 2024-03-27 02:30:53
 	extra_data:
 		magic-m15-mainframe-planeswalker-altered: vorthos_box: She/Her
-	special_text:
-		When <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> enters, you may search your library for a Bird card, reveal it, then put it into your hand. Then shuffle.
-		[+1]: <margin:130:0:0>Put a +1/+1 counter on a Bird permanent or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jothi</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> planeswalker you control.</margin:130:0:0>
-		[0]: <margin:130:0:0>Until end of turn, <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> becomes an X/X Legendary Bird creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, where X is the number of Birds you control.</margin:130:0:0>
 	name: Jothi, Awakened Flock
 	casting_cost: 1WB
 	image: image372
@@ -50,3 +46,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		When <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> enters, you may search your library for a Bird card, reveal it, then put it into your hand. Then shuffle.
+		[+1]: <margin:130:0:0>Put a +1/+1 counter on a Bird permanent or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jothi</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> planeswalker you control.</margin:130:0:0>
+		[0]: <margin:130:0:0>Until end of turn, <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> becomes an X/X Legendary Bird creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, where X is the number of Birds you control.</margin:130:0:0>

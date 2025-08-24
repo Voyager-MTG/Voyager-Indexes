@@ -240,10 +240,10 @@ include_file: card deepmind oracle itd
 include_file: card emergent anomaly itd
 include_file: card fracture of divinity itd
 include_file: card lammasu dream-stilled itd
-include_file: card mechanised hunter itd
-include_file: card new-life acolyte itd
-include_file: card priest of perfection itd
-include_file: card shifting silverscape itd
+include_file: card mechanised hunter.1
+include_file: card new-life acolyte.1
+include_file: card priest of perfection.1
+include_file: card shifting silverscape.1
 include_file: card insect
 include_file: card apocalypse of the forest
 keyword:

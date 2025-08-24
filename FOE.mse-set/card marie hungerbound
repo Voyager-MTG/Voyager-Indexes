@@ -9,11 +9,7 @@ card:
 		overlay: 
 	notes: Marie Hungerbound
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-22 16:30:25
-	special_text:
-		If at least three mana of the same color was spent to cast this spell, <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> enters with an additional three loyalty counters.
-		[+1]: <margin:130:0:0>Target creature can’t attack or block until your next upkeep. Its controller loses 1 life. <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Put target noncreature nonland permanent on the bottom of its owner’s library. Its owner gains 3 life.</margin:130:0:0>
+	time_modified: 2025-08-21 14:44:55
 	name: Marie, Hungerbound
 	casting_cost: 3
 	image: image369
@@ -31,13 +27,14 @@ card:
 	rule_text_3: 
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	loyalty_cost_2: +1
-	loyalty_cost_3: -3
+	loyalty_cost_1: +1
+	loyalty_cost_2: 0
+	loyalty_cost_3: -5
 	loyalty_cost_4: 
 	loyalty: 3
-	level_1_text: If at least three mana of the same color was spent to cast this spell, <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> enters with an additional three loyalty counters.
-	level_2_text: <margin:130:0:0>Target creature can’t attack or block until your next upkeep. Its controller loses 1 life. <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>Put target noncreature nonland permanent on the bottom of its owner’s library. Its owner gains 3 life.</margin:130:0:0>
+	level_1_text: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. Each opponent loses 1 life.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Put a Realm card from your sanctum onto the battlefield.</margin:130:0:0>
 	level_4_text: 
 	illustrator: Yi. // YizhiY
 	card_code_text: 
@@ -46,3 +43,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		[+1]: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. Each opponent loses 1 life.</margin:130:0:0>
+		[0]: <margin:130:0:0>Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.</margin:130:0:0>
+		[-5]: <margin:130:0:0>Put a Realm card from your sanctum onto the battlefield.</margin:130:0:0>

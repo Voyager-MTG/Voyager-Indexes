@@ -19,7 +19,6 @@ card:
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: She/Her
-	special_text: 
 	name: Melodia, Drifter at Heart
 	casting_cost: 2II
 	image: image388
@@ -51,3 +50,4 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text: 

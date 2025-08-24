@@ -6,7 +6,6 @@ card:
 		!related Elemental Token 2;Elemental Token 3;
 	time_created: 2025-02-23 10:59:46
 	time_modified: 2025-05-16 18:52:03
-	special_text: 
 	card_color: silver
 	name: Unveiling
 	casting_cost: 1II
@@ -46,3 +45,4 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text: 

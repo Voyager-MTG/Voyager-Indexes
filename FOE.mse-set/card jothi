@@ -12,11 +12,6 @@ card:
 	time_modified: 2025-03-19 23:18:51
 	extra_data:
 		magic-m15-mainframe-planeswalker-altered: vorthos_box: He/Him
-	special_text:
-		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> enters, put a +1/+1 counter on up to one target creature.
-		[+1]: <margin:130:0:0>Target creature you control gets +1/+1 until end of turn. If it entered this turn, put a +1/+1 counter on it.</margin:130:0:0>
-		[-4]: <margin:130:0:0>Create a token that’s a copy of <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>, except it’s not legendary, doesn’t enter with loyalty counters and is a 1/1 Bird creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
 	name: Jothi
 	casting_cost: 1W
 	image: image373
@@ -52,3 +47,8 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> enters, put a +1/+1 counter on up to one target creature.
+		[+1]: <margin:130:0:0>Target creature you control gets +1/+1 until end of turn. If it entered this turn, put a +1/+1 counter on it.</margin:130:0:0>
+		[-4]: <margin:130:0:0>Create a token that’s a copy of <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>, except it’s not legendary, doesn’t enter with loyalty counters and is a 1/1 Bird creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>

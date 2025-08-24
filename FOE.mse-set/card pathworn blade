@@ -20,7 +20,6 @@ card:
 		magic-m15-mainframe-dfc:
 			corner: enchantment
 			corner_2: artifact
-	special_text: 
 	card_color_2: silver, artifact, horizontal
 	name: Pathworn Blade
 	name_2: Spirited Truth
@@ -56,3 +55,4 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text: 

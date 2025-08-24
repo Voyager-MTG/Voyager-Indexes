@@ -4,7 +4,6 @@ card:
 	notes: 
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2024-04-09 00:49:36
-	special_text: 
 	name: Smelt Corruption
 	casting_cost: 2RR
 	image: image61
@@ -32,3 +31,4 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text: 
