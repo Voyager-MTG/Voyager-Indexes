@@ -34,7 +34,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“We are to find <error-spelling:en_US>Phyrexia</error-spelling:en_US>, and as such, I shall appoint knights to the paths. Make certain your fury is known.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Multaph</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Multaph</error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 2

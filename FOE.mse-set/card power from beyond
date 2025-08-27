@@ -32,7 +32,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“We understand the forces we tap into. Pray we don’t show you.”<soft-line>
-		—<error-spelling:en_US>Zoslera</error-spelling:en_US>, <error-spelling:en_US>Mordel</error-spelling:en_US> <error-spelling:en_US>Clanleader</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Zoslera</error-spelling:en_US>, <error-spelling:en_US>Mordel</error-spelling:en_US> <error-spelling:en_US>Clanleader</soft-line></error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Tharindu (Tara) Rankoth

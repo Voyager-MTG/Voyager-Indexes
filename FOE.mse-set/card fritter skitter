@@ -40,7 +40,7 @@ card:
 		When this creature enters, it deals 3 damage to any target.
 	rule_text_2: <atom-name>This spell</atom-cardname> deals 3 damage to any target. <i-auto>(Then put this into your sanctum.)</i-auto>
 	rule_text_3: 
-	flavor_text: <i-flavor>“We should run.” —<error-spelling:en_US>Melodia</i-flavor></error-spelling:en_US>
+	flavor_text: <i-flavor>“We should run.” —<error-spelling:en_US>Melodia</error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 4

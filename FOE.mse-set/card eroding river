@@ -36,7 +36,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“Though filled with decay, I can sense new life sprouting here. What a new feeling.”<soft-line>
-		—<error-spelling:en_US>Najael</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Najael</soft-line></error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor>When the world split, some parts of <error-spelling:en_US>Vinimroth</error-spelling:en_US> were torn off and sent into the blind eternities, creating their own sanctums to be discovered.</i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 

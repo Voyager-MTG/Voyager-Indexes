@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <atom-name>This spell</atom-cardname> deals 5 damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target. Destroy all artifacts attached to that permanent.
+	rule_text: <atom-name>This spell</atom-cardname> deals 5 damage to any nonplayer target. Destroy all artifacts attached to that permanent.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“Heed my warning <error-spelling:en_US>Heng</error-spelling:en_US>,” said <error-spelling:en_US>Tezzeret</error-spelling:en_US>. “This is a relic of old <error-spelling:en_US>Phyrexia</error-spelling:en_US>. New <error-spelling:en_US>Phyrexia</error-spelling:en_US> does not die.”</i-flavor>

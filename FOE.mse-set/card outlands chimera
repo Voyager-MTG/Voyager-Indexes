@@ -26,7 +26,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“A while back, I met a peculiar creature deep in the <error-spelling:en_US>outlands</error-spelling:en_US>. I wonder, does it remember me?”<soft-line>
-		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Melodia</soft-line></error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 5

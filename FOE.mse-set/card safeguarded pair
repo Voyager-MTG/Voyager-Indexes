@@ -35,7 +35,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When this creature enters, prevent all damage that would be dealt to any other <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target this turn.
+		When this creature enters, prevent all damage that would be dealt to any other nonplayer target this turn.
 	rule_text_2: Return target creature card with mana value 3 or less from your graveyard to the battlefield. <i-auto>(Then put this into your sanctum.)</i-auto>
 	rule_text_3: 
 	flavor_text: <i-flavor>  </i-flavor>
