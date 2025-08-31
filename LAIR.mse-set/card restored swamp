@@ -17,6 +17,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
+		!designer TVP
 		!tapped<soft-line>
 		</soft-line>
 	time_created: 2022-05-26 21:49:52
@@ -29,7 +30,7 @@ card:
 	card_color: black, land
 	name: Restored Swamp
 	casting_cost: 
-	image: image27.png
+	image: image26
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

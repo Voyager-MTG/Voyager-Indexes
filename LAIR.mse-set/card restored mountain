@@ -16,7 +16,9 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !tapped
+	notes:
+		!designer TVP
+		!tapped
 	time_created: 2022-05-26 21:49:52
 	time_modified: 2025-08-18 23:58:25
 	extra_data:
@@ -27,7 +29,7 @@ card:
 	card_color: red, land
 	name: Restored Mountain
 	casting_cost: 
-	image: image26.png
+	image: image27
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

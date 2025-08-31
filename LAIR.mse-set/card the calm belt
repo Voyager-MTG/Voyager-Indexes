@@ -16,7 +16,7 @@ card:
 		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: 
+	notes: !designer TVP
 	time_created: 2024-04-03 01:39:14
 	time_modified: 2025-08-19 15:15:27
 	extra_data:
@@ -27,7 +27,7 @@ card:
 	name: The Calm Belt
 	alias: This card can start in your sanctum.                             
 	casting_cost: 1
-	image: image19.png
+	image: image20
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

@@ -7,7 +7,7 @@ card:
 		!tagis> champion
 		!designer Myr
 	time_created: 2024-02-09 05:59:32
-	time_modified: 2025-08-18 10:01:08
+	time_modified: 2025-08-31 15:16:52
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: Myr
@@ -25,7 +25,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		When <atom-cardname><nospellcheck>Identity Connoisseur</nospellcheck></atom-cardname> enters, target player discards a card.
-		Whenever a player discards a card with a creature type, you <kw-0><nospellcheck><key>embrace</key></nospellcheck></kw-0> it, and you may spend mana as though it was mana of any color to cast it. 
+		Whenever a player discards a card with a creature type, you <kw-0><i-auto><nospellcheck><key>embrace</key></nospellcheck></i-auto></kw-0> it, and you may spend mana as though it was mana of any color to cast it. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

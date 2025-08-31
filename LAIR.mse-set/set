@@ -19,7 +19,7 @@ styling:
 		overlay: 
 	magic-m15-altered-plus:
 		main_style: normal
-		other_options: auto nyx crowns
+		other_options: vorthos box
 		additional_options: 
 		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -54,6 +54,21 @@ include_file: card searing spire
 include_file: card silent spire
 include_file: card twisted spire
 include_file: card verdant spire
+include_file: card true blood of saint janus
+include_file: card the heart of ischav
+include_file: card found family
+include_file: card delete
+include_file: card the calm belt
+include_file: card wanderers shrine
+include_file: card falling sparks
+include_file: card sundown
+include_file: card restored plains
+include_file: card restored island
+include_file: card restored swamp
+include_file: card restored mountain
+include_file: card restored fault
+include_file: card restored forest
+include_file: card call of the rose
 version_control:
 	type: none
 apprentice_code: 
