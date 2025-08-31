@@ -27,7 +27,7 @@ card:
 		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Impaling Lance</nospellcheck></atom-cardname> deals 2 damage to target attacking or blocking creature.</li>
 	flavor_text:
 		<i-flavor>“They enter our lands, stomping on our soil, yet expect us to bow?”<soft-line>
-		—<error-spelling:en_US>Ranulf</error-spelling:en_US> <error-spelling:en_US>Sapner</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Ranulf</error-spelling:en_US> <error-spelling:en_US>Sapner</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Grafit Studio
 	card_code_text: 
 	card_code_text_2: 

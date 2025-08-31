@@ -14,11 +14,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: she/her
-	special_text:
-		Tap two untapped creatures you control: <atom-legname><nospellcheck>Manuela</nospellcheck></atom-legname> becomes a 5/5 Avatar enchantment creature with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. Activate only as a sorcery.
-		[+1]: <margin:130:0:0>Put your choice of a +1/+1 counter or a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> counter on up to one target creature.</margin:130:0:0>
-		[-2]: <margin:130:0:0>Exile target nonland permanent. Its owner may cast it without paying its mana cost on a later turn as long as it remains exiled.</margin:130:0:0>
-		[-5]: <margin:130:0:0>Draw three cards, then discard a card.</margin:130:0:0>
 	name: Manuela, the Known
 	casting_cost: URW
 	image: image146
@@ -44,3 +39,8 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		Tap two untapped creatures you control: <atom-legname><nospellcheck>Manuela</nospellcheck></atom-legname> becomes a 5/5 Avatar enchantment creature with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. Activate only as a sorcery.
+		[+1]: <margin:130:0:0>Put your choice of a +1/+1 counter or a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> counter on up to one target creature.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Exile target nonland permanent. Its owner may cast it without paying its mana cost on a later turn as long as it remains exiled.</margin:130:0:0>
+		[-5]: <margin:130:0:0>Draw three cards, then discard a card.</margin:130:0:0>

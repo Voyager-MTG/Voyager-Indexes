@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes:
@@ -18,7 +18,7 @@ card:
 	rule_text: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. For each card milled this way, you may pay 2 life. If you do, put that card into your hand.
 	flavor_text:
 		<i-flavor>“Such defilement on such a pristine <error-spelling:en_US>armageddon</error-spelling:en_US>. Come, engine. Take your revenge!”<soft-line>
-		—<error-spelling:en_US>Prawth</error-spelling:en_US>, Planar <error-spelling:en_US>Decimator</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Prawth</error-spelling:en_US>, Planar <error-spelling:en_US>Decimator</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Caleb Worcester
 	card_code_text: 
 	card_code_text_2: 

@@ -1,7 +1,5 @@
 ﻿mse_version: 2.5.8
 card:
-	stylesheet: m15-paradox
-	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes:
 		Noncreature; 2-6
@@ -24,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. When you do, return target land card from your graveyard to the battlefield tapped.
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Overcoalesce</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <sym>6GU</sym> <i-auto>(You may cast this from your graveyard for <sym>6GU</sym>. If you do, change its text by replacing all instances of ‘<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>target’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with ‘<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>each’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. It enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto>
+		Overcoalesce <sym>6GU</sym> <i-auto>(You may cast this from your graveyard for <sym>6GU</sym>. If you do, change its text by replacing all instances of ‘target’ with ‘each’. It enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5

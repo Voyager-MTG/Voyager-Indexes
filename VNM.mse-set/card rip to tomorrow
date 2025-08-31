@@ -34,7 +34,7 @@ card:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
 		<sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Trace <param-name>a Voidstone Shard into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
-		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Voidstone</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Shard</b> <sym>2</sym>|<i>Enchantment</i><soft-line>
+		<b>Voidstone Shard</b> <sym>2</sym>|<i>Enchantment</i><soft-line>
 		</soft-line>When this enchantment enters, <kw-a><nospellcheck><key>scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>.
 	rule_text_2: 
 	rule_text_3: 

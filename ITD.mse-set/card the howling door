@@ -5,7 +5,7 @@ card:
 		reprint
 		https://www.deviantart.com/abeardedartist/art/Untitled-1110201842
 	time_created: 2024-10-18 15:57:35
-	time_modified: 2025-04-15 08:44:33
+	time_modified: 2025-08-30 06:03:58
 	name: The Howling Door
 	casting_cost: 4
 	image: image46
@@ -22,7 +22,7 @@ card:
 	rule_text:
 		You may look at the top card of your library any time.
 		You may cast artifact spells and colorless spells from the top of your library.
-		Put a burden counter on The Howling Door: You lose 1 life for each burden counter on The Howling Door. <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
+		<sym-auto>1</sym-auto>, Put a burden counter on The Howling Door: You lose 1 life for each burden counter on The Howling Door. <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>It takes more and more before it gives back.</i-flavor>
 	illustrator: ABeardedArtist
 	card_code_text: 

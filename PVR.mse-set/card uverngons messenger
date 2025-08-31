@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes:
@@ -20,7 +20,7 @@ card:
 		<atom-cardname><nospellcheck>Uverngon’s Messenger</nospellcheck></atom-cardname> gets +1/+1 and has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as a spell or ability put a nontoken card into your hand this turn.
 	flavor_text:
 		<i-flavor>“The <error-spelling:en_US>Quintarchy</error-spelling:en_US> rejects your warnings. They are too steeped in power to step down.”<soft-line>
-		—From <error-spelling:en_US>Uverngon</error-spelling:en_US>, to <error-spelling:en_US>Anivir</soft-line></i-flavor></error-spelling:en_US>
+		—From <error-spelling:en_US>Uverngon</error-spelling:en_US>, to <error-spelling:en_US>Anivir</soft-line></error-spelling:en_US></i-flavor>
 	power: 2
 	toughness: 2
 	illustrator: PULSAR BYTES

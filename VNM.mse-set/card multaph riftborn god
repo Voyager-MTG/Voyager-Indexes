@@ -35,8 +35,8 @@ card:
 	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elk</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>God</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Multaph</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, <kw-A><nospellcheck><key>trace <param-name>another target enchantment with mana value 4 or greater into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
-		<sym-auto>1IUB</sym-auto>, Exile two non-Elk enchantments you control: Return <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Multaph</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> from your graveyard to the battlefield tapped.
+		When Multaph enters, <kw-A><nospellcheck><key>trace <param-name>another target enchantment with mana value 4 or greater into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>1IUB</sym-auto>, Exile two non-Elk enchantments you control: Return Multaph from your graveyard to the battlefield tapped.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	power: 3

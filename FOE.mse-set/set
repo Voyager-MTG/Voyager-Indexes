@@ -30,6 +30,10 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-dfc-plus:
+		official_frames: evobar (front)
+		altered_plus_frames: frontier (front), frontier (back)
+		apply_custom_fonts: yes
+		custom_type_font: ;;white
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -214,7 +218,6 @@ include_file: card mordel spiritcaller
 include_file: card ignelscor frontliner
 include_file: card promise of hunger
 include_file: card balutr runners
-include_file: card sanctum reminder
 include_file: card drake mentor
 include_file: card boundless flight
 include_file: card upsurge nemato-gnathi
@@ -501,7 +504,7 @@ include_file: card shivta vinimroths blade
 include_file: card flying counter
 include_file: card tangled heart
 include_file: card numa on hopes trail
-include_file: card goat token
+include_file: card goat
 include_file: card carrigol tender
 include_file: card heron drake
 include_file: card reid unrelenting dias

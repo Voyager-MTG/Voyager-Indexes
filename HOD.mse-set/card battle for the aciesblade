@@ -28,7 +28,7 @@ card:
 		</li><li><bullet>• </bullet>Target creature gets +2/+2 and gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.</li>
 	flavor_text:
 		<i-flavor>“You would oppose the <error-spelling:en_US>Instisuyu</error-spelling:en_US>, <error-spelling:en_US>Marilye</error-spelling:en_US>? Then you oppose a glorious empire.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Capac</error-spelling:en_US> <error-spelling:en_US>Suyay</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Capac</error-spelling:en_US> <error-spelling:en_US>Suyay</error-spelling:en_US></i-flavor>
 	illustrator: Kikicianjur
 	additional_credit: gynoidpoet
 	additional_credit_brush: flavor

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes:
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Monkey</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Felygon</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Sentinel enters, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto>
+		When Felygon Sentinel enters, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto>
 		Activated abilities of nonland permanents cost <sym-auto>1</sym-auto> more to activate.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

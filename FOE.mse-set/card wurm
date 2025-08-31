@@ -10,6 +10,7 @@ card:
 	notes:
 		!related Bosket Peak;Warforged Pair;Encouraging Passage;
 		Wurm-01
+		!exportname Red Wurm
 	time_created: 2022-09-01 19:04:02
 	time_modified: 2024-02-13 18:32:51
 	card_color: red

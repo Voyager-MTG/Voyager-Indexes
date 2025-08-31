@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		additional_options: half frameless art, center name
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: Hopeless
+	time_created: 2025-02-23 01:28:35
+	time_modified: 2025-08-29 18:45:27
+	card_trim: frameless art
+	name: Wall
+	image: image186
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wall</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-1><nospellcheck><key>Defender</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can’t attack.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 3
+	illustrator: Andreas Rocha
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: TVP
+	copyright_2: TVP
+	copyright_3: TVP

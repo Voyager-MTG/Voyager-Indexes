@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		This spell costs <sym-auto>1</sym-auto> less to cast for each instant and sorcery card in your graveyard.
-		When <atom-cardname><nospellcheck>Starsea Leviathan</nospellcheck></atom-cardname> enters, you may <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>. If you don’t, draw a card. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card you own from your <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sancum</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and put it into your hand.)</i-auto>
+		When <atom-cardname><nospellcheck>Starsea Leviathan</nospellcheck></atom-cardname> enters, you may <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>. If you don’t, draw a card. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card you own from your sancum and put it into your hand.)</i-auto>
 	flavor_text: <i-flavor>“I am of the first world visited by the Wonderlands, centuries ago. It has confided in me.”</i-flavor>
 	power: 5
 	toughness: 5

@@ -30,8 +30,8 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		Whenever Pinnacle of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Vinimroth</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters or you attack,  <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever you cast a skill, Pinnacle of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Vinimroth</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 1 damage to each opponent.
+		Whenever Pinnacle of Vinimroth enters or you attack,  <kw-A><nospellcheck><key>trace <param-name>its skill into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you cast a skill, Pinnacle of Vinimroth deals 1 damage to each opponent.
 		<b>In the Moment</b> <sym>1R</sym>|<i> </i><u>Skill Sorcery<soft-line>
 		</u>Exile the top card of your library. You may play it this turn.</soft-line>
 	flavor_text: <i-flavor></i-flavor>

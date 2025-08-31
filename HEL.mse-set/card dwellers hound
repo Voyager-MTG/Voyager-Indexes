@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: https://www.deviantart.com/morkardfc/art/Cerberus-Rise-of-Titans-616307887
@@ -19,7 +19,7 @@ card:
 		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“I am no stranger to strange, friend. I’d gladly trade secrets with another artisan.”<soft-line>
-		—Undue to <error-spelling:en_US>Anord</error-spelling:en_US>, the Mad <error-spelling:en_US>Lich</soft-line></i-flavor></error-spelling:en_US>
+		—Undue to <error-spelling:en_US>Anord</error-spelling:en_US>, the Mad <error-spelling:en_US>Lich</soft-line></error-spelling:en_US></i-flavor>
 	power: 1
 	toughness: 3
 	illustrator: MorkarDFC

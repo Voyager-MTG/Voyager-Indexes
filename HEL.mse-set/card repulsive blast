@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: https://www.deviantart.com/thomas-elliott-art/art/Morathi-ascension-861917433
@@ -18,7 +18,7 @@ card:
 		<atom-cardname><nospellcheck>Repulsive Blast</nospellcheck></atom-cardname> deals 3 damage to each creature. You gain 3 life.
 	flavor_text:
 		<i-flavor>“No more chains!”<soft-line>
-		—Rebuke of <error-spelling:en_US>Bloodlord</error-spelling:en_US> <error-spelling:en_US>Kinnamon</soft-line></i-flavor></error-spelling:en_US>
+		—Rebuke of <error-spelling:en_US>Bloodlord</error-spelling:en_US> <error-spelling:en_US>Kinnamon</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Thomas_Elliott-Art
 	card_code_text: 
 	card_code_text_2: 

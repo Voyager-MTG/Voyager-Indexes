@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -16,10 +16,6 @@ card:
 		hate piece/counters
 	time_created: 2024-07-30 21:20:48
 	time_modified: 2025-07-03 12:40:24
-	special_text:
-		[+1]: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>. You gain 2 life.</margin:130:0:0>
-		[-2]: <margin:130:0:0>Exile target nonland permanent with mana value 2 or less.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Create a green Skeleton Horse creature token. It has “This creature’s power and toughness are each equal to the number of creature cards and/or planeswalker cards in your graveyard”.</margin:130:0:0>
 	name: Undue, Death Devourer
 	casting_cost: 1WBG
 	image: image724
@@ -46,3 +42,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		[+1]: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>. You gain 2 life.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Exile target nonland permanent with mana value 2 or less.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Create a green Skeleton Horse creature token. It has “This creature’s power and toughness are each equal to the number of creature cards and/or planeswalker cards in your graveyard”.</margin:130:0:0>

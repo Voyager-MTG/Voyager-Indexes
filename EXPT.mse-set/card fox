@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !related Kindred Spirits;
+	time_created: 2025-03-10 14:22:39
+	time_modified: 2025-08-29 18:45:39
+	card_color: white
+	name: Fox
+	image: image10.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fox</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	power: 0
+	toughness: 2
+	illustrator: Alector Fencer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

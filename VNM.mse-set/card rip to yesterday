@@ -26,7 +26,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“Ages ago, after <error-spelling:en_US>Urza’s</error-spelling:en_US> actions tore the plane, the inhabitants created a reflection of him, his malice, and the gods, all completely unaware of the fact they’d done it at all.”<soft-line>
-		—</i>History of <error-spelling:en_US>Vinimroth<i></error-spelling:en_US>, written by <error-spelling:en_US>Korna</soft-line></i-flavor></error-spelling:en_US>
+		—</i>History of <error-spelling:en_US>Vinimroth<i></error-spelling:en_US>, written by <error-spelling:en_US>Korna</soft-line></error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Giorgio Grecu

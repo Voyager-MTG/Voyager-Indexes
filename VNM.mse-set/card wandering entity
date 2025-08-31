@@ -21,7 +21,7 @@ card:
 	rarity: common
 	rule_text:
 		Whenever <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> attacks, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.
-		<kw-A><nospellcheck><key>Materialize <param-number>1</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>1</param-number> or more: This also becomes an Icon creature until end of turn.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Materialize <param-number>1</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>1</param-number> or more: This also becomes an Icon creature until your next upkeep.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Icons begin their life as entities, choosing a form given what they’ve first seen upon their birth. If one isn’t available, they default to cats.              </i-flavor>

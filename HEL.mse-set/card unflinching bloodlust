@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: https://www.deviantart.com/encreate/art/Dragon-Witch-913641712
@@ -17,7 +17,7 @@ card:
 	rule_text: Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on that creature.
 	flavor_text:
 		<i-flavor>“I must say, crimson suits you <error-spelling:en_US>Sorin</error-spelling:en_US>.”<soft-line>
-		</soft-line><soft-line>—<error-spelling:en_US>Bloodlord</error-spelling:en_US> <error-spelling:en_US>Kinnamon</soft-line></i-flavor></error-spelling:en_US>
+		</soft-line><soft-line>—<error-spelling:en_US>Bloodlord</error-spelling:en_US> <error-spelling:en_US>Kinnamon</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Encreate
 	card_code_text: 
 	card_code_text_2: 

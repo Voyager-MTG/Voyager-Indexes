@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/sanskarans/art/Gate-1110562193
 	time_created: 2024-10-17 19:05:32
-	time_modified: 2024-10-23 00:46:00
+	time_modified: 2025-08-30 06:01:20
 	name: Gravewalking
 	casting_cost: 1B
 	image: image163
@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		When this enchantment enters, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		When this enchantment enters, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		<sym-auto>B</sym-auto>, Discard a creature card: Choose target creature card in your graveyard. You may cast it this turn. Creatures cast this way enter with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on them.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sanskarans

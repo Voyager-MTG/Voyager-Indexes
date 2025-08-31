@@ -41,7 +41,7 @@ include_file: card branching grotto
 include_file: card citadel chapel
 include_file: card citadel observatory
 include_file: card underholt gateway
-include_file: card dragon token
+include_file: card dragon
 include_file: card forest
 include_file: card island
 include_file: card megaflora floodplain
@@ -70,7 +70,7 @@ include_file: card the holt
 include_file: card the skyview
 include_file: card the starsea
 include_file: card wanderers shrine
-include_file: card wonder archon token
+include_file: card wonder archon
 include_file: card ambling myceliad
 include_file: card ancient viewdrifter
 include_file: card arrival of the wonderlands
@@ -147,7 +147,7 @@ include_file: card wish for peace
 include_file: card amarell new tensuo elder
 include_file: card antlerweaver
 include_file: card anything and everything
-include_file: card beast token
+include_file: card beast
 include_file: card blinding majesty
 include_file: card blossoming conscience
 include_file: card brazen confidence
@@ -158,7 +158,7 @@ include_file: card cloudeater drake
 include_file: card copy
 include_file: card crafty cutthroat
 include_file: card declivity
-include_file: card demon token
+include_file: card demon
 include_file: card earthen curiosity
 include_file: card epitaph hermit
 include_file: card etchings on the citadel walls
@@ -205,7 +205,7 @@ include_file: card wave of wisps
 include_file: card wish for discord
 include_file: card wishtouched outcast
 include_file: card wonder road
-include_file: card wonder token
+include_file: card wonder
 include_file: card worldsoul phoenix
 include_file: card worldsoul song
 include_file: card worldsouls sorrow

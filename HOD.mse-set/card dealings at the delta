@@ -23,7 +23,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		Choose one —
-		<li><bullet>• </bullet>Create Diamond of the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nye</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, a legendary 2/1 blue Human Pirate with “This creature can’t be blocked.”
+		<li><bullet>• </bullet>Create Diamond of the Nye, a legendary 2/1 blue Human Pirate with “This creature can’t be blocked.”
 		</li><li><bullet>• </bullet>Draw two cards, then discard a card.</li>
 	flavor_text: <i-flavor>“Only at the Delta can you be assured to get imperfect information for the highest cost.”</i-flavor>
 	illustrator: 88grzes

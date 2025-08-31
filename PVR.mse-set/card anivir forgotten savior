@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -17,11 +17,6 @@ card:
 		OTHERRARE
 	time_created: 2021-10-10 04:09:00
 	time_modified: 2023-03-12 09:36:30
-	special_text:
-		Whenever your <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> is three or greater, put two loyalty counters on <atom-legname><nospellcheck>Anivir</nospellcheck></atom-legname>. This ability triggers only once each turn.
-		[0]: <margin:130:0:0>Until your next turn, another target permanent gains “<sym-auto>T</sym-auto>: Draw a card.”</margin:130:0:0>
-		[-3]: <margin:130:0:0>Create two 1/1 Fractal Reflection creature tokens with “<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.”</margin:130:0:0>
-		[-8]: <margin:130:0:0>Until end of turn, permanents you control gain “<sym-auto>T</sym-auto>: Each opponent <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>six</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.”</margin:130:0:0>
 	card_color: blue, green, multicolor, horizontal
 	name: Anivir, Forgotten Savior
 	casting_cost: 2GU
@@ -47,3 +42,8 @@ card:
 	copyright: Utahra
 	copyright_2: Utahra
 	copyright_3: Utahra
+	special_text:
+		Whenever your <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> is three or greater, put two loyalty counters on <atom-legname><nospellcheck>Anivir</nospellcheck></atom-legname>. This ability triggers only once each turn.
+		[0]: <margin:130:0:0>Until your next turn, another target permanent gains “<sym-auto>T</sym-auto>: Draw a card.”</margin:130:0:0>
+		[-3]: <margin:130:0:0>Create two 1/1 Fractal Reflection creature tokens with “<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.”</margin:130:0:0>
+		[-8]: <margin:130:0:0>Until end of turn, permanents you control gain “<sym-auto>T</sym-auto>: Each opponent <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>six</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.”</margin:130:0:0>

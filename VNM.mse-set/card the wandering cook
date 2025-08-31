@@ -7,7 +7,6 @@ card:
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: They/Them
-	special_text: 
 	name: The Wandering Cook
 	casting_cost: 2I
 	image: image95
@@ -35,3 +34,4 @@ card:
 	copyright: Set by Tvpattack
 	copyright_2: Set by Tvpattack
 	copyright_3: Set by Tvpattack
+	special_text: 

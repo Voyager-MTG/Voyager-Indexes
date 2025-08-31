@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: https://es.pinterest.com/pin/412783122110307933/
 	time_created: 2024-08-30 12:30:03
-	time_modified: 2025-07-25 10:17:05
+	time_modified: 2025-08-30 06:01:42
 	name: Necromantic Overspill
-	casting_cost: 1BB
+	casting_cost: 2B
 	image: image32
 	image_2: 
 	mainframe_image: 
@@ -13,7 +13,9 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Return target creature or planeswalker card with mana value 5 or less from your graveyard to the battlefield. If that card has mana value less than </sym>5<sym>, mill a number of cards equal to the difference.
+	rule_text:
+		As an additional cost to cast <atom-cardname><nospellcheck>Necromantic Overspill</nospellcheck></atom-cardname>, pay <sym-auto>2</sym-auto> or sacrifice a creature.
+		Return target creature or planeswalker card with mana value 5 or less from your graveyard to the battlefield. If that card has mana value less than </sym>5<sym>, mill a number of cards equal to the difference.
 	flavor_text: <i-flavor>Lies and bodies fester beneath the surface.</i-flavor>
 	illustrator: Dan Seagrave
 	card_code_text: 

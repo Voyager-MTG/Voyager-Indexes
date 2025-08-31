@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: https://www.deviantart.com/theboyofcheese/art/Power-of-the-Divines-606947634
@@ -16,7 +16,7 @@ card:
 	rule_text: Each player sacrifices a creature. If you sacrificed a creature this way, create a token that’s a copy of it.
 	flavor_text:
 		<i-flavor>“Your playthings are quite intriguing, but I think I will show off some of my own.”<soft-line>
-		</soft-line><soft-line>—<error-spelling:en_US>Demonlord</error-spelling:en_US> <error-spelling:en_US>Orbisfaber</soft-line></i-flavor></error-spelling:en_US>
+		</soft-line><soft-line>—<error-spelling:en_US>Demonlord</error-spelling:en_US> <error-spelling:en_US>Orbisfaber</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: MattCowdery
 	card_code_text: 
 	card_code_text_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: https://www.deviantart.com/lavam00/art/Reign-of-fier-720550844
@@ -20,7 +20,7 @@ card:
 		</li><li><bullet>• </bullet>Discard a card. If it was a land card, draw two cards.</li>
 	flavor_text:
 		<i-flavor>“Your castle shall glow in the most gorgeous shades of brimstone my sweet.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Zeramander</error-spelling:en_US> to <error-spelling:en_US>Kinnamon</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Zeramander</error-spelling:en_US> to <error-spelling:en_US>Kinnamon</error-spelling:en_US></i-flavor>
 	illustrator: lavam00
 	card_code_text: 
 	card_code_text_2: 

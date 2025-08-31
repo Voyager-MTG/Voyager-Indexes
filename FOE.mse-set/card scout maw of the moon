@@ -16,7 +16,7 @@ card:
 		Verdant
 		!backname Mangriel Precipice
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2025-06-14 16:24:19
+	time_modified: 2025-08-30 05:49:43
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -47,7 +47,7 @@ card:
 		<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
 		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, other creatures you control get +1/+0 until end of turn.
 	rule_text_2:
-		As this land enters, you may pay 3 life. If you don’t, it enters tapped.
+		<atom-name>This land</atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.
 		<sym-auto>3RRR</sym-auto>: Transform this land until end of turn.
 	rule_text_3: 

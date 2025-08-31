@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/Yevb3
@@ -25,7 +25,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“Ugh, now the hills are throwing up bones on visitors. I swear this place gets worse each time I visit.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Davriel</error-spelling:en_US>, <error-spelling:en_US>Pactmaker</error-spelling:en_US> of <error-spelling:en_US>Hwel</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Davriel</error-spelling:en_US>, <error-spelling:en_US>Pactmaker</error-spelling:en_US> of <error-spelling:en_US>Hwel</error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 4

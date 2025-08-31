@@ -12,7 +12,7 @@ card:
 		
 		Maybe the zero is a -1
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-19 23:10:22
+	time_modified: 2025-08-30 05:58:46
 	name: Zoslera, Exiled Visionary
 	casting_cost: 2RG
 	image: image364
@@ -37,7 +37,7 @@ card:
 	loyalty_cost_4: -6
 	loyalty: 3
 	level_1_text: Creatures you control may assign combat damage as though they weren’t blocked.
-	level_2_text: <margin:130:0:0>Exile the top card of your library. During any turn you attacked, you may play that card.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Exile the top card of your library. Until end of turn, you may play that card.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Target creature you control fights target creature you don’t control.</margin:130:0:0>
 	level_4_text: <margin:130:0:0>Create Law of Nature, a legendary artifact token with <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> and “Creatures you control get +2/+2 and have <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>vigilance</key></nospellcheck></kw-0>, and <kw-0><nospellcheck><key>first strike</key></nospellcheck></kw-0>.”</margin:130:0:0>
 	level_5_text: 
@@ -50,6 +50,6 @@ card:
 	copyright_3: 
 	special_text:
 		Creatures you control may assign combat damage as though they weren’t blocked.
-		[+2]: <margin:130:0:0>Exile the top card of your library. During any turn you attacked, you may play that card.</margin:130:0:0>
+		[+2]: <margin:130:0:0>Exile the top card of your library. Until end of turn, you may play that card.</margin:130:0:0>
 		[+1]: <margin:130:0:0>Target creature you control fights target creature you don’t control.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Create Law of Nature, a legendary artifact token with <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> and “Creatures you control get +2/+2 and have <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>vigilance</key></nospellcheck></kw-0>, and <kw-0><nospellcheck><key>first strike</key></nospellcheck></kw-0>.”</margin:130:0:0>

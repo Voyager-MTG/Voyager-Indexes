@@ -1,13 +1,13 @@
 ﻿mse_version: 2.5.8
 card:
-	stylesheet: m15-mainframe-dfc
+	stylesheet: m15-mainframe-dfc-plus
 	stylesheet_version: 2024-09-06
 	has_styling: false
 	notes:
 		!related Restful Clearingattach>;
 		!addtoken Restful Clearing;transform;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-14 15:56:03
+	time_modified: 2025-08-30 05:55:18
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -30,8 +30,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		When this realm enters and whenever you attack with a nontoken creature, create a 1/1 white and silver Insect creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
-		<sym-auto>1WW</sym-auto>: Transform this realm.
+		When this realm enters and whenever you attack with one or more nontoken creatures, create a 1/1 white and silver Insect creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>2WW</sym-auto>: Transform this realm.
 	rule_text_2: During your turn, creatures you control lose <kw-A><nospellcheck><key>decayed</key></nospellcheck> and get +1/+1.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

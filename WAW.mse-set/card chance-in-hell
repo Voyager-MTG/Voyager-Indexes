@@ -16,10 +16,6 @@ card:
 	notes: 
 	time_created: 2025-01-21 12:57:48
 	time_modified: 2025-03-05 22:51:23
-	special_text_2:
-		[-1]: <margin:130:0:0>Each opponent loses 3 life, discards a card, and sacrifices a nonland permanent.</margin:130:0:0>
-		[-X]: <margin:130:0:0>Exile target card from a graveyard with mana value X. You may cast a copy of that card without paying its mana cost.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Look at the top six cards of your library. Put up to three of them into your hand and the rest into your graveyard.</margin:130:0:0>
 	card_color_2: blue, black, red, multicolor, horizontal
 	name: Chance-in-Hell
 	name_2: Wish for a Spark
@@ -65,3 +61,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright_2: she/her
+	special_text_2:
+		[-1]: <margin:130:0:0>Each opponent loses 3 life, discards a card, and sacrifices a nonland permanent.</margin:130:0:0>
+		[-X]: <margin:130:0:0>Exile target card from a graveyard with mana value X. You may cast a copy of that card without paying its mana cost.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Look at the top six cards of your library. Put up to three of them into your hand and the rest into your graveyard.</margin:130:0:0>

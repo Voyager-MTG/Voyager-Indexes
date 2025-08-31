@@ -8,6 +8,7 @@ card:
 		hybrid_name: hybrid
 		d20_dividers: d20 mode
 		other_options: auto familiars, auto nyx crowns, auto star crowns, auto space crowns
+		additional_options: 
 		font_cap: 13.5
 		use_holofoil_stamps: no
 		inverted_common_symbol: no
@@ -19,7 +20,7 @@ card:
 		Cat Token
 		Preview
 	time_created: 2022-02-10 23:19:36
-	time_modified: 2023-11-13 01:13:49
+	time_modified: 2025-08-29 19:04:51
 	card_color: white, black, hybrid, horizontal
 	name: Cat Token
 	image: image6

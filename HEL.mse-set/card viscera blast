@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes:
@@ -22,7 +22,7 @@ card:
 		<atom-cardname><nospellcheck>Viscera Blast</nospellcheck></atom-cardname> deals X damage to target player and up to one target creature that player controls.
 	flavor_text:
 		<i-flavor>“I always detested this method. There is not a trace left to reuse later.”<soft-line>
-		—Undue, Necrotic <error-spelling:en_US>Devourer</soft-line></i-flavor></error-spelling:en_US>
+		—Undue, Necrotic <error-spelling:en_US>Devourer</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Homonculus911
 	card_code_text: 
 	card_code_text_2: 

@@ -19,7 +19,7 @@ card:
 	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>. <atom-cardname><nospellcheck>Castle of Shrouded Coasts</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
 	flavor_text:
 		<i-flavor>“My House is one of bounties and gold.”<soft-line>
-		</soft-line><soft-line>—Elias <error-spelling:en_US>Plaskett</soft-line></i-flavor></error-spelling:en_US>
+		</soft-line><soft-line>—Elias <error-spelling:en_US>Plaskett</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Norbert Varga
 	card_code_text: 
 	card_code_text_2: 

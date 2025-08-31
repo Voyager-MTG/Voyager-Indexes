@@ -22,7 +22,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		Discard a land card, Pay 1 life: Draw a card.
-		<kw-A><nospellcheck><key>Ploy</key></nospellcheck> —<atom-cardname><nospellcheck>New Tensuo Collaborator</nospellcheck></atom-cardname> deals X damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target, where X is the number of land cards in your graveyard.<atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Ploy</key></nospellcheck> —<atom-cardname><nospellcheck>New Tensuo Collaborator</nospellcheck></atom-cardname> deals X damage to any nonplayer target, where X is the number of land cards in your graveyard.<atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>Chance-in-Hell was not alone in wanting the <error-spelling:en_US>Tensu</error-spelling:en_US> elders gone.</i-flavor>
 	power: 6
 	toughness: 5

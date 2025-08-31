@@ -5,7 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
-		chop_bottom: 12
+		chop_bottom: 8
 		d20_dividers: d20 mode
 		font_cap: 
 		popout_image_style: 
@@ -15,9 +15,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2024-02-06 01:56:27
-	time_modified: 2024-11-02 22:11:01
+	time_modified: 2025-08-30 05:52:58
 	name: Meirel Pathrunner
-	casting_cost: 4UB
+	casting_cost: 2UB
 	casting_cost_2: 
 	image: image179
 	image_2: 
@@ -28,15 +28,15 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When this creature enters, <kw-0><nospellcheck><key>surveil <param-number>3</param-number></key></nospellcheck></kw-0>.
-		<kw-0><i-auto><nospellcheck><key>Threshold</key></nospellcheck></i-auto></kw-0> — As long as there are seven or more cards in your graveyard, this creature gets +3/+3.
+		When this creature enters, if you cast it, <kw-0><nospellcheck><key>surveil <param-number>3</param-number></key></nospellcheck></kw-0>.
+		<kw-0><i-auto><nospellcheck><key>Threshold</key></nospellcheck></i-auto></kw-0> — As long as there are seven or more cards in your graveyard, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> can’t be clocked..
 		<kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>1U/B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
-	power: 4
+	power: 2
 	power_2: 
-	toughness: 4
+	toughness: 2
 	toughness_2: 
 	illustrator: Jay Axer
 	card_code_text: 

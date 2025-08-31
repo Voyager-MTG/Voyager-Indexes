@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -15,15 +15,6 @@ card:
 		BLACKRARE
 	time_created: 2023-03-12 05:12:25
 	time_modified: 2025-07-24 20:24:48
-	special_text:
-		
-		<i-auto>(This spell gains effects based on the sources of mana spent to cast it.)</i-auto>
-		I — Land — <soft-line>
-		<atom-cardname><nospellcheck>Occult Occlusion</nospellcheck></atom-cardname> deals 3 damage to target player and you gain 3 life.</soft-line>
-		II — Artifact — <soft-line>
-		Target player draws two cards and loses 2 life.</soft-line>
-		III — Instant —<soft-line>
-		Target player sacrifices a nontoken creature or enchantment.</soft-line>
 	card_color: black
 	name: Occult Occlusion
 	casting_cost: 2B
@@ -54,3 +45,12 @@ card:
 	copyright: Utaha
 	copyright_2: Utaha
 	copyright_3: Utaha
+	special_text:
+		
+		<i-auto>(This spell gains effects based on the sources of mana spent to cast it.)</i-auto>
+		I — Land — <soft-line>
+		<atom-cardname><nospellcheck>Occult Occlusion</nospellcheck></atom-cardname> deals 3 damage to target player and you gain 3 life.</soft-line>
+		II — Artifact — <soft-line>
+		Target player draws two cards and loses 2 life.</soft-line>
+		III — Instant —<soft-line>
+		Target player sacrifices a nontoken creature or enchantment.</soft-line>

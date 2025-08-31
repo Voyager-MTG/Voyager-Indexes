@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes:
@@ -20,7 +20,7 @@ card:
 		<sym-auto>T</sym-auto>: Target player draws a card, then discards a card.
 	flavor_text:
 		<i-flavor>“It’s been four months. Return my eggs.”<soft-line>
-		—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, to <error-spelling:en_US>Nurbs</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, to <error-spelling:en_US>Nurbs</soft-line></error-spelling:en_US></i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: Adam Midzuk

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
@@ -24,7 +24,7 @@ card:
 	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: rare
 	rule_text:
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Harsurfir</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters tapped.
+		Harsurfir enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.
 		<sym-auto>1RR</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a permanent: Create a token that’s a copy of that permanent. It has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and “At the beginning of the end step, exile this permanent.” Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>

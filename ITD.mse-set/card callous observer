@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: ducky
 	time_created: 2024-10-01 16:14:54
-	time_modified: 2025-01-20 22:21:10
+	time_modified: 2025-08-30 06:02:57
 	name: Callous Observer
 	casting_cost: 1BR
 	image: image45
@@ -18,8 +18,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		As this creature enters, you may exile any number of instant or sorcery cards from your graveyard. It enters with that many +1/+1 counters.
 		Whenever this creature attacks, conjure a card named Drain into your hand. <i-auto>(It’s a <sym>B</sym> sorcery with “Target opponent loses 1 life and you gain 1 life.”)</i-auto>
-		This creature gets +1/+1 for each instant and sorcery card in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

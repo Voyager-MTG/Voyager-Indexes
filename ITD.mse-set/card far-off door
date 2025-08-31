@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-08-29 18:53:59
-	time_modified: 2025-01-27 11:55:10
+	time_modified: 2025-08-30 06:03:49
 	name: Far-off Door
 	casting_cost: 3
 	image: image58
@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>Far-off Door</nospellcheck></atom-cardname> enters, search your library for a planeswalker card, reveal it, put it into your hand, then shuffle.
-		<atom-cardname><nospellcheck>Far-off Door</nospellcheck></atom-cardname> has all loyalty abilities of nonartifact permanents you control.
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: You may activate a loyalty ability of target permanent you control an additional time this turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Andreea Dumuta
 	card_code_text: 

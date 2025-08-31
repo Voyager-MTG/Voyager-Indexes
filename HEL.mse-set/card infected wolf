@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/mD5Qye
@@ -18,7 +18,7 @@ card:
 		Whenever this creature deals combat damage to a player, if it doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.
 	flavor_text:
 		<i-flavor>“A bit more flesh than I would like, but a marvelous specimen for the collection.”<soft-line>
-		—<error-spelling:en_US>Undue’s</error-spelling:en_US> Journey through <error-spelling:en_US>Hwel</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Undue’s</error-spelling:en_US> Journey through <error-spelling:en_US>Hwel</soft-line></error-spelling:en_US></i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: Mariya S

@@ -441,13 +441,13 @@ include_file: card in the moment
 include_file: card reshape will
 include_file: card readied assault
 include_file: card military training
-include_file: card white drake token
-include_file: card icebound reinforcements token
+include_file: card drake
+include_file: card icebound reinforcements.1
 include_file: card luminous
 include_file: card breaking the mold
 include_file: card cat token
 include_file: card warped exploration
-include_file: card blue drake token
+include_file: card drake.1
 include_file: card plains
 include_file: card island
 include_file: card swamp
@@ -583,12 +583,12 @@ include_file: card splendid genesis
 include_file: card icon
 include_file: card volatile visions
 include_file: card multaphs respites spellbook
-include_file: card black wurm token
-include_file: card green wurm token
-include_file: card red wurm token
-include_file: card white wurm token
+include_file: card wurm
+include_file: card wurm.1
+include_file: card wurm.2
+include_file: card wurm.3
 include_file: card trace reminder
-include_file: card icon token
+include_file: card icon.1
 include_file: card fault.2
 keyword:
 	keyword: Luminous

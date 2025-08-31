@@ -17,7 +17,7 @@ card:
 		Verdant
 		!backname Lucillica Dreamscape
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2025-06-30 23:01:25
+	time_modified: 2025-08-30 05:49:08
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -48,7 +48,7 @@ card:
 		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage to a player, that player exiles that many cards from the top of their library. 
 		You may play land cards from among face up cards you don’t own in exile.
 	rule_text_2:
-		As this land enters, you may pay 3 life. If you don’t, it enters tapped.
+		<atom-name>This land</atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
 		<sym-auto>3U</sym-auto>: Transform this land until end of turn.
 	rule_text_3: 

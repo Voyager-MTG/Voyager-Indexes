@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		https://www.artstation.com/artwork/1xbmxG
+		!related Carrigol Tender;
+	time_created: 2025-07-03 21:31:01
+	time_modified: 2025-08-29 18:48:11
+	card_color: white, black, multicolor, horizontal
+	name: Goat
+	image: image309
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Goat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever this creature becomes blocked, each opponent loses 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 1
+	illustrator: Grace Healy
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

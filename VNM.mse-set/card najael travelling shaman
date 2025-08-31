@@ -21,7 +21,6 @@ card:
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: She/Her
-	special_text: 
 	name: Najael, Travelling Shaman
 	casting_cost: 2GU
 	image: image228
@@ -51,3 +50,4 @@ card:
 	copyright: Set by Tvpattack
 	copyright_2: Set by Tvpattack
 	copyright_3: Set by Tvpattack
+	special_text: 

@@ -21,7 +21,6 @@ card:
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
-	special_text_2: 
 	card_color: white, blue, red, multicolor, horizontal
 	card_color_2: multicolor
 	name: Multaph’s Respite’s Spellbook
@@ -63,3 +62,4 @@ card:
 	copyright: Set by Tvpattack
 	copyright_2: Set by Tvpattack
 	copyright_3: Set by Tvpattack
+	special_text_2: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-14 19:24:27
-	time_modified: 2025-01-28 19:53:54
+	time_modified: 2025-08-30 06:14:56
 	name: Condensed Memory
 	casting_cost: 2
 	image: image81
@@ -16,7 +16,7 @@ card:
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
-		<sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>, Exile five cards from your graveyard: Put five +1/+1 counters on <atom-cardname><nospellcheck>Condensed Memory</nospellcheck></atom-cardname>. It becomes a 0/0 Wonder artifact creature that’s all colors. Activate only if <atom-cardname><nospellcheck>Condensed Memory</nospellcheck></atom-cardname> isn’t a creature.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Exile two cards from your graveyard: Put five +1/+1 counters on <atom-cardname><nospellcheck>Condensed Memory</nospellcheck></atom-cardname>. If it isn’t a creature, becomes a 0/0 Wonder artifact creature that’s all colors.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Finnian MacMarcus
 	card_code_text: 

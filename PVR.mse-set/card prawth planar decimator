@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -13,10 +13,6 @@ card:
 		OTHERRARE
 	time_created: 2021-11-27 01:53:39
 	time_modified: 2023-03-12 09:36:14
-	special_text:
-		You may remove loyalty counters from <atom-legname><nospellcheck>Prawth</nospellcheck></atom-legname> rather than pay that amount of <sym>V</sym>.
-		[0]: <margin:130:0:0>Target player discards a card. Put X loyalty counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Prawth</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, where X is that card’s mana value.</margin:130:0:0>
-		[-1]: <margin:130:0:0><soft-line>Create a 2/2 black Horror creature token with <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>.</soft-line></margin:130:0:0>
 	name: Prawth, Planar Decimator
 	casting_cost: 3UB
 	image: image132
@@ -31,7 +27,7 @@ card:
 	loyalty_cost_3: -1
 	loyalty: 6
 	level_1_text: You may remove loyalty counters from <atom-legname><nospellcheck>Prawth</nospellcheck></atom-legname> rather than pay that amount of <sym>V</sym>.
-	level_2_text: <margin:130:0:0>Target player discards a card. Put X loyalty counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Prawth</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, where X is that card’s mana value.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Target player discards a card. Put X loyalty counters on Prawth, where X is that card’s mana value.</margin:130:0:0>
 	level_3_text: <margin:130:0:0><soft-line>Create a 2/2 black Horror creature token with <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>.</soft-line></margin:130:0:0>
 	level_4_text: 
 	illustrator: Imad Awan
@@ -41,3 +37,7 @@ card:
 	copyright: Utaha
 	copyright_2: Utaha
 	copyright_3: Utaha
+	special_text:
+		You may remove loyalty counters from <atom-legname><nospellcheck>Prawth</nospellcheck></atom-legname> rather than pay that amount of <sym>V</sym>.
+		[0]: <margin:130:0:0>Target player discards a card. Put X loyalty counters on Prawth, where X is that card’s mana value.</margin:130:0:0>
+		[-1]: <margin:130:0:0><soft-line>Create a 2/2 black Horror creature token with <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>.</soft-line></margin:130:0:0>

@@ -17,7 +17,7 @@ card:
 		Verdant
 		!backname Foruden Shrine
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2025-06-14 16:22:21
+	time_modified: 2025-08-30 05:49:46
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -47,7 +47,7 @@ card:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
 		<atom-name>This creature</atom-cardname> can’t be blocked by creatures with power 2 or less.
 	rule_text_2:
-		As this land enters, you may pay 3 life. If you don’t, it enters tapped.
+		<atom-name>This land</atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
 		<sym-auto>4GGG</sym-auto>: Transform this land until end of turn.
 	rule_text_3: 

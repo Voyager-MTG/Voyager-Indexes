@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes:
@@ -15,9 +15,9 @@ card:
 	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: rare
 	rule_text:
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erfex</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters tapped.
+		Erfex enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
-		Whenever you spend four or more mana to cast a spell or activate an ability, put two +1/+1 counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erfex</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. You may have it become a 0/0 Fractal Horror creature until end of turn.
+		Whenever you spend four or more mana to cast a spell or activate an ability, put two +1/+1 counters on Erfex. You may have it become a 0/0 Fractal Horror creature until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Julien louche
 	card_code_text: Fleur

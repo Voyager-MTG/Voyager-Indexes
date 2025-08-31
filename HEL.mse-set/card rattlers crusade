@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/dKk3w
@@ -19,7 +19,7 @@ card:
 		Skeletons you control get +1/+0 and and have <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
 	flavor_text:
 		<i-flavor>“Despite their lack of blood, I have not seen another creature so eager to spill it in others.”<soft-line>
-		—<error-spelling:en_US>Demonlord</error-spelling:en_US> <error-spelling:en_US>Zeramander</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Demonlord</error-spelling:en_US> <error-spelling:en_US>Zeramander</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: JB Casacop
 	card_code_text: 
 	card_code_text_2: 

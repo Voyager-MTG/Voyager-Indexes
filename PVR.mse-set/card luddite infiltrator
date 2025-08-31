@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: BLUERARE4
 	time_created: 2022-04-15 14:57:40
-	time_modified: 2025-07-24 20:24:07
+	time_modified: 2025-08-30 06:05:10
 	name: Luddite Infiltrator
 	casting_cost: 2U
 	image: image267
@@ -26,7 +26,7 @@ card:
 		When <atom-cardname><nospellcheck>Luddite Infiltrator</nospellcheck></atom-cardname> enters, exile target instant or sorcery card from your graveyard. You may cast it on any turn your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
-	toughness: 2
+	toughness: 3
 	illustrator: Auburn Hodgson
 	card_code_text: 
 	card_code_text_2: 

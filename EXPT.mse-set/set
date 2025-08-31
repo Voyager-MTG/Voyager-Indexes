@@ -56,7 +56,7 @@ styling:
 		overlay: 
 include_file: card falling sparks
 include_file: card soul splintering
-include_file: card icon token
+include_file: card icon
 include_file: card towing steladiuys
 include_file: card information recovery crew
 include_file: card exuberant archaeologist
@@ -109,12 +109,12 @@ include_file: card sieve
 include_file: card draconic reflection
 include_file: card sryyn spawner
 include_file: card algael-leael
-include_file: card insect plant token
+include_file: card insect plant
 include_file: card syphroid
 include_file: card tellavia balwar
 include_file: card refraction mech
 include_file: card writhing sight
-include_file: card wall token
+include_file: card wall
 include_file: card xylem attendant
 include_file: card clifftop pishogue
 include_file: card malevolent knowledge
@@ -131,8 +131,8 @@ include_file: card incessant intercession
 include_file: card duet of loss and life
 include_file: card abstracted mark
 include_file: card whimsy unbound
-include_file: card shapeshifter token
-include_file: card robot token
+include_file: card shapeshifter
+include_file: card robot
 include_file: card sample skimmer
 include_file: card sentinel of the afterlife
 include_file: card our fates change
@@ -149,14 +149,13 @@ include_file: card mountain
 include_file: card forest
 include_file: card fault
 include_file: card demon
-include_file: card drake token
-include_file: card fox token
-include_file: card wurm dragon token
-include_file: card elemental token
-include_file: card elemental token.1
-include_file: card dragon eye token
+include_file: card drake
+include_file: card fox
+include_file: card elemental
+include_file: card elemental.1
+include_file: card dragon eye
 include_file: card orb wizard
-include_file: card treasure token
+include_file: card treasure
 include_file: card sanctuary of nectars
 include_file: card sanctuary of resonance
 include_file: card sanctuary of moonlight
@@ -190,7 +189,7 @@ include_file: card blank
 include_file: card edification
 include_file: card canyon crustacean
 include_file: card cowering lightbringer
-include_file: card fish token
+include_file: card fish
 include_file: card faulty recreation
 keyword:
 	keyword: Mirror

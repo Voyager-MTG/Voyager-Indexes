@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: https://www.deviantart.com/davesrightmind/art/Songbird-363159215
@@ -19,7 +19,7 @@ card:
 		Exile the top two cards of your library. You may play those cards until the end of your next turn.
 	flavor_text:
 		<i-flavor>“Fly away little <error-spelling:en_US>birdy</error-spelling:en_US>, the chase is half the fun.”<soft-line>
-		—<error-spelling:en_US>Demonlord</error-spelling:en_US> <error-spelling:en_US>Zeramander</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Demonlord</error-spelling:en_US> <error-spelling:en_US>Zeramander</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Davesrightmind
 	card_code_text: 
 	card_code_text_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: https://www.deviantart.com/babanillustration/art/CATBATS-Prints-781809902
@@ -19,7 +19,7 @@ card:
 		When this creature enters, if it isn’t a token, you may sacrifice another creature. If you do, create a token that’s a copy of this creature.
 	flavor_text:
 		<i-flavor>“I swear they populate like rats. At least they eat any unwelcome guests.”<soft-line>
-		—<error-spelling:en_US>Bloodlord</error-spelling:en_US> <error-spelling:en_US>Kinnamon</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Bloodlord</error-spelling:en_US> <error-spelling:en_US>Kinnamon</soft-line></error-spelling:en_US></i-flavor>
 	power: 2
 	toughness: 2
 	illustrator: Babanillustration

@@ -19,7 +19,7 @@ card:
 	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>. <atom-cardname><nospellcheck>Turnberry Citadel</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
 	flavor_text:
 		<i-flavor>“My House is all of me.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Gosfridus</error-spelling:en_US> <error-spelling:en_US>Turnberry</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Gosfridus</error-spelling:en_US> <error-spelling:en_US>Turnberry</error-spelling:en_US></i-flavor>
 	illustrator: Florian Herold
 	card_code_text: 
 	card_code_text_2: 

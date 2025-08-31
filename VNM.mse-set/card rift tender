@@ -20,7 +20,6 @@ card:
 		magic-m15-altered: vorthos_box: 
 		magic-m15-altered-plus:
 			corner: instant
-	special_text: 
 	name: Rift Tender
 	casting_cost: 2B
 	image: image56
@@ -57,3 +56,4 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text: 

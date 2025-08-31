@@ -1,14 +1,8 @@
 ﻿mse_version: 2.5.8
 card:
-	stylesheet: m15-mainframe-dfc
+	stylesheet: m15-mainframe-dfc-plus
 	stylesheet_version: 2024-09-06
-	has_styling: true
-	styling_data:
-		front_chop: 
-		other_options: pokemon evobar, use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes:
 		https://www.artstation.com/artwork/qJRVzR
 		https://www.artstation.com/artwork/LR0ZZ5

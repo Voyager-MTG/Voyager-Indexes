@@ -35,7 +35,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: At the beginning of each end step, target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. If a card with <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Pathbound</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> was put into a graveyard this way, draw a card.
+	rule_text: At the beginning of each end step, target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. If a card with Pathbound was put into a graveyard this way, draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

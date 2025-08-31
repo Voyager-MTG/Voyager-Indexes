@@ -18,7 +18,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: previewed
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-21 14:50:27
+	time_modified: 2025-08-30 06:11:40
 	card_color: blue
 	name: Respite Partisan
 	casting_cost: 2UU
@@ -33,7 +33,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</key></nospellcheck></i-auto></kw-A> </i>— At the beginning of combat of each turn, if you cast a noncreature spell this turn, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>, then untap up to one target nonland permanent.
+	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</key></nospellcheck></i-auto></kw-A> </i>— At the beginning of your end step, if you cast a noncreature spell this turn, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>, then tap or untap up to one target nonland permanent.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Partisans are meant to protect the few rifts that the <error-spelling:en_US>worldsoul</error-spelling:en_US> doesn’t close. Meeting one means you’ve found that very rift.</i-flavor>

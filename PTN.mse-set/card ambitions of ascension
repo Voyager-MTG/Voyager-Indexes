@@ -14,11 +14,6 @@ card:
 	notes: 
 	time_created: 2023-07-18 19:11:37
 	time_modified: 2025-08-19 12:23:57
-	special_text:
-		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I — Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
-		II — Search your library for a God card, reveal it, put it into your hand, then shuffle.
-		III — Reveal a card in your hand. Target God you control gains the revealed card’s abilities. <i-auto>(This effect lasts indefinitely)</i-auto>
 	card_color: white
 	name: Ambitions of Ascension
 	casting_cost: 3W
@@ -50,3 +45,8 @@ card:
 	copyright: Kogane
 	copyright_2: Kogane
 	copyright_3: Kogane
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
+		Search your library for a God card, reveal it, put it into your hand, then shuffle.
+		Reveal a card in your hand. Target God you control gains the revealed card’s abilities. <i-auto>(This effect lasts indefinitely)</i-auto>

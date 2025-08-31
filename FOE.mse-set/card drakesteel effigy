@@ -14,7 +14,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2024-10-10 22:04:58
+	time_modified: 2025-08-30 05:58:20
 	name: Drakesteel Effigy
 	casting_cost: 3
 	image: image191
@@ -28,9 +28,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text:
-		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>
-		<kw-0><i-auto><nospellcheck><key>Exploring</key></nospellcheck></i-auto></kw-0> — <sym-auto>6</sym-auto>, <sym-auto>T</sym-auto>: Draw a card. Each opponent loses 1 life and you gain 1 life. This ability costs <sym-auto>1</sym-auto> less to activate for each differently named land you control.
+	rule_text: <kw-0><i-auto><nospellcheck><key>Exploring</key></nospellcheck></i-auto></kw-0> — <sym-auto>6</sym-auto>, <sym-auto>T</sym-auto>: Draw a card. Each opponent loses 1 life and you gain 1 life. This ability costs <sym-auto>1</sym-auto> less to activate for each differently named land you control.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The <error-spelling:en_US>Beauchêne</error-spelling:en_US> royal family true power is within ancient artifacts, bathed in blood despite their owners objection.</i-flavor>

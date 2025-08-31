@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes:
@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When <atom-cardname><nospellcheck>Hierarch of Expiration</nospellcheck></atom-cardname> enters, each player sacrifices a creature or planeswalker.
-		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>2BB</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>2BB</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>2BB</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

@@ -12,7 +12,6 @@ card:
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: She/Her
-	special_text: 
 	name: Melodia, Voidtouched
 	casting_cost: 2II
 	image: image117
@@ -23,8 +22,8 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Melodia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, create a 1/1 blue Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block”.
-		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Melodia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, attacking creature tokens you control get +2/+1 until end of turn
+		When Melodia enters, create a 1/1 blue Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block”.
+		Whenever Melodia attacks, attacking creature tokens you control get +2/+1 until end of turn
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
@@ -35,3 +34,4 @@ card:
 	copyright: Set by Tvpattack
 	copyright_2: Set by Tvpattack
 	copyright_3: Set by Tvpattack
+	special_text: 

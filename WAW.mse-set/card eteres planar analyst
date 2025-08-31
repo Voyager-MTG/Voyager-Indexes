@@ -14,10 +14,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: they/them
-	special_text:
-		When <atom-legname><nospellcheck>Eteres</nospellcheck></atom-legname> enters, search your library for any number of cards with total mana value 3 or less, exile them with study counters on them, then shuffle.
-		[+2]: <margin:130:0:0>Put a land card you own in exile with a study counter on it onto the battlefield under your control. </margin:130:0:0>
-		[-2]: <margin:130:0:0>Draw a card, then you may exchange a card in your hand and a card you own in exile with a study counter on it.</margin:130:0:0>
 	card_color: blue, green, multicolor, horizontal
 	name: Eteres, Planar Analyst
 	casting_cost: 2GU
@@ -43,3 +39,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		When <atom-legname><nospellcheck>Eteres</nospellcheck></atom-legname> enters, search your library for any number of cards with total mana value 3 or less, exile them with study counters on them, then shuffle.
+		[+2]: <margin:130:0:0>Put a land card you own in exile with a study counter on it onto the battlefield under your control. </margin:130:0:0>
+		[-2]: <margin:130:0:0>Draw a card, then you may exchange a card in your hand and a card you own in exile with a study counter on it.</margin:130:0:0>

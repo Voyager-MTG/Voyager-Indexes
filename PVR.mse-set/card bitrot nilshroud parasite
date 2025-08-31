@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -11,11 +11,6 @@ card:
 	notes: OTHERRARE
 	time_created: 2022-04-24 15:19:28
 	time_modified: 2024-05-18 00:37:53
-	special_text:
-		When</sym> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bitrot</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters or at the beginning of your upkeep<sym>, up to one target nonland permanent gains <atom-legname><nospellcheck>Bitrot</nospellcheck></atom-legname>’s abilities until end of turn.
-		[+1]: <margin:130:0:0>Gain control of up to one target permanent that shares a card type with this until end of turn. Untap it. It has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
-		[+1]: <margin:130:0:0>Exile up to one target card from a graveyard. If it shares a card type with this, you may cast a copy of it.</margin:130:0:0>
-		[-2]: <margin:130:0:0>This deals 3 damage to any target.</margin:130:0:0>
 	name: Bitrot, Nilshroud Parasite
 	casting_cost: 2BR
 	image: image76
@@ -30,7 +25,7 @@ card:
 	loyalty_cost_3: +1
 	loyalty_cost_4: -2
 	loyalty: 3
-	level_1_text: When</sym> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bitrot</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters or at the beginning of your upkeep<sym>, up to one target nonland permanent gains <atom-legname><nospellcheck>Bitrot</nospellcheck></atom-legname>’s abilities until end of turn.
+	level_1_text: When</sym> Bitrot enters or at the beginning of your upkeep<sym>, up to one target nonland permanent gains <atom-legname><nospellcheck>Bitrot</nospellcheck></atom-legname>’s abilities until end of turn.
 	level_2_text: <margin:130:0:0>Gain control of up to one target permanent that shares a card type with this until end of turn. Untap it. It has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Exile up to one target card from a graveyard. If it shares a card type with this, you may cast a copy of it.</margin:130:0:0>
 	level_4_text: <margin:130:0:0>This deals 3 damage to any target.</margin:130:0:0>
@@ -41,3 +36,8 @@ card:
 	copyright: Utaha
 	copyright_2: Utaha
 	copyright_3: Utaha
+	special_text:
+		When</sym> Bitrot enters or at the beginning of your upkeep<sym>, up to one target nonland permanent gains <atom-legname><nospellcheck>Bitrot</nospellcheck></atom-legname>’s abilities until end of turn.
+		[+1]: <margin:130:0:0>Gain control of up to one target permanent that shares a card type with this until end of turn. Untap it. It has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Exile up to one target card from a graveyard. If it shares a card type with this, you may cast a copy of it.</margin:130:0:0>
+		[-2]: <margin:130:0:0>This deals 3 damage to any target.</margin:130:0:0>

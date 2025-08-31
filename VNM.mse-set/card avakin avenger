@@ -39,7 +39,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“Loss is inevitable. It’s how nature works. To gain no knowledge from passing is disrespectful to the dead.”<soft-line>
-		—<error-spelling:en_US>Shivta</error-spelling:en_US>, <error-spelling:en_US>Avlod</error-spelling:en_US> <error-spelling:en_US>Clanleader</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Shivta</error-spelling:en_US>, <error-spelling:en_US>Avlod</error-spelling:en_US> <error-spelling:en_US>Clanleader</soft-line></error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	level_1: 

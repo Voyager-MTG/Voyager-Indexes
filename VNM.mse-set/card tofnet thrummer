@@ -21,7 +21,7 @@ card:
 		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, if you control three or more tokens, this creature gets +2/+0 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
 	flavor_text:
 		<i-flavor>“The flowers they feed on for nectar only exist because of the influence of the paths.”<soft-line>
-		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Melodia</soft-line></error-spelling:en_US></i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: Andrey Kazmin

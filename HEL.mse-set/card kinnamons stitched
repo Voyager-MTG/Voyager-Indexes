@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: Solrings art server
@@ -17,7 +17,7 @@ card:
 	rule_text: The creature can’t be blocked by creatures with power 4 or greater.
 	flavor_text:
 		<i-flavor>“What we lack in soldiers I can make up for in other ways. Our survival depends on you, Markov. I have faith your leadership will save us.”<soft-line>
-		</soft-line><soft-line>—<error-spelling:en_US>Bloodlord</error-spelling:en_US> <error-spelling:en_US>Kinnamon</error-spelling:en_US> to <error-spelling:en_US>Sorin</soft-line></i-flavor></error-spelling:en_US>
+		</soft-line><soft-line>—<error-spelling:en_US>Bloodlord</error-spelling:en_US> <error-spelling:en_US>Kinnamon</error-spelling:en_US> to <error-spelling:en_US>Sorin</soft-line></error-spelling:en_US></i-flavor>
 	power: 4
 	toughness: 2
 	illustrator: Lasahido

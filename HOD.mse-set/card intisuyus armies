@@ -5,6 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		frames: M20
+		auto_frames: nyx, vehicle
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:

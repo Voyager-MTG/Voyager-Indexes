@@ -2,13 +2,7 @@
 card:
 	stylesheet: m15-mainframe-dfc-plus
 	stylesheet_version: 2024-09-06
-	has_styling: true
-	styling_data:
-		official_frames: evobar (front)
-		altered_plus_frames: frontier (front), frontier (back)
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes:
 		!related Polychromatic Peaksattach>;
 		!addtoken Polychromatic Peaks;transform;

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -15,14 +15,6 @@ card:
 		GREENRARE
 	time_created: 2023-03-12 05:12:25
 	time_modified: 2023-05-05 06:54:32
-	special_text:
-		
-		<i-auto>(This spell gains effects based on the sources of mana spent to cast it.)</i-auto>
-		I — Land — <soft-line>
-		Return target card from your graveyard to your hand. Exile <atom-cardname><nospellcheck>Subsurface Scattering</nospellcheck></atom-cardname>.</soft-line>
-		II — Creature — <soft-line>
-		</soft-line><kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw a card.
-		III — Enchantment — You may put a land card from your graveyard or hand onto the battlefield.
 	name: Subsurface Scattering
 	casting_cost: 2G
 	image: image202
@@ -50,3 +42,11 @@ card:
 	copyright: Utaha
 	copyright_2: Utaha
 	copyright_3: Utaha
+	special_text:
+		
+		<i-auto>(This spell gains effects based on the sources of mana spent to cast it.)</i-auto>
+		I — Land — <soft-line>
+		Return target card from your graveyard to your hand. Exile <atom-cardname><nospellcheck>Subsurface Scattering</nospellcheck></atom-cardname>.</soft-line>
+		II — Creature — <soft-line>
+		</soft-line><kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw a card.
+		III — Enchantment — You may put a land card from your graveyard or hand onto the battlefield.

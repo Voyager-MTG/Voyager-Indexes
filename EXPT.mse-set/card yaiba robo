@@ -12,7 +12,8 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer TVP
 	time_created: 2024-02-27 23:55:10
-	time_modified: 2025-04-09 23:31:34
+	time_modified: 2025-08-30 06:14:09
+	card_trim_plus: Yugioh Frame
 	name: Yaiba Robo
 	casting_cost: 3I
 	image: image94

@@ -30,7 +30,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: <kw-0><nospellcheck><key>Mirror</key></nospellcheck></kw-0>. When you do, you may exchange control of target creature you control and target spell. You may choose new targets for it. <i-auto>(To <kw-0><nospellcheck><key>mirror</key></nospellcheck></kw-0>, create a token <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>thats</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> a copy of a token you control.)</i-auto>
+	rule_text: <kw-0><nospellcheck><key>Mirror</key></nospellcheck></kw-0>. When you do, you may exchange control of target creature you control and target spell. You may choose new targets for it. <i-auto>(To <kw-0><nospellcheck><key>mirror</key></nospellcheck></kw-0>, create a token thats a copy of a token you control.)</i-auto>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

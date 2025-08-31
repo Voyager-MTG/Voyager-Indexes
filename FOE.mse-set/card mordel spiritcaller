@@ -10,7 +10,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !tag fascism;
 	time_created: 2024-02-06 01:56:27
-	time_modified: 2025-03-19 23:17:47
+	time_modified: 2025-08-30 05:51:28
 	name: Mordel Spiritcaller
 	casting_cost: 1RG
 	casting_cost_2: 
@@ -23,13 +23,13 @@ card:
 	rarity: uncommon
 	rule_text:
 		When this creature enters, create a basic land token of any type of your choice. At the beginning of your end step, sacrifice a land, then draw a card.
-		<kw-1><nospellcheck><key>Evoke <param-cost><sym-auto>R/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-1>
+		<kw-1><nospellcheck><key>Evoke <param-cost><sym-auto>1R/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-1>
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
-	power: 2
+	power: 3
 	power_2: 
-	toughness: 2
+	toughness: 3
 	toughness_2: 
 	illustrator: victor gallo (Poison Paint)
 	card_code_text: 

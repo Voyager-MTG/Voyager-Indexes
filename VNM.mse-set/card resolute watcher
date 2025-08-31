@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: previewed
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-07-21 14:15:55
+	time_modified: 2025-08-30 06:11:20
 	card_color: blue
 	name: Resolute Watcher
 	casting_cost: 2UU
@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>2</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
-		<i><kw-A><i-auto><nospellcheck><key>Fracture</i></key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, draw a card, then you may put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on target creature.
+		<i><kw-A><i-auto><nospellcheck><key>Fracture</i></key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, draw a card, then you may put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on target permanent.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>They say all it takes is a look.</i-flavor>

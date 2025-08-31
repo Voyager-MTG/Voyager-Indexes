@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
@@ -24,7 +24,7 @@ card:
 	rule_text: <sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>: Shuffle your library, then exile the top card of it. You may cast that card without paying its mana cost.
 	flavor_text:
 		<i-flavor>“A useless trinket by Obsolete standards, yet a tool of godhood for us impure ones that follow in their footsteps.”<soft-line>
-		—<error-spelling:en_US>Kinema</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Felgyon</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Kinema</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Felgyon</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Martin Newell
 	card_code_text: 
 	card_code_text_2: 

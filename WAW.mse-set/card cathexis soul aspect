@@ -11,10 +11,6 @@ card:
 	notes: 
 	time_created: 2025-01-25 12:09:57
 	time_modified: 2025-02-12 16:20:48
-	special_text:
-		<atom-cardname><nospellcheck>Cathexis, Soul Aspect</nospellcheck></atom-cardname> enters with an additional loyalty counter on it for each unique name among other permanents you control.
-		[-1]: <margin:130:0:0>You may sacrifice a permanent. If you do, create a 5/5 Wonder Archon creature token that’s all colors. If you don’t, create two 1/1 Wonder creature tokens that are all colors.</margin:130:0:0>
-		[-4]: <margin:130:0:0>Draw a card for each permanent you control that’s two or more colors.</margin:130:0:0>
 	name: Cathexis, Soul Aspect
 	casting_cost: WUBRG
 	image: image235
@@ -38,3 +34,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		<atom-cardname><nospellcheck>Cathexis, Soul Aspect</nospellcheck></atom-cardname> enters with an additional loyalty counter on it for each unique name among other permanents you control.
+		[-1]: <margin:130:0:0>You may sacrifice a permanent. If you do, create a 5/5 Wonder Archon creature token that’s all colors. If you don’t, create two 1/1 Wonder creature tokens that are all colors.</margin:130:0:0>
+		[-4]: <margin:130:0:0>Draw a card for each permanent you control that’s two or more colors.</margin:130:0:0>

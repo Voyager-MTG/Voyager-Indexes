@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-cardname><nospellcheck>Thing in the Birches</nospellcheck></atom-cardname> can’t block.
-		When <atom-cardname><nospellcheck>Thing in the Birches</nospellcheck></atom-cardname> dies, you may exile it. If you do, exile any number of target permanents you control, then return them to the battlefield under their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> control.
+		When <atom-cardname><nospellcheck>Thing in the Birches</nospellcheck></atom-cardname> dies, you may exile it. If you do, exile any number of target permanents you control, then return them to the battlefield under their owners’ control.
 	flavor_text:
 		<i-flavor>“What </i>was <i>this thing? How did it </i>do<i> that?”<soft-line>
 		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></i-flavor>

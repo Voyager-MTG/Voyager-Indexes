@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: 
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	notes: !related Memory Lane; Cathexis, Soul Aspect;
+	time_created: 2025-01-28 13:10:52
+	time_modified: 2025-08-29 19:05:34
+	card_color: multicolor
+	name: Wonder Archon
+	image: image42
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Archon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: This creature is all colors.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Peter Ferguson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

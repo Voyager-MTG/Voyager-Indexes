@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/28yg9B
@@ -16,7 +16,7 @@ card:
 	rule_text: Maddening Descent deals X plus 2 damage to target creature. Mill X plus two cards.
 	flavor_text:
 		<i-flavor>“I don’t have time for this. I’ve spent three hundred years looking for a way to transform a demon into a puppy and I’ll be damned if I let you distract me.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Anord</error-spelling:en_US>, The Maddening <error-spelling:en_US>Lich</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Anord</error-spelling:en_US>, The Maddening <error-spelling:en_US>Lich</error-spelling:en_US></i-flavor>
 	illustrator: Vincenzo Prattico
 	card_code_text: 
 	card_code_text_2: 

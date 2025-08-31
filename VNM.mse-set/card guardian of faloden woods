@@ -23,7 +23,7 @@ card:
 		<sym-auto>1I/G</sym-auto>, Discard this: Create two 1/1 green Wurm creature tokens with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>. Activate only if its your turn.
 	flavor_text:
 		<i-flavor>“These guardians seem to span the entire wooded continent of <error-spelling:en_US>Faloden</error-spelling:en_US>.”<soft-line>
-		—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</soft-line></error-spelling:en_US></i-flavor>
 	power: 3
 	toughness: 4
 	illustrator: Duong ct

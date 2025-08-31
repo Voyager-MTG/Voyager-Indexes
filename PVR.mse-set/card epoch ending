@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
@@ -24,7 +24,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: mythic rare
 	rule_text:
-		You gain 6 life. Then if this spell was <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>retopologised</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, create six 0/0 colorless Fractal Horror creature tokens. Put two +1/+1 counters on each of those creatures.
+		You gain 6 life. Then if this spell was retopologised, create six 0/0 colorless Fractal Horror creature tokens. Put two +1/+1 counters on each of those creatures.
 		<kw-A><nospellcheck><key>Retopology <param-cost><sym>WWWWWW</sym></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>WWWWWW</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Gordon Dylan Johnson
