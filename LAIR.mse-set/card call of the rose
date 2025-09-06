@@ -2,15 +2,17 @@
 card:
 	has_styling: false
 	notes:
+		!tagis> champion
+		!tagchampion> aanginer
 		!tag Dewold
 		!tag Rey
 		!ocean
 		!designer Zangy
 	time_created: 2025-02-25 12:10:23
-	time_modified: 2025-08-31 15:17:18
+	time_modified: 2025-08-31 19:25:02
 	extra_data:
 		magic-m15-altered-plus:
-			vorthos_box: Designed by Zangy
+			vorthos_box: Zangy
 	name: Call of the Rose
 	casting_cost: 1R
 	image: image30

@@ -2,13 +2,28 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_bottom: 2
+		main_style: normal
+		other_options: vorthos box
+		additional_options: 
+		font_cap: 13.5
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
+		!taglairnumber> 4
+		!taglairauthor> voyager
+		!taglair> top cards I
 		!designer Aanginer
 		
 		https://www.deviantart.com/ryky/art/ALL-COMMISSIONS-FOR-75-USD-READ-DESCRIPTIONS-744213721
 	time_created: 2025-02-22 22:58:34
-	time_modified: 2025-08-19 15:15:03
+	time_modified: 2025-08-31 19:25:50
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: Aanginer
 	card_trim: special guest, inverted, mutate
 	card_trim_plus: none
 	name: Sundown
@@ -37,4 +52,4 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-	secondary_copyright: Aanginer
+	secondary_copyright: 

@@ -18,7 +18,8 @@ card:
 		
 		https://www.artstation.com/artwork/06Q6K
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2024-01-24 01:16:13
+	time_modified: 2025-09-04 14:20:21
+	card_trim: adventure focus
 	name: Ignelscor Jidiao
 	name_2: Tear a Path
 	casting_cost: 5B
@@ -30,9 +31,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en>Instant</word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-race-en>Dragon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Turtle</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: <word-list-spell>Focus</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
 	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>

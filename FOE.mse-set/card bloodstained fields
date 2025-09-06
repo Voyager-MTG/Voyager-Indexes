@@ -12,8 +12,7 @@ card:
 		magic-m15-altered-plus:
 			corner: modal front
 			smallbox_text: 
-		magic-m15-mainframe-dfc:
-			front_color_hint: Within the realm, the vulturous drakes guarantee the dead are remain unburied.
+		magic-m15-mainframe-dfc: front_color_hint: Within the realm, the vulturous drakes guarantee the dead are remain unburied.
 	card_color_2: black
 	name: Bloodstained Fields
 	name_2: Drake-Brood Peak

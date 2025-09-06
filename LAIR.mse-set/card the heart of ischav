@@ -1,9 +1,16 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !designer Wende
+	notes:
+		!taglairnumber> 4
+		!taglairauthor> voyager
+		!taglair> top cards I
+		!designer Wende
 	time_created: 2025-01-28 13:47:41
-	time_modified: 2025-08-18 23:55:57
+	time_modified: 2025-08-31 19:26:47
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: Wende
 	card_trim: special guest, inverted
 	card_color: land, multicolor
 	name: The Heart of Ischav
@@ -26,4 +33,4 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
-	secondary_copyright: Wende
+	secondary_copyright: 

@@ -12,8 +12,7 @@ card:
 		magic-m15-altered-plus:
 			corner: modal front
 			smallbox_text: 
-		magic-m15-mainframe-dfc:
-			front_color_hint: Sonnet’s grave marks the survivors of Meirel’s shattering uniting with Vinimroth in their efforts to unify the planes surrouning them.
+		magic-m15-mainframe-dfc: front_color_hint: Sonnet’s grave marks the survivors of Meirel’s shattering uniting with Vinimroth in their efforts to unify the planes surrouning them.
 	card_color_2: white
 	name: Staggering Spires
 	name_2: Monument In Unity

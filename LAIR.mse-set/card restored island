@@ -4,25 +4,24 @@ card:
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		chop_top: 
-		chop_bottom: 
-		hybrid_name: grey
-		d20_dividers: d20 mode
-		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		main_style: normal
+		other_options: vorthos box
+		additional_options: 
 		font_cap: 13.5
-		custom_symbol: abstract-061.png
-		alt_rarity_color: 
 		use_holofoil_stamps: no
-		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
+		!taglairnumber> 5
+		!taglairauthor> aanginer
+		!taglair> restoration
 		!designer TVP
 		!tapped
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2025-08-18 23:58:13
+	time_modified: 2025-08-31 19:24:56
 	extra_data:
 		magic-m15-altered-plus:
+			vorthos_box: TVP
 			corner: sanctum
 	card_trim: special guest, inverted, mutate
 	card_trim_plus: none

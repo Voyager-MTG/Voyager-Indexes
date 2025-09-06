@@ -2,11 +2,17 @@
 card:
 	has_styling: false
 	notes:
+		!taglairnumber> 4
+		!taglairauthor> voyager
+		!taglair> top cards I
 		WHITEUNCOMMON
 		UW10
 		!designer Myr
 	time_created: 2023-09-07 23:42:37
-	time_modified: 2025-08-19 15:14:56
+	time_modified: 2025-08-31 19:26:44
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: Myr
 	card_trim: special guest, inverted
 	card_color: white
 	name: Found Family
@@ -28,4 +34,4 @@ card:
 	copyright: Apriken
 	copyright_2: Apriken
 	copyright_3: Apriken
-	secondary_copyright: Myr
+	secondary_copyright: 

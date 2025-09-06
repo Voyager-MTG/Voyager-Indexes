@@ -7,7 +7,10 @@ card:
 		!tagis> champion
 		!designer TVP
 	time_created: 2025-06-18 11:54:25
-	time_modified: 2025-08-18 10:01:53
+	time_modified: 2025-08-31 19:32:35
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: TVP
 	name: Drifting Field
 	image: image1.png
 	image_2: 
@@ -34,3 +37,4 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+	secondary_copyright: 

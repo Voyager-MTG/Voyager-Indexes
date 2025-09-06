@@ -7,7 +7,10 @@ card:
 		!tagis> champion
 		!designer Trewq
 	time_created: 2024-10-12 13:13:57
-	time_modified: 2025-08-09 17:00:24
+	time_modified: 2025-08-31 19:27:46
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: Trewq
 	name: Drown in Self Reflection
 	casting_cost: 1U
 	image: image13.png

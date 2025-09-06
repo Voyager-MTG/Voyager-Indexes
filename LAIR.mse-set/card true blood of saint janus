@@ -1,9 +1,16 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !designer Kogane
+	notes:
+		!taglairnumber> 4
+		!taglairauthor> voyager
+		!taglair> top cards I
+		!designer Kogane
 	time_created: 2023-07-30 11:58:27
-	time_modified: 2025-08-18 23:55:50
+	time_modified: 2025-08-31 19:26:50
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: Kogane
 	card_trim: special guest, inverted, legend
 	name: True Blood of Saint Janus
 	casting_cost: 2
@@ -34,4 +41,4 @@ card:
 	copyright: Kogane
 	copyright_2: Kogane
 	copyright_3: Kogane
-	secondary_copyright: Kogane
+	secondary_copyright: 
