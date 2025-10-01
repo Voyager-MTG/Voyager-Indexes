@@ -18,7 +18,7 @@ card:
 		WIZARDTYPE
 		WEREWOLFTYPE
 	time_created: 2023-06-21 23:40:02
-	time_modified: 2025-04-05 01:59:05
+	time_modified: 2025-09-14 15:02:32
 	extra_data:
 		magic-m15-mainframe-dfc:
 			back_type_hint: 3/2 Dragon Wizard
@@ -43,7 +43,7 @@ card:
 		<kw-1><nospellcheck><key>Bisapience—<param-cost>Exile an instant or sorcery card from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-1>
 		<sym-auto>2R</sym-auto>, Discard a card: Draw a card.
 	rule_text_2:
-		<kw-0><nospellcheck><key>Bisapience <param-cost><atom-kwpph>cost</atom-kwpph></param-cost></key></nospellcheck></kw-0>— Exile an instant or sorcery card from your graveyard.
+		<kw-0><nospellcheck><key>Bisapience—<param-cost> Exile an instant or sorcery card from your graveyard</param-cost>.</key></nospellcheck></kw-0>
 		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor>“I told my sire to get stronger.”</i-flavor>
 	flavor_text_2:

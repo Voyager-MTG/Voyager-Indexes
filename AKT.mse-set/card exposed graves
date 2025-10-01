@@ -20,7 +20,6 @@ card:
 			back_color_hint: 
 			front_type_hint: Land
 			front_color_hint: <sym>T</sym>, 1 life: Add <sym>B</sym>.
-	special_text: 
 	name: Exposed Graves
 	name_2: Stainlark, Tomb of Erys
 	image: image121.png
@@ -41,7 +40,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“Killing you was the best day of my life, pops. Would that your followers prove half the challenge.”<soft-line>
-		—<error-spelling:en_US>Lyyrata</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Lyyrata</soft-line></error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: JJCanvas
@@ -56,3 +55,4 @@ card:
 	copyright: Apriken
 	copyright_2: Apriken
 	copyright_3: Apriken
+	special_text: 

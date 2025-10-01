@@ -20,7 +20,7 @@ card:
 		For each card type among cards exiled by <atom-cardname><nospellcheck>Detritus Dredger</nospellcheck></atom-cardname>, it gets +1/+1 and <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>that type.</param-name></key></nospellcheck></kw-a> <i-auto>(Kindred is a card type.)</i-auto>
 	flavor_text:
 		<i-flavor>“Even trash knows the right side of history.”<soft-line>
-		—<error-spelling:en_US>Erys</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Erys</soft-line></error-spelling:en_US></i-flavor>
 	power: 3
 	toughness: 3
 	illustrator: Dimitris Tzilivakis

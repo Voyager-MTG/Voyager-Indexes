@@ -18,7 +18,7 @@ card:
 	rule_text: Return any number of target creature cards with no creature types in common from your graveyard to your hand.
 	flavor_text:
 		<i-flavor>“No point being a giraffe when one can be a god.”<soft-line>
-		—Lord <error-spelling:en_US>Herongrand</error-spelling:en_US>, <error-spelling:en_US>Thoughtlich</soft-line></i-flavor></error-spelling:en_US>
+		—Lord <error-spelling:en_US>Herongrand</error-spelling:en_US>, <error-spelling:en_US>Thoughtlich</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Jaygraphixx
 	card_code_text: 
 	card_code_text_2: 

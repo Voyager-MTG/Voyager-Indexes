@@ -19,16 +19,21 @@ styling:
 		overlay: 
 	magic-m15-altered-plus:
 		main_style: normal
-		other_options: vorthos box
+		other_options: use starting loyalty, vorthos box
 		additional_options: 
 		font_cap: 
+		level_offset: -20,-38,-58,
+		level_containers: loyalty boxes
 		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	magic-m15-cultist-simulator:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-mainframe-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-mainframe-tokens:
-		frames: legendary, M20
+		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-unstable-basics:
@@ -70,6 +75,10 @@ include_file: card restored mountain
 include_file: card restored fault
 include_file: card restored forest
 include_file: card call of the rose
+include_file: card the gardener crowned
+include_file: card wonder
+include_file: card blinding majesty
+include_file: card shimmer from beyond
 version_control:
 	type: none
 apprentice_code: 

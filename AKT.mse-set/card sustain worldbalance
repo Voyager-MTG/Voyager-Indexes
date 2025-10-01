@@ -21,7 +21,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: Whenever you cast a monocolored spell, create a 4/4 colorless Dragon creature token if each color is noted with Sustain <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Worldbalance</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. Otherwise note that color, then draw a card if it wasn’t already noted.
+	rule_text: Whenever you cast a monocolored spell, create a 4/4 colorless Dragon creature token if each color is noted with Sustain Worldbalance. Otherwise note that color, then draw a card if it wasn’t already noted.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Kitak Lee
 	card_code_text: 

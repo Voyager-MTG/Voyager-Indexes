@@ -24,7 +24,6 @@ card:
 			back_color_hint: <sym>1RR</sym>
 			front_type_hint: 3/1 Soldier
 			front_color_hint: <sym>1R</sym>
-	special_text: 
 	name: Swiftpaw Striker
 	name_2: Swiftmind Sage
 	casting_cost: 1R
@@ -59,3 +58,4 @@ card:
 	copyright: Apriken
 	copyright_2: Apriken
 	copyright_3: Apriken
+	special_text: 

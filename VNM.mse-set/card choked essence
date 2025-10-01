@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-06-08 13:23:53
-	time_modified: 2025-07-12 16:15:41
+	time_modified: 2025-10-01 10:23:15
 	name: Choked Essence
 	casting_cost: 1I
 	image: image62
@@ -28,7 +28,7 @@ card:
 	rule_text:
 		Choose one —
 		<li><bullet>• </bullet>Counter target spell that was cast from anywhere other than its owner’s hand.
-		</li><li><bullet>• </bullet>Create a token that’s a copy of target token, except its a creature and has size 2/2. <i-auto>(It keeps its types and abilities.)</i-auto></li>
+		</li><li><bullet>• </bullet>Create a token that’s a copy of target token, except it’s a creature and has size 2/2. <i-auto>(It keeps its types and abilities.)</i-auto></li>
 	flavor_text: <i-flavor>The Blind Eternities warps all that it touches; A newfound power <error-spelling:en_US>Melodia</error-spelling:en_US> now had.</i-flavor>
 	illustrator: exellero
 	card_code_text: 

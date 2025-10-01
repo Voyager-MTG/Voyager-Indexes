@@ -20,7 +20,6 @@ card:
 			back_color_hint: 
 			front_type_hint: Land
 			front_color_hint: <sym>T</sym>, 1 life: Add <sym>G</sym>.
-	special_text: 
 	name: Exposed Hinterland
 	name_2: Regarjex, Nest of Tyranny
 	image: image123.png
@@ -43,7 +42,7 @@ card:
 		<i-flavor>“<error-spelling:en_US>Erys</error-spelling:en_US> mocks us, with his fake <error-spelling:en_US>urdons</error-spelling:en_US>.<soft-line>
 		</soft-line>Platinum mocks us, <error-spelling:en_US>harbouring</error-spelling:en_US> heretics.<soft-line>
 		We will not suffer such blasphemy.</soft-line>”<soft-line>
-		</soft-line>—<error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: PK87
@@ -58,3 +57,4 @@ card:
 	copyright: Apriken
 	copyright_2: Apriken
 	copyright_3: Apriken
+	special_text: 

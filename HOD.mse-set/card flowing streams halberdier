@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>3G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3G</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>3G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>3G</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
 		When <atom-cardname><nospellcheck>Flowing Streams Halberdier</nospellcheck></atom-cardname> enters, target creature gets +2/+0 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

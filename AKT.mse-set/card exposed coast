@@ -20,7 +20,6 @@ card:
 			back_color_hint: 
 			front_type_hint: Land
 			front_color_hint: <sym>T</sym>, 1 life: Add <sym>U</sym>.
-	special_text: 
 	name: Exposed Coast
 	name_2: Erythea, Justiciar’s Rest
 	image: image124.png
@@ -41,7 +40,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“Like predator and prey, the worlds of the <error-spelling:en_US>burdent</error-spelling:en_US> and <error-spelling:en_US>unburdent</error-spelling:en_US> should be as distant as possible.”<soft-line>
-		—<error-spelling:en_US>Thawion</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Justiciar</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Thawion</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Justiciar</soft-line></error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Andreas Rochas
@@ -56,3 +55,4 @@ card:
 	copyright: Apriken
 	copyright_2: Apriken
 	copyright_3: Apriken
+	special_text: 

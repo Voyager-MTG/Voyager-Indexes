@@ -8,7 +8,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-01-25 12:50:23
-	time_modified: 2025-02-14 21:31:44
+	time_modified: 2025-09-14 15:00:13
 	name: Shapes in the Pools
 	casting_cost: 3U
 	image: image64
@@ -26,7 +26,7 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever you cast a noncreature spell, you may <b>[create an X/X black Spirit creature token that can’t block]</b>, where X is that spell’s mana value.
-		<kw-A><nospellcheck><key>Impetus <param-cost><atom-kwpph>cost</atom-kwpph></param-cost></key></nospellcheck>— <sym-auto>XB</sym-auto>, Pay X life. <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Impetus—<param-cost><sym-auto>XB</sym-auto>, Pay X life</param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>XB</sym-auto>, Pay X life</param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“Oh, it’s nothing... just thought I saw someone.”<soft-line>
 		—Manuela Martinez</soft-line></i-flavor>

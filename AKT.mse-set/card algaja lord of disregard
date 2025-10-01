@@ -18,7 +18,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Algaja</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>ten</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		When Algaja enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>ten</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>Rendered economically worthless, those who refused to take <error-spelling:en_US>erysium</error-spelling:en_US> were pushed into the maws of poverty, loan sharks, sweatshops, and <error-spelling:en_US>Algaja</error-spelling:en_US>.</i-flavor>
 	power: 4
 	toughness: 4

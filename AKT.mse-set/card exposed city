@@ -20,7 +20,6 @@ card:
 			back_color_hint: 
 			front_type_hint: Land
 			front_color_hint: <sym-auto>T</sym-auto>, 1 life: Add <sym>R</sym>.
-	special_text: 
 	name: Exposed City
 	name_2: Klata, God’s Plaything
 	image: image34.png
@@ -56,3 +55,4 @@ card:
 	copyright: Apriken
 	copyright_2: Apriken
 	copyright_3: Apriken
+	special_text: 

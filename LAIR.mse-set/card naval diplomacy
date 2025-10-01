@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!tag HODStory
+		!tag Dewold
+		!tag Nye
+		!tag Marilye
+	time_created: 2025-02-25 12:10:23
+	time_modified: 2025-09-25 18:11:48
+	card_trim: special guest, inverted
+	name: Naval Diplomacy
+	casting_cost: 1U
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Counter target spell unless its controller pays <sym-auto>2</sym-auto>.
+		<sym-auto>1U</sym-auto>, Exile <atom-cardname><nospellcheck>Naval Diplomacy</nospellcheck></atom-cardname> from your graveyard: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then create two 1/1 blue Scout creature tokens <kw-1><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: J Spearing
+	custom_card_number: 
+	card_code_text: Story Spotlight 6
+	card_code_text_2: 
+	card_code_text_3: 

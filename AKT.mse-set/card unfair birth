@@ -24,7 +24,7 @@ card:
 	rule_text: Destroy up to two target creatures, enchantments, and/or planeswalkers with total mana value 2 or less.
 	flavor_text:
 		<i-flavor>“Have as many pathetic attempts to recreate our splendor as you wish. The end result is the same: You will heel or you will die.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Novablast</error-spelling:en_US>, to <error-spelling:en_US>Erys</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Novablast</error-spelling:en_US>, to <error-spelling:en_US>Erys</error-spelling:en_US></i-flavor>
 	illustrator: KoruXypress
 	card_code_text: 
 	card_code_text_2: 

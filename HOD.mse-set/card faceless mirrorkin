@@ -24,7 +24,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>BGU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>BGU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>BGU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>BGU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
 		You may have <atom-cardname><nospellcheck>Faceless Mirrorkin</nospellcheck></atom-cardname> enter as a copy of any creature on the battlefield. If you paid this card’s deception cost, you may instead have this creature enter as a copy of the creature you returned to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0

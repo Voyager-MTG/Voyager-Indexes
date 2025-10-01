@@ -21,7 +21,7 @@ card:
 		<kw-A><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“So this is how <error-spelling:en_US>od</error-spelling:en_US> experiences the world.”<soft-line>
-		—<error-spelling:en_US>Lukka</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Lukka</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Saltamor
 	card_code_text: 
 	card_code_text_2: 

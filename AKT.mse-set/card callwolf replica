@@ -18,7 +18,7 @@ card:
 		When <atom-cardname><nospellcheck>Callwolf Replica</nospellcheck></atom-cardname> dies, it deals damage equal to its power to each opponent.
 	flavor_text:
 		<i-flavor>“Needs to be friskier to be one of </i>my<i> pups.”<soft-line>
-		—Chieftain <error-spelling:en_US>Gristlethark</soft-line></i-flavor></error-spelling:en_US>
+		—Chieftain <error-spelling:en_US>Gristlethark</soft-line></error-spelling:en_US></i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: AlectorFecner

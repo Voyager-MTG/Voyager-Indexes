@@ -21,10 +21,10 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: mythic rare
-	rule_text: Exile each opponent’s graveyard and library. For the rest of the game, they don’t lose the game if they would draw a card from an empty library unless you control a transcended <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erysite</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+	rule_text: Exile each opponent’s graveyard and library. For the rest of the game, they don’t lose the game if they would draw a card from an empty library unless you control a transcended Erysite.
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Manmade</error-spelling:en_US> gods are <error-spelling:en_US>crueller</error-spelling:en_US> than real ones.”<soft-line>
-		—<error-spelling:en_US>Lyyrata</error-spelling:en_US>, Progeny of <error-spelling:en_US>Erys</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Lyyrata</error-spelling:en_US>, Progeny of <error-spelling:en_US>Erys</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: 不想当画家的
 	card_code_text: 
 	card_code_text_2: 

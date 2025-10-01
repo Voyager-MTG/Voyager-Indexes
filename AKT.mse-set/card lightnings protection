@@ -24,10 +24,10 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: Create X 1/1 white Soldier creature tokens, where X is the number of creature types among non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erysite</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanents you control.
+	rule_text: Create X 1/1 white Soldier creature tokens, where X is the number of creature types among non-Erysite permanents you control.
 	flavor_text:
 		<i-flavor>“This is </i>exactly<i> why I disowned you. No one </i>wants<i> your authoritarian <error-spelling:en_US>nannying</error-spelling:en_US>.”<soft-line>
-		—King Platinum <error-spelling:en_US>Sarajii</soft-line></i-flavor></error-spelling:en_US>
+		—King Platinum <error-spelling:en_US>Sarajii</soft-line></error-spelling:en_US></i-flavor>
 	power: 
 	toughness: 
 	illustrator: Stepan Gilev

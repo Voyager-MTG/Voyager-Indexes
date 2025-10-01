@@ -26,7 +26,7 @@ card:
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice an artifact and an enchantment: Draw a card.
 	flavor_text:
 		<i-flavor>“I used to go shopping for scarves here as a kid; The city would flee in terror if I ever tried to again. Such is the curse of godhood.”<soft-line>
-		—<error-spelling:en_US>Lyyrata</error-spelling:en_US>, Progeny of <error-spelling:en_US>Erys</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Lyyrata</error-spelling:en_US>, Progeny of <error-spelling:en_US>Erys</soft-line></error-spelling:en_US></i-flavor>
 	power: 
 	toughness: 
 	illustrator: Istvoc

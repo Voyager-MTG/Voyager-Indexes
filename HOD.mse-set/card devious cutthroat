@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2B</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2B</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever <atom-cardname><nospellcheck>Devious Cutthroat</nospellcheck></atom-cardname> deals combat damage to a player or planeswalker, defending player discards a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

@@ -13,12 +13,6 @@ card:
 	notes: POLITICSCYCLE
 	time_created: 2023-12-16 16:24:44
 	time_modified: 2025-07-08 16:18:47
-	special_text:
-		<i>“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urdonic</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> strength protects Ur’s creation. Your weakness is <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Akella’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> health.”<soft-line>
-		</soft-line></i>—<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Novablast</i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
-		I, II — Destroy target creature with the least power or tied for the least.
-		III — If you control the creature with the greatest power or tied for it, you draw two cards and you lose 2 life.
-		​
 	name: Novablast’s Worldview
 	casting_cost: 1BB
 	image: image53.png
@@ -29,8 +23,8 @@ card:
 	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	chapter_text:
-		<i>“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urdonic</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> strength protects Ur’s creation. Your weakness is <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Akella’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> health.”<soft-line>
-		</soft-line></i>—<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Novablast</i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		<i>“Urdonic strength protects Ur’s creation. Your weakness is Akella’s health.”<soft-line>
+		</soft-line></i>—<i>Novablast</i>
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: Destroy target creature with the least power or tied for the least.
@@ -43,3 +37,9 @@ card:
 	copyright: Apriken
 	copyright_2: Apriken
 	copyright_3: Apriken
+	special_text:
+		<i>“Urdonic strength protects Ur’s creation. Your weakness is Akella’s health.”<soft-line>
+		</soft-line></i>—<i>Novablast</i>
+		I, II — Destroy target creature with the least power or tied for the least.
+		III — If you control the creature with the greatest power or tied for it, you draw two cards and you lose 2 life.
+		​

@@ -16,12 +16,6 @@ card:
 		POLITICSCYCLE
 	time_created: 2023-12-16 16:24:44
 	time_modified: 2025-02-07 03:54:19
-	special_text:
-		<i>“I won’t kowtow to an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>urdon’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> false strength. They have no idea how weak they truly are.”<soft-line>
-		—Lukka, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Godbonder</soft-line></i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
-		I, II — Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
-		III — If you have 5 or more life than an opponent, gain control of target tapped creature.
-		​
 	name: Lukka’s Worldview
 	casting_cost: 1UU
 	image: image52.png
@@ -32,8 +26,8 @@ card:
 	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	chapter_text:
-		<i>“I won’t kowtow to an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>urdon’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> false strength. They have no idea how weak they truly are.”<soft-line>
-		—Lukka, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Godbonder</soft-line></i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		<i>“I won’t kowtow to an urdon’s false strength. They have no idea how weak they truly are.”<soft-line>
+		—Lukka, Godbonder</soft-line></i>
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
@@ -46,3 +40,9 @@ card:
 	copyright: Apriken
 	copyright_2: Apriken
 	copyright_3: Apriken
+	special_text:
+		<i>“I won’t kowtow to an urdon’s false strength. They have no idea how weak they truly are.”<soft-line>
+		—Lukka, Godbonder</soft-line></i>
+		I, II — Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
+		III — If you have 5 or more life than an opponent, gain control of target tapped creature.
+		​

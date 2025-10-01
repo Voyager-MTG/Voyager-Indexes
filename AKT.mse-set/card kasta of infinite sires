@@ -38,7 +38,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
-		<sym-auto>R</sym-auto>: Exile <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kasta</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. You may cast him transformed without paying her mana cost. Activate only once each turn.
+		<sym-auto>R</sym-auto>: Exile Kasta. You may cast him transformed without paying her mana cost. Activate only once each turn.
 	rule_text_2:
 		<atom-cardname><nospellcheck>Bisapience Studies</nospellcheck></atom-cardname> deals 1 damage to each opponent. Add <sym-auto>U</sym-auto>.
 		<kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>Bisapience Studies</nospellcheck></atom-cardname>. <i-auto>(Exile it. You may cast either half on a later turn that a Werewolf or Wizard you control dealt damage to an opponent.)</i-auto>

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!ocean
+		!designer Wende
+		!tagis> champion
+		!tagchampion> TVP
+	time_created: 2025-09-25 01:38:38
+	time_modified: 2025-09-25 18:06:02
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: Wende
+	name: Blinding Majesty
+	casting_cost: 2W
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: masterpiece
+	rule_text: Create two 1/1 Wonder creature tokens that are all colors. When you do, up to one target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+	flavor_text: <i-flavor>Let your eyes wide, your mind open, and your muscles spring.</i-flavor>
+	illustrator: Ilya Popov
+	custom_card_number: GP2 — TVP
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: 

@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<sym-auto>T</sym-auto>: Create a token that’s a copy of target non-Ouphe creature you control. That token has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. At the beginning of your next end step, <kw-A><nospellcheck><key>forsake</key></nospellcheck>.<atom-reminder-action> <i-auto>(Sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>: Create a token that’s a copy of target non-Ouphe creature you control. That token has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. At the beginning of your next end step, <kw-A><nospellcheck><key>forsake</key></nospellcheck>.<atom-reminder-custom> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

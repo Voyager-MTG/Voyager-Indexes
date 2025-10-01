@@ -23,7 +23,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		At the beginning of combat on your turn, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do, put a +1/+1 counter on each creature you control.<atom-reminder-custom> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of combat on your turn, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do, put a +1/+1 counter on each creature you control.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>3W</sym-auto>: Create a 2/1 red Soldier creature token. It can’t block this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

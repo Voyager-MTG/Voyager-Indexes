@@ -24,8 +24,8 @@ card:
 	sub_type: <word-list-race-en>Erysite</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. If the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urveil</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> was embraced, add <sym-auto>WUBRG</sym-auto> instead.
-		<sym-auto>3</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urveil</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> from your hand: Create a colorless 3/2 Dragon creature token. <i-auto>(Exile it. You may play it on a later turn that an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erysite</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control dealt damage to an opponent.)</i-auto>
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. If the Urveil was embraced, add <sym-auto>WUBRG</sym-auto> instead.
+		<sym-auto>3</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> the Urveil from your hand: Create a colorless 3/2 Dragon creature token. <i-auto>(Exile it. You may play it on a later turn that an Erysite you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Rutger van de Steeg
 	card_code_text: 

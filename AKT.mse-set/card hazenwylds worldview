@@ -16,12 +16,6 @@ card:
 		POLITICSCYCLE
 	time_created: 2023-12-16 16:24:44
 	time_modified: 2025-04-05 01:56:38
-	special_text:
-		<i>“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erys</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> plans to remove our <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>bisapience</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, our identity. ‘Course we hate the daft prick!”<soft-line>
-		—<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Gristlethark</soft-line></i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
-		I, II — Up to one target creature gets +2/+2 and gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
-		III — Transform target creature you control. When you do, it fights up to one target creature you don’t control.
-		​
 	name: Hazenwyld’s Worldview
 	casting_cost: 1RR
 	image: image57.png
@@ -32,8 +26,8 @@ card:
 	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	chapter_text:
-		<i>“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erys</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> plans to remove our <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>bisapience</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, our identity. ‘Course we hate the daft prick!”<soft-line>
-		—<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Gristlethark</soft-line></i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		<i>“Erys plans to remove our bisapience, our identity. ‘Course we hate the daft prick!”<soft-line>
+		—Gristlethark</soft-line></i>
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: Up to one target creature gets +2/+2 and gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
@@ -46,3 +40,9 @@ card:
 	copyright: Apriken
 	copyright_2: Apriken
 	copyright_3: Apriken
+	special_text:
+		<i>“Erys plans to remove our bisapience, our identity. ‘Course we hate the daft prick!”<soft-line>
+		—Gristlethark</soft-line></i>
+		I, II — Up to one target creature gets +2/+2 and gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
+		III — Transform target creature you control. When you do, it fights up to one target creature you don’t control.
+		​

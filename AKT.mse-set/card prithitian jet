@@ -19,7 +19,7 @@ card:
 	rule_text: <atom-cardname><nospellcheck>Prithitian Jet</nospellcheck></atom-cardname> deals 2 damage to target creature or planeswalker. <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Erys</error-spelling:en_US> has given the power of Ur to any rat who begs for it, and none of the responsibility.”<soft-line>
-		—<error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Gabriel Oliviera
 	card_code_text: 
 	card_code_text_2: 

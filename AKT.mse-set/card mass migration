@@ -18,7 +18,7 @@ card:
 	rule_text: Whenever a land you control enters, return target permanent card  from your graveyard with mana value 1 or </sym>2<sym> to the battlefield with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Ith</error-spelling:en_US> is its fur, not its buildings. Flee so that its stories may still be woven.”<soft-line>
-		—<error-spelling:en_US>Syyakir</error-spelling:en_US> <error-spelling:en_US>Eyysapha</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Syyakir</error-spelling:en_US> <error-spelling:en_US>Eyysapha</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Siggie1
 	card_code_text: 
 	card_code_text_2: 

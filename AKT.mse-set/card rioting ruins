@@ -16,7 +16,7 @@ card:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 	flavor_text:
 		<i-flavor>“Why take pride in your frail bodies? They are the source of all oppression.” <soft-line>
-		</soft-line>—<error-spelling:en_US>Erys</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Erys</error-spelling:en_US></i-flavor>
 	illustrator: Dao Trong Le
 	card_code_text: 
 	card_code_text_2: 

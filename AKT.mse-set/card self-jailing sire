@@ -17,7 +17,7 @@ card:
 		REDUNCOMMON
 		WEREWOLFTYPE
 	time_created: 2023-09-07 23:42:37
-	time_modified: 2024-06-25 15:02:02
+	time_modified: 2025-09-14 15:02:22
 	extra_data:
 		magic-m15-mainframe-dfc:
 			back_type_hint: 0/1 Incarnation
@@ -39,7 +39,7 @@ card:
 	sub_type_2: <word-list-race-en>Werewolf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Incarnation</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Bisapience—<param-cost><sym>R</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Bisapience <param-cost><sym>R</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 	rule_text_2:
 		<kw-0><nospellcheck><key>Bisapience <param-cost><sym>R</sym></param-cost></key></nospellcheck></kw-0>

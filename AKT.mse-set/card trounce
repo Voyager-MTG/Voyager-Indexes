@@ -20,7 +20,7 @@ card:
 		<atom-cardname><nospellcheck>Trounce</nospellcheck></atom-cardname> deals 4 damage divided among one or two targets.
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Callwolves</error-spelling:en_US>? More like cockroaches.”<soft-line>
-		—<error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Zsolt Ruzsinszki
 	card_code_text: 
 	card_code_text_2: 

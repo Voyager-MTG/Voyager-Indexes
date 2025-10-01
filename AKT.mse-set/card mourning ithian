@@ -22,12 +22,12 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: When Mourning <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ithian</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> leaves the battlefield, return target instant or sorcery card from your graveyard to your hand.
+	rule_text: When Mourning Ithian leaves the battlefield, return target instant or sorcery card from your graveyard to your hand.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“Stop whining about being ‘disfigured.<error-spelling:en_US>’</error-spelling:en_US> The weak act against their interests.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Erys</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Erys</error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 4
