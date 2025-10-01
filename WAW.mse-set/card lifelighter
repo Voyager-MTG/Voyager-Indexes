@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-13 21:37:44
-	time_modified: 2025-01-28 17:32:22
+	time_modified: 2025-10-01 12:57:23
 	name: Lifelighter
 	casting_cost: 1W
 	image: image94
@@ -15,7 +15,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Lifelighter</nospellcheck></atom-cardname> enters, you may <b>[return target permanent you control not named <atom-cardname><nospellcheck>Lifelighter</nospellcheck></atom-cardname> to its owner’s hand.]</b>
-		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>W</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>W</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

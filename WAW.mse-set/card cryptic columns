@@ -15,7 +15,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: <b>[Add one mana of any color.]</b>
-		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>1</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>The structure of the Wonderlands is ever-shifting, and its motivations are inscrutable.</i-flavor>
 	power: 0
 	toughness: 4
