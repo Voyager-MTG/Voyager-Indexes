@@ -24,7 +24,7 @@ card:
 	rule_text: Create a token that’s a copy of target creature you control. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and “This creature doesn’t untap during your untap step.”
 	flavor_text:
 		<i-flavor>“Wars won based purely on numbers alone? How entirely graceless.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Capac</error-spelling:en_US> <error-spelling:en_US>Suyay</error-spelling:en_US></i-flavor>
+		</soft-line>—<error-spelling:en_US>Capac</error-spelling:en_US> <error-spelling:en_US>Suyay</i-flavor></error-spelling:en_US>
 	illustrator: Andrew Mar
 	card_code_text: 
 	card_code_text_2: 

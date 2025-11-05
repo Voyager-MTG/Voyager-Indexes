@@ -15,7 +15,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		<atom-cardname><nospellcheck>Spark</nospellcheck></atom-cardname> deals 1 damage to any target.
-		<i-auto>(This is a conjured card and not legal in deckbuilding)</i-auto> 
+		<i-auto>(This is a conjured card and not legal in <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>deckbuilding</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto> 
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Eliag1101
 	card_code_text: 

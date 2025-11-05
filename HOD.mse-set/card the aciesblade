@@ -22,8 +22,8 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		At the beginning of your upkeep or whenever you cast a spell, put a charge counter on The Aciesblade.
-		<sym-auto>2W</sym-auto>, Sacrifice The Aciesblade: Search your library for any number of planeswalker cards with total mana value equal to or less than the number of charge counters on The Aciesblade and put them onto the battlefield, then shuffle. Activate only as a sorcery.
+		At the beginning of your upkeep or whenever you cast a spell, put a charge counter on The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aciesblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		<sym-auto>2W</sym-auto>, Sacrifice The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aciesblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Search your library for any number of planeswalker cards with total mana value equal to or less than the number of charge counters on The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aciesblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and put them onto the battlefield, then shuffle. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Hue Teo
 	card_code_text: 

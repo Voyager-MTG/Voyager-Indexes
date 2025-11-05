@@ -26,7 +26,7 @@ card:
 		<sym-auto>4UB</sym-auto>: Exile enchanted creature. Its owner may have you return it to the battlefield under your control. If they don’t, you draw three cards.
 	flavor_text:
 		<i-flavor>“Cease all progress, <error-spelling:en_US>Ajha</error-spelling:en_US>, or this will be war.”<soft-line>
-		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Abilio Antonio
 	card_code_text: 
 	card_code_text_2: 

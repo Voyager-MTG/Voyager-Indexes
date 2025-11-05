@@ -34,7 +34,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text: When <atom-legname><nospellcheck>Hann</nospellcheck></atom-legname> enters, you may search your library for a land card that doesn’t share a name with a land you control or a Veceslav planeswalker card, reveal it, put it into your hand, then shuffle.
+	rule_text: When <atom-legname><nospellcheck>Hann</nospellcheck></atom-legname> enters, you may search your library for a land card that doesn’t share a name with a land you control or a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Veceslav</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> planeswalker card, reveal it, put it into your hand, then shuffle.
 	flavor_text: <i-flavor>“If House <error-spelling:en_US>Phyre</error-spelling:en_US> is to be reduced to kindles, so must all of <error-spelling:en_US>Dewold</error-spelling:en_US>.”</i-flavor>
 	power: 2
 	toughness: 1

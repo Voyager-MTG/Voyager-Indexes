@@ -15,7 +15,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		Target opponent loses 1 life and you gain 1 life.
-		<i-auto>(This is a conjured card and not legal in deckbuilding)</i-auto> 
+		<i-auto>(This is a conjured card and not legal in <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>deckbuilding</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto> 
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Chris Nazgul
 	card_code_text: 

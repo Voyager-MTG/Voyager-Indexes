@@ -26,7 +26,7 @@ card:
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a creature.
 		Draw two cards. 
-		<sym-auto>1B</sym-auto>, Exile <atom-cardname><nospellcheck>Piercing Betrayal</nospellcheck></atom-cardname> from your graveyard as a sorcery: Conjure two cards named Drain into your hand. <i-auto>(They’re <sym>B</sym> sorceries with “Target opponent loses 1 life and you gain 1 life.”)</i-auto>
+		<sym-auto>1B</sym-auto>, Exile <atom-cardname><nospellcheck>Piercing Betrayal</nospellcheck></atom-cardname> from your graveyard as a sorcery: Conjure two cards named Drain into your hand. <i-auto>(They’re <sym>B</sym> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sorceries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with “Target opponent loses 1 life and you gain 1 life.”)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Emily Lubanko
 	card_code_text: 

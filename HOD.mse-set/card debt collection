@@ -23,7 +23,7 @@ card:
 	rule_text: Target creature gets -3/-3 until end of turn. If that creature would die this turn, exile it instead.
 	flavor_text:
 		<i-flavor>“If you want to use a hammer, go with House Hook. If you want it done with finesse, you chose the right House.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Fleta</error-spelling:en_US> <error-spelling:en_US>Plaskett</error-spelling:en_US></i-flavor>
+		</soft-line>—<error-spelling:en_US>Fleta</error-spelling:en_US> <error-spelling:en_US>Plaskett</i-flavor></error-spelling:en_US>
 	illustrator: Ala Kapustka
 	card_code_text: 
 	card_code_text_2: 

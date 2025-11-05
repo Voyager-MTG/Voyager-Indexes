@@ -21,7 +21,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		When <atom-cardname><nospellcheck>Ilcan Keyseeker</nospellcheck></atom-cardname> enters, untap target creature and put a +1/+1 counter on it. If that creature is a Wonder, put an additional +1/+1 counter on it.
-		<kw-A><nospellcheck><key>Reflect <param-cost><sym-auto>3W</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>3W</sym-auto></param-cost>: Create a token copy of this creature, except it’s a 1/1 Wonder <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en> without reflect. Reflect only as a sorcery, and only once.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Reflect <param-cost><sym-auto>3W</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>3W</sym-auto></param-cost>: Create a token copy of this creature, except it’s a 1/1 Wonder Human Wizard without reflect. Reflect only as a sorcery, and only once.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

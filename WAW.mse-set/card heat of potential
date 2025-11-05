@@ -15,7 +15,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		<atom-cardname><nospellcheck>Heat of Potential</nospellcheck></atom-cardname> deals 2 damage to any nonplayer target.
+		<atom-cardname><nospellcheck>Heat of Potential</nospellcheck></atom-cardname> deals 2 damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.
 		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — <atom-cardname><nospellcheck>Heat of Potential</nospellcheck></atom-cardname> deals 5 damage to that target instead if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
 	flavor_text:
 		<i-flavor>“Fire has only one wish, and it’s been granted.”<soft-line>

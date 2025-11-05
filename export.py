@@ -1,4 +1,6 @@
-import os, shutil
+import os, shutil, sys
+
+export_all = "--export-all" in sys.argv
 
 include_sets = [
     "AKT",
@@ -17,25 +19,61 @@ include_sets = [
     "END"
 ]
 
-try:
-    shutil.rmtree("1.exports")
-except: 
-    print("error when removing")
+command = "git status --porcelain"
+diffs = os.popen(command).read()
 
-try:
-    os.mkdir("1.exports")
-except:
-    print("error when creating")
+changed_sets = []
+missing_sets = []
 
-try:
-    os.mkdir("1.exports/trice")
-except:
-    print("error when creating trice")
+for line in diffs.split("\n"):
+    if "1.exports/" in line or "export.py" in line: continue
+    
+    set_name = line[4:].split(".mse-set")[0]
+    changed_sets.append(set_name)
+    
 
-try:
-    os.mkdir("1.exports/egg")
-except:
-    print("error when creating egg")
+sets_in_diff = []
+
+sets_in_egg = os.listdir("1.exports/egg")
+sets_in_trice = os.listdir("1.exports/trice")
+
+existing_sets = [*sets_in_egg, *sets_in_trice]
+sets = []
+
+for exported_set in existing_sets:
+    if not "-files" in exported_set: continue
+
+    sets.append(exported_set.split("-files")[0])
+    
+for _set in include_sets:
+    if not _set in sets:
+        missing_sets.append(_set)
+
+print(missing_sets)
+
+sets_to_export = list({*missing_sets, *changed_sets})
+
+print(sets_to_export)
+
+# try:
+#     shutil.rmtree("1.exports")
+# except: 
+#     print("error when removing")
+
+# try:
+#     os.mkdir("1.exports")
+# except:
+#     print("error when creating")
+
+# try:
+#     os.mkdir("1.exports/trice")
+# except:
+#     print("error when creating trice")
+
+# try:
+#     os.mkdir("1.exports/egg")
+# except:
+#     print("error when creating egg")
 
 set_list = []
 dirs = os.listdir()

@@ -26,7 +26,7 @@ card:
 	rarity: common
 	rule_text:
 		Exile target nonland permanent. Draw a card. 
-		<i-auto>(This is a conjured card and not legal in deckbuilding)</i-auto> 
+		<i-auto>(This is a conjured card and not legal in <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>deckbuilding</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto> 
 	flavor_text: <i-flavor></i-flavor>
 	level_3_text: 
 	illustrator: Aths Art
