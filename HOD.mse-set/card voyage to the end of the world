@@ -33,7 +33,7 @@ card:
 	rule_text: Target player draws three cards and loses 3 life.
 	flavor_text:
 		<i-flavor>“Why wait in a stuffy castle, trying to play the courts for a few gold pieces? Go out on the sea and take it.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Elric</error-spelling:en_US> <error-spelling:en_US>Nye</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Elric</error-spelling:en_US> <error-spelling:en_US>Nye</error-spelling:en_US></i-flavor>
 	illustrator: Denis Loebner
 	card_code_text: 
 	card_code_text_2: 

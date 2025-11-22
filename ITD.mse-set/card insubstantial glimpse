@@ -13,7 +13,7 @@ card:
 		overlay: 
 	notes: A shimmer on the water, a stray reflection or something else entirely?
 	time_created: 2024-08-27 16:56:22
-	time_modified: 2025-11-04 18:46:12
+	time_modified: 2025-04-01 16:50:18
 	name: Insubstantial Glimpse
 	casting_cost: W
 	image: image47
@@ -24,7 +24,7 @@ card:
 	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>2WW</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for <param-cost><sym-auto>2WW</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. <atom-cardname><nospellcheck>Insubstantial Glimpse</nospellcheck></atom-cardname> enters tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>2WW</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2WW</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Insubstantial Glimpse</nospellcheck></atom-cardname> deals combat damage to a player, if it entered this turn, exile up to one target creature.
 	flavor_text: <i-flavor></i-flavor>

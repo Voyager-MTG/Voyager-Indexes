@@ -18,7 +18,7 @@ card:
 	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>. <atom-cardname><nospellcheck>Hall of Flowing Streams</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
 	flavor_text:
 		<i-flavor>“My House is one of exploration and adventure.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Dovizia</error-spelling:en_US> <error-spelling:en_US>Attwater</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Dovizia</error-spelling:en_US> <error-spelling:en_US>Attwater</error-spelling:en_US></i-flavor>
 	illustrator: Aleksandra Wojtas
 	card_code_text: 
 	card_code_text_2: 

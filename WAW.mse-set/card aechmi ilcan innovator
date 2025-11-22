@@ -25,7 +25,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-legname><nospellcheck>Aechmi</nospellcheck></atom-legname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
-		<kw-A><nospellcheck><key>Ploy</key></nospellcheck>—Add <sym>URW</sym>. You don’t lose this mana as steps and phases end this turn.<atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Ploy—<param-action>Add <sym>URW</sym>. You don’t lose this mana as steps and phases end this turn</param-action>.</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-custom></kw-A>
 		When <atom-legname><nospellcheck>Aechmi</nospellcheck></atom-legname> dies, you may discard your hand. If you do, draw cards equal to the number of spells cast this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

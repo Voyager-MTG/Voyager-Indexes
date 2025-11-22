@@ -23,7 +23,7 @@ card:
 	rule_text: Look at target opponent’s hand. Choose a nonland, non-Wonder card from it. That player discards that card. You gain 2 life.
 	flavor_text:
 		<i-flavor>“It’s not that I don’t care, it’s just... I haven’t had a life away from the sword for so long, and this place can give me that.”<soft-line>
-		—<error-spelling:en_US>Nenwe</error-spelling:en_US>, <error-spelling:en_US>Ilcan</error-spelling:en_US> survivor, to <error-spelling:en_US>Ajha</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Nenwe</error-spelling:en_US>, <error-spelling:en_US>Ilcan</error-spelling:en_US> survivor, to <error-spelling:en_US>Ajha</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Hazel Richmond
 	card_code_text: 
 	card_code_text_2: 

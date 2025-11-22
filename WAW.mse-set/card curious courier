@@ -24,7 +24,7 @@ card:
 		<sym-auto>2</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Curious Courier</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“The <error-spelling:en_US>Ilcans</error-spelling:en_US> are violent, and we don’t know what they’re capable of. Keep the peace until we do.”<soft-line>
-		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></error-spelling:en_US></i-flavor>
 	power: 1
 	toughness: 2
 	illustrator: Joao Phillippe

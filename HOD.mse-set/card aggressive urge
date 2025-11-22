@@ -25,7 +25,7 @@ card:
 		Draw a card.
 	flavor_text:
 		<i-flavor>“Act with care and back away. Just don’t do the Hook way without a plan.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Dovizia</error-spelling:en_US> <error-spelling:en_US>Attwater</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Dovizia</error-spelling:en_US> <error-spelling:en_US>Attwater</error-spelling:en_US></i-flavor>
 	illustrator: Roberto Robert
 	card_code_text: 
 	card_code_text_2: 

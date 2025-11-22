@@ -24,7 +24,7 @@ card:
 	rule_text: Target creature you control gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn. Create a token that’s a copy of that creature <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“Aim for the army, not the knights.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Clotilde</error-spelling:en_US> <error-spelling:en_US>Banefort</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Clotilde</error-spelling:en_US> <error-spelling:en_US>Banefort</error-spelling:en_US></i-flavor>
 	illustrator: Anato Finnstark
 	card_code_text: 
 	card_code_text_2: 

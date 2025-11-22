@@ -26,7 +26,7 @@ card:
 		Whenever you cast a spell with mana value 5 or greater, you may return <atom-cardname><nospellcheck>Turnberry Legionnaire</nospellcheck></atom-cardname> from your graveyard to your hand.
 	flavor_text:
 		<i-flavor>“An obedient knight that never questions orders.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Gosfridus</error-spelling:en_US> <error-spelling:en_US>Turnberry</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Gosfridus</error-spelling:en_US> <error-spelling:en_US>Turnberry</error-spelling:en_US></i-flavor>
 	power: 2
 	toughness: 1
 	illustrator: Ernesto Carrasquillo Velez

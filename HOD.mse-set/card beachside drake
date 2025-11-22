@@ -24,7 +24,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<sym-auto>U</sym-auto>, <kw-A><nospellcheck><key>Forsake</key></nospellcheck>: Counter target noncreature spell.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>U</sym-auto>, <kw-A><nospellcheck><key>Forsake</key></nospellcheck>: Counter target noncreature spell.<atom-reminder-custom> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 1

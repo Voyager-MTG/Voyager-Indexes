@@ -435,12 +435,6 @@ keyword:
 	reminder: It’s an Equipment with equip [2] and "Equipped creature gets +1/+1."
 	rules: 
 	mode: custom
-keyword:
-	keyword: Sneak
-	match: Sneak <atom-param>cost</atom-param>
-	reminder: You may cast this spell for {param1} if you also return an unblocked attacker you control to hand during the declare blockers step.{if has_pt() then " CARDNAME enters tapped and attacking." }
-	rules: 
-	mode: expert
 version_control:
 	type: none
 apprentice_code: 

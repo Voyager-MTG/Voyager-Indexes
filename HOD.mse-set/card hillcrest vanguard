@@ -13,7 +13,7 @@ card:
 		!tag Dewold
 		!tag Attwater
 	time_created: 2025-02-24 00:31:14
-	time_modified: 2025-11-04 18:39:12
+	time_modified: 2025-07-15 18:35:11
 	name: Hillcrest Vanguard
 	casting_cost: 1GU
 	image: image584
@@ -30,7 +30,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>GU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for <param-cost><sym-auto>GU</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. If you do, <atom-cardname><nospellcheck>Hillcrest Vanguard</nospellcheck></atom-cardname> enters tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>GU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>GU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
 		If a creature entering the battlefield or dealing combat damage to an opponent causes a triggered ability of a permanent you control to trigger during combat, that ability triggers an additional time.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

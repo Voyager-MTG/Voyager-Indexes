@@ -27,7 +27,7 @@ card:
 		When <atom-cardname><nospellcheck>Mockery of Innocence</nospellcheck></atom-cardname> enters, you may destroy target creature. You gain life equal to 8 minus that creature’s mana value.
 	flavor_text:
 		<i-flavor>“My armies don’t need soldiers and swords. I have siege weapons.”<soft-line>
-		—<error-spelling:en_US>Gosfridus</error-spelling:en_US> <error-spelling:en_US>Turnberry</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Gosfridus</error-spelling:en_US> <error-spelling:en_US>Turnberry</soft-line></error-spelling:en_US></i-flavor>
 	power: 7
 	toughness: 5
 	illustrator: Diano Franco
