@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-10-08 00:58:53
-	time_modified: 2025-02-21 16:57:58
+	time_modified: 2025-12-01 23:35:15
 	name: Forgotten Tongues
 	casting_cost: 2U
 	image: image336
@@ -25,7 +25,6 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	watermark: custom watermark one
 	illustrator: Jane Bekarevich
 	card_code_text: 
 	card_code_text_2: 

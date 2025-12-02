@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-05-07 21:22:38
-	time_modified: 2025-02-21 16:54:20
+	time_modified: 2025-12-01 23:35:23
 	card_color: blue
 	name: Dreamway Imposter
 	casting_cost: 2U
@@ -26,7 +26,6 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	watermark: custom watermark one
 	power: 3
 	toughness: 2
 	illustrator: Diane ÖZDAMAR

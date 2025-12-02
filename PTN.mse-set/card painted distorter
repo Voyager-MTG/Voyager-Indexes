@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/jasonengle/art/Mother-Hydra-820994184
 	time_created: 2023-06-22 22:15:28
-	time_modified: 2025-07-02 22:01:13
+	time_modified: 2025-12-01 23:34:45
 	card_color: blue
 	name: Painted Distorter
 	casting_cost: 5U
@@ -38,7 +38,6 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	watermark: custom watermark one
 	power: 4
 	toughness: 4
 	illustrator: Jason A. Engle

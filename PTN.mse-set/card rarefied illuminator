@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-09-09 14:53:42
-	time_modified: 2025-08-19 12:41:52
+	time_modified: 2025-12-01 23:34:46
 	card_color: white
 	name: Rarefied Illuminator
 	casting_cost: 2W
@@ -37,7 +37,6 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	watermark: custom watermark one
 	power: 2
 	toughness: 3
 	illustrator: Martin Mottet

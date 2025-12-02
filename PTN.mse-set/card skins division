@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-10-08 00:58:53
-	time_modified: 2025-07-02 22:01:40
+	time_modified: 2025-12-01 23:34:55
 	name: Skin’s Division
 	casting_cost: 1U
 	image: image111
@@ -36,7 +36,6 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	watermark: custom watermark one
 	illustrator: Julie Dillon
 	card_code_text: 
 	card_code_text_2: 
