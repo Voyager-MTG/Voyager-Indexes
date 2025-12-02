@@ -31,7 +31,7 @@ card:
 	rarity: rare
 	rule_text:
 		Choose one —
-		<li><bullet>• </bullet>Standoff at Beachside deals 3 damage to each creature and each planeswalker.
+		<li><bullet>• </bullet>Standoff at <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Beachside</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 3 damage to each creature and each planeswalker.
 		</li><li><bullet>• </bullet>Discard any number of cards. Draw cards equal to the number of cards discarded this way plus one.</li>
 	flavor_text:
 		<i-flavor>“The mighty have no need to concern themselves with the concerns of the pitiful.”

@@ -14,7 +14,7 @@ card:
 		!tag Dewold
 		!tag Rey
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-03-05 02:16:12
+	time_modified: 2025-12-01 16:23:21
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -37,7 +37,7 @@ card:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		Whenever <atom-cardname><nospellcheck>Caryl Rey, the Rose</nospellcheck></atom-cardname> attacks, exile the top card of your library. You may cast it. If you don’t, put a +1/+1 counter on <atom-legname><nospellcheck>Caryl Rey</nospellcheck></atom-legname>.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Heir—<param-name>You have twenty or more cards in exile.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Heir—<param-name>You have ten or more cards in exile.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto></atom-reminder-expert></kw-A>
 	power: 4
 	toughness: 3
 	illustrator: Koni - Amandine GIRARD

@@ -21,7 +21,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		This spell costs <sym-auto>2</sym-auto> less to cast if you control a legendary creature or a Knight.
-		When <atom-cardname><nospellcheck>In Hopeful Caress</nospellcheck></atom-cardname> enters, exile target nonland, nonlegendary permanent an opponent controls until Engrossed in the Tale leaves the battlefield. 
+		When <atom-cardname><nospellcheck>In Hopeful Caress</nospellcheck></atom-cardname> enters, exile target nonland, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonlegendary</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanent an opponent controls until Engrossed in the Tale leaves the battlefield. 
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Yana Vaseva
 	card_code_text: 

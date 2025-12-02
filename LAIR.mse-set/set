@@ -19,7 +19,7 @@ styling:
 		overlay: 
 	magic-m15-altered-plus:
 		main_style: normal
-		other_options: use starting loyalty, vorthos box
+		other_options: vorthos box
 		additional_options: 
 		font_cap: 
 		level_offset: -20,-38,-58,

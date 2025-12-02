@@ -27,7 +27,7 @@ card:
 		Whenever you sacrifice a permanent, target creature can’t block this turn.
 	flavor_text:
 		<i-flavor>“Always make sure to cover your tracks. And explosions tend to cover a lot of ground.”<soft-line>
-		—<error-spelling:en_US>Wystan</error-spelling:en_US> <error-spelling:en_US>Terrel</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Wystan</error-spelling:en_US> <error-spelling:en_US>Terrel</soft-line></i-flavor></error-spelling:en_US>
 	power: 1
 	toughness: 1
 	illustrator: Grzegorz Wlazlo

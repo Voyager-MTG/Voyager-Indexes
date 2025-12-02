@@ -14,7 +14,7 @@ card:
 		!tag Dewold
 		!tag Nye
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-03-05 21:30:12
+	time_modified: 2025-12-01 16:23:13
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -33,11 +33,13 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Creatures you control can’t be blocked unless each creature with lesser power than that creature is also blocked.
+	rule_text:
+		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>
+		Creatures you control can’t be blocked unless each creature with lesser power than that creature is also blocked.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-0><nospellcheck><key>Heir—<param-name>Your opponents have been dealt combat damage by unblocked creatures five or more times this game.</param-name></key></nospellcheck></kw-0> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition. Each creature counts separately.)</i-auto>
+	level_1_text: <kw-0><nospellcheck><key>Heir—<param-name>Your opponents have been dealt combat damage by unblocked creatures four or more times this game.</param-name></key></nospellcheck></kw-0> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition. Each creature counts separately.)</i-auto>
 	power: 3
-	toughness: 2
+	toughness: 3
 	illustrator: Thanh Tuan
 	card_code_text: 
 	card_code_text_2: 

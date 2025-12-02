@@ -18,7 +18,7 @@ card:
 	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>. <atom-cardname><nospellcheck>Truetower Castle</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
 	flavor_text:
 		<i-flavor>“My House is one of history and accomplishment.”<soft-line>
-		</soft-line>—Alger <error-spelling:en_US>Perle</error-spelling:en_US></i-flavor>
+		</soft-line>—Alger <error-spelling:en_US>Perle</i-flavor></error-spelling:en_US>
 	illustrator: Roberto Robert
 	card_code_text: 
 	card_code_text_2: 

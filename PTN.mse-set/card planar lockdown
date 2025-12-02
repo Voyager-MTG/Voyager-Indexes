@@ -26,7 +26,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Planeswalkers</error-spelling:en_US> are a threat to the <error-spelling:en_US>Mansus</error-spelling:en_US>, surrender your spark or you will open.”<soft-line>
-		</soft-line>—The Horned-<error-spelling:en_US>Axe</error-spelling:en_US>, to <error-spelling:en_US>Isidra</error-spelling:en_US></i-flavor>
+		</soft-line>—The Horned-<error-spelling:en_US>Axe</error-spelling:en_US>, to <error-spelling:en_US>Isidra</i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Eran Fowler

@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<b>[<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>]</b>, then you may pay 1 life to return one of the milled cards to your hand.
-		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>B</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“Another meteor. Damn place is taunting me.”<soft-line>
 		—Chance-in-Hell</soft-line></i-flavor>

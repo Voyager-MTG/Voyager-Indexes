@@ -15,7 +15,7 @@ card:
 		!tag Vance
 		!tag Petula
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-07-01 21:15:18
+	time_modified: 2025-12-01 16:23:54
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -36,8 +36,8 @@ card:
 	rarity: rare
 	rule_text: Whenever <atom-legname><nospellcheck>Petula Vance</nospellcheck></atom-legname> attacks, exile another attacking creature you control. If you do, return target creature card from your graveyard to the battlefield tapped and attacking.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Heir—<param-name>You’ve cast five or more spells for an amount of mana less than their mana value.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto></atom-reminder-expert></kw-A>
-	power: 3
+	level_1_text: <kw-A><nospellcheck><key>Heir—<param-name>You’ve cast four or more spells for an amount of mana less than their mana value.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto></atom-reminder-expert></kw-A>
+	power: 4
 	toughness: 4
 	illustrator: Jeff Kristian
 	card_code_text: 

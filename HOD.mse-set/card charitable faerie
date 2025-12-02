@@ -25,7 +25,7 @@ card:
 		When <atom-cardname><nospellcheck>Charitable Faerie</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
 	flavor_text:
 		<i-flavor>“House <error-spelling:en_US>Rey</error-spelling:en_US> remembers all, from the grandest slight to the smallest favor.”<soft-line>
-		</soft-line>—Edith <error-spelling:en_US>Rey</error-spelling:en_US></i-flavor>
+		</soft-line>—Edith <error-spelling:en_US>Rey</i-flavor></error-spelling:en_US>
 	power: 1
 	toughness: 3
 	illustrator: Stephen Stark

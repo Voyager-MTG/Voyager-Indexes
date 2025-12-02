@@ -36,7 +36,7 @@ card:
 	loyalty: 4
 	level_1_text: Whenever a token enters from your reserves, put a +1/+1 counter and your choice of a <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> counter on it.
 	level_2_text: <margin:130:0:0>Create two 1/1 white Soldier creature tokens <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A></margin:130:0:0>
-	level_3_text: <margin:130:0:0>Create two white enchantment tokens named Intisuyu’s Armies with “At the beginning of your end step, create a 1/1 white Solider creature token for each creature you control.”</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Create two white enchantment tokens named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Intisuyu’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Armies with “At the beginning of your end step, create a 1/1 white Solider creature token for each creature you control.”</margin:130:0:0>
 	level_4_text: 
 	illustrator: Juan Carlos Alegre
 	card_code_text: 
@@ -46,4 +46,4 @@ card:
 	special_text:
 		Whenever a token enters from your reserves, put a +1/+1 counter and your choice of a <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> counter on it.
 		[+1]: <margin:130:0:0>Create two 1/1 white Soldier creature tokens <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A></margin:130:0:0>
-		[-7]: <margin:130:0:0>Create two white enchantment tokens named Intisuyu’s Armies with “At the beginning of your end step, create a 1/1 white Solider creature token for each creature you control.”</margin:130:0:0>
+		[-7]: <margin:130:0:0>Create two white enchantment tokens named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Intisuyu’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Armies with “At the beginning of your end step, create a 1/1 white Solider creature token for each creature you control.”</margin:130:0:0>

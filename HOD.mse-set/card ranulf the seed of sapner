@@ -15,7 +15,7 @@ card:
 		!tag Ranulf
 		!tag Sapner
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-03-05 02:15:28
+	time_modified: 2025-12-01 16:23:35
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -36,7 +36,7 @@ card:
 	rarity: rare
 	rule_text: <kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Whenever a land you control enters, return target card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Heir—<param-name>You control six or more lands and you don’t control any nonbasic lands and there aren’t any nonbasic lands in your graveyard.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Heir—<param-name>You control six or more lands and you don’t control any nonbasic lands.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto></atom-reminder-expert></kw-A>
 	power: 6
 	toughness: 6
 	illustrator: Doe Doe Doe

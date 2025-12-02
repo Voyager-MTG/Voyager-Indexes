@@ -7,12 +7,12 @@ card:
 		!tagis> champion
 		!tagchampion> TVP
 	time_created: 2025-09-25 01:38:38
-	time_modified: 2025-09-25 18:06:02
+	time_modified: 2025-12-01 16:24:47
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: Wende
 	name: Blinding Majesty
-	casting_cost: 2W
+	casting_cost: 3W
 	image: image32
 	image_2: 
 	mainframe_image: 
