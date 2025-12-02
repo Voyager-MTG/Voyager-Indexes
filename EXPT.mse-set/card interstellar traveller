@@ -25,7 +25,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Interstellar Traveller</nospellcheck></atom-cardname> enters, if it was cast, create a token that’s a copy of target nonenchantment permanent, except it’s an enchantment. <i-auto>(It loses its other types.)</i-auto>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, if it was cast, create a token that’s a copy of target nonenchantment permanent, except it’s an enchantment. <i-auto>(It loses its other types.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

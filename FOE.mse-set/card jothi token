@@ -34,9 +34,9 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When Jothi enters, put a +1/+1 counter on up to one target creature.
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jothi</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, put a +1/+1 counter on up to one target creature.
 		<sym-auto>+1</sym-auto>: Target creature you control gets +1/+1 until end of turn. If it entered this turn, put a +1/+1 counter on it.
-		<sym-auto>-4</sym-auto>: Create a token that’s a copy of Jothi, except it’s not legendary, doesn’t enter with loyalty counters and is a 1/1 Bird creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		<sym-auto>-4</sym-auto>: Create a token that’s a copy of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jothi</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, except it’s not legendary, doesn’t enter with loyalty counters and is a 1/1 Bird creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

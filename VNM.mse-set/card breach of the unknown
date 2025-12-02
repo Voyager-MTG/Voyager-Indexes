@@ -18,7 +18,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2024-07-30 18:16:53
+	time_modified: 2025-11-23 18:50:25
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -36,9 +36,9 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>land you control.</param-name></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>land you control</param-name></key></nospellcheck></kw-a>
 		Whenever you tap enchanted land, add <sym-auto>I</sym-auto>.
-		<sym-auto>5II</sym-auto>: Target enchantment becomes a 4/4 creature. <i-auto>(This effect lasts indefinitely.)</i-auto>
+		<sym-auto>5II</sym-auto>: Put a breach counter on target enchantment. It becomes a 4/4 creature.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2024-03-28 17:28:15
+	time_modified: 2025-11-23 21:09:06
 	name: Whisperer of the Paths
 	casting_cost: GW
 	image: image160
@@ -19,10 +19,10 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Whenever you cast a noncreature spell, you may pay <sym-auto>1</sym-auto>. If you do, put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
+	rule_text: Once each turn, when you cast a noncreature spell, put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>As the people of <error-spelling:en_US>Vinimroth</error-spelling:en_US> poured into the paths, many had to take the mantle of whisperer to prevent danger.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 2

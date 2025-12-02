@@ -17,7 +17,7 @@ card:
 		Verdant
 		!backname Midrim Cleave
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2025-08-30 05:49:32
+	time_modified: 2025-11-23 20:34:23
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -57,7 +57,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2:
 		<i-flavor>“You are who you see yourself as.”<soft-line>
-		</soft-line>—Saying on <error-spelling:en_US>Mirdrim</error-spelling:en_US></i-flavor>
+		</soft-line>—Saying on <error-spelling:en_US>Mirdrim</i-flavor></error-spelling:en_US>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

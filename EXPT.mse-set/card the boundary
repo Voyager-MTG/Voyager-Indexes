@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!designer Wende
+		https://www.artstation.com/artwork/YaDVZX
+	time_created: 2025-03-30 19:44:29
+	time_modified: 2025-11-22 13:29:42
+	card_color: silver, land, multicolor
+	name: The Boundary
+	image: image23.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, it enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.
+		<sym-auto>T</sym-auto>: Add one mana of any color a land you control could produce.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ricardo Herrera
+	card_code_text: • Designed by Wende
+	card_code_text_2: 
+	card_code_text_3: 

@@ -4,6 +4,7 @@ card:
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
+		inverted_common_symbol: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer Aanginer

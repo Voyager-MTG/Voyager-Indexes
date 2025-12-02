@@ -7,7 +7,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer Styles
 	time_created: 2025-02-22 23:38:01
-	time_modified: 2025-03-30 16:34:52
+	time_modified: 2025-11-23 15:28:04
 	card_color: silver
 	name: The Lost Heir
 	casting_cost: 1I
@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-0><nospellcheck><key>Protection from <param-name>planeswalkers</param-name></key></nospellcheck></kw-0>
+		<kw-0><nospellcheck><key>Protection from <param-name>planeswalkers.</param-name></key></nospellcheck></kw-0>
 		Once each turn, if an opponent would cast a spell from anywhere other than their hand or reveal a card from their sanctum, draw a card.
 	flavor_text: <i-flavor>To play in the shadows, you must first escape the light.</i-flavor>
 	power: 2

@@ -14,9 +14,9 @@ card:
 		RA03,Noncreature,2,,Sorcerous Spyglass
 		#voyager fix
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-08-04 18:55:24
+	time_modified: 2025-11-23 19:34:47
 	name: Extraplanar Portal
-	casting_cost: 6
+	casting_cost: 9
 	image: image361
 	image_2: 
 	mainframe_image: 
@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, each opponent chooses two creatures they control and put it into their owner’s sanctum.
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, each opponent chooses three creatures they control and puts them into their owner’s sanctum.
 		Once during each of your turns, you may play a card from your sanctum.
 	rule_text_2: 
 	rule_text_3: 

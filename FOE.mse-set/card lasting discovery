@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-08-18 15:49:09
+	time_modified: 2025-11-23 19:39:43
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal back
@@ -42,7 +42,7 @@ card:
 		<b>3 </b>| 3/3 green Beast
 		<b>4 </b>| 4/4 blue Dragon Eye with <kw-0><nospellcheck><key>trample</key></nospellcheck></kw-0>
 		<b>5 </b>| 5/5 silver Mongoose with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		<b>6+</b>| X/X red Wurm
+		<b>6+</b>| X+1/X+1 red Wurm
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -13,7 +13,8 @@ card:
 		!designer TVP
 		!related Insect Plant Token;
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-03-30 17:31:04
+	time_modified: 2025-11-23 16:12:47
+	alias_type: godzilla
 	name: Scholigaunt
 	alias: Eyearmor
 	casting_cost: 2II

@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/justsirenart/art/Crab-On-The-Beach-Low-Poly-Art-Blender-3d-385947005
 	time_created: 2025-04-13 14:19:29
-	time_modified: 2025-04-14 10:37:52
+	time_modified: 2025-11-23 16:30:20
 	name: Canyon Crustacean
 	casting_cost: I
 	image: image126
@@ -28,7 +28,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-A><nospellcheck><key>Bake</key></nospellcheck> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto><atom-reminder-custom> <i-auto>(When this enters, up to one target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, up to one target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-custom></kw-A>
 		When this creature dies, create a trace of Fault into your hand.
 		<b>Fault</b>|<i>Basic Land – Fault</i><soft-line>
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.)</i-auto></soft-line>

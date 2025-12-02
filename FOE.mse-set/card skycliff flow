@@ -7,7 +7,7 @@ card:
 		!related Skycliff Densattach>;
 		!addtoken Skycliff Dens;transform;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-08-04 21:10:26
+	time_modified: 2025-12-01 22:55:56
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -16,6 +16,7 @@ card:
 	name: Skycliff Flow
 	name_2: Skycliff Dens
 	alias: This card can start in your sanctum.                             
+	alias_2: This card can start in your sanctum.                             
 	casting_cost: 3U
 	image: image305
 	image_2: image_29.png

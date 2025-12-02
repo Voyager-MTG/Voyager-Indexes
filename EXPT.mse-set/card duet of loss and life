@@ -9,7 +9,8 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer TVP
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-04-14 16:48:06
+	time_modified: 2025-11-23 16:12:40
+	alias_type: godzilla
 	name: Duet of Loss and Life
 	alias: Mon Larvas
 	casting_cost: 2I
@@ -26,7 +27,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>3I</sym-auto>, Exile four other cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
-		When this creature escapes, create a token that’s a copy of target creature card in your graveyard with mana value 2 or less.
+		When this creature enters, if it escaped, create a token that’s a copy of target creature card in your graveyard with mana value 2 or less.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

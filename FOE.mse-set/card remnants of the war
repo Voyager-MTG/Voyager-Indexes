@@ -2,16 +2,22 @@
 card:
 	stylesheet: m15-mainframe-battles
 	stylesheet_version: 2025-01-21
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_text_box: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes:
 		!related Guardian of the Cindersattach>;
+		!backface Guardian of the Cinders;
 		!addtoken Guardian of the Cinders;transform;
 		Multicolor
 	time_created: 2023-07-17 01:33:44
-	time_modified: 2025-06-08 17:54:03
+	time_modified: 2025-12-01 23:07:18
 	extra_data:
 		magic-m15-altered-plus: corner: modal front
 	name: Remnants of the War
+	name_2: Guardian of the Cinders
 	casting_cost: 2BG
 	transformation: front triangle
 	image: image187
@@ -19,10 +25,10 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Battle</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_2: <word-list-type-en>Enchantment Creature</word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-battle>Siege</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
-	sub_type_2: 
+	sub_type_2: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
@@ -31,15 +37,18 @@ card:
 		<margin:0:0:5>When this battle enters or is defeated, choose one that has not been chosen—</margin:0:0:5>
 		<li><bullet>• </bullet>Return target non-battle permanent card from your graveyard to your hand.
 		</li><li><bullet>• </bullet>Destroy target nonland permanent with mana value 3 or greater.</li>
-	rule_text_2: 
+	rule_text_2: <kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
-	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor>Deep within the dungeons of countless sunken cities stand guardians of ancient secrets—the greatest failure of the elves.</i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	loyalty: 5
 	power: 
+	power_2: 4
 	toughness: 
+	toughness_2: 4
 	illustrator: Kent Davis
+	illustrator_2: Anato Finnstark
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

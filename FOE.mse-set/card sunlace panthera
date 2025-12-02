@@ -15,9 +15,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2024-02-06 01:56:27
-	time_modified: 2025-03-19 23:09:27
+	time_modified: 2025-11-23 21:05:18
 	name: Sunlace Panthera
-	casting_cost: 1GW
+	casting_cost: 2GW
 	casting_cost_2: 
 	image: image161
 	image_2: 
@@ -30,7 +30,7 @@ card:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When this enchantment enters, target player or permanent gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
 		Whenever you cast a noncreature spell, this enchantment also becomes an Icon creature until end of turn.
-		<kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>1G/W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>G/W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>

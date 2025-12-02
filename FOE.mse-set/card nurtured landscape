@@ -16,7 +16,7 @@ card:
 		https://www.artstation.com/artwork/zPoyKQ<soft-line>
 		#updated</soft-line>
 	time_created: 2023-10-13 21:24:47
-	time_modified: 2025-08-04 20:28:59
+	time_modified: 2025-11-23 20:08:47
 	name: Nurtured Landscape
 	casting_cost: 3GG
 	image: image356
@@ -30,7 +30,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: At the beginning of combat on your turn, untap up to one target land you control. You may have it become a 4/4 green creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	rule_text: At the beginning of combat on your turn, untap up to one target land you control. You may have it become a 4/4 green creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn. This turn, when it dies or is exiled, return it to the battlefield tapped.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

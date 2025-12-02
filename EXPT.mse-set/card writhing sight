@@ -2,14 +2,11 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: true
-	styling_data:
-		other_options: godzilla style alias, auto nyx crowns
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
+	has_styling: false
 	notes: !designer TVP
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-03-30 17:19:58
+	time_modified: 2025-11-23 16:14:16
+	alias_type: godzilla
 	name: Writhing Sight
 	alias: Drdek
 	casting_cost: 1I

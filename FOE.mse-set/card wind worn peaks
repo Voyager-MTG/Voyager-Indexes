@@ -7,7 +7,7 @@ card:
 		!related Polychromatic Peaksattach>;
 		!addtoken Polychromatic Peaks;transform;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-08-04 22:58:14
+	time_modified: 2025-12-01 22:54:58
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -15,7 +15,7 @@ card:
 	name: Wind Worn Peaks
 	name_2: Polychromatic Peaks
 	alias: This card can start in your sanctum.                             
-	alias_2: 
+	alias_2: This card can start in your sanctum.                             
 	casting_cost: 1
 	image: image2
 	image_2: image_22.png

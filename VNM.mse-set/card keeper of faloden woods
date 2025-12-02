@@ -18,7 +18,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-21 15:20:45
+	time_modified: 2025-11-23 18:59:12
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -35,7 +35,7 @@ card:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, up to one target creature you control gets +3/+3 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym-auto>I/G</sym-auto>, Reveal a card with haste from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-1>
+	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym-auto>1I/G</sym-auto>, Reveal a card with haste from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-1>
 	power: 4
 	toughness: 4
 	illustrator: Edoardo Salvej Campagnolo

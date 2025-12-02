@@ -5,7 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
-		chop_bottom: -35
+		chop_bottom: 8
 		d20_dividers: d20 mode
 		font_cap: 
 		popout_image_style: 
@@ -17,7 +17,7 @@ card:
 		!alt
 		rebalance
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2024-11-02 19:51:12
+	time_modified: 2025-11-27 20:24:53
 	name: Safeguarded Pair
 	name_2: Be Strong
 	casting_cost: 1W
@@ -35,10 +35,10 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When this creature enters, prevent all damage that would be dealt to any other nonplayer target this turn.
+		When this creature enters, prevent all damage that would be dealt to any other <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target this turn.
 	rule_text_2: Return target creature card with mana value 3 or less from your graveyard to the battlefield. <i-auto>(Then put this into your sanctum.)</i-auto>
 	rule_text_3: 
-	flavor_text: <i-flavor>  </i-flavor>
+	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 2

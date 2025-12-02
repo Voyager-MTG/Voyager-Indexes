@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-13 14:08:27
-	time_modified: 2025-04-14 11:21:26
+	time_modified: 2025-11-22 14:22:30
 	name: Woods’ Procession
 	casting_cost: 1I
 	image: image119
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever one or more creatures you control lose toughness, <kw-A><nospellcheck><key>induct</key></nospellcheck>. This ability only triggers twice per turn. <i-auto>(Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</i-auto><atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Whenever one or more creatures you control lose toughness, <kw-A><nospellcheck><key>induct</key></nospellcheck>. This ability only triggers twice per turn.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>Each scar you take marks the beginning of your ascension...</i-flavor>
 	illustrator: naiga12
 	card_code_text: 

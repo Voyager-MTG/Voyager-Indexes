@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land>Spire</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: uncommon
-	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Twisted Spire</nospellcheck></atom-cardname>: Search your library for a Fault card, put it onto the battlefield, then shuffle.
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>: Search your library for a Fault card, put it onto the battlefield, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: yanadhyana
 	card_code_text: 

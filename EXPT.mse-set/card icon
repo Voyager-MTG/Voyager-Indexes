@@ -5,7 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		frames: M20
-		other_options: 
+		other_options: remove rarity symbol
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: !related Soul Splintering;

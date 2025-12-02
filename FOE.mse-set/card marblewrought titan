@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		Other artifact creatures you control get +1/+0.
-		Once each turn, whenever an artifact you control dies, create Jura, a legendary land token with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.” and “<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Return target creature card with mana value 2 or less from your graveyard to the battlefield tapped.”
+		Once each turn, whenever an artifact you control dies, create <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jura</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, a legendary land token with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.” and “<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Return target creature card with mana value 2 or less from your graveyard to the battlefield tapped.”
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

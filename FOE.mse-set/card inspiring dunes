@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://www.artstation.com/artwork/BXQYzA
 	time_created: 2023-10-13 21:24:47
-	time_modified: 2024-04-11 21:34:44
+	time_modified: 2025-11-27 19:41:16
 	name: Inspiring Dunes
 	casting_cost: 2WW
 	image: image287
@@ -29,7 +29,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Creatures you control get +1/+1 and have <kw-A><nospellcheck><key>ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>1</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, exile up to one other nonland permanent or land creature until <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> leaves the battlefield. Create a tapped <kw-A><nospellcheck><key>powerstone toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. This mana can’t be spent to cast a nonartifact spell.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

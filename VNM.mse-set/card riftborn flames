@@ -33,7 +33,7 @@ card:
 	rarity: common
 	rule_text:
 		<atom-name>This spell</atom-cardname> deals 5 damage to target permanent. <kw-A><nospellcheck><key>Trace <param-name>a card named Voidstone Shard into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
-		<b>Voidstone Shard </b><sym>2</sym>|<i>Enchantment</i><soft-line>
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Voidstone</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Shard </b><sym>2</sym>|<i>Enchantment</i><soft-line>
 		</soft-line>When this enchantment enters, <kw-a><nospellcheck><key>scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>.
 	rule_text_2: 
 	rule_text_3: 

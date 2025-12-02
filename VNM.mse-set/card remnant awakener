@@ -39,7 +39,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“I have rarely met a creature I don’t wish to meet again.”<soft-line>
-		—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</soft-line></i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 5

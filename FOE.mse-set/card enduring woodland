@@ -7,7 +7,7 @@ card:
 		!related Deepwoods Pillarsattach>;
 		!addtoken Deepwoods Pillars;transform;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-14 15:49:52
+	time_modified: 2025-12-01 22:56:22
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -16,6 +16,7 @@ card:
 	name: Enduring Woodland
 	name_2: Deepwoods Pillars
 	alias: This card can start in your sanctum.                             
+	alias_2: This card can start in your sanctum.                             
 	casting_cost: 2G
 	image: image66
 	image_2: image_25.png

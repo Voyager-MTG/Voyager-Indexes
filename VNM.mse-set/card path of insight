@@ -18,7 +18,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2024-10-03 23:34:05
+	time_modified: 2025-11-23 18:29:57
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -35,8 +35,7 @@ card:
 		You may cast this spell as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> as long as you control three or more enchantments.
 		Draw three cards. <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text:
-		 <kw-1><nospellcheck><key>Pathbound—<param-cost><sym-auto>IU</sym-auto>, Put a card from your hand into your sanctum</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-1>
+	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym-auto>IU</sym-auto>, Exile a card from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-1>
 	power: 
 	toughness: 
 	illustrator: 000Fesbra000

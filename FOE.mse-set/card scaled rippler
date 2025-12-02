@@ -36,7 +36,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Najael</error-spelling:en_US>, we have to go! It’s splitting and I don’t want to know why right now!”<soft-line>
-		—<error-spelling:en_US>Melodia</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 5

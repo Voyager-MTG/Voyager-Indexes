@@ -13,7 +13,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !tag avlod;
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-21 00:50:48
+	time_modified: 2025-11-23 19:17:09
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -38,8 +38,8 @@ card:
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:
-		<i-flavor>“Loss is inevitable. It’s how nature works. To gain no knowledge from passing is disrespectful to the dead.”<soft-line>
-		—<error-spelling:en_US>Shivta</error-spelling:en_US>, <error-spelling:en_US>Avlod</error-spelling:en_US> <error-spelling:en_US>Clanleader</soft-line></error-spelling:en_US></i-flavor>
+		<i-flavor>“Loss is inevitable. It’s how nature works. To gain no knowledge from death disrespects the dead.”<soft-line>
+		—<error-spelling:en_US>Shivta</error-spelling:en_US>, <error-spelling:en_US>Avlod</error-spelling:en_US> <error-spelling:en_US>Clanleader</soft-line></i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	level_1: 

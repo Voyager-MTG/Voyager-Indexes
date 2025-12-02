@@ -15,12 +15,12 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-07-07 00:46:42
+	time_modified: 2025-11-23 20:23:51
 	extra_data:
 		magic-m15-altered-plus:
 			smallbox_text: 
 	name: Shard Bearer
-	alias: This card can start in your sanctum.                             
+	alias: 
 	casting_cost: 1G
 	image: image69
 	image_2: 

@@ -7,7 +7,7 @@ card:
 		!related Green-Streaked Ruinsattach>;
 		!addtoken Green-Streaked Ruins;transform;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-07-07 00:46:07
+	time_modified: 2025-12-01 22:56:26
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -16,6 +16,7 @@ card:
 	name: Gold-Streaked Obelisks
 	name_2: Green-Streaked Ruins
 	alias: This card can start in your sanctum.                             
+	alias_2: This card can start in your sanctum.                             
 	casting_cost: 4GG
 	image: image324
 	image_2: image_26.png
@@ -36,7 +37,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“I wish I was able to study these creatures! I want to know how they swim through the mists!”<soft-line>
-		—<error-spelling:en_US>Melodia</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor>Rising from the foggy depths of the realm, it reveals an ancient past hidden within the realm.</i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 

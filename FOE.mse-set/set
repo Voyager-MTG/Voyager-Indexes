@@ -42,6 +42,9 @@ styling:
 		overlay: 
 	magic-m15-mainframe-tokens:
 		frames: M20
+		custom_border_source: star/-color-star.png
+		auto_frames: nyx, vehicle
+		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-unstable-basics:
@@ -460,7 +463,6 @@ include_file: card meso meso
 include_file: card defector of mordel
 include_file: card jothi token
 include_file: card exhuberant genesis
-include_file: card meirel drifter luminous
 include_file: card emergent parasitism
 include_file: card mordel peacekeeper
 include_file: card idol of reconstruction
@@ -527,6 +529,8 @@ include_file: card terramorphic singularity
 include_file: card form of the paths
 include_file: card stinging surveyor
 include_file: card kalim shivtas ear
+include_file: card law of nature
+include_file: card powerstone shard
 keyword:
 	keyword: Luminous
 	match: Luminous

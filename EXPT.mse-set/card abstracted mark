@@ -15,10 +15,11 @@ card:
 		!gold
 		!noborder
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-03-30 17:36:53
+	time_modified: 2025-11-23 16:12:59
 	extra_data:
 		magic-m15-altered-plus:
 			corner: custom
+	alias_type: godzilla
 	name: Abstracted Mark
 	alias: Fairywitch
 	casting_cost: 3IR

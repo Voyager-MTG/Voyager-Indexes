@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
-		Roduth and creature tokens you control enter the battlefield with a <kw-A><nospellcheck><key>shield counter</key></nospellcheck> on them.<atom-reminder-action> <i-auto>(If it would be dealt damage or destroyed, remove a shield counter from it instead.)</i-auto></atom-reminder-action></kw-A>
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Roduth</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and creature tokens you control enter the battlefield with a <kw-A><nospellcheck><key>shield counter</key></nospellcheck> on them.<atom-reminder-action> <i-auto>(If it would be dealt damage or destroyed, remove a shield counter from it instead.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>GR/WR/W</sym-auto>: Put a +1/+1 counter on each creature token you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 6

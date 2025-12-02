@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-13 14:03:14
-	time_modified: 2025-04-14 20:53:00
+	time_modified: 2025-11-23 14:43:46
 	name: Dessigry
 	casting_cost: 1I
 	image: image118
@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.)</i-auto><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>Dessigry</nospellcheck></atom-cardname> enters, create a 1/1 silver Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Unrelenting</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 1/1 silver Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

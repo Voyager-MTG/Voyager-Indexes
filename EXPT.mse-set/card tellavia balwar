@@ -10,7 +10,8 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer TVP
 	time_created: 2025-02-22 20:52:30
-	time_modified: 2025-03-30 17:15:58
+	time_modified: 2025-11-23 16:14:47
+	alias_type: godzilla
 	name: Tellavia Balwar
 	alias: Synchar
 	casting_cost: 1II

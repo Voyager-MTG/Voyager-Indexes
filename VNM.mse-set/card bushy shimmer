@@ -16,7 +16,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
 		Whenever you attack, target creature you control gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn.
-		<kw-A><nospellcheck><key>Materialize <param-number>4</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>4</param-number> or more: This also becomes an Icon creature until your next upkeep.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Materialize <param-number>4</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>4</param-number> or more: This also becomes an Icon creature until end of turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: 
 	power: 3

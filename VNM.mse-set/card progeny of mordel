@@ -10,7 +10,7 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !tag fascism;
+	notes: !tag Mordel;
 	time_created: 2021-04-25 03:20:37
 	time_modified: 2025-07-21 15:21:33
 	card_color: green

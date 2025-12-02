@@ -11,7 +11,7 @@ card:
 		https://www.deviantart.com/era7/art/Cosmic-Dragon-Llama-God-1058639514
 		!designer Trewq
 	time_created: 2025-02-22 15:50:39
-	time_modified: 2025-03-30 16:34:55
+	time_modified: 2025-11-23 15:38:43
 	name: Era, Hymn to Creation
 	casting_cost: 2I
 	image: image34
@@ -24,11 +24,11 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(If you control four or more permanents of a color, illuminate that color this game.)</i-auto></atom-reminder-action></kw-A>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
-		<atom-legname><nospellcheck>Era</nospellcheck></atom-legname> isn’t a creature unless you’ve illuminated silver.
+		Era isn’t a creature unless you’ve illuminated silver.
 		Whenever a token you control attacks, each opponent loses 1 life.
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
-	toughness: 3
+	power: 4
+	toughness: 4
 	illustrator: ERA7
 	card_code_text: • Designed By Trewq
 	card_code_text_2: Trewq

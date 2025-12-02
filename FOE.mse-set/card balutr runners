@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2024-02-06 01:56:27
-	time_modified: 2025-06-14 16:33:07
+	time_modified: 2025-11-24 00:53:44
 	name: Balutr Runners
 	casting_cost: 2IG
 	casting_cost_2: 
@@ -27,7 +27,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wolf</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When this creature enters, if you cast it from your hand, choose one— 
+		When this creature enters, if it isn’t a token, choose one— 
 		<li><bullet>• </bullet><kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of another token you control.)</i-auto></atom-reminder-custom></kw-A>
 		</li><li><bullet>• </bullet>Reveal the top card of your library. If its a permanent card, put it into your hand.
 		<margin:0:0:5></li><kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>1I/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A></margin:0:0:5>

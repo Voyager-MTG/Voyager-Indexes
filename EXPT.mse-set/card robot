@@ -1,12 +1,8 @@
 ﻿mse_version: 2.5.8
 card:
-	stylesheet: m15-altered-plus
-	stylesheet_version: 2020-09-04
-	has_styling: true
-	styling_data:
-		additional_options: center name
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
 	notes:
 		Hopeless
 		!related Extant Surveyor;
@@ -20,6 +16,9 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Token Artifact Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Robot</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

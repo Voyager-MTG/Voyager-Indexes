@@ -17,7 +17,7 @@ card:
 		<kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>I/W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text:
 		<i-flavor>“They wander from one wet patch to the next, occasionally returning to holes in the ground.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</error-spelling:en_US></i-flavor>
+		</soft-line>—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</i-flavor></error-spelling:en_US>
 	power: 3
 	toughness: 3
 	illustrator: Jerome Emmanuel

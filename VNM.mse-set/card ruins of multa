@@ -5,9 +5,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:53:53
-	time_modified: 2025-03-01 15:17:11
+	time_modified: 2025-11-23 19:54:53
 	name: Ruins of Multa
-	casting_cost: 2W
+	casting_cost: 4W
 	image: image42
 	image_2: 
 	mainframe_image: 
@@ -20,14 +20,14 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Creature tokens you control get +1/+1.
+		Creature tokens you control get +2/+1.
 		Whenever you attack with two or more creatures, you may exile a creature card from your graveyard. If you do, create a token that’s a copy of it except it isn’t legendary and has size 1/1.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	watermark: custom watermark one
+	watermark: none
 	illustrator: Andrew Spaulding
 	card_code_text: 
 	card_code_text_2: 

@@ -16,10 +16,10 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2024-06-10 20:12:42
-	time_modified: 2025-08-18 15:48:10
+	time_modified: 2025-11-27 00:58:26
 	card_trim: clear
 	name: Parading Terrain
-	alias: This card can start in your sanctum.                             
+	alias: 
 	casting_cost: 2
 	image: image195
 	image_2: 

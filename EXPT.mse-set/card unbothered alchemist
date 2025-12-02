@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		d20_dividers: all breaks
+		other_options: auto nyx crowns
+		use_holofoil_stamps: no
+		inverted_common_symbol: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer TVP
 	time_created: 2025-01-18 15:32:19
-	time_modified: 2025-03-30 16:09:07
+	time_modified: 2025-11-23 16:26:13
 	card_color: silver
 	name: Unbothered Alchemist
 	casting_cost: 3I
@@ -14,7 +23,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When this creature enters, create a trace of Alchemist’s Vial in your hand. <i-auto>(Its an artifact that costs <sym>2</sym> with, “When this artifact enters, draw a card” and “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this artifact: Target creature can’t attack or block this turn.”)</i-auto>
+	rule_text:
+		When this creature enters, create a trace of Alchemist’s Vial in your hand.
+		Artifact <sym>2</sym> |<soft-line>
+		</soft-line>When this artifact enters, draw a card. <soft-line>
+		</soft-line><sym>1</sym>, <sym-auto>T</sym-auto>, Sacrifice this artifact: Target creature can’t attack or block this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4

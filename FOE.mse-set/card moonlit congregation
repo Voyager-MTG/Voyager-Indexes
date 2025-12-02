@@ -7,13 +7,14 @@ card:
 		!related Dawnlit Adherentattach>;
 		!addtoken Dawnlit Adherent;transform;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-11 20:18:37
+	time_modified: 2025-12-01 22:56:14
 	extra_data:
 		magic-m15-altered-plus: corner: modal front
 	card_color_2: black
 	name: Moonlit Congregation
 	name_2: Dawnlist Adherent
 	alias: This card can start in your sanctum.                             
+	alias_2: This card can start in your sanctum.                             
 	casting_cost: B
 	image: image332
 	image_2: image_24.png

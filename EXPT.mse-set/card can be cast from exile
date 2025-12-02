@@ -5,6 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		frames: M20
+		other_options: remove rarity symbol
 		shrink_name_text: 
 		shrink_typeline_text: 
 		shrink_font_size: 

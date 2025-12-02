@@ -33,7 +33,7 @@ card:
 	rule_text:
 		<sym-auto>1</sym-auto>, Discard this: <kw-A><nospellcheck><key>Trace <param-name>two cards named Voidstone Shard into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>2UU</sym-auto>: Target creature gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
-		<b>Voidstone Shard</b> <sym>2</sym>|<i>Enchantment</i><soft-line>
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Voidstone</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Shard</b> <sym>2</sym>|<i>Enchantment</i><soft-line>
 		When this enchantment enters, <kw-a><nospellcheck><key>scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>.</soft-line>
 	rule_text_2: 
 	rule_text_3: 

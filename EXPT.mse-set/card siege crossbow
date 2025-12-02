@@ -2,11 +2,7 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: true
-	styling_data:
-		other_options: godzilla style alias, auto nyx crowns
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
+	has_styling: false
 	notes: !designer TVP
 	time_created: 2022-07-18 21:25:51
 	time_modified: 2025-03-30 17:22:43
@@ -25,7 +21,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>Siege Crossbow</nospellcheck></atom-cardname> enters, it deals 2 damage to up to one noncreature target.
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, it deals 2 damage to up to one noncreature target.
 		Equipped creature gets +1/+0 and has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	rule_text_2: 

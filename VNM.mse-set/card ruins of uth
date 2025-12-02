@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-04-07 21:27:20
-	time_modified: 2025-07-12 16:31:07
+	time_modified: 2025-11-23 19:55:49
 	name: Ruins of Uth
 	casting_cost: 4GG
 	image: image65
@@ -16,7 +16,7 @@ card:
 	rule_text:
 		This spell costs <sym-auto>1</sym-auto> less to cast for each enchantment you control.
 		<sym-auto>T</sym-auto>: Add <sym-auto>GG</sym-auto>.
-		At the beginning of combat on each turn, you may untap another target enchantment you control. It also becomes a 3/3 creature with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		<sym-auto>T</sym-auto>: Target enchantment also becomes a 3/3 creature with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. <i-auto>(This effect lasts indefinitely.)</i-auto>
 	flavor_text: <i-flavor>A city sunk. It yearns to return to the surface.</i-flavor>
 	illustrator: Xinoria01
 	card_code_text: Story Spotlight

@@ -19,7 +19,7 @@ card:
 		<sym-auto>I/U</sym-auto>, Exile <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard: Create a 1/1 blue Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”
 	flavor_text:
 		<i-flavor>“They are adapted to the deep ocean. How drakes manage to reach them is a mystery.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</error-spelling:en_US></i-flavor>
+		</soft-line>—<error-spelling:en_US>Melodia</error-spelling:en_US>, <error-spelling:en_US>Voidtouched</i-flavor></error-spelling:en_US>
 	power: 1
 	toughness: 3
 	illustrator: Nichelle Nolan

@@ -3,14 +3,14 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-15 16:46:14
+	time_modified: 2025-11-27 22:34:09
 	name: Continuity Gap
-	casting_cost: 4U
+	casting_cost: 1UU
 	image: image465
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -19,9 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		Take an extra turn after this one. During that turn’s untap step, untap only one creature and two lands you control.
-		Put this card into your sanctum.
+	rule_text: Take an extra turn after this one. Skip the untap step of that turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor><error-spelling:en_US>Prophellos</error-spelling:en_US> found a plane that was worth consuming. <error-spelling:en_US>Meirel</error-spelling:en_US>.</i-flavor>

@@ -2,16 +2,13 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: true
-	styling_data:
-		other_options: godzilla style alias, auto nyx crowns
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
+	has_styling: false
 	notes:
 		!designer TVP
 		!related Wall Token;
 	time_created: 2023-03-05 21:34:10
-	time_modified: 2025-04-14 12:12:32
+	time_modified: 2025-11-23 16:14:55
+	alias_type: godzilla
 	name: Hopeless Summit
 	alias: Castle Walls
 	casting_cost: 2I

@@ -4,13 +4,15 @@ game_version: 2024-10-01
 stylesheet: m15-altered-plus
 stylesheet_version: 2020-09-04
 set_info:
-	title: TVP Silver Expansion
+	title: Voyager Foundations
 	description: !designer Voyager
 	copyright: 
 	set_code: EXPT
 	set_language: EN
-	symbol: symbol2.mse-symbol
+	symbol: symbol1.mse-symbol
 	masterpiece_symbol: 
+	CARDNAME_replacement: card's type
+	inverted_common_symbol: yes
 	custom_mana_symbol_name: MyrCustoms/Vertex.png
 	mana_symbol_options: enable in casting costs, enable in text boxes, colored mana symbols
 styling:
@@ -28,6 +30,7 @@ styling:
 		chop_bottom: 
 		other_options: auto nyx crowns
 		use_holofoil_stamps: no
+		inverted_common_symbol: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	magic-m15-jinx:
@@ -171,7 +174,7 @@ include_file: card yaiba robo
 include_file: card blooming peculiarity
 include_file: card mark of insanity
 include_file: card nildiver
-include_file: card planar boundary
+include_file: card the boundary
 include_file: card ashen wisps
 include_file: card fyndhorn betrayer
 include_file: card groaning lullaby

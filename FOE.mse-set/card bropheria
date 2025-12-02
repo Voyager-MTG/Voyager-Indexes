@@ -35,7 +35,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“They feed off the same energy most of the <error-spelling:en_US>spellshapers</error-spelling:en_US> in <error-spelling:en_US>Vinimroth</error-spelling:en_US> use.”<soft-line>
-		—<error-spelling:en_US>Melodia</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	watermark: none

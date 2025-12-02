@@ -18,13 +18,13 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2025-07-21 02:56:04
+	time_modified: 2025-11-23 18:35:00
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
 	name: Guardian Roost
 	casting_cost: 1W
-	image: image42.png
+	image: image112.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -37,7 +37,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>vigilance</key></nospellcheck></kw-0>
-		When you cast this spell, if it isn’t a copy, <kw-0><nospellcheck><key>trace <param-name>three cards named Guardian Roost into your hand.</param-name></key></nospellcheck></kw-0>
+		When you cast this spell, if it isn’t a copy, <kw-0><nospellcheck><key>trace <param-name>a card named Guardian Roost into your hand.</param-name></key></nospellcheck></kw-0>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

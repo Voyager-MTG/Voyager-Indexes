@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes:
 		could be Instant
-		!tag fascism;
+		!tag Mordel;
 		!tag clanless;
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2024-04-01 00:21:16
@@ -25,7 +25,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“When Clan <error-spelling:en_US>Mordel</error-spelling:en_US> discovered a city full of <error-spelling:en_US>clanless</error-spelling:en_US> and outsiders, they expected the residents to fall with ease. That city is named <error-spelling:en_US>Urke</error-spelling:en_US>.”<soft-line>
-		</soft-line> —</i>Histories of <error-spelling:en_US>Vinimroth<i></error-spelling:en_US>, by <error-spelling:en_US>Korna</error-spelling:en_US></i-flavor>
+		</soft-line> —</i>Histories of <error-spelling:en_US>Vinimroth<i></error-spelling:en_US>, by <error-spelling:en_US>Korna</i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Moonroot Art

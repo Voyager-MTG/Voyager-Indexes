@@ -10,7 +10,8 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer TVP
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-03-30 17:15:04
+	time_modified: 2025-11-23 16:14:51
+	alias_type: godzilla
 	name: Algael-leael
 	alias: LaLa Li-Oon
 	casting_cost: 2I

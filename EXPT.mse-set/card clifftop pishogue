@@ -17,14 +17,15 @@ card:
 		Once each turn, whenever you tap a Field for mana, add one mana of any color that land could produce.
 		Fields you control enter the battlefield untapped.
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-03-30 17:20:41
+	time_modified: 2025-11-23 16:12:35
 	extra_data:
 		magic-m15-altered-plus:
 			corner: custom
+	alias_type: godzilla
 	name: Clifftop Pishogue
 	alias: Bolt Penguin
 	alias_2: 
-	casting_cost: IU
+	casting_cost: 1IU
 	image: image188
 	image_2: 
 	mainframe_image: 
@@ -38,7 +39,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Other creatures you control whose base power and toughness aren’t equal have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and can attack despite having <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
+		Other creatures you control whose base power and toughness aren’t equal have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and can attack as though they didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>They get each other worked up into a frenzy over fact and figures, unaware of how off the numbers really are.</i-flavor>

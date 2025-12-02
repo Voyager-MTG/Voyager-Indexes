@@ -26,7 +26,7 @@ card:
 	sub_type_3: 
 	rarity: special
 	rule_text:
-		<i-auto>(Created by Raze the Clanless.)</i-auto>
+		<i-auto>(Created by Raze the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Clanless</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.)</i-auto>
 		<sym-auto>T</sym-auto>: Add one mana of any color.
 	rule_text_2: 
 	rule_text_3: 

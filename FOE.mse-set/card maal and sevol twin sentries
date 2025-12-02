@@ -42,7 +42,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		Whenever Maal and Sevol attacks, create a 3/4 colorless Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> that’s attacking. Exile that token at end of turn.
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Maal</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Sevol</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, create a 3/4 colorless Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> that’s attacking. Exile that token at end of turn.
 	rule_text_2:
 		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.

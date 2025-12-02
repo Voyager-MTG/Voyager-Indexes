@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !designer Hervor
 	time_created: 2025-07-11 17:37:47
-	time_modified: 2025-07-27 10:59:12
+	time_modified: 2025-11-23 14:50:55
 	name: Faulty Recreation
 	casting_cost: 1I
 	image: image24.png
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text: Target nonbasic permanent’s types become the types of another target permanent until end of turn.
-	flavor_text: <i-flavor>There are only so many birds Jodie can become, as some point it will become a mere figment of reality.</i-flavor>
+	flavor_text: <i-flavor>There are only so many birds <error-spelling:en_US>Jothi</error-spelling:en_US> can become, at some point it will become a mere figment of reality.</i-flavor>
 	illustrator: Maks Trofimov
 	card_code_text: • Designed by Hervor
 	card_code_text_2: 

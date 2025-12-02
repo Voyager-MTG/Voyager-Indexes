@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: ===https://www.artstation.com/artwork/xD3Per
 	time_created: 2025-04-13 14:24:14
-	time_modified: 2025-07-01 09:05:26
+	time_modified: 2025-11-22 13:32:11
 	name: Cowering Lightbringer
 	casting_cost: 1I
 	image: image127
@@ -22,12 +22,12 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		As long as <atom-cardname><nospellcheck>Cowering Lightbringer</nospellcheck></atom-cardname>’s power is 4 or greater, its a Human Warrior and has <kw-A><nospellcheck><key>healing <param-number>2</param-number></key></nospellcheck>. <i-auto>(Whenever this creature deals damage, you gain 2 life.)</i-auto><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>2</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
-		<sym-auto>1I</sym-auto>: <atom-cardname><nospellcheck>Cowering Lightbringer</nospellcheck></atom-cardname> gets +3/-3 and you get <sym-auto>V</sym-auto>. <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto>
+		As long as <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>’s power is 4 or greater, its a Human Warrior and has <kw-A><nospellcheck><key>healing <param-number>2</param-number></key></nospellcheck>.<atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>2</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>1I</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +3/-3 until end of turn and you get <sym-auto>V</sym-auto>. <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 4
 	illustrator: Timoté Claveau
-	card_code_text: 
+	card_code_text: • Designed by TVP
 	card_code_text_2: 
 	card_code_text_3: 

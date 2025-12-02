@@ -13,9 +13,9 @@ card:
 		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !tag fascism;
+	notes: !tag Mordel;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-15 15:33:25
+	time_modified: 2025-11-23 20:32:01
 	name: Mordel Hammer
 	name_2: War Bellow
 	casting_cost: 4R

@@ -16,7 +16,8 @@ card:
 		also, maybe 7 mana
 		!gold!noborder
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-07-02 22:15:05
+	time_modified: 2025-11-23 15:45:57
+	alias_type: godzilla
 	name: Whimsy Unbound
 	alias: Monster Reborn
 	casting_cost: 2IW

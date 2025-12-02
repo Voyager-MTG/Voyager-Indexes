@@ -15,7 +15,8 @@ card:
 		"Giant Soldier of Stone."<soft-line>
 		—Giant Soldier of Stone, the Giant Soldier of Stone</soft-line>
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-03-30 17:16:17
+	time_modified: 2025-11-23 15:45:35
+	alias_type: godzilla
 	name: Refraction Mech
 	alias: Giant Soldier of Stone
 	casting_cost: 2I
