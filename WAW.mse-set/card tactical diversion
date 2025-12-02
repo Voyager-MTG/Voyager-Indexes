@@ -17,7 +17,7 @@ card:
 		Counter target spell with a creature type.
 	flavor_text:
 		<i-flavor>“Keep the <error-spelling:en_US>Ilcans</error-spelling:en_US> focused on small victories. They cannot be trusted to wield true power.”<soft-line>
-		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Narges Jafari
 	card_code_text: 
 	card_code_text_2: 

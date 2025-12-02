@@ -25,7 +25,7 @@ card:
 		Whenever <atom-cardname><nospellcheck>Terrifying Mongrel</nospellcheck></atom-cardname> enters, if you attacked this turn, each opponent sacrifices a nontoken creature.
 	flavor_text:
 		<i-flavor>“The <error-spelling:en_US>Geistwald</error-spelling:en_US> is never safe, no matter what preparations you make.”<soft-line>
-		—<error-spelling:en_US>Roza</error-spelling:en_US> <error-spelling:en_US>Attwater</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Roza</error-spelling:en_US> <error-spelling:en_US>Attwater</soft-line></i-flavor></error-spelling:en_US>
 	power: 4
 	toughness: 4
 	illustrator: Andrew Mironov

@@ -23,7 +23,7 @@ card:
 	rule_text:
 		When <atom-cardname><nospellcheck>Kirsa’s Page</nospellcheck></atom-cardname> enters, choose one —
 		<li><bullet>• </bullet>Destroy target artifact or nonbasic land.
-		</li><li><bullet>• </bullet>Create The Sword of Perle, a legendary 3/1 red Orc Soldier creature token with “This creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it’s attacking.”</li>
+		</li><li><bullet>• </bullet>Create The Sword of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Perle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, a legendary 3/1 red Orc Soldier creature token with “This creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it’s attacking.”</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

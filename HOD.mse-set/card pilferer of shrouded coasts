@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>U</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>U</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
 		Whenever <atom-cardname><nospellcheck>Pilferer of Shrouded Coasts</nospellcheck></atom-cardname> deals combat damage to a player or planeswalker, create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

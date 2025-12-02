@@ -24,7 +24,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		When <atom-cardname><nospellcheck>Overzealous Page</nospellcheck></atom-cardname> enters, create one of the following tokens <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
-		<li><bullet>• </bullet>The Sword of Perle, a legendary 3/1 red Orc Soldier creature token with “This creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it’s attacking.”
+		<li><bullet>• </bullet>The Sword of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Perle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, a legendary 3/1 red Orc Soldier creature token with “This creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it’s attacking.”
 		</li><li><bullet>• </bullet>The Occultist, a legendary 2/3 Human Wizard with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

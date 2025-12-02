@@ -26,7 +26,7 @@ card:
 	rule_text:
 		Choose one. If you control a legendary creature or planeswalker, you may choose two instead.
 		<li><bullet>• </bullet>Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may return a land card from your graveyard to your hand.
-		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Rey Decree</nospellcheck></atom-cardname> deals 3 damage to any nonplayer target.
+		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Rey Decree</nospellcheck></atom-cardname> deals 3 damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.
 		</li><li><bullet>• </bullet>Destroy target artifact. <atom-cardname><nospellcheck>Rey Decree</nospellcheck></atom-cardname> deals 3 damage to that artifact’s controller.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Teresa Ramos (Teradiam)

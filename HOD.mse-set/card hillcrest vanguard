@@ -30,7 +30,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>GU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>GU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>GU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>GU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
 		If a creature entering the battlefield or dealing combat damage to an opponent causes a triggered ability of a permanent you control to trigger during combat, that ability triggers an additional time.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

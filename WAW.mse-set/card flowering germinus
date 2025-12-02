@@ -25,7 +25,7 @@ card:
 	super_type: <word-list-type-en>Token Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Wonder</word-list-race-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		When Flowering Germinus enters, creatures you control with base power 1 or less get +1/+1 and gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
+		When Flowering <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Germinus</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, creatures you control with base power 1 or less get +1/+1 and gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
 		<i-auto>(This token’s mana cost is <sym>1G/WG/W</sym>.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

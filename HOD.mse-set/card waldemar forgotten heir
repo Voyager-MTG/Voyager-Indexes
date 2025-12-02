@@ -19,7 +19,7 @@ card:
 		!tag Dewold
 		!tag Planeswalker
 	time_created: 2025-02-24 00:44:17
-	time_modified: 2025-04-20 19:41:48
+	time_modified: 2025-12-01 16:23:59
 	card_color_2: black
 	name: Waldemar, Forgotten Heir
 	name_2: Waldemar, Jaded Prince
@@ -61,7 +61,7 @@ card:
 	level_14_text: 
 	level_15_text: 
 	power: 2
-	toughness: 1
+	toughness: 2
 	illustrator: Hinchel Or
 	illustrator_2: Pavel Stepanov
 	card_code_text: 

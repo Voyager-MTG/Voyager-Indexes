@@ -29,7 +29,7 @@ card:
 		Other Knights you control get +1/+1.
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Bistra</error-spelling:en_US> makes sure to keep notes on all of the Houses of <error-spelling:en_US>Dewold</error-spelling:en_US>. We must adapt to their  advances in order to conquer their lands.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Ranulf</error-spelling:en_US> <error-spelling:en_US>Sapner</error-spelling:en_US></i-flavor>
+		</soft-line>—<error-spelling:en_US>Ranulf</error-spelling:en_US> <error-spelling:en_US>Sapner</i-flavor></error-spelling:en_US>
 	power: 4
 	toughness: 4
 	illustrator: Paperwick

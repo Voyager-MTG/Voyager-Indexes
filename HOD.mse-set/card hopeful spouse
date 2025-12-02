@@ -21,7 +21,7 @@ card:
 	rule_text: When <atom-cardname><nospellcheck>Hopeful Spouse</nospellcheck></atom-cardname> enters, choose a name. Create a 2/1 red Soldier creature token <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“I will always love you. When this petty squabble is over, I will return to you.”<soft-line>
-		—Last in the letters to <error-spelling:en_US>Bryanna</soft-line></error-spelling:en_US></i-flavor>
+		—Last in the letters to <error-spelling:en_US>Bryanna</soft-line></i-flavor></error-spelling:en_US>
 	power: 1
 	toughness: 1
 	illustrator: Viviane Souza
