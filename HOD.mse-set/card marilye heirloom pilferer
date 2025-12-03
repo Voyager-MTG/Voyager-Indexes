@@ -14,7 +14,7 @@ card:
 		!tag Planeswalker
 		!tag Dundrym
 	time_created: 2025-02-24 00:44:17
-	time_modified: 2025-03-05 17:49:49
+	time_modified: 2025-12-02 20:19:07
 	name: Marilye, Heirloom Pilferer
 	casting_cost: 3UU
 	image: image431
@@ -34,7 +34,7 @@ card:
 	loyalty_cost_3: -2
 	loyalty: 4
 	level_1_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>2UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2UU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>2UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>2UU</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. )</i-auto></atom-reminder-custom></kw-A>
 		As long as it’s your turn, <atom-legname><nospellcheck>Marilye</nospellcheck></atom-legname> is a 3/2 Elf Rogue creature with <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
 	level_2_text: <margin:130:0:0>Tap target permanent. It doesn’t untap during its controller’s next untap step.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Exile the top five cards of target opponent’s library. You may cast any number of cards exiled this way with total mana value equal to or less than the amount of damage dealt to them this turn without paying their mana costs.</margin:130:0:0>
@@ -45,7 +45,7 @@ card:
 	card_code_text_3: 
 	secondary_copyright: She/her
 	special_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>2UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2UU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>2UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>2UU</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. )</i-auto></atom-reminder-custom></kw-A>
 		As long as it’s your turn, <atom-legname><nospellcheck>Marilye</nospellcheck></atom-legname> is a 3/2 Elf Rogue creature with <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
 		[+1]: <margin:130:0:0>Tap target permanent. It doesn’t untap during its controller’s next untap step.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile the top five cards of target opponent’s library. You may cast any number of cards exiled this way with total mana value equal to or less than the amount of damage dealt to them this turn without paying their mana costs.</margin:130:0:0>

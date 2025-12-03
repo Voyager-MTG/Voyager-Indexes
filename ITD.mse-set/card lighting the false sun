@@ -36,6 +36,6 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
-		<soft-line>You may put a creature card with mana value 2 or less from your hand onto the battlefield.</soft-line>
+		I, II — Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+		III — <soft-line>You may put a creature card with mana value 2 or less from your hand onto the battlefield.</soft-line>
 		​

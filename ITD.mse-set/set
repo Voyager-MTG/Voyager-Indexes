@@ -266,6 +266,12 @@ keyword:
 	reminder: 
 	rules: 
 	mode: expert
+keyword:
+	keyword: Sneak
+	match: Sneak <atom-param>cost</atom-param>
+	reminder: You may cast this spell for {param1} if you also return an unblocked attacker you control to hand during the declare blockers step. {if has_pt() then "This creature enters tapped and attacking." else ""}
+	rules: 
+	mode: custom
 version_control:
 	type: none
 apprentice_code: 

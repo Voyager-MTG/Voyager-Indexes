@@ -5,7 +5,7 @@ card:
 		!tag Dewold
 		!tag Nye
 	time_created: 2025-02-24 00:42:32
-	time_modified: 2025-03-05 18:20:48
+	time_modified: 2025-12-02 20:19:35
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -25,7 +25,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>2BGU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2BGU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>2BGU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>2BGU</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 		Whenever <atom-legname><nospellcheck>Elric Nye</nospellcheck></atom-legname> deals combat damage to a player or planeswalker, if it isn’t an extra turn, taken an extra turn after this one.
 	flavor_text: <i-flavor></i-flavor>

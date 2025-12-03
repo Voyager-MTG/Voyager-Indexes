@@ -5,7 +5,7 @@ card:
 		!tag Dewold
 		!tag Attwater
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-12-01 16:22:50
+	time_modified: 2025-12-02 20:19:56
 	name: Chorus of the Silberwald
 	casting_cost: 3G
 	image: image462
@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>2GG</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2GG</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>2GG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>2GG</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever <atom-cardname><nospellcheck>Chorus of the Silberwald</nospellcheck></atom-cardname> deals combat damage to a player or planeswalker, you may search your library for a creature card with mana value equal to or less than that damage, put it onto the battlefield, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

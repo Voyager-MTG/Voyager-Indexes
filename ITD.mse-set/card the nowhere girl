@@ -24,7 +24,7 @@ card:
 	sub_type: <word-list-race-en>Reflection</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Sneak 3WU
+		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>3WU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>()</i-auto></atom-reminder-custom></kw-A>
 		Whenever one or more creatures you control deal combat damage to an opponent, draw a card. Then you may cast a spell from your hand with mana value 3 or less without paying its mana cost.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

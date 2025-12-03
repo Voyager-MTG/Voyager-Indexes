@@ -24,7 +24,7 @@ card:
 	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Sneak <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>UUU</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>UUU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>()</i-auto></atom-reminder-custom></kw-A>
 		When this creature enters, if it was cast, each player may shuffle their hand and graveyard into their library, then draw seven cards.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
