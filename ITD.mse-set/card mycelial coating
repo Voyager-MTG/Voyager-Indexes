@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.pinterest.co.uk/pin/40743571623751234/
 	time_created: 2024-09-03 18:08:45
-	time_modified: 2024-10-16 00:34:45
+	time_modified: 2025-12-02 18:42:40
 	name: Mycelial Coating
 	casting_cost: 1G
 	image: image251
@@ -16,7 +16,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Mycelial Coating</nospellcheck></atom-cardname> enters, search your library for a land with a basic land type, reveal it, put it into your hand, then shuffle.
-		Enchanted creature has +1/+1 for each land <kw-A><nospellcheck><key>in your realm</key></nospellcheck>. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto><atom-reminder-custom> <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto></atom-reminder-custom></kw-A>
+		Enchanted creature has +1/+1 for each land <kw-A><nospellcheck><key>in your realm</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: mon_2501
 	card_code_text: 
