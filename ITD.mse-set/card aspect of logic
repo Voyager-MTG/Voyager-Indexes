@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -12,7 +14,7 @@ card:
 	time_modified: 2025-03-09 17:51:47
 	name: Aspect of Logic
 	casting_cost: 7
-	image: image76
+	image: image259
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

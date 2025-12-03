@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11,7 +13,7 @@ card:
 	time_modified: 2025-02-27 17:33:41
 	name: Imprisoned Aspect
 	casting_cost: 1G
-	image: image96
+	image: image300
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

@@ -1,12 +1,20 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
-	notes: changed
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		use_holofoil_stamps: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: 
 	time_created: 2024-10-09 21:44:08
 	time_modified: 2025-01-01 06:34:18
 	name: Weight of Tradition
 	casting_cost: 1R
-	image: image33
+	image: image363
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

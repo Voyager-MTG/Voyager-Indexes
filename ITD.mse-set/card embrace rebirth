@@ -8,14 +8,12 @@ card:
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		https://x.com/_tOAOt/status/1780825170036523027/photo/1
-		changed
+	notes: https://x.com/_tOAOt/status/1780825170036523027/photo/1
 	time_created: 2024-10-14 16:40:14
 	time_modified: 2024-10-26 14:40:15
 	name: Embrace Rebirth
 	casting_cost: 2GG
-	image: image139
+	image: image308
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

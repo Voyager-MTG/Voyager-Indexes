@@ -6,7 +6,7 @@ card:
 	time_modified: 2024-12-17 17:15:38
 	name: Drain
 	casting_cost: B
-	image: image127
+	image: image376
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -15,7 +15,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		Target opponent loses 1 life and you gain 1 life.
-		<i-auto>(This is a conjured card and not legal in deckbuilding)</i-auto> 
+		<i-auto>(This is a conjured card and not legal in <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>deckbuilding</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto> 
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Chris Nazgul
 	card_code_text: 

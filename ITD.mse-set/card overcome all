@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-08-27 21:07:18
-	time_modified: 2024-12-31 13:59:20
+	time_modified: 2025-11-23 18:29:35
 	name: Overcome All
 	casting_cost: RW
-	image: image51
+	image: image235
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		As an additional cost to cast this spell, return a creature you control to its owner’s hand.
-		Create a token copy of the returned creature, except it isn’t legendary and has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		Create a token that’s a copy of the returned creature, except it isn’t legendary and has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Sacrifice that token at the beginning of your next end step.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Meike Hakkaart
 	card_code_text: 

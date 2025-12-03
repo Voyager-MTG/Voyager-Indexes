@@ -5,18 +5,20 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
-		chop_bottom: 8
+		chop_bottom: 10
 		shrink_name_text: 
 		frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: https://www.artstation.com/artwork/48woXl
+	notes:
+		https://www.artstation.com/artwork/48woXl
+		changed to rework
 	time_created: 2024-09-03 18:11:36
-	time_modified: 2025-02-11 23:19:52
+	time_modified: 2025-11-22 02:05:12
 	name: Grasping Eternity
 	casting_cost: 1B
-	image: image95
+	image: image386
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -24,13 +26,12 @@ card:
 	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Grasping Eternity</nospellcheck></atom-cardname> enters, create a 1/1 white Nightmare creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
-		<margin:0:0:5>At the beginning of your end step, if you gained life this turn, choose one—</margin:0:0:5>
+		Whenever you gain life, choose one—
 		<li><bullet>• </bullet>Each opponent loses 1 life.
 		</li><li><bullet>• </bullet>Put a +1/+1 counter on this creature.</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
-	toughness: 1
+	toughness: 3
 	illustrator: F3LC4T
 	card_code_text: 
 	card_code_text_2: 

@@ -1,21 +1,25 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: https://www.pinterest.co.uk/pin/24910604164846520/
+	notes:
+		https://www.pinterest.co.uk/pin/24910604164846520/
+		changed to instant
 	time_created: 2024-09-03 17:57:49
-	time_modified: 2025-02-17 17:56:44
+	time_modified: 2025-11-22 00:56:25
 	name: Feast of Butterflies
 	casting_cost: 2W
-	image: image69
+	image: image250
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		Destroy target enchantment or planeswalker.

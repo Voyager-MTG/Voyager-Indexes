@@ -12,10 +12,10 @@ card:
 		overlay: 
 	notes: https://x.com/MON_2501/status/1800107676191564134/photo/1
 	time_created: 2024-08-30 12:58:16
-	time_modified: 2025-01-20 21:48:10
+	time_modified: 2025-11-22 01:32:28
 	name: Infiltration Agent
 	casting_cost: 1B
-	image: image176
+	image: image359
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -29,7 +29,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
 		When this creature enters, conjure a card named Drain into your hand. <i-auto>(It’s a <sym>B</sym> sorcery with “Target opponent loses 1 life and you gain 1 life.”)</i-auto>
-		This creature can’t be blocked if an opponent has lost life this this turn.
+		This creature can’t be blocked as long as an opponent has lost life this this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

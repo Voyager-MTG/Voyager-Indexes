@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !designer Hervor
+	notes: reworked to be a titan
 	time_created: 2024-10-14 16:29:35
-	time_modified: 2024-12-17 21:14:33
+	time_modified: 2025-11-24 01:27:37
 	name: Decrepid Terraformer
 	casting_cost: 1GW
-	image: image135
+	image: image304
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -15,13 +15,13 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		Whenever you play a land, you may sacrifice it. If you do, search your library for a land card and put it onto the battlefield, then shuffle. It enters tapped if the sacrificed land was tapped.
+		Whenever this creature enters or attacks, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
 	illustrator: Zdzislaw Beksinski
 	card_code_text:
-		  Hervor
+		  
 	card_code_text_2:
 		 Hervor
 	card_code_text_3:

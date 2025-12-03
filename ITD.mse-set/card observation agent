@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: 
+	notes: changed to 2mv with enters or dies
 	time_created: 2024-08-29 18:37:47
-	time_modified: 2024-10-29 20:21:28
+	time_modified: 2025-11-22 00:01:49
 	name: Observation Agent
-	casting_cost: G
-	image: image59
+	casting_cost: 1G
+	image: image242
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -16,7 +16,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Changeling</key></nospellcheck><atom-reminder-expert> <i-auto>(This card is every creature type.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		When this creature dies, draw a card if there are five or more lands <kw-A><nospellcheck><key>in your realm</key></nospellcheck>. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto><atom-reminder-custom> <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto></atom-reminder-custom></kw-A>
+		When this creature enters or dies, draw a card if there are five or more lands <kw-A><nospellcheck><key>in your realm</key></nospellcheck>. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto><atom-reminder-custom> <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>Fragments of the great dream walk.</i-flavor>
 	power: 1
 	toughness: 1

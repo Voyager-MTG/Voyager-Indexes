@@ -1,17 +1,21 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_bottom: 5
+		d20_dividers: all breaks +1
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: https://www.tumblr.com/witnesstheabsurd/723270931458457600/an-arbiter
+	notes:
+		https://www.tumblr.com/witnesstheabsurd/723270931458457600/an-arbiter
+		changed to add ward 2.
 	time_created: 2024-08-27 13:55:19
-	time_modified: 2025-08-18 18:38:32
-	card_trim: clear, legend
+	time_modified: 2025-11-21 23:25:42
 	name: Arbiter
 	casting_cost: 5
-	image: image42
+	image: image231
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,6 +24,7 @@ card:
 	rarity: rare
 	rule_text:
 		<i-auto>(Creatures don’t lose loyalty from damage.)</i-auto>
+		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
 		<sym-auto>+1</sym-auto>: Phase out up to one other target permanent until your next turn.
 		<sym-auto>-3</sym-auto>: This creature deals 7 damage to target creature or planeswalker.
 	flavor_text: <i-flavor></i-flavor>

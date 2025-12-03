@@ -177,7 +177,6 @@ include_file: card moonlight oracle
 include_file: card strange wayfarer
 include_file: card reshape reality
 include_file: card figure of some importance
-include_file: card one of keys
 include_file: card unceasing observation
 include_file: card distortion world
 include_file: card cloudscape observer
@@ -234,18 +233,21 @@ include_file: card echo
 include_file: card the gardener crowned
 include_file: card the howling door
 include_file: card the eternal echo
-include_file: card ancient forerunner itd
-include_file: card cloudscape observer itd
-include_file: card deepmind oracle itd
-include_file: card emergent anomaly itd
-include_file: card fracture of divinity itd
-include_file: card lammasu dream-stilled itd
+include_file: card ancient forerunner.1
+include_file: card cloudscape observer.1
+include_file: card deepmind oracle.1
+include_file: card emergent anomaly.1
+include_file: card fracture of divinity.1
+include_file: card lammasu dream-stilled.1
 include_file: card mechanised hunter.1
 include_file: card new-life acolyte.1
 include_file: card priest of perfection.1
 include_file: card shifting silverscape.1
 include_file: card insect
 include_file: card apocalypse of the forest
+include_file: card deepgrowth animist.1
+include_file: card one of keys
+include_file: card desolate meeting.1
 keyword:
 	keyword: Ominous
 	match: Ominous <atom-param>cost</atom-param>

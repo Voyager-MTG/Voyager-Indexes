@@ -1,19 +1,23 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: https://www.artstation.com/artwork/9En2xQ
+	notes:
+		https://www.artstation.com/artwork/9En2xQ
+		changed to one loyalty removed
 	time_created: 2024-10-08 23:25:51
-	time_modified: 2025-06-21 15:16:21
+	time_modified: 2025-11-22 00:10:45
 	extra_data:
 		magic-m15-altered: vorthos_box: it/its
 	name: 001, Errant Spark-Engine
 	casting_cost: 2BG
-	image: image112
+	image: image283
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,7 +26,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		You may cast <atom-cardname><nospellcheck>001, Errant Spark-Engine</nospellcheck></atom-cardname> from your graveyard by removing two loyalty counters from among permanents you control in addition to paying its other costs.
+		You may cast <atom-cardname><nospellcheck>001, Errant Spark-Engine</nospellcheck></atom-cardname> from your graveyard by removing a loyalty counters from a permanent you control in addition to paying its other costs.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11,7 +13,7 @@ card:
 	time_modified: 2025-02-03 11:45:51
 	name: Corvid Defacer
 	casting_cost: 3BB
-	image: image140
+	image: image309
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

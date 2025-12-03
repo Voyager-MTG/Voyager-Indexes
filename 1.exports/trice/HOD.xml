@@ -359,13 +359,14 @@ Whenever Takers of Voice enters, gain control of target nonland permanent for as
         <mv>4</mv>
         <type>Legendary Creature - Human  Pirate Noble </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>3/3</pt>
         <notes>!tag Dewold
 !tag Nye</notes>
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Heir—Your opponents have been dealt combat damage by unblocked creatures five or more times this game. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition. Each creature counts separately.)
+      <text>Heir—Your opponents have been dealt combat damage by unblocked creatures four or more times this game. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition. Each creature counts separately.)
+Ward {1}
 Creatures you control can’t be blocked unless each creature with lesser power than that creature is also blocked.</text>
     </card>
     <card>
@@ -539,14 +540,14 @@ At the beginning of each opponent’s upkeep, draw a card unless that player has
         <mv>5</mv>
         <type>Legendary Creature - Elf Noble </type>
         <maintype>Creature</maintype>
-        <pt>3/4</pt>
+        <pt>4/4</pt>
         <notes>!tag Dewold
 !tag Vance
 !tag Petula</notes>
         <tag>DewoldVancePetula</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Heir—You’ve cast five or more spells for an amount of mana less than their mana value. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)
+      <text>Heir—You’ve cast four or more spells for an amount of mana less than their mana value. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)
 Whenever Petula Vance attacks, exile another attacking creature you control. If you do, return target creature card from your graveyard to the battlefield tapped and attacking.</text>
     </card>
     <card>
@@ -742,7 +743,7 @@ Whenever a nontoken creature you control dies, create a token that’s a copy of
         <cmc>2</cmc>
         <type>Legendary Creature - Elf Noble </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>
@@ -814,7 +815,7 @@ When Waldemar dies, each opponent discards a card.
         <tag>DewoldRey</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Heir—You have twenty or more cards in exile. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)
+      <text>Heir—You have ten or more cards in exile. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)
 Menace
 Whenever Caryl Rey, the Rose attacks, exile the top card of your library. You may cast it. If you don’t, put a +1/+1 counter on Caryl Rey.</text>
     </card>
@@ -1061,7 +1062,7 @@ Enchanted creature has “Whenever this creature deals combat damage to a player
         <tag>DewoldRanulfSapner</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Heir—You control six or more lands and you don’t control any nonbasic lands and there aren’t any nonbasic lands in your graveyard. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)
+      <text>Heir—You control six or more lands and you don’t control any nonbasic lands. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)
 Landfall — Whenever a land you control enters, return target card from your graveyard to your hand.</text>
     </card>
     <card>
@@ -1134,11 +1135,11 @@ When Geistwald Abomination dies, choose two names. For each chosen name, create 
       <prop>
         <colors>G</colors>
         <color>G</color>
-        <manacost>2G</manacost>
-        <cost>2G</cost>
-        <mana>2G</mana>
-        <cmc>3</cmc>
-        <mv>3</mv>
+        <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Human Druid </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
@@ -1147,7 +1148,7 @@ When Geistwald Abomination dies, choose two names. For each chosen name, create 
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 3GG (3GG, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Deception 2GG (2GG, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 Whenever Chorus of the Silberwald deals combat damage to a player or planeswalker, you may search your library for a creature card with mana value equal to or less than that damage, put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
@@ -1192,7 +1193,7 @@ Whenever Blight-Tipped Hunter deals damage to a player, that player gets that ma
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Other permanents you control have bloom.</text>
     </card>
     <card>
@@ -5403,7 +5404,7 @@ Whenever Devious Cutthroat deals combat damage to a player or planeswalker, defe
         <tag>DewoldRey</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, you may forsake. (To forsake, sacrifice creatures with total toughness 3 or more.)
+      <text>As an additional cost to cast this spell, you may forsake. (Sacrifice creatures with total toughness 3 or more.)
 Exile the top three cards of your library. You may play them until the end of your next turn. If Innocent Rendezvous was forsaken, add RRRRR.</text>
     </card>
     <card>

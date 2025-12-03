@@ -1,12 +1,14 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !spellbook I5;1
+	notes:
+		!spellbook I5;1
+		changed to 3UU from 4UU
 	time_created: 2024-08-28 00:13:31
-	time_modified: 2025-08-20 13:22:50
+	time_modified: 2025-11-21 23:35:34
 	name: Lammasu, Dream-Stilled
-	casting_cost: 4UU
-	image: image52
+	casting_cost: 3UU
+	image: image236
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

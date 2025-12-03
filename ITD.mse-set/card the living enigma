@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7,12 +9,12 @@ card:
 		shrink_name_text: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: changed
+	notes: 
 	time_created: 2024-10-12 14:38:27
 	time_modified: 2025-02-14 00:39:49
 	name: The Living Enigma
 	casting_cost: 1R
-	image: image119
+	image: image294
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

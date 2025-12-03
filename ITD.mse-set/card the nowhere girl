@@ -1,19 +1,22 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		chop_top: -4
+		chop_top: 5
 		chop_bottom: 5
+		use_holofoil_stamps: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://x.com/Slitherbop/status/1787906825918234640
 	time_created: 2024-10-16 17:16:37
-	time_modified: 2025-07-25 10:16:56
+	time_modified: 2025-11-22 00:17:58
 	extra_data:
 		magic-m15-altered: vorthos_box: she/her
 	name: The Nowhere Girl
 	casting_cost: 2WU
-	image: image157
+	image: image323
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,8 +24,8 @@ card:
 	sub_type: <word-list-race-en>Reflection</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>3WU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3WU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
-		Whenever one or more creatures you control deal combat damage to an opponent, draw a card. Then you may cast a spell from your hand with mana value less than or equal to the damage dealt without paying its mana cost.
+		Sneak 3WU
+		Whenever one or more creatures you control deal combat damage to an opponent, draw a card. Then you may cast a spell from your hand with mana value 3 or less without paying its mana cost.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

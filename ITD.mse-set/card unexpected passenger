@@ -11,12 +11,12 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: changed to all creatures entering
 	time_created: 2024-08-27 18:40:28
-	time_modified: 2025-01-20 21:43:33
+	time_modified: 2025-11-25 11:20:29
 	name: Unexpected Passenger
 	casting_cost: 2RR
-	image: image29
+	image: image372
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

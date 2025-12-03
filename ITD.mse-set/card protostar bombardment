@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: To quell unbounded wrath is to attempt smothering a star.
+	notes: 
 	time_created: 2024-10-21 14:45:25
-	time_modified: 2025-01-02 19:51:57
+	time_modified: 2025-11-21 23:55:59
 	name: Protostar Bombardment
 	casting_cost: 3RRR
-	image: image63
+	image: image368
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

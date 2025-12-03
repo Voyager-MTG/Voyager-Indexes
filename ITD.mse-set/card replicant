@@ -15,7 +15,7 @@ card:
 	time_created: 2024-10-25 21:09:30
 	time_modified: 2025-08-30 06:00:56
 	name: Replicant
-	image: image120
+	image: image375
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -30,7 +30,7 @@ card:
 	loyalty_cost_2: +2
 	loyalty_cost_3: -2
 	loyalty: 1
-	level_1_text: <i>Additional processing concerns routed through crude bodies. Materials of construction: Enigmatic, unique, Abiogenetic. PRIORITY: Expand.</i>
+	level_1_text: <i>Additional processing concerns routed through crude bodies. Materials of construction: Enigmatic, unique, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Abiogenetic</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. PRIORITY: Expand.</i>
 	level_2_text: <margin:130:0:0>Each opponent loses 2 life and you gain 2 life</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Draw a card.</margin:130:0:0>
 	illustrator: MorkarDFC
@@ -41,6 +41,6 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		<i>Additional processing concerns routed through crude bodies. Materials of construction: Enigmatic, unique, Abiogenetic. PRIORITY: Expand.</i>
+		<i>Additional processing concerns routed through crude bodies. Materials of construction: Enigmatic, unique, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Abiogenetic</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. PRIORITY: Expand.</i>
 		[+2]: <margin:130:0:0>Each opponent loses 2 life and you gain 2 life</margin:130:0:0>
 		[-2]: <margin:130:0:0>Draw a card.</margin:130:0:0>

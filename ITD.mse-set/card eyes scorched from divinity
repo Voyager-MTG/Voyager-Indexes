@@ -1,17 +1,19 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		chop_bottom: 3
+		chop_top: 2
+		chop_bottom: 7
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: 
+	notes: changed to 5mv and only triggers if it was ominous
 	time_created: 2024-08-24 15:18:22
-	time_modified: 2025-08-18 18:38:16
-	card_trim: clear
+	time_modified: 2025-11-21 23:17:21
 	name: Eyes Scorched from Divinity
-	casting_cost: 7
-	image: image19
+	casting_cost: 5
+	image: image212
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When this creature enters, destroy target permanent.
+		When this creature enters, if it was ominous, destroy target nonland permanent.
 		<kw-A><nospellcheck><key>Ominous <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

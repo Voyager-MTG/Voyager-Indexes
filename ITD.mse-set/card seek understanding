@@ -1,12 +1,14 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: https://www.deviantart.com/myprocrastinationfix/art/Day-1444-Save-the-Wretched-1038769165
+	notes:
+		https://www.deviantart.com/myprocrastinationfix/art/Day-1444-Save-the-Wretched-1038769165
+		changed from +1/+1 to +2/+2
 	time_created: 2024-10-15 15:59:52
-	time_modified: 2025-07-25 10:15:31
+	time_modified: 2025-11-22 01:29:22
 	name: Seek Understanding
 	casting_cost: 1W
-	image: image146
+	image: image313
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -14,7 +16,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		Horror creatures you control get +1/+1 as long as you control a non-Horror creature.
+		Horror creatures you control get +2/+2 as long as you control a non-Horror creature.
 		Whenever one or more non-Horror creatures you control deal combat damage to a player, draw a card if you control a Horror.
 	flavor_text:
 		<i-flavor>“Though they may seem strange, they can reason, and they can learn. Even we can learn.”<soft-line>

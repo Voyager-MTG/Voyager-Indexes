@@ -1,17 +1,19 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 10
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: 
+	notes: changed to rework
 	time_created: 2024-10-03 15:35:28
-	time_modified: 2025-07-24 20:21:42
+	time_modified: 2025-11-22 00:52:17
 	name: Angel of the Forest
 	casting_cost: 2B
-	image: image90
+	image: image266
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Angel of the Forest</nospellcheck></atom-cardname> leaves your graveyard during your turn or attacks, create a 1/1 white Nightmare creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
+		Whenever <atom-cardname><nospellcheck>Angel of the Forest</nospellcheck></atom-cardname> leaves your graveyard during your turn or attacks, you may pay <sym-auto>1</sym-auto>. If you do, create a 1/1 white Nightmare creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
 	flavor_text: <i-flavor>Every branch, every root detests you.</i-flavor>
 	power: 2
 	toughness: 2

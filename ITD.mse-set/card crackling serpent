@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7,12 +9,14 @@ card:
 		shrink_name_text: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: https://www.artstation.com/artwork/dy01ZJ
+	notes:
+		https://www.artstation.com/artwork/dy01ZJ
+		changed to sneak 3
 	time_created: 2024-10-25 15:58:43
-	time_modified: 2024-10-25 16:09:23
+	time_modified: 2025-11-22 00:26:52
 	name: Crackling Serpent
 	casting_cost: 5
-	image: image148
+	image: image352
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,7 +24,7 @@ card:
 	sub_type: <word-list-race-en>Serpent</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>4</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+		Sneak 3
 		Whenever one or more creatures you control deal combat damage to a player, that player sacrifices a nonland permanent. If they can’t, you draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -13,7 +15,7 @@ card:
 		magic-m15-altered: vorthos_box: he/she
 	name: Heliach, The Sunspitter
 	casting_cost: 1R
-	image: image152
+	image: image320
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

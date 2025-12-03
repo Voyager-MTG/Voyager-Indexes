@@ -1,17 +1,19 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: -3
 		chop_bottom: -3
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: changed
+	notes: 
 	time_created: 2024-09-01 14:56:11
 	time_modified: 2024-10-26 16:02:21
 	name: Corpse-Shell Container
 	casting_cost: 5
-	image: image67
+	image: image249
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

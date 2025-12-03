@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -11,7 +13,7 @@ card:
 	time_modified: 2024-10-12 23:04:41
 	name: Tormented Saviour
 	casting_cost: 2WW
-	image: image98
+	image: image270
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

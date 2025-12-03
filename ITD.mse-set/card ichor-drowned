@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11,7 +13,7 @@ card:
 	time_modified: 2025-07-25 10:21:54
 	name: Ichor-Drowned
 	casting_cost: G
-	image: image53
+	image: image237
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

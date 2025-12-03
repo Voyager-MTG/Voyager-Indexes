@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -7,26 +9,28 @@ card:
 		shrink_name_text: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: 
+	notes: changed to remove sorcery clause
 	time_created: 2024-10-12 13:58:24
-	time_modified: 2025-01-03 16:33:11
+	time_modified: 2025-11-22 01:08:29
 	name: Piercing Betrayal
 	casting_cost: 1B
-	image: image182
+	image: image360
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a creature.
 		Draw two cards. 
-		<sym-auto>1B</sym-auto>, Exile <atom-cardname><nospellcheck>Piercing Betrayal</nospellcheck></atom-cardname> from your graveyard as a sorcery: Conjure two cards named Drain into your hand. <i-auto>(They’re <sym>B</sym> sorceries with “Target opponent loses 1 life and you gain 1 life.”)</i-auto>
+		<sym-auto>1B</sym-auto>, Exile <atom-cardname><nospellcheck>Piercing Betrayal</nospellcheck></atom-cardname> from your graveyard: Conjure two cards named Drain into your hand. <i-auto>(They’re <sym>B</sym> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sorceries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with “Target opponent loses 1 life and you gain 1 life.”)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Emily Lubanko
 	card_code_text: 

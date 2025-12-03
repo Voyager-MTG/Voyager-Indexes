@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -9,11 +11,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://www.deviantart.com/dariuszkieliszek/art/Moonboy-Chronicles-Super-Cycle-1047649289
 	time_created: 2024-10-25 15:18:24
-	time_modified: 2025-02-21 11:24:07
+	time_modified: 2025-11-04 18:45:48
 	card_color: blue, black, green, multicolor, horizontal
 	name: Interstellar Drifter
 	casting_cost: BGU
-	image: image145
+	image: image351
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +23,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>BGU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>BGU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+		Sneak <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>BGU</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		Whenever this creature deals combat damage to a player, that player sacrifices a planeswalker. Return up to one target planeswalker card from your graveyard to your hand. 
 	flavor_text: <i-flavor></i-flavor>

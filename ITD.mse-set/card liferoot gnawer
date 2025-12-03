@@ -1,12 +1,22 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
-	notes: https://x.com/Slitherbop/status/1737311175824838900/photo/1
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		use_holofoil_stamps: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		https://x.com/Slitherbop/status/1737311175824838900/photo/1
+		changed last ability.
 	time_created: 2024-10-18 15:46:46
-	time_modified: 2025-07-24 20:20:38
+	time_modified: 2025-11-23 15:16:57
 	name: Liferoot Gnawer
-	casting_cost: 4RR
-	image: image181
+	casting_cost: 3RR
+	image: image344
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -15,8 +25,8 @@ card:
 	rarity: rare
 	rule_text:
 		When this creature enters, choose one—
-		<li><bullet>• </bullet>This creature deals 3 damage divided among any number of targets.
-		</li><li><bullet>• </bullet>Gain control of target land. It gains “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.” and loses all other abilities.</li>
+		<li><bullet>• </bullet>This creature deals 3 damage divided among one or two targets.
+		</li><li><bullet>• </bullet>Gain control of target land you don’t control. Its controller creates a tapped token land with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3

@@ -1,21 +1,19 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: 
+	notes: changed 
 	time_created: 2024-10-03 23:40:23
-	time_modified: 2025-06-21 15:15:58
+	time_modified: 2025-11-22 00:06:16
 	name: Pestilent Meeting
 	casting_cost: 1G
-	image: image99
+	image: image271
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text:
-		As an additional cost to cast this spell you may remove a loyalty counter from a permanent you control.
-		Search your library for a basic land card and put it onto the battlefield tapped, then shuffle. If you paid this spell’s additional cost, search your library for a land card instead.
+	rule_text: Search your library for a land card and put it onto the battlefield tapped, then shuffle. If it wasn’t basic, sacrifice a land.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: ABeardedArtist
 	card_code_text: 

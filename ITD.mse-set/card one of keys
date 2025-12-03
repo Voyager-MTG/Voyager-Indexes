@@ -1,17 +1,21 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: https://www.deviantart.com/valentina-remenar/art/Key-To-Opportunity-811532774
+	notes:
+		https://www.deviantart.com/valentina-remenar/art/Key-To-Opportunity-811532774
+		changed to not be an engine
 	time_created: 2024-10-17 19:22:16
-	time_modified: 2025-02-21 18:52:49
+	time_modified: 2025-11-25 12:49:14
 	name: One of Keys
 	casting_cost: 1WW
-	image: image168
+	image: image404
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,8 +24,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Changeling</key></nospellcheck><atom-reminder-expert> <i-auto>(This card is every creature type.)</i-auto></atom-reminder-expert></kw-A>
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>2W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2W</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
-		Whenever this creature deals combat damage to a player, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle.
+		Sneak 2WW
+		When <atom-cardname><nospellcheck>One of Keys</nospellcheck></atom-cardname> deals combat damage to a player, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

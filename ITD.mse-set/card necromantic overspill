@@ -1,12 +1,14 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: https://es.pinterest.com/pin/412783122110307933/
+	notes:
+		https://es.pinterest.com/pin/412783122110307933/
+		changed the mill cards condition
 	time_created: 2024-08-30 12:30:03
-	time_modified: 2025-08-30 06:01:42
+	time_modified: 2025-11-21 23:43:23
 	name: Necromantic Overspill
 	casting_cost: 2B
-	image: image32
+	image: image373
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -15,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		As an additional cost to cast <atom-cardname><nospellcheck>Necromantic Overspill</nospellcheck></atom-cardname>, pay <sym-auto>2</sym-auto> or sacrifice a creature.
-		Return target creature or planeswalker card with mana value 5 or less from your graveyard to the battlefield. If that card has mana value less than </sym>5<sym>, mill a number of cards equal to the difference.
+		Return target creature or planeswalker card with mana value 5 or less from your graveyard to the battlefield. If it didn’t have mana value 5, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>Lies and bodies fester beneath the surface.</i-flavor>
 	illustrator: Dan Seagrave
 	card_code_text: 

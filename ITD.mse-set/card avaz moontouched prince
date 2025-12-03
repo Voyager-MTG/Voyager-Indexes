@@ -10,15 +10,15 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: changed to remove lifelink
 	time_created: 2024-10-03 20:42:24
-	time_modified: 2024-10-22 14:58:06
+	time_modified: 2025-11-21 23:38:31
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: he/him
 	name: Avaz, Moontouched Prince
 	casting_cost: B
-	image: image102
+	image: image273
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -27,7 +27,7 @@ card:
 	rarity: rare
 	rule_text:
 		<i-auto>(Creatures don’t lose loyalty from damage.)</i-auto>
-		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		Whenever this creature attacks, put a loyalty counter on it and <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
 		<sym-auto>-1</sym-auto>: This creature gets +1/+1 until end of turn.
 		<sym-auto>-3</sym-auto>: Create two 1/1 white Nightmare creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”

@@ -3,15 +3,15 @@ card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: 
+	notes: changed activate again to repeat this process.
 	time_created: 2024-10-18 00:30:05
-	time_modified: 2025-01-21 16:03:12
+	time_modified: 2025-11-23 18:06:05
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: They/them
 	name: Ever-Burning Soul
 	casting_cost: 3R
-	image: image178
+	image: image341
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,7 +22,7 @@ card:
 	loyalty_cost_2: -2
 	loyalty_cost_3: 
 	loyalty: 3
-	level_1_text: <margin:130:0:0>Exile the top card of your library. You may play it this turn. When you do,  you may activate this ability an additional time this turn.</margin:130:0:0>
+	level_1_text: <margin:130:0:0>Exile the top card of your library. You may play it this turn. When you do, you may repeat this process.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>This planeswalker deals X damage to any target, where X is 2 plus the number of cards exiled with it. If that permanent would die this turn, exile it instead.</margin:130:0:0>
 	level_3_text: 
 	level_4_text: 
@@ -34,5 +34,5 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		[+1]: <margin:130:0:0>Exile the top card of your library. You may play it this turn. When you do,  you may activate this ability an additional time this turn.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Exile the top card of your library. You may play it this turn. When you do, you may repeat this process.</margin:130:0:0>
 		[-2]: <margin:130:0:0>This planeswalker deals X damage to any target, where X is 2 plus the number of cards exiled with it. If that permanent would die this turn, exile it instead.</margin:130:0:0>

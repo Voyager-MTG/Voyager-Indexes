@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: 
+	notes: flag-change
 	time_created: 2024-10-12 12:59:14
-	time_modified: 2025-01-21 00:29:17
+	time_modified: 2025-11-25 13:01:02
 	name: Beseech the Divine
 	casting_cost: 2WW
-	image: image128
+	image: image299
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -14,8 +14,8 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		Destroy all creatures. 
-		Each player creates a 1/1 colorless Faerie Horror creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”
+		Destroy all creatures.
+		Destroy all artifacts and enchantments with impending.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Yoshim_0
 	card_code_text: 

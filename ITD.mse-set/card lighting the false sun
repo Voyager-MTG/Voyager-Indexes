@@ -5,17 +5,17 @@ card:
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
-		snap_chapter_to_box: 1,2,2,
-		chapter_divider_coordinates: 330,
+		snap_chapter_to_box: 1,2,2
+		chapter_divider_coordinates: 
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
 	time_created: 2024-10-14 16:32:47
-	time_modified: 2024-10-15 22:38:41
+	time_modified: 2025-11-24 01:19:52
 	name: Lighting the False Sun
 	casting_cost: 1W
-	image: image138
+	image: image307
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -24,8 +24,8 @@ card:
 	rarity: rare
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
-	level_2_text: <soft-line>You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.</soft-line>
+	level_1_text: Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+	level_2_text: <soft-line>You may put a creature card with mana value 2 or less from your hand onto the battlefield.</soft-line>
 	level_3_text: ​
 	illustrator: Rebecca Chaperon
 	card_code_text: 
@@ -36,6 +36,6 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
-		<soft-line>You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.</soft-line>
+		Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+		<soft-line>You may put a creature card with mana value 2 or less from your hand onto the battlefield.</soft-line>
 		​

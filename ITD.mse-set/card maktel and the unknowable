@@ -8,6 +8,7 @@ card:
 		chop_bottom: 7
 		shrink_name_text: 1
 		frames: 
+		d20_dividers: all breaks
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -19,7 +20,7 @@ card:
 			vorthos_box: they/them
 	name: Maktel and the Unknowable
 	casting_cost: 2GG
-	image: image60
+	image: image367
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

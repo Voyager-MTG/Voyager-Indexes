@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: 
+	notes: changed to "whenever you attack" from whenever it attacks also fixed token wording
 	time_created: 2024-08-29 18:40:18
-	time_modified: 2025-01-21 15:54:41
+	time_modified: 2025-11-21 23:52:31
 	name: Mirror Eater
 	casting_cost: 4R
-	image: image37
+	image: image243
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever this creature attacks, you may create a tapped and attacking token copy of another attacking creature. At the beginning of the next end step, exile that token.
+		Whenever you attack, you may create a tapped and attacking token that’s a copy of another target attacking creature. At the beginning of the next end step, exile that token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3

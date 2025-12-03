@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -14,7 +16,7 @@ card:
 		magic-m15-altered: vorthos_box: she/her
 	name: Ajaxala, Cunning Puppeteer
 	casting_cost: 1GU
-	image: image101
+	image: image272
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

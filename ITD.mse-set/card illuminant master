@@ -1,14 +1,12 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes:
-		https://www.deviantart.com/evi-gilatio/art/meow-985603933
-		changed
+	notes: https://www.deviantart.com/evi-gilatio/art/meow-985603933
 	time_created: 2024-10-22 13:41:51
 	time_modified: 2025-01-03 17:30:06
 	name: Illuminant Master
 	casting_cost: 2W
-	image: image75
+	image: image371
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

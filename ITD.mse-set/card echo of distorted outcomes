@@ -5,13 +5,13 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/9N9ZNO
 	time_created: 2024-09-03 18:53:09
-	time_modified: 2025-02-08 17:07:22
+	time_modified: 2025-11-23 18:28:07
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: it/its
 	name: Echo of Distorted Outcomes
 	casting_cost: 2W
-	image: image80
+	image: image253
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,7 +22,7 @@ card:
 	loyalty_cost_2: -2
 	loyalty_cost_3: -5
 	loyalty: 3
-	level_1_text: <margin:130:0:0>Sacrifice up to one nontoken creature you control. Create a token copy of it except it’s an artifact in addition to its other types.</margin:130:0:0>
+	level_1_text: <margin:130:0:0>Sacrifice up to one nontoken creature you control. Create a token that’s a copy of it except it’s an artifact in addition to its other types.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Return target creature card with mana value 3 or less from your graveyard to the battlefield.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Create two token copies of <atom-cardname><nospellcheck>Echo of Distorted Outcomes</nospellcheck></atom-cardname>, except they’re not legendary.</margin:130:0:0>
 	level_4_text: 
@@ -34,6 +34,6 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		[+1]: <margin:130:0:0>Sacrifice up to one nontoken creature you control. Create a token copy of it except it’s an artifact in addition to its other types.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Sacrifice up to one nontoken creature you control. Create a token that’s a copy of it except it’s an artifact in addition to its other types.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Return target creature card with mana value 3 or less from your graveyard to the battlefield.</margin:130:0:0>
 		[-5]: <margin:130:0:0>Create two token copies of <atom-cardname><nospellcheck>Echo of Distorted Outcomes</nospellcheck></atom-cardname>, except they’re not legendary.</margin:130:0:0>

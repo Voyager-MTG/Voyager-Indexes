@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7,12 +9,12 @@ card:
 		shrink_name_text: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: 
+	notes: changed condition to 3 lands in realm
 	time_created: 2024-08-29 18:32:15
-	time_modified: 2024-12-18 20:28:16
+	time_modified: 2025-11-23 18:29:18
 	name: Somnonaut Drone
 	casting_cost: 3R
-	image: image49
+	image: image241
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		When this creature enters, if it’s not a token, create a token copy of it. Exile that token at the beginning of the next end step unless there are four or more lands <kw-A><nospellcheck><key>in your realm</key></nospellcheck>. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto><atom-reminder-custom> <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto></atom-reminder-custom></kw-A>
+		When this creature enters, if it’s not a token, create a token that’s a copy of it. Exile that token at the beginning of the next end step unless there are three or more lands <kw-A><nospellcheck><key>in your realm</key></nospellcheck>. <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto><atom-reminder-custom> <i-auto>(Your realm consists of up to one land of each of the basic land types.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

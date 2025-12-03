@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -7,12 +9,14 @@ card:
 		shrink_name_text: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: https://www.deviantart.com/michaelwilliamaustin/art/Bad-moon-rising-1110839761
+	notes:
+		https://www.deviantart.com/michaelwilliamaustin/art/Bad-moon-rising-1110839761
+		changed to be once each turn
 	time_created: 2024-10-17 19:09:38
-	time_modified: 2025-07-25 10:22:33
+	time_modified: 2025-11-21 23:36:39
 	name: Moonlight Oracle
 	casting_cost: 3U
-	image: image164
+	image: image331
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +25,7 @@ card:
 	rarity: rare
 	rule_text:
 		When this creature enters, <kw-0><nospellcheck><key>surveil <param-number>3</param-number></key></nospellcheck></kw-0>, then draw a card.
-		<i><kw-0><i-auto><nospellcheck><key>Deep Dwelling</key></nospellcheck></i-auto></kw-0> </i>— Whenever one or more cards are put into your graveyard from your library, you may return one of them to your hand if your library contains a number of cards less than or equal to half your starting deck size.
+		<i><kw-0><i-auto><nospellcheck><key>Deep Dwelling</key></nospellcheck></i-auto></kw-0> </i>— Once each turn, whenever one or more cards are put into your graveyard from your library, you may return one of them to your hand if your library contains a number of cards less than or equal to half your starting deck size.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4

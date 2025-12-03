@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -11,7 +13,7 @@ card:
 	time_modified: 2025-07-24 20:21:08
 	name: Warden of Scorching Days
 	casting_cost: 3RR
-	image: image85
+	image: image262
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

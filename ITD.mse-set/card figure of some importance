@@ -1,18 +1,22 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 5
-		chop_bottom: 
+		chop_bottom: 8
 		shrink_name_text: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: https://www.deviantart.com/themefinland/art/The-narrator-906224784
+	notes:
+		https://www.deviantart.com/themefinland/art/The-narrator-906224784
+		changed to if it was cast
 	time_created: 2024-10-17 19:19:02
-	time_modified: 2025-07-25 10:19:55
+	time_modified: 2025-11-21 23:32:39
 	name: Figure of Some Importance
 	casting_cost: 3UU
-	image: image167
+	image: image334
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,8 +24,8 @@ card:
 	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Deception <param-cost><sym-auto>UUU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>UUU</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
-		When this creature enters, if it was cast or entered from your hand, each player may shuffle their hand and graveyard into their library, then draw seven cards.
+		Sneak <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>UUU</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		When this creature enters, if it was cast, each player may shuffle their hand and graveyard into their library, then draw seven cards.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

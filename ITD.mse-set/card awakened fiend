@@ -1,17 +1,19 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: 
+	notes: changed to -1 mill and added extra land play
 	time_created: 2024-10-02 18:27:40
-	time_modified: 2024-12-25 21:05:09
+	time_modified: 2025-11-22 01:12:08
 	name: Awakened Fiend
 	casting_cost: 2GG
-	image: image87
+	image: image264
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Awakened Fiend</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. 
+		When <atom-cardname><nospellcheck>Awakened Fiend</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may play an additional land this turn.
 		You may play land cards from your graveyard. Whenever you do, put a +1/+1 counter on this creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
