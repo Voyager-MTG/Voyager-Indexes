@@ -1,19 +1,12 @@
 ﻿mse_version: 2.5.8
 card:
-	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
-	has_styling: true
-	styling_data:
-		chop_top: 
-		frames: clear
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes:
 		changed to instant
 		!addtoken Through Violence;conjure:3;
 	time_created: 2024-08-16 12:23:08
-	time_modified: 2025-11-21 23:18:30
+	time_modified: 2025-12-02 18:10:16
+	card_trim: clear
 	name: Meet the Beyond
 	casting_cost: 2
 	image: image370

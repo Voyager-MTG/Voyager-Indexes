@@ -7,6 +7,7 @@ card:
 		chop_top: 5
 		chop_bottom: 
 		frames: 
+		d20_dividers: all breaks +2
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 

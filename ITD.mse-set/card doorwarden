@@ -8,7 +8,8 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://www.artstation.com/artwork/JlLaNA
 	time_created: 2024-08-24 12:37:59
-	time_modified: 2025-08-18 18:38:26
+	time_modified: 2025-12-02 18:09:45
+	card_trim: clear, legend
 	name: Doorwarden
 	casting_cost: 3
 	image: image211
