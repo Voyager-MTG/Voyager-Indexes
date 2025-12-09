@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/artofty/art/Timber-Drake-907310390
+	time_created: 2022-12-12 08:25:27
+	time_modified: 2025-12-03 20:10:00
+	card_trim: special guest, inverted
+	name: Territorial Yew-Maw
+	casting_cost: 1GG
+	image: image16.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Treefolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Territorial Yew-Maw</nospellcheck></atom-cardname> enters, you may have it deal 2 damage to itself.
+		Whenever <atom-cardname><nospellcheck>Territorial Yew-Maw</nospellcheck></atom-cardname> is dealt damage during your turn, destroy up to one target artifact or enchantment if you control <atom-cardname><nospellcheck>Territorial Yew-Maw</nospellcheck></atom-cardname>.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Victor Titov
+	custom_card_number: 5 — XXX • Top Cards II
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Kogane
+	copyright_2: Kogane
+	copyright_3: Kogane

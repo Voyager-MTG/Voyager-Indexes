@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		https://es.pinterest.com/pin/322148179600180623/
+		changed to self-exile.
+	time_created: 2024-08-27 18:38:16
+	time_modified: 2025-12-04 16:10:05
+	card_trim: special guest, inverted
+	name: Rite of Resurrection
+	casting_cost: 3BB
+	image: image23.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		Destroy all creatures. Then you may return a creature card with mana value 3 or less from your graveyard to the battlefield.
+		Exile <atom-cardname><nospellcheck>Rite of Resurrection</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor>“This is not really a rite of renewal - more of deferral. Winter can be delayed, but not denied.”</i-flavor>
+	illustrator: TavenerScholar
+	custom_card_number: 5 — XXX • Top Cards II
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

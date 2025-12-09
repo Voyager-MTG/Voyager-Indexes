@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: 
+	time_created: 2024-12-07 02:24:09
+	time_modified: 2025-12-03 20:27:32
+	card_trim: special guest, inverted
+	card_trim_plus: none
+	name: Pull of the Unknown
+	casting_cost: 1U/B
+	image: image10.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Instant</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text: Look at the top five cards of your library. Put up to one back on top and the rest into your graveyard.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: JayGraphixx
+	custom_card_number: 5 — XXX • Top Cards II
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

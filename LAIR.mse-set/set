@@ -79,6 +79,14 @@ include_file: card the gardener crowned
 include_file: card wonder
 include_file: card blinding majesty
 include_file: card shimmer from beyond
+include_file: card territorial yew-maw
+include_file: card the geminiad
+include_file: card naval diplomacy
+include_file: card torch
+include_file: card collector of the wonderful
+include_file: card pull of the unknown
+include_file: card rite of resurrection
+include_file: card survivors instinct
 version_control:
 	type: none
 apprentice_code: 

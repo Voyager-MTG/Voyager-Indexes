@@ -5,11 +5,11 @@ card:
 		!tag Dewold
 		!tag Radcliff
 	time_created: 2025-02-24 00:35:24
-	time_modified: 2025-09-25 18:11:37
+	time_modified: 2025-12-03 20:49:05
 	card_trim: special guest, inverted
 	name: Torch
 	casting_cost: 1R
-	image: image37
+	image: image19.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,13 +21,15 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: uncommon
+	rarity: mythic rare
 	rule_text:
 		This spell can’t be countered.
 		<atom-cardname><nospellcheck>Torch</nospellcheck></atom-cardname> deals 4 damage to target creature or planeswalker.  If a permanent dealt damage this way would die this turn, exile it instead.
-	flavor_text: <i-flavor>House Durant and House <error-spelling:en_US>Jardine</error-spelling:en_US> once challenged House Radcliff for supremacy. Only House Radcliff remains. </i-flavor>
-	illustrator: Lily Abdullina
-	custom_card_number: 
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Ethemos
+	custom_card_number: 5 — XXX • Top Cards II
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

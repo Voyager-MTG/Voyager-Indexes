@@ -7,11 +7,11 @@ card:
 		!tag Nye
 		!tag Marilye
 	time_created: 2025-02-25 12:10:23
-	time_modified: 2025-09-25 18:11:48
+	time_modified: 2025-12-04 18:35:16
 	card_trim: special guest, inverted
 	name: Naval Diplomacy
 	casting_cost: 1U
-	image: image38
+	image: image18.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,12 +23,13 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
+	rarity: mythic rare
 	rule_text:
 		Counter target spell unless its controller pays <sym-auto>2</sym-auto>.
-		<sym-auto>1U</sym-auto>, Exile <atom-cardname><nospellcheck>Naval Diplomacy</nospellcheck></atom-cardname> from your graveyard: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then create two 1/1 blue Scout creature tokens <kw-1><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-1>
+		<sym-auto>1U</sym-auto>, Exile <atom-cardname><nospellcheck>Naval Diplomacy</nospellcheck></atom-cardname> from your graveyard: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then create two 1/1 blue Scout creature tokens <kw-0><nospellcheck><key>in your reserves</key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: J Spearing
-	custom_card_number: 
-	card_code_text: Story Spotlight 6
+	custom_card_number: 5 — XXX • Top Cards II
+	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

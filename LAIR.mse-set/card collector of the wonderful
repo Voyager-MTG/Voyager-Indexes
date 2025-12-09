@@ -1,27 +1,28 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: 
+	notes: https://www.deviantart.com/lileti/art/Fox-Merchant-Character-design-challenge-882694479
 	time_created: 2025-01-04 18:02:31
-	time_modified: 2025-09-25 18:11:30
+	time_modified: 2025-12-04 18:35:26
 	card_trim: special guest, inverted
 	name: Collector of the Wonderful
 	casting_cost: 1R
-	image: image36
+	image: image21.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Fox</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: rare
+	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever you attack, you may discard a card. If you do, draw a card. If <atom-cardname><nospellcheck>Collector of the Wonderful</nospellcheck></atom-cardname> is attacking, you may <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck> instead.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you attack, you may discard a card. If you do, draw a card. If <atom-cardname><nospellcheck>Collector of the Wonderful</nospellcheck></atom-cardname> is attacking, you may <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0> instead.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: Claudya Schmidt
-	custom_card_number: 
+	card_stamp: heart
+	illustrator: lileti
+	custom_card_number: 5 — XXX • Top Cards II
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
