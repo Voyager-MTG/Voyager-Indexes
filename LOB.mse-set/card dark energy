@@ -1,9 +1,10 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
 	time_created: 2022-07-18 21:25:51
 	time_modified: 2025-07-02 18:51:55
+	card_trim_plus: Yugioh Frame
 	name: Dark Energy
 	casting_cost: 4BB
 	image: image594

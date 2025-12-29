@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,25 +6,23 @@ card:
 	styling_data:
 		chop_top: 
 		chop_bottom: 
-		font_cap: 13.5
 		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: star, Yugioh Frame
+		font_cap: 13.5
 		name_color: default
 		typeline_color: default
 		popout_image_style_3: 
 		custom_symbol: abstract-061.png
 		use_holofoil_stamps: no
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: 
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-07-15 01:22:42
+	time_modified: 2025-12-26 23:37:23
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: he/him
+	card_trim_plus: star, Yugioh Frame
 	name: Thunder Kid
 	casting_cost: 3II
 	image: image471
@@ -40,7 +38,7 @@ card:
 	rarity: common
 	rule_text:
 		Insects you control have <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
-		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>I</sym-auto>, Discard this: <kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>I</sym-auto>, Discard this: <kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token that’s a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>This monster stores electricity within his body, and can unleash it with catastrophic power.</i-flavor>

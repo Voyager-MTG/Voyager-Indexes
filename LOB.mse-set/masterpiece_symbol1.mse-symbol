@@ -1,6 +1,7 @@
 ﻿mse_version: 0.3.5
 part:
 	type: shape
+	card_trim_plus: Yugioh Frame
 	name: Polygon
 	combine: overlap
 	point:
@@ -37,6 +38,7 @@ part:
 		line_after: line
 part:
 	type: shape
+	card_trim_plus: Yugioh Frame
 	name: Star
 	combine: overlap
 	point:
@@ -441,6 +443,7 @@ part:
 		line_after: line
 part:
 	type: shape
+	card_trim_plus: Yugioh Frame
 	name: Star
 	combine: overlap
 	point:

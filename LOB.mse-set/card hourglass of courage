@@ -1,9 +1,10 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
 	time_created: 2023-02-27 12:15:49
 	time_modified: 2023-11-04 17:36:27
+	card_trim_plus: Yugioh Frame
 	name: Hourglass of Courage
 	casting_cost: 1W
 	image: image87

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,25 +6,23 @@ card:
 	styling_data:
 		chop_top: 
 		chop_bottom: 
-		font_cap: 13.5
 		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: token, Yugioh Frame
+		font_cap: 13.5
 		name_color: default
 		popout_image_style_3: 
 		custom_symbol: abstract-061.png
-		use_holofoil_stamps: no
 		alt_rarity_color: 
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes:
 		!related Charubin the Fire Knight;Darkfire Dragon;Dragoness the Wicked Knight;Empress Judge;Flame Ghost;Flame Swordsman;Flower Wolf;Fusionist;Gaia the Dragon Champion;Kaiser Dragon;Kaminari Attack;Kamionwizard;Karbonala Warrior;Kwagar Hercules;Mavelus;Metal Dragon;Musician King;Pragticul;Punished Eagle;Rabid Horseman;Rare Fish;Roaring Ocean Snake;Rose Spectre of Dunn;Sanwitch;Skelegon;Skullbird;St. Joan;Vermillion Sparrow;Warrior of Tradition;Zombie Warrior;
 		
 		!tokenrarity
 	time_created: 2022-01-17 01:15:05
 	time_modified: 2024-06-24 17:00:42
+	card_trim_plus: Yugioh Frame
 	name: Sanctum Reminder
 	image: image586
 	image_2: image587

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,6 +6,7 @@ card:
 	notes: 
 	time_created: 2022-07-18 21:25:51
 	time_modified: 2025-07-15 01:22:16
+	card_trim_plus: Yugioh Frame
 	name: Bean Soldier
 	casting_cost: 1I
 	image: image333
@@ -21,7 +22,7 @@ card:
 	rarity: common
 	rule_text:
 		The first <kw-a><nospellcheck><key>equip <param-name>ability you activate each turn costs</param-name> <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a> less to activate.
-		<sym-auto>3I</sym-auto>, Exile <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard: <kw-A><nospellcheck><key>Mirror</key></nospellcheck>. Activate only as a sorcery.<atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>3I</sym-auto>, Exile <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard: <kw-A><nospellcheck><key>Mirror</key></nospellcheck>. Activate only as a sorcery.<atom-reminder-custom> <i-auto>(Create a token that’s a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>A plant warrior that attacks with seeds and sword.</i-flavor>

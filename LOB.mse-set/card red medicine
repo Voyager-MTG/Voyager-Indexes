@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,20 +6,17 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		font_cap: 13.5
+		hybrid_name: hybrid
 		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: Yugioh Frame
+		font_cap: 13.5
 		name_color: default
 		popout_image_style_3: 
 		custom_symbol: abstract-061.png
 		use_holofoil_stamps: no
+		inverted_common_symbol: no
 		color_indicator_dot: yes
-		hybrid_name: hybrid
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes:
 		
 		Choose effects based on the colors of mana spent to cast this spell:
@@ -28,6 +25,7 @@ card:
 		Green| Return target card from your graveyard to your hand. Exile this card.
 	time_created: 2022-07-18 21:25:51
 	time_modified: 2024-08-01 12:42:59
+	card_trim_plus: Yugioh Frame
 	card_color: black, red, green, multicolor, horizontal
 	name: Red Medicine
 	casting_cost: X

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,16 +6,15 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		frames: prototype
-		altered_plus_frames: Yugioh Frame
 		popout_image_style_3: 
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: Unbound
-	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-07-02 18:59:28
+	time_created: 2025-12-25 00:00:00
+	time_modified: 2025-12-25 00:00:00
+	card_trim: prototype
+	card_trim_plus: Yugioh Frame
 	name: Uraby
 	casting_cost: 1G
 	casting_cost_2: 6GG
