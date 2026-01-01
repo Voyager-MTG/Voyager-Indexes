@@ -17,9 +17,9 @@ card:
 	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: rare
 	rule_text:
-		Urwrapir enters tapped.
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urwrapir</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
-		<sym-auto>1G</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice Urwrapir: Copy target activated or triggered ability you control. You may choose new targets for the copy.
+		<sym-auto>1G</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urwrapir</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Copy target activated or triggered ability you control. You may choose new targets for the copy.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Adam Midzuk
 	card_code_text: 

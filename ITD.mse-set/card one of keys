@@ -24,7 +24,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Changeling</key></nospellcheck><atom-reminder-expert> <i-auto>(This card is every creature type.)</i-auto></atom-reminder-expert></kw-A>
-		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>2WW</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>()</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>2WW</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>2WW</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
 		When <atom-cardname><nospellcheck>One of Keys</nospellcheck></atom-cardname> deals combat damage to a player, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

@@ -18,7 +18,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-0><nospellcheck><key>Protection from <param-name>multicolored</param-name></key></nospellcheck></kw-0>
-		<kw-1><nospellcheck><key>Retopology <param-cost><sym-auto>WWW</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>WWW</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-1>
+		<kw-1><nospellcheck><key>Retopology <param-cost><sym-auto>WWW</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

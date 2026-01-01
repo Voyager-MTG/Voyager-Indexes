@@ -10,7 +10,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2024-12-07 02:24:09
-	time_modified: 2025-12-03 20:27:32
+	time_modified: 2026-01-01 11:57:08
 	card_trim: special guest, inverted
 	card_trim_plus: none
 	name: Pull of the Unknown
@@ -25,7 +25,7 @@ card:
 	rule_text: Look at the top five cards of your library. Put up to one back on top and the rest into your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: JayGraphixx
-	custom_card_number: 5 — XXX • Top Cards II
+	custom_card_number: 5 — 006 • Top Cards II
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

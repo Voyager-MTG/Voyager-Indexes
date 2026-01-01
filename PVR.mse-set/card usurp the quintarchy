@@ -16,7 +16,7 @@ card:
 	rule_text: Gain control of up to X target nonland permanents, where X is your <kw-A><nospellcheck><key>complexity</key></nospellcheck>. Untap those permanents. They gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“You betrayed  your own people first.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Uverngon</error-spelling:en_US>, to <error-spelling:en_US>Irticull</error-spelling:en_US></i-flavor>
+		</soft-line>—<error-spelling:en_US>Uverngon</error-spelling:en_US>, to <error-spelling:en_US>Irticull</i-flavor></error-spelling:en_US>
 	watermark: other magic symbols color spotlight
 	illustrator: VentuarGames
 	card_code_text: Spotlight 7/10

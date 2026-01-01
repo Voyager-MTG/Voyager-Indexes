@@ -24,7 +24,7 @@ card:
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Robot</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		<kw-A><nospellcheck><key>Restructure <param-cost><sym>I</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Restructure <param-cost><sym>I</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(If you cast this for its restructure cost, it’s a kindred artifact until you pay its mana cost as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 		At the beginning of combat on your turn, up to one target creature gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

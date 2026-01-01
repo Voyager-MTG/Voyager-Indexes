@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		https://www.deviantart.com/loganwaldenart/art/Illusion-of-Dissolution-870241606<soft-line>
+		!spellbook I1;1
+		</soft-line>
+	time_created: 2024-10-17 19:35:09
+	time_modified: 2025-08-20 13:23:03
+	name: Cloudscape Observer
+	casting_cost: 2U
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Drone</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When this creature enters, return up to one target creature you don’t control to its owner’s hand.
+		<kw-A><nospellcheck><key>Iterate</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: LoganWalden
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

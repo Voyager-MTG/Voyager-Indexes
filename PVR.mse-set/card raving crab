@@ -25,7 +25,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“Do not disturb the crabs as they dance. Their awful screeching conjures storms.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, Abyssal <error-spelling:en_US>Tsar</error-spelling:en_US></i-flavor>
+		</soft-line>—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, Abyssal <error-spelling:en_US>Tsar</i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 1

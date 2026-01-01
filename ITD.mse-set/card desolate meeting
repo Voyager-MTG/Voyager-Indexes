@@ -5,10 +5,10 @@ card:
 		https://www.deviantart.com/asfodelo/art/Red26-807973377
 		flag-change
 	time_created: 2024-10-09 21:18:34
-	time_modified: 2025-11-25 12:57:26
+	time_modified: 2025-11-25 12:58:23
 	name: Desolate Meeting
 	casting_cost: 1W
-	image: image285
+	image: image405
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -17,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>Desolate Meeting</nospellcheck></atom-cardname> enters, create a 1/1 white Nightmare creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
-		Whenever you attack, if you control five or more lands, Nightmares you control get +1/+1 until end of turn.
+		Whenever you attack, put a +1/+1 counter on target attacking Nightmare you control.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Afodelo
 	card_code_text: 

@@ -20,7 +20,7 @@ card:
 		<sym-auto>T</sym-auto>: Target player draws a card, then discards a card.
 	flavor_text:
 		<i-flavor>“It’s been four months. Return my eggs.”<soft-line>
-		—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, to <error-spelling:en_US>Nurbs</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, to <error-spelling:en_US>Nurbs</soft-line></i-flavor></error-spelling:en_US>
 	power: 1
 	toughness: 1
 	illustrator: Adam Midzuk

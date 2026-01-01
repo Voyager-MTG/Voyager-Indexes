@@ -18,7 +18,7 @@ card:
 	rule_text: Counter target spell if you have <kw-A><nospellcheck><key>complexity</key></nospellcheck> greater than or equal to its controller’s <kw-A><nospellcheck><key>complexity</key></nospellcheck>.<blob></kw-A><moved><atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A></moved></blob>
 	flavor_text:
 		<i-flavor>“You’ve made your point. Nothing else.”<soft-line>
-		—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, to <error-spelling:en_US>Uverngon</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, to <error-spelling:en_US>Uverngon</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Stephanie Stutz
 	card_code_text: FT: elmikkino
 	card_code_text_2: FT: elmikkino

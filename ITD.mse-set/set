@@ -127,7 +127,6 @@ include_file: card celestial messenger
 include_file: card forgotten prophet
 include_file: card 001 errant spark-engine
 include_file: card star-binding command
-include_file: card desolate meeting
 include_file: card the pact
 include_file: card tyrants rage
 include_file: card saylthe twice-drowned
@@ -247,7 +246,7 @@ include_file: card insect
 include_file: card apocalypse of the forest
 include_file: card deepgrowth animist.1
 include_file: card one of keys
-include_file: card desolate meeting.1
+include_file: card desolate meeting
 keyword:
 	keyword: Ominous
 	match: Ominous <atom-param>cost</atom-param>

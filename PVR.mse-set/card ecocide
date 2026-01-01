@@ -16,7 +16,7 @@ card:
 	rule_text: Destroy all nonland permanents. <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V</sym> for each permanent destroyed this way.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“You’re complicit in your own demise.”<soft-line>
-		—<error-spelling:en_US>Prawth</error-spelling:en_US>, to <error-spelling:en_US>Irticull</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Prawth</error-spelling:en_US>, to <error-spelling:en_US>Irticull</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Calder Moore
 	card_code_text: 
 	card_code_text_2: 

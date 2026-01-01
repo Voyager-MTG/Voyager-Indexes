@@ -27,10 +27,10 @@ try:
 except:
     print("error when creating")
 
-try:
-    os.mkdir("1.exports/trice")
-except:
-    print("error when creating trice")
+# try:
+#     os.mkdir("1.exports/trice")
+# except:
+#     print("error when creating trice")
 
 try:
     os.mkdir("1.exports/egg")
@@ -48,12 +48,12 @@ for dir in dirs:
             continue
 
         
-        print(f"Cockatrice export for {set_name}...")
-        os.chdir("./1.exports/trice")
-        os.system(f'mse --export "magic-cockatrice-v2.mse-export-template" "{basedir}/{set_name}.mse-set" "{set_name}.xml"')
+        # print(f"Cockatrice export for {set_name}...")
+        # os.chdir("./1.exports/trice")
+        # os.system(f'mse --export "magic-cockatrice-v2.mse-export-template" "{basedir}/{set_name}.mse-set" "{set_name}.xml"')
 
         print(f"Egg export for {set_name}...")
-        os.chdir("../egg")
+        os.chdir("./1.exports/egg")
         os.system(f'mse --export "magic-egg-allinone-exporter.mse-export-template" "{basedir}/{set_name}.mse-set" "{set_name}.txt"')
 
         os.chdir(basedir)

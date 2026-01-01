@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2024-04-03 00:25:53
-	time_modified: 2025-08-18 15:48:21
+	time_modified: 2026-01-01 11:52:10
 	card_trim: frameless art, clear, nyx
 	name: Nirvanha Bloom
 	casting_cost: 2
@@ -31,9 +31,9 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Once during each of your turns, whenever another permanent enters under your control, put a loyalty counter on this enchantment.
-		<sym-auto>-1</sym-auto>: Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		<sym-auto>-2</sym-auto>: Exile target non-planeswalker card from your graveyard, until end of turn, you may play a copy of that card.
+		Once each turn, when another permanent enters under your control, you may put a loyalty counter on this enchantment.
+		<sym-auto>-2</sym-auto>: Target opponent <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		<sym-auto>-5</sym-auto>: Exile target permanent card from your graveyard, until end of turn, you may play a copy of that card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

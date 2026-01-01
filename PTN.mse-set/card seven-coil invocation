@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-10-14 20:09:29
-	time_modified: 2024-06-27 19:56:49
+	time_modified: 2026-01-01 11:54:07
 	card_color: black
 	name: Seven-Coil Invocation
 	casting_cost: B
@@ -17,7 +17,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Target creature gets -0/-1 and gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn. When that creature dies this turn, draw a card.
+	rule_text: Target creature gets -0/-1 and gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn. When that creature you control dies this turn, draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The assistant is offered to the Mother of Ants. But she knows healing as well as poison, and she may be merciful.</i-flavor>

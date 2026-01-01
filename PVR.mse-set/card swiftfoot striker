@@ -19,7 +19,7 @@ card:
 	rule_text: Sacrifice a land or exile a land card from your graveyard: <atom-cardname><nospellcheck>Swiftfoot Striker</nospellcheck></atom-cardname> gains your choice of <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn. 
 	flavor_text:
 		<i-flavor>“It torches trees and feeds on the fleeing survivors. An example we should follow.”<soft-line>
-		—<error-spelling:en_US>Cruelean</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Harsufir</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Cruelean</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Harsufir</soft-line></i-flavor></error-spelling:en_US>
 	power: 3
 	toughness: 4
 	illustrator: Arnaldo Souza

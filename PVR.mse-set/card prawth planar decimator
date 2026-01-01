@@ -27,7 +27,7 @@ card:
 	loyalty_cost_3: -1
 	loyalty: 6
 	level_1_text: You may remove loyalty counters from <atom-legname><nospellcheck>Prawth</nospellcheck></atom-legname> rather than pay that amount of <sym>V</sym>.
-	level_2_text: <margin:130:0:0>Target player discards a card. Put X loyalty counters on Prawth, where X is that card’s mana value.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Target player discards a card. Put X loyalty counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Prawth</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, where X is that card’s mana value.</margin:130:0:0>
 	level_3_text: <margin:130:0:0><soft-line>Create a 2/2 black Horror creature token with <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>.</soft-line></margin:130:0:0>
 	level_4_text: 
 	illustrator: Imad Awan
@@ -39,5 +39,5 @@ card:
 	copyright_3: Utaha
 	special_text:
 		You may remove loyalty counters from <atom-legname><nospellcheck>Prawth</nospellcheck></atom-legname> rather than pay that amount of <sym>V</sym>.
-		[0]: <margin:130:0:0>Target player discards a card. Put X loyalty counters on Prawth, where X is that card’s mana value.</margin:130:0:0>
+		[0]: <margin:130:0:0>Target player discards a card. Put X loyalty counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Prawth</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, where X is that card’s mana value.</margin:130:0:0>
 		[-1]: <margin:130:0:0><soft-line>Create a 2/2 black Horror creature token with <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>.</soft-line></margin:130:0:0>
