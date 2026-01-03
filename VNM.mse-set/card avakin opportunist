@@ -28,7 +28,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, draw a card, then discard a card unless you’ve illuminated blue.
 	rule_text_2: 
 	rule_text_3: 
