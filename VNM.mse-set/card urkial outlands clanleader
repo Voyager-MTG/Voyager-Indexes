@@ -29,7 +29,7 @@ card:
 	sub_type: <word-list-race-en>Bear</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
 		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urkial</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> is all colors.
 		Creatures you control get <kw-0><nospellcheck><key>healing <param-number>2</param-number></key></nospellcheck></kw-0> as long as you’ve illuminated white. The same is true with <kw-0><nospellcheck><key>vigilance</key></nospellcheck></kw-0> and blue, <kw-0><nospellcheck><key>menace</key></nospellcheck></kw-0> and black, <kw-0><nospellcheck><key>first strike</key></nospellcheck></kw-0> and red, <kw-0><nospellcheck><key>trample</key></nospellcheck></kw-0> and green, <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0> and silver.
 	flavor_text: <i-flavor></i-flavor>

@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-race-en>Unicorn</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Chimera</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, draw a card, then discard a card.
 		<atom-name>This creature</atom-cardname> gets +2/+0 as long as you’ve illuminated silver.
 	flavor_text: <i-flavor></i-flavor>

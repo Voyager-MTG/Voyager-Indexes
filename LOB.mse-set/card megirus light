@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -11,6 +11,7 @@ card:
 	extra_data:
 		magic-m15-altered-plus:
 			corner: custom
+	card_trim_plus: Yugioh Frame
 	name: Megirus Light
 	casting_cost: 3IB
 	image: image173

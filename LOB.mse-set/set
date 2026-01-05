@@ -13,10 +13,8 @@ set_info:
 	CARDNAME_replacement: card's type
 styling:
 	magic-m15-altered-plus:
-		altered_plus_frames: Yugioh Frame
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	magic-m15-mainframe-tokens:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -353,7 +351,6 @@ include_file: card severed precipice
 include_file: card sulking fortress
 include_file: card mudbound stream
 include_file: card carved sward
-include_file: card castle token
 include_file: card hitodenchak
 keyword:
 	keyword: Fusion

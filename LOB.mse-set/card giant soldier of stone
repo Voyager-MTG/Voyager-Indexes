@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -8,6 +8,7 @@ card:
 		—Giant Soldier of Stone, the Giant Soldier of Stone</soft-line>
 	time_created: 2022-07-18 21:25:51
 	time_modified: 2025-07-02 19:06:34
+	card_trim_plus: Yugioh Frame
 	name: Giant Soldier of Stone
 	casting_cost: 2I
 	image: image43

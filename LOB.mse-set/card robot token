@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,25 +6,23 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		font_cap: 
 		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: token, Yugioh Frame
+		font_cap: 
 		name_color: default
 		popout_image_style_3: 
 		custom_symbol: abstract-061.png
-		use_holofoil_stamps: no
 		alt_rarity_color: 
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes:
 		!centername
 		!related Man-Eating Treasure Chest;Patrol Robo;
 		Robot Token LOB
 	time_created: 2022-09-30 00:35:38
 	time_modified: 2023-10-31 01:36:41
+	card_trim_plus: Yugioh Frame
 	name: Robot Token
 	image: image636
 	image_2: image637

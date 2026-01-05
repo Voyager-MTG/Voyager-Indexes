@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,6 +6,7 @@ card:
 	notes: 
 	time_created: 2022-07-18 21:25:51
 	time_modified: 2024-03-06 19:30:31
+	card_trim_plus: Yugioh Frame
 	name: Left Arm of the Forbidden One
 	casting_cost: 1
 	image: image576

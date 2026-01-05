@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -8,6 +8,7 @@ card:
 		!ygogold
 	time_created: 2022-07-18 21:25:51
 	time_modified: 2024-06-20 00:40:36
+	card_trim_plus: Yugioh Frame
 	card_color: silver, land
 	name: Canyon
 	casting_cost: 

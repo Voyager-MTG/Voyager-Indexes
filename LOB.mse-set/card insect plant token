@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,24 +6,22 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 
-		font_cap: 
 		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: token, Yugioh Frame
+		font_cap: 
 		name_color: default
 		popout_image_style_3: 
 		custom_symbol: abstract-061.png
-		use_holofoil_stamps: no
 		alt_rarity_color: 
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes:
 		!centername
 		!related Man Eater2>;Alinsection;Ancient Jar;Ancient Jar2>;Eyearmor2>;Minomushi Warrior;Secretarian of Secrets;LaLa Li-oon;
 	time_created: 2023-03-11 15:35:58
 	time_modified: 2023-11-28 00:16:09
+	card_trim_plus: Yugioh Frame
 	card_color: silver
 	name: Insect Plant Token
 	image: image646

@@ -1,17 +1,16 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 2
-		altered_plus_frames: Yugioh Frame
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: 
 	time_created: 2022-07-18 21:25:51
 	time_modified: 2025-07-02 18:47:49
+	card_trim_plus: Yugioh Frame
 	name: Dark Plant
 	casting_cost: 1B
 	image: image163

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,18 +6,16 @@ card:
 	styling_data:
 		chop_top: 3
 		chop_bottom: 
-		font_cap: 
 		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: Yugioh Frame
+		font_cap: 
 		popout_image_style_3: 
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: 
 	time_created: 2022-07-18 21:25:51
 	time_modified: 2024-07-04 02:38:50
+	card_trim_plus: Yugioh Frame
 	name: Mystical Elf
 	casting_cost: 3W
 	image: image219
