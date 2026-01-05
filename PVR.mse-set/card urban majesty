@@ -19,7 +19,7 @@ card:
 		When enchanted creature dies, create five 1/1 white Human creature tokens.
 	flavor_text:
 		<i-flavor>“We children of the Obsolete are <error-spelling:en_US>spoilt</error-spelling:en_US>.”<soft-line>
-		—<error-spelling:en_US>Kinema</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Felygon</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Kinema</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Felygon</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Mat Szulik
 	card_code_text: 
 	card_code_text_2: 

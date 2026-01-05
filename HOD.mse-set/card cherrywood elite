@@ -14,7 +14,7 @@ card:
 		!tag Sapner
 		Tricolor
 	time_created: 2025-02-24 00:36:31
-	time_modified: 2025-07-01 21:16:02
+	time_modified: 2025-12-21 11:39:10
 	name: Cherrywood Elite
 	casting_cost: WBG
 	image: image487
@@ -30,11 +30,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		At the beginning of each end step, you may discard a card. If you do, return <atom-cardname><nospellcheck>Cherrywood Elite</nospellcheck></atom-cardname> from your graveyard to the battlefield if you spent four or more mana on casting noncreature spells and/or paying for <kw-0><nospellcheck><key>bloom</key></nospellcheck></kw-0> costs this turn.
+	rule_text: At the beginning of each end step, you may discard a card. If you do, return <atom-cardname><nospellcheck>Cherrywood Elite</nospellcheck></atom-cardname> from your graveyard to the battlefield if you spent four or more mana on casting noncreature spells and/or paying for <kw-0><nospellcheck><key>bloom</key></nospellcheck></kw-0> costs this turn.
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
+	power: 4
 	toughness: 2
 	illustrator: Cevicrow
 	card_code_text: 

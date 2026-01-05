@@ -18,7 +18,7 @@ card:
 	rule_text: Target opponent <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>seven</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 	flavor_text:
 		<i-flavor>“While our history is interesting, never worship it. The past serves the future, not the other way around.”<soft-line>
-		—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Rastira</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Rastira</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Caleb Worcester
 	card_code_text: 
 	card_code_text_2: 

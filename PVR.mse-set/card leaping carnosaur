@@ -21,7 +21,7 @@ card:
 		Whenever <atom-cardname><nospellcheck>Leaping Carnosaur</nospellcheck></atom-cardname> attacks, it gets +1/+0 until end of turn for each Dinosaur you control.
 	flavor_text:
 		<i-flavor>“Although friendship is a strategy of the weak, it is a formidable strategy nonetheless.”<soft-line>
-		—<error-spelling:en_US>Cruelean</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Harsurfir</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Cruelean</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Harsurfir</soft-line></i-flavor></error-spelling:en_US>
 	power: 1
 	toughness: 5
 	illustrator: Adam Midzuk

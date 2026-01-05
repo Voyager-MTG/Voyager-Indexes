@@ -24,7 +24,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: Thassaraptor enters with a <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> counter on it if mana from a nonland source was spent to cast it.
+	rule_text: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Thassaraptor</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters with a <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> counter on it if mana from a nonland source was spent to cast it.
 	flavor_text:
 		<i-flavor>“Sometimes, they like to throw ice on the ground and pretend to be a walrus.”<soft-line>
 		</soft-line>—<error-spelling:en_US>Nurbs</error-spelling:en_US>, the Wild King</i-flavor>

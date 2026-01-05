@@ -18,7 +18,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a creature.
-		You draw cards equal to the sacrificed creature’s power, get an amount of <sym>V</sym> equal to its toughess, and gain an amount of life equal to its mana value.<soft-line>
+		You draw cards equal to the sacrificed creature’s power, get an amount of <sym>V</sym> equal to its <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>toughess</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, and gain an amount of life equal to its mana value.<soft-line>
 		<i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></soft-line>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Adam Midzuk

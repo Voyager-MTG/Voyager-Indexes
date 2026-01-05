@@ -29,7 +29,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-name>This creature</atom-cardname> can’t be blocked.
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on up to one target nonland permanent.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, put a <kw-A><nospellcheck><key>stun</key></nospellcheck> counter on up to one target nonland permanent.<atom-reminder-custom> <i-auto>(If a permanent with a stun counter would become untapped, remove one from it instead.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then return up to one nonpermanent card from among the milled cards into your hand. <i-auto>(Then put this card into its owner’s sanctum.)</i-auto>
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

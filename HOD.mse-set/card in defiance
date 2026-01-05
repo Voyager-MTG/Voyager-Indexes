@@ -23,7 +23,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<sym-auto>2</sym-auto>, <kw-A><nospellcheck><key>Forsake</key></nospellcheck>: Target creature gets +3/+3 until end of turn. Activate only outside of combat.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>2</sym-auto>, <kw-A><nospellcheck><key>Forsake</key></nospellcheck>: Target creature gets +3/+3 until end of turn. Activate only outside of combat.<atom-reminder-custom> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever a creature you control dies, draw a card, then discard a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Nolan Lu

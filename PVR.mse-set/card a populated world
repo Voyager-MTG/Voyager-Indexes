@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: Each nonland permanent card in your graveyard with mana value 3 or greater have retopology. The retopology cost is an amount of <sym>G</sym> equal to its mana value. <i-auto>(Cast a copy of it by exiling it from your graveyard and paying its retopology cost. Spend only mana from differently named sources this way.)</i-auto>
+	rule_text: Each nonland permanent card in your graveyard with mana value 3 or greater have <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>retopology</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>retopology</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> cost is an amount of <sym>G</sym> equal to its mana value. <i-auto>(Cast a copy of it by exiling it from your graveyard and paying its <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>retopology</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> cost. Spend only mana from differently named sources this way.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: EmacEArt
 	card_code_text: 

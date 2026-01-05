@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !note hybrid
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-07-21 02:06:51
+	time_modified: 2025-12-21 12:00:41
 	name: Eternal Mentor
 	casting_cost: 1U/B
 	image: image204
@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Once each turn, when a spell or ability puts a card into your hand, you may have target enchantment also becomes a 2/2 creature until end of turn.
-		<sym-auto>T</sym-auto>: Target creature you control can’t be blocked this turn as long as it has power 2 or less.
+		Once each turn, when a spell or ability puts a card into your hand, you may have target enchantment also become a 2/2 creature until end of turn.
+		<sym-auto>T</sym-auto>: Target creature you control with power 2 or less can’t be blocked this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“Learn well! The rifts will not give you respite, so neither shall I!”</i-flavor>

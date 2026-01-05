@@ -16,7 +16,7 @@ card:
 	rule_text: Target opponent chooses a number. You may get that many <sym>V</sym>. If you don’t, that player sacrifices all but that many permanents. <i-auto>(Spend <sym>V</sym> to cast vertex spells.)</i-auto>
 	flavor_text:
 		<i-flavor>“Give me everything, or be given nothing.”<soft-line>
-		—<error-spelling:en_US>Prawth</error-spelling:en_US>, Planar <error-spelling:en_US>Decimator</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Prawth</error-spelling:en_US>, Planar <error-spelling:en_US>Decimator</soft-line></i-flavor></error-spelling:en_US>
 	watermark: none
 	illustrator: Ste Flack
 	card_code_text: 

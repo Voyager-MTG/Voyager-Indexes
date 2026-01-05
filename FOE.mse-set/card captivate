@@ -22,7 +22,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		Tap target creature. Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
+		Tap target creature. Put a <kw-A><nospellcheck><key>stun</key></nospellcheck> counter on it.<atom-reminder-custom> <i-auto>(If a permanent with a stun counter would become untapped, remove one from it instead.)</i-auto></atom-reminder-custom></kw-A>
 		You may draw a card from your sanctum or library. If you do, discard a card.
 	rule_text_2: 
 	rule_text_3: 

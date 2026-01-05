@@ -20,7 +20,7 @@ card:
 		<kw-1><nospellcheck><key>You get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text:
 		<i-flavor>“I will die if I give up my position, and we all will if I don’t. I’ll die in style.”<soft-line>
-		—<error-spelling:en_US>Kinema</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Felygon</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Kinema</error-spelling:en_US>, <error-spelling:en_US>Quintarch</error-spelling:en_US> of <error-spelling:en_US>Felygon</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Ali Hoff
 	card_code_text: 
 	card_code_text_2: 

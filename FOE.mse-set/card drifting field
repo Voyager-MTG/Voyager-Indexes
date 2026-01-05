@@ -24,7 +24,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>. You lose 1 life unless you control a white permanent.
-		<kw-A><nospellcheck><key>Exhaust — <param-cost><sym-auto>T</sym-auto></param-cost>: <param-action>Choose a color</param-action>.</key></nospellcheck><atom-reminder-expert> <i-auto>(Activate each exhaust ability only once.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Exhaust —</key></nospellcheck> <sym-auto>T</sym-auto>: Choose a color.<atom-reminder-custom> <i-auto>(Activate each exhaust ability only once.)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
 	rule_text_2: 
 	rule_text_3: 
