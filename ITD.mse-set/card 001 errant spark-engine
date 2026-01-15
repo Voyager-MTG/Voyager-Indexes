@@ -11,10 +11,12 @@ card:
 	notes:
 		https://www.artstation.com/artwork/9En2xQ
 		changed to one loyalty removed
+
 	time_created: 2024-10-08 23:25:51
-	time_modified: 2025-11-22 00:10:45
+	time_modified: 2026-01-01 16:25:29
 	extra_data:
 		magic-m15-altered: vorthos_box: it/its
+	card_trim: legend
 	name: 001, Errant Spark-Engine
 	casting_cost: 2BG
 	image: image283
@@ -26,10 +28,11 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		You may cast <atom-cardname><nospellcheck>001, Errant Spark-Engine</nospellcheck></atom-cardname> from your graveyard by removing a loyalty counters from a permanent you control in addition to paying its other costs.
+		You may cast <atom-cardname><nospellcheck>001, Errant Spark-Engine</nospellcheck></atom-cardname> from your graveyard by removing a loyalty counter from a permanent you control in addition to paying its other costs.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
+	card_stamp: none
 	illustrator: Ilya Popov
 	card_code_text: 
 	card_code_text_2: 
