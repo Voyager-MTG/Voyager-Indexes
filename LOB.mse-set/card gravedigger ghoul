@@ -1,18 +1,17 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		chop_top: 3
-		altered_plus_frames: Yugioh Frame
 		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
 	notes: Target player reveals their sanctum. Choose up to three cards from among that player’s sanctum and/or graveyard. That player exiles those cards. You draw a card from your sanctum or graveyard. (Pick a random card.)
 	time_created: 2022-07-18 21:25:51
 	time_modified: 2025-07-02 18:51:25
+	card_trim_plus: Yugioh Frame
 	name: Gravedigger Ghoul
 	casting_cost: B
 	image: image513

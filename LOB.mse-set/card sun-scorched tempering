@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,22 +6,20 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
-		font_cap: 13.5
 		d20_dividers: d20 mode
-		frames: 
-		altered_plus_frames: Yugioh Frame
+		font_cap: 13.5
 		name_color: default
 		popout_image_style_3: 
 		custom_symbol: abstract-061.png
-		use_holofoil_stamps: no
 		alt_rarity_color: 7,207,11:10,19,0:0,0,0:0,0,0:0.1:
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: 
 	time_created: 2023-03-06 01:07:45
 	time_modified: 2023-10-31 01:38:44
+	card_trim_plus: Yugioh Frame
 	name: Sun-Scorched Tempering
 	casting_cost: W
 	image: image537
@@ -36,7 +34,7 @@ card:
 	sub_type_3: 
 	rarity: special
 	rule_text:
-		<kw-A><nospellcheck><key>Foretell <param-cost><sym-auto>W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Foretell <param-cost><sym-auto>W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
 		Prevent the next 4 damage that would be dealt to target permanent or player. If this spell was cast from exile, <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> deals damage to any target equal to the damage prevented this way.
 	rule_text_2: 
 	rule_text_3: 

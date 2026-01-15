@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,18 +6,16 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
-		frames: 
-		altered_plus_frames: star, Yugioh Frame
 		name_color: default
 		typeline_color: default
 		popout_image_style_3: 
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: 
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-07-02 18:56:12
+	time_modified: 2025-12-26 23:35:08
+	card_trim_plus: star, Yugioh Frame
 	name: Hinotama Soul
 	casting_cost: 1R
 	image: image447

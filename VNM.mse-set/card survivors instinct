@@ -5,7 +5,7 @@ card:
 		!note hybrid
 		Survivors Instinct
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2023-07-18 17:36:02
+	time_modified: 2026-01-14 22:39:08
 	name: Survivor’s Instinct
 	casting_cost: G/W
 	image: image141
@@ -19,7 +19,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn. Untap it.
+	rule_text: Put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Quick response saves lives. Smart response keeps them going.</i-flavor>

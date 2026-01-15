@@ -1,24 +1,9 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 
-		chop_bottom: 
-		center_text: always
-		hybrid_name: hybrid
-		d20_dividers: d20 mode
-		other_options: auto familiars, auto nyx crowns, auto star crowns, auto space crowns
-		additional_options: 
-		font_cap: 13.5
-		use_holofoil_stamps: no
-		inverted_common_symbol: no
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes:
-		!center
-		!related Subdued Rift VNM;Kier, Acolyte of Avlod Respite;Path of the Rift;
-		Cat Token
-		Preview
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !related Subdued Rift VNM;Kier, Acolyte of Avlod Respite;Path of the Rift;
 	time_created: 2022-02-10 23:19:36
 	time_modified: 2025-08-29 19:04:51
 	card_color: white, black, hybrid, horizontal
@@ -33,6 +18,7 @@ card:
 	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text: 
 	rule_text_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,21 +6,20 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 5
-		frames: prototype
-		altered_plus_frames: Yugioh Frame
-		popout_image_style_3: 
 		other_options: regular pt on levelers, auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns
+		popout_image_style_3: 
 		level_offset: -15,-60,
 		level_label:
 			 
 		level_containers: pt boxes
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: Unbound
-	time_created: 2022-07-18 21:25:51
-	time_modified: 2024-12-12 12:11:32
+	time_created: 2025-12-25 00:00:00
+	time_modified: 2025-12-25 00:00:00
+	card_trim: prototype
+	card_trim_plus: Yugioh Frame
 	name: Hard Armor
 	casting_cost: 1W
 	casting_cost_2: 3W

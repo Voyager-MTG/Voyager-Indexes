@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !addtoken Scar;1
 	time_created: 2022-09-02 18:47:38
-	time_modified: 2024-11-14 19:52:09
+	time_modified: 2026-01-05 02:06:40
 	name: The Old Forms
 	casting_cost: 1G
 	image: image129
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: Until end of turn, target creature gets +3/+3 and gains “Whenever this creature is dealt damage while its tapped, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.”<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Until end of turn, target creature gets +3/+3 and gains “Whenever this creature is dealt damage while it’s tapped, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.”<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The old gives way, the skin will shed, and not only once. </i-flavor>

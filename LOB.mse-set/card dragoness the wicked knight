@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -6,24 +6,23 @@ card:
 	styling_data:
 		chop_top: 
 		chop_bottom: 2
-		font_cap: 
+		hybrid_name: hybrid
 		d20_dividers: d20 mode
-		frames: mutate
-		altered_plus_frames: Yugioh Frame
+		additional_options: goldnoborder
+		font_cap: 
 		popout_image_style_3: 
 		custom_symbol: abstract-061.png
-		additional_options: goldnoborder
-		hybrid_name: hybrid
+		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
 	notes: 
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-07-02 19:39:35
+	time_modified: 2025-12-26 23:03:10
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
+	card_trim: mutate
+	card_trim_plus: Yugioh Frame
 	card_color: white, blue, multicolor, horizontal
 	name: Dragoness the Wicked Knight
 	casting_cost: 3WU

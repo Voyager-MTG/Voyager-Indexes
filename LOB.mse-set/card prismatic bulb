@@ -1,9 +1,10 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
 	time_created: 2022-12-18 15:44:41
 	time_modified: 2025-03-31 11:38:11
+	card_trim_plus: Yugioh Frame
 	name: Prismatic Bulb
 	casting_cost: 3
 	image: image13

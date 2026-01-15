@@ -16,7 +16,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></woxrd-list-type-en></word-list-type-en>
 	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Entity</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 

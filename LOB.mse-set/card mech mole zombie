@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -8,6 +8,7 @@ card:
 		!noborder
 	time_created: 2022-07-18 21:25:51
 	time_modified: 2024-08-01 12:43:47
+	card_trim_plus: Yugioh Frame
 	name: Mech Mole Zombie
 	casting_cost: 1BG
 	image: image35

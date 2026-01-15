@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes:
@@ -6,6 +6,7 @@ card:
 		Basic Island LOB
 	time_created: 2023-03-11 20:15:52
 	time_modified: 2023-10-30 11:25:04
+	card_trim_plus: Yugioh Frame
 	card_color: blue, land
 	name: Island
 	image: image77

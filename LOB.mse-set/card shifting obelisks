@@ -1,9 +1,10 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: !gold!noborder
 	time_created: 2024-06-29 13:55:44
 	time_modified: 2024-07-13 13:20:40
+	card_trim_plus: Yugioh Frame
 	card_color: land, multicolor
 	name: Shifting Obelisks
 	image: image650
