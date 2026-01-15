@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>
 		Whenever you cast a noncreature spell, you may gain 1 life. If you didn’t, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
-		<kw-A><nospellcheck><key>Materialize <param-number>0</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>0</param-number> or more: This also becomes an Icon creature until your next turn.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Materialize <param-number>0</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>0</param-number> or more: This also becomes an Icon creature until your next upkeep.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

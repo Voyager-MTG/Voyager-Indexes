@@ -32,7 +32,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
 		Once each turn, when a spell or ability puts a card into your hand, you may have target creature you control gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn. If you’ve illuminated black or green, it gets +2/+2 until end of turn.
 	rule_text_2: 
 	rule_text_3: 

@@ -23,7 +23,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		<atom-name>This creature</atom-cardname> gets +1/+1 as long as you’ve illuminated white or blue.
 	rule_text_2: 

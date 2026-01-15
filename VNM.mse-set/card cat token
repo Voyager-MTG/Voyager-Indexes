@@ -3,9 +3,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		!related Subdued Rift VNM;Kier, Acolyte of Avlod Respite;Path of the Rift;
-
+	notes: !related Subdued Rift VNM;Kier, Acolyte of Avlod Respite;Path of the Rift;
 	time_created: 2022-02-10 23:19:36
 	time_modified: 2025-08-29 19:04:51
 	card_color: white, black, hybrid, horizontal
