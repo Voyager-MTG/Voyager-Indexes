@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: <kw-A><nospellcheck><key>Mirror</key></nospellcheck><atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <kw-A><nospellcheck><key>Mirror</key></nospellcheck><atom-reminder-custom> <i-auto>(Create a token thats a copy of another token you control.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>The mirror of the mirror was perfect in every way, with all its flaws and fortunes for all to see.</i-flavor>
 	illustrator: harriers
 	card_code_text: 

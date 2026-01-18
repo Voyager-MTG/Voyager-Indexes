@@ -2,14 +2,21 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		additional_options: pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
 		!gold<soft-line>
 		!noborder
 		</soft-line>
 	time_created: 2024-02-11 19:36:31
-	time_modified: 2025-07-28 04:12:29
-	card_color: silver, land, multicolor
+	time_modified: 2026-01-17 20:49:09
+	extra_data:
+		magic-m15-altered-plus:
+			pins: multicolor
 	name: Drifting Crevasse
 	image: image270
 	image_2: 
@@ -24,7 +31,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>. You lose 1 life unless you control a silver permanent.
-		<kw-A><nospellcheck><key>Exhaust —</key></nospellcheck> <sym-auto>T</sym-auto>: Choose a color.<atom-reminder-custom> <i-auto>(Activate each exhaust ability only once.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Exhaust — <param-cost><sym-auto>T</sym-auto></param-cost>: <param-action>Choose a color</param-action>.</key></nospellcheck><atom-reminder-expert> <i-auto>(Activate each exhaust ability only once.)</i-auto></atom-reminder-expert></kw-A>
 		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
 	rule_text_2: 
 	rule_text_3: 

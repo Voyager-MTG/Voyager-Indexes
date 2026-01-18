@@ -33,7 +33,7 @@ card:
 	loyalty_cost_4: 
 	loyalty: 3
 	level_1_text: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. Each opponent loses 1 life.</margin:130:0:0>
-	level_2_text: <margin:130:0:0>Tap target creature and put a <kw-A><nospellcheck><key>stun</key></nospellcheck> counter on it.<atom-reminder-custom> <i-auto>(If a permanent with a stun counter would become untapped, remove one from it instead.)</i-auto></atom-reminder-custom></kw-A></margin:130:0:0>
+	level_2_text: <margin:130:0:0>Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Put a Realm card from your sanctum onto the battlefield.</margin:130:0:0>
 	level_4_text: 
 	illustrator: Yi. // YizhiY
@@ -45,5 +45,5 @@ card:
 	copyright_3: 
 	special_text:
 		[+1]: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. Each opponent loses 1 life.</margin:130:0:0>
-		[0]: <margin:130:0:0>Tap target creature and put a <kw-A><nospellcheck><key>stun</key></nospellcheck> counter on it.<atom-reminder-custom> <i-auto>(If a permanent with a stun counter would become untapped, remove one from it instead.)</i-auto></atom-reminder-custom></kw-A></margin:130:0:0>
+		[0]: <margin:130:0:0>Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.</margin:130:0:0>
 		[-5]: <margin:130:0:0>Put a Realm card from your sanctum onto the battlefield.</margin:130:0:0>

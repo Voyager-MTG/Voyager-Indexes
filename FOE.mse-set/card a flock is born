@@ -18,7 +18,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !alt
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-08-18 15:49:41
+	time_modified: 2026-01-17 20:31:24
 	card_trim: clear, adventure focus
 	name: A Flock is Born
 	name_2: Winged Guide
@@ -37,7 +37,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Create three 1/1 black Bird creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	rule_text: Create four 1/1 black Bird creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	rule_text_2: Search your library for a basic land card, reveal it, put it into your hand. Then shuffle. Create a 1/1 black Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. <i-auto>(Then put this into your sanctum.)</i-auto>
 	rule_text_3: 
 	flavor_text: <i-flavor>And thus, <error-spelling:en_US>Jothi</error-spelling:en_US> found his first flock.</i-flavor>

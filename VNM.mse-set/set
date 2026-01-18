@@ -599,7 +599,7 @@ keyword:
 keyword:
 	keyword: Materialize
 	match: Materialize <atom-param>number</atom-param>
-	reminder: Tap one or more other enchantments you control with total mana value {param1} or more: This also becomes an Icon creature until your next upkeep.
+	reminder: Tap one or more other enchantments you control with total mana value {param1} or more: This also becomes an Icon creature until your next turn.
 	rules: Tap {if param1.value == "1" then "an" else "{english_number(param1)}"} untapped {if param1.value == "1" then "enchantment" else "enchantments"} you control: This becomes an enchantment creature until your next upkeep.
 	mode: custom
 keyword:

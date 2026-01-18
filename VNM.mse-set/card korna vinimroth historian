@@ -32,7 +32,7 @@ card:
 	rarity: rare
 	rule_text:
 		At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Korna</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> is a creature, after this phase, there’s an additional combat phase where only enchantment creatures you control may attack.
-		<kw-1><nospellcheck><key>Materialize <param-number>6</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>6</param-number> or more: This also becomes an Icon creature until your next upkeep.)</i-auto></atom-reminder-custom></kw-1>
+		<kw-1><nospellcheck><key>Materialize <param-number>6</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>6</param-number> or more: This also becomes an Icon creature until your next turn.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: 
 	power: 6
