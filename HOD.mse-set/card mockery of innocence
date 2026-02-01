@@ -24,7 +24,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Mockery of Innocence</nospellcheck></atom-cardname> enters, you may destroy target creature. You gain life equal to 8 minus that creature’s mana value.
+		When <atom-cardname><nospellcheck>Mockery of Innocence</nospellcheck></atom-cardname> enters, you may destroy target creature. If you do, you gain life equal to 8 minus that creature’s mana value.
 	flavor_text:
 		<i-flavor>“My armies don’t need soldiers and swords. I have siege weapons.”<soft-line>
 		—<error-spelling:en_US>Gosfridus</error-spelling:en_US> <error-spelling:en_US>Turnberry</soft-line></i-flavor></error-spelling:en_US>

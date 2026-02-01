@@ -12,9 +12,9 @@ card:
 	notes:
 		!tag Dewold
 		Renowned Cycle
-		!related Beckon Greatness; William’s Page;
+		!related Beckon Greatness; Call of the Rose;
 	time_created: 2022-04-02 19:45:43
-	time_modified: 2022-05-21 12:27:30
+	time_modified: 2026-01-23 22:52:53
 	extra_data:
 		magic-m15-mainframe-tokens:
 			vorthos_box: He/him
@@ -28,8 +28,8 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text: <kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
-	toughness: 2
+	power: 2
+	toughness: 3
 	illustrator: Darantha
 	card_code_text: 
 	card_code_text_2: 

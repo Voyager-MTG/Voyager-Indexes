@@ -24,7 +24,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		At the beginning of your upkeep, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do, reveal the top card of your library until you reveal a nonland card with mana value 4 or less. You may cast that card without paying its mana cost. If you don’t, put that card into your hand.<atom-reminder-custom> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of your upkeep, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do, reveal the top card of your library until you reveal a nonland card with mana value 4 or less. You may cast that card without paying its mana cost. If you don’t, put that card into your hand.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

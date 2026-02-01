@@ -24,7 +24,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		As an additional cost to cast this spell, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do, it costs <sym-auto>3</sym-auto> less to cast.<atom-reminder-custom> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-custom></kw-A>
+		As an additional cost to cast this spell, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do, it costs <sym-auto>3</sym-auto> less to cast.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
 		<kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw three cards.
 	flavor_text: <i-flavor>As the king’s body floated down the Cherry River, the crown was placed on Leon’s head.</i-flavor>
 	illustrator: Daria Rashev

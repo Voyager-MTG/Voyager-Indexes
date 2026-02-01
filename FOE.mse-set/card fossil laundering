@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag deinomarket;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-15 18:50:14
+	time_modified: 2026-01-31 01:03:45
 	name: Fossil Laundering
 	casting_cost: 4B
 	image: image464
@@ -19,10 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		Choose one or all mana values—<soft-line>
-		</soft-line>• 6 • 4 • 2.
-		If you do, for each mana value chosen this way, return target creature card from your graveyard to the battlefield with that mana value. 
+	rule_text: Choose a creature card with mana value 2 in your graveyard, then do the same for creature cards with mana values 4 and 6. Return those cards to the battlefield.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
