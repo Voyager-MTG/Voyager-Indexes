@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
-		Whenever this creature attacks, you may discard a card. If you do, <kw-1><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand. )</i-auto></atom-reminder-custom></kw-1>
+		Whenever this creature attacks, you may discard a card. If you do, <kw-1><nospellcheck><key>draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand.)</i-auto></atom-reminder-custom></kw-1>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>No two flames burn alike.</i-flavor>

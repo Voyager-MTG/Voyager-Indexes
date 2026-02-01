@@ -19,7 +19,7 @@ card:
 		!tag Dewold
 		!tag Planeswalker
 	time_created: 2025-02-24 00:44:17
-	time_modified: 2025-12-01 16:23:59
+	time_modified: 2026-02-01 12:31:46
 	card_color_2: black
 	name: Waldemar, Forgotten Heir
 	name_2: Waldemar, Jaded Prince
@@ -38,7 +38,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		Once per game, when <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> deals combat damage to a player, if he was your chosen heir exile him, then return him to the battlefield transformed under that player’s control.
+		Once per game, when <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> deals combat damage to a player, if he was your chosen heir, exile him, then return him to the battlefield transformed under that player’s control.
 		When <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> dies, each opponent discards a card.
 	rule_text_3: 
 	rule_text_4: 
@@ -71,7 +71,7 @@ card:
 	secondary_copyright_2: He/him
 	special_text:
 		
-		Once per game, when <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> deals combat damage to a player, if he was your chosen heir exile him, then return him to the battlefield transformed under that player’s control.
+		Once per game, when <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> deals combat damage to a player, if he was your chosen heir, exile him, then return him to the battlefield transformed under that player’s control.
 		When <atom-legname><nospellcheck>Waldemar</nospellcheck></atom-legname> dies, each opponent discards a card.<sep><line>
 		</line></sep><i-flavor></i-flavor>
 	special_text_2:

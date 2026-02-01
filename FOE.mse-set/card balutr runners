@@ -28,7 +28,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When this creature enters, if it isn’t a token, choose one— 
-		<li><bullet>• </bullet><kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token that’s a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
+		<li><bullet>• </bullet><kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of another token you control.)</i-auto></atom-reminder-custom></kw-A>
 		</li><li><bullet>• </bullet>Reveal the top card of your library. If its a permanent card, put it into your hand.
 		<margin:0:0:5></li><kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>1I/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A></margin:0:0:5>
 	rule_text_2: 
