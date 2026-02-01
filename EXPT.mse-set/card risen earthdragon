@@ -24,7 +24,7 @@ card:
 	rule_text:
 		This spell costs <sym-auto>1</sym-auto> less for each land you control.
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When this creature enters, if it’s not a token, <kw-A><nospellcheck><key>mirror</key></nospellcheck> twice.<atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
+		When this creature enters, if it’s not a token, <kw-A><nospellcheck><key>mirror</key></nospellcheck> twice.<atom-reminder-custom> <i-auto>(Create a token that’s a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 6
