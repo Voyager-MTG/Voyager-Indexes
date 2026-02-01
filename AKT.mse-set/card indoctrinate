@@ -20,7 +20,7 @@ card:
 	rule_text:
 		Choose one or both —
 		<li><bullet>• </bullet>Counter target spell.
-		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Liberate</key></nospellcheck> target creature.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A></li>
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Liberate</key></nospellcheck> target creature.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-A></li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: ClintCearley
 	card_code_text: 

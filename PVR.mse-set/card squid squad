@@ -20,7 +20,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, you may tap or untap target permanent. This ability triggers only once each turn.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+		Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, you may tap or untap target permanent. This ability triggers only once each turn.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

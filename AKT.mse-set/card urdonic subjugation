@@ -17,7 +17,7 @@ card:
 	rule_text: <atom-cardname><nospellcheck>Urdonic Subjugation</nospellcheck></atom-cardname> deals 6 damage to target creature or planeswalker.
 	flavor_text:
 		<i-flavor>“The <error-spelling:en_US>burdent’s</error-spelling:en_US> sacred affairs have suffered <error-spelling:en_US>unburdent</error-spelling:en_US> meddling for long enough.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</error-spelling:en_US></i-flavor>
+		</soft-line>—<error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</i-flavor></error-spelling:en_US>
 	illustrator: Timi Honkanen
 	card_code_text: 
 	card_code_text_2: 

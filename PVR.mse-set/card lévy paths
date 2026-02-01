@@ -11,7 +11,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: REDRARE8
+	notes:
+		REDRARE8
+		!exportname Levy Paths
 	time_created: 2022-04-15 14:57:40
 	time_modified: 2023-10-31 20:13:25
 	name: Lévy Paths

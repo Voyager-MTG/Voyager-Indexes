@@ -2,6 +2,7 @@
 card:
 	has_styling: false
 	notes:
+		!tag CanonReprint
 		CG14
 		GREENCOMMON
 	time_created: 2020-05-02 16:14:27

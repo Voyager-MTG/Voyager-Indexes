@@ -10,7 +10,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://www.artstation.com/artwork/042WzV
 	time_created: 2024-10-17 17:43:45
-	time_modified: 2025-11-22 00:19:25
+	time_modified: 2026-02-01 08:41:46
 	name: Novice Dream-Binder
 	casting_cost: 1W
 	image: image328
@@ -20,7 +20,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When this creature enters, tap up to one target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. You gain 2 life.
+	rule_text: When this creature enters, put a binding counter on target creature. It can’t block for as long as it has a binding counter on it. You gain 2 life
 	flavor_text: <i-flavor>Some learn to siphon the energy of creatures from deeper dreams. Most fail.</i-flavor>
 	power: 2
 	toughness: 2

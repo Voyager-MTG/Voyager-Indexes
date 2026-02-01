@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>CCC</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>CCC</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>CCC</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

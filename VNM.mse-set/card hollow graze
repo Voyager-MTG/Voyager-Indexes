@@ -15,7 +15,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
-		!related Malevolent Naginata;<soft-line>
+		!related Malevolent Naginata;Due Dismissal;Avakin Hazeweaver<soft-line>
 		</soft-line>!token
 		!conjured
 		!tag avlod;

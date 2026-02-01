@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: changed to enters cast trigger
 	time_created: 2024-01-20 23:11:08
-	time_modified: 2025-11-22 01:23:36
+	time_modified: 2026-01-30 23:56:05
 	name: Matryoshka Crawler
 	casting_cost: 5
 	image: image208
@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Matryoshka Crawler</nospellcheck></atom-cardname> enters, if it was cast, you may search your library for a colorless card with mana value 3 or less, put it onto the battlefield, then shuffle.
+	rule_text: When <atom-cardname><nospellcheck>Matryoshka Crawler</nospellcheck></atom-cardname> enters, if you cast it, you may search your library for a colorless card with mana value 3 or less, put it onto the battlefield, then shuffle.
 	flavor_text: <i-flavor>It contains multitudes.</i-flavor>
 	power: 3
 	toughness: 3

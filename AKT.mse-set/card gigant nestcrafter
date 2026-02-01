@@ -5,7 +5,7 @@ card:
 		BLUERARE
 		ARTIFICERTYPE
 	time_created: 2024-06-28 20:12:53
-	time_modified: 2025-07-19 14:09:20
+	time_modified: 2026-01-30 23:59:32
 	name: Gigant Nestcrafter
 	casting_cost: 3UU
 	image: image89.png
@@ -17,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Gigant Nestcrafter</nospellcheck></atom-cardname> enters, if it was cast, search your library for an artifact or enchantment card with mana value 3 or less, put it onto the battlefield, then shuffle.
+		When <atom-cardname><nospellcheck>Gigant Nestcrafter</nospellcheck></atom-cardname> enters, if you cast it, search your library for an artifact or enchantment card with mana value 3 or less, put it onto the battlefield, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 2

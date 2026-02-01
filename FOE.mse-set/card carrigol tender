@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/v23Oa6
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-07-03 21:57:45
+	time_modified: 2026-01-31 00:12:58
 	name: Carrigol Tender
 	casting_cost: 2B
 	image: image318
@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create two 0/1 white and black Goat creature tokens with “Whenever this creature becomes blocked, each opponent loses 2 life.”
-		Once each turn, whenever you gain life, put a +1/+1 counter on target creature you control.
+		Once each turn, when you gain life, you may put a +1/+1 counter on target creature you control.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

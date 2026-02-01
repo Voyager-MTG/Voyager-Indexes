@@ -10,7 +10,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer TVP
 	time_created: 2023-04-11 21:01:45
-	time_modified: 2025-11-23 15:45:16
+	time_modified: 2026-01-31 00:11:55
 	alias_type: godzilla
 	name: The Chanter of Paths
 	alias: Tao the Chanter
@@ -27,8 +27,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Once each turn, whenever one or more cards leave a sanctum, each opponent loses 2 life.
-		Once each turn, whenever one or more cards are put into a sanctum from anywhere, you gain 2 life.
+		Once each turn, when one or more cards leave a sanctum, you may have each opponent lose 2 life.
+		Once each turn, when one or more cards are put into a sanctum from anywhere, you may gain 2 life.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

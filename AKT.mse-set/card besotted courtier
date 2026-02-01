@@ -24,7 +24,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: Discard a card: <kw-1><nospellcheck><key>Liberate</key></nospellcheck> <atom-cardname><nospellcheck>Besotted Courtier</nospellcheck></atom-cardname>.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-1>
+	rule_text: Discard a card: <kw-1><nospellcheck><key>Liberate</key></nospellcheck> <atom-cardname><nospellcheck>Besotted Courtier</nospellcheck></atom-cardname>.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor>“I would throw away my body to be with you, my love.”</i-flavor>
 	power: 2
 	toughness: 1

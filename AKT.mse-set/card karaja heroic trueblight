@@ -23,7 +23,7 @@ card:
 	loyalty_cost_3: -2
 	loyalty_cost_4: -4
 	loyalty: 3
-	level_1_text: Exile a nonland permanent you own: Put two loyalty counters on Karaja. Activate only once each turn as a sorcery.
+	level_1_text: Exile a nonland permanent you own: Put two loyalty counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Karaja</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. Activate only once each turn as a sorcery.
 	level_2_text: <margin:130:0:0>Exile target card in a graveyard. Create a 1/1 black Serf creature token.</margin:130:0:0>
 	level_3_text: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw two cards.</margin:130:0:0>
 	level_4_text: <margin:130:0:0>Exile target nonland permanent.</margin:130:0:0>
@@ -35,7 +35,7 @@ card:
 	copyright_2: Apriken
 	copyright_3: Apriken
 	special_text:
-		Exile a nonland permanent you own: Put two loyalty counters on Karaja. Activate only once each turn as a sorcery.
+		Exile a nonland permanent you own: Put two loyalty counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Karaja</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. Activate only once each turn as a sorcery.
 		[-1]: <margin:130:0:0>Exile target card in a graveyard. Create a 1/1 black Serf creature token.</margin:130:0:0>
 		[-2]: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw two cards.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Exile target nonland permanent.</margin:130:0:0>

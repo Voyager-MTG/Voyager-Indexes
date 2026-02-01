@@ -1,9 +1,15 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 6
+		chop_bottom: 6
+		additional_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://www.artstation.com/artwork/JvlnxR
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-07-07 10:26:28
+	time_modified: 2026-02-01 08:43:53
 	name: Late-Leaf Elk
 	casting_cost: 2GG
 	image: image327
@@ -19,16 +25,14 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, if you control an enchantment, draw a card.
-		Whenever an enchantment you control enters, draw a card.
+	rule_text: Once each turn, when an enchantment you control enters, you may draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>As the exit to the paths by the people of <error-spelling:en_US>Vinimroth</error-spelling:en_US> came to a close, those who remained chose new lives that would reflect their beliefs to the fullest.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 4
-	toughness: 4
+	toughness: 5
 	illustrator: natfan
 	card_code_text: 
 	card_code_text_2: 

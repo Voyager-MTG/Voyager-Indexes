@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, up to one target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-custom></kw-A>
 		If you’ve cast a spell this turn and it wasn’t your main phase, this permanent has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

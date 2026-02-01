@@ -1,11 +1,16 @@
 ﻿mse_version: 2.5.8
 card:
-	stylesheet: m15-mainframe-battles
-	stylesheet_version: 2025-01-21
+	stylesheet: m15-mainframe-dfc-plus
+	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
-		chop_text_box: 
+		popout_image_style: 0,0,375,523,
+		official_frames: 
+		altered_plus_frames: star (back)
+		apply_custom_fonts: yes
+		custom_type_font: ;;white
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!related Guardian of the Cindersattach>;
@@ -13,16 +18,17 @@ card:
 		!addtoken Guardian of the Cinders;transform;
 		Multicolor
 	time_created: 2023-07-17 01:33:44
-	time_modified: 2025-12-01 23:07:18
+	time_modified: 2026-02-01 09:53:24
 	extra_data:
 		magic-m15-altered-plus: corner: modal front
+	card_color_2: black, green, multicolor, horizontal
 	name: Remnants of the War
 	name_2: Guardian of the Cinders
 	casting_cost: 2BG
 	transformation: front triangle
 	image: image187
-	image_2: 
-	mainframe_image: 
+	image_2: image_222.png
+	mainframe_image: mainframe_image2.png
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Battle</word-list-type-en>
 	super_type_2: <word-list-type-en>Enchantment Creature</word-list-type-en>

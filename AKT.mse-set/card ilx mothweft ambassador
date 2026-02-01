@@ -27,8 +27,8 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		As an additional cost to cast Ilx, <kw-0><nospellcheck><key>embrace</key></nospellcheck></kw-0> four other Advisors from your graveyard.  <i-auto>(Exile them. You may cast them on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</i-auto>
-		You may cast Ilx from your graveyard.
+		As an additional cost to cast <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ilx</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, <kw-0><nospellcheck><key>embrace</key></nospellcheck></kw-0> four other Advisors from your graveyard.  <i-auto>(Exile them. You may cast them on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</i-auto>
+		You may cast <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ilx</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> from your graveyard.
 		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	power: 5

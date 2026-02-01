@@ -17,7 +17,7 @@ card:
 		Multaphs Riftwarden
 		!persistent Voidstone Shard
 	time_created: 2021-04-25 03:15:03
-	time_modified: 2025-07-21 01:28:10
+	time_modified: 2026-01-31 00:15:44
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -36,7 +36,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>trace <param-name>a card named Voidstone Shard into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
-		Once each turn, when you cast an enchantment spell, draw a card.
+		Once each turn, when you cast an enchantment spell, you may draw a card.
 		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Voidstone</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Shard</b> <sym>2</sym>| <i>Enchantment</i><soft-line>
 		</soft-line>When this enchantment enters, <kw-a><nospellcheck><key>scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>.
 	rule_text_2: 

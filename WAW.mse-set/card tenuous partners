@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-14 17:39:27
-	time_modified: 2025-01-28 19:51:26
+	time_modified: 2026-02-01 08:39:07
 	card_color: black
 	name: Tenuous Partners
 	casting_cost: 2BB
@@ -14,7 +14,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: <kw-A><nospellcheck><key>Ploy</key></nospellcheck>—Create a 4/4 black Demon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”<atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text: <kw-A><nospellcheck><key>Ploy</key></nospellcheck> — Create a 4/4 black Demon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”<atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>Mutual hatred tempered by lust for power is a decent substitute for teamwork.</i-flavor>
 	power: 3
 	toughness: 5

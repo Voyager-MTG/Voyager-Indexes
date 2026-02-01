@@ -2,6 +2,7 @@
 card:
 	has_styling: false
 	notes:
+		!tag CanonReprint
 		GREENUNCOMMON
 		UG06
 	time_created: 2022-03-18 23:08:50

@@ -18,7 +18,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<atom-cardname><nospellcheck>Gathering Olorosaurs</nospellcheck></atom-cardname> enters with two +1/+1 counters on it if no mana from land sources were spent to cast it.
-		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>GGG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>GGG</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>GGG</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

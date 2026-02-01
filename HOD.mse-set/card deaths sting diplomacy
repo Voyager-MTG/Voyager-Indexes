@@ -5,7 +5,7 @@ card:
 		!tag Dewold
 		!tag Hook
 	time_created: 2025-02-25 13:50:49
-	time_modified: 2025-03-03 19:34:46
+	time_modified: 2026-01-31 00:08:35
 	name: Death’s Sting Diplomacy
 	casting_cost: 4R
 	image: image705
@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <atom-cardname><nospellcheck>Death’s Sting Diplomacy</nospellcheck></atom-cardname> deals 6 damage to target creature or planeswalker. If excess damage was dealt this way, create <kw-0><nospellcheck><key>Weapon token</key></nospellcheck></kw-0> <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <atom-cardname><nospellcheck>Death’s Sting Diplomacy</nospellcheck></atom-cardname> deals 6 damage to target creature or planeswalker. If excess damage was dealt this way, create a <kw-0><nospellcheck><key>Weapon token</key></nospellcheck></kw-0> <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>House Hook doesn’t wait for an answer.</i-flavor>
 	illustrator: Tiago Sousa
 	card_code_text: 

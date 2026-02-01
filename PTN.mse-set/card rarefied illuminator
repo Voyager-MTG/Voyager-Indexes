@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-09-09 14:53:42
-	time_modified: 2025-12-01 23:34:46
+	time_modified: 2026-02-01 08:52:17
 	card_color: white
 	name: Rarefied Illuminator
 	casting_cost: 2W
@@ -30,7 +30,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Rarefied Illuminator</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key>scry <param-number>3</param-number></key></nospellcheck></kw-a>, then you may exile the top card of your library. If a creature card with mana value 3 or less was exiled this way. It <kw-A><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Rarefied Illuminator</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key>scry <param-number>3</param-number></key></nospellcheck></kw-a>, then exile the top card of your library. A creature card with mana value 3 or less exiled this way <kw-A><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-A><nospellcheck><key>Foretell <param-cost><sym>W</sym></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 

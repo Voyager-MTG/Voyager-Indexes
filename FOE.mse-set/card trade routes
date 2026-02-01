@@ -12,9 +12,11 @@ card:
 		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: RU06,Noncreature,2,,Entrancing Melody
+	notes:
+		RU06,Noncreature,2,,Entrancing Melody
+		!tag CanonReprint
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2024-02-02 01:54:31
+	time_modified: 2026-02-01 09:56:01
 	name: Trade Routes
 	casting_cost: 1U
 	image: image365
@@ -37,7 +39,7 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Tim Kaminski
-	card_code_text: • Reprint
+	card_code_text: • Canon Reprint
 	card_code_text_2: • Reprint
 	card_code_text_3: • Reprint
 	copyright: 

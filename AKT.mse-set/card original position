@@ -28,7 +28,7 @@ card:
 	rule_text: At the beginning of your upkeep, exile a creature card from your graveyard at random. Create a token that’s a copy of it.
 	flavor_text:
 		<i-flavor>“A just society is one a person would willingly be born into at random.”<soft-line>
-		—<error-spelling:en_US>Vatroskylö</error-spelling:en_US>, </i>On <error-spelling:en_US>Bioprivilege<i></soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Vatroskylö</error-spelling:en_US>, </i>On <error-spelling:en_US>Bioprivilege<i></soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Réne Puls
 	card_code_text: 
 	card_code_text_2: 

@@ -13,7 +13,7 @@ card:
 		!tag Dewold
 		!tag Plaskett
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-12-02 20:19:32
+	time_modified: 2026-01-31 00:07:46
 	name: Plaskett Trickster
 	casting_cost: 2B
 	image: image440
@@ -33,7 +33,7 @@ card:
 		<kw-0><nospellcheck><key>Sneak <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck></kw-0>
 		<margin:0:0:5>Whenever <atom-cardname><nospellcheck>Plaskett Trickster</nospellcheck></atom-cardname> deals combat damage to a player or planeswalker, choose one to be exiled. You may play the exiled cards for as long as they remain exiled and spend mana as though it were mana of any type to cast spells this way.</margin:0:0:5>
 		<li><bullet>• </bullet>A card from defending player’s hand.
-		</li><li><bullet>• </bullet>A random card form defending player’s sanctum.</li>
+		</li><li><bullet>• </bullet>A random card from defending player’s sanctum.</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 4

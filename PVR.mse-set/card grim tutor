@@ -2,6 +2,7 @@
 card:
 	has_styling: false
 	notes:
+		!tag CanonReprint
 		BLACKRARE
 		NEWCARD
 	time_created: 2023-03-12 08:51:49

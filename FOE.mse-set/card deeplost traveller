@@ -1,9 +1,15 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 4
+		additional_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://www.artstation.com/artwork/8BmZDw
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-11-23 19:58:28
+	time_modified: 2026-01-31 00:14:29
 	name: Deeplost Traveller
 	casting_cost: G
 	image: image333
@@ -21,7 +27,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-name>This creature</atom-cardname> enters tapped with three <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it.
-		Once each turn, when you remove one or more counters from a permanent you control, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. You gain 1 life.
+		Once each turn, when you remove one or more counters from a permanent you control, you may <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0> and gain 1 life.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“I turned right on <error-spelling:en_US>Innistrad</error-spelling:en_US> just like the map said! Where the hell am I??” </i-flavor>

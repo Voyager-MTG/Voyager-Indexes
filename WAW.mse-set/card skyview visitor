@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-01-12 19:58:19
-	time_modified: 2025-03-18 17:03:22
+	time_modified: 2026-02-01 08:37:44
 	name: Skyview Visitor
 	casting_cost: 4U
 	image: image263
@@ -16,7 +16,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		Whenever you cast a white or black spell, put a +1/+1 counter on <atom-cardname><nospellcheck>Skyview Visitor</nospellcheck></atom-cardname>.
-		Whenever you cast a green or red spell, untap up to two target permanents.
+		Whenever you cast a green or red spell, create two 1/1 Wonder creature tokens that are all colors.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 5

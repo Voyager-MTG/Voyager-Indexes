@@ -24,7 +24,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		At the beginning of your end step, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do, <atom-cardname><nospellcheck>Radcliff Electromancer</nospellcheck></atom-cardname> deals 3 damage to any target.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
+		At the beginning of your end step, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>. If you do, <atom-cardname><nospellcheck>Radcliff Electromancer</nospellcheck></atom-cardname> deals 3 damage to any target.<atom-reminder-custom> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“Never let your inner spark falter. Let it rage.”<soft-line>
 		—<error-spelling:en_US>Minna</error-spelling:en_US> Radcliff</soft-line></i-flavor>

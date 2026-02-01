@@ -7,7 +7,7 @@ card:
 		!related Drake-Brood Peakattach>;
 		!addtoken Drake-Brood Peak;transform;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-12-01 22:56:04
+	time_modified: 2026-01-31 00:12:26
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -34,7 +34,7 @@ card:
 	rule_text:
 		When this realm enters, each opponent sacrifices a creature.
 		<sym-auto>2B</sym-auto>: Transform this realm.
-	rule_text_2: Once each turn, whenever a nontoken creature dies, create a 1/1 black Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	rule_text_2: Once each turn, when a nontoken creature dies, you may create a 1/1 black Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	rule_text_3: 
 	flavor_text: <i-flavor>The grass, stained ribs. The trees, husked growths. The air, fetid breath.</i-flavor>
 	flavor_text_2: <i-flavor>Within the realm, the vulturous drakes guarantee the dead are remain <error-spelling:en_US>unburied</error-spelling:en_US>.</i-flavor>

@@ -35,7 +35,7 @@ card:
 		<kw-A><nospellcheck><key>Transcend <param-cost><sym>3UUBB</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of combat, cast your chosen Erysite from outside the game by paying its Transcend cost and exiling a Dragon creature you control.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		This spell can’t be countered.
-		<sym-auto>UB</sym-auto>, Pay 1 life: Draw a card. Herongrand <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>. Activate only once each turn.
+		<sym-auto>UB</sym-auto>, Pay 1 life: Draw a card. <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Herongrand</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>. Activate only once each turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5

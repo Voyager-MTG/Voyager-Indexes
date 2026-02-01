@@ -19,7 +19,7 @@ card:
 	rule_text: <kw-0><nospellcheck><key>Liberate</key></nospellcheck></kw-0> target creature, artifact, or enchantment X times. X can’t be 0.  <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates X colorless 3/2 Dragon creature tokens with its abilities.)</i-auto>
 	flavor_text:
 		<i-flavor>“You have too much personality.”<soft-line>
-		—The <error-spelling:en_US>Aetherbeast</error-spelling:en_US>, to <error-spelling:en_US>Lukka</soft-line></error-spelling:en_US></i-flavor>
+		—The <error-spelling:en_US>Aetherbeast</error-spelling:en_US>, to <error-spelling:en_US>Lukka</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Michal Ivan.
 	card_code_text: 
 	card_code_text_2: 

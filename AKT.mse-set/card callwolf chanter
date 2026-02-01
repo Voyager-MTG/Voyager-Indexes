@@ -49,7 +49,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2:
 		<i-flavor>“Two bodies, two minds, one duty.”<soft-line>
-		—<error-spelling:en_US>Lukka</error-spelling:en_US>, <error-spelling:en_US>Godbonder</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Lukka</error-spelling:en_US>, <error-spelling:en_US>Godbonder</soft-line></i-flavor></error-spelling:en_US>
 	power: 3
 	power_2: 4
 	toughness: 4

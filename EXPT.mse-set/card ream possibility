@@ -7,7 +7,7 @@ card:
 		custom_symbol: MyrCustoms/IthLarge.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: 
+	notes: !designer TVP
 	time_created: 2025-07-26 01:27:55
 	time_modified: 2026-01-31 02:04:41
 	extra_data:

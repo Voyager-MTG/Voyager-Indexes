@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		BLUEUNCOMMON
+		UU09
+		!gilded
+		!tagchampion> hervor
+		!tagis> champion
+	time_created: 2021-10-10 03:07:08
+	time_modified: 2026-01-30 23:27:26
+	name: Memory Hole
+	casting_cost: UU
+	image: image26.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: masterpiece
+	rule_text: Counter target spell if you have <kw-A><nospellcheck><key>complexity</key></nospellcheck> greater than or equal to its controller’s <kw-A><nospellcheck><key>complexity</key></nospellcheck>.<blob></kw-A><moved><atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: ArsEye (Edited)
+	custom_card_number: Voyager Beta Tester — Hervor
+	card_code_text: 
+	card_code_text_2: FT: elmikkino
+	card_code_text_3: FT: elmikkino
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra
