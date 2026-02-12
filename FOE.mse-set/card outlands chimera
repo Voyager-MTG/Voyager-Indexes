@@ -21,7 +21,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, if its not a token, you may <kw-1><nospellcheck><key>mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of another token you control.)</i-auto></atom-reminder-custom></kw-1>
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, if its not a token, you may <kw-1><nospellcheck><key>mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-1>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:

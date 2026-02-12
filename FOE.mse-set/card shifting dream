@@ -5,21 +5,22 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
+		chop_bottom: 8
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: It was born between the cusp of wakefulness and deep sleep.
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-07-02 23:56:30
+	time_modified: 2026-02-06 13:45:05
 	name: Shifting Dream
 	name_2: Wakeful Sleep
 	casting_cost: U
-	casting_cost_2: 1U
+	casting_cost_2: 2U
 	image: image453
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
-	super_type_2: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en>Instant</word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
@@ -27,10 +28,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		<atom-name>This creature</atom-cardname> can’t be blocked.
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on up to one target nonland permanent.
-	rule_text_2: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then return up to one nonpermanent card from among the milled cards into your hand. <i-auto>(Then put this card into its owner’s sanctum.)</i-auto>
+	rule_text: <atom-name>This creature</atom-cardname> can’t be blocked.
+	rule_text_2: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then return up to one card milled this way to your hand. <i-auto>(Then put this card into its owner’s sanctum.)</i-auto>
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>

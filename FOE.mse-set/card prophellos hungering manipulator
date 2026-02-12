@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-11-27 15:32:47
+	time_modified: 2026-02-06 13:31:42
 	card_trim: clear, legend
 	name: Prophellos, Hungering Manipulator
 	casting_cost: 7
@@ -32,7 +32,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Delve</key></nospellcheck><atom-reminder-expert> <i-auto>(Each card you exile from your graveyard while casting this spell pays for <sym>1</sym>.)</i-auto></atom-reminder-expert></kw-A>
+		As an additional cost to cast this spell, exile any number of cards from your graveyard. This spell costs <sym-auto>1</sym-auto> less to cast for each land or Realm card exiled this way.
 		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>6</sym-auto>, Exile a Realm card from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 

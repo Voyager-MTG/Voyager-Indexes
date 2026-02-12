@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2024-02-06 01:56:27
-	time_modified: 2025-03-19 23:54:06
+	time_modified: 2026-02-01 12:55:40
 	name: Mourncast Disciple
 	casting_cost: 3BG
 	casting_cost_2: 
@@ -27,7 +27,7 @@ card:
 	sub_type: <word-list-race-en>Horror</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		Whenever this creature enters or attacks, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then return a creature card milled this way to your hand.
+		Whenever this creature enters or attacks, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then return a creature or land card milled this way to your hand.
 		<kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>1B/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
