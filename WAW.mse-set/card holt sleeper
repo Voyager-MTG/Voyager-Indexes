@@ -10,9 +10,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-01-20 19:28:42
-	time_modified: 2025-02-14 10:13:28
+	time_modified: 2026-02-01 08:40:19
 	name: Holt Sleeper
-	casting_cost: W
+	casting_cost: 1W
 	image: image54
 	image_2: 
 	mainframe_image: 
@@ -22,7 +22,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<atom-cardname><nospellcheck>Holt Sleeper</nospellcheck></atom-cardname> enters tapped with three <kw-1><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck> on it if it was cast from your hand.<atom-reminder-core> <i-auto>(If a permanent with a stun counter would become untapped, remove one from it instead.)</i-auto></atom-reminder-core></kw-1>
-		Whenever you cast a blue, black, red, or green spell, untap <atom-cardname><nospellcheck>Holt Sleeper</nospellcheck></atom-cardname> and you gain 2 life. This ability triggers only once each turn.
+		Whenever you cast a blue, black, red, or green spell, untap <atom-cardname><nospellcheck>Holt Sleeper</nospellcheck></atom-cardname> and you gain 1 life. This ability triggers only once each turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4

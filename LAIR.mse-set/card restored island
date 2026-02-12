@@ -7,7 +7,9 @@ card:
 		main_style: normal
 		other_options: vorthos box
 		additional_options: 
-		font_cap: 13.5
+		font_cap: 12.5
+		level_offset: -20,-38,-58,
+		level_containers: loyalty boxes
 		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font

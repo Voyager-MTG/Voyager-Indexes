@@ -16,8 +16,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		You may cast Erysite spells from outside the game for their transcend cost. <i-auto>(Even if you already have or it’s not your chosen Erysite.)</i-auto>
-		Whenever you cast a transcended Erysite spell, draw two cards.
+		You may cast <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erysite</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> spells from outside the game for their transcend cost. <i-auto>(Even if you already have or it’s not your chosen <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erysite</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.)</i-auto>
+		Whenever you cast a transcended <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Erysite</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> spell, draw two cards.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Yuliya Zabelina
 	card_code_text: 

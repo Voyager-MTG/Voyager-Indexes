@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-07-07 21:21:00
+	time_modified: 2026-01-31 00:12:36
 	name: Marblewrought Titan
 	casting_cost: 1WW
 	image: image403
@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		Other artifact creatures you control get +1/+0.
-		Once each turn, whenever an artifact you control dies, create <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jura</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, a legendary land token with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.” and “<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Return target creature card with mana value 2 or less from your graveyard to the battlefield tapped.”
+		Once each turn, when an artifact you control dies, you may create <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jura</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, a legendary land token with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.” and “<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Return target creature card with mana value 2 or less from your graveyard to the battlefield tapped.”
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

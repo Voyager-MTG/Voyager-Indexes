@@ -2,6 +2,7 @@
 card:
 	has_styling: false
 	notes:
+		!tag CanonReprint
 		https://alessiahv.artstation.com/projects/8waYYw
 		reprint
 	time_created: 2022-08-26 20:20:56

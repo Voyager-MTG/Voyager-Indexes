@@ -20,7 +20,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Return target creature card from your graveyard to the battlefield. Then if its mana value is 5 or less, you may <kw-A><nospellcheck><key>liberate</key></nospellcheck> it.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: Return target creature card from your graveyard to the battlefield. Then if its mana value is 5 or less, you may <kw-A><nospellcheck><key>liberate</key></nospellcheck> it.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

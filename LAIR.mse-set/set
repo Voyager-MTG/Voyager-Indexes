@@ -92,6 +92,10 @@ include_file: card the red door
 include_file: card tangled heart
 include_file: card font of decadence
 include_file: card awakened titan
+include_file: card memory hole
+include_file: card lifelighter
+include_file: card shifting spire
+include_file: card eye of the abominable
 version_control:
 	type: none
 apprentice_code: 

@@ -1,24 +1,32 @@
 ﻿mse_version: 2.5.8
 card:
-	stylesheet: m15-mainframe-battles
-	stylesheet_version: 2025-01-21
-	has_styling: false
+	stylesheet: m15-mainframe-dfc-plus
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		popout_image_style: 0,0,375,523,
+		official_frames: 
+		altered_plus_frames: 
+		apply_custom_fonts: yes
+		custom_type_font: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes:
-		!related Kera, Mordel’s New Hope;
-		!backface Kera, Mordel’s New Hope;
-		!addtoken Kera, Mordel’s New Hope;transform;
+		!noflip
 		!tag Mordel;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-12-01 23:04:21
+	time_modified: 2026-02-01 09:51:37
 	extra_data:
 		magic-m15-altered-plus: corner: modal front
+	card_color_2: red
 	name: Mordel Civil War
 	name_2: Kera, Mordel’s New Hope
 	casting_cost: 2R
 	transformation: front triangle
 	image: image409
-	image_2: 
-	mainframe_image: 
+	image_2: image_220.png
+	mainframe_image: mainframe_image1.png
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Battle</word-list-type-en>
 	super_type_2: <word-list-type-en>Legendary Creature</word-list-type-en>

@@ -4,6 +4,7 @@ card:
 	notes:
 		BLUECOMMON
 		CU16
+		!tag CanonReprint
 	time_created: 2022-10-22 16:45:21
 	time_modified: 2023-07-24 00:25:35
 	card_color: blue

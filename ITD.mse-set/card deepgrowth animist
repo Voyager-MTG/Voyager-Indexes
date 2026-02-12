@@ -3,20 +3,20 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/04bkDy
 	time_created: 2024-08-01 11:06:47
-	time_modified: 2024-10-17 16:10:25
+	time_modified: 2025-11-25 12:46:11
 	name: Deepgrowth Animist
 	casting_cost: G
-	image: image310
+	image: image403
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: rare
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Untap target Horror you control.
-		<sym-auto>3</sym-auto>: Target land you control becomes a 3/3 Horror creature that can’t block and that’s still a land. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
-	flavor_text: <i-flavor>“My people once owned this land. We knew every contortion and blight.”</i-flavor>
+		<sym-auto>3</sym-auto>: Target land you control becomes a 3/3 Horror creature that can’t block with that’s still a land. It gains “When this land dies or is exiled, return it to the battlefield tapped.”  
+	flavor_text: <i-flavor>“My people own this land. We know every contortion and blight.”</i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: Anthony Catillaz

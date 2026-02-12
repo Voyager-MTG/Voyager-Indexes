@@ -18,7 +18,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, up to one target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-custom></kw-A>
 		Sacrifice this permanent: Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Caleb Worchester

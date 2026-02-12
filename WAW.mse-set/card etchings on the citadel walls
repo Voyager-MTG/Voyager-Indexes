@@ -10,7 +10,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-01-24 15:15:22
-	time_modified: 2025-02-12 16:25:04
+	time_modified: 2026-02-01 08:38:53
 	card_color: blue
 	name: Etchings on the Citadel Walls
 	casting_cost: 1U
@@ -28,7 +28,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Creatures you control have “<kw-0><nospellcheck><key>Ploy</key></nospellcheck></kw-0>—Draw a card.” <i-auto>(Whenever a creature with <kw-0><nospellcheck><key>ploy</key></nospellcheck></kw-0> attacks, you may trigger any number of its ploys. If you do, sacrifice it at the next end step.)</i-auto>
+		Creatures you control have “<kw-0><nospellcheck><key>Ploy</key></nospellcheck></kw-0> — Draw a card.” <i-auto>(Whenever a creature with <kw-0><nospellcheck><key>ploy</key></nospellcheck></kw-0> attacks, you may trigger any number of its ploys. If you do, sacrifice it at the next end step.)</i-auto>
 		<sym-auto>3U</sym-auto>: Exile another target nonland permanent you control. Return it to the battlefield under its owner’s control at the beginning of the next end step.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anastasiya Osichkina

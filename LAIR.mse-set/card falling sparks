@@ -16,14 +16,14 @@ card:
 		!taglair> top cards I
 		!designer TVP
 	time_created: 2024-10-16 22:02:40
-	time_modified: 2025-08-31 19:26:00
+	time_modified: 2026-01-30 23:46:26
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: TVP
 	card_trim: special guest, inverted
 	name: Falling Sparks
 	alias: Raimei
-	casting_cost: X1IR
+	casting_cost: X2IR
 	image: image22
 	image_2: 
 	mainframe_image: 

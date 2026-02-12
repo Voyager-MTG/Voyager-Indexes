@@ -16,7 +16,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: Calia Oracle of Tofnet Plains
 	time_created: 2022-05-06 22:46:07
-	time_modified: 2025-12-27 22:48:55
+	time_modified: 2026-01-31 00:16:49
 	name: Calia, Oracle of Tofnet Plains
 	casting_cost: 2WW
 	image: image25
@@ -29,7 +29,7 @@ card:
 	rule_text:
 		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
 		Whenever you cast an enchantment spell, up to one other target permanent you control becomes a creature until end of turn. Put two +1/+1 counters on it. <i-auto>(Permanents without printed size are 0/0.)</i-auto>
-		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, draw a card.
+		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, you may draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

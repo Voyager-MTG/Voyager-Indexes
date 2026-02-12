@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-08-25 18:52:53
-	time_modified: 2025-11-22 00:31:55
+	time_modified: 2026-01-31 00:09:52
 	name: Vertigomancer
 	casting_cost: 2
 	image: image223
@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-race-en>Horror</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Whenever this creature enters or attacks, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
+		Whenever this creature enters or attacks, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		<i>Deep dwelling —</i> As long as your library contains a number of cards less than or equal to half your starting deck size, this creature gets +3/+3.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

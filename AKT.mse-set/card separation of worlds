@@ -14,10 +14,10 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: mythic rare
 	rule_text:
-		Whenever a permanent doesn’t have a burdent or unburdent counter on it, its controller puts one of those counters on that permanent. This ability triggers only once each turn per permanent.
-		Burdent permanents have <kw-0><nospellcheck><key>protection from <param-name>unburdent permanents, and vice versa.</param-name></key></nospellcheck></kw-0>
-		Burdent creatures you control get +3/+3.
-		<soft-line>Tap an unburdent creature you control: Add <sym-auto>GGG</sym-auto>.</soft-line>
+		Whenever a permanent doesn’t have a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>burdent</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>unburdent</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> counter on it, its controller puts one of those counters on that permanent. This ability triggers only once each turn per permanent.
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Burdent</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanents have <kw-0><nospellcheck><key>protection from <param-name>unburdent permanents, and vice versa.</param-name></key></nospellcheck></kw-0>
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Burdent</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control get +3/+3.
+		<soft-line>Tap an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>unburdent</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature you control: Add <sym-auto>GGG</sym-auto>.</soft-line>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: other magic symbols story spotlight
 	illustrator: The Black Arrow

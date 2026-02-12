@@ -32,7 +32,7 @@ card:
 		<kw-0><nospellcheck><key>Trample</key></nospellcheck></kw-0>
 	flavor_text:
 		<i-flavor>“No more will strong and weak exist. No more will the genetic lottery enslave us.”<soft-line>
-		—First Decree of <error-spelling:en_US>Erys</soft-line></error-spelling:en_US></i-flavor>
+		—First Decree of <error-spelling:en_US>Erys</soft-line></i-flavor></error-spelling:en_US>
 	power: 5
 	toughness: 5
 	illustrator: Ondrej Hrdina

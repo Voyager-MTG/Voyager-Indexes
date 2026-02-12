@@ -2,6 +2,7 @@
 card:
 	has_styling: false
 	notes:
+		!tag castle
 		!tag Dewold
 		Land Cycle
 		House Perle

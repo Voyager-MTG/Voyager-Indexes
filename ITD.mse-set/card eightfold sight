@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: https://www.tumbex.com/maybelsart.tumblr/post/615314054075006976
 	time_created: 2024-09-05 15:52:34
-	time_modified: 2024-10-22 15:15:18
+	time_modified: 2026-02-01 08:42:13
 	name: Eightfold Sight
 	casting_cost: U
 	image: image256
@@ -24,7 +24,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature you control</param-name></key></nospellcheck></kw-a>
 		When this enchantment enters, you may phase out enchanted creature. <i-auto>(It and anything attached to it is treated as if it doesn’t exist until your next untap.)</i-auto>
 		Whenever enchanted creature deals combat damage to a player, draw a card. Then sacrifice this enchantment unless it entered this turn.
 	flavor_text: <i-flavor></i-flavor>

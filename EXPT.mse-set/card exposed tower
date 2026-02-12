@@ -8,13 +8,14 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !designer Myr
 	time_created: 2025-08-13 02:28:59
-	time_modified: 2026-01-31 23:52:46
+	time_modified: 2026-02-01 08:46:45
 	extra_data:
 		magic-m15-mainframe-dfc-plus:
 			back_type_hint: Land — Lair
-			front_color_hint: <sym>T</sym>, 1 life: Add <sym>I</sym>.
+			front_type_hint: Land
+			front_color_hint: .
 	name: Exposed Tower
 	name_2: Kgxraja, the Palace Limitless
 	transformation: modal front default

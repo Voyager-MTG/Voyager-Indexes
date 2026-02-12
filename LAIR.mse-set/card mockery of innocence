@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag Gosfridus
+		!tag Turnberry
+		!gilded
+	time_created: 2025-02-27 12:13:37
+	time_modified: 2026-01-30 13:15:03
+	name: Mockery of Innocence
+	casting_cost: 5BB
+	image: image31.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Rabbit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: masterpiece
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Mockery of Innocence</nospellcheck></atom-cardname> enters, you may destroy target creature. You gain life equal to 8 minus that creature’s mana value.
+	flavor_text: <i-flavor></i-flavor>
+	power: 7
+	toughness: 5
+	illustrator: Diano Franco
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

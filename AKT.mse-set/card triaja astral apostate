@@ -25,7 +25,7 @@ card:
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Hex</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
-	rule_text: Whenever another creature you control with lesser power enters, you may <kw-A><nospellcheck><key>liberate</key></nospellcheck> it. Do this only once each turn.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: Whenever another creature you control with lesser power enters, you may <kw-A><nospellcheck><key>liberate</key></nospellcheck> it. Do this only once each turn.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>“Our existence is a choice. The </i>wrong<i> choice.”</i-flavor>
 	power: 3
 	toughness: 2

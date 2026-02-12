@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-03-20 00:47:01
+	time_modified: 2026-02-01 12:27:46
 	name: Consult Eternity
 	casting_cost: 1U
 	image: image23
@@ -20,7 +20,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>Sift <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Look at the top <param-number>three</param-number> cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Sift <param-number>3</param-number></key></nospellcheck>.<atom-reminder-expert> <i-auto>(Look at the top <param-number>three</param-number> cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</i-auto></atom-reminder-expert></kw-A>
 		Draw a card.
 	rule_text_2: 
 	rule_text_3: 

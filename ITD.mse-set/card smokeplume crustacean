@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/myprocrastinationfix/art/Day-1498-Smoke-Stack-Crab-1057313748
 	time_created: 2024-10-15 16:11:37
-	time_modified: 2025-02-01 14:49:44
+	time_modified: 2026-01-31 00:10:43
 	name: Smokeplume Crustacean
 	casting_cost: 2RR
 	image: image315
@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		Once each turn, whenever this creature or another creature you control enters, you may have each opponent lose 3 life unless they discard a card or sacrifice a nonland permanent.
+		Once each turn, when this creature or another creature you control enters, you may have each opponent lose 3 life unless they discard a card or sacrifice a nonland permanent.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

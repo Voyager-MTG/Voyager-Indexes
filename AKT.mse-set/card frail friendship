@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: GREENMYTHIC
 	time_created: 2024-02-04 16:48:43
-	time_modified: 2025-07-08 16:25:57
+	time_modified: 2026-01-31 00:13:51
 	name: Frail Friendship
 	casting_cost: 1GG
 	image: image81.png
@@ -15,7 +15,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		As <atom-cardname><nospellcheck>Frail Friendship</nospellcheck></atom-cardname> enters, choose two creature types.
-		Once each turn, when you cast a spell with only one of the chosen types, reveal cards from the top of your library until you reveal one that’s the other type, put it into your hand, then shuffle.
+		Once each turn, when you cast a spell with only one of the chosen types, you may reveal cards from the top of your library until you reveal one that’s the other type, put it into your hand, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sandara Tang
 	card_code_text: 

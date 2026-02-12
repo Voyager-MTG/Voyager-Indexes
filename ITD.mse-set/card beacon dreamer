@@ -12,7 +12,7 @@ card:
 		https://www.deviantart.com/evi-gilatio/art/Aha-891587483
 		flag-change
 	time_created: 2024-08-25 23:42:49
-	time_modified: 2025-11-22 00:57:48
+	time_modified: 2026-01-31 00:10:21
 	name: Beacon Dreamer
 	casting_cost: 1W
 	image: image225
@@ -27,7 +27,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A>— Once each turn, whenever a land you control enters, you may activate one of this creature’s abilities without paying its costs.
+		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Once each turn, when a land you control enters, you may activate one of this creature’s abilities without paying its costs.
 		<soft-line><sym>2WW</sym>: Create a 1/1 white Nightmare creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”</soft-line>
 	rule_text_2: 
 	rule_text_3: 

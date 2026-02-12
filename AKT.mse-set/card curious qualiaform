@@ -30,7 +30,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
-		Whenever you cast a spell from anywhere other than your hand, <kw-A><nospellcheck><key>liberate</key></nospellcheck> <atom-cardname><nospellcheck>Curious Qualiaform</nospellcheck></atom-cardname>.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A>
+		Whenever you cast a spell from anywhere other than your hand, <kw-A><nospellcheck><key>liberate</key></nospellcheck> <atom-cardname><nospellcheck>Curious Qualiaform</nospellcheck></atom-cardname>.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
