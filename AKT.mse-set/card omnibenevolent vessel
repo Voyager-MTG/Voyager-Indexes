@@ -28,7 +28,7 @@ card:
 	sub_type: <word-list-race-en>Erysite</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dragon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<kw-1><nospellcheck><key>Transcend <param-cost><sym>3WWW</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of combat, cast your chosen Erysite from outside the game by paying its Transcend cost and exiling a Dragon creature you control.)</i-auto></atom-reminder-custom></kw-1>
+		<kw-1><nospellcheck><key>Transcend <param-cost><sym>3WWW</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of combat, cast your chosen Erysite from your sanctum by paying its Transcend cost and exiling a Dragon creature you control.)</i-auto></atom-reminder-custom></kw-1>
 		<kw-0><nospellcheck><key>Trample</key></nospellcheck></kw-0>
 		When <atom-cardname><nospellcheck>Omnibenevolent Vessel</nospellcheck></atom-cardname> enters, put a +1/+1 counter on each other creature you control.
 	flavor_text: <i-flavor></i-flavor>

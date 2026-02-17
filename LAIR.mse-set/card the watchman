@@ -14,7 +14,7 @@ card:
 		!taglairauthor> kogane
 		!designer Kogane
 	time_created: 2023-07-21 13:24:03
-	time_modified: 2025-07-26 16:47:41
+	time_modified: 2026-02-07 16:11:21
 	card_color: white, blue, multicolor, horizontal
 	name: The Watchman
 	casting_cost: 1WU
@@ -29,7 +29,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>
 		Whenever a card you own <kw-0><nospellcheck><key>become<param-*s>s</param-*s> foretold</key></nospellcheck></kw-0>, put a +1/+1 counter on <atom-cardname><nospellcheck>The Watchman</nospellcheck></atom-cardname>. 

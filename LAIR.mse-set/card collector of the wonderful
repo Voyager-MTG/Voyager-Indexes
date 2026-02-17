@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/lileti/art/Fox-Merchant-Character-design-challenge-882694479
 	time_created: 2025-01-04 18:02:31
-	time_modified: 2026-01-01 11:56:46
+	time_modified: 2026-02-11 19:46:19
 	card_trim: special guest, inverted
 	name: Collector of the Wonderful
 	casting_cost: 1R
@@ -16,7 +16,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever you attack, you may discard a card. If you do, draw a card. If <atom-cardname><nospellcheck>Collector of the Wonderful</nospellcheck></atom-cardname> is attacking, you may <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0> instead.
+		Whenever you attack, you may discard a card. If you do, draw a card. If <atom-cardname><nospellcheck>Collector of the Wonderful</nospellcheck></atom-cardname> is attacking, you may <kw-1><nospellcheck><key>pursue Wonder</key></nospellcheck> instead.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: old
+	stylesheet_version: 2024-05-29
+	has_styling: false
+	notes: 
+	time_created: 2026-02-05 23:11:12
+	time_modified: 2026-02-05 23:13:13
+	name: Breach of Mortality
+	casting_cost: 3B
+	image: image65.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Pathbound <param-cost><sym-auto>I/B</sym-auto></param-cost></key></nospellcheck>. Activate only if you have seven or more cards in your graveyard.<atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+		All creatures have <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>.
+		Whenever a creature dies, each opponent loses 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Illus. J Edward Neill
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: old
+	stylesheet_version: 2024-05-29
+	has_styling: false
+	notes: 
+	time_created: 2026-02-05 23:24:19
+	time_modified: 2026-02-05 23:29:24
+	name: Meet the Beyond
+	casting_cost: 2
+	image: image69.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: You gain 2 life. Draw a card. Conjure three copies of Through Violence into your library, then shuffle. <i-auto>(It’s a <sym>4</sym> sorcery with “Exile target nonland permanent. Draw a card.”)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Illus. Borda
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

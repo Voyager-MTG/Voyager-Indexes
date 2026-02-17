@@ -1,0 +1,64 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 8
+		hybrid_name: hybrid
+		d20_dividers: all breaks
+		other_options: auto nyx crowns
+		additional_options: readable
+		font_cap: 
+		inverted_common_symbol: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: !tag fascism;
+	time_created: 2021-04-25 03:47:22
+	time_modified: 2026-01-14 23:25:40
+	extra_data:
+		magic-m15-altered-plus:
+			corner: instant
+	card_trim_plus: framed
+	card_color: red
+	name: Mordel Excursionist
+	casting_cost: R
+	image: image47
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Spellshaper</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>Mordel Excursionist</nospellcheck></atom-cardname> attacks, trace its skill into your hand.
+		<b>In the Moment</b> <sym>1R</sym>| <u>Skill Sorcery<soft-line>
+		</u>Exile the top card of your library. You may play it this turn.</soft-line>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1: 
+	level_2: 
+	level_1_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a><soft-line>
+		</soft-line>
+	level_2_text: 
+	level_3_text: 
+	power: 1
+	toughness: 1
+	card_stamp: none
+	illustrator: sheppardarts
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

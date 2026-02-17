@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: old
+	stylesheet_version: 2024-05-29
+	has_styling: false
+	notes:
+		https://www.artstation.com/artwork/ykA99<soft-line>
+		#updated</soft-line>
+	time_created: 2023-10-13 21:24:47
+	time_modified: 2026-02-05 22:36:47
+	card_trim: clear, nyx
+	name: Forgiving Monument
+	casting_cost: 6
+	image: image57.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When this enchantment enters, search your library for a colorless card, reveal it, put it into your hand, then shuffle.
+		At the beginning of your first main phase, add <sym-auto>CC</sym-auto>. You can’t spend this mana to cast spells that aren’t mana value 5 or greater.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Illus. indyjr
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

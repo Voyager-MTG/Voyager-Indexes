@@ -17,7 +17,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: <kw-A><nospellcheck><key>Liberate</key></nospellcheck> up to two target artifacts, creatures, and/or enchantments.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <kw-A><nospellcheck><key>Liberate</key></nospellcheck> up to two target artifacts, creatures, and/or enchantments.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>A capable body is worth sharing.</i-flavor>
 	illustrator: Christina Yen
 	card_code_text: 

@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		hybrid_name: grey
+		d20_dividers: all breaks +2
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		additional_options: readable
+		font_cap: 13.5
+		alt_rarity_color: 
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: Prophellos Pathborn Hunger
+	time_created: 2022-05-17 14:44:58
+	time_modified: 2026-01-14 23:25:09
+	card_trim: none 
+	card_trim_plus: framed
+	name: Prophellos, Pathborn Hunger
+	casting_cost: 5
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>God</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Whenever <atom-cardname><nospellcheck>Prophellos, Pathborn Hunger</nospellcheck></atom-cardname> enters or attacks, each opponent sacrifices a creature as long as you cast a noncreature spell this turn.
+		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>5</sym-auto>, Exile five other cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Ari-Matti Toivonen
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

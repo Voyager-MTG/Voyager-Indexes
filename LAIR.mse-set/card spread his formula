@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: old
+	stylesheet_version: 2024-05-29
+	has_styling: false
+	notes: 
+	time_created: 2026-02-05 23:48:33
+	time_modified: 2026-02-05 23:49:16
+	name: Spread His Formula
+	casting_cost: U
+	image: image73.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		If you haven’t cast a spell named Spread His Formula this turn, you may cast Spread His Formula from your graveyard.
+		The next time target creature deals damage to an opponent this turn, you draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Illus. Borda
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

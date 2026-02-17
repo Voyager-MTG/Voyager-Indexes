@@ -18,7 +18,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Hex</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Injector Evangel</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>liberate</key></nospellcheck> up to one other target creature you control.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>Injector Evangel</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>liberate</key></nospellcheck> up to one other target creature you control.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: old
+	stylesheet_version: 2024-05-29
+	has_styling: false
+	notes: \
+	time_created: 2026-02-05 23:14:58
+	time_modified: 2026-02-05 23:27:47
+	name: Pattern Processing
+	casting_cost: G
+	image: image67.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Search your library for a basic land card or a Texture card, reveal it, put it into your hand, then shuffle.
+		You get <sym-auto>V/W</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Illus. Borda
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -16,7 +16,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: <kw-A><nospellcheck><key>Liberate</key></nospellcheck> target nonland permanent you control. The token created this way has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and “At the beginning of your end step, sacrifice this creature.”<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <kw-A><nospellcheck><key>Liberate</key></nospellcheck> target nonland permanent you control. The token created this way has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and “At the beginning of your end step, sacrifice this creature.”<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 

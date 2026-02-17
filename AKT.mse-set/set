@@ -394,7 +394,7 @@ keyword:
 keyword:
 	keyword: Transcend
 	match: Transcend <atom-param>cost</atom-param>
-	reminder: At the beginning of combat, cast your chosen Erysite from outside the game by paying its Transcend cost and exiling a Dragon creature you control.
+	reminder: At the beginning of combat, cast your chosen Erysite from your sanctum by paying its Transcend cost and exiling a Dragon creature you control.
 	rules: 
 	mode: custom
 keyword:

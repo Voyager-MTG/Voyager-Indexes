@@ -17,7 +17,7 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rule_text:
 		<sym-auto>2</sym-auto>: Add one mana of any color.
-		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Vial of Erysium</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Liberate</key></nospellcheck> target creature you control. Activate only as a sorcery.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Vial of Erysium</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Liberate</key></nospellcheck> target creature you control. Activate only as a sorcery.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Stone Perales
 	card_code_text: 

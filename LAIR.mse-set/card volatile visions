@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		additional_options: readable
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: !addtoken RedWurm;
+	time_created: 2024-03-02 22:05:26
+	time_modified: 2026-01-14 23:13:41
+	card_trim_plus: framed
+	name: Volatile Visions
+	casting_cost: 1I/R
+	image: image58
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		Look at the top two cards of your library and exile one of them. Until the end of your next turn, you may play that card. Put the other on the bottom of your library.
+		Create a 1/1 red Wurm creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>New realities open new possibilities.</i-flavor>
+	card_stamp: none
+	illustrator: Yury Solntsev
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

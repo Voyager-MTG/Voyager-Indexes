@@ -20,7 +20,7 @@ card:
 	rarity: common
 	rule_text:
 		When <atom-cardname><nospellcheck>Sapient Stoneworks</nospellcheck></atom-cardname> enters, create a 2/2 red Werewolf Citizen creature token.
-		<sym-auto>6</sym-auto>: <kw-1><nospellcheck><key>Liberate</key></nospellcheck> <atom-cardname><nospellcheck>Sapient Stoneworks</nospellcheck></atom-cardname>. Activate only as a sorcery.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-1>
+		<sym-auto>6</sym-auto>: <kw-1><nospellcheck><key>Liberate</key></nospellcheck> <atom-cardname><nospellcheck>Sapient Stoneworks</nospellcheck></atom-cardname>. Activate only as a sorcery.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
