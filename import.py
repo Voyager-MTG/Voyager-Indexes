@@ -20,7 +20,7 @@ art_fields = [
 try:
     shutil.rmtree('OUT.mse-set')
 except:
-    pass
+    print('Unable to remove OUT')
 
 def cleanCardName(name: str) -> str:
     return name.replace('’', "'")
@@ -66,8 +66,9 @@ for card in cards:
     shutil.copy(mse_card, f'OUT.mse-set\\{card_raw}')
     for field, art in mse_arts[card].items():
         if os.path.exists(f'OUT.mse-set\\{art}'):
-            with open(f'OUT.mse-set\\{card_raw}', 'a+') as f:
+            with open(f'OUT.mse-set\\{card_raw}', 'r+', encoding = 'utf-8') as f:
                 content = f.read()
+                f.truncate(0)
                 f.write(content.replace(f'{field}: {art}', f'{field}: {mse_set}_{art}'))
                 shutil.copy(mse_set + '\\' + art, f'OUT.mse-set\\{mse_set}_{art}')
             continue
