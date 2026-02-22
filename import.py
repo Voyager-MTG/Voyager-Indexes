@@ -1,12 +1,17 @@
-import os, shutil
+import os, shutil, sys, requests
 
+clean: bool = '-clean' in sys.argv
+to_clean = sys.argv[2] if clean else None
 cards = []
 
-with open('list.txt', 'r') as f:
-    for line in f.readlines():
-        copies = int(line.split(' ')[0])
-        card = ' '.join(line.split(' ')[1:]).strip()
-        for i in range(copies): cards.append(card)
+if clean:
+    cards = requests.get(f'https://voyager-api-pq2h.onrender.com/stats/setcards?set={to_clean}').text.split('<br>')
+else:
+    with open('list.txt', 'r') as f:
+        for line in f.readlines():
+            copies = int(line.split(' ')[0])
+            card = ' '.join(line.split(' ')[1:]).strip()
+            for i in range(copies): cards.append(card)
 
 mse_cards = {}
 mse_arts = {}
@@ -27,6 +32,7 @@ def cleanCardName(name: str) -> str:
 
 for mse_set in os.listdir():
     if os.path.isfile(mse_set) or mse_set[-8:] != '.mse-set' or mse_set == 'LAIR.mse-set': continue
+    if clean and mse_set[:-8] != to_clean: continue
     print(mse_set + '...')
     for mse_card in os.listdir(mse_set):
         if mse_card[:4] != 'card': continue
