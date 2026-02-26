@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !addtoken GreenWurm;
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-07-21 02:34:20
+	time_modified: 2026-02-26 10:57:00
 	card_color: green
 	name: Crowned Entity
 	alias_2: 
@@ -20,7 +20,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		At the beginning of combat of each turn,  exile up to one target card from a graveyard. If you exiled a creature card this way, create a 1/1 green Wurm creature token with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
+		At the beginning of combat on each turn,  exile up to one target card from a graveyard. If you exiled a creature card this way, create a 1/1 green Wurm creature token with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
 		<kw-A><nospellcheck><key>Materialize <param-number>5</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>5</param-number> or more: This also becomes an Icon creature until your next turn.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 

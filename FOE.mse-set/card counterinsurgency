@@ -19,11 +19,11 @@ card:
 	rarity: uncommon
 	rule_text:
 		Choose one—
-		<li><bullet>• </bullet>This spell deals 3 damage to target creature or planeswalker.
+		<li><bullet>• </bullet>Counterinsurgency 3 damage to target creature or planeswalker.
 		</li><li><bullet>• </bullet>Discard up to two cards, then draw that many cards.</li>
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor><error-spelling:en_US>Kera</error-spelling:en_US> had <error-spelling:en_US>Zoslera</error-spelling:en_US> backed into a corner, and worse, she had an army of <error-spelling:en_US>clanless</error-spelling:en_US> behind her. <error-spelling:en_US>Zoslera</error-spelling:en_US>, in that moment, sparked.</i-flavor>
+	flavor_text: <i-flavor>Kera had Zoslera backed into a corner, and worse, she had an army of clanless behind her. Zoslera, in that moment, sparked.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Ilya Popov

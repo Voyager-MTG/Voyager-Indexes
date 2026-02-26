@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-11-23 20:32:31
+	time_modified: 2026-02-26 11:02:32
 	name: Basalt Hammer
 	name_2: Burning Fury
 	casting_cost: R
@@ -35,7 +35,7 @@ card:
 	rule_text:
 		Equipped creature gets +1/+0 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
 		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>
-	rule_text_2: <atom-name>This spell</atom-cardname> deals 1 damage to each creature you don’t control. <i-auto>(Then put this into your sanctum.)</i-auto>
+	rule_text_2: Burning Fury deals 1 damage to each creature you don’t control. <i-auto>(Then put this into your sanctum.)</i-auto></atom-cardname><atom-name>
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
