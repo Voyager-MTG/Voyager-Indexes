@@ -32,7 +32,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Liberate</key></nospellcheck> target artifact or enchantment.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Liberate</key></nospellcheck> target artifact or enchantment.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>R/G</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>Abiogenesis</nospellcheck></atom-cardname> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Wizard or Artificer you control dealt damage to an opponent.)</i-auto>
 	rule_text_2: 
 	rule_text_3: 

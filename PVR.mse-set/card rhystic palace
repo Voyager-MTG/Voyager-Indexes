@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, up to one target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-custom></kw-A>
 		<atom-cardname><nospellcheck>Rhystic Palace</nospellcheck></atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add one mana of any color.
 		<sym-auto>1</sym-auto>: Tap this permanent. Only your opponents may activate this ability and only once each turn.

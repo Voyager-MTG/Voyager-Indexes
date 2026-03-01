@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag Mordel;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2024-11-02 19:51:03
+	time_modified: 2026-03-01 10:01:01
 	name: Counterinsurgency
 	casting_cost: 1R
 	image: image336
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Choose one—
+		Choose one —
 		<li><bullet>• </bullet>This spell deals 3 damage to target creature or planeswalker.
 		</li><li><bullet>• </bullet>Discard up to two cards, then draw that many cards.</li>
 	rule_text_2: 

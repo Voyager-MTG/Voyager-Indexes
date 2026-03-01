@@ -7,9 +7,9 @@ card:
 		!designer Trewq
 		https://www.deviantart.com/eneyra/art/Experimental-sketch-1134781090
 	time_created: 2025-02-22 16:12:12
-	time_modified: 2025-11-23 12:32:01
+	time_modified: 2026-02-26 18:05:58
 	name: Sealed Deepborn
-	casting_cost: 1I
+	casting_cost: 2I
 	image: image59
 	image_2: 
 	mainframe_image: 
@@ -19,8 +19,8 @@ card:
 	rarity: uncommon
 	rule_text: Whenever one or more creature you control deal combat damage to a player, you may <kw-A><nospellcheck><key>liberate</key></nospellcheck> one of them.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 3
+	power: 2
+	toughness: 2
 	illustrator: Eneyra
 	card_code_text: • Designed By Trewq
 	card_code_text_2: Trewq

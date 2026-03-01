@@ -4,12 +4,19 @@ card:
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
+		other_options: vorthos box
 		additional_options: readable
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !addtoken Icon 2;
+	notes:
+		!taglairnumber> 9
+		!taglair> Challengers of Vinimroth
+		!addtoken Icon 2;
 	time_created: 2024-03-02 22:05:26
-	time_modified: 2026-01-14 23:01:40
+	time_modified: 2026-03-01 09:31:55
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: TVP
 	card_trim_plus: framed
 	name: Impunity of Souls
 	casting_cost: I/B
@@ -24,7 +31,7 @@ card:
 	flavor_text: <i-flavor>Death is an extant form of life.</i-flavor>
 	card_stamp: none
 	illustrator: Branden Singletary
-	custom_card_number: 
+	custom_card_number: 9 — 010 • Challengers of Vinimroth
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

@@ -1,9 +1,15 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: WHITERARE5
+	notes:
+		!taglairnumber> 7
+		!taglair> lost in cyberspace
+		WHITERARE5
 	time_created: 2021-11-26 02:48:22
-	time_modified: 2026-01-01 12:11:11
+	time_modified: 2026-03-01 09:24:41
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: Myr
 	card_trim: inverted
 	card_trim_plus: glitch
 	name: Font of Decadence
@@ -25,7 +31,7 @@ card:
 	power: 4
 	toughness: 4
 	illustrator: Scott Uminga
-	custom_card_number: 
+	custom_card_number: 7 — 001 • Lost in Cyberspace
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

@@ -16,10 +16,16 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: Prophellos Pathborn Hunger
+	notes:
+		!taglairnumber> 9
+		!taglair> Challengers of Vinimroth
+		Prophellos Pathborn Hunger
 	time_created: 2022-05-17 14:44:58
-	time_modified: 2026-01-14 23:25:09
-	card_trim: none 
+	time_modified: 2026-03-01 09:33:24
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: TVP
+	card_trim: inverted
 	card_trim_plus: framed
 	name: Prophellos, Pathborn Hunger
 	casting_cost: 5
@@ -38,7 +44,7 @@ card:
 	power: 5
 	toughness: 5
 	illustrator: Ari-Matti Toivonen
-	custom_card_number: 
+	custom_card_number: 9 — 015 • Challengers of Vinimroth
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

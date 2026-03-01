@@ -9,7 +9,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-02-05 10:01:53
-	time_modified: 2025-02-08 00:42:29
+	time_modified: 2026-03-01 10:11:50
 	name: Karaja, Heroic Trueblight
 	casting_cost: 2WU
 	image: image14.png
@@ -24,7 +24,7 @@ card:
 	loyalty_cost_4: -4
 	loyalty: 3
 	level_1_text: Exile a nonland permanent you own: Put two loyalty counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Karaja</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. Activate only once each turn as a sorcery.
-	level_2_text: <margin:130:0:0>Exile target card in a graveyard. Create a 1/1 black Serf creature token.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Exile target card from a graveyard. Create a 1/1 black Serf creature token.</margin:130:0:0>
 	level_3_text: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw two cards.</margin:130:0:0>
 	level_4_text: <margin:130:0:0>Exile target nonland permanent.</margin:130:0:0>
 	illustrator: Matt Hodorowski
@@ -36,6 +36,6 @@ card:
 	copyright_3: Apriken
 	special_text:
 		Exile a nonland permanent you own: Put two loyalty counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Karaja</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. Activate only once each turn as a sorcery.
-		[-1]: <margin:130:0:0>Exile target card in a graveyard. Create a 1/1 black Serf creature token.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Exile target card from a graveyard. Create a 1/1 black Serf creature token.</margin:130:0:0>
 		[-2]: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw two cards.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Exile target nonland permanent.</margin:130:0:0>

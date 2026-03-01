@@ -17,13 +17,17 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: 
+	notes:
+		!taglairnumber> 9
+		!taglair> Challengers of Vinimroth
+
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2026-01-14 23:29:26
+	time_modified: 2026-03-01 09:33:07
 	extra_data:
 		magic-m15-altered-plus:
+			vorthos_box: TVP
 			corner: sanctum
-	card_trim: none 
+	card_trim: inverted
 	card_trim_plus: framed
 	name: Pathborn Drake
 	casting_cost: 1U
@@ -52,7 +56,7 @@ card:
 	power: 2
 	toughness: 1
 	illustrator: Glad-Sad
-	custom_card_number: 
+	custom_card_number: 9 — 003 • Challengers of Vinimroth
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

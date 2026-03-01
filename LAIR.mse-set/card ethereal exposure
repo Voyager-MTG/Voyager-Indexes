@@ -17,9 +17,15 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: 
+	notes:
+		!taglairnumber> 9
+		!taglair> Challengers of Vinimroth
+
 	time_created: 2024-03-02 22:05:26
-	time_modified: 2026-01-14 23:31:44
+	time_modified: 2026-03-01 09:31:57
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: TVP
 	card_trim_plus: framed
 	name: Ethereal Exposure
 	casting_cost: 2I/W
@@ -35,7 +41,7 @@ card:
 		Draw a card.
 	flavor_text: <i-flavor>Its not just the <error-spelling:en_US>powerstones</error-spelling:en_US>.</i-flavor>
 	illustrator: Branden Singletary
-	custom_card_number: 
+	custom_card_number: 9 — 009 • Challengers of Vinimroth
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

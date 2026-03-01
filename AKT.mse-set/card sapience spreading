@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		<sym-auto>1G</sym-auto>: <kw-A><nospellcheck><key>Liberate</key></nospellcheck> target land you control. The token created this way enters tapped.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>1G</sym-auto>: <kw-A><nospellcheck><key>Liberate</key></nospellcheck> target land you control. The token created this way enters tapped.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-A>
 		Tap an untapped Dragon you control: Add one mana of any color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Timi Honkanen

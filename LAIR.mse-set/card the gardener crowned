@@ -11,11 +11,11 @@ card:
 		https://www.artstation.com/artwork/Kr8vY4
 		!ocean
 	time_created: 2024-08-01 15:06:56
-	time_modified: 2026-01-30 23:53:45
+	time_modified: 2026-03-01 09:21:46
 	extra_data:
 		magic-m15-altered-plus: vorthos_box: Trewq                 
 		magic-m15-mainframe-planeswalker:
-			vorthos_box: 
+			vorthos_box: Trewq
 	card_trim: legend, leveler
 	name: The Gardener, Crowned
 	casting_cost: 12

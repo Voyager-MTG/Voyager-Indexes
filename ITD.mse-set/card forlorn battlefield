@@ -1,7 +1,9 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: https://www.artstation.com/artwork/wJmb4O
+	notes:
+		!tapped
+		https://www.artstation.com/artwork/wJmb4O
 	time_created: 2024-10-15 15:52:03
 	time_modified: 2025-06-21 15:13:42
 	name: Forlorn Battlefield

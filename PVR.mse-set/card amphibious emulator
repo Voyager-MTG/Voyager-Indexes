@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-race-en>Frog</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, up to one target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever this permanent deals damage to a player or planeswalker, create a token that’s a copy of it, except the copy isn’t legendary if this permanent is legendary. This ability triggers only once each turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

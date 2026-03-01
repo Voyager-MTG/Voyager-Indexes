@@ -14,7 +14,7 @@ card:
 		!designer TVP
 		!related Robot Token;
 	time_created: 2023-03-21 10:24:18
-	time_modified: 2025-11-23 15:55:33
+	time_modified: 2026-03-01 10:12:08
 	alias_type: godzilla
 	name: Extant Surveyor
 	alias: Gradius 
@@ -32,7 +32,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever this creature deals combat damage to an opponent, put up to one target card in a graveyard into its owner’s sanctum. If it was an instant, sorcery, planeswalker, or battle card, create a 1/1 artifact Robot creature token.
+		Whenever this creature deals combat damage to an opponent, put up to one target card from a graveyard into its owner’s sanctum. If it was an instant, sorcery, planeswalker, or battle card, create a 1/1 artifact Robot creature token.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

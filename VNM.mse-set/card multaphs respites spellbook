@@ -45,7 +45,7 @@ card:
 		</soft-line>Create a 1/1 black and white Cat enchantment creature token.
 		<b>Warped Exploration</b> <sym>2</sym>| <u>Skill Sorcery</u><soft-line>
 		</soft-line><kw-A><nospellcheck><key>Trace <param-name>a basic land of any type into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
-		<b>Cut from Void</b> <sym>2U</sym>| <u>Skill Instant</u><soft-line>
+		<b>Cut from <kw-A><i-auto><nospellcheck><key>Void</b></key></nospellcheck></i-auto></kw-A> <sym>2U</sym>| <u>Skill Instant</u><soft-line>
 		</soft-line><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>, then draw a card.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>

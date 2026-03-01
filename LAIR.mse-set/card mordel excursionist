@@ -14,12 +14,17 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !tag fascism;
+	notes:
+		!taglairnumber> 9
+		!taglair> Challengers of Vinimroth
+
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2026-01-14 23:25:40
+	time_modified: 2026-03-01 09:32:36
 	extra_data:
 		magic-m15-altered-plus:
+			vorthos_box: TVP
 			corner: instant
+	card_trim: inverted
 	card_trim_plus: framed
 	card_color: red
 	name: Mordel Excursionist
@@ -55,7 +60,7 @@ card:
 	toughness: 1
 	card_stamp: none
 	illustrator: sheppardarts
-	custom_card_number: 
+	custom_card_number: 9 — 005 • Challengers of Vinimroth
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

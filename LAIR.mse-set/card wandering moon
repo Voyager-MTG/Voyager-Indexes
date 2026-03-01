@@ -3,9 +3,12 @@ card:
 	stylesheet: old
 	stylesheet_version: 2024-05-29
 	has_styling: false
-	notes: 
+	notes:
+		!taglairnumber> 8
+		!taglair> old frame
+
 	time_created: 2026-02-05 21:00:05
-	time_modified: 2026-02-05 21:01:32
+	time_modified: 2026-03-01 09:26:39
 	card_color: black
 	name: Wandering Moon
 	casting_cost: 4
@@ -27,7 +30,7 @@ card:
 	power: 5
 	toughness: 5
 	illustrator: Illus. Nick Keller
-	custom_card_number: 
+	custom_card_number: Trewq
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

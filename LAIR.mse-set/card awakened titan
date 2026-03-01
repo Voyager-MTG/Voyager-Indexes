@@ -1,9 +1,15 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: https://www.artstation.com/artwork/gRW0qE
+	notes:
+		!taglairnumber> 7
+		!taglair> lost in cyberspace
+		https://www.artstation.com/artwork/gRW0qE
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2026-01-01 12:19:56
+	time_modified: 2026-03-01 09:24:55
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: TVP
 	card_trim: inverted
 	card_trim_plus: glitch
 	name: Awakened Titan
@@ -32,7 +38,7 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: Scott Uminga
-	custom_card_number: 
+	custom_card_number: 7 — 003 • Lost in Cyberspace
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

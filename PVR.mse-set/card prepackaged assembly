@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: BLACKRARE11
 	time_created: 2021-10-10 04:09:00
-	time_modified: 2022-07-20 18:40:37
+	time_modified: 2026-03-01 09:52:00
 	card_color: black
 	name: Prepackaged Assembly
 	casting_cost: 3B
@@ -16,7 +16,7 @@ card:
 	rarity: rare
 	rule_text:
 		Return target creature card from your graveyard to the battlefield.
-		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>1BBB</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>1BBB</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>1BBBB</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Trevor Carlee
 	card_code_text: 

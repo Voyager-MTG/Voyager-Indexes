@@ -6,7 +6,10 @@ card:
 		!tagchampion> Aanginer
 		!tagis> champion
 	time_created: 2024-12-13 21:37:44
-	time_modified: 2026-01-30 23:25:01
+	time_modified: 2026-03-01 09:23:03
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: Wende
 	name: Lifelighter
 	casting_cost: 1W
 	image: image37.png

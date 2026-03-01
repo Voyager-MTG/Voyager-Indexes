@@ -1,7 +1,9 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: https://www.artstation.com/artwork/Ga6WYQ
+	notes:
+		!tapped
+		https://www.artstation.com/artwork/Ga6WYQ
 	time_created: 2024-10-15 15:49:54
 	time_modified: 2025-06-21 15:13:39
 	name: Embryonic Mound

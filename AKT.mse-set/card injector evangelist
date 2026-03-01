@@ -1,6 +1,14 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 4
+		frames: 
+		font_cap: 13.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes:
 		BLACKUNCOMMON
 		ADVISORTYPE
@@ -19,7 +27,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever <atom-cardname><nospellcheck>Injector Evangelist</nospellcheck></atom-cardname> attacks, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
-		When <atom-cardname><nospellcheck>Injector Evangelist</nospellcheck></atom-cardname> leaves the battlefield, <kw-1><nospellcheck><key>liberate</key></nospellcheck> another target creature card in your graveyard with mana value 4 or less.<atom-reminder-action> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-action></kw-1>
+		When <atom-cardname><nospellcheck>Injector Evangelist</nospellcheck></atom-cardname> leaves the battlefield, <kw-1><nospellcheck><key>liberate</key></nospellcheck> another target creature card in your graveyard with mana value 4 or less.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 4

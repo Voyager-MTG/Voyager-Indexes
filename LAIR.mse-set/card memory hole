@@ -8,7 +8,10 @@ card:
 		!tagchampion> hervor
 		!tagis> champion
 	time_created: 2021-10-10 03:07:08
-	time_modified: 2026-01-30 23:27:26
+	time_modified: 2026-03-01 09:23:01
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: Myr
 	name: Memory Hole
 	casting_cost: UU
 	image: image26.png

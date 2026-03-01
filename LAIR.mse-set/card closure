@@ -4,12 +4,14 @@ card:
 	stylesheet_version: 2024-05-29
 	has_styling: false
 	notes:
+		!taglairnumber> 8
+		!taglair> old frame
 		!tag Dewold
 		!tag Waldemar
 		!tag Planeswalker
 		!tag HODStory
 	time_created: 2025-02-24 00:42:28
-	time_modified: 2026-02-05 20:31:00
+	time_modified: 2026-03-01 09:26:24
 	card_color: black
 	name: Closure
 	casting_cost: 1BBB
@@ -31,7 +33,7 @@ card:
 		If it’s your turn, end the turn. <i-auto>(Exile all spells and abilities from the stack. The player whose turn it is discards down to their maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Illus. AriaSterence39
-	custom_card_number: 
+	custom_card_number: Zangy
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

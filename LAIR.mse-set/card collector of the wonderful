@@ -1,9 +1,15 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: https://www.deviantart.com/lileti/art/Fox-Merchant-Character-design-challenge-882694479
+	notes:
+		!taglairnumber> 5
+		!taglair> top cards II
+		https://www.deviantart.com/lileti/art/Fox-Merchant-Character-design-challenge-882694479
 	time_created: 2025-01-04 18:02:31
-	time_modified: 2026-02-11 19:46:19
+	time_modified: 2026-03-01 09:22:04
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: Wende
 	card_trim: special guest, inverted
 	name: Collector of the Wonderful
 	casting_cost: 1R
@@ -22,7 +28,7 @@ card:
 	toughness: 2
 	card_stamp: heart
 	illustrator: lileti
-	custom_card_number: 5 — 003 • Top Cards II
+	custom_card_number: 6 — 003 • Top Cards II
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

@@ -5,7 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4
-		chop_bottom: 13
+		chop_bottom: 10
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -13,7 +13,7 @@ card:
 		!tag Dewold
 		!tag Phyre
 	time_created: 2025-02-24 00:41:59
-	time_modified: 2025-04-09 22:49:15
+	time_modified: 2026-02-25 12:59:43
 	name: Ardleby Gatekeeper
 	casting_cost: 2R
 	image: image448
@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever you attack, target attacking creature gets +1/+0 until end of turn. Create a token that’s a copy it <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Whenever you attack, another target attacking creature gets +1/+0 until end of turn. Create a token that’s a copy it <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>The empty throne of House <error-spelling:en_US>Phyre</error-spelling:en_US> tempts many would be aspiring nobility. None have succeeded.</i-flavor>
 	power: 2
 	toughness: 3

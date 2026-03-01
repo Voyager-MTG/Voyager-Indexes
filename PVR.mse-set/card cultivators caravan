@@ -5,15 +5,21 @@ card:
 		!tag CanonReprint
 		COLOURLESSUNCOMMON
 	time_created: 2022-04-01 19:37:35
-	time_modified: 2022-06-12 05:38:19
+	time_modified: 2026-03-01 10:16:22
 	name: Cultivator’s Caravan
 	casting_cost: 3
 	image: image306
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Vehicle</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add one mana of any color.

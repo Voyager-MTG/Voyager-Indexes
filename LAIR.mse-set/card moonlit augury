@@ -3,9 +3,12 @@ card:
 	stylesheet: old
 	stylesheet_version: 2024-05-29
 	has_styling: false
-	notes: 
+	notes:
+		!taglairnumber> 8
+		!taglair> old frame
+
 	time_created: 2023-06-24 17:15:57
-	time_modified: 2026-02-07 16:15:05
+	time_modified: 2026-03-01 09:25:40
 	name: Moonlit Augury
 	casting_cost: 1U
 	image: image61.png
@@ -28,7 +31,7 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Illus. BreezyBreeArt
 	custom_card_number: 
-	card_code_text: 
+	card_code_text: Kogane
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Kogane

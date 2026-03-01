@@ -4,11 +4,13 @@ card:
 	stylesheet_version: 2024-05-29
 	has_styling: false
 	notes:
+		!taglairnumber> 8
+		!taglair> old frame
 		REDUNCOMMON
 		INCARNATIONTYPE
 		WIZARDTYPE
 	time_created: 2023-09-07 23:42:37
-	time_modified: 2026-02-05 20:26:17
+	time_modified: 2026-03-01 09:26:20
 	card_color: red
 	name: Melting Pot
 	casting_cost: 2R
@@ -29,7 +31,7 @@ card:
 	power: 4
 	toughness: 2
 	illustrator: Illus. Rochaku
-	custom_card_number: 
+	custom_card_number: Myr
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

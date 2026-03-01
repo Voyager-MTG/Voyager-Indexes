@@ -3,9 +3,12 @@ card:
 	stylesheet: old
 	stylesheet_version: 2024-05-29
 	has_styling: false
-	notes: 
+	notes:
+		!taglairnumber> 8
+		!taglair> old frame
+
 	time_created: 2026-02-05 22:18:09
-	time_modified: 2026-02-05 22:18:58
+	time_modified: 2026-03-01 09:26:57
 	name: Mental Unmooring
 	casting_cost: 2U
 	image: image48.png
@@ -23,7 +26,7 @@ card:
 		<kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Illus. misbellgraphix
-	custom_card_number: 
+	custom_card_number: Wende
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

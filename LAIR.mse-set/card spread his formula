@@ -3,9 +3,12 @@ card:
 	stylesheet: old
 	stylesheet_version: 2024-05-29
 	has_styling: false
-	notes: 
+	notes:
+		!taglairnumber> 8
+		!taglair> old frame
+
 	time_created: 2026-02-05 23:48:33
-	time_modified: 2026-02-05 23:49:16
+	time_modified: 2026-03-01 09:27:41
 	name: Spread His Formula
 	casting_cost: U
 	image: image73.png
@@ -23,7 +26,7 @@ card:
 		The next time target creature deals damage to an opponent this turn, you draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Illus. Borda
-	custom_card_number: 
+	custom_card_number: Myr
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

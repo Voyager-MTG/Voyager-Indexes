@@ -1,7 +1,9 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: https://www.deviantart.com/vookasheen/art/Swamp-Creatures-602183184
+	notes:
+		!tapped
+		https://www.deviantart.com/vookasheen/art/Swamp-Creatures-602183184
 	time_created: 2024-10-15 16:15:57
 	time_modified: 2025-06-21 15:13:45
 	name: Living Bog

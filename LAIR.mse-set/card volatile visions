@@ -4,12 +4,19 @@ card:
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
+		other_options: vorthos box
 		additional_options: readable
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !addtoken RedWurm;
+	notes:
+		!taglairnumber> 9
+		!taglair> Challengers of Vinimroth
+		!addtoken RedWurm;
 	time_created: 2024-03-02 22:05:26
-	time_modified: 2026-01-14 23:13:41
+	time_modified: 2026-03-01 09:31:58
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: TVP
 	card_trim_plus: framed
 	name: Volatile Visions
 	casting_cost: 1I/R
@@ -26,7 +33,7 @@ card:
 	flavor_text: <i-flavor>New realities open new possibilities.</i-flavor>
 	card_stamp: none
 	illustrator: Yury Solntsev
-	custom_card_number: 
+	custom_card_number: 9 — 013 • Challengers of Vinimroth
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
