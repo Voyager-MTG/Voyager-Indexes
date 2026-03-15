@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		other_options: prerelease stamp
+		inverted_common_symbol: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: 
+	time_created: 2024-12-14 19:24:27
+	time_modified: 2026-03-11 02:05:48
+	extra_data:
+		magic-m15-altered-plus:
+			promo_label: RX-79[G] Gundam Ground Type
+	name: Condensed Memory
+	casting_cost: 2
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Exile two cards from your graveyard: Put two +1/+1 counters on <atom-cardname><nospellcheck>Condensed Memory</nospellcheck></atom-cardname>. If it isn’t a creature, becomes a 0/0 Wonder artifact creature that’s all colors.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sunrise
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

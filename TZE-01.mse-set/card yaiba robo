@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		other_options: prerelease stamp
+		use_holofoil_stamps: no
+		inverted_common_symbol: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: !designer TVP
+	time_created: 2024-02-27 23:55:10
+	time_modified: 2026-03-11 01:43:50
+	extra_data:
+		magic-m15-altered-plus:
+			promo_label: Magella Attack Tank
+	name: Yaiba Robo
+	alias: 
+	casting_cost: 3I
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Robot</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	chapter_text: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Yaiba</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Robo</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+	rule_text:
+		<kw-A><nospellcheck><key>Restructure <param-cost><sym>I</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(If you cast this for its restructure cost, it’s a kindred artifact until you pay its mana cost as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of combat on your turn, up to one target creature gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Illustration World II • Sunrise
+	card_code_text: • Designed by TVP
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: YGO2MTG project by TVP
+	copyright_2: YGO2MTG project by TVP
+	copyright_3: YGO2MTG project by TVP

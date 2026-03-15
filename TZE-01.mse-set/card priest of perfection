@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		https://www.artstation.com/artwork/mqwZlZ<soft-line>
+		!spellbook I7;1</soft-line>
+	time_created: 2024-08-21 14:53:08
+	time_modified: 2025-11-22 00:21:17
+	name: Priest of Perfection
+	casting_cost: 1UR
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cleric</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Whenever you spend five or more mana to cast a spell, draw a card.
+		<kw-A><nospellcheck><key>Iterate</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>“I need no sleep and consume no sustenance, but yet I dream and I hunger.”</i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: esuthio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

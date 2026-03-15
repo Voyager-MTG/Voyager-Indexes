@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !porthole
+	time_created: 2026-03-10 09:12:12
+	time_modified: 2026-03-10 19:02:17
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: Trewq
+	name: Beseech the Divine
+	casting_cost: 2WW
+	image: image77.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: masterpiece
+	rule_text:
+		Destroy all creatures.
+		Destroy all artifacts and enchantments with impending.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jan Massijs
+	custom_card_number: GP Eta — Kogane
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

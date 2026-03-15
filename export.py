@@ -4,16 +4,14 @@ include_sets = [
     "AKT",
     "EXPT",
     "FOE",
-    # "HEL",
     "HOD",
     "LAIR",
-    # "LOB",
     "ITD",
     "PTN",
     "PVR",
-    # "VGR",
     "VNM",
     "WAW",
+    "TZE-01",
     "END"
 ]
 

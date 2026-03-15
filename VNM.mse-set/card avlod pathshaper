@@ -5,7 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: -2
-		chop_bottom: -5
+		chop_bottom: 8
 		hybrid_name: grey
 		d20_dividers: d20 mode
 		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
@@ -18,7 +18,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !tag avlod;
 	time_created: 2022-05-26 21:49:52
+<<<<<<< HEAD
 	time_modified: 2026-03-01 10:03:30
+=======
+	time_modified: 2026-02-26 10:59:49
+>>>>>>> bb6ed6d4398978c2faec3fda231d2a2f141aebae
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -37,7 +41,11 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+<<<<<<< HEAD
 		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — At the beginning of combat, this creature gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and can attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> as long as you cast a noncreature spell this turn.
+=======
+		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — This creature has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and can attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> as long as you cast a noncreature spell this turn.
+>>>>>>> bb6ed6d4398978c2faec3fda231d2a2f141aebae
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

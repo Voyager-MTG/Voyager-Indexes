@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		hybrid_name: hybrid
+		d20_dividers: all breaks +2
+		other_options: prerelease stamp
+		font_cap: 13.5
+		use_holofoil_stamps: no
+		inverted_common_symbol: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: Preview
+	time_created: 2021-04-25 03:20:55
+	time_modified: 2026-03-11 01:57:18
+	extra_data:
+		magic-m15-altered-plus:
+			corner: instant
+			promo_label: Medea
+	name: Wings of New Horizons
+	casting_cost: 1
+	image: image15
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		When <atom-cardname><nospellcheck>Wings of New Horizons</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>trace its</key></nospellcheck> skill into your hand.<atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		Equipped creature gets +1/+1 and has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0>
+		<b>Warped Exploration</b> <sym>2</sym>|<i> </i><u>Skill Sorcery</u><soft-line>
+		Trace a basic land of any type into your hand.</soft-line>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Marc Simonetti
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

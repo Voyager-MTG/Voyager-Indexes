@@ -1,0 +1,138 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
+set_info:
+	title: Zeta
+	description: !designer Voyager
+	set_code: TZE-01
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: 
+	inverted_common_symbol: yes
+	custom_mana_symbol_name: MyrCustoms/Vertex.png
+	mana_symbol_options: enable in casting costs, enable in text boxes, colored mana symbols
+styling:
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-altered-plus:
+		additional_options: 
+		inverted_common_symbol: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	magic-m15-mainframe-dfc:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		frames: M20
+		other_options: prerelease stamp
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+include_file: card apocalypse engine
+include_file: card armament of armageddon
+include_file: card imperial excommunicator
+include_file: card explorers compass
+include_file: card collapsed chaos
+include_file: card heirloom of the obsolete
+include_file: card hulking vessel
+include_file: card scout
+include_file: card scout.1
+include_file: card envoy of debauchery
+include_file: card catechesis engine
+include_file: card ecocidal tracker
+include_file: card recovered guardian
+include_file: card refraction mech
+include_file: card ancient forerunner
+include_file: card asset manager
+include_file: card human
+include_file: card marblewrought titan
+include_file: card awakened titan
+include_file: card awakened marauder
+include_file: card cadix the raze-rager
+include_file: card ancient activator
+include_file: card fractal horror
+include_file: card ancient viewdrifter
+include_file: card white base
+include_file: card condensed memory
+include_file: card dreadship vessel
+include_file: card yaiba robo
+include_file: card wings of new horizons
+include_file: card towering protector
+include_file: card disregarded project
+include_file: card ego eroder
+include_file: card extravagent airship
+include_file: card giants blade
+include_file: card covert cloak
+include_file: card cleric
+include_file: card god horror
+include_file: card crystalline cover
+include_file: card flaming iron
+include_file: card messenger of absent messages
+include_file: card obsolete sentinel
+include_file: card soul taker
+include_file: card mechanised hunter
+include_file: card mechanised hunter.1
+include_file: card new-life acolyte
+include_file: card aspect of logic
+include_file: card cloudscape observer
+include_file: card corpse-shell container
+include_file: card cryptic columns
+include_file: card culture collector
+include_file: card curious observer
+include_file: card decrepid terraformer
+include_file: card deepmind oracle
+include_file: card emergent anomaly
+include_file: card endless distortion line
+include_file: card erys memoirs
+include_file: card eteres chronicler
+include_file: card extant surveyor
+include_file: card extraplanar portal
+include_file: card firmament sculptor
+include_file: card firmament-rending blade
+include_file: card flesh centrifuge
+include_file: card font of decadence
+include_file: card foreboding monolith
+include_file: card fracture of divinity
+include_file: card hazard technician
+include_file: card hierarch of expiration
+include_file: card hierarch of exultation
+include_file: card idol of forgotten gods
+include_file: card idol of reconstruction
+include_file: card important parcel
+include_file: card infested fortress
+include_file: card liferoot gnawer
+include_file: card longlegs
+include_file: card malevolent naginata
+include_file: card matryoshka crawler
+include_file: card meso meso
+include_file: card monument of rags
+include_file: card oblivion zealot
+include_file: card pot of wishes
+include_file: card priest of perfection
+include_file: card prismatic powerstone
+include_file: card prophetic prism
+include_file: card realmshaper
+include_file: card rustic cultivator
+include_file: card sacred avenger
+include_file: card sample skimmer
+include_file: card self-intersector
+include_file: card serrated angel
+include_file: card somnonaut drone
+include_file: card sorting servant
+include_file: card spire of rebirth
+include_file: card stinging surveyor
+include_file: card syphroid
+include_file: card thoughtglass whip
+include_file: card throat of remnants
+keyword:
+	keyword: Trace
+	match: trace its
+	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 

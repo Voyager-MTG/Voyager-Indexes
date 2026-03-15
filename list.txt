@@ -1,88 +1,325 @@
-1 Ancient Activator
-1 Ancient Forerunner
-1 Ancient Viewdrifter
-1 Apocalypse Engine
-1 Armament of Armageddon
-1 Aspect of Logic
-1 Asset Manager
-1 Awakened Marauder
-1 Awakened Titan
-1 Cadix, the Raze-Rager
-1 Catechesis Engine
-1 Cloudscape Observer
-1 Collapsed Chaos
-1 Condensed Memory
-1 Corpse-Shell Container
-1 Covert Cloak
-1 Cryptic Columns
-1 Crystalline Cover
-1 Culture Collector
-1 Curious Observer
-1 Decrepid Terraformer
-1 Deepmind Oracle
-1 Disregarded Project
-1 Dreadship Vessel
-1 Ecocidal Tracker
-1 Ego Eroder
-1 Emergent Anomaly
-1 Endless Distortion Line
-1 Envoy of Debauchery
-1 Erys' Memoirs
-1 Eteres' Chronicler
-1 Explorer's Compass
-1 Extant Surveyor
-1 Extraplanar Portal
-1 Extravagent Airship
-1 Firmament Sculptor
-1 Firmament-Rending Blade
-1 Flaming Iron
-1 Flesh Centrifuge
-1 Font of Decadence
-1 Foreboding Monolith
-1 Fracture of Divinity
-1 Giant's Blade
-1 Hazard Technician
-1 Heirloom of the Obsolete
-1 Hierarch of Expiration
-1 Hierarch of Exultation
-1 Hulking Vessel
-1 Idol of Forgotten Gods
-1 Idol of Reconstruction
-1 Imperial Excommunicator
-1 Important Parcel
-1 Infested Fortress
-1 Liferoot Gnawer
-1 Longlegs
-1 Malevolent Naginata
-1 Marblewrought Titan
-1 Matryoshka Crawler
-1 Mechanised Hunter
-1 Meso Meso
-1 Messenger of Absent Messages
-1 Monument of Rags
-1 New-Life Acolyte
-1 Oblivion Zealot
-1 Obsolete Sentinel
-1 Pot of Wishes
-1 Priest of Perfection
-1 Prismatic Powerstone
-1 Prophetic Prism
-1 Realmshaper
-1 Recovered Guardian
-1 Refraction Mech
-1 Rustic Cultivator
-1 Sacred Avenger
-1 Sample Skimmer
-1 Self-Intersector
-1 Serrated Angel
-1 Somnonaut Drone
-1 Sorting Servant
-1 Soul Taker
-1 Spire of Rebirth
-1 Stinging Surveyor
-1 Syphroid
-1 Thoughtglass Whip
-1 Throat of Remnants
-1 Towering Protector
-1 Wings of New Horizons
-1 Yaiba Robo
+Gift of Wilderness
+Disregarded Project
+Epoch Ending
+Gathering Olorosaurs
+Heirloom of the Obsolete
+Abstraction Peeler
+Recovered Guardian
+Prophetic Prism
+Height Map
+Anivir, Forgotten Savior
+Extruded Skyscraper
+Nilshroud Absorption
+Awakened Marauder
+Prepackaged Assembly
+Sun Pouncer
+Tatu-Peba
+Graceful Coelurosaur
+Downscaled Matrongon
+Harsurfir Scavenger
+Hellish Inferngon
+Swiftfoot Striker
+Maeverano Herdmate
+Stonehewn Colossus
+Coordinated Hunt
+Spoils of Scarcity
+Nilshroud Conflagration
+Overharvest
+Into the Mines
+Tragedy of the Commons
+Render Flesh
+Bevelled Cliffs
+Cubic Flames
+Tesseractapillar
+Charging Argosaur
+Lush Stamengon
+Humongous Detritivore
+Herald of the Restored Age
+Apex of Antiquity
+Crude Onslaught
+Primal Power
+Dawngon Infusion
+Burrow Deep
+Overlaid Bridge
+Plummeting Smash
+Mesh Rot
+Specular Shack
+Virgin Media
+Laggymorph
+Polystone Quarry
+Blazefoxes of Moz
+Sunbound Swarm
+Overclocked Dragon
+Geometric Singularity
+Mana Void
+Emerging Wildlife
+Elder Gigantops
+Stampeding Goliath
+Territorial Primarch
+Slipstream Enigma
+Armament of Armageddon
+Escape the Nilshroud
+Sacred Signs
+Felygon Sentinel
+Parallaxadaisical Dengon
+Orchard Vixen
+The Downscaling
+Vertex Reminder
+Font of Decadence
+Prawth, Planar Decimator
+Cache Dredger
+Horizon Collector
+A Populated World
+Imperial Excommunicator
+Revitalised Cryptid
+Stick Retriever
+Nilshroud Predator
+Urwrapir Matriarch
+Uverngon's Messenger
+Rastira Depths Trawler
+Extinct Rebel
+Slumbering Dreadblade
+Nightmarish Terrain
+Savage Pike
+Prawth's Research Station
+Symmetric Construction
+Defragment
+Obsolete Renaissance
+Burn Barren
+Settle Inhospitable Lands
+Urwrapir Explorations
+Friend Collector
+Witness of the Obsolete
+Asset Manager
+Chronicler of the Obsolete
+Consecrated Farmland
+Tainted Bureaucrat
+Desperate Pathfinding
+Ecocidal Tracker
+Energy Tax
+Felygon Scientist
+Harsh Sentence
+Hierarchic Extortion
+Erfex Cartographer
+Quintarchal Bodyguard
+Shelter from the Elements
+Harsurfir Ferrier
+Trapped in the Nilshroud
+Warden of Inefficiencies
+Saturated Savannah
+Memory Hole
+Occluded Bog
+Delete
+Kinematic Constrictor
+Nocturngon Infusion
+Sentence to Oblivion
+Backface Culling
+Bleak Return
+Bog Snapper
+Conscripted Serpengon
+Ngonification
+Witness to Nil
+Despawn
+Nilshroud Mulcher
+Soul Taker
+Rastira Scavenger
+Planetary Harvester
+Defiled Revengon
+Feasting Ruingon
+Uverngon, Quintarch Usurper
+Nurbs' Familiar
+Boundary Break
+Draw Distance
+Waypoint of Nil
+Erfex Cemetery
+Rasteriser
+Recursive Steppe
+Felygon Reclaimer
+Dread Discovery
+Apocalypse Engine
+Anivir's Warning
+Null Terminator
+Normal Mapper
+Irticull's Crypt
+Nilshroud Storm
+Erfex Summons
+Boolean Lake
+Obfuscated Pier
+Origin Point
+Garden of Nurbs
+Island
+Mountain
+Swamp
+Forest
+Wrecking Rover
+Burning Devastatasaur
+Harsurfir's Folly
+Colossal Giraffosaurs
+Terror of Harsurfir
+Spawn Volcano
+Chromatic Channel
+Heart of Harsurfir
+Leaping Carnosaur
+Subsurface Spawning
+Excessive Decadence
+Resplendent Dawn
+Senescence Vessel
+Prefabricated Pryntir
+Erfex Regenerator
+Guardian of Erfex Fens
+Asset Export
+Edravir, Last of the Obsolete
+Melodic Unwrapper
+Geometry Nodes
+Urwrapir Looters
+Sparrow Spires
+Mirrortusk
+Rastira Trawler
+Rastira Reconstructor
+Productive Throng
+Malevolent Beseecher
+Erfex Revenant
+Hierarch of Expiration
+Hatebloom Titangon
+Ego Eroder
+Cruel Condor
+Oblivion Zealot
+Pattern Processing
+Erfex, Rotting Realm
+Rastira, the World Moat
+Harsurfir, Godly Quarry
+Urwrapir, Restored Wilderness
+Domination Center
+Advocate of Heresy
+Nilshroud Traversal
+Catechesis Engine
+Hierarch of Exultation
+Serrated Angel
+Scavenged Technology
+Tithing Protocol
+Erfex Reclaimer
+Felygon, Utopian Sprawl
+Maturing Ankylosaur
+Urwrapir Warden
+Sifter Wurm
+Lost in Geometry
+Self-Intersector
+Self-Assembling Phoenix
+Render Time
+Reject Input
+Shoal Summoner
+Withered Scorngon
+Cruelean's Enforcer
+Empty Scene
+Cultivator's Caravan
+Pot of Wishes
+Boundless Ocean
+Buffer Zone
+Extrude Wisdom
+Manaqueduct
+Migrating Songon
+Packet Loss
+Hyperbolic Jumper
+Raving Crab
+Urwrapir Ambusher
+Seafloor Scrounger
+Security Breach
+Obsolete Sentinel
+Squid Squad
+Nurbs' Collector
+Overfisher
+Mesh Warper
+Rastira Fiend
+Tidal Drift
+Submerged Titangill
+Procedural Generation
+Pool of Becoming
+Unlock the Quarternion
+Turbulence Algorithm
+Nurbs, the Wild King
+Kinema, Queen Eternal
+Cruelean, Ruler of None
+Abandonmare
+Skirweigh, Abyssal Tsar
+Systems Collapse
+Middleware Distributor
+Quintarchs' Decree
+Quintarchal Pariah
+Irticull's Vanguard
+Ecocide
+Edravir's Lynchpin
+Urban Majesty
+Lord of the World Moat
+Amphibious Emulator
+Luddite Infiltrator
+Abstraction Breaker
+Flesh Centrifuge
+Thassaraptor
+Harsurfir Overseer
+Levy Paths
+Usurp the Quintarchy
+Into Primal Archives
+Optimise
+Marching Cubes
+Rastira Mauler
+Irticull, Shadow Sultan
+Graphical Fidelity
+Plains
+Tyrannoscorpius Rex
+Bitrot, Nilshroud Parasite
+The Metaball
+Fertile Progengon
+Deified Dicraeosaur
+Prawth's Ultimatum
+Backwards Companion
+Novel Perspectives
+Felygon Skyswarm
+Dynotopic Stampede
+Cadix, the Raze-Rager
+Quintarchal Ascension
+Calf of the Restored Age
+Buffer Overflow
+Duplicate Specialty
+Corrupted Protocol
+Discover the Obsolete
+Suffocating Pollution
+Paleoartistic Masterpiece
+Rogue Process
+Rhystic Palace
+Ancient Activator
+Deprecated Dump
+Conquex, Broken Mandate
+Hallway Thomasson
+Nilshroud Apex
+Guzzle Giblets
+Deprecated Harvest
+Albedo Arbalest
+Occult Occlusion
+Metallic Mirage
+Roughness Rails
+Subsurface Scattering
+Voracious Mollusk
+Flagstones of the Broken Age
+Memory Spike
+Nilshroud Mockery
+Grim Tutor
+Crashing Rot
+Rapid Terraforming
+Relentless Consumption
+Friends Unfettered
+Shard of Conquex
+Prefabrication
+Ray Tracing
+Bird
+Treasure
+Dinosaur
+Fractal Horror
+Fractal Reflection
+Horror
+Human
+Nilvoid
+Tromping Iguanodon
+Perpetual Cycle
+Sudden Emergence
+Envoy of Debauchery
+Eons of Ancestry
