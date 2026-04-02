@@ -238,7 +238,6 @@ include_file: card mourncast disciple
 include_file: card remnants of the war
 include_file: card monument to forever
 include_file: card kilnhart smoghorn
-include_file: card no-name
 include_file: card drakesteel effigy
 include_file: card clerics claymore
 include_file: card crystalline refraction
@@ -460,7 +459,7 @@ include_file: card a flock is born
 include_file: card branching paths
 include_file: card meso meso
 include_file: card defector of mordel
-include_file: card jothi token
+include_file: card jothi.1
 include_file: card exhuberant genesis
 include_file: card emergent parasitism
 include_file: card mordel peacekeeper
@@ -475,7 +474,7 @@ include_file: card personal sins
 include_file: card bone salesman
 include_file: card mordel charm
 include_file: card fadove charm
-include_file: card no-name.1
+include_file: card no-name
 include_file: card fossil laundering
 include_file: card continuity gap
 include_file: card market negotiator

@@ -3,7 +3,9 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: !related Vestige Prowler;Meirel Evacuator;Branching Paths;Captivate;
+	notes:
+		!related Vestige Prowler;Meirel Evacuator;Branching Paths;Captivate;
+		!token
 	time_created: 2023-07-20 22:44:33
 	time_modified: 2025-08-29 18:47:44
 	card_trim: frameless art, token

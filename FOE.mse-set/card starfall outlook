@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2024-10-14 22:40:31
+	time_modified: 2026-04-01 17:39:26
 	extra_data:
 		magic-m15-altered-plus:
 			smallbox_text: 
@@ -35,7 +35,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever you cast an enchantment spell, draw a card from your library or sanctum.
+		Whenever you cast an enchantment spell, draw a card from your library or from your sanctum at random.
 		<kw-A><nospellcheck><key><param-one_word>Frontier</param-one_word>cycling <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck><atom-reminder-action> <i-auto>(<param-cost><sym-auto>1</sym-auto></param-cost>, Discard this card: Search your library for a <param-one_word>Frontier</param-one_word> card, reveal it, put it into your hand, then shuffle.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
