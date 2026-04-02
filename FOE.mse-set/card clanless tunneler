@@ -14,7 +14,8 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
-		!tag clanless;
+		!tag clanless
+		!noscript
 		watch during testing
 		
 		FT: After the collapse of the cities of Uth and Multa, many chose to live in the outlands as clanless refugees to avoid conflict.

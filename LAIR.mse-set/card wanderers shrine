@@ -7,7 +7,7 @@ card:
 		!taglair> top cards I
 		!designer Wende
 	time_created: 2024-12-14 19:24:27
-	time_modified: 2025-08-31 19:26:08
+	time_modified: 2026-04-01 16:52:24
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: Wende
@@ -25,7 +25,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: mythic rare
-	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wanderer’s Shrine</nospellcheck></atom-cardname>: Put a basic land card you own from your sanctum onto the battlefield.
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wanderer’s Shrine</nospellcheck></atom-cardname>: Put a basic land card from your sanctum onto the battlefield.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

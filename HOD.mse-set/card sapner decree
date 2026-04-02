@@ -5,6 +5,8 @@ card:
 		!tag Dewold
 		!tag Sapner
 		Tricolor
+		!tokens Destroyed-Knight;
+		!noscript
 	time_created: 2025-02-24 00:28:39
 	time_modified: 2025-03-05 16:41:37
 	card_color: white, black, green, multicolor, horizontal

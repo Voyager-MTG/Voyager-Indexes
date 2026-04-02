@@ -5,6 +5,7 @@ card:
 		!tag Dewold
 		!tag Terrel
 		Tricolor
+		!tokens Scout2>;
 	time_created: 2025-02-24 00:28:39
 	time_modified: 2025-03-03 20:15:06
 	card_color: white, blue, red, multicolor, horizontal

@@ -16,7 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a creature or exile three creature cards from your graveyard.
-		Draw a card, then <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		Draw a card, then <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jospeph Feely
 	card_code_text: 

@@ -160,9 +160,6 @@ include_file: card drake
 include_file: card fox
 include_file: card elemental
 include_file: card elemental.1
-include_file: card dragon eye
-include_file: card orb wizard
-include_file: card treasure
 include_file: card sanctuary of nectars
 include_file: card sanctuary of resonance
 include_file: card sanctuary of moonlight
@@ -206,6 +203,7 @@ include_file: card stronghold of silence
 include_file: card tower of ambition
 include_file: card omnigenius vessel
 include_file: card exposed tower
+include_file: card horror.1
 keyword:
 	keyword: Mirror
 	match: mirror
@@ -226,12 +224,6 @@ keyword:
 	reminder: If you control four or more permanents of a color, illuminate that color this game.
 	rules: Luminous — If you control {n} or more other {other} permanents 
 	mode: action
-keyword:
-	keyword: Pathbound
-	match: Pathbound—<atom-param>cost</atom-param>
-	reminder: As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.
-	rules: 
-	mode: custom
 keyword:
 	keyword: Draft
 	match: Draft a card from your <atom-param>one_word</atom-param>

@@ -11,7 +11,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer Aanginer
 	time_created: 2025-02-22 22:33:13
-	time_modified: 2025-03-30 16:35:04
+	time_modified: 2026-03-26 20:16:32
 	name: Iridescent Summit
 	casting_cost: 1II
 	image: image96
@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text: At the beginning of your end step, you may exile target card from your graveyard with mana value 4 or greater. If you do, create a trace of that card into your hand.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym>1II</sym>. Activate only if you have no cards in your graveyard with mana value 2 or </sym>3<sym></param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound <param-cost><sym>1II</sym></param-cost></key></nospellcheck>. Activate only if you have no cards in your graveyard with mana value 2 or </sym>3<sym>.<atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1II</sym-auto></param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
 	illustrator: Avls
 	card_code_text: • Designed by Aanginer
 	card_code_text_2: Aanginer

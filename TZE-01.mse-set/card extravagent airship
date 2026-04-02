@@ -11,7 +11,7 @@ card:
 		!tag Dewold
 		!tag Radcliff
 	time_created: 2025-02-24 00:35:32
-	time_modified: 2026-03-11 04:22:40
+	time_modified: 2026-04-01 16:56:42
 	extra_data:
 		magic-m15-altered-plus:
 			promo_label: SCV-70 White Base
@@ -36,7 +36,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
-	illustrator: Sunrise
+	illustrator: Kunio Okawara
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

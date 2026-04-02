@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-cardname><nospellcheck>Geometric Singularity</nospellcheck></atom-cardname> deals X damage to any target.
-		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>XR</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>XR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>XR</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Rafal Urbanski
 	card_code_text: 

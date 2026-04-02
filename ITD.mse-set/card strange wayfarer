@@ -1,7 +1,9 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: https://www.deviantart.com/sebastianmonpainting/art/Stationary-Traveller-II-131-1109729216
+	notes:
+		https://www.deviantart.com/sebastianmonpainting/art/Stationary-Traveller-II-131-1109729216
+		!noscript
 	time_created: 2024-10-17 19:11:42
 	time_modified: 2024-10-29 20:31:14
 	name: Strange Wayfarer

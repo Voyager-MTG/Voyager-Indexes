@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-02-14 19:58:53
-	time_modified: 2025-05-17 19:48:47
+	time_modified: 2026-04-01 16:20:19
 	name: Malleary Augmenter
 	casting_cost: 1R
 	image: image205
@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Malleary Augmenter</nospellcheck></atom-cardname> or another Cleric you control enters, you may pay <sym-auto>R</sym-auto>. If you do, Cleric creatures you control get +1/+0 until end of turn.
+		Other Clerics you control get +1/+1.
+		At the beginning of combat on your turn, you may pay <sym-auto>R</sym-auto>. If you do, Clerics and Gods you control gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -8,7 +8,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-03-03 19:21:34
-	time_modified: 2026-03-12 22:40:35
+	time_modified: 2026-04-01 16:56:28
 	extra_data:
 		magic-m15-altered-plus:
 			promo_label: RGM-79 GM
@@ -30,7 +30,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: Sunrise
+	illustrator: Kunio Okawara
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

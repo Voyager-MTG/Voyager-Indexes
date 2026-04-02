@@ -12,7 +12,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !addtoken Scar;1
+	notes:
+		!addtoken Scar;
+		!noscript
 	time_created: 2023-06-24 12:18:33
 	time_modified: 2024-06-30 01:23:26
 	name: Flames of Emnity

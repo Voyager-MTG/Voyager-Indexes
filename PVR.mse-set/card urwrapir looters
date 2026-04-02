@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, up to one target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>T</sym-auto>: Target player draws a card, then discards a card.
 	flavor_text:
 		<i-flavor>“It’s been four months. Return my eggs.”<soft-line>

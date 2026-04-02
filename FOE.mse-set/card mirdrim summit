@@ -11,7 +11,7 @@ card:
 		remove_from_autocount: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: 
+	notes: !noscript
 	time_created: 2024-02-15 17:46:18
 	time_modified: 2024-11-03 10:07:41
 	name: Mirdrim Summit

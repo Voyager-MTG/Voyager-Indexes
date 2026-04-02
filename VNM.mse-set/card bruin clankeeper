@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !addtoken GreenWurm;2;
+	notes: !noscript
 	time_created: 2021-04-25 03:20:37
 	time_modified: 2025-07-21 15:05:36
 	card_color: green

@@ -7,7 +7,7 @@ card:
 		!taglair> top cards I
 		!designer Wende
 	time_created: 2025-01-28 13:47:41
-	time_modified: 2026-03-01 09:21:33
+	time_modified: 2026-04-01 16:52:33
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: Wende
@@ -22,7 +22,7 @@ card:
 	sub_type: <word-list-land></word-list-land>
 	rarity: mythic rare
 	rule_text:
-		When <atom-cardname><nospellcheck>The Heart of Ischav</nospellcheck></atom-cardname> enters, you may exile a card from your hand. If you do, exile a basic land card you own from your sanctum.
+		When <atom-cardname><nospellcheck>The Heart of Ischav</nospellcheck></atom-cardname> enters, you may exile a card from your hand. If you do, exile a basic land card from your sanctum.
 		<sym-auto>T</sym-auto>: Add one mana of any color basic lands you control could produce.
 		<sym-auto>T</sym-auto>, Pay 1 life: Return a basic land card exiled with <atom-cardname><nospellcheck>The Heart of Ischav</nospellcheck></atom-cardname> to your hand.
 	flavor_text: <i-flavor></i-flavor>

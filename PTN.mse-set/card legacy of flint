@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-07-18 19:11:37
-	time_modified: 2025-05-17 19:48:48
+	time_modified: 2026-04-01 16:22:10
 	card_color: red
 	name: Legacy of Flint
 	casting_cost: 2R
@@ -18,7 +18,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: Whenever you finish exiling one or more cards, <atom-cardname><nospellcheck>Legacy of Flint</nospellcheck></atom-cardname> deals damage to target player equal to the number of spells you’ve cast from exile this turn.
+	rule_text:
+		At the beginning of each end step, create a tapped land token with “<sym-auto>T</sym-auto>, Sacrifice this land: Add <sym-auto>R</sym-auto>.”
+		<sym-auto>2R</sym-auto>, Sacrifice a land: <atom-cardname><nospellcheck>Legacy of Flint</nospellcheck></atom-cardname> deals 2 damage to any target.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>In fire are all the treasures of the earth revealed.</i-flavor>

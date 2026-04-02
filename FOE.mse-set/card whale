@@ -3,9 +3,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		!related Pathward Riftcalling;
-		Whale-01
+	notes: Whale-01
 	time_created: 2023-06-27 01:35:05
 	time_modified: 2024-04-22 21:16:02
 	card_color: white, black, multicolor, horizontal

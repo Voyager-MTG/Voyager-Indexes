@@ -10,7 +10,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !noscript
 	time_created: 2024-08-20 11:26:27
-	time_modified: 2026-03-12 01:08:10
+	time_modified: 2026-04-01 16:56:25
 	extra_data:
 		magic-m15-altered-plus:
 			promo_label: AMX-004
@@ -31,7 +31,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: Sunrise
+	illustrator: Kunio Okawara
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

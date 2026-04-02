@@ -41,7 +41,7 @@ card:
 	flavor_text: <i-flavor>It was often wondered whether <error-spelling:en_US>Multaph’s</error-spelling:en_US> goals aligned with the elks it employed.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym-auto>WW</sym-auto>, Reveal two creature cards from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym-auto>WW</sym-auto>, Reveal two creature cards from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>WW</sym-auto>, Reveal two creature cards from your hand</param-cost>, reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
 	illustrator: Arek Socha
 	card_code_text: 
 	card_code_text_2: 

@@ -13,10 +13,10 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
-		Preview
-		!addtoken Subdued Rift;conjured;
+		!tokens Subdued Riftconjure>;
+		!noscript
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-21 00:50:10
+	time_modified: 2026-03-28 12:12:04
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -40,7 +40,7 @@ card:
 		</soft-line>Create a 1/1 black and white Cat enchantment creature token.
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor>“I am prepared if <error-spelling:en_US>phyrexia</error-spelling:en_US> returns.”</i-flavor>
+	flavor_text: <i-flavor>“I am prepared if <error-spelling:en_US>Phyrexia</error-spelling:en_US> returns.”</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 2

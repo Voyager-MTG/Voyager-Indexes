@@ -5,7 +5,7 @@ card:
 		OTHERRARE
 		NEWCARD
 	time_created: 2021-12-25 04:38:22
-	time_modified: 2024-11-08 14:01:50
+	time_modified: 2026-03-28 12:08:01
 	name: Ancient Activator
 	casting_cost: UB
 	image: image137
@@ -19,7 +19,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: <sym-auto>T</sym-auto>: Target player draws a card, then discards a card. Then if a library has twenty or fewer cards in it, create a colorless 0/0 Fractal Horror creature token with three +1/+1 counters on it. Activate only as a sorcery.
+	rule_text: <sym-auto>T</sym-auto>: Target player draws a card, then discards a card. Then if a library has twenty or fewer cards in it, create a 0/0 colorless Fractal Horror creature token with three +1/+1 counters on it. Activate only as a sorcery.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -8,7 +8,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://www.deviantart.com/bcnyart/art/Gundam-RX-78-885063795
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2026-03-11 02:00:20
+	time_modified: 2026-04-01 16:53:32
 	extra_data:
 		magic-m15-altered-plus:
 			promo_label: RX-78-2 Gundam vs. MS-07B Gouf 
@@ -32,7 +32,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“You’re good. It’d be no surprise why some people want you on their side. If adults are going to send children out to fight... It’s their responsibility to show them the horrors of the battlefield.”<soft-line>
-		</soft-line>-<error-spelling:en_US>Ramba</error-spelling:en_US> <error-spelling:en_US>Ral</error-spelling:en_US> </i-flavor>
+		—</soft-line><error-spelling:en_US>Ramba</error-spelling:en_US> <error-spelling:en_US>Ral</error-spelling:en_US> </i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 3

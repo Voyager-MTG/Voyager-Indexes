@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Bear</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, up to one target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Bake</key></nospellcheck><atom-reminder-action> <i-auto>(When this enters, up to one other target permanent gains its abilities until end of turn.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>T</sym-auto>, Sacrifice this permanent: Return target creature card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

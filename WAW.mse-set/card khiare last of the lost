@@ -28,7 +28,7 @@ card:
 	rule_text:
 		Lands and creatures you control have “<sym-auto>T</sym-auto>: Add one mana of any color.”
 		If <atom-legname><nospellcheck>Khiare</nospellcheck></atom-legname> would leave the battlefield, shuffle it into its owner’s library instead.
-		<sym-auto>T</sym-auto>, Pay 3 life or sacrifice a permanent: <kw-1><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-1>
+		<sym-auto>T</sym-auto>, Pay 3 life or sacrifice a permanent: <kw-1><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor>The center of the Wonderlands cradles her.</i-flavor>
 	power: 0
 	toughness: 3

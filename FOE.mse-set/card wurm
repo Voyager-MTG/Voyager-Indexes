@@ -8,7 +8,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		!related Bosket Peak;Warforged Pair;Encouraging Passage;
+		!related Bosket Peak;Warforged Pair;
 		Wurm-01
 		!exportname Red Wurm
 	time_created: 2022-09-01 19:04:02

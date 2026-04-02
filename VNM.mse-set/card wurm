@@ -7,9 +7,7 @@ card:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		!related Conflict Mentor;Outlands Bulwark;Path of the Rift;
-		!exportname Black Wurm
+	notes: s!exportname Black Wurm
 	time_created: 2022-05-11 16:57:01
 	time_modified: 2025-08-29 19:02:05
 	card_color: black

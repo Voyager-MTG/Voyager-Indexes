@@ -16,7 +16,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: Calia Oracle of Tofnet Plains
 	time_created: 2022-05-06 22:46:07
-	time_modified: 2026-01-31 00:16:49
+	time_modified: 2026-04-01 16:18:17
 	name: Calia, Oracle of Tofnet Plains
 	casting_cost: 2WW
 	image: image25
@@ -27,9 +27,9 @@ card:
 	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
-		Whenever you cast an enchantment spell, up to one other target permanent you control becomes a creature until end of turn. Put two +1/+1 counters on it. <i-auto>(Permanents without printed size are 0/0.)</i-auto>
-		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, you may draw a card.
+		<kw-1><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>2</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-1>
+		Other enchantment creatures you control get +1/+1.
+		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, you may have another target permanent you control become a creature until end of turn. Put two +1/+1 counters on it. <i-auto>(Permanents without printed size are 0/0.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

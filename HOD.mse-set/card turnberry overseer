@@ -4,6 +4,7 @@ card:
 	notes:
 		!tag Dewold
 		!tag Turnberry
+		!noscript
 	time_created: 2025-02-24 00:35:24
 	time_modified: 2025-07-15 18:33:09
 	name: Turnberry Overseer

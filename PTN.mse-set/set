@@ -377,6 +377,7 @@ include_file: card tenacious illuminator
 include_file: card throat of remnants
 include_file: card verse change
 include_file: card carnal thirst
+include_file: card land
 keyword:
 	keyword: Induct
 	match: induct

@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Spells you control can’t be countered this turn.
-		<kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>A few years after the invasion left <error-spelling:en_US>Ilcae</error-spelling:en_US> ruined, the Wonderlands overlaid itself onto patches of the plane, rewriting its oil-stained ground into fresh grass and vibrant color overnight.</i-flavor>
 	illustrator: Ryan Lowe
 	card_code_text: 

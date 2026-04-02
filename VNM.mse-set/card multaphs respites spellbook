@@ -15,7 +15,7 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !addtoken Subdued Rift;Warped Exploration;Cut from Void;
+	notes: !noscript
 	time_created: 2022-04-02 19:29:38
 	time_modified: 2025-07-21 00:52:49
 	extra_data:

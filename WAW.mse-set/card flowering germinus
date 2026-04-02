@@ -10,9 +10,7 @@ card:
 		shrink_font_size: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		Flowering Germinus Token;
-		!related Flowering Germinus;
+	notes: Flowering Germinus Token;
 	time_created: 2024-12-08 12:24:23
 	time_modified: 2025-02-21 10:37:49
 	card_color: white, green, hybrid, horizontal

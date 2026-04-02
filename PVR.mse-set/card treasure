@@ -3,7 +3,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: 
+	notes: !related Spoils of Scarcity;
 	time_created: 2022-05-31 06:10:13
 	time_modified: 2022-05-31 06:14:35
 	name: Treasure
@@ -19,6 +19,8 @@ card:
 	illustrator: Mohamed Chahin
 	custom_card_number: 
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: Utaha
 	copyright_2: Utaha
 	copyright_3: Utaha

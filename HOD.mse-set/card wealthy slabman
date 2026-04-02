@@ -4,6 +4,7 @@ card:
 	notes:
 		!tag Dewold
 		!tag Terrel
+		!noscript
 	time_created: 2025-02-24 00:25:43
 	time_modified: 2025-03-05 21:07:53
 	name: Wealthy Slabman

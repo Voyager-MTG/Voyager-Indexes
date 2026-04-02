@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: 
+	notes: !noscript
 	time_created: 2025-01-19 14:57:05
-	time_modified: 2025-02-19 16:14:10
+	time_modified: 2026-04-01 12:19:44
 	name: Scrappy Wisp-Speaker
 	casting_cost: R
 	image: image63
@@ -13,9 +13,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text:
-		<kw-1><nospellcheck><key>Ploy</key></nospellcheck> — Exile the top card of your library. You may play it this turn.<atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-1>
-		When <atom-cardname><nospellcheck>Scrappy Wisp-Speaker</nospellcheck></atom-cardname> dies, if there is a card exiled with it, create a 1/1 Wonder creature token that’s all colors.      
+	rule_text: <kw-1><nospellcheck><key>Ploy</key></nospellcheck> — Exile the top card of your library. You may play it this turn.   <atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

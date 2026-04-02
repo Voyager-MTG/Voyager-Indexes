@@ -8,7 +8,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://static.wikia.nocookie.net/gundam/images/f/fa/CrashedKomusai08MST.png/revision/latest/scale-to-width-down/1000?cb=20201111131130
 	time_created: 2025-01-05 13:48:12
-	time_modified: 2026-03-11 02:02:33
+	time_modified: 2026-04-01 16:57:04
 	extra_data:
 		magic-m15-altered-plus:
 			promo_label: Komusai
@@ -27,7 +27,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: Sunrise
+	illustrator: Kunio Okawara
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

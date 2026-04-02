@@ -23,7 +23,7 @@ card:
 	rarity: common
 	rule_text:
 		Until end of turn, target land you control becomes a 5/5 Wonder creature with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> that’s all colors. It’s still a land. It must be blocked this turn if able.
-		<kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tuomas Korpi
 	card_code_text: 

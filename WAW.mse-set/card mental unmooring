@@ -22,7 +22,7 @@ card:
 	rarity: common
 	rule_text:
 		Return target creature to its owner’s hand.
-		<kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“It’s hard to live in the present when everything around you is a reminder of the past.”<soft-line><soft-line>
 		—<error-spelling:en_US>Dhere</error-spelling:en_US>, lone wanderer</soft-line></soft-line></i-flavor>

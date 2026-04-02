@@ -326,7 +326,7 @@ include_file: card starshine wisp
 keyword:
 	keyword: pursue Wonder
 	match: pursue Wonder
-	reminder: Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.
+	reminder: Reveal a basic land or Wonder card from your sanctum and put it into your hand.
 	rules: 
 	mode: custom
 keyword:

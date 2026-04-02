@@ -12,7 +12,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-01-24 11:30:55
-	time_modified: 2026-03-11 01:58:52
+	time_modified: 2026-04-01 16:56:14
 	extra_data:
 		magic-m15-altered-plus:
 			promo_label: Solomon  
@@ -28,7 +28,7 @@ card:
 	rule_text: At the beginning of each player’s upkeep, that player exiles a card from their hand or a permanent they control four times. If they can’t, they lose 100 life.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: other magic symbols color spotlight
-	illustrator: Sunrise
+	illustrator: Kunio Okawara
 	card_code_text: 
 	card_code_text_2: Spotlight 8/10
 	card_code_text_3: Spotlight 8/10

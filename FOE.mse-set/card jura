@@ -3,7 +3,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: 
+	notes: !related Marblewrought Titan;
 	time_created: 2025-07-07 20:39:01
 	time_modified: 2025-07-07 21:22:37
 	name: Jura

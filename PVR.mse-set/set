@@ -33,6 +33,9 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
+	magic-m15-altered-plus:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	magic-m15-blank:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -417,6 +420,8 @@ include_file: card perpetual cycle
 include_file: card sudden emergence
 include_file: card envoy of debauchery
 include_file: card eons of ancestry
+include_file: card fractal bird
+include_file: card dinosaur.1
 keyword:
 	keyword: Complexity
 	match: Complexity

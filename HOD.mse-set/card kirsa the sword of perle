@@ -4,6 +4,7 @@ card:
 	notes:
 		!tag Dewold
 		!tag Perle
+		!noscript
 	time_created: 2025-02-24 00:31:14
 	time_modified: 2025-02-26 01:55:57
 	name: Kirsa, the Sword of Perle

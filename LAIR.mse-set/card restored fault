@@ -43,7 +43,7 @@ card:
 		When <atom-cardname><nospellcheck>Restored Fault</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym-auto>1</sym-auto>, Pay 2 life</param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym-auto>1</sym-auto>, Pay 2 life</param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1</sym-auto>, Pay 2 life</param-cost>, reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
 	illustrator: T1na
 	custom_card_number: 5 — 006 • Restoration — Aanginer
 	card_code_text: 

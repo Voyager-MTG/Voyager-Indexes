@@ -4,6 +4,7 @@ card:
 	notes:
 		!designer TVP
 		!related Drake Token;
+		!noscript
 	time_created: 2025-01-18 15:32:19
 	time_modified: 2025-03-30 16:09:22
 	card_color: silver

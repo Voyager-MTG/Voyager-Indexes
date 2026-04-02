@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: OTHERRARE
 	time_created: 2022-05-23 04:40:04
-	time_modified: 2023-05-17 00:07:23
+	time_modified: 2026-04-01 16:27:03
 	name: Calf of the Restored Age
 	casting_cost: GU
 	image: image235
@@ -13,10 +13,10 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Elephant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: At the beginning of your end step, if you cast a spell this turn and haven’t spent mana from lands to cast a spell this turn, draw a card.
+	rule_text: Whenever you cast a spell, if you spent only mana from nonland sources to cast it, draw a card. This ability triggers only once each turn.
 	flavor_text: <i-flavor>Parents strive to ensure their children live in a better world than they did.</i-flavor>
 	power: 2
-	toughness: 3
+	toughness: 2
 	illustrator: Adam Midzuk
 	card_code_text: 
 	card_code_text_2: 

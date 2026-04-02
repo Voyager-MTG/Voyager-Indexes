@@ -17,7 +17,7 @@ card:
 		Verdant
 		!backname Midrim Cleave
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2025-11-23 20:34:23
+	time_modified: 2026-03-27 23:37:28
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -30,7 +30,7 @@ card:
 		magic-m15-mainframe-dfc:
 			front_color_hint: <sym>4II</sym>
 	name: Argent, Flash of Mirdrim
-	name_2: Midrim Cleave
+	name_2: Mirdrim Cleave
 	casting_cost: 4II
 	image: image414
 	image_2: image_217.png

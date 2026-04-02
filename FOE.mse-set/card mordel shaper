@@ -5,7 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 
-		chop_bottom: 5
+		chop_bottom: 10
 		d20_dividers: d20 mode
 		font_cap: 
 		popout_image_style: 

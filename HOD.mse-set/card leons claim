@@ -13,6 +13,7 @@ card:
 		!tag Dewold
 		!tag Terrel
 		!tag Leon
+		!noscript
 	time_created: 2025-02-24 00:42:28
 	time_modified: 2025-03-03 23:53:02
 	card_color: white

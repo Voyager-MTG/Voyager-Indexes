@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/kR0bl
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-07-03 21:02:31
+	time_modified: 2026-04-01 12:18:24
 	name: Tangled Heart
 	casting_cost: 2BB
 	image: image278
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, if you cast it, destroy each creature with mana value 3 or less.
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, if you cast it, destroy up to one target creature with mana value 3 or less.
 		Whenever a creature you control with mana value 4 or greater dies, <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> deals 1 damage to you and you draw a card.
 	rule_text_2: 
 	rule_text_3: 

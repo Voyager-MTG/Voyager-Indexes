@@ -4,6 +4,7 @@ card:
 	notes:
 		!tag Dewold
 		!tag Terrel
+		!tokens Treasure;Clue;
 	time_created: 2025-02-25 12:11:13
 	time_modified: 2025-03-03 19:25:26
 	name: King’s Rock Warden

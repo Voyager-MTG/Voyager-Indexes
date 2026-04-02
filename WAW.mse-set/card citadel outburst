@@ -10,7 +10,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-01-24 11:37:49
-	time_modified: 2025-03-18 17:08:43
+	time_modified: 2026-04-01 16:51:28
 	name: Citadel Outburst
 	casting_cost: 2R
 	image: image123
@@ -20,7 +20,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: <kw-0><nospellcheck><key>Pursue Wonder</key></nospellcheck></kw-0>. When you do, if a land card was revealed this way, <atom-cardname><nospellcheck>Citadel Outburst</nospellcheck></atom-cardname> deals 3 damage to any target. Otherwise, <atom-cardname><nospellcheck>Citadel Outburst</nospellcheck></atom-cardname> deals 1 damage to any target. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto>
+	rule_text: <kw-0><nospellcheck><key>Pursue Wonder</key></nospellcheck></kw-0>. When you do, if a land card was revealed this way, <atom-cardname><nospellcheck>Citadel Outburst</nospellcheck></atom-cardname> deals 3 damage to any target. Otherwise, <atom-cardname><nospellcheck>Citadel Outburst</nospellcheck></atom-cardname> deals 1 damage to any target. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Amirul Zameer
 	card_code_text: 

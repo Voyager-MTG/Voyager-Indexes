@@ -18,7 +18,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2025-07-12 17:50:24
+	time_modified: 2026-03-26 20:14:25
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -41,7 +41,7 @@ card:
 	flavor_text: <i-flavor>“My hope is that you see why the paths are part of the natural order here.”</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym>I</sym>. Activate only if you’ve created a token this turn</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-1>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound <param-cost><sym>I</sym></param-cost></key></nospellcheck>. Activate only if you’ve created a token this turn.<atom-reminder-custom> <i-auto>(<param-cost><sym-auto>I</sym-auto></param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
 	power: 1
 	toughness: 3
 	illustrator: Dan Watson

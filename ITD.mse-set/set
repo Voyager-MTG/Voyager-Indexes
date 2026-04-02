@@ -246,6 +246,7 @@ include_file: card apocalypse of the forest
 include_file: card deepgrowth animist
 include_file: card one of keys
 include_file: card desolate meeting
+include_file: card desolation
 keyword:
 	keyword: Ominous
 	match: Ominous <atom-param>cost</atom-param>

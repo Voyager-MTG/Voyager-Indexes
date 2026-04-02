@@ -5,6 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		other_options: prerelease stamp
+		additional_options: 
 		popout_image_style: 13,216,92,97,
 		popout_image_style_2: 233,47,36,15,
 		popout_image_style_3: 

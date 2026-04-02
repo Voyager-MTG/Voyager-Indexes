@@ -21,7 +21,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Pathbound <param-cost><sym-auto>I/B</sym-auto></param-cost></key></nospellcheck>. Activate only if you have seven or more cards in your graveyard.<atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Pathbound <param-cost><sym-auto>I/B</sym-auto></param-cost></key></nospellcheck>. Activate only if you have seven or more cards in your graveyard.<atom-reminder-custom> <i-auto>(<param-cost><sym-auto>I/B</sym-auto></param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
 		All creatures have <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>.
 		Whenever a creature dies, each opponent loses 1 life.
 	flavor_text: <i-flavor></i-flavor>

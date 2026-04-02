@@ -14,7 +14,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
 		Giants Blade<soft-line>
-		!addtoken Subdued Rift;conjured;</soft-line>
+		!noscript</soft-line>
 	time_created: 2021-04-25 03:20:37
 	time_modified: 2025-07-21 00:53:22
 	extra_data:

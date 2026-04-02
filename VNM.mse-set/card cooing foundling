@@ -1,9 +1,22 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		hybrid_name: grey
+		d20_dividers: off
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		font_cap: 13.5
+		custom_symbol: 
+		alt_rarity_color: 
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-21 01:18:49
+	time_modified: 2026-04-01 16:28:05
 	card_color: black
 	name: Cooing Foundling
 	casting_cost: B
@@ -18,7 +31,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: Whenever a spell or ability puts one or more cards into your hand, each opponent loses 1 life and you gain 1 life.
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Once each turn, when a spell or ability puts one or more cards into your hand, you may have each opponent lose 1 life and you gain 1 life.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“What a cute foundling! What can I do for you?”</i-flavor>

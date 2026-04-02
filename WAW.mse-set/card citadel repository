@@ -8,7 +8,7 @@ card:
 		chop_bottom: 5
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: 
+	notes: !noscript
 	time_created: 2025-01-11 16:33:15
 	time_modified: 2025-01-31 14:59:22
 	name: Citadel Repository

@@ -4,6 +4,7 @@ card:
 	notes:
 		!tag Dewold
 		!tag Banefort
+		!tokens Destroyed-Knight;
 	time_created: 2025-02-24 00:31:14
 	time_modified: 2025-07-15 18:27:11
 	name: Standing Army

@@ -4,6 +4,7 @@ card:
 	notes:
 		!tag HODStory
 		!tag Dewold
+		!tokens Destroyed-Knight;
 	time_created: 2025-02-24 00:35:24
 	time_modified: 2025-03-05 20:09:35
 	name: Grasp of the Mirrorkin

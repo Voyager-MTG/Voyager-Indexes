@@ -9,7 +9,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer TVP
 	time_created: 2023-02-27 12:15:49
-	time_modified: 2025-11-23 16:13:21
+	time_modified: 2026-03-27 21:56:24
 	alias_type: godzilla
 	name: Xylem Attendant
 	alias: Minimushi Warrior
@@ -25,7 +25,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <sym-auto>1I</sym-auto>, <sym-auto>T</sym-auto>, Return a land you control to its owner’s hand: Create a 2/2 Insect Plant creature token with <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text: <sym-auto>1I</sym-auto>, <sym-auto>T</sym-auto>, Return a land you control to its owner’s hand: Create a 2/2 silver Insect Plant creature token with <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>He’s not one for show.</i-flavor>

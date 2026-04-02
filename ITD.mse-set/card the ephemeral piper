@@ -2,7 +2,13 @@
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
-	has_styling: false
+	has_styling: true
+	styling_data:
+		combined_chop: -4
+		opacity: 200
+		other_options: un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: by grapple
 	time_created: 2024-10-25 14:36:43
 	time_modified: 2025-02-22 09:33:19

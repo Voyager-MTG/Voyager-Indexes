@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes:
 		!tag Dewold
-		!related Camp Supplier;Sandrock Blacksmith;Weapons Holder;Heirloom Sword;Wealthy Slabman;
+		!related Camp Supplier;Sandrock Blacksmith;Weapons Holder;Heirloom Sword;Wealthy Slabman;Kirsa, the Sword of Perle;Death’s Sting Diplomacy;
 	time_created: 2022-04-02 19:45:43
 	time_modified: 2025-03-04 00:39:16
 	name: Weapon

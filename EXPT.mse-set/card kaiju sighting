@@ -4,7 +4,8 @@ card:
 	notes:
 		!designer Trewq
 		https://www.deviantart.com/billycrawshrimp/art/bigfish-nolungman-sighting-969724408<soft-line>
-		!related Fish Token;</soft-line>
+		!related Fish Token;
+		!noscript</soft-line>
 	time_created: 2025-02-23 02:39:37
 	time_modified: 2025-11-22 14:06:18
 	name: Kaiju Sighting

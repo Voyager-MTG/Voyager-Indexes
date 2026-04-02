@@ -16,7 +16,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
-		!related Explorers Compass;Wings of New Horizons;Multaphs Respites Spellbook;<soft-line>
+		!related Explorers Compass;Wings of New Horizons;Multaph’s Respite’s Spellbook;<soft-line>
 		</soft-line>!token
 		!conjured
 	time_created: 2021-04-25 03:47:22

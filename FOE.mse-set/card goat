@@ -3,9 +3,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		https://www.artstation.com/artwork/1xbmxG
-		!related Carrigol Tender;
+	notes: https://www.artstation.com/artwork/1xbmxG
 	time_created: 2025-07-03 21:31:01
 	time_modified: 2025-08-29 18:48:11
 	card_color: white, black, multicolor, horizontal

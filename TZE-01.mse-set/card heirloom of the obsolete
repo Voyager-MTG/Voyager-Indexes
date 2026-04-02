@@ -5,7 +5,7 @@ card:
 		COLOURLESSCOMMON
 		CA01
 	time_created: 2021-10-10 04:09:00
-	time_modified: 2026-02-17 00:22:47
+	time_modified: 2026-04-01 16:57:02
 	name: Heirloom of the Obsolete
 	casting_cost: 2
 	image: image6
@@ -22,7 +22,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
-	illustrator: Sunrise
+	illustrator: Kunio Okawara
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

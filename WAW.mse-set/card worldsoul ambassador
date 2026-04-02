@@ -8,7 +8,7 @@ card:
 		chop_bottom: 5
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !tokens Beast Token;
+	notes: 
 	time_created: 2024-12-26 19:23:51
 	time_modified: 2025-08-18 18:36:10
 	card_trim: clear
@@ -22,7 +22,7 @@ card:
 	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		When <atom-cardname><nospellcheck>Worldsoul Ambassador</nospellcheck></atom-cardname> enters, create a 3/3 green Beast creature token.
-		<sym-auto>2</sym-auto>, Discard <atom-cardname><nospellcheck>Worldsoul Ambassador</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>2</sym-auto>, Discard <atom-cardname><nospellcheck>Worldsoul Ambassador</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>It alone keeps a story it can never tell.</i-flavor>
 	power: 4
 	toughness: 5

@@ -1,7 +1,9 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !addtoken Icon;
+	notes:
+		!addtoken Icon;
+		!noscript
 	time_created: 2024-03-02 22:05:26
 	time_modified: 2024-06-28 22:32:04
 	name: Splendid Genesis

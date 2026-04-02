@@ -15,7 +15,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
-		!related Kaln-Ocean Cloak;Multaphs Respites Spellbook;Sage of Truths;Storm Bearer;
+		!related Kaln-Ocean Cloak;Multaph’s Respite’s Spellbook;Sage of Truths;Storm Bearer;
 		!token
 	time_created: 2021-01-31 20:53:58
 	time_modified: 2025-07-21 04:45:54

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-14 19:24:27
-	time_modified: 2025-03-18 17:07:53
+	time_modified: 2026-04-01 16:51:34
 	card_color: land, multicolor
 	name: Wanderer’s Shrine
 	image: image41
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wanderer’s Shrine</nospellcheck></atom-cardname>: Put a basic land card you own from your sanctum onto the battlefield.
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wanderer’s Shrine</nospellcheck></atom-cardname>: Put a basic land card from your sanctum onto the battlefield.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:

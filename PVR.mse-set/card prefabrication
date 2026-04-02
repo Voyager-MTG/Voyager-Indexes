@@ -15,7 +15,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
-	rule_text: <sym-auto>T</sym-auto>: Create a 2/2 blue Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. Activate only if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is five or greater or if <atom-cardname><nospellcheck>Prefabrication</nospellcheck></atom-cardname> entered the battlefield this turn.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: <sym-auto>T</sym-auto>: Create a 2/2 blue Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. Activate only if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is five or greater or if <atom-cardname><nospellcheck>Prefabrication</nospellcheck></atom-cardname> entered the battlefield this turn.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 

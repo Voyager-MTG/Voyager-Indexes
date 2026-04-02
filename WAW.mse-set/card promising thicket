@@ -10,7 +10,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2024-12-15 22:47:14
-	time_modified: 2025-02-01 16:42:59
+	time_modified: 2026-04-01 16:36:01
 	name: Promising Thicket
 	image: image26
 	image_2: 
@@ -25,8 +25,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>. You lose 1 life unless you control a green permanent.
-		<sym-auto>1</sym-auto>: Put a wish counter on Promising Hillside.
-		<sym-auto>T</sym-auto>, Remove a wish counter from Promising Hillside: Add one mana of any color.
+		<sym-auto>1</sym-auto>: Put a wish counter on <atom-cardname><nospellcheck>Promising Thicket</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>, Remove a wish counter from <atom-cardname><nospellcheck>Promising Thicket</nospellcheck></atom-cardname>: Add one mana of any color.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The <error-spelling:en_US>Tensu</error-spelling:en_US> explorers were puzzled to find that the clearing seemed to disappear from certain angles, a vibrant new space bleeding through.</i-flavor>

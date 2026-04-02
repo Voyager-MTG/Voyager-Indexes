@@ -16,10 +16,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-05-30 23:08:00
-	time_modified: 2025-03-01 17:33:28
+	time_modified: 2026-03-26 20:09:36
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
+	card_trim: mutate
 	name: Pathbound Bloom
 	casting_cost: 1
 	image: image5.png
@@ -33,7 +34,7 @@ card:
 		<sym-auto>2</sym-auto>: Add one mana of any color.
 		<sym-auto>4</sym-auto>, Sacrifice this artifact: Put a random card from your sanctum into your hand.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Pathbound <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1</sym-auto></param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
 	illustrator: AlexPascenko
 	card_code_text: 
 	card_code_text_2: 

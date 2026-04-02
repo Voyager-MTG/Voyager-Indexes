@@ -154,6 +154,7 @@ include_file: card paths strider
 include_file: card prophellos pathborn hunger
 include_file: card forgiving monument.1
 include_file: card beseech the divine
+include_file: card mountain.1
 version_control:
 	type: none
 apprentice_code: 

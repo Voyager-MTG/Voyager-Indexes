@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !alt
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2024-10-11 13:08:46
+	time_modified: 2026-03-27 22:04:18
 	name: Scaled Rippler
 	name_2: Lunging Mitosis
 	casting_cost: 5BB
@@ -32,7 +32,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text: 
-	rule_text_2: Up to one target creature gets -1/-1 until end of turn. Create a 1/1 black enchantment Lizard creature token. <i-auto>(Then put this into your sanctum.)</i-auto>
+	rule_text_2: Up to one target creature gets -1/-1 until end of turn. Create a 1/1 black Lizard enchantment creature token. <i-auto>(Then put this into your sanctum.)</i-auto>
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Najael</error-spelling:en_US>, we have to go! It’s splitting and I don’t want to know why right now!”<soft-line>

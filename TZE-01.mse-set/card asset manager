@@ -12,7 +12,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2021-10-10 04:09:00
-	time_modified: 2026-03-11 02:37:41
+	time_modified: 2026-04-01 16:56:23
 	extra_data:
 		magic-m15-altered-plus:
 			promo_label: M353A4 Bloodhound
@@ -39,7 +39,7 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
-	illustrator: Sunrise
+	illustrator: Kunio Okawara
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

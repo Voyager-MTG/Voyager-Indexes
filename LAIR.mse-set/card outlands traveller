@@ -42,7 +42,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: mythic rare
-	rule_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym>1IB</sym>. Activate only if you have no other cards in your sanctum</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym>1IB</sym>. Activate only if you have no other cards in your sanctum</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost>1IB. Activate only if you have no other cards in your sanctum</param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Hope and home come with change.</i-flavor>

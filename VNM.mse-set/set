@@ -44,8 +44,8 @@ styling:
 		chop_bottom: 
 		frames: 
 		other_options: regular pt on levelers, auto nyx crowns
-		font_cap: 13
 		d20_dividers: d20 mode
+		font_cap: 13
 		hybrid_name: hybrid
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -263,7 +263,6 @@ include_file: card dust to life
 include_file: card hired enforcer
 include_file: card perplexing ray
 include_file: card clanless usurper
-include_file: card opportunistic scavenger
 include_file: card outlands bulwark
 include_file: card mischievous fox
 include_file: card roduths guard
@@ -426,7 +425,6 @@ include_file: card waterspout
 include_file: card malevolent naginata
 include_file: card skillful blade
 include_file: card tattered entity
-include_file: card crowned entity
 include_file: card flaming iron
 include_file: card usher of the lost
 include_file: card voidstone shard
@@ -525,7 +523,6 @@ include_file: card path of the grove
 include_file: card pathborn drake
 include_file: card outlands pathwarden
 include_file: card fadove reinforcement
-include_file: card avlod pathshaper
 include_file: card outlands traveller
 include_file: card mordel reinforcement
 include_file: card outlands guardian
@@ -601,12 +598,6 @@ keyword:
 	match: Materialize <atom-param>number</atom-param>
 	reminder: Tap one or more other enchantments you control with total mana value {param1} or more: This also becomes an Icon creature until your next turn.
 	rules: Tap {if param1.value == "1" then "an" else "{english_number(param1)}"} untapped {if param1.value == "1" then "enchantment" else "enchantments"} you control: This becomes an enchantment creature until your next upkeep.
-	mode: custom
-keyword:
-	keyword: Pathbound
-	match: Pathbound—<atom-param>cost</atom-param>
-	reminder: As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.
-	rules: Pay {param1} as a sorcery, reveal this from your extra deck, then swap it with two cards in hand.
 	mode: custom
 keyword:
 	keyword: Fracture
