@@ -587,7 +587,6 @@ include_file: card wurm.3
 include_file: card trace reminder
 include_file: card icon.1
 include_file: card fault.2
-include_file: card ambitious haze
 include_file: card avlod pathshaper
 include_file: card crowned entity
 include_file: card opportunistic scavenger

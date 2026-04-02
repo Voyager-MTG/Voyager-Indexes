@@ -531,6 +531,8 @@ include_file: card powerstone shard
 include_file: card treasure
 include_file: card dragon
 include_file: card longneck marketwatch
+include_file: card ambitious haze
+
 
 keyword:
 	keyword: Luminous
