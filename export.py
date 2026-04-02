@@ -1,17 +1,17 @@
 import os, shutil
 
 include_sets = [
-    "AKT",
-    "EXPT",
+    # "AKT",
+    # "EXPT",
     "FOE",
-    "HOD",
-    "LAIR",
-    "ITD",
-    "PTN",
-    "PVR",
+    # "HOD",
+    # "LAIR",
+    # "ITD",
+    # "PTN",
+    # "PVR",
     "VNM",
-    "WAW",
-    "TZE-01",
+    # "WAW",
+    # "TZE-01",
     "END"
 ]
 

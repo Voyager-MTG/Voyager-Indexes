@@ -474,7 +474,6 @@ include_file: card personal sins
 include_file: card bone salesman
 include_file: card mordel charm
 include_file: card fadove charm
-include_file: card no-name
 include_file: card fossil laundering
 include_file: card continuity gap
 include_file: card market negotiator
@@ -531,6 +530,8 @@ include_file: card law of nature
 include_file: card powerstone shard
 include_file: card treasure
 include_file: card dragon
+include_file: card longneck marketwatch
+
 keyword:
 	keyword: Luminous
 	match: Luminous

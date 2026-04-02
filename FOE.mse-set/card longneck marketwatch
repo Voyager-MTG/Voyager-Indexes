@@ -3,11 +3,7 @@ card:
 	has_styling: false
 	notes: !tag deinomarket;
 	time_created: 2022-06-23 00:00:00
-<<<<<<< HEAD
 	time_modified: 2026-03-01 10:06:06
-=======
-	time_modified: 2026-02-26 10:58:37
->>>>>>> bb6ed6d4398978c2faec3fda231d2a2f141aebae
 	name: Longneck Marketwatch
 	casting_cost: 4WU
 	image: image463

@@ -80,9 +80,9 @@ for card in cards:
             continue
 
         shutil.copy(mse_set + '\\' + art, f'OUT.mse-set\\{art}')
-    include_text += f'include file: {card_raw}\n'
+    include_text += f'include_file: {card_raw}\n'
 
-default_set = f"""mse_version: 2.0.2
+default_set = f"""mse_version: 2.5.8
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered-plus
