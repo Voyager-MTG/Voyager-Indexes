@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		other_options: auto nyx crowns
+		alt_rarity_color: 7,227,11:10,89,0:0,0,0:0,0,0:0.07:
+		use_holofoil_stamps: no
+		inverted_common_symbol: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		BLACKRARE
+		RB03
+		!designer Myr
+	time_created: 2021-07-04 16:13:33
+	time_modified: 2026-04-21 22:43:26
+	name: Hex Trueblight
+	casting_cost: 2BB
+	image: image40
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Hex</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: masterpiece
+	rule_text:
+		<kw-0><nospellcheck><key>Exploit</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>exploit</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>exploit</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>exploit</key></nospellcheck></kw-0> <i-auto>(When this enters the battlefield, you may sacrifice up to four creatures.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> exploits a creature, each opponent loses 3 life unless they discard a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: TentaclesandTeeth
+	card_code_text: • Akellan Uprising • Myr
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

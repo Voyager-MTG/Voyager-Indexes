@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		center_text: always
+		additional_options: half frameless art
+		inverted_common_symbol: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: !tag CC01
+	time_created: 2026-03-29 13:38:06
+	time_modified: 2026-04-21 21:17:18
+	card_trim: frameless art
+	card_color: green
+	name: Colossal Dreadmaw
+	casting_cost: 4GG
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Trace Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: <kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Neg_(101)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

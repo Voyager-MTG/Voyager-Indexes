@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		WHITE
+		https://www.deviantart.com/ryky/art/Her-Power-646675948
+	time_created: 2022-04-15 14:57:40
+	time_modified: 2026-04-04 16:29:31
+	name: Quintarchal Pariah
+	casting_cost: W
+	image: image28.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: <sym-auto>X</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice an Aura: You may search your hand or library for an Aura card with mana value X or less and cast it without paying its mana cost. If you searched your library this way, shuffle. Activate only during your turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Ryky
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

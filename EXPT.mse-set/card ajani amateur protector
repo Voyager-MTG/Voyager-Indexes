@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		opacity: 180
+		other_options: use taller frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!tag CC01
+		!designer Hervor
+		Mono white planeswalker
+	time_created: 2026-02-08 10:49:57
+	time_modified: 2026-04-23 08:19:01
+	name: Ajani, Amateur Protector
+	casting_cost: 3WW
+	image: image156
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Ajani</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	loyalty_cost_1: +1
+	loyalty_cost_2: -3
+	loyalty_cost_3: -6
+	loyalty: 4
+	level_1_text: <margin:130:0:0><kw-0><nospellcheck><key>Induct</key></nospellcheck></kw-0> twice. <i-auto>(To <kw-0><nospellcheck><key>Induct</key></nospellcheck></kw-0>, create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></margin:130:0:0>
+	level_2_text: <margin:130:0:0>Return up to two target permanent cards with mana value 3 or less from your graveyard to the battlefield with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Exile each creature with mana value 4 or greater.</margin:130:0:0>
+	level_4_text: 
+	level_5_text: 
+	illustrator: Mikakoskart
+	card_code_text: • CC01 • Hervor
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		[+1]: <margin:130:0:0><kw-0><nospellcheck><key>Induct</key></nospellcheck></kw-0> twice. <i-auto>(To <kw-0><nospellcheck><key>Induct</key></nospellcheck></kw-0>, create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></margin:130:0:0>
+		[-3]: <margin:130:0:0>Return up to two target permanent cards with mana value 3 or less from your graveyard to the battlefield with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.</margin:130:0:0>
+		[-6]: <margin:130:0:0>Exile each creature with mana value 4 or greater.</margin:130:0:0>

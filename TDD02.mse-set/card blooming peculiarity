@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		https://www.deviantart.com/shootingstarlogbook/art/Introvert-Space-Traveler-902571600
+		!designer Trewq
+	time_created: 2025-02-23 19:03:55
+	time_modified: 2026-04-08 19:05:07
+	name: Blooming Peculiarity
+	casting_cost: I
+	image: image54.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +2/-2 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+		When enchanted creature dies, if you controlled it, return <atom-cardname><nospellcheck>Blooming Peculiarity</nospellcheck></atom-cardname> to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ahmad Alromeadheen
+	card_code_text: •  Designed by Trewq
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/ellysiumn/art/Ethereal-beach-1068001704
+	time_created: 2025-01-21 21:24:09
+	time_modified: 2026-04-04 16:21:55
+	card_color: white, blue, multicolor, horizontal
+	name: The Shimmering Sky
+	casting_cost: WW/UU
+	image: image23.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>The Shimmering Sky</nospellcheck></atom-cardname> enters, choose a nonland card name.
+		Spells with the chosen name can’t be cast.
+		When <atom-cardname><nospellcheck>The Shimmering Sky</nospellcheck></atom-cardname> leaves the battlefield, you gain 5 life and you draw a card.
+	flavor_text:
+		<i-flavor>“Is there any pattern to the permanent aurora?”<soft-line>
+		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></i-flavor>
+	illustrator: Elysiumm
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

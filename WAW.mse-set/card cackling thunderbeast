@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When <atom-cardname><nospellcheck>Cackling Thunderbeast</nospellcheck></atom-cardname> enters or attacks, <b>[monocolored creatures can’t block this turn.]</b>
-		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>4R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>4R</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>4R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>It’s not hungry, it’s just mean.</i-flavor>
 	power: 5
 	toughness: 3

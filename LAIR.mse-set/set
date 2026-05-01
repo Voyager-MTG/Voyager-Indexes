@@ -34,6 +34,10 @@ styling:
 		overlay: 
 	magic-m15-cultist-simulator:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-mainframe-dfc:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	magic-m15-mainframe-planeswalker:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -155,6 +159,35 @@ include_file: card prophellos pathborn hunger
 include_file: card forgiving monument.1
 include_file: card beseech the divine
 include_file: card mountain.1
+include_file: card eldstone of transience
+include_file: card prodigal dimensiurge
+include_file: card timecoil tracings
+include_file: card inciting incident
+include_file: card splintered memories
+include_file: card millenniapede
+include_file: card loche returned pilgrim
+include_file: card ouarra all-devourer
+include_file: card abyssal pursuer
+include_file: card chthonic gorger
+include_file: card eager impostor
+include_file: card greenscale descendant
+include_file: card herald of blackened stars
+include_file: card hex trueblight
+include_file: card inter knowledge
+include_file: card lord of the broken
+include_file: card return to essence
+include_file: card solar pilgrimage
+include_file: card traumatic decree
+include_file: card the planar portal
+include_file: card angel
+include_file: card scar
+include_file: card me divine aspirant
+include_file: card painted distorter
+include_file: card unending exploration
+include_file: card bleak return
+include_file: card castle delta lookout
+include_file: card calamitous koi
+include_file: card reflective savannah
 version_control:
 	type: none
 apprentice_code: 

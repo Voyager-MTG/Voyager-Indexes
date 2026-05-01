@@ -1,325 +1,100 @@
-Gift of Wilderness
-Disregarded Project
-Epoch Ending
-Gathering Olorosaurs
-Heirloom of the Obsolete
-Abstraction Peeler
-Recovered Guardian
-Prophetic Prism
-Height Map
-Anivir, Forgotten Savior
-Extruded Skyscraper
-Nilshroud Absorption
-Awakened Marauder
-Prepackaged Assembly
-Sun Pouncer
-Tatu-Peba
-Graceful Coelurosaur
-Downscaled Matrongon
-Harsurfir Scavenger
-Hellish Inferngon
-Swiftfoot Striker
-Maeverano Herdmate
-Stonehewn Colossus
-Coordinated Hunt
-Spoils of Scarcity
-Nilshroud Conflagration
-Overharvest
-Into the Mines
-Tragedy of the Commons
-Render Flesh
-Bevelled Cliffs
-Cubic Flames
-Tesseractapillar
-Charging Argosaur
-Lush Stamengon
-Humongous Detritivore
-Herald of the Restored Age
-Apex of Antiquity
-Crude Onslaught
-Primal Power
-Dawngon Infusion
-Burrow Deep
-Overlaid Bridge
-Plummeting Smash
-Mesh Rot
-Specular Shack
-Virgin Media
-Laggymorph
-Polystone Quarry
-Blazefoxes of Moz
-Sunbound Swarm
-Overclocked Dragon
-Geometric Singularity
-Mana Void
-Emerging Wildlife
-Elder Gigantops
-Stampeding Goliath
-Territorial Primarch
-Slipstream Enigma
-Armament of Armageddon
-Escape the Nilshroud
-Sacred Signs
-Felygon Sentinel
-Parallaxadaisical Dengon
-Orchard Vixen
-The Downscaling
-Vertex Reminder
-Font of Decadence
-Prawth, Planar Decimator
-Cache Dredger
-Horizon Collector
-A Populated World
-Imperial Excommunicator
-Revitalised Cryptid
-Stick Retriever
-Nilshroud Predator
-Urwrapir Matriarch
-Uverngon's Messenger
-Rastira Depths Trawler
-Extinct Rebel
-Slumbering Dreadblade
-Nightmarish Terrain
-Savage Pike
-Prawth's Research Station
-Symmetric Construction
-Defragment
-Obsolete Renaissance
-Burn Barren
-Settle Inhospitable Lands
-Urwrapir Explorations
-Friend Collector
-Witness of the Obsolete
-Asset Manager
-Chronicler of the Obsolete
-Consecrated Farmland
-Tainted Bureaucrat
-Desperate Pathfinding
-Ecocidal Tracker
-Energy Tax
-Felygon Scientist
-Harsh Sentence
-Hierarchic Extortion
-Erfex Cartographer
-Quintarchal Bodyguard
-Shelter from the Elements
-Harsurfir Ferrier
-Trapped in the Nilshroud
-Warden of Inefficiencies
-Saturated Savannah
-Memory Hole
-Occluded Bog
-Delete
-Kinematic Constrictor
-Nocturngon Infusion
-Sentence to Oblivion
-Backface Culling
-Bleak Return
-Bog Snapper
-Conscripted Serpengon
-Ngonification
-Witness to Nil
-Despawn
-Nilshroud Mulcher
-Soul Taker
-Rastira Scavenger
-Planetary Harvester
-Defiled Revengon
-Feasting Ruingon
-Uverngon, Quintarch Usurper
-Nurbs' Familiar
-Boundary Break
-Draw Distance
-Waypoint of Nil
-Erfex Cemetery
-Rasteriser
-Recursive Steppe
-Felygon Reclaimer
-Dread Discovery
-Apocalypse Engine
-Anivir's Warning
-Null Terminator
-Normal Mapper
-Irticull's Crypt
-Nilshroud Storm
-Erfex Summons
-Boolean Lake
-Obfuscated Pier
-Origin Point
-Garden of Nurbs
-Island
-Mountain
-Swamp
-Forest
-Wrecking Rover
-Burning Devastatasaur
-Harsurfir's Folly
-Colossal Giraffosaurs
-Terror of Harsurfir
-Spawn Volcano
-Chromatic Channel
-Heart of Harsurfir
-Leaping Carnosaur
-Subsurface Spawning
-Excessive Decadence
-Resplendent Dawn
-Senescence Vessel
-Prefabricated Pryntir
-Erfex Regenerator
-Guardian of Erfex Fens
-Asset Export
-Edravir, Last of the Obsolete
-Melodic Unwrapper
-Geometry Nodes
-Urwrapir Looters
-Sparrow Spires
-Mirrortusk
-Rastira Trawler
-Rastira Reconstructor
-Productive Throng
-Malevolent Beseecher
-Erfex Revenant
-Hierarch of Expiration
-Hatebloom Titangon
-Ego Eroder
-Cruel Condor
-Oblivion Zealot
-Pattern Processing
-Erfex, Rotting Realm
-Rastira, the World Moat
-Harsurfir, Godly Quarry
-Urwrapir, Restored Wilderness
-Domination Center
-Advocate of Heresy
-Nilshroud Traversal
-Catechesis Engine
-Hierarch of Exultation
-Serrated Angel
-Scavenged Technology
-Tithing Protocol
-Erfex Reclaimer
-Felygon, Utopian Sprawl
-Maturing Ankylosaur
-Urwrapir Warden
-Sifter Wurm
-Lost in Geometry
-Self-Intersector
-Self-Assembling Phoenix
-Render Time
-Reject Input
-Shoal Summoner
-Withered Scorngon
-Cruelean's Enforcer
-Empty Scene
-Cultivator's Caravan
-Pot of Wishes
-Boundless Ocean
-Buffer Zone
-Extrude Wisdom
-Manaqueduct
-Migrating Songon
-Packet Loss
-Hyperbolic Jumper
-Raving Crab
-Urwrapir Ambusher
-Seafloor Scrounger
-Security Breach
-Obsolete Sentinel
-Squid Squad
-Nurbs' Collector
-Overfisher
-Mesh Warper
-Rastira Fiend
-Tidal Drift
-Submerged Titangill
-Procedural Generation
-Pool of Becoming
-Unlock the Quarternion
-Turbulence Algorithm
-Nurbs, the Wild King
-Kinema, Queen Eternal
-Cruelean, Ruler of None
-Abandonmare
-Skirweigh, Abyssal Tsar
-Systems Collapse
-Middleware Distributor
-Quintarchs' Decree
-Quintarchal Pariah
-Irticull's Vanguard
-Ecocide
-Edravir's Lynchpin
-Urban Majesty
-Lord of the World Moat
-Amphibious Emulator
-Luddite Infiltrator
-Abstraction Breaker
-Flesh Centrifuge
-Thassaraptor
-Harsurfir Overseer
-Levy Paths
-Usurp the Quintarchy
-Into Primal Archives
-Optimise
-Marching Cubes
-Rastira Mauler
-Irticull, Shadow Sultan
-Graphical Fidelity
-Plains
-Tyrannoscorpius Rex
-Bitrot, Nilshroud Parasite
-The Metaball
-Fertile Progengon
-Deified Dicraeosaur
-Prawth's Ultimatum
-Backwards Companion
-Novel Perspectives
-Felygon Skyswarm
-Dynotopic Stampede
-Cadix, the Raze-Rager
-Quintarchal Ascension
-Calf of the Restored Age
-Buffer Overflow
-Duplicate Specialty
-Corrupted Protocol
-Discover the Obsolete
-Suffocating Pollution
-Paleoartistic Masterpiece
-Rogue Process
-Rhystic Palace
-Ancient Activator
-Deprecated Dump
-Conquex, Broken Mandate
-Hallway Thomasson
-Nilshroud Apex
-Guzzle Giblets
-Deprecated Harvest
-Albedo Arbalest
-Occult Occlusion
-Metallic Mirage
-Roughness Rails
-Subsurface Scattering
-Voracious Mollusk
-Flagstones of the Broken Age
-Memory Spike
-Nilshroud Mockery
-Grim Tutor
-Crashing Rot
-Rapid Terraforming
-Relentless Consumption
-Friends Unfettered
-Shard of Conquex
-Prefabrication
-Ray Tracing
-Bird
-Treasure
-Dinosaur
-Fractal Horror
-Fractal Reflection
-Horror
-Human
-Nilvoid
-Tromping Iguanodon
-Perpetual Cycle
-Sudden Emergence
-Envoy of Debauchery
-Eons of Ancestry
+1 Ambitious Haze
+1 Binding Decision
+1 Blooming Peculiarity
+1 Distant Vulture
+1 Infuse with Identity
+1 Pathborn Aggression
+1 Quintarchal Pariah
+1 Wandering Entity
+1 Anivir's Warning
+1 Condemned Buildling
+1 Corrivality
+1 Deliver Omen
+1 Erysian Designs
+1 Fervent Incandescence
+1 Flames of Emnity
+1 Frostnip Watcher
+1 Gravewalking
+1 Howling Gasp
+1 Kier, Acolyte of Avlod Respite
+1 Like Butterflies on Strings
+1 Maddened by Hunger
+1 Mesh Rot
+1 Moonlit Augury
+1 Nirvanha Bloom
+1 Overworked Conditions
+1 Parading Terrain
+1 Pinnacle Wanderer
+1 Promise of Hunger
+1 Rapturous Joy
+1 Reto-Polo
+1 Sapience Spreading
+1 Scarring Servitude
+1 Scars of Oil
+1 Sentinel of Dead Lands
+1 Shining Idol
+1 Soaring Chorus
+1 Suffocating Pollution
+1 Weight of Tradition
+1 Woods' Procession
+1 A Blossoming of Flowers
+1 Ageless History
+1 Algael-leael
+1 Anything and Everything
+1 Ardent Grief
+1 Brood Protector
+1 Faloden Thickets
+1 Fleeting Merriment
+1 Inexorable Pressure
+1 Iridescent Summit
+1 Kilnhart Smoghorn
+1 Legacy of Amber
+1 Legacy of Coils
+1 Legacy of Flint
+1 Legacy of Tides
+1 Legacy of the Wheel
+1 Melting Pot
+1 Sapient Stoneworks
+1 Scavenged Technology
+1 Shadow Eater
+1 Shroud Walkers
+1 Soul of Vinimroth
+1 Spacewind Aurora
+1 Swirling Moon
+1 The Shimmering Sky
+1 Verem-Volcano Stalker
+1 Wave of Wisps
+1 Aspiring Entity
+1 Calia, Oracle of Tofnet Plains
+1 Caught in the Confusion
+1 Coalesced Company
+1 Cutthroat Obsession
+1 Embrace Rebirth
+1 Forgotten Worlds' Love
+1 Gluttony
+1 Migratory Flotilla
+1 Pathward Riftcalling
+1 Propaganda Spreading
+1 Resolute Watcher
+1 Respite Partisan
+1 Sentinel of the Afterlife
+1 Upsurge Nemato-Gnathi
+1 Wish for Family
+1 Wish for Safety
+1 A Promise
+1 Eyes Scorched from Divinity
+1 Gael, Spiteflame Phoenix
+1 Glorious Moment
+1 Korna, Adventuring Historian
+1 Scornful Pursuit
+1 Shadow of Grace
+1 Slipstream Cyprinus
+1 Urban Majesty
+1 Wish for Wealth
+1 Wisped Wings
+1 Ajha, the Wish for Home
+1 Monument to Forever
+1 Waypoint of Nil
+1 Wish for Strength
+1 Wish for Transformation
+1 Awakened Reactionary

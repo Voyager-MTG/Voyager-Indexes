@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		font_cap: 
+		inverted_common_symbol: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!tag CC01
+		!designer Hervor
+		https://www.deviantart.com/5evra/art/Neurolictor-sketch-1248333253
+		Silver creature heir
+	time_created: 2026-02-10 18:24:15
+	time_modified: 2026-04-23 10:43:18
+	card_trim: legend, mutate
+	name: Lord of the Broken
+	casting_cost: 3II
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Tyranid</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Other creatures you control lose all abilities and get +3/+3.
+	flavor_text: <i-flavor>Worlds break and Hope shatters, yet the Lord Remains.</i-flavor>
+	level_1_text: Heir—You’ve changed the abilities or text on five or more permanents this game. <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto>
+	power: 4
+	toughness: 4
+	card_stamp: none
+	illustrator: 5evra
+	card_code_text: • CC01 • Hervor
+	card_code_text_2: 
+	card_code_text_3: 

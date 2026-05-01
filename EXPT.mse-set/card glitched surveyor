@@ -1,0 +1,54 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 8
+		frame_help: on the left side of the card, there should be 2 boxes near the top
+		other_options: 
+		additional_options: 
+		inverted_common_symbol: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!tag CC01
+		Silver vertex production
+		
+		FINISHEDFINISHED
+		Custom symbol is linked in set info
+		V for 1 vertex
+		V/W is for 2
+		V/U is for 3
+		V/B is for 4
+		V/R is for 5
+		V/G is the plus used in vertex "adventure" costs
+		!designer Zangy
+	time_created: 2025-08-06 21:38:37
+	time_modified: 2026-04-21 19:16:18
+	name: Glitched Surveyor
+	casting_cost: 2I
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		The first Vertex spell you cast each turn has <kw-A><nospellcheck><key>affinity for <param-name>tokens.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This spell costs <sym>1</sym> less to cast for each <param-name>tokens.</param-name> you control.)</i-auto></atom-reminder-expert></kw-A>
+		At the beginning of your end step, you get <sym-auto>V</sym-auto> if you created one or more tokens this turn. You get <sym>V/U</sym> instead if you created five or more tokens this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: TheBookOFRS
+	card_code_text: • CC01 • Zangy
+	card_code_text_2: 
+	card_code_text_3: 

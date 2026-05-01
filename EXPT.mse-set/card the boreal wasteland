@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!tag CC01
+		!designer Hervor
+		Silver 2c pair wonder
+		
+		As this is a rare wonder, it uses the mana cost pattern of
+		M M/O O and is a kindred enchantment
+	time_created: 2025-08-06 22:04:00
+	time_modified: 2026-04-21 19:05:53
+	name: The Boreal Wasteland
+	casting_cost: II/WW
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Permanents enter tapped.
+		Permanents other than <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> entering don’t cause abilities to trigger.
+	flavor_text: <i-flavor>Days in the wasteland are but nights outside.</i-flavor>
+	illustrator: Palm20
+	card_code_text: • CC01 • Hervor
+	card_code_text_2: 
+	card_code_text_3: 

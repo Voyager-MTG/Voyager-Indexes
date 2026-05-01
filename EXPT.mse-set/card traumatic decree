@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!tag CC01
+		!designer SilverParabellum
+		1 mana targeting white removal spell that is not combat-based
+	time_created: 2026-02-08 10:49:34
+	time_modified: 2026-04-28 13:18:14
+	name: Traumatic Decree
+	casting_cost: W
+	image: image157
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Destroy target creature with mana value 3 or less. Then its controller gets a Scar.<soft-line>
+		<i-auto>(They’re boons with “When a creature you control dies, you may pay <sym>1</sym>. If you do, draw a card.”)</i-auto></soft-line>
+	flavor_text: <i-flavor>The wound may have healed, but the memory is still felt.</i-flavor>
+	illustrator: Lance_Monster
+	card_code_text: • CC01 • SilverParabellum
+	card_code_text_2: 
+	card_code_text_3: 

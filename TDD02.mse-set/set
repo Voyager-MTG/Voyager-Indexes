@@ -1,0 +1,154 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
+set_info:
+	title: Daydream
+	description: !designer Voyager
+	set_code: TDD02
+	symbol: symbol3.mse-symbol
+	masterpiece_symbol: 
+	custom_mana_symbol_name: MyrCustoms/Vertex.png
+	mana_symbol_options: enable in casting costs, enable in text boxes, colored mana symbols
+styling:
+	magic-booster:
+		title_color: rgb(255,255,255)
+		rarity_opacity: 100
+		logo_placement: 
+		main_title_placement: 15,610,
+		rarity_placement: 200,730,200,200,
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-altered-plus:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	magic-m15-cultist-simulator: text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-mainframe-tokens:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-saga:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+include_file: card a blossoming of flowers
+include_file: card a promise
+include_file: card ageless history
+include_file: card ajha the wish for home
+include_file: card ambitious haze
+include_file: card anything and everything
+include_file: card aspiring entity
+include_file: card awakened reactionary
+include_file: card binding decision
+include_file: card blooming peculiarity
+include_file: card brood protector
+include_file: card calia oracle of tofnet plains
+include_file: card caught in the confusion
+include_file: card cutthroat obsession
+include_file: card deliver omen
+include_file: card embrace rebirth
+include_file: card erysian designs
+include_file: card eyes scorched from divinity
+include_file: card fleeting merriment
+include_file: card forgotten worlds love
+include_file: card frostnip watcher
+include_file: card gael spiteflame phoenix
+include_file: card glorious moment
+include_file: card gravewalking
+include_file: card howling gasp
+include_file: card inexorable pressure
+include_file: card iridescent summit
+include_file: card kier acolyte of avlod respite
+include_file: card kilnhart smoghorn
+include_file: card legacy of amber
+include_file: card legacy of coils
+include_file: card legacy of the wheel
+include_file: card maddened by hunger
+include_file: card migratory flotilla
+include_file: card monument to forever
+include_file: card moonlit augury
+include_file: card nirvanha bloom
+include_file: card parading terrain
+include_file: card pathborn aggression
+include_file: card pathward riftcalling
+include_file: card pinnacle wanderer
+include_file: card quintarchal pariah
+include_file: card rapturous joy
+include_file: card resolute watcher
+include_file: card respite partisan
+include_file: card reto-polo
+include_file: card scarring servitude
+include_file: card scavenged technology
+include_file: card scornful pursuit
+include_file: card sentinel of dead lands
+include_file: card sentinel of the afterlife
+include_file: card shadow of grace
+include_file: card shining idol
+include_file: card shroud walkers
+include_file: card slipstream cyprinus
+include_file: card soaring chorus
+include_file: card spacewind aurora
+include_file: card swirling moon
+include_file: card the shimmering sky
+include_file: card upsurge nemato-gnathi
+include_file: card urban majesty
+include_file: card wandering entity
+include_file: card wave of wisps
+include_file: card waypoint of nil
+include_file: card weight of tradition
+include_file: card wish for family
+include_file: card wish for safety
+include_file: card wish for wealth
+include_file: card wisped wings
+include_file: card like butterflies on strings
+include_file: card outlands recruiter
+include_file: card your strength is fading
+include_file: card corrivality
+include_file: card condemned buildling
+include_file: card sapient stoneworks
+include_file: card soul of vinimroth
+include_file: card algael-leael
+include_file: card distant vulture
+include_file: card distant vulture.1
+include_file: card wish for transformation
+include_file: card verem-volcano stalker
+include_file: card faloden thickets
+include_file: card shadow eater
+include_file: card citadel repository
+include_file: card the call to adventure
+include_file: card anivirs warning
+include_file: card infuse with identity
+include_file: card suffocating pollution
+include_file: card overworked conditions
+include_file: card ardent grief
+include_file: card wish for strength
+include_file: card flames of emnity
+include_file: card melting pot
+include_file: card fervent incandescence
+include_file: card legacy of tides
+include_file: card scars of oil
+include_file: card gluttony
+include_file: card promise of hunger
+include_file: card overcome all
+include_file: card legacy of flint
+include_file: card woods procession
+include_file: card wonder
+include_file: card beast
+include_file: card land
+include_file: card wurm
+include_file: card werewolf citizen
+include_file: card insect plant
+include_file: card shark
+include_file: card whale
+include_file: card wolf
+include_file: card human
+include_file: card scar
+include_file: card dragon eye
+include_file: card daydream
+version_control:
+	type: none
+apprentice_code: 

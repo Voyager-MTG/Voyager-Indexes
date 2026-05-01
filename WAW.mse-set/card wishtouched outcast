@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-12 22:20:44
-	time_modified: 2025-03-18 17:09:21
+	time_modified: 2026-05-01 11:19:04
 	name: Wishtouched Outcast
 	casting_cost: 2B
 	image: image176
@@ -17,9 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text:
-		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
-		At the beginning of your upkeep, <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>. When you do, you lose life equal to the mana value of the card revealed this way. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card you own your sanctum and put it into your hand.)</i-auto>        
+	rule_text: At the beginning of your upkeep, <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>. When you do, you lose life equal to the mana value of the card revealed this way. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card you own your sanctum and put it into your hand.)</i-auto>        
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

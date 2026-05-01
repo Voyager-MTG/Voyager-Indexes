@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/juujumma/art/Towards-you-1317269452
+	time_created: 2025-01-23 21:28:37
+	time_modified: 2026-04-04 16:00:13
+	name: Forgotten Worlds’ Love
+	casting_cost: WUBR
+	image: image6.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Hexproo<param-name>f</param-name> from <param-name>noted mana values</param-name></key></nospellcheck></kw-a>
+		Sacrifice a nontoken creature: Note that creature’s mana value, then create a 1/1 Wonder creature token that’s all colors.
+		Whenever you cast an instant or sorcery spell with a noted mana value, copy that spell. You may choose new targets for the copy.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Juujumma
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

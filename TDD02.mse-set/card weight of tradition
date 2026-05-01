@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		use_holofoil_stamps: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/awakened-dreamer-art/art/Ethereal-Trace-1315715820
+	time_created: 2024-10-09 21:44:08
+	time_modified: 2026-04-08 19:02:57
+	name: Weight of Tradition
+	casting_cost: 1R
+	image: image20.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Incarnation</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		<sym-auto>3RR</sym-auto>, Discard this card: It deals 5 damage to any target.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Awakened-Dreamer-Art
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

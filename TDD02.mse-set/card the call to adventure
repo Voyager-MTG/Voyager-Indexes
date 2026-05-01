@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!tag Dewold
+		!tag Nye
+		https://www.deviantart.com/bettyelgyn/art/Magic-Trees-878940232
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2026-04-08 19:03:50
+	name: The Call to Adventure
+	casting_cost: 4G
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		Sneak <sym>3G</sym> <i-auto>(You may cast this spell for <sym>3G</sym> if you also return an unblocked attacker you control to hand during the declare blockers step.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>The Call to Adventure</nospellcheck></atom-cardname> enters during combat or a creature you control deals combat damage to a player or planeswalker, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: BettyElgyn
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

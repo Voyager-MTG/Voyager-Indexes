@@ -1,0 +1,51 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		opacity: 150
+		shrink_name_text: 2
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!tag CC01
+		https://www.artstation.com/artwork/qJ3x82
+		!designer TVP
+	time_created: 2026-02-08 10:49:57
+	time_modified: 2026-04-21 23:08:58
+	card_color: white, green, silver, multicolor, horizontal
+	name: Cambia, Forged in Experience
+	casting_cost: 1IGW
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Cambia</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	loyalty_cost_2: +1
+	loyalty_cost_3: -2
+	loyalty_cost_4: -6
+	loyalty: 3
+	level_1_text: Players can’t create tokens.
+	level_2_text: <margin:130:0:0>You may sacrifice a permanent. If you do, you draw a card and gain 1 life.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Exile target nonland permanent card from a graveyard. Until end of turn, you may cast it. It enters with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>This planeswalker deals 10 damage to each opponent.You gain 10 life.</margin:130:0:0>
+	level_5_text: 
+	level_6_text: 
+	illustrator: Sherbakov Stanislav
+	card_code_text: • CC01 • TVP
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		Players can’t create tokens.
+		[+1]: <margin:130:0:0>You may sacrifice a permanent. If you do, you draw a card and gain 1 life.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Exile target nonland permanent card from a graveyard. Until end of turn, you may cast it. It enters with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.</margin:130:0:0>
+		[-6]: <margin:130:0:0>This planeswalker deals 10 damage to each opponent.You gain 10 life.</margin:130:0:0>

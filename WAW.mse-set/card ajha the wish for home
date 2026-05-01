@@ -10,12 +10,12 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-01-26 01:26:19
-	time_modified: 2025-01-28 22:18:37
+	time_modified: 2026-05-01 11:18:59
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: she/her
 	name: Ajha, the Wish for Home
-	casting_cost: 4WW
+	casting_cost: 5WW
 	image: image276
 	image_2: 
 	mainframe_image: 

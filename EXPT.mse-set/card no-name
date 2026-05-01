@@ -3,17 +3,22 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: 
-	time_created: 2026-03-27 21:53:44
-	time_modified: 2026-03-27 21:54:26
-	image: image14.png
+	notes:
+		!tag CC01
+		!exportname Clue-00
+	time_created: 2026-04-28 10:59:57
+	time_modified: 2026-04-28 11:01:07
+	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Clue</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
+	rule_text: <sym-auto>2</sym-auto>, Sacrifice this token: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

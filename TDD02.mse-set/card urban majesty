@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		OTHERRARE
+		https://www.deviantart.com/era-7/art/City-of-Thousands-of-Lights-715424663
+	time_created: 2022-04-15 14:57:40
+	time_modified: 2026-04-04 22:47:31
+	name: Urban Majesty
+	casting_cost: 3GW
+	image: image47.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +5/+5.
+		When enchanted creature dies, create five 1/1 white Human creature tokens.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Yuliya Zabelina
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

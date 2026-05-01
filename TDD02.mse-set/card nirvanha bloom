@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		d20_dividers: all breaks
+		font_cap: 
+		popout_image_style: 
+		card_watermark: sets/Set-foe.png
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/fourmitta/art/Dreamy-Field-of-Light-1317390649
+	time_created: 2024-04-03 00:25:53
+	time_modified: 2026-04-04 16:06:05
+	card_trim: frameless art, clear, nyx
+	name: Nirvanha Bloom
+	casting_cost: 2
+	image: image10.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		Once each turn, when another permanent enters under your control, you may put a loyalty counter on this enchantment.
+		<sym-auto>-2</sym-auto>: Target opponent <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		<sym-auto>-5</sym-auto>: Exile target permanent card from your graveyard, until end of turn, you may play a copy of that card.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: fourmitta
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

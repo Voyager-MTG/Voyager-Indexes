@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!tag CC01
+		!desisgner Aanginer
+		Silver 2c pair wonder
+		
+		As this is a rare wonder, it uses the mana cost pattern of
+		M M/O O
+		
+		earthbend :)
+	time_created: 2025-08-06 22:04:00
+	time_modified: 2026-04-21 19:12:01
+	name: The Earthbound Brushwoods
+	casting_cost: II/GG
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, search your library for a land card with a nonbasic land type, put it onto the battlefield tapped, then shuffle.
+		<sym-auto>6</sym-auto>: Target land you control becomes a 0/0 creature with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> that’s still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Sylvia Ritter
+	card_code_text: • CC01 • Aanginer
+	card_code_text_2: 
+	card_code_text_3: 

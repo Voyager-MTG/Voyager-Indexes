@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag avlod;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-12-26 20:51:01
+	time_modified: 2026-05-01 11:18:39
 	name: Dissenting Experience
 	casting_cost: 1B
 	image: image315
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Target opponent reveals their hand and sanctum. You choose a nonland card from their hand and a card from their sanctum. Exile those cards. You lose 1 life.
+	rule_text: Target opponent reveals their hand and sanctum. You choose a nonland card from their hand. Exile it and a random card from their sanctum. You lose 1 life.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Clan <error-spelling:en_US>Avlod</error-spelling:en_US> still keeps a keen eye on what explorers share within the confines of their respite.</i-flavor>

@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		opacity: 200
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!tag CC01
+		Mono silver planeswalker
+		FINISHEDFINISHED
+		!designer Zangy
+	time_created: 2026-02-08 10:49:57
+	time_modified: 2026-04-21 13:52:16
+	name: Yasin, Who Ascends the Peak
+	casting_cost: 2II
+	image: image145
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Yasin</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	loyalty_cost_1: +1
+	loyalty_cost_2: -2
+	loyalty_cost_3: -7
+	loyalty: 4
+	level_1_text: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, draw a card, then put a card from your hand on the bottom of your library.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Create a token that’s a copy of target artifact or enchantment you control, except it’s a 2/2 Illusion creature in addition to its other types.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Permanents your opponents become enchantments. <i-auto>(They lose all other types. This doesn’t end at end of turn.)</i-auto></margin:130:0:0>
+	level_4_text: 
+	illustrator: Koyamamichiru
+	card_code_text: • CC01 • Zangy
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: He/him
+	special_text:
+		[+1]: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, draw a card, then put a card from your hand on the bottom of your library.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Create a token that’s a copy of target artifact or enchantment you control, except it’s a 2/2 Illusion creature in addition to its other types.</margin:130:0:0>
+		[-7]: <margin:130:0:0>Permanents your opponents become enchantments. <i-auto>(They lose all other types. This doesn’t end at end of turn.)</i-auto></margin:130:0:0>

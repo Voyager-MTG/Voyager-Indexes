@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!tag CC01
+		!designer Hervor
+		Silver 2c pair wonder
+		
+		As this is a rare wonder, it uses the mana cost pattern of
+		M M/O O
+	time_created: 2025-08-06 22:04:00
+	time_modified: 2026-04-21 19:05:43
+	name: The Restricted Library
+	casting_cost: II/UU
+	image: image147
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, create a Clue token. <i-auto>(It’s an artifact with “<sym-auto>2</sym-auto>, Sacrifice this token: Draw a card.”)</i-auto>
+		Each player can’t draw more than one card each turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: boldfrontiers
+	card_code_text: • CC01 • Hervor
+	card_code_text_2: 
+	card_code_text_3: 

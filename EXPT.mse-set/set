@@ -10,7 +10,7 @@ set_info:
 	set_code: EXPT
 	set_language: EN
 	symbol: symbol1.mse-symbol
-	masterpiece_symbol: 
+	masterpiece_symbol: masterpiece_symbol1.mse-symbol
 	CARDNAME_replacement: card's type
 	inverted_common_symbol: yes
 	custom_mana_symbol_name: MyrCustoms/Vertex.png
@@ -36,6 +36,10 @@ styling:
 	magic-m15-jinx:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-mainframe-dfc:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	magic-m15-mainframe-dfc-plus:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -45,7 +49,7 @@ styling:
 		overlay: 
 	magic-m15-mainframe-tokens:
 		frames: M20
-		other_options: remove rarity symbol
+		other_options: 
 		shrink_name_text: 
 		shrink_typeline_text: 
 		shrink_font_size: 
@@ -58,6 +62,10 @@ styling:
 	magic-music:
 		text_box_mana_symbols: magic-mana-embossed.mse-symbol-font
 		overlay: 
+	magic-rule-card:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-scroll:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -204,6 +212,56 @@ include_file: card tower of ambition
 include_file: card omnigenius vessel
 include_file: card exposed tower
 include_file: card horror.1
+include_file: card yasin who ascends the peak
+include_file: card controlled calamity
+include_file: card the restricted library
+include_file: card the boreal wasteland
+include_file: card skypiercer
+include_file: card abyssal pursuer
+include_file: card clue
+include_file: card the icefire monuments
+include_file: card the earthbound brushwoods
+include_file: card colossal imagination
+include_file: card colossal dreadmaw
+include_file: card absolute inertia
+include_file: card glitched surveyor
+include_file: card ellyn bloodied huntress
+include_file: card 00-3x4rch broken record
+include_file: card eager impostor
+include_file: card zombie
+include_file: card insolent neonate
+include_file: card cambia forged in experience
+include_file: card inter knowledge
+include_file: card greenscale descendant
+include_file: card weep
+include_file: card return to essence
+include_file: card cave of oracles
+include_file: card tenzel contained by frost
+include_file: card lord of the broken
+include_file: card spirit
+include_file: card suns ardor
+include_file: card the saucerer
+include_file: card jira old-ways apex
+include_file: card mind trinity
+include_file: card philosophical zombie
+include_file: card call of the sea
+include_file: card the spine of trees
+include_file: card solar pilgrimage
+include_file: card chthonic gorger
+include_file: card hex trueblight
+include_file: card herald of blackened stars
+include_file: card ajani amateur protector
+include_file: card traumatic decree
+include_file: card neon nightblade
+include_file: card scar
+include_file: card monument to lapsed worlds
+include_file: card lizard
+include_file: card eyes searching blindly
+include_file: card me divine aspirant
+include_file: card avatar
+include_file: card clue.1
+include_file: card treasure
+include_file: card food
 keyword:
 	keyword: Mirror
 	match: mirror

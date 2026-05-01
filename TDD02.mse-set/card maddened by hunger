@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/shootingstarlogbook/art/Lumin-940293189
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2026-04-20 14:16:53
+	card_color: white
+	name: Maddened by Hunger
+	casting_cost: 1W
+	image: image51.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>nonland permanent</param-name></key></nospellcheck></kw-a>
+		Enchanted permanent can’t attack, block, has no abilities and is colorless.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ahmad Alromeadheen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

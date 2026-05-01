@@ -1,0 +1,52 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 15
+		hybrid_name: grey
+		d20_dividers: off
+		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
+		font_cap: 13.5
+		custom_symbol: abstract-061.png
+		alt_rarity_color: 
+		use_holofoil_stamps: no
+		inverted_common_symbol: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		previewed
+		https://www.deviantart.com/mikakoskart/art/Deer-1164177317
+	time_created: 2021-04-25 03:20:37
+	time_modified: 2026-04-04 20:38:20
+	card_color: blue
+	name: Respite Partisan
+	casting_cost: 2UU
+	image: image82.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</key></nospellcheck></i-auto></kw-A> </i>— At the beginning of your end step, if you cast a noncreature spell this turn, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>, then tap or untap up to one target nonland permanent.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Partisans are meant to protect the few rifts that the <error-spelling:en_US>worldsoul</error-spelling:en_US> doesn’t close. Meeting one means you’ve found that very rift.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Mikakoskart
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

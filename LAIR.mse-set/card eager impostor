@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: 
+	time_created: 2026-04-29 14:48:20
+	time_modified: 2026-04-29 12:07:39
+	name: Eager Impostor
+	casting_cost: 7
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Shapeshifter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		This spell costs <sym>X</sym> less to cast, where X is the greatest number of creatures you control that share a creature type.
+		<kw-A><nospellcheck><key>Changeling</key></nospellcheck><atom-reminder-expert> <i-auto>(This card is every creature type.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Eager Impostor</nospellcheck></atom-cardname> dies, you may exile it. If you do, return target creature card from your graveyard to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Yinian
+	custom_card_number: Touhou Project 1: New Beginnings
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: Zangy

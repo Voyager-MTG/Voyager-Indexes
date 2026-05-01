@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		other_options: auto nyx crowns
+		alt_rarity_color: 7,227,11:10,89,0:0,0,0:0,0,0:0.07:
+		use_holofoil_stamps: no
+		inverted_common_symbol: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!desisgner Aanginer
+		RB01,Small Creature,2,,Grafted Butcher
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-04-22 11:33:23
+	name: Herald of Blackened Stars
+	casting_cost: 1B
+	image: image149
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: masterpiece
+	rule_text:
+		Whenever a creature you control dies, you get <sym>V</sym>. <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto>
+		At the beginning of your end step, if you cast a noncreature spell this turn, sacrifice a creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Prephae
+	card_code_text: • Dazon: Splintered Worlds • Aanginer
+	card_code_text_2: 
+	card_code_text_3: 

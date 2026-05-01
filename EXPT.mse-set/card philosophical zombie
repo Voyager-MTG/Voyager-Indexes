@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!tag CC01
+		!designer Zangy
+		Colorless (nonartifact) creature hate card that hates on reserves
+		FINISHEDFINISHED
+	time_created: 2025-08-06 22:07:27
+	time_modified: 2026-04-23 10:43:07
+	card_trim: clear
+	name: Philosophical Zombie
+	casting_cost: 3
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Zombie</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Copies can’t be created.
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> activated abilities cost <sym-auto>3</sym-auto> more to activate.
+		Special actions with mana costs cost <sym-auto>3</sym-auto> more. <i-auto>(This includes morph costs, foretelling, suspending a card, or rolling the planar die.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: SalmVil
+	card_code_text: • CC01 • Zangy
+	card_code_text_2: 
+	card_code_text_3: 

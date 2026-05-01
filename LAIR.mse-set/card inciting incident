@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: 
+	time_created: 2026-04-29 14:48:20
+	time_modified: 2026-04-29 12:06:31
+	name: Inciting Incident
+	casting_cost: 1BB
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		You may cast <atom-cardname><nospellcheck>Inciting Incident</nospellcheck></atom-cardname> for <sym>B</sym> as long as it’s the first spell you’ve cast this game.
+		Destroy target creature
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kawayabug
+	custom_card_number: Touhou Project 1: New Beginnings
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: Stasis

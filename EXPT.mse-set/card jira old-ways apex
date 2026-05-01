@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		opacity: 999
+		other_options: use taller frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!tag CC01
+		!designer SilverParabellum
+		Mono green Planeswalker
+	time_created: 2026-02-11 09:05:42
+	time_modified: 2026-04-21 21:45:51
+	name: Jira, Old-Ways Apex
+	casting_cost: 4GG
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Jira</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	loyalty_cost_2: +1
+	loyalty_cost_3: -3
+	loyalty_cost_4: -8
+	loyalty: 6
+	level_1_text: At the beginning of combat on your turn, up to one target creature has base power and toughness </sym>6/6<sym>, gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and becomes a Dinosaur until your next turn.
+	level_2_text: <margin:130:0:0>Create a 3/3 green Lizard creature token.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Target creature you control deals damage equal to its power to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Draw cards equal to the greatest power among creatures you control, then put any number of Dinosaur cards from your hand onto the battlefield.</margin:130:0:0>
+	level_5_text: 
+	illustrator: Kamitoge_Supino
+	card_code_text: • CC01 • SilverParabellum
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		At the beginning of combat on your turn, up to one target creature has base power and toughness </sym>6/6<sym>, gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and becomes a Dinosaur until your next turn.
+		[+1]: <margin:130:0:0>Create a 3/3 green Lizard creature token.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Target creature you control deals damage equal to its power to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.</margin:130:0:0>
+		[-8]: <margin:130:0:0>Draw cards equal to the greatest power among creatures you control, then put any number of Dinosaur cards from your hand onto the battlefield.</margin:130:0:0>

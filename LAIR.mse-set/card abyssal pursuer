@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: 
+	time_created: 2026-04-29 14:48:20
+	time_modified: 2026-04-29 12:07:30
+	name: Abyssal Pursuer
+	casting_cost: 2RR
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Whenever <atom-cardname><nospellcheck>Abyssal Pursuer</nospellcheck></atom-cardname> attacks, you may discard a card and <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>. When you do, if a creature card with mana value less than or equal to the number of attacking creatures was revealed this way, you may put it onto the battlefield tapped and attacking.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Cui Suika
+	custom_card_number: Touhou Project 1: New Beginnings
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: Aanginer

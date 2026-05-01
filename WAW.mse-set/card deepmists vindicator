@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever <atom-cardname><nospellcheck>Deepmists Vindicator</nospellcheck></atom-cardname> becomes blocked, <b>[each opponent sacrifices a creature or planeswalker.]</b>
-		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>4B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>4B</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>4B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>She had forgotten the reason for her resentment for the living, but the plane still enabled it.</i-flavor>
 	power: 3
 	toughness: 1

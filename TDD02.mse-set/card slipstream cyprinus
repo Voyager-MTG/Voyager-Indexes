@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		d20_dividers: d20 mode
+		font_cap: 
+		popout_image_style: 
+		card_watermark: sets/Set-foe.png
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/lej-ah/art/Dreaming-621989587
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2026-04-16 23:05:56
+	name: Slipstream Cyprinus
+	casting_cost: 3UU
+	image: image100.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fish</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Entity</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Tap two untapped enchantments and/or creatures you control: This enchantment also becomes an Icon creature until end of turn.
+		<sym-auto>3UU</sym-auto>: Target creature can’t be blocked this turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Lej-Ah
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

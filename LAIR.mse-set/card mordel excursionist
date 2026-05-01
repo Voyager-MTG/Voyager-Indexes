@@ -15,6 +15,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
+		!designer TVP
 		!taglairnumber> 9
 		!taglair> Challengers of Vinimroth
 	time_created: 2021-04-25 03:47:22

@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!tag CC01
+		Silver 2c pair wonder
+		
+		As this is a rare wonder, it uses the mana cost pattern of
+		M M/O O
+		
+		!designer FourEyesIsAFish
+	time_created: 2025-08-06 22:04:00
+	time_modified: 2026-04-21 21:52:56
+	name: The Spine of Trees
+	casting_cost: 1II/BB
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Whenever a creature you control dies, you may create a token copy of target creature card in your graveyard with lesser mana value. Do this only once each turn.
+	flavor_text:
+		<i-flavor>“What could tear flesh from these branches? And where is it now?”<soft-line>
+		</soft-line>—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</i-flavor>
+	illustrator: Logan Feliciano
+	card_code_text: • CC01 • FourEyesIsAFish
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ARTIFICERTYPE
+		GREENRARE
+		https://www.deviantart.com/lawvalamp/art/Ghostly-Quarantine-Building-458555199
+	time_created: 2024-07-11 23:49:43
+	time_modified: 2026-04-05 17:39:59
+	name: Condemned Buildling
+	casting_cost: 1G
+	image: image103
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add one mana of any color.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Add <sym>G</sym> for each card type among permanents you control. <i-auto>(Kindred is a card type.)</i-auto>
+	flavor_text: <i-flavor>Married to a <error-spelling:en_US>gothic</error-spelling:en_US> girlfriend, widowed by her disrepair.</i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Lawvalamp
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/balint4/art/Eden-The-Tree-of-Souls-V2-711279200
+	time_created: 2023-06-21 23:40:02
+	time_modified: 2026-04-05 17:44:28
+	card_color: green
+	name: Sapient Stoneworks
+	casting_cost: 2G
+	image: image104
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>Sapient Stoneworks</nospellcheck></atom-cardname> enters, create a 2/2 green Werewolf Citizen creature token.
+		<sym-auto>6</sym-auto>: <kw-1><nospellcheck><key>Liberate</key></nospellcheck> <atom-cardname><nospellcheck>Sapient Stoneworks</nospellcheck></atom-cardname>. Activate only as a sorcery.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: balint4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!tag CC01
+		!designer Hervor
+		1mv Instant/Sorcery that fills graveyard and draws a card (note: this can go -1 by looting or something similar)
+		https://www.deviantart.com/spookychan/art/CON-S-U-M-E-D-480494316
+	time_created: 2026-02-11 09:05:32
+	time_modified: 2026-04-21 19:31:39
+	name: Inter Knowledge
+	casting_cost: B
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Put a card at random from your sanctum into your graveyard.
+		Draw a card.
+	flavor_text: <i-flavor>No matter how hidden, mortals will always dig up the best left unknown.</i-flavor>
+	illustrator: SpookyChan
+	card_code_text: • CC01 • Hervor
+	card_code_text_2: 
+	card_code_text_3: 

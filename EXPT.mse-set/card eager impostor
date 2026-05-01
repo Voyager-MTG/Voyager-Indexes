@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!tag CC01
+		!designer Zangy
+		colorless 3+ mana changeling with typal payoff
+	time_created: 2025-08-06 22:08:26
+	time_modified: 2026-04-21 19:25:43
+	card_trim: clear
+	name: Eager Impostor
+	casting_cost: 7
+	image: image14
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Shapeshifter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		This spell costs <sym-auto>X</sym-auto> less to cast, where X is the greatest number of creatures you control that share a creature type.
+		<kw-A><nospellcheck><key>Changeling</key></nospellcheck><atom-reminder-expert> <i-auto>(This card is every creature type.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, you may exile it. If you do, return target creature card from your graveyard to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: TheDinosaurMann
+	card_code_text: • CC01 • Zangy
+	card_code_text_2: 
+	card_code_text_3: 

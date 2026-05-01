@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: https://www.deviantart.com/nithinstarknsl/art/Beautiful-abstract-painting-of-a-wolf-1309590296
+	time_created: 2021-10-13 18:43:46
+	time_modified: 2026-04-08 19:30:20
+	border_color: rgb(0,0,0)
+	card_color: green
+	name: Wolf
+	image: image55.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wolf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: basic land
+	rule_text: 
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: NITHINSTARKNSL
+	custom_card_number: 003/005
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -15,7 +15,7 @@ card:
 		!smallbox 
 		Melodia Explorer at Heart
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-04-01 13:53:47
+	time_modified: 2026-05-01 11:16:37
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: She/Her
@@ -34,7 +34,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>W<kw-A>ard <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>2</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
-		Whenever you attack with two or more creatures, you may reveal a permanent card from your sanctum. Target creature you control gains its activated and triggered abilities until end of turn.
+		Whenever you attack with two or more creatures, you may reveal a permanent card from your sanctum and put it on top of your library. If it had mana value 3 or less, you gain 3 life.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

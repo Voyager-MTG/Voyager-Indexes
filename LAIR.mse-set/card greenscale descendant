@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: 
+	time_created: 2026-04-29 14:48:20
+	time_modified: 2026-04-29 12:07:43
+	name: Greenscale Descendant
+	casting_cost: 1G
+	image: image74
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dinosaur</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		<sym>T</sym>, <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>: Add one mana of any color.
+		Each Dinosaur card in your graveyard has <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>retopology</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. Its <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>retopology</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> cost is equal to its mana cost. <i-auto>(Cast copies of Dinosaur cards from your graveyard by exiling it and paying its <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>retopology</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> cost. Spend only mana from differently named sources this way.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Kaoru (AliceMakoto)
+	custom_card_number: Touhou Project 1: New Beginnings
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: SilverParabellum

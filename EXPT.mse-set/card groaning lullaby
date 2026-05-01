@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/w0nxPg
 	time_created: 2025-04-08 17:36:23
-	time_modified: 2025-11-22 13:36:12
+	time_modified: 2026-05-01 11:17:55
 	name: Groaning Lullaby
 	casting_cost: II
 	image: image107
@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
-		If a card or token would be put into a graveyard from anywhere, its owner puts it into their sanctum instead.
+		If a permanent card or token you don’t own would be put into a graveyard from anywhere, its owner puts it into their sanctum instead.
 	flavor_text: <i-flavor>As <error-spelling:en_US>Meirel</error-spelling:en_US> was being invaded from the paths, many new creatures began to force life into the endless openings.</i-flavor>
 	power: 1
 	toughness: 4

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/yuumei/art/Bring-Me-the-Moon-776312571
+	time_created: 2024-12-14 18:53:13
+	time_modified: 2026-04-04 16:18:12
+	name: Wave of Wisps
+	casting_cost: RWB
+	image: image14.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: Create three 1/1 Wonder creature tokens that are all colors.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Yuumei
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 

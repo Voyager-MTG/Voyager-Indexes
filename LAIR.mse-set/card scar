@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: 
+	time_created: 2026-04-29 14:48:41
+	time_modified: 2026-04-29 18:02:36
+	name: Scar
+	image: image84
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Boon</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<i-auto>(When this boon triggers, it disappears even if you didn’t pay the <sym>1</sym>.)</i-auto>
+		Whenever a creature you control dies you may pay <sym>1</sym>. If you do, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Oubachiago
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

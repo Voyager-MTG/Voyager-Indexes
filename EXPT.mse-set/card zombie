@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !tag CC01
+	time_created: 2026-03-29 13:38:06
+	time_modified: 2026-04-28 11:05:03
+	card_color: black, artifact, horizontal
+	name: Zombie
+	image: image28.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: This token gets +1/+1 for each artifact you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Scott Uminga
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		inverted_common_symbol: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!tag CC01
+		!desisgner Aanginer
+		https://www.deviantart.com/temmaru/art/Abyssal-Guardian-1310386353
+		Pursue Wonder
+		
+		Added in the keywords tab
+	time_created: 2025-08-06 21:38:37
+	time_modified: 2026-04-21 19:06:54
+	name: Abyssal Pursuer
+	casting_cost: 2RR
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, you may discard a card and <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>. When you do, if a creature card with mana value less than or equal to the number of attacking creatures was revealed this way, you may put it onto the battlefield tapped and attacking. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-cardname><atom-name>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Temmaru
+	card_code_text: • CC01 • Aanginer
+	card_code_text_2: 
+	card_code_text_3: 

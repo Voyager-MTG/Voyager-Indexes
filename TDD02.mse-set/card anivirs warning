@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		SPOTLIGHT
+		REDRARE13
+		https://www.deviantart.com/vidom/art/Fractal-machine-the-Birdmaker-119599718
+	time_created: 2022-01-25 01:56:29
+	time_modified: 2026-04-08 19:02:45
+	name: Anivir's Warning
+	casting_cost: 1R
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: mythic rare
+	rule_text: Whenever you cast a spell from a zone not noted by <atom-cardname><nospellcheck>Anivir’s Warning</nospellcheck></atom-cardname>, note that zone. When you do, <atom-cardname><nospellcheck>Anivir’s Warning</nospellcheck></atom-cardname> deals damage to any target equal to the number of zones noted for it. <i-auto>(The zones are battlefield, hand, graveyard, exile, library, stack, and command.)</i-auto>
+	flavor_text: <i-flavor>“Our hungry technology doomed this plane. It will do so again; Do not follow your parent’s footsteps.”</i-flavor>
+	illustrator: Vidom
+	card_code_text: 
+	card_code_text_2: Spotlight 3/10
+	card_code_text_3: Spotlight 3/10
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

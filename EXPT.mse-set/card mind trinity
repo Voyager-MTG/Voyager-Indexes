@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!tag CC01
+		!desisgner Aanginer
+		A silver topend threat at mana value 5 or greater. This shouldn’t be able to take over the game on its own for pie reasons.
+		Remeber to keep pie weaknesses in mind, the color pie doc is at https://docs.google.com/document/d/1d8gmoeJz7j3ZO6l0zu6vjXwidv88Y7WifQ5sCcxfKe4/edit?tab=t.wrmowdyu4sws
+		
+		https://www.deviantart.com/freetimeartist/art/2109-1304893411
+	time_created: 2026-02-08 11:07:57
+	time_modified: 2026-04-23 09:31:39
+	name: Mind Trinity
+	casting_cost: 3II
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Statue</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, if it isn’t a token, create a token that’s a copy of target creature, then exile that token.
+		<kw-A><nospellcheck><key>Warp <param-cost><sym-auto>1I</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 4
+	illustrator: FREETIMEARTIST
+	card_code_text: • CC01 • Aanginer
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		d20_dividers: d20 mode
+		font_cap: 
+		popout_image_style: 
+		card_watermark: sets/Set-foe.png
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		UA04,Noncreature,3,,Sleek Schooner
+		https://www.deviantart.com/yuumei/art/Over-and-Under-735473540
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2026-04-08 17:40:01
+	card_trim: clear
+	name: Monument to Forever
+	casting_cost: 6
+	image: image37.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<i>Explorer</i> — This spell costs <sym-auto>2</sym-auto> less to cast if you control five or more differently named lands.
+		This spell can’t be countered.
+		Exile target permanent.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Yuumei
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

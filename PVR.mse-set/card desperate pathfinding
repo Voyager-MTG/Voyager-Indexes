@@ -18,7 +18,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature gets +2/+2.
-		<kw-1><nospellcheck><key>Retopology <param-cost><sym>WW</sym></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>WW</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-1>
+		<kw-1><nospellcheck><key>Retopology <param-cost><sym>WW</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Estudio Guardabosques
 	card_code_text: 

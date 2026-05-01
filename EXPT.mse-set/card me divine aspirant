@@ -1,0 +1,74 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		dfc_type: transforming
+		front_style: normal
+		back_style: 3 ability planeswalker
+		back_chop: 5,5
+		other_options: vorthos box, use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
+		alt_rarity_color: 7,227,11:10,89,0:0,0,0:0,0,0:0.07:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !designer n3onblue
+	time_created: 2023-10-18 15:29:39
+	time_modified: 2026-04-27 09:32:07
+	extra_data:
+		magic-m15-mainframe-dfc:
+			front_type_hint: -6
+			front_color_hint: YoYou 
+			vorthos_box: He/Him
+			vorthos_box_2: He/Him
+	card_color_2: red
+	name: Me, Divine Aspirant
+	name_2: The Placebo God
+	casting_cost: 1R
+	image: image160
+	image_2: image161
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator_2: red, multicolor
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-race-en>Goblin</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-planeswalker>Me</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: masterpiece
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		<margin:0:0:5>Whenever Me attacks, choose one that hasn’t been chosen. If you can’t, exile Me and return it to the battlefield transformed.</margin:0:0:5>
+		<li><bullet>• </bullet>Me gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
+		</li><li><bullet>• </bullet>Me gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+		</li><li><bullet>• </bullet>Me gets +1/+1 until end of turn. </li>
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_5: 
+	loyalty_cost_6: 0
+	loyalty_cost_7: -X
+	loyalty_cost_8: 
+	loyalty_cost_10: 0
+	loyalty_cost_11: -X
+	loyalty_2: 3
+	level_5_text: Whenever an opponent loses life for the first time each turn, put a loyalty counter on <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>.
+	level_6_text: <margin:130:0:0><atom-name>This planeswalker</atom-cardname> deals 2 damage to any target.</margin:130:0:0>
+	level_7_text: <margin:130:0:0>Exile the top X cards of your library. Until the end of your next turn, you may cast red spells from among the exiled cards.  </margin:130:0:0>
+	level_8_text: 
+	level_9_text: Whenever an opponent loses life for the first time each turn, put a loyalty counter on The Placebo God
+	level_10_text: <margin:130:0:0>The Placebo God deals 2 damage to any target.</margin:130:0:0>
+	level_11_text: <margin:130:0:0>Exile the top X cards of your library. Until the end of your next turn, you may cast red spells from among the exiled cards.</margin:130:0:0>
+	power: 2
+	toughness: 2
+	card_stamp: none
+	illustrator: shurita 
+	illustrator_2: m-hugo
+	card_code_text: • Deorum: Holy War • n3onblue
+	card_code_text_2: 
+	card_code_text_3: (Story Spotlight 6/5)
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	special_text_2:
+		Whenever an opponent loses life for the first time each turn, put a loyalty counter on The Placebo God
+		[0]: <margin:130:0:0>The Placebo God deals 2 damage to any target.</margin:130:0:0>
+		[-X]: <margin:130:0:0>Exile the top X cards of your library. Until the end of your next turn, you may cast red spells from among the exiled cards.</margin:130:0:0>

@@ -11,7 +11,8 @@ include_sets = [
     "PVR",
     "VNM",
     "WAW",
-    "TZE-01",
+    "TZE01",
+    "TDD02",
     "END"
 ]
 

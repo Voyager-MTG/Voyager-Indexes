@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!tag CC01
+		!designer SilverParabellum
+		Colorless (nonartifact) creature hate card that hates on reserves
+	time_created: 2025-08-06 22:07:27
+	time_modified: 2026-04-23 11:33:58
+	card_trim: clear
+	name: Eyes Searching Blindly
+	casting_cost: 5
+	image: image159
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Eye</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Incarnation</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, exile target token or token in a player’s reserves. If it was ominous, instead exile each token and each token in each player’s reserves.
+		<kw-A><nospellcheck><key>Ominous <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Alivewake
+	card_code_text: • CC01 • SilverParabellum
+	card_code_text_2: 
+	card_code_text_3: 

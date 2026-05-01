@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: 
+	time_created: 2026-04-29 14:48:20
+	time_modified: 2026-04-30 22:03:20
+	name: Lord of the Broken
+	casting_cost: 3II
+	image: image33.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Tyranid</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Heir — You’ve changed the abilities or text on five or more permanents this game. <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto>
+		Other creatures you control lose all abilities and get +3/+3.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Kyusoukyu
+	custom_card_number: Touhou Project 1: New Beginnings
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: Hervor

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/toucanjusty/art/Constellations-942151405
+	time_created: 2021-04-25 03:47:22
+	time_modified: 2026-04-04 22:13:21
+	card_color: blue
+	name: Resolute Watcher
+	casting_cost: 2UU
+	image: image32.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-1><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>2</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-1>
+		<i><kw-A><i-auto><nospellcheck><key>Fracture</i></key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, you may draw a card and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on target permanent.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>They say all it takes is a look.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: ToucanJusty
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

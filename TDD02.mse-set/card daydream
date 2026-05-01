@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: booster
+	stylesheet_version: 2021-03-09
+	has_styling: true
+	styling_data:
+		title_color: rgb(255,255,255)
+		card_count_color: rgb(255,0,128)
+		age_color: rgb(255,255,255)
+		artist_color: rgb(255,255,255)
+		shadowed_text: title
+		small_text_over_title: no
+		text_texture_mode: on
+		font_sizes: 90
+		rarity_opacity: 100
+		main_title_placement: 15,770
+		sub_title_placement: 15,690
+		card_count_placement: 
+		artist_placement: 39,65,200,20,0
+		rarity_placement: 150,630,300,300,
+	notes:
+		OVT Packs (Official Voyager Theme)<soft-line>
+		</soft-line>Theme OV Pack for release of march 2026
+		Card list:
+		<soft-line>
+		</soft-line>
+	time_created: 2026-02-16 14:56:34
+	time_modified: 2026-04-12 11:31:50
+	extra_data:
+		magic-booster:
+			small_name: Theme Pack
+			count: 3-CARD BOOSTER PACK
+	name: Daydream
+	image: image102.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	rarity: rare
+	illustrator: Yuumei
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
