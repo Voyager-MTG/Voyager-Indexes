@@ -14,7 +14,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: <atom-cardname><nospellcheck>Maeverano Herdmate</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <atom-cardname><nospellcheck>Maeverano Herdmate</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>Leaves—something to be desired.</i-flavor>
 	power: 3
 	toughness: 4

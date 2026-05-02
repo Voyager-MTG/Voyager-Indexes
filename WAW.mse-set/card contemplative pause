@@ -23,7 +23,7 @@ card:
 	rarity: common
 	rule_text:
 		<b>[Tap up to two target creatures]</b>, then put a <kw-1><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck> on each of them.<atom-reminder-core> <i-auto>(If a permanent with a stun counter would become untapped, remove one from it instead.)</i-auto></atom-reminder-core></kw-1>
-		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>2U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>2U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>2U</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Lorenza Lafranconi
 	card_code_text: 

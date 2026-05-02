@@ -188,6 +188,7 @@ include_file: card bleak return
 include_file: card castle delta lookout
 include_file: card calamitous koi
 include_file: card reflective savannah
+include_file: card wish for transformation
 version_control:
 	type: none
 apprentice_code: 

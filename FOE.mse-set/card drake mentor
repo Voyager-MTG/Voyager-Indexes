@@ -4,7 +4,8 @@ card:
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		chop_top: 2
+		chop_top: 8
+		chop_bottom: 8
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:

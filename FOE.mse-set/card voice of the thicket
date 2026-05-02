@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !noscript
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-11-23 20:29:02
+	time_modified: 2026-05-01 23:16:13
 	name: Voice of the Thicket
 	alias: 
 	casting_cost: 2G
@@ -31,9 +31,9 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose one. If a land entered under your control this turn, choose both:
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose one. If a land entered under your control this turn, choose both.
 		<li><bullet>• </bullet>Up to one target creature gets +2/+2 until end of turn.
-		</li><li><bullet>• </bullet>Create a 1/1 Elk Plant creature token.</li>
+		</li><li><bullet>• </bullet>Create a 1/1 green Elk Plant creature token.</li>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Hear its call.</i-flavor>

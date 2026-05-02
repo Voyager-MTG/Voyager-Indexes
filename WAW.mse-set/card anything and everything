@@ -10,7 +10,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-01-28 15:14:44
-	time_modified: 2025-08-18 18:35:43
+	time_modified: 2026-05-01 16:37:02
 	card_trim: clear
 	name: Anything and Everything
 	casting_cost: 3
@@ -22,11 +22,11 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: mythic rare
 	rule_text:
-		Choose one—
+		Choose one —
 		<li><bullet>• </bullet><b>[Exile up to one target nonland permanent with mana value 1 or less.]</b>
 		</li><li><bullet>• </bullet><b>[<kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw a card.]</b>
 		</li><li><bullet>• </bullet><b>[Create a 3/3 green Beast creature token.]</b>
-		<margin:0:0:5></li><kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>WUBRG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto></atom-reminder-custom></kw-A></margin:0:0:5>
+		<margin:0:0:5></li><kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>WUBRG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>WUBRG</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A></margin:0:0:5>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Philip Byers
 	card_code_text: 

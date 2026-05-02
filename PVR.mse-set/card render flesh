@@ -5,7 +5,7 @@ card:
 		REDCOMMON
 		CR18
 	time_created: 2021-10-10 04:09:00
-	time_modified: 2023-05-20 21:52:11
+	time_modified: 2026-05-01 20:05:29
 	card_color: red
 	name: Render Flesh
 	casting_cost: 1R
@@ -17,7 +17,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		Choose one—
+		Choose one —
 		<li><bullet>• </bullet>Target creature gets +3/+3 until end of turn.
 		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A></li>
 	flavor_text: <i-flavor>The litter of the pack must learn how to attack.</i-flavor>

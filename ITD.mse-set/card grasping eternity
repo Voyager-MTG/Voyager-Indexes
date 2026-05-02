@@ -4,8 +4,8 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
-		chop_top: 5
-		chop_bottom: 10
+		chop_top: 23
+		chop_bottom: 23
 		shrink_name_text: 
 		frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -15,7 +15,7 @@ card:
 		https://www.artstation.com/artwork/48woXl
 		changed to rework
 	time_created: 2024-09-03 18:11:36
-	time_modified: 2025-11-22 02:05:12
+	time_modified: 2026-05-01 20:02:09
 	name: Grasping Eternity
 	casting_cost: 1B
 	image: image386
@@ -26,7 +26,7 @@ card:
 	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Whenever you gain life, choose one—
+		Whenever you gain life, choose one —
 		<li><bullet>• </bullet>Each opponent loses 1 life.
 		</li><li><bullet>• </bullet>Put a +1/+1 counter on this creature.</li>
 	flavor_text: <i-flavor></i-flavor>

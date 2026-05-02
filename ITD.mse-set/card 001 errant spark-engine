@@ -12,9 +12,11 @@ card:
 		https://www.artstation.com/artwork/9En2xQ
 		changed to one loyalty removed
 	time_created: 2024-10-08 23:25:51
-	time_modified: 2026-01-01 16:25:29
+	time_modified: 2026-05-01 21:20:51
 	extra_data:
 		magic-m15-altered: vorthos_box: it/its
+		magic-m15-altered-plus:
+			vorthos_box: it/its
 	card_trim: legend
 	name: 001, Errant Spark-Engine
 	casting_cost: 2BG

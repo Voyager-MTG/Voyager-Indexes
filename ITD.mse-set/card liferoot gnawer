@@ -13,7 +13,7 @@ card:
 		https://x.com/Slitherbop/status/1737311175824838900/photo/1
 		changed last ability.
 	time_created: 2024-10-18 15:46:46
-	time_modified: 2025-11-23 15:16:57
+	time_modified: 2026-05-01 20:01:45
 	name: Liferoot Gnawer
 	casting_cost: 3RR
 	image: image344
@@ -24,7 +24,7 @@ card:
 	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When this creature enters, choose one—
+		When this creature enters, choose one —
 		<li><bullet>• </bullet>This creature deals 3 damage divided among one or two targets.
 		</li><li><bullet>• </bullet>Gain control of target land you don’t control. Its controller creates a tapped token land with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”</li>
 	flavor_text: <i-flavor></i-flavor>

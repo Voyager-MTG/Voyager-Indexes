@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: !designer TVP
 	time_created: 2025-01-18 15:32:19
-	time_modified: 2025-03-30 16:09:34
+	time_modified: 2026-05-01 21:19:10
 	card_color: silver
 	name: Memory Restored
 	casting_cost: 2I
@@ -16,7 +16,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Return target creature card from a graveyard to the battlefield under your control that has mana value 5. It enters as a kindred enchantment with its creature types.
+	rule_text: Return target creature card with mana value 5 from a graveyard to the battlefield under your control. It enters as a kindred enchantment with its creature types.
 	flavor_text: <i-flavor>“All we could get back was his head!” Julia exclaimed. “And that’s all we need to get out of this maze!” Responded <error-spelling:en_US>Najael</error-spelling:en_US>.</i-flavor>
 	illustrator: Lora Fa
 	card_code_text: • Designed by TVP for TVPCORE

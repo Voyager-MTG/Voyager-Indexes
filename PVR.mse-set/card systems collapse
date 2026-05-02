@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: BLACKRARE13
 	time_created: 2022-04-07 05:13:42
-	time_modified: 2024-11-08 14:03:43
+	time_modified: 2026-05-01 20:05:45
 	name: Systems Collapse
 	casting_cost: 1B
 	image: image113
@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		Choose one—
+		Choose one —
 		<li><bullet>• </bullet>Target player sacrifices a creature.
 		</li><li><bullet>• </bullet>Remove all counters from all creatures and planeswalkers.
 		</li><li><bullet>• </bullet>All players lose all <sym>V</sym>.

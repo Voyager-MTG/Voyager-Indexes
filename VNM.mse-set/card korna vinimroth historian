@@ -2,8 +2,8 @@
 card:
 	has_styling: true
 	styling_data:
-		chop_top: -8
-		chop_bottom: 
+		chop_top: 
+		chop_bottom: 5
 		hybrid_name: grey
 		d20_dividers: off
 		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box

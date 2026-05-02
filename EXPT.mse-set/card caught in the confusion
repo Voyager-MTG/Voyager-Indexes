@@ -15,7 +15,7 @@ card:
 		!noborder
 		!designer TVP
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-11-23 15:45:52
+	time_modified: 2026-05-01 21:18:32
 	alias_type: godzilla
 	name: Caught in the Confusion
 	alias: Trap Hole
@@ -33,7 +33,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When this enchantment enters, exile up to one target spell or nonland permanent. 
+		When this enchantment enters, exile up to one other target spell or nonland permanent. 
 		When this enchantment is no longer on the battlefield, return the exiled card to its owner’s hand.
 	rule_text_2: 
 	rule_text_3: 

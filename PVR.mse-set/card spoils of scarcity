@@ -5,7 +5,7 @@ card:
 		REDCOMMON
 		CR13
 	time_created: 2021-10-10 04:09:00
-	time_modified: 2022-06-12 06:06:40
+	time_modified: 2026-05-01 20:05:26
 	card_color: red
 	name: Spoils of Scarcity
 	casting_cost: 1R
@@ -17,7 +17,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		Choose two—
+		Choose two —
 		<li><bullet>• </bullet>Spoils of Scarcity deals 1 damage to any target.
 		</li><li><bullet>• </bullet>Target player creates a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 		</li><li><bullet>• </bullet>Target player gets <sym>V/W</sym>. <i-auto>(They can spend <sym>V</sym> to cast vertex spells.)</i-auto></li>

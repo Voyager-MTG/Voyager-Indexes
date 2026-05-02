@@ -2,14 +2,15 @@
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 
+		chop_top: 4
+		chop_bottom: 4
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
 		https://www.artstation.com/artwork/PeBDVo
 		!noscript
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2026-04-01 16:34:45
+	time_modified: 2026-05-01 19:59:53
 	name: Magic of Ignelscor
 	casting_cost: 3B
 	image: image108
@@ -26,7 +27,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		At the beginning of your upkeep, choose one—
+		At the beginning of your upkeep, choose one —
 		<li><bullet>• </bullet>Create a 3/1 black and red Elemental Demon creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Put a <kw-A><nospellcheck><key>decayed</key></nospellcheck> counter on it.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 		</li><li><bullet>• </bullet>Sacrifice a permanent. Each opponent discards a card of their choice and you draw a card.</li>
 	rule_text_2: 

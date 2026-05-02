@@ -14,7 +14,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: Kornas Forward
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2024-11-02 22:11:21
+	time_modified: 2026-05-01 21:18:17
 	name: Korna’s Forward
 	casting_cost: 2I
 	image: image237
@@ -30,7 +30,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-0><nospellcheck><key>Ward—<param-cost>Pay 2 life</param-cost>.</key></nospellcheck></kw-0>
-		When this creature enters, it deals damage to any noncreature target equal to the number of tokens you control. <i-auto>(Players aren’t creatures.)</i-auto>
+		When this creature enters, it deals damage to any noncreature target equal to the number of tokens you control. <i-auto>(Players are noncreature targets.)</i-auto>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The report was grim but clear. Marie was stronger now than when they first encountered her. The endless dead proved that.</i-flavor>

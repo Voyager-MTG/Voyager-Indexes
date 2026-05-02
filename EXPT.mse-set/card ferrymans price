@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/qeBx1e
 	time_created: 2025-04-13 13:49:25
-	time_modified: 2025-11-23 14:52:12
+	time_modified: 2026-05-01 19:56:25
 	name: Ferryman’s Price
 	casting_cost: I
 	image: image115
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Choose one—
+		Choose one —
 		<li><bullet>• </bullet>Move all counters from target permanent you don’t control to any other target permanent.
 		</li><li><bullet>• </bullet>Sacrifice an artifact. When you do, draw a card and each opponent loses 3 life.</li>
 	flavor_text: <i-flavor>Here, day and night merged, the weather was uncertain and the dark sea seemed to merge with a deep <error-spelling:en_US>grey</error-spelling:en_US> sky.</i-flavor>

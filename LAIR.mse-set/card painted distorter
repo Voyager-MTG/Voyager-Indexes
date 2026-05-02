@@ -5,7 +5,7 @@ card:
 		https://www.deviantart.com/jasonengle/art/Mother-Hydra-820994184
 		!wave
 	time_created: 2023-06-22 22:15:28
-	time_modified: 2026-04-29 10:21:29
+	time_modified: 2026-05-01 20:20:07
 	card_color: blue
 	name: Painted Distorter
 	casting_cost: 5U
@@ -23,7 +23,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Painted Distorter</nospellcheck></atom-cardname> enters, counter target spell if its a noncreature spell or if <atom-cardname><nospellcheck>Painted Distorter</nospellcheck></atom-cardname> was cast from exile.
+		When <atom-cardname><nospellcheck>Painted Distorter</nospellcheck></atom-cardname> enters, counter target spell if it’s a noncreature spell or if <atom-cardname><nospellcheck>Painted Distorter</nospellcheck></atom-cardname> was cast from exile.
 		<kw-0><nospellcheck><key>Foretell <param-cost><sym-auto>3UU</sym-auto></param-cost></key></nospellcheck></kw-0>
 	rule_text_2: 
 	rule_text_3: 

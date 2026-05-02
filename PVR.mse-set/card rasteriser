@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: COLOURLESSCOMMON
 	time_created: 2022-01-19 21:03:05
-	time_modified: 2022-06-12 06:05:03
+	time_modified: 2026-05-01 20:05:38
 	name: Rasteriser
 	casting_cost: 1
 	image: image145
@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
 	rule_text:
-		<sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Rasteriser</nospellcheck></atom-cardname>: Choose two—
+		<sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Rasteriser</nospellcheck></atom-cardname>: Choose two —
 		<li><bullet>• </bullet>Exile target card from a graveyard.
 		</li><li><bullet>• </bullet>Target player adds one mana of any color.
 		</li><li><bullet>• </bullet>Target player loses three <sym>V</sym>.

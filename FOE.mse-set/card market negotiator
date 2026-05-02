@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag deinomarket;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-11-23 21:00:32
+	time_modified: 2026-05-01 16:33:44
 	name: Market Negotiator
 	casting_cost: GW
 	image: image466
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever you cast a noncreature spell, you may choose one that hasn’t been chosen this turn—
+		Whenever you cast a noncreature spell, you may choose one that hasn’t been chosen this turn —
 		<li><bullet>• </bullet>You gain 3 life.
 		</li><li><bullet>• </bullet>Draw a card.
 		</li><li><bullet>• </bullet>Put a +1/+1 counter on this creature.</li>

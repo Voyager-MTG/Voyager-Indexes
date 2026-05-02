@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/y4qQVn
 	time_created: 2025-07-03 00:02:21
-	time_modified: 2026-04-01 16:55:14
+	time_modified: 2026-05-01 23:19:03
 	card_color: multicolor
 	name: Outlands Charm
 	casting_cost: 3
@@ -21,7 +21,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		This card is all colors, and spend only mana of different colors of mana to cast this spell.
+		This card is all colors. Spend only mana of different colors of mana to cast this spell.
 		<margin:0:0:5>Choose one —</margin:0:0:5>
 		<li><bullet>• </bullet>Put a +1/+1 counter on each creature you control. Untap them.
 		</li><li><bullet>• </bullet>Return target nonpermanent card with mana value 4 or greater from your graveyard to your hand.

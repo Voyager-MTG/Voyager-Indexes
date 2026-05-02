@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-02-06 01:54:11
-	time_modified: 2025-03-19 23:06:24
+	time_modified: 2026-05-01 20:14:45
 	name: Storm Striker
 	casting_cost: U
 	image: image295
@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-race-en>Elf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		Once each turn, when you cast a permanent spell, tap up to one target creature with mana value less than or equal to that spell.
+		Once each turn, when you cast a permanent spell, you may tap up to one target creature with mana value less than or equal to that spell.
 		Once each turn, when you cast a nonpermanent spell, <kw-A><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-expert> <i-auto>(Look at the top card of your library. You may put it into your sanctum.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

@@ -13,7 +13,7 @@ card:
 		!designer Trewq
 		https://www.deviantart.com/bonniesband/art/RW-Lovely-Arps-1005539176
 	time_created: 2025-02-22 18:16:28
-	time_modified: 2026-03-01 10:15:05
+	time_modified: 2026-05-01 21:21:19
 	name: Infraruin Predator
 	casting_cost: 1II
 	image: image43
@@ -25,7 +25,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		<sym-auto>I</sym-auto>, Sacrifice an artifact and an enchantment: Return <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard to the battlefield. Activate only as a sorcery.
+		<sym-auto>I</sym-auto>, Sacrifice an artifact and an enchantment: Return this card from your graveyard to the battlefield. Activate only as a sorcery.
 	flavor_text: <i-flavor>These creatures are adapted to the vast towers and decaying structures of their plane.</i-flavor>
 	power: 3
 	toughness: 3

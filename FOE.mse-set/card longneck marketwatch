@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag deinomarket;
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2026-03-01 10:06:06
+	time_modified: 2026-05-01 16:33:34
 	name: Longneck Marketwatch
 	casting_cost: 4WU
 	image: image463
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-A><nospellcheck><key>ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>3</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-A><nospellcheck><key>ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>3</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
 		Non-Advisor creatures with mana value 5 or greater can’t attack.
 	rule_text_2: 
 	rule_text_3: 

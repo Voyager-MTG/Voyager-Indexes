@@ -6,7 +6,7 @@ card:
 		CU19
 		LANDCYCLECOMMON
 	time_created: 2021-10-10 04:09:00
-	time_modified: 2024-11-08 13:39:58
+	time_modified: 2026-05-01 20:19:10
 	name: Boundless Ocean
 	image: image165
 	image_2: 
@@ -20,7 +20,8 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<atom-cardname><nospellcheck>Boundless Ocean</nospellcheck></atom-cardname> enters tapped. When it does, you may tap or untap target creature.
+		<atom-cardname><nospellcheck>Boundless Ocean</nospellcheck></atom-cardname> enters tapped. 
+		When <atom-cardname><nospellcheck>Boundless Ocean</nospellcheck></atom-cardname> enters, you may tap or untap target creature.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
 	rule_text_2: 
 	rule_text_3: 

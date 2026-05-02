@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag CanonReprint
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2026-02-01 09:56:05
+	time_modified: 2026-05-01 19:58:03
 	name: Light of Hope
 	casting_cost: W
 	image: image3
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		Choose one—
+		Choose one —
 		<li><bullet>• </bullet>You gain 4 life.
 		</li><li><bullet>• </bullet>Destroy target enchantment.
 		</li><li><bullet>• </bullet>Put a +1/+1 counter on target creature.</li>

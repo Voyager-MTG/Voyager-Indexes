@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-race-en>Kor</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		When <atom-cardname><nospellcheck>Pensive Swordmaster</nospellcheck></atom-cardname> enters, you may discard a card. If you do, <b>[draw a card.]</b>
-		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>2U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>2U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>2U</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>“The armor wasn’t built for this climate, but... it might be the only suit left of its kind.”</i-flavor>
 	power: 4
 	toughness: 2
