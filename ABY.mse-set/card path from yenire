@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:54:51
+	time_modified: 2026-01-13 17:32:21
+	name: Path from Yenire
+	image: image186.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Path</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		This land enters tapped unless you control a tapped blue creature.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
+		<kw-A><nospellcheck><key>Traverse <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap any number of creatures you control with total power <param-number>3</param-number> or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		When this Path is traversed, draw two cards, then discard two cards.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Samantha Stahlke
+	additional_credit: Fungustober
+	additional_credit_brush: flavor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

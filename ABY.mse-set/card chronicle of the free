@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:53:08
+	time_modified: 2025-12-05 18:21:52
+	name: Chronicle of the Free
+	casting_cost: 2G
+	image: image120.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	chapter_text: 
+	rule_text:
+		At the beginning of your upkeep, put a +1/+1 counter on up to one target creature.
+		<kw-A><nospellcheck><key>Flux <param-number>3</param-number> — <param-one_word>Double</param-one_word></key></nospellcheck> the number of each kind of counter on up to one target creature.<atom-reminder-custom> <i-auto>(On your upkeep, put a time counter on this. Whenever there are <param-number>three</param-number> or more, remove <param-number>three</param-number> and trigger the flux ability.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: 
+	level_2_text: 
+	level_3_text: 
+	level_4_text: 
+	illustrator: Hoang Lap
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text: 

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Bonus sheet
+	time_created: 2024-12-03 22:54:11
+	time_modified: 2025-12-05 18:22:09
+	name: Taras, Omenweb Chief
+	casting_cost: 1GW
+	image: image68.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When this creature enters, create a <kw-A><nospellcheck><key>Gear toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>T</sym-auto>: Add one mana of any color.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Tap target creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Thibault Gerard
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

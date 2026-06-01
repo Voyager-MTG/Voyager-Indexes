@@ -17,7 +17,7 @@ card:
 		
 		!designer FourEyesIsAFish
 	time_created: 2025-08-06 22:04:00
-	time_modified: 2026-04-21 21:52:56
+	time_modified: 2026-06-01 13:02:04
 	name: The Spine of Trees
 	casting_cost: 1II/BB
 	image: image38
@@ -33,7 +33,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever a creature you control dies, you may create a token copy of target creature card in your graveyard with lesser mana value. Do this only once each turn.
+	rule_text: Whenever a creature you control dies, you may create a token that’s a copy of target creature card in your graveyard with lesser mana value. Do this only once each turn.
 	flavor_text:
 		<i-flavor>“What could tear flesh from these branches? And where is it now?”<soft-line>
 		</soft-line>—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</i-flavor>

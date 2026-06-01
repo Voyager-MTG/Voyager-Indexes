@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:53:20
+	time_modified: 2026-01-03 14:36:38
+	name: Chronicle of the Oppressed
+	casting_cost: WU
+	image: image123.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Flux <param-number>2</param-number> — <param-one_word>Creatures</param-one_word></key></nospellcheck> you control gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.<atom-reminder-custom> <i-auto>(On your upkeep, put a time counter on this. Whenever there are <param-number>two</param-number> or more, remove <param-number>two</param-number> and trigger the flux ability.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>2</sym-auto>, Tap an untapped creature you control: Tap target creature.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Hoang Lap
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

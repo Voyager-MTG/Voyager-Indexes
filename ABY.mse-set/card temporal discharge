@@ -1,0 +1,20 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:26
+	time_modified: 2026-01-17 02:16:53
+	name: Temporal Discharge
+	casting_cost: 4R
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: <atom-cardname><nospellcheck>Temporal Discharge</nospellcheck></atom-cardname> deals 6 damage to target creature. If that creature was dealt excess damage this way, <kw-A><nospellcheck><key>you get</key></nospellcheck> that many <sym>V</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>Days since last accident: -1.</i-flavor>
+	illustrator: Kevin Sidharta
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

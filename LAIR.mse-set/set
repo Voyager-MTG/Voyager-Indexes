@@ -189,6 +189,24 @@ include_file: card castle delta lookout
 include_file: card calamitous koi
 include_file: card reflective savannah
 include_file: card wish for transformation
+include_file: card glorious enforcer
+include_file: card glorious enforcer.1
+include_file: card glorious enforcer.2
+include_file: card glorious enforcer.3
+include_file: card glorious enforcer.4
+include_file: card glorious enforcer.5
+include_file: card glorious enforcer.6
+include_file: card glorious enforcer.7
+include_file: card exiled trickster
+include_file: card liberators of the soul
+include_file: card breach of nature
+include_file: card herald of storms
+include_file: card mordel peacekeeper
+include_file: card apostle entheate.1
+include_file: card saylthe twice-drowned
+include_file: card new tensuo physician
+include_file: card angel of dying flames
+include_file: card angel of dying flames.1
 version_control:
 	type: none
 apprentice_code: 

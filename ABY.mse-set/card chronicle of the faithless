@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:58
+	time_modified: 2025-12-05 18:21:00
+	name: Chronicle of the Faithless
+	casting_cost: 3R
+	image: image121.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	chapter_text: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		When this enchantment enters, gain control of enchanted creature until end of turn. Untap that creature. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><nospellcheck><key>Flux <param-number>2</param-number> — <param-one_word>Gain</param-one_word></key></nospellcheck> control of enchanted creature until end of turn. Untap that creature. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.<atom-reminder-custom> <i-auto>(On your upkeep, put a time counter on this. Whenever there are <param-number>two</param-number> or more, remove <param-number>two</param-number> and trigger the flux ability.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: 
+	level_2_text: 
+	level_3_text: 
+	level_4_text: 
+	illustrator: Hoang Lap
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text: 

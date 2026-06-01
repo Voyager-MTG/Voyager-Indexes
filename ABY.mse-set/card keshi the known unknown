@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: Bonus sheet
+	time_created: 2025-09-30 22:03:30
+	time_modified: 2026-05-01 10:52:50
+	card_trim_plus: glitch
+	alias_type: starts in sanctum
+	name: Keshi, the Known Unknown
+	alias: Ebb, the Amorphous
+	casting_cost: 2U
+	image: image74
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Shapeshifter</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		As <atom-legname><nospellcheck>Keshi</nospellcheck></atom-legname> enters or is turned face up, you may have it become a copy of another creature.
+		<kw-A><nospellcheck><key>Morph <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card face down as a 2/2 creature for <sym>3</sym>. Turn it face up any time for its morph cost.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Terraform Studios
+	partition_select: after normal, main set G
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: 

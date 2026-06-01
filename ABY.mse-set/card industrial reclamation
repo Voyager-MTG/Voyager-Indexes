@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:17
+	time_modified: 2026-01-16 21:41:29
+	name: Industrial Reclamation
+	casting_cost: 3U
+	image: image59.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: At the beginning of your upkeep, untap all lands you control.
+	flavor_text:
+		<i-flavor>“They built it to oppress. We used it to progress. In the end, technology is just the means.<soft-line><soft-line>”<soft-line>
+		—<error-spelling:en_US>Gallas</error-spelling:en_US>, Temporal Pioneer</soft-line></soft-line></soft-line></i-flavor>
+	illustrator: Sviatoslav Gerasimchuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

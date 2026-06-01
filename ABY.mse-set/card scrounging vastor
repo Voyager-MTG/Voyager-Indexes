@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:26
+	time_modified: 2025-12-05 18:15:22
+	name: Scrounging Vastor
+	casting_cost: R
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Gremlin</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Monkey</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever this creature becomes tapped, you may discard a card. If you do, draw a card.
+	flavor_text: <i-flavor>An invasive species to <error-spelling:en_US>Oscalia</error-spelling:en_US>, the <error-spelling:en_US>Vasta</error-spelling:en_US> feed on scrap both organic and metallic in nature.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Garret Post
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

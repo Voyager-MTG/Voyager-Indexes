@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-06 00:44:31
+	time_modified: 2026-04-22 21:14:26
+	name: Eldworld Propagator
+	casting_cost: 1G
+	image: image116.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.
+		If you would put one or more counters on a creature or player, you may instead <kw-A><nospellcheck><key>proliferate</key></nospellcheck> that many times. Do this only once each turn.<atom-reminder-action> <i-auto>(To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Anh Le
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

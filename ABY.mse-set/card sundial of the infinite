@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !tag CanonReprint
+	time_created: 2024-12-03 22:54:51
+	time_modified: 2025-12-05 18:22:36
+	name: Sundial of the Infinite
+	casting_cost: 2
+	image: image23.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: <sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: End the turn. Activate only during your turn. <i-auto>(Exile all spells and abilities from the stack. Discard down to your maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)</i-auto>
+	flavor_text: <i-flavor>A foreign oddity brought to a plane where the moon subsumed the sun.</i-flavor>
+	illustrator: Chanel Roche
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

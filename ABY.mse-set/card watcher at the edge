@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:17
+	time_modified: 2025-12-05 18:18:29
+	name: Watcher at the Edge
+	casting_cost: 3U
+	image: image39.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Robot</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<sym-auto>U</sym-auto>, <sym-auto>T</sym-auto>: Another target creature <kw-A><nospellcheck><key>phases out</key></nospellcheck>.<atom-reminder-expert> <i-auto>(Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>2U</sym-auto>, <sym-auto>T</sym-auto>: This creature <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>.
+	flavor_text: <i-flavor><error-spelling:en_US>Z<soft-line>eth’s</error-spelling:en_US> machinations on <error-spelling:en_US>Armant</error-spelling:en_US> before establishing the Loop left much unaccounted for. Not all anomalies were recovered.</soft-line></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Wilson Nugraha
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-12-03 22:39:26
+	time_modified: 2026-04-10 13:33:18
+	name: Photonic Vulpine
+	casting_cost: 3R
+	image: image103.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Robot</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fox</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		At the beginning of combat on your turn, target creature you control gets +1/+0 and gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>For a plane once haunted by the Immortal Moon, the advent of solar power was not just a scientific victory, but a symbolic one.</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Julien Carrasco
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

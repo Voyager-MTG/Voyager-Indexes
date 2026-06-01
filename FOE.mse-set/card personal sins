@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: I’m basically tvps unpaid intern
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-06-15 17:20:39
+	time_modified: 2026-06-01 12:53:23
 	name: Personal Sins
 	casting_cost: 2IGU
 	image: image459
@@ -17,9 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text:
-		When this enchantment enters, turn any number of creature cards in your sanctum face up.
-		Whenever you cast a spell, you may cast a face-up card from your sanctum that has mana value less than that spell’s mana value without paying its mana cost.
+	rule_text: Whenever you cast a spell, you may reveal a creature card with mana value less than or equal to that spell’s mana value and cast it without paying its mana cost.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

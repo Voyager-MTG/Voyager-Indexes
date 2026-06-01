@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:58
+	time_modified: 2026-01-16 22:24:46
+	name: Magmatic Auger
+	casting_cost: 1R
+	image: image48.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When this artifact enters, create a tapped <kw-0><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-0>.
+		<sym-auto>T</sym-auto>, Discard a land card: Draw a card.
+	flavor_text: <i-flavor>The <error-spelling:en_US>Eldworld</error-spelling:en_US> is flush with resources uncounted. Naturally, it was those seeking riches that sought to plunder them the most.</i-flavor>
+	illustrator: Jean-Baptiste Andrier
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

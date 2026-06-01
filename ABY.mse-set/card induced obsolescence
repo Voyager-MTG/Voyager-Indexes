@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:38:03
+	time_modified: 2026-02-26 01:36:23
+	name: Induced Obsolescence
+	casting_cost: 2W
+	image: image45.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>nonland permanent</param-name></key></nospellcheck></kw-a>
+		At the beginning of your upkeep, destroy enchanted permanent.
+	flavor_text: <i-flavor>The Implicit Equilibrium removes all anomalies from the plane. Some take more persuading than others.</i-flavor>
+	illustrator: Rayven Studios
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

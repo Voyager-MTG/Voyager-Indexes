@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		opacity: 100
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: Bonus sheet
+	time_created: 2024-12-06 00:44:31
+	time_modified: 2025-12-05 18:23:59
+	name: Spark, the Catalyst
+	casting_cost: 2GG
+	image: image117.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Tel</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_1: 0
+	loyalty_cost_2: -2
+	loyalty_cost_3: -5
+	loyalty: 3
+	level_1_text: <margin:130:0:0><kw-A><nospellcheck><key>Proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Choose any number of permanents and/or players, then give each another counter of each kind already there.)</i-auto></atom-reminder-action></kw-A></margin:130:0:0>
+	level_2_text: <margin:130:0:0>Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don’t control.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Double the power and toughness of each creature you control. They gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
+	level_4_text: 
+	power: 
+	toughness: 
+	illustrator: Kevin Glint
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		[0]: <margin:130:0:0><kw-A><nospellcheck><key>Proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Choose any number of permanents and/or players, then give each another counter of each kind already there.)</i-auto></atom-reminder-action></kw-A></margin:130:0:0>
+		[-2]: <margin:130:0:0>Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don’t control.</margin:130:0:0>
+		[-5]: <margin:130:0:0>Double the power and toughness of each creature you control. They gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>

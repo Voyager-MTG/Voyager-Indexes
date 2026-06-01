@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:39
+	time_modified: 2026-01-04 20:17:51
+	name: Eldmagic Invocation
+	casting_cost: 2G
+	image: image29.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Choose target creature you control, then choose one —
+		<li><bullet>• </bullet>That creature deals damage equal to its power to target creature.
+		</li><li><bullet>• </bullet>Destroy target artifact or enchantment with mana value less than or equal to the chosen creature’s power.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jiunn Kuo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

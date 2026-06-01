@@ -6,6 +6,7 @@ card:
 	styling_data:
 		chop_bottom: 8
 		other_options: godzilla style alias, auto nyx crowns
+		inverted_common_symbol: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer TVP

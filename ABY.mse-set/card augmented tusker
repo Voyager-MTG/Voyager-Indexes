@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:39
+	time_modified: 2026-01-16 18:17:42
+	name: Augmented Tusker
+	casting_cost: 4GG
+	image: image43.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elephant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		This creature can’t be blocked by creatures with power 2 or less.
+		<kw-A><nospellcheck><key>Cycling <param-cost><sym-auto>G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>G</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>What is lost in flesh can be more than made up for in filigree.</i-flavor>
+	power: 6
+	toughness: 5
+	illustrator: Daniel Batista
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:17
+	time_modified: 2026-01-16 21:10:04
+	name: Future-Proofer
+	casting_cost: 2U
+	image: image42.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Robot</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Whenever this creature attacks, <kw-A><nospellcheck><key>proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Choose any number of permanents and/or players, then give each another counter of each kind already there.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>3UU</sym-auto>: Put a <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> on target creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Clarence Bateman
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: Bonus sheet
+	time_created: 2025-09-15 23:36:35
+	time_modified: 2026-06-01 13:02:56
+	card_trim_plus: glitch
+	name: Mathis, the Kingpin
+	alias: Mathis, I.E. Operative
+	casting_cost: 1UB
+	image: image58
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key>Ward—<param-cost>Discard a card</param-cost>.</key></nospellcheck></kw-0>
+		Whenever you commit a <kw-A><nospellcheck><key>crime</key></nospellcheck>, draw a card, then discard a card if this is the first time this ability has resolved this turn.<atom-reminder-expert> <i-auto>(Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: Kez Laczin
+	partition_select: after normal, main set G
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

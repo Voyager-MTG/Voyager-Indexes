@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: Bonus sheet
+	time_created: 2025-09-16 00:08:06
+	time_modified: 2026-05-01 10:52:34
+	card_trim_plus: glitch
+	alias_type: starts in sanctum
+	name: Alina and A200, Symbiotes
+	alias: A200, Spawned Sentience
+	casting_cost: 1GU
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Robot</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<margin:0:0:5>Whenever <atom-legname><nospellcheck>Alina and A200</nospellcheck></atom-legname> attacks, choose any number —</margin:0:0:5>
+		<li><bullet>• </bullet>Pay <sym-auto>G</sym-auto>. When you do, put a <kw-A><nospellcheck><key>shield counter</key></nospellcheck> on target creature.<atom-reminder-action> <i-auto>(If it would be dealt damage or destroyed, remove a shield counter from it instead.)</i-auto></atom-reminder-action></kw-A>
+		</li><li><bullet>• </bullet>Pay <sym-auto>U</sym-auto>. When you do, put a <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> on target creature. <i-auto>(If it would become untapped, remove a <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> from it instead.)</i-auto></li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Kevin Glint
+	partition_select: after normal, main set G
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

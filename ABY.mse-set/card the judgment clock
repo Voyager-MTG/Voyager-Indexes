@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-06 00:52:49
+	time_modified: 2026-04-21 19:39:01
+	name: The Judgment Clock
+	casting_cost: 5
+	image: image142
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Each player exiles a nonland permanent they control. Put a charge counter on <atom-legname><nospellcheck>The Judgment Clock</nospellcheck></atom-legname>. Activate only as a sorcery.
+		<sym-auto>T</sym-auto>, Remove twelve charge counters from <atom-legname><nospellcheck>The Judgment Clock</nospellcheck></atom-legname>: Restart the game, leaving in exile all permanent cards exiled with <atom-legname><nospellcheck>The Judgment Clock</nospellcheck></atom-legname>. Then put those cards onto the battlefield under your control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: MJ Fetesio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

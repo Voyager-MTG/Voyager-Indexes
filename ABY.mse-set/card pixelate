@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:07
+	time_modified: 2025-12-05 18:14:23
+	name: Pixelate
+	casting_cost: U
+	image: image9.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		This spell has <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> as long as you’ve cast another spell this turn.
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature loses all abilities and is a blue Avatar creature with base power and toughness 1/1.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nikita Orlov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

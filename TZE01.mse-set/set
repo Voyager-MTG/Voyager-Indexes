@@ -7,7 +7,7 @@ set_info:
 	title: Zeta
 	description: !designer Voyager
 	set_code: TZE01
-	symbol: symbol1.mse-symbol
+	symbol: symbol2.mse-symbol
 	masterpiece_symbol: 
 	inverted_common_symbol: yes
 	custom_mana_symbol_name: MyrCustoms/Vertex.png

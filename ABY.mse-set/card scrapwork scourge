@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:58
+	time_modified: 2025-12-05 18:20:45
+	name: Scrapwork Scourge
+	casting_cost: 3RR
+	image: image109.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Whenever one or more creatures you control deal combat damage to a player, exile that many cards from the top of your library. Choose one of them. You may play that card this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Mirco Paganessi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:58
+	time_modified: 2025-12-05 18:21:03
+	name: Collapse of the Web
+	casting_cost: 2R
+	image: image136.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		This spell has <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> as long as you control a Path or as long there is a Path card in your graveyard.
+		<atom-cardname><nospellcheck>Collapse of the Web</nospellcheck></atom-cardname> deals 2 damage to each untapped creature.
+	flavor_text: <i-flavor>After eons uncounted, <error-spelling:en_US>Armant</error-spelling:en_US> would finally and forever be alone.</i-flavor>
+	watermark: other magic symbols story spotlight
+	illustrator: Francois Coutu
+	card_code_text: Story Spotlight 11/12
+	card_code_text_2: 
+	card_code_text_3: 

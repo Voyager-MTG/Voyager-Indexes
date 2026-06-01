@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !tag CanonReprint
+	time_created: 2024-12-03 22:39:56
+	time_modified: 2026-01-16 19:17:06
+	name: Prismatic Lens
+	casting_cost: 2
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
+	flavor_text:
+		<i-flavor>“<error-spelling:en_US>Mana</error-spelling:en_US> can be dispersed by a similar process to light. But what is its fundamental particle?”<soft-line>
+		—Artisan Guild laboratory notes</soft-line></i-flavor>
+	illustrator: Alexis Susani
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

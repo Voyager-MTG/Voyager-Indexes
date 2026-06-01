@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:50:39
+	time_modified: 2025-12-05 18:17:23
+	name: Leonin Wanderer
+	casting_cost: 1W
+	image: image125.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Tap an untapped creature you control: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+		Tap three untapped creatures you control: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Ilya Royz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

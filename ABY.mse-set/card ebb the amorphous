@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Bonus sheet
+	time_created: 2024-12-06 00:44:31
+	time_modified: 2025-12-05 18:23:15
+	name: Ebb, the Amorphous
+	casting_cost: U
+	image: image133.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Shapeshifter</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<atom-legname><nospellcheck>Ebb</nospellcheck></atom-legname> can’t be blocked by creatures with greater power.
+		Whenever <atom-legname><nospellcheck>Ebb</nospellcheck></atom-legname> attacks, you may have it become a copy of another target attacking creature until end of turn, except it’s 1/1 and it can’t be blocked by creatures with greater power.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Terraform Studios
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

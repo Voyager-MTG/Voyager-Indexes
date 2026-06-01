@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: changed 
 	time_created: 2024-10-03 23:40:23
-	time_modified: 2025-11-22 00:06:16
+	time_modified: 2026-06-01 13:04:35
 	name: Pestilent Meeting
 	casting_cost: 1G
 	image: image271
@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Search your library for a land card and put it onto the battlefield tapped, then shuffle. If it wasn’t basic, sacrifice a land.
+	rule_text: Search your library for a land card, put it onto the battlefield tapped, then shuffle. If it wasn’t basic, sacrifice a land.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: ABeardedArtist
 	card_code_text: 

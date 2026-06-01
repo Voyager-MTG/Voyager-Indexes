@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:38:03
+	time_modified: 2026-01-16 00:37:56
+	name: I.E. Subsister
+	casting_cost: 2W
+	image: image20.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Robot</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of your upkeep, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>Mathis brought the once-well-kept Artisan Guild secrets of <error-spelling:en_US>Chrontech</error-spelling:en_US> cleanly within <error-spelling:en_US>Zeth’s</error-spelling:en_US> grasp.</i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: XT-Art
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:07
+	time_modified: 2026-02-18 12:51:09
+	name: Return to Sender
+	casting_cost: 3U
+	image: image8.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast if it targets a creature that entered this turn.
+		Return target creature to its owner’s hand.
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Scott Uminga
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

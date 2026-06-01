@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:33
+	time_modified: 2025-12-05 18:19:24
+	name: Nimble Redeye
+	casting_cost: 4B
+	image: image66.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Assassin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		This spell costs <sym-auto>1</sym-auto> less to cast for each creature that died this turn.
+		When this creature enters, destroy any number of target creatures that were dealt damage this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Thanet Thanakij
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

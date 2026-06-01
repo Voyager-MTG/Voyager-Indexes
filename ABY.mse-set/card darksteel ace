@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:33
+	time_modified: 2026-01-16 21:53:16
+	name: Darksteel Ace
+	casting_cost: 3B
+	image: image203.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Pilot</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When this creature enters, create a 3/2 colorless Vehicle artifact token with <kw-0><nospellcheck><key>crew <param-number>1</param-number></key></nospellcheck></kw-0>. <i-auto>(It has “Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.”)</i-auto>
+		Whenever a Vehicle you control attacks, if it was crewed by this creature this turn, it gains <kw-0><nospellcheck><key>indestructible</key></nospellcheck></kw-0> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Chin Fong
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

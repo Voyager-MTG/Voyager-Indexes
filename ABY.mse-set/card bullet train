@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:26
+	time_modified: 2025-12-05 18:15:34
+	name: Bullet Train
+	casting_cost: 4R
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		When this Vehicle enters, it becomes an artifact creature until end of turn.
+		<kw-A><nospellcheck><key>Crew <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Tap any number of creatures you control with total power <param-number>2</param-number> or more: This Vehicle becomes an artifact creature until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Alejandro Burdisio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-06 00:44:31
+	time_modified: 2025-12-05 18:23:50
+	name: Bootstrapped Zygote
+	casting_cost: G
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Egg</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: <sym-auto>T</sym-auto>: You may play a creature card you own from outside the game. If you do, put this creature into your sideboard. Activate only as a sorcery.
+	flavor_text: <i-flavor>The seed must predate the tree, yet the tree must predate the seed.</i-flavor>
+	power: 0
+	toughness: 1
+	illustrator: Dario Jelusic
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

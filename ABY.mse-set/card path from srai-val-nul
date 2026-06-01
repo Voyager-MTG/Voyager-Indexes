@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:56:32
+	time_modified: 2026-01-06 16:36:59
+	name: Path from Srai-Val-Nul
+	image: image192.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Path</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		This land enters tapped unless you control a tapped green creature.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
+		<kw-A><nospellcheck><key>Traverse <param-number>5</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap any number of creatures you control with total power <param-number>5</param-number> or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		When this Path is traversed, distribute two +1/+1 counters among one or two target creatures.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Richard Lay
+	additional_credit: Parasign
+	additional_credit_brush: flavor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

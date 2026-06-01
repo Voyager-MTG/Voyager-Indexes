@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		main_style: normal
+		other_options: vorthos box
+		additional_options: 
+		font_cap: 
+		level_offset: -20,-38,-58,
+		level_containers: loyalty boxes
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/ramzapsyru/art/Pixie-of-Memory-732389221
+	time_created: 2026-05-17 11:40:46
+	time_modified: 2026-05-17 11:49:21
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: TVP
+	card_trim: special guest, inverted, mutate
+	card_trim_plus: none
+	name: Breach of Nature
+	casting_cost: 2G
+	image: image58.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		You may look at the top card of your library any time.
+		<sym-auto>T</sym-auto>: Reveal the top card of your library. If it’s a land, you may put it onto the battlefield. Otherwise, you may mill it.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym-auto>IG</sym-auto>, Exile a land card from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>IG</sym-auto>, Exile a land card from your hand</param-cost>, reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
+	illustrator: Ramza Ardyputra
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

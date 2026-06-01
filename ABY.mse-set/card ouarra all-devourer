@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-06 00:48:13
+	time_modified: 2025-12-05 18:24:08
+	name: Ouarra, All-Devourer
+	casting_cost: 6UB
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast for each permanent with <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> you control and each instant card in your graveyard.
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Whenever you cast a spell, you may have <atom-legname><nospellcheck>Ouarra</nospellcheck></atom-legname> phase out. <i-auto>(Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Bayard Wu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

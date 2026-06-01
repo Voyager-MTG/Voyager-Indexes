@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: Bonus sheet
+	time_created: 2025-09-30 22:03:30
+	time_modified: 2026-05-01 10:53:06
+	card_trim_plus: glitch
+	alias_type: starts in sanctum
+	name: Tel, Suppressed Spark
+	alias: Spark, the Catalyst
+	casting_cost: 2G
+	image: image77
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Goblin</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Put a +1/+1 counter on <atom-legname><nospellcheck>Tel</nospellcheck></atom-legname>.
+		<sym-auto>T</sym-auto>, Remove a +1/+1 counter from <atom-legname><nospellcheck>Tel</nospellcheck></atom-legname>: <atom-legname><nospellcheck>Tel</nospellcheck></atom-legname> fights target creature.
+		<sym-auto>T</sym-auto>, Remove two +1/+1 counters from <atom-legname><nospellcheck>Tel</nospellcheck></atom-legname>: Creatures you control get +3/+3 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	level_2_text: <i-flavor></i-flavor>
+	level_3_text: 
+	power: 2
+	toughness: 2
+	illustrator: Kevin Glint
+	partition_select: after normal, main set G
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text: 

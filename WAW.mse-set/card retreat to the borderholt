@@ -10,9 +10,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-01-24 12:02:14
-	time_modified: 2025-02-03 10:09:03
+	time_modified: 2026-06-01 12:49:39
 	name: Retreat to the Borderholt
-	casting_cost: 2W
+	casting_cost: 3W
 	image: image159
 	image_2: 
 	mainframe_image: 

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: Bonus sheet
+	time_created: 2025-09-16 00:08:06
+	time_modified: 2026-05-01 10:52:25
+	card_trim_plus: glitch
+	alias_type: starts in sanctum
+	name: Ebo, Eternal Martyr
+	alias: Ebo, Fulcrum of the Coil
+	casting_cost: WB
+	image: image62
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Creature tokens you control get +1/+1.
+		<kw-A><nospellcheck><key>Embalm <param-cost><sym-auto>1WB</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1WB</sym-auto></param-cost>, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Grzegorz Przybys
+	partition_select: after normal, main set G
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

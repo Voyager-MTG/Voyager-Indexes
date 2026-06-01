@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-23 21:32:20
+	time_modified: 2026-02-13 01:40:27
+	name: The Great Exodus
+	casting_cost: 2UU
+	image: image113.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		As an additional cost to cast this spell, return a creature you control to its owner’s hand.
+		Return each creature you don’t control to its owner’s hand.
+	flavor_text: <i-flavor>With <error-spelling:en_US>Oscalia’s</error-spelling:en_US> fate in the balance, the courageous chose to stand and fight. The wise, though, chose to live.</i-flavor>
+	watermark: other magic symbols story spotlight
+	illustrator: Philip Hofmanner
+	card_code_text: Story Spotlight 5/12
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:33
+	time_modified: 2025-12-05 18:19:37
+	name: From the Abyss
+	casting_cost: 4B
+	image: image150.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	chapter_text: 
+	rule_text:
+		This spell costs <sym-auto>4</sym-auto> less to cast if it targets a creature card that was put into your graveyard from the battlefield this turn.
+		Return target creature card from your graveyard to the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: 
+	level_2_text: 
+	level_3_text: 
+	level_4_text: 
+	illustrator: Fahmi Fauzi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text: 

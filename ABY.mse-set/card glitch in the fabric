@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:53:52
+	time_modified: 2026-01-17 03:55:52
+	name: Glitch in the Fabric
+	casting_cost: 2UB
+	image: image90.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		Return up to one target creature to its owner’s hand.
+		Target player sacrifices a creature of their choice.
+	flavor_text:
+		<i-flavor><soft-line>“       !          ,       !                            !”<soft-line><soft-line><soft-line><soft-line>
+		—                            ,</soft-line></soft-line></soft-line></soft-line></soft-line></i-flavor>
+	illustrator: Jakub Fajtanowski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

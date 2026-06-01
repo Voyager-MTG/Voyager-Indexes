@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:53:58
+	time_modified: 2026-02-18 12:54:09
+	name: Onslaught Engine
+	casting_cost: 2BR
+	image: image86
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Whenever a Vehicle you control attacks, put a +1/+1 counter on it.
+		<kw-A><nospellcheck><key>Crew <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Tap any number of creatures you control with total power <param-number>2</param-number> or more: This Vehicle becomes an artifact creature until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Kevin Sidharta
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

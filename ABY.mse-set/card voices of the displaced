@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:26
+	time_modified: 2026-01-16 01:01:41
+	name: Voices of the Displaced
+	casting_cost: 1R
+	image: image26.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Orc</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Nomad</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: When this creature dies, if you control a Path or if there is a Path card in your graveyard, exile the top card of your library. You may play it until the end of your next turn.
+	flavor_text: <i-flavor>“The multiverse may have no place for us, but this world does.”</i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Mirco Paganessi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

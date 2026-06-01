@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !related Ishanna, Phenomaniac
+	time_created: 2026-01-17 15:55:28
+	time_modified: 2026-04-22 02:28:13
+	name: Clue
+	image: image76.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Clue</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>2</sym-auto>, Sacrifice this token: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Scott Uminga
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

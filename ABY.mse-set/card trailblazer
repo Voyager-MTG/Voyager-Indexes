@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: tall, M20
+		shrink_typeline_text: 1
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: !related Eva, Luminite Skipper
+	time_created: 2026-03-03 21:53:53
+	time_modified: 2026-03-03 22:29:37
+	name: Trailblazer
+	image: image147.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Legendary Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever you attack, put a charge counter on <atom-legname><nospellcheck>Trailblazer</nospellcheck></atom-legname>.
+		Equipped creature gets +1/+1 for each charge counter on <atom-legname><nospellcheck>Trailblazer</nospellcheck></atom-legname>.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	illustrator: Fahmi Fauzi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

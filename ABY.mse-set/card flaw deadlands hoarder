@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: Bonus sheet
+	time_created: 2025-09-16 00:08:06
+	time_modified: 2026-05-01 10:52:29
+	card_trim_plus: glitch
+	alias_type: starts in sanctum
+	name: Flaw, Deadlands Hoarder
+	alias: Scrounge, Eldworld Burrower
+	casting_cost: BG
+	image: image69
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mutant</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When <atom-legname><nospellcheck>Flaw</nospellcheck></atom-legname> enters, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
+		You may cast this card from your graveyard by collecting evidence 6 as an additional cost to cast it. <i-auto>(Exile other cards with total mana value 6 or greater from your graveyard.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Maxime Teppe
+	partition_select: after normal, main set G
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

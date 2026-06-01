@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Bonus sheet
+	time_created: 2024-12-06 00:44:31
+	time_modified: 2025-12-05 18:23:31
+	name: Moonfall, Coilcursed
+	casting_cost: 2BB
+	image: image27
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		When <atom-legname><nospellcheck>Moonfall</nospellcheck></atom-legname> enters, if it was cast, create a black enchantment token named Rebirth with “<kw-A><nospellcheck><key>Flux <param-number>3</param-number> — <param-one_word>Return</param-one_word></key></nospellcheck> a card named <atom-cardname><nospellcheck>Moonfall, Coilcursed</nospellcheck></atom-cardname> from your graveyard to the battlefield.”<atom-reminder-custom> <i-auto>(On your upkeep, put a time counter on this. Whenever there are <param-number>three</param-number> or more, remove <param-number>three</param-number> and trigger the flux ability.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Aboy Singh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

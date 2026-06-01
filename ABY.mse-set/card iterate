@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:07
+	time_modified: 2026-02-17 14:05:30
+	name: Iterate
+	casting_cost: U
+	image: image174.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Draw a card. Create a <kw-A><nospellcheck><key>Gear toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text:
+		<i-flavor>“Perfection isn’t a state, but a mindset of striving for improvement.”<soft-line>
+		—<error-spelling:en_US>Gallas</error-spelling:en_US>, Temporal Pioneer</soft-line></i-flavor>
+	illustrator: Jessada Sutthi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

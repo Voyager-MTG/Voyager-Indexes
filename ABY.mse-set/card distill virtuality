@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-06 00:44:31
+	time_modified: 2026-04-12 01:44:38
+	name: Distill Virtuality
+	casting_cost: 2WW
+	image: image72.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Exile all artifacts and enchantments. Each player gains life equal to the number of permanents they controlled that were exiled this way.
+	flavor_text: <i-flavor>The <error-spelling:en_US>SynthScape</error-spelling:en_US> undergoes maintenance from time to time. Much to the dismay of its <error-spelling:en_US>userbase</error-spelling:en_US>, dinosaurs were recently patched out.</i-flavor>
+	power: 
+	toughness: 
+	illustrator: Scott Uminga
+	additional_credit: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

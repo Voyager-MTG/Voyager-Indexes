@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:58
+	time_modified: 2026-03-04 18:43:02
+	name: Glimpse the Possibilities
+	casting_cost: R
+	image: image88.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Exile the top two cards of your library and this spell. You may play one of them during your next turn.
+	flavor_text: <i-flavor>Past, present, and future alike would join forces to stop the Judgment Clock. One alone would succeed.</i-flavor>
+	watermark: other magic symbols story spotlight
+	illustrator: Fran Fdez
+	card_code_text: Story Spotlight 3/12
+	card_code_text_2: 
+	card_code_text_3: 

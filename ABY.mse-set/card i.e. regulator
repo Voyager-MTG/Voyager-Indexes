@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:38:03
+	time_modified: 2026-01-15 21:38:26
+	name: I.E. Regulator
+	casting_cost: 4W
+	image: image21.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Robot</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		At the beginning of combat on your turn, you may tap or untap target creature.
+	flavor_text: <i-flavor>Developed by <error-spelling:en_US>Zeth</error-spelling:en_US>, the Implicit Equilibrium acts as an artificial defense mechanism for the plane of <error-spelling:en_US>Oscalia</error-spelling:en_US>.</i-flavor>
+	power: 3
+	toughness: 5
+	illustrator: Nikita Blyzniuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

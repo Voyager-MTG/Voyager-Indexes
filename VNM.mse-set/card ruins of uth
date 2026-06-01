@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-04-07 21:27:20
-	time_modified: 2025-11-23 19:55:49
+	time_modified: 2026-05-17 17:47:20
 	name: Ruins of Uth
 	casting_cost: 4GG
 	image: image65
@@ -13,6 +13,7 @@ card:
 	super_type: <word-list-type-en>Legendary Enchantment Artifact</word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
+	chapter_text: <i></i>
 	rule_text:
 		This spell costs <sym-auto>1</sym-auto> less to cast for each enchantment you control.
 		<sym-auto>T</sym-auto>: Add <sym-auto>GG</sym-auto>.

@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:26
+	time_modified: 2025-12-05 18:15:41
+	name: Buy Time
+	casting_cost: 1R
+	image: image43
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		As an additional cost to cast this spell, discard a card.
+		Draw a card. <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>VVVV</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aluisio Cervelle Santos
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

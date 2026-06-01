@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-11 02:09:36
+	time_modified: 2025-09-11 02:15:35
+	name: Island
+	image: image146
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: mana symbol blue
+	illustrator: Theo Di Malta
+	partition_select: after normal, main set C
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

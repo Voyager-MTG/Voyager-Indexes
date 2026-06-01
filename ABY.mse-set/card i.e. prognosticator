@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:07
+	time_modified: 2026-01-16 19:08:46
+	name: I.E. Prognosticator
+	casting_cost: 2UU
+	image: image51
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Robot</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Sphinx</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		At the beginning of your upkeep, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>Soon after the installation of the Feedback Loop, the Equilibrium’s encrypted data storage took on its own fitting form.</i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: Benjamin Giletti
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

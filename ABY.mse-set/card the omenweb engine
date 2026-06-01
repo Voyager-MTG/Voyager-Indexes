@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-27 17:58:18
+	time_modified: 2025-12-05 18:25:01
+	name: The Omenweb Engine
+	casting_cost: 2G
+	image: image130
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: You may play lands you own from outside the game.
+	flavor_text: <i-flavor>After the breaking of the loop, <error-spelling:en_US>Oscalia’s</error-spelling:en_US> spacetime fabric had been worn thin. While some saw danger, Muse saw the opportunity to weave it to the plane’s will.</i-flavor>
+	illustrator: Alejandro Burdisio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

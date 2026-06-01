@@ -379,6 +379,7 @@ include_file: card separation of worlds
 include_file: card callwolf replica
 include_file: card endless vassals
 include_file: card thoughtglass shaper
+include_file: card serf
 keyword:
 	keyword: Galvanise
 	match: galvanise

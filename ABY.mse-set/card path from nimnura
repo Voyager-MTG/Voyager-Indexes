@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !tapped
+	time_created: 2025-08-25 09:00:23
+	time_modified: 2026-01-06 16:29:17
+	name: Path from Nimnura
+	image: image183.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Path</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		This land enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.
+		<kw-A><nospellcheck><key>Traverse <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap any number of creatures you control with total power <param-number>3</param-number> or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		When this Path is traversed, search your library for a basic Island card and a basic Mountain card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Zoltan Lanyi
+	additional_credit: Legion
+	additional_credit_brush: flavor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

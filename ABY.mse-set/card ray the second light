@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Bonus sheet
+	time_created: 2024-12-03 22:54:43
+	time_modified: 2026-03-01 23:05:44
+	name: Ray, the Second Light
+	casting_cost: 3RW
+	image: image162.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Whenever a creature you control attacks alone, create a tapped and attacking token that’s a copy of it, except it isn’t legendary and has “At the beginning of your end step, sacrifice this token.”
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 5
+	illustrator: Ramza Ardyputra
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

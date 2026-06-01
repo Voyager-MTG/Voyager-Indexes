@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:38:03
+	time_modified: 2026-01-14 17:05:15
+	name: Fractured Feline
+	casting_cost: 1W
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: When this creature enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>VV</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor>When asked whether the cat lived through or died during the experiment, <error-spelling:en_US>Gallas</error-spelling:en_US> simply responded, “Both.”</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Victor Garcia
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

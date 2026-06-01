@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:53:20
+	time_modified: 2026-01-03 14:39:47
+	name: Brain of the Equilibrium
+	casting_cost: 2WU
+	image: image84
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Robot</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	chapter_text: 
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		If moving to your upkeep step causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. <i-auto>(This does not cause flux abilities to trigger twice, but does add an additional time counter.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: 
+	level_2_text: 
+	level_3_text: 
+	level_4_text: 
+	power: 3
+	toughness: 3
+	illustrator: Colin Searle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text: 

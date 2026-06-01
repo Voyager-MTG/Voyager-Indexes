@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-12-06 00:52:49
+	time_modified: 2026-01-03 14:41:52
+	name: Planar Incursion
+	casting_cost: 3UBB
+	image: image132
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Choose six. You may choose the same mode more than once.
+		<li><bullet>• </bullet>Choose a creature. It <kw-A><nospellcheck><key>phases out</key></nospellcheck>.<atom-reminder-expert> <i-auto>(Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</i-auto></atom-reminder-expert></kw-A>
+		</li><li><bullet>• </bullet>All creatures get -1/-1 until end of turn.
+		</li><li><bullet>• </bullet>Each opponent loses 1 life and you gain 1 life.</li>
+	flavor_text: <i-flavor>Desperate for time, Dawn began the end.</i-flavor>
+	watermark: other magic symbols story spotlight
+	illustrator: Bayard Wu
+	additional_credit: LeetWizard
+	additional_credit_brush: flavor
+	card_code_text: Story Spotlight 8/12
+	card_code_text_2: 
+	card_code_text_3: 

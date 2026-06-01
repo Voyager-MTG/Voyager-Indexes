@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:54:04
+	time_modified: 2026-01-13 17:22:32
+	name: Chart Past and Future
+	casting_cost: 1RG
+	image: image199.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When this enchantment enters, exile the top two cards of your library. You may play them this turn. You may play an additional land this turn.
+		Whenever a Path you control enters or is traversed, return this enchantment to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jue Li
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

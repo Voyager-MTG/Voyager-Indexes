@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:56
+	time_modified: 2026-01-09 21:26:58
+	name: Heavy Artillery System
+	casting_cost: 1
+	image: image202.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this artifact: It deals 3 damage to target creature. Activate only as a sorcery.
+		<sym-auto>7</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this artifact: Destroy target nonland permanent. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Joseph Qiu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

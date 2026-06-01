@@ -1,0 +1,20 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:07
+	time_modified: 2026-01-15 22:31:39
+	name: Enforce Equilibrium
+	casting_cost: 1UU
+	image: image32.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Counter target spell. <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>VV</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>“Unapproved conjuration detected. Restoring <error-spelling:en_US>Timecoil</error-spelling:en_US> trajectory . . .”</i-flavor>
+	illustrator: Von Milano
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

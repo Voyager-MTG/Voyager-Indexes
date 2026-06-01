@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:54:51
+	time_modified: 2025-12-05 18:22:33
+	name: Counter of Minutes
+	casting_cost: 3
+	image: image93
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Robot</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When this creature enters, you may search your library for any number of cards named Counter of Seconds, reveal them, put them into your hand, then shuffle.
+		If you would get one or more <sym-auto>V</sym-auto>, <kw-A><nospellcheck><key>you get</key></nospellcheck> that many <sym>V</sym> plus one instead.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Asep Ariyanto
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

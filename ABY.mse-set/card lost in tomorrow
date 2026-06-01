@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:07
+	time_modified: 2025-12-05 18:14:16
+	name: Lost in Tomorrow
+	casting_cost: U
+	image: image4.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Target creature <kw-A><nospellcheck><key>phases out</key></nospellcheck>.<atom-reminder-expert> <i-auto>(Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>VV</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Richard Sashigane
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

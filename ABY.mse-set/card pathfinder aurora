@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-06 00:50:13
+	time_modified: 2026-03-03 22:20:20
+	name: Pathfinder <i>Aurora</i>
+	casting_cost: 1
+	image: image168.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Whenever <atom-legname><nospellcheck>Pathfinder <i>Aurora</i></nospellcheck></atom-legname> attacks, you may discard a card. If you do, choose land or nonland, then reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and the rest on the bottom of your library in a random order.
+		<kw-0><nospellcheck><key>Crew <param-number>1</param-number></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Pablo Rivera
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:54:24
+	time_modified: 2025-12-05 18:22:15
+	name: Turning of the Coil
+	casting_cost: XBG
+	image: image91
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		As an additional cost to cast this spell, sacrifice a creature.
+		Search your library and/or graveyard for a creature with mana value less than or equal to the sacrificed creature’s mana value plus X and put it onto the battlefield. If you searched your library this way, shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Antonis Papantoniou
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

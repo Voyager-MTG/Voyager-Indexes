@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-11-03 00:42:04
+	time_modified: 2026-03-01 21:07:55
+	name: Junksite Compactor
+	casting_cost: 1BR
+	image: image206.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		When this Vehicle enters, discard any number of cards. If you do, draw that many cards.
+		This Vehicle gets +1/+1 for each card in your graveyard.
+		<kw-0><nospellcheck><key>Crew <param-number>3</param-number></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Raphael Pinna
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

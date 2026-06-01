@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2024-12-06 00:51:09
+	time_modified: 2025-12-05 18:24:47
+	name: Prodigal Dimensiurge
+	casting_cost: 2W
+	image: image110
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		When this creature enters, create The Planar Portal, a legendary colorless artifact token with “<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Exile target creature you control, then return it to the battlefield under its owner’s control. Activate only as a sorcery.”
+		Whenever another creature you control enters, put a +1/+1 counter on this creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Hoang Lap
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

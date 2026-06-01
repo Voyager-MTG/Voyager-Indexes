@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-12-03 22:52:58
+	time_modified: 2026-04-10 00:56:12
+	name: Flowstone Imbuer
+	casting_cost: 2R
+	image: image100.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Pilot</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When this creature enters, you may search your library for a Vehicle card, reveal it, then shuffle and put that card on top.
+		<sym-auto>1</sym-auto>: Target Vehicle creature you control gets +1/-1 until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Tristan Bideau
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

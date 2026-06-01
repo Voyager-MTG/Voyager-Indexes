@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:39
+	time_modified: 2026-01-16 02:39:31
+	name: Outlands Specimen
+	casting_cost: G
+	image: image51.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>1G</sym-auto>: This creature gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn.
+		When this creature dies, put a +1/+1 counter on up to one target creature.
+	flavor_text: <i-flavor>A newfound tradition among <error-spelling:en_US>outlanders</error-spelling:en_US>, the exchange of species between planes has led to many a scientific discovery.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Mirco Paganessi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

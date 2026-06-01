@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:26
+	time_modified: 2025-12-05 18:15:36
+	name: Molten Eldbeast
+	casting_cost: 4RR
+	image: image104.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		When this creature enters, discard any number of cards, then draw that many cards.
+		<kw-A><nospellcheck><key>Cycling <param-cost><sym-auto>R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>R</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 6
+	illustrator: Daryl Mandryk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:53:08
+	time_modified: 2026-03-04 20:38:40
+	name: Séance With Those To Be
+	casting_cost: 1G
+	image: image139.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When this enchantment enters, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
+		Tap two untapped creatures you control: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Rayven Studios
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

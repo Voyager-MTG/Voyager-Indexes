@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-06 00:48:21
+	time_modified: 2026-01-03 14:42:14
+	name: The Coil’s Burdens
+	casting_cost: 3WB
+	image: image34.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Ward—<param-cost>Pay 5 life, sacrifice all creatures you control, or discard your hand</param-cost>.</key></nospellcheck></kw-0>
+		<margin:0:0:5>At the beginning of your end step, choose one that hasn’t been chosen. If you can’t, you win the game.</margin:0:0:5>
+		<li><bullet>• </bullet>You lose 5 life.
+		</li><li><bullet>• </bullet>Sacrifice all creatures you control.
+		</li><li><bullet>• </bullet>Discard your hand.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Leif Heanzo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

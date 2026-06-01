@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:50:39
+	time_modified: 2026-01-16 20:58:45
+	name: Serve Time
+	casting_cost: 1W
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Remove any number of counters from target permanent or player.
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>VVV</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A></li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: agus sw
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

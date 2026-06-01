@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:38:03
+	time_modified: 2026-01-15 19:46:42
+	name: Coil’s Trilogy
+	casting_cost: 2WW
+	image: image185.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rule_text:
+		When this enchantment enters, create three 1/1 black Cleric creature tokens.
+		<sym-auto>4WW</sym-auto>, Sacrifice this enchantment: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery.
+	flavor_text: <i-flavor>Two’s company. Three’s fate avowed.</i-flavor>
+	illustrator: Theo Di Malta
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

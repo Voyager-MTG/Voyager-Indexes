@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:39
+	time_modified: 2026-01-16 19:59:15
+	name: People of the Sun
+	casting_cost: 2G
+	image: image94.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Nomad</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>1G</sym-auto>: Return target basic or Path land card from your graveyard to your hand.
+	flavor_text: <i-flavor>The people of <error-spelling:en_US>Armant</error-spelling:en_US>, former natives of <error-spelling:en_US>Oscalia</error-spelling:en_US>, now saw a landscape as alien to them as to their <error-spelling:en_US>Duncastian</error-spelling:en_US> and <error-spelling:en_US>Kamigawan</error-spelling:en_US> neighbors.</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Felix Riano
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-06 00:50:13
+	time_modified: 2026-04-10 01:11:37
+	name: I.E. Infantry
+	casting_cost: 2
+	image: image170.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Robot</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever an artifact creature you control deals combat damage to a player, put a +1/+1 counter on it.
+		<sym-auto>1</sym-auto>, Remove a +1/+1 counter from this creature: It gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. Tap it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Eduardo Dominguez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

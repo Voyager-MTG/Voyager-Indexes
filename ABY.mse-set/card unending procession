@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:54:11
+	time_modified: 2026-02-26 00:53:51
+	name: Unending Procession
+	casting_cost: GW
+	image: image88
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		At the beginning of each end step, create a 1/1 black Cleric creature token if you’ve activated an ability that wasn’t a mana ability this turn.
+		<sym-auto>2GW</sym-auto>: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Biagio D’Alessandro
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

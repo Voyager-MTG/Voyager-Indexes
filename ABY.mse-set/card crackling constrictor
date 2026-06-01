@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:18
+	time_modified: 2026-01-16 18:06:54
+	name: Crackling Constrictor
+	casting_cost: 4B
+	image: image89.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Robot</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Snake</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever this creature becomes tapped, each opponent loses 3 life unless that player sacrifices a creature of their choice or discards a card.
+	flavor_text: <i-flavor>All followers of the Serpent God seek to enact its vision. A select few even remake their own bodies in its image.</i-flavor>
+	power: 5
+	toughness: 3
+	illustrator: XT-Art
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

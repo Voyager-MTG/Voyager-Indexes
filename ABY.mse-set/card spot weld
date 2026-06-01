@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:26
+	time_modified: 2026-04-22 15:26:41
+	name: Spot Weld
+	casting_cost: 1R
+	image: image106.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Create a 3/2 colorless Vehicle artifact token with <kw-0><nospellcheck><key>crew <param-number>1</param-number></key></nospellcheck></kw-0>. <i-auto>(It has “Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.”)</i-auto>
+		</li><li><bullet>• </bullet>Destroy target artifact.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anh Tung
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

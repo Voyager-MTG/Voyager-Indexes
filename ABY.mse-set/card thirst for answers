@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:17
+	time_modified: 2026-01-16 21:26:01
+	name: Thirst for Answers
+	casting_cost: 2U
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Draw three cards. Then discard two cards unless you discard an instant card or a card with <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>After the break-in, the Artisans learned the hard way that the world wasn’t the only thing with secrets to protect.</i-flavor>
+	illustrator: Clark Huggins
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

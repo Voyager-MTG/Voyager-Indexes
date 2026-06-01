@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-12-06 00:44:31
+	time_modified: 2026-04-22 02:58:50
+	name: Scourge of the SynthScape
+	casting_cost: 2B
+	image: image201.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Other creatures you control get -1/-1.
+		Whenever a creature you control dies, put a +1/+1 counter on this creature.
+		When this creature dies, if it had three or more +1/+1 counters on it, you may return it to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Taras Susak
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

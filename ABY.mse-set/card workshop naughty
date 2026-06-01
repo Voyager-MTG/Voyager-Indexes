@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 10
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-12-03 22:39:18
+	time_modified: 2025-12-05 18:14:50
+	name: Workshop Naughty
+	casting_cost: B
+	image: image70.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Faerie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When this creature enters, each opponent loses 1 life and you gain 1 life.
+		<kw-A><nospellcheck><key>Splinter <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Anh Tung
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

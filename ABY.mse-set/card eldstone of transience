@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-11-20 18:45:04
+	time_modified: 2026-03-04 16:01:52
+	card_color_2: white
+	name: Eldstone of Transience
+	casting_cost: 2WW
+	image: image175.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<sym-auto>W</sym-auto>, <sym-auto>T</sym-auto>: Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.
+		<kw-0><nospellcheck><key>Basic landcycling <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck></kw-0>
+		When you cycle this card, return up to one target creature card with mana value 1 or less from your graveyard to the battlefield tapped with a <kw-0><nospellcheck><key>finality counter</key></nospellcheck></kw-0> on it.
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	loyalty_cost_9: 
+	loyalty_cost_10: 
+	level_9_text: 
+	level_10_text: 
+	level_11_text: 
+	illustrator: Sergey Isaev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text_2: 

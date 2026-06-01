@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:38:03
+	time_modified: 2026-02-14 20:05:47
+	name: Passage Sanctifier
+	casting_cost: 1W
+	image: image6.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		Whenever another creature you control enters, you gain 1 life.
+		<kw-A><nospellcheck><key>Splinter <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Damian Audino
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

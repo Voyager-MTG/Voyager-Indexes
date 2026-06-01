@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-12-06 00:51:09
+	time_modified: 2025-12-05 18:24:54
+	name: Sentience Swapper
+	casting_cost: 2BB
+	image: image126
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mercenary</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever this creature deals combat damage to a player, you may exile it. If you do, gain control of that player during their next turn. After that turn, that player takes an extra turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Christina P. Myrvold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

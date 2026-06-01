@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:38:03
+	time_modified: 2026-04-22 15:27:17
+	name: In the Nick of Time
+	casting_cost: 1W
+	image: image208.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Target creature gets +1/+3 and gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>VV</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>The Disciples often stage raids on <error-spelling:en_US>outlands</error-spelling:en_US> caravans. Somehow, they’re always just too late.</i-flavor>
+	illustrator: Tristan Bideau
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

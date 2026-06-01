@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:52:58
+	time_modified: 2026-01-16 22:21:43
+	name: Abandon the Timecoil
+	casting_cost: 1RR
+	image: image140.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	chapter_text: 
+	rule_text: Discard your hand, then draw three cards. <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V</sym> for each card discarded this way.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>It was time to go.</i-flavor>
+	watermark: other magic symbols story spotlight
+	level_1_text: 
+	level_2_text: 
+	level_3_text: 
+	level_4_text: 
+	illustrator: Kirsten Zirngibl
+	additional_credit: FourEyesIsAFish
+	additional_credit_brush: flavor
+	card_code_text: Story Spotlight 6/12
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text: 

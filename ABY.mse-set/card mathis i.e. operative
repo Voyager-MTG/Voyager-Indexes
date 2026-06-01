@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Bonus sheet
+	time_created: 2024-12-03 22:53:52
+	time_modified: 2025-12-05 18:22:01
+	name: Mathis, I.E. Operative
+	casting_cost: UB
+	image: image165.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		During turns other than yours, spells you cast cost <sym-auto>1</sym-auto> less to cast.
+		<sym-auto>5UB</sym-auto>, Sacrifice <atom-legname><nospellcheck>Mathis</nospellcheck></atom-legname>: Draw three cards. This ability costs <sym-auto>1</sym-auto> less to activate for each permanent with <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> you control and each instant card in your graveyard.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: Kez Laczin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-11-20 18:45:06
+	time_modified: 2026-03-03 23:12:19
+	card_color_2: green
+	name: Eldstone of Bloom
+	casting_cost: 2GG
+	image: image134.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<sym-auto>G</sym-auto>, <sym-auto>T</sym-auto>: Put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.
+		<kw-0><nospellcheck><key>Basic landcycling <param-cost><sym-auto>1G</sym-auto></param-cost></key></nospellcheck></kw-0>
+		When you cycle this card, put your choice of a +1/+1 counter or a loyalty on up to one target creature or planeswalker you control.
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Anthony Avon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text_2: 

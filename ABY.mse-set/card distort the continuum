@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-11-03 00:42:22
+	time_modified: 2026-01-17 03:52:10
+	name: Distort the Continuum
+	casting_cost: 5UR
+	image: image139
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Exile all creatures. Starting with you, each player puts a card exiled this way onto the battlefield under their control. Repeat this process until no one puts a card onto the battlefield.
+	flavor_text: <i-flavor>Take nothing but everything for granted.</i-flavor>
+	power: 
+	toughness: 
+	illustrator: Llia Yu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

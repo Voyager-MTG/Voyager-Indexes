@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:18
+	time_modified: 2025-12-05 18:15:14
+	name: Live on in Memory
+	casting_cost: 1B
+	image: image69.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Each player sacrifices a creature of their choice.
+		<sym-auto>3B</sym-auto>, Exile this card from your graveyard: Return target creature card from your graveyard to your hand. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jose Ramirez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

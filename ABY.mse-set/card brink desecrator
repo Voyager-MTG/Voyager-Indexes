@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-06 00:44:31
+	time_modified: 2025-12-05 18:23:20
+	name: Brink Desecrator
+	casting_cost: 2B
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		Whenever you attack, choose an attacking creature. Whenever that creature deals combat damage to a player this turn, that player loses 3 life unless they sacrifice a creature of their choice or discard a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: Alejandro Burdisio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

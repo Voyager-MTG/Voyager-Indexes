@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 6
+		chop_bottom: 6
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-12-03 22:52:58
+	time_modified: 2026-04-11 23:56:19
+	name: Madcap Prodigies
+	casting_cost: 2R
+	image: image53.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Gremlin</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Whenever you cast a spell, choose one —
+		<li><bullet>• </bullet>Add <sym-auto>R</sym-auto>.
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A></li>
+	flavor_text:
+		<i-flavor>Attempt #571 Notes: Coiling failed. <error-spelling:en_US>Recalibrating</error-spelling:en_US> . . .<soft-line>
+		Attempt #570 Notes: Bootstrap process complete. Experiment success.</soft-line></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Atanas Lozanski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

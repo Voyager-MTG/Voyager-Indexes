@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 
+		combined_chop: 
+		shift_loyalty_costs: 0,0,-2,0
+		opacity: 100
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-12-06 00:52:49
+	time_modified: 2025-12-12 18:21:02
+	name: Zeth, Planar Architect
+	casting_cost: 1WU
+	image: image131
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Zeth</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	loyalty_cost_2: +1
+	loyalty_cost_3: -2
+	loyalty_cost_4: -2
+	loyalty: 3
+	level_1_text: <kw-A><nospellcheck><key>Flux <param-number>2</param-number> — <param-one_word>You</param-one_word></key></nospellcheck> may activate loyalty abilities of <atom-legname><nospellcheck>Zeth</nospellcheck></atom-legname> twice this turn rather than only once.<atom-reminder-custom> <i-auto>(On your upkeep, put a time counter on this. Whenever there are <param-number>two</param-number> or more, remove <param-number>two</param-number> and trigger the flux ability.)</i-auto></atom-reminder-custom></kw-A>
+	level_2_text: <margin:130:0:0>Tap or untap target nonland permanent.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Return another target nonland permanent you control to its owner’s hand, then create a tapped token that’s a copy of it.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Destroy target tapped nonland permanent.</margin:130:0:0>
+	level_5_text: 
+	illustrator: Alexandr Leskinen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<kw-A><nospellcheck><key>Flux <param-number>2</param-number> — <param-one_word>You</param-one_word></key></nospellcheck> may activate loyalty abilities of <atom-legname><nospellcheck>Zeth</nospellcheck></atom-legname> twice this turn rather than only once.<atom-reminder-custom> <i-auto>(On your upkeep, put a time counter on this. Whenever there are <param-number>two</param-number> or more, remove <param-number>two</param-number> and trigger the flux ability.)</i-auto></atom-reminder-custom></kw-A>
+		[+1]: <margin:130:0:0>Tap or untap target nonland permanent.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Return another target nonland permanent you control to its owner’s hand, then create a tapped token that’s a copy of it.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Destroy target tapped nonland permanent.</margin:130:0:0>

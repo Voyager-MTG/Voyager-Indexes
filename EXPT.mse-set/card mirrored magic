@@ -12,7 +12,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer TVP
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-11-23 15:45:22
+	time_modified: 2026-05-22 17:56:59
 	alias_type: godzilla
 	name: Mirrored Magic
 	alias: Invigoration
@@ -29,9 +29,9 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>creature or non-aura enchantment</param-name></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature or non-Aura enchantment</param-name></key></nospellcheck></kw-a>
 		Enchanted permanent is also a creature with size 4/4.
-		Whenever this enchantment leaves the battlefield, draw a card.
+		When this enchantment leaves the battlefield, draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

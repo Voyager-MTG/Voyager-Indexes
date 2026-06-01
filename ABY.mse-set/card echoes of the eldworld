@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:53:08
+	time_modified: 2025-12-05 18:21:46
+	name: Echoes of the Eldworld
+	casting_cost: 2G
+	image: image74.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Return up to one target permanent card in your graveyard and any number of other target permanent cards in your graveyard that were put there from the battlefield this turn to your hand.
+	flavor_text: <i-flavor>Researchers from the Artisan Guild delved deep into <error-spelling:en_US>Oscalia’s</error-spelling:en_US> core in hopes of realizing the future. The past answered.</i-flavor>
+	watermark: other magic symbols story spotlight
+	illustrator: Vizlab Studios
+	card_code_text: Story Spotlight 2/12
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:39:18
+	time_modified: 2025-12-05 18:15:08
+	name: Scriptoral Operation
+	casting_cost: 1B
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		As an additional cost to cast this spell, sacrifice a creature.
+		Draw two cards. <kw-A><nospellcheck><key>You get</key></nospellcheck> an amount of <sym>V</sym> equal to the sacrificed creature’s mana value.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sparth
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
