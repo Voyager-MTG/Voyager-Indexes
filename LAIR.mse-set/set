@@ -206,7 +206,13 @@ include_file: card apostle entheate.1
 include_file: card saylthe twice-drowned
 include_file: card new tensuo physician
 include_file: card angel of dying flames
-include_file: card angel of dying flames.1
+include_file: card urban flytrap
+include_file: card angel of the true sun
+include_file: card wishtouched outcast
+include_file: card ilcan soulshear
+include_file: card herald of blackened stars.1
+include_file: card lifelighter.1
+include_file: card new tensuo luminary
 version_control:
 	type: none
 apprentice_code: 

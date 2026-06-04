@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/ruaidhriart/art/Makima-and-Angel-Devil-Chainsaw-Man-937495167
+	time_created: 2022-05-26 21:49:52
+	time_modified: 2026-05-17 15:33:22
+	extra_data:
+		magic-m15-altered-plus: corner: sanctum
+	name: Breach of Protection
+	casting_cost: 1W
+	image: image14.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Pathbound—<param-cost><sym-auto>I/W</sym-auto>, Reveal a card with lifelink or healing from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>I/W</sym-auto>, Reveal a card with lifelink or healing from your hand</param-cost>, reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of your end step, create a 2/2 white Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> if you’ve gained 3 or more life this turn.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	illustrator: Ruaidhriart
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

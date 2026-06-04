@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/ruaidhriart/art/A-boy-with-a-wolf-ver2-899412402
+	time_created: 2026-05-17 15:11:26
+	time_modified: 2026-05-17 15:33:26
+	name: Found Family
+	casting_cost: 1W
+	image: image9.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Choose target nonland permanent with a creature type. Its owner embraces it. <i-auto>(Exile it. They may play it on a later turn that a source they control that shares a creature type with it dealt damage to an opponent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ruaidhriart
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

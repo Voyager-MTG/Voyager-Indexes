@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/ppp597/art/The-Trial-1320339491
+	time_created: 2024-08-28 13:06:05
+	time_modified: 2026-05-23 11:27:04
+	name: Unfair Judgment
+	casting_cost: 1W
+	image: image72.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		As an additional cost to cast this spell, you may sacrifice a creature.
+		Exile target creature if it’s attacking or if you paid this spell’s additional cost.
+	flavor_text: <i-flavor>Evidence is of no use if it can’t be brought to the trial.</i-flavor>
+	illustrator: Pawel Kosior
+	card_code_text: 
+	card_code_text_2:
+		 Story Spotlight
+	card_code_text_3:
+		 Story Spotlight
+	copyright: 
+	copyright_2: 
+	copyright_3: 

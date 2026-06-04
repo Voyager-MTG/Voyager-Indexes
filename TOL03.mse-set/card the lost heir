@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/ruaidhriart/art/The-Swan-Princess-901868924
+	time_created: 2025-02-22 23:38:01
+	time_modified: 2026-05-17 15:33:21
+	card_color: silver
+	name: The Lost Heir
+	casting_cost: 1I
+	image: image15.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Protection from <param-name>planeswalkers</param-name></key></nospellcheck></kw-0>
+		Once each turn, if an opponent would cast a spell from anywhere other than their hand or reveal a card from their sanctum, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Ruaidhriart
+	card_code_text: 
+	card_code_text_2: Styles
+	card_code_text_3: Styles
+	copyright: 
+	copyright_2: 
+	copyright_3: 

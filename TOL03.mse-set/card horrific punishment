@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-08-28 13:20:32
+	time_modified: 2026-05-17 19:43:25
+	name: Horrific Punishment
+	casting_cost: 1B
+	image: image34.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Destroy target creature unless its controller pays 3 life, discards a card or sacrifices a nonland permanent and then repeats this process twice.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Zaki Saati
+	card_code_text: 
+	card_code_text_2:
+		 Story Spotlight
+	card_code_text_3:
+		 Story Spotlight
+	copyright: 
+	copyright_2: 
+	copyright_3: 

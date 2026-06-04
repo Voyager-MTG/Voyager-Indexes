@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-04-07 21:27:20
+	time_modified: 2026-05-17 19:37:55
+	name: Ruins of Uth
+	casting_cost: 4GG
+	image: image31.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast for each enchantment you control.
+		<sym-auto>T</sym-auto>: Add <sym-auto>GG</sym-auto>.
+		<sym-auto>T</sym-auto>: Target enchantment also becomes a 3/3 creature with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. <i-auto>(This effect lasts indefinitely.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Zaki Saati
+	card_code_text: 
+	card_code_text_2: Story Spotlight
+	card_code_text_3: Story Spotlight
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

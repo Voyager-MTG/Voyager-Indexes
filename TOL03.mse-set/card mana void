@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: REDRARE10https://www.deviantart.com/ukko5989/art/Img-20251025-190742-342025-1256585549?file=1
+	time_created: 2021-10-08 07:28:29
+	time_modified: 2026-05-22 17:52:06
+	name: Mana Void
+	casting_cost: 3RR
+	image: image58.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		A player losing unspent mana causes that player to lose that much life.
+		You may tap lands you don’t control for mana. Activate abilities this way only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: ukko5989
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

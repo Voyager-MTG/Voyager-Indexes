@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: never
+		overlay: 
+	notes:
+		https://www.deviantart.com/luciddarkmoon/art/001-Anyone-But-Me-914923944
+		!token
+	time_created: 2026-05-30 11:06:49
+	time_modified: 2026-05-30 11:08:45
+	name: Voidstone Shard
+	casting_cost: 2
+	image: image99.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: When <atom-cardname><nospellcheck>Voidstone Shard</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>scry <param-number>2</param-number></key></nospellcheck>.<atom-reminder-core> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them on the bottom and the rest on top in any order.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: LucidDarkmoon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

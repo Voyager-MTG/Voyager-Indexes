@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/qAyorP
+	time_created: 2026-06-02 18:21:08
+	time_modified: 2026-06-02 18:56:45
+	card_trim: fnm promo
+	name: Urban Flytrap
+	casting_cost: 6G
+	image: image96.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		As an additional cost to cast this spell, you may sacrifice a creature. If you do, this spell costs <sym-auto>3</sym-auto> less to cast.
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+	flavor_text:
+		<i-flavor>“The </i><error-spelling:en_US>decipula</error-spelling:en_US> <error-spelling:en_US>concretus<i></error-spelling:en_US> roots near the heart of society, hazardous yet stubborn as a weed.”<soft-line>
+		</soft-line>—Artisan Guild field notes</i-flavor>
+	power: 6
+	toughness: 7
+	illustrator: yoji grey
+	custom_card_number: GP Flytrap [INSERT NAME FOR PROMO HERE]
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

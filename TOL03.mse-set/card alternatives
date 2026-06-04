@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: booster
+	stylesheet_version: 2021-03-09
+	has_styling: true
+	styling_data:
+		title_color: rgb(255,255,255)
+		card_count_color: rgb(255,255,255)
+		age_color: rgb(255,255,255)
+		artist_color: rgb(255,255,255)
+		shadowed_text: title
+		small_text_over_title: no
+		text_texture_mode: on
+		font_sizes: 
+		rarity_opacity: 100
+		main_title_placement: 15,740
+		sub_title_placement: 15,700
+		card_count_placement: 
+		artist_placement: 39,65,200,20,0
+		rarity_placement: 150,630,300,300,
+	notes:
+		OVT Packs (Official Voyager Theme)<soft-line>
+		</soft-line>Theme OV Pack for release of march 2026
+		Card list:
+		!token<soft-line>
+		</soft-line>
+	time_created: 2026-02-16 14:56:34
+	time_modified: 2026-05-30 11:18:40
+	extra_data:
+		magic-booster:
+			small_name: Ancient
+			count: 3-CARD BOOSTER PACK
+	name: Alternatives
+	image: image106.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	rarity: rare
+	illustrator: Ninquelen
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

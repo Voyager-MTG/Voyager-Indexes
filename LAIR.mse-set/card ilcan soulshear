@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/quaithz/art/Necromancer-OC-DND-1048644830
+	time_created: 2026-06-03 14:39:46
+	time_modified: 2026-06-03 14:40:31
+	card_trim: special guest, inverted
+	name: Ilcan Soulshear
+	casting_cost: 4B
+	image: image76.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Kor</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ilcan</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Soulshear</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, choose one —
+		<li><bullet>• </bullet>Destroy target creature with mana value 4 or less.
+		</li><li><bullet>• </bullet>Return target creature card with mana value 4 or less from your graveyard to the battlefield.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Quaithz
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

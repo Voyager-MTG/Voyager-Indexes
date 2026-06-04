@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/ruaidhriart/art/Guard-of-the-dreams-895547763
+	time_created: 2026-05-17 14:51:35
+	time_modified: 2026-05-17 15:33:42
+	name: Inquisitive Otter
+	casting_cost: 2U
+	image: image3.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Otter</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		Inquisitive Otter has all triggered abilities of other creatures you control not named Inquisitive Otter. <i-auto>(A triggered ability uses the words “when,” “whenever,” or “at.”)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Ruaidhriart
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

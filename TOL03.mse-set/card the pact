@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/yolte/art/Invisible-source-839025924
+	time_created: 2024-10-09 21:20:03
+	time_modified: 2026-05-18 13:39:00
+	name: The Pact
+	casting_cost: 1GG
+	image: image49.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Whenever a creature you control enters, you may return a creature card with lesser mana value than it from your graveyard to your hand. If you didn’t, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. 
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Yolte
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3:
+		  Story Spotlight
+	copyright: 
+	copyright_2: 
+	copyright_3: 

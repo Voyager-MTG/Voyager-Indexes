@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: short text only
+		overlay: 
+	notes:
+		SPOTLIGHT
+		BLUERARE10
+	time_created: 2022-01-28 07:45:30
+	time_modified: 2026-05-17 19:43:01
+	name: Nilshroud Storm
+	casting_cost: 2UU
+	image: image32.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: You get nine <sym>V</sym>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Zaki Saati
+	card_code_text: Spotlight 6/10
+	card_code_text_2: Spotlight 6/10
+	card_code_text_3: Spotlight 6/10
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

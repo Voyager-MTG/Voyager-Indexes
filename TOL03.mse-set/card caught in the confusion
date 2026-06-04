@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-07-18 21:25:51
+	time_modified: 2026-05-18 09:42:23
+	alias_type: godzilla
+	name: Caught in the Confusion
+	alias: Trap Hole
+	casting_cost: 2IW
+	image: image26.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Flash</key></nospellcheck></kw-0>
+		When this enchantment enters, exile up to one other target spell or nonland permanent. 
+		When this enchantment is no longer on the battlefield, return the exiled card to its owner’s hand.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: 
+	power: 
+	toughness: 
+	illustrator: maiderbee
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

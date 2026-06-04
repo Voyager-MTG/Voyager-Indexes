@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-06-03 15:05:01
+	time_modified: 2026-05-23 15:45:37
+	name: Flashing Path
+	image: image97.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		This land enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.
+		<sym-auto>1II</sym-auto>, Discard this: Counter target activated or triggered ability.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Pawel Kosior
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

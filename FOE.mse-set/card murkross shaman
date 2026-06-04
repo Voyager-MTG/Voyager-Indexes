@@ -14,7 +14,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: multicolor*
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-11-23 20:07:57
+	time_modified: 2026-06-02 10:07:53
 	name: Murkross Shaman
 	casting_cost: 1G
 	image: image349
@@ -30,8 +30,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		<sym-auto>R</sym-auto>: Exile target instant or sorcery card from a graveyard. Creatures you control gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
-		<sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>: Exile target permanent card from a graveyard. Each opponent loses 2 life and you gain 2 life.
+		<sym-auto>R</sym-auto>: Exile target instant or sorcery card from a graveyard. Target creature you control gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>: Exile target permanent card from a graveyard. Each opponent loses 1 life and you gain 1 life.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/flynndeivan/art/Eternal-Sword-Master-Yi-Pearl-Chroma-Splash-Art-977745175
+	time_created: 2026-06-03 17:13:09
+	time_modified: 2026-06-03 17:18:02
+	card_trim: special guest, inverted
+	name: New Tensuo Luminary
+	casting_cost: W
+	image: image103.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Whenever another creature with base power 1 or less enters under your control, put a +1/+1 counter on New <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Tensuo</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Luminary. This ability triggers only once each turn.
+		<kw-A><nospellcheck><key>Reflect <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>3</sym-auto></param-cost>: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight without reflect. Reflect only as a sorcery, and only once.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: FlynndeIvan
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
