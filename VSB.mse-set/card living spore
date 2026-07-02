@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/the-sand-trap/art/Fungal-93576530
+	time_created: 2026-05-01 20:21:07
+	time_modified: 2026-05-04 18:57:17
+	name: Living Spore
+	casting_cost: 1I
+	image: image39.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Living Spore</nospellcheck></atom-cardname>’s power and toughness are each equal to the number of Fungus you control.
+		<sym-auto>2I</sym-auto>, Discard a card: Create a token that’s a copy of <atom-cardname><nospellcheck>Living Spore</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: *
+	toughness: *
+	illustrator: The-Sand-Trap
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

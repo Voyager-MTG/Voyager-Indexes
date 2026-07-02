@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/darkcloud013/art/Giant-Rats-403930700
+	time_created: 2026-03-07 18:33:08
+	time_modified: 2026-06-30 19:11:21
+	name: Ossivus Scavengers
+	casting_cost: 3RG
+	image: image47.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wolf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rat</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Ossivus Scavengers</nospellcheck></atom-cardname> attacks or becomes the target of a spell, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		Whenever <kw-0><nospellcheck><key>you get a Scar</key></nospellcheck></kw-0>, create a <kw-0><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-0>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Cloud Quinot
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

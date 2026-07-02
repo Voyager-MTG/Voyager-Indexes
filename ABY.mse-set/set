@@ -5,6 +5,7 @@ stylesheet: m15-altered
 stylesheet_version: 2024-09-23
 set_info:
 	title: A Better Yesterday
+	description: !designer Stasis
 	copyright: Stasis
 	set_code: ABY
 	set_language: EN

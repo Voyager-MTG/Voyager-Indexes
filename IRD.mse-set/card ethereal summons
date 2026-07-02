@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.instagram.com/p/DMf37nUtY3D/?e=59296dd8-392a-436a-980f-4ca28663fbe4&g=5
+	time_created: 2025-07-30 21:28:09
+	time_modified: 2026-06-27 22:20:04
+	name: Ethereal Summons
+	casting_cost: GU
+	image: image31
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Kicker <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may pay an additional <param-mana><sym-auto>2</sym-auto></param-mana> as you cast this spell.)</i-auto></atom-reminder-expert></kw-A>
+		Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand, then shuffle. If this spell was kicked, conjure a duplicate of that card into your hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anato Finnstark
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

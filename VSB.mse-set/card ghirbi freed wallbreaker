@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: https://www.deviantart.com/sixfrid/art/Gold-Golem-432265215
+	time_created: 2026-03-05 16:49:28
+	time_modified: 2026-03-10 19:13:34
+	name: Ghirbi, Freed Wallbreaker
+	casting_cost: 1IR
+	image: image46.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Ghirbi</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	loyalty_cost_2: +1
+	loyalty_cost_3: -2
+	loyalty: 3
+	level_1_text: Creatures you control can attack as if they didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
+	level_2_text: <margin:130:0:0>Until your next turn, all creatures must attack if able.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Target creature gets +3/-2 until end of turn.</margin:130:0:0>
+	level_4_text: 
+	illustrator: Sixfrid
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		Creatures you control can attack as if they didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
+		[+1]: <margin:130:0:0>Until your next turn, all creatures must attack if able.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Target creature gets +3/-2 until end of turn.</margin:130:0:0>

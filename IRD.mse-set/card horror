@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: https://www.instagram.com/p/DY2xCi3Afs1/
+	time_created: 2026-07-02 16:09:36
+	time_modified: 2026-07-02 16:10:28
+	card_color: silver
+	name: Horror
+	image: image23.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	power: 3
+	toughness: 2
+	illustrator: Stan Ivan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

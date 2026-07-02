@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/qAyorP
 	time_created: 2026-06-02 18:21:08
-	time_modified: 2026-06-02 18:56:45
-	card_trim: fnm promo
+	time_modified: 2026-06-28 17:58:38
+	card_trim: borderless art, fnm promo
 	name: Urban Flytrap
 	casting_cost: 6G
-	image: image96.png
+	image: image87.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -28,8 +28,8 @@ card:
 		</soft-line>—Artisan Guild field notes</i-flavor>
 	power: 6
 	toughness: 7
-	illustrator: yoji grey
-	custom_card_number: GP Flytrap [INSERT NAME FOR PROMO HERE]
+	illustrator: Robert Ardy
+	custom_card_number: GP Flytrap Promo
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

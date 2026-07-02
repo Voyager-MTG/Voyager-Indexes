@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: reworked to be a titan
+	time_created: 2024-10-14 16:29:35
+	time_modified: 2025-11-24 01:27:37
+	name: Decrepid Terraformer
+	casting_cost: 1GW
+	image: image95
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Whenever this creature enters or attacks, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Zdzislaw Beksinski
+	card_code_text:
+		  
+	card_code_text_2:
+		 Hervor
+	card_code_text_3:
+		  Hervor
+	copyright: 
+	copyright_2: 
+	copyright_3: 

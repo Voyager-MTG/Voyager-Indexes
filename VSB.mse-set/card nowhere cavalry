@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/asyayordanova/art/The-Night-553749971
+	time_created: 2026-03-07 17:32:18
+	time_modified: 2026-03-07 21:19:40
+	name: Nowhere Cavalry
+	casting_cost: 2II
+	image: image11.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Whenever a land you control with a nonbasic land type enters, up to one target nonland permanent loses all abilities for as long as you control <atom-cardname><nospellcheck>Nowhere Cavalry</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Asya Yordanova
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

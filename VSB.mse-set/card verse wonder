@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/galder/art/Conjure-Reimdel-The-Golden-Voyage-919183850
+	time_created: 2026-03-07 19:34:47
+	time_modified: 2026-03-10 20:19:46
+	name: Verse Wonder
+	casting_cost: I
+	image: image33.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Sift <param-number>1</param-number></key></nospellcheck>, then draw a card.<atom-reminder-custom> <i-auto>(To sift <param-number>1</param-number>, look at the top card of your library. You may put it into your sanctum.)</i-auto></atom-reminder-custom></kw-A>
+		As long as you control a God and <atom-cardname><nospellcheck>Verse Wonder</nospellcheck></atom-cardname> is in your graveyard, it has <kw-A><nospellcheck><key>flashback <param-cost><sym-auto>I</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Galder
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/kipine/art/Conqueror-572608045
+	time_created: 2026-03-05 16:28:40
+	time_modified: 2026-03-08 10:48:42
+	name: Skaptodon
+	casting_cost: 2RR
+	image: image16.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Whenever <atom-cardname><nospellcheck>Skaptodon</nospellcheck></atom-cardname> is dealt damage, exile the top card of your library. You may play it this turn.
+	flavor_text: <i-flavor><error-spelling:en_US>Skaptodons</error-spelling:en_US> are notoriously difficult to kill, and their teeth and claws are often made into weapons.</i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Kipine
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

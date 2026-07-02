@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: 
+	time_created: 2025-01-29 20:53:04
+	time_modified: 2026-06-27 22:19:03
+	name: Apocalypse Invocation
+	casting_cost: 1B
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Search your library for a card, exile it, then shuffle. If you control a Bird creature or that card is a Bird, put it into your hand.
+	flavor_text: <i-flavor>The day when those eyes that saw hundreds of kilometers away, the scales that judged any sin, and the mouth that could devour everything united into one, darkness fell upon the forest.</i-flavor>
+	illustrator: Library of Ruina
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

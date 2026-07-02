@@ -10,7 +10,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-12-03 22:52:33
-	time_modified: 2026-01-24 16:00:04
+	time_modified: 2026-07-02 09:41:36
 	name: Chronicle of the Deceived
 	casting_cost: 1BB
 	image: image118.png
@@ -28,7 +28,7 @@ card:
 	rarity: uncommon
 	chapter_text: 
 	rule_text:
-		When this enchantment enters, draw three cards, then you lose 3 life unless you sacrifice a creature or discard a card.
+		When this enchantment enters, if you cast it, draw three cards, then you lose 3 life unless you sacrifice a creature or discard a card.
 		<kw-A><nospellcheck><key>Flux <param-number>2</param-number> — <param-one_word>You</param-one_word></key></nospellcheck> lose 3 life unless you sacrifice a creature or discard a card.<atom-reminder-custom> <i-auto>(On your upkeep, put a time counter on this. Whenever there are <param-number>two</param-number> or more, remove <param-number>two</param-number> and trigger the flux ability.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: 

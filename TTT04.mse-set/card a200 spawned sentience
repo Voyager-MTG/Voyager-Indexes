@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Bonus sheet
+	time_created: 2024-12-03 22:54:30
+	time_modified: 2026-02-04 22:36:18
+	name: A200, Spawned Sentience
+	casting_cost: 1GU
+	image: image98
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Robot</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<atom-legname><nospellcheck>A200</nospellcheck></atom-legname> enters with three +1/+1 counters on it.
+		<sym-auto>2</sym-auto>, Remove a +1/+1 counter from this creature: Draw a card.
+	flavor_text: <i-flavor>Consciousness is neither a blessing nor a curse. It is an adaptation.</i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Kevin Glint
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

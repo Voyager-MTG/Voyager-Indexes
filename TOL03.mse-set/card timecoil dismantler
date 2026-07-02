@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-03 22:52:58
-	time_modified: 2026-05-23 11:29:17
+	time_modified: 2026-07-02 09:49:23
 	name: Timecoil Dismantler
 	casting_cost: 3R
 	image: image84.png
@@ -21,8 +21,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		When this creature enters, you get <sym>VVV</sym>.
-		Whenever you spend one or more <sym-auto>V</sym-auto>, this creature deals that much damage to each opponent.
+		When this creature enters, you get <sym>V/GV/GV/G</sym>.
+		Whenever you spend one or more <sym-auto>V/G</sym-auto>, this creature deals that much damage to each opponent.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

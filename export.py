@@ -14,6 +14,9 @@ include_sets = [
     "TZE01",
     "TOL03",
     "TDD02",
+    "TTT04",
+    "VSB",
+    "IRD",
     "END"
 ]
 

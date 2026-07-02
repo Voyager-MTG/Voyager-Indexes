@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: 
+	time_created: 2025-03-30 22:17:26
+	time_modified: 2026-07-01 20:06:12
+	card_trim: legend, mutate
+	card_trim_plus: path
+	name: Arthata, Silenced Remnant
+	casting_cost: 2RR
+	image: image45
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text: <kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>protection from <param-name>opponents that lost life this turn.</param-name></key></nospellcheck></kw-0> <i-auto>(This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by opponents that lost life this turn.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: Chain of Being <i-auto>(This card may start in your sanctum. You may cast it from there by sacrificing an Angel and a Human.)</i-auto>
+	power: 4
+	toughness: 2
+	illustrator: VALUN
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

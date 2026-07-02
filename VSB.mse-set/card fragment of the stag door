@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/asyayordanova/art/Forest-Spirit-1111960826
+	time_created: 2026-03-05 17:34:47
+	time_modified: 2026-03-07 20:04:12
+	name: Fragment of the Stag Door
+	casting_cost: 1I
+	image: image4.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wall</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		<sym-auto>2I</sym-auto>: Target creature loses all abilities until end of turn. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 1
+	illustrator: Asya Yordanova
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

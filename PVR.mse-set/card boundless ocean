@@ -2,6 +2,7 @@
 card:
 	has_styling: false
 	notes:
+		!tapped
 		BLUECOMMON
 		CU19
 		LANDCYCLECOMMON

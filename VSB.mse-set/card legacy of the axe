@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/haros98/art/Axe-in-ground-1297807643
+	time_created: 2026-03-07 19:37:41
+	time_modified: 2026-03-10 20:02:57
+	name: Legacy of the Axe
+	casting_cost: 2I
+	image: image58.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>God</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: At the beginning of combat, up to one target creature you control gets +2/-2 until end of turn. Then, exchange the sizes of any number of creatures you control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Haros98
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

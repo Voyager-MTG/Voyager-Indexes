@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/retiredartist/art/Tears-in-Reality-45590729
+	time_created: 2026-05-01 20:28:35
+	time_modified: 2026-05-04 18:59:14
+	name: Being Fracture
+	casting_cost: I
+	image: image49.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		As an additional cost to cast this spell, you may reveal any number of cards named <atom-cardname><nospellcheck>Being Fracture</nospellcheck></atom-cardname> from your sanctum.
+		<atom-cardname><nospellcheck>Being Fracture</nospellcheck></atom-cardname> deals 2 damage to target player. For each card revealed this way, <atom-cardname><nospellcheck>Being Fracture</nospellcheck></atom-cardname> deals an additional 2 damage to that player.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: RetiredArtist
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

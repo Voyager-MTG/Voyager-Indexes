@@ -130,7 +130,7 @@ include_file: card ajha the wish for home
 include_file: card sentinel of dead lands
 include_file: card mental unmooring
 include_file: card disregarded project
-include_file: card firmanent sculptor
+include_file: card firmament sculptor
 include_file: card aurel born through discord
 include_file: card starsea bloomqueen
 include_file: card breach of mortality
@@ -213,6 +213,8 @@ include_file: card ilcan soulshear
 include_file: card herald of blackened stars.1
 include_file: card lifelighter.1
 include_file: card new tensuo luminary
+include_file: card bacon dreamer
+include_file: card sting
 version_control:
 	type: none
 apprentice_code: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-01 15:40:32
+	time_modified: 2026-06-27 22:20:30
+	name: Talks-to-Monsters
+	casting_cost: 2I
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Talks-to-Monsters</nospellcheck></atom-cardname> enters, if you don’t already control Monster, create Monster, a legendary 1/1 silver Horror creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		Horrors you control get +1/+0 as long as it’s your turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: 19701125s
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

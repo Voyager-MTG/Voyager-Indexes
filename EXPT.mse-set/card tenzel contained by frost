@@ -9,7 +9,7 @@ card:
 		Mono blue planeswalker
 		https://www.deviantart.com/michaelachang/art/Immortal-6-6-889510491
 	time_created: 2026-02-08 11:11:28
-	time_modified: 2026-04-23 10:43:24
+	time_modified: 2026-07-02 09:52:29
 	name: Tenzel, Contained by Frost
 	casting_cost: 2UU
 	image: image27
@@ -32,7 +32,7 @@ card:
 	loyalty: 4
 	level_1_text: <kw-1><nospellcheck><key>Warp <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your hand for its warp cost. Exile this planeswalker at the beginning of the next end step, then you may cast it from exile on a later turn.)</i-auto></atom-reminder-expert></kw-1>
 	level_2_text: <margin:130:0:0>The next time target creature you control deals combat damage to a player, draw a card.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>Create a 2/1 blue Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Create a 1/1 blue Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
 	level_4_text: <margin:130:0:0>Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. For as long as it remains tapped, it loses all abilities.</margin:130:0:0>
 	level_5_text: 
 	illustrator: michaelachang
@@ -42,5 +42,5 @@ card:
 	special_text:
 		<kw-1><nospellcheck><key>Warp <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your hand for its warp cost. Exile this planeswalker at the beginning of the next end step, then you may cast it from exile on a later turn.)</i-auto></atom-reminder-expert></kw-1>
 		[+1]: <margin:130:0:0>The next time target creature you control deals combat damage to a player, draw a card.</margin:130:0:0>
-		[-1]: <margin:130:0:0>Create a 2/1 blue Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Create a 1/1 blue Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. For as long as it remains tapped, it loses all abilities.</margin:130:0:0>

@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 6
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		Canon Reprint
+		https://www.deviantart.com/vablo/art/Hunter-And-Her-Companions-Diablo-III-498480713
+		!tag CanonReprint
+	time_created: 2026-03-05 13:03:51
+	time_modified: 2026-03-09 17:42:26
+	name: Master of the Wild Hunt
+	casting_cost: 2GG
+	image: image20.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		At the beginning of your upkeep, create a 2/2 green Wolf creature token.
+		<sym-auto>T</sym-auto>: Tap all untapped Wolf creatures you control. Each Wolf tapped this way deals damage equal to its power to target creature. That creature deals damage equal to its power divided as its controller chooses among any number of those Wolves.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Veli Nystrom
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

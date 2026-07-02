@@ -2,6 +2,7 @@
 card:
 	has_styling: false
 	notes:
+		!tapped
 		LANDCYCLERARE
 		BLACKRARE12
 	time_created: 2022-03-13 04:23:12

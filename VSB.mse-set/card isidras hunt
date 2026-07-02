@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/novaeden/art/Blood-and-Sea-827927992
+	time_created: 2026-03-05 13:44:10
+	time_modified: 2026-03-10 20:10:31
+	name: Isidra’s Hunt
+	casting_cost: B
+	image: image59.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Isidra’s Hunt</nospellcheck></atom-cardname> enters, target opponent creates a blue Teferi planeswalker token named “Signs of Teferi” and put 2 loyalty counters on it.
+		Whenever a planeswalker an opponent controls dies, its controller reveals their hand. You choose a nonland card from it. That player discards that card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: NorthKila
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

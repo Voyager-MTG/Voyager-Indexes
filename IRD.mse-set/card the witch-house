@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-06-17 17:13:38
+	time_modified: 2026-07-01 20:11:19
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: it/its
+	name: The Witch-House
+	casting_cost: 4
+	image: image15
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Warlock</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
+		You can activate loyalty abilities of permanents you control an additional time each turn if that permanent entered that turn.
+	flavor_text: <i-flavor>It patiently waits to serve its master, knowing her return is inevitable.</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Jm Fenner
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

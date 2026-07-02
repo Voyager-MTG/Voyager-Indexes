@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		https://www.instagram.com/p/Cyg44u6tyZV/
+		edit: added rt
+	time_created: 2026-05-27 16:37:04
+	time_modified: 2026-06-27 23:58:07
+	name: Primordial Transgression
+	casting_cost: 4I
+	image: image10.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Impending <param-number>4</param-number>—<param-cost><sym-auto>1I</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(If this spell was cast for its impending cost, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)</i-auto>
+		Whenever this permanent enters or attacks, up to one target permanent you control without impending becomes a 3/2 Beast creature in addition to its other types. <i-auto>(Indefinitely.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Maxime Minard
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,93 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
+set_info:
+	title: Vespera: Breached
+	description: !designer Kogane
+	copyright: 
+	set_code: VSB
+	set_language: EN
+	symbol: symbol3.mse-symbol
+	masterpiece_symbol: 
+	mana_cost_sorting: unsorted
+	use_gradient_multicolor: only for two color cards
+	use_blended_watermarks: blend with colors
+	stamp_behavior: All unstamped
+styling:
+	magic-m15-altered-plus:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	magic-m15-champions-test:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-cultist-simulator:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-mainframe-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+include_file: card the end is beautiful
+include_file: card master of the wild hunt
+include_file: card solar pilgrimage
+include_file: card the tricuspid gate
+include_file: card sanctuary of journeys
+include_file: card sanctuary of moonlight
+include_file: card sanctuary of nectars
+include_file: card sanctuary of resonance
+include_file: card sanctuary of scales
+include_file: card isidras hunt
+include_file: card woods procession
+include_file: card the incursus
+include_file: card in the arms of the mother
+include_file: card conflagration of the heart
+include_file: card life unending
+include_file: card feast of the true birth
+include_file: card nothing must be forgotten
+include_file: card silent servant
+include_file: card novice to unmaking
+include_file: card skaptodon
+include_file: card obscure existence
+include_file: card abandon the church
+include_file: card ghirbi freed wallbreaker
+include_file: card vespera in flames
+include_file: card glassgarden wanderer
+include_file: card maid-in-the-mirror
+include_file: card fragment of the stag door
+include_file: card carapace awakener
+include_file: card unopened door
+include_file: card cyprian heretic
+include_file: card dr. arun peel
+include_file: card the conquering growth
+include_file: card fall of the axe
+include_file: card matthias imagos beloved
+include_file: card action from the hours
+include_file: card fruitfulness
+include_file: card rite of rebel striving
+include_file: card omnipresent ultimatum
+include_file: card nowhere cavalry
+include_file: card memory from another history
+include_file: card possibilities unseen
+include_file: card resume the rites
+include_file: card the world anew
+include_file: card fruiting devoured
+include_file: card things with wings
+include_file: card ossivus scavengers
+include_file: card woodlodged risen
+include_file: card teferi destroyer of planes
+include_file: card the beachcomber
+include_file: card vesperan exodus
+include_file: card season of numa
+include_file: card verse wonder
+include_file: card legacy of the axe
+include_file: card painted hunger
+include_file: card living spore
+include_file: card an extraplanar visitor
+include_file: card unformed sun-servant
+include_file: card being fracture
+include_file: card coelle consumed hunter
+include_file: card thing in the wood
+include_file: card fault
+version_control:
+	type: none
+apprentice_code: 

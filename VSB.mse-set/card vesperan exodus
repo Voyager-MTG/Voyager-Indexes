@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/jaygraphixx/art/Depths-Of-The-Universe-695709389
+	time_created: 2026-03-07 19:14:14
+	time_modified: 2026-05-01 20:46:33
+	name: Vesperan Exodus
+	casting_cost: XI/GI/WG/W
+	image: image28.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Create X 1/1 silver Sanctuary Cleric land creature tokens with “<sym-auto>T</sym-auto>: Add one mana of any color”.
+	flavor_text: <i-flavor>With the Hours enforcement of the planar <error-spelling:en_US>lockdown</error-spelling:en_US> broken, most are seeking safely elsewhere.</i-flavor>
+	illustrator: JayGraphixx
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

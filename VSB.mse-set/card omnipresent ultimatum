@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		textbox_size: normal
+		shrink_name_text: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/inhus/art/Encounter-with-Unholy-Mother-1115251307
+	time_created: 2026-03-07 17:04:19
+	time_modified: 2026-03-10 20:53:00
+	name: Omnipresent Ultimatum
+	casting_cost: BBIIIGG
+	image: image26.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Choose one or more —
+		<li><bullet>• </bullet>Return target creature card from your graveyard to the battlefield.
+		</li><li><bullet>• </bullet>Put a creature card from your hand onto the battlefield.
+		</li><li><bullet>• </bullet>Put a creature card from your sanctum onto the battlefield.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Inhus
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

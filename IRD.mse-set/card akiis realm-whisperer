@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		https://www.instagram.com/akiitopiia/p/DH_upiJqNfG/
+		edit: changed to 1/1
+	time_created: 2025-04-26 17:33:06
+	time_modified: 2026-06-27 23:08:58
+	name: Akiis, Realm-Whisperer
+	casting_cost: G
+	image: image25
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Akiis, Realm-Whisperer</nospellcheck></atom-cardname> gets +2/+0 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> if you control five or more differently named lands.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Discard a nonland card: Reveal a land card from your sanctum. Put it into your hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Akiitopiia
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

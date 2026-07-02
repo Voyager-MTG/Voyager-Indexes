@@ -5,14 +5,15 @@ card:
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
-		chapter_divider_coordinates: 260,
+		snap_chapter_to_box: 1,1,2
+		chapter_divider_coordinates: 280,
 		other_options: 
 		chapter_number_coordinates: 169,219,315,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: POLITICSCYCLE
 	time_created: 2023-12-16 16:24:44
-	time_modified: 2025-07-08 16:18:47
+	time_modified: 2026-07-02 09:39:23
 	name: Novablast’s Worldview
 	casting_cost: 1BB
 	image: image53.png
@@ -27,7 +28,7 @@ card:
 		</soft-line></i>—<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Novablast</i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: Destroy target creature with the least power or tied for the least.
+	level_1_text: Choose a creature with the least power or tied for the least. It gets -2/-2 until end of turn.
 	level_2_text: If you control the creature with the greatest power or tied for it, you draw two cards and you lose 2 life.
 	level_3_text: ​
 	illustrator: Ilya Popov
@@ -40,6 +41,6 @@ card:
 	special_text:
 		<i>“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urdonic</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> strength protects Ur’s creation. Your weakness is <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Akella’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> health.”<soft-line>
 		</soft-line></i>—<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Novablast</i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
-		I, II — Destroy target creature with the least power or tied for the least.
+		I, II — Choose a creature with the least power or tied for the least. It gets -2/-2 until end of turn.
 		III — If you control the creature with the greatest power or tied for it, you draw two cards and you lose 2 life.
 		​

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/poecilus/art/Discerpo-601153933
+	time_created: 2026-03-05 18:19:49
+	time_modified: 2026-03-10 20:03:33
+	card_color: multicolor
+	name: Fall of the Axe
+	casting_cost: I/UI/B
+	image: image57.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Destroy target nonland permanent if it has no abilities or is colorless.
+		You gain 2 life.
+	flavor_text: <i-flavor>The with the death of the last of the God-from-Stone, the era of Nowhere is fast approaching.</i-flavor>
+	illustrator: Gerth Kuusk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

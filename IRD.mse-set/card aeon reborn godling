@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-03 15:48:42
+	time_modified: 2026-06-27 22:23:26
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: she/her
+	name: Aeon, Reborn Godling
+	casting_cost: 3WW
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>God</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Aeon, Reborn Godling</nospellcheck></atom-cardname> enters, if it was cast, return target permanent card from your graveyard to the battlefield, then sacrifice that permanent.
+	flavor_text: <i-flavor>And so the forest held only trees, and a dream was only ever a dream.</i-flavor>
+	power: 4
+	toughness: 2
+	illustrator: ABeardedArtist
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

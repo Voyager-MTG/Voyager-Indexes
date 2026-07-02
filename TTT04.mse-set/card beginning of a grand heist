@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!tag Dewold
+		!tag HoDStory
+		!tag Marilye
+	time_created: 2025-02-24 00:35:24
+	time_modified: 2025-04-18 12:41:34
+	name: Beginning of a Grand Heist
+	casting_cost: 3U
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: <kw-0><nospellcheck><key>Surveil <param-number>3</param-number></key></nospellcheck></kw-0>, then draw two cards.
+	flavor_text: <i-flavor><error-spelling:en_US>Marilye</error-spelling:en_US> didn’t care about the other <error-spelling:en_US>planeswalkers</error-spelling:en_US> involved. The rumored <error-spelling:en_US>Aciesblade</error-spelling:en_US> however...</i-flavor>
+	illustrator: Olga Drebas
+	card_code_text: Story Spotlight 4
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 22:50:39
+	time_modified: 2025-12-05 18:18:13
+	name: Stabilizer Suit
+	casting_cost: 1W
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text:
+		Equipped creature gets +2/+2 and can’t be sacrificed. <i-auto>(This includes Splinter abilities.)</i-auto>
+		<kw-a><nospellcheck><key>Equip <param-name>token</param-name> <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Bart Tchorzewski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/lukasfractalizator/art/Uncertainty-1034332374
+	time_created: 2026-03-03 19:17:04
+	time_modified: 2026-03-08 18:59:04
+	name: The Tricuspid Gate
+	image: image21.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym>C</sym>.
+		<sym-auto>T</sym-auto>: Exile a card from your hand face down. It <kw-A><nospellcheck><key>become<param-*s>s</param-*s> foretold</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: LukasFractalizator
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -2,6 +2,7 @@
 card:
 	has_styling: false
 	notes:
+		!tapped
 		WHITECOMMON
 		CW19
 		LANDCYCLECOMMON

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.instagram.com/p/DUyFP_Gjn8l/?img_index=2
+	time_created: 2026-05-27 01:35:10
+	time_modified: 2026-07-01 20:16:51
+	name: Twice-Drowned Judgement
+	casting_cost: 1B
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Target opponent loses 3 life. You gain 3 life and <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Ominous <param-cost><sym>2</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: cruentium noctis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

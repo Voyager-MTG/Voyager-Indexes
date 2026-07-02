@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: changed drain from 4 to 3
+	time_created: 2026-06-26 23:09:35
+	time_modified: 2026-07-01 20:06:32
+	card_trim: mutate
+	card_trim_plus: path
+	name: Callers of the Great God
+	casting_cost: 3BB
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text: When this creature enters, you gain 3 life and target opponent loses 3 life.
+	flavor_text: <i-flavor>They know not what they worship, only its power.</i-flavor>
+	level_1_text: Chain of Being <i-auto>(This card may start in your sanctum. You may cast it from there by sacrificing an Angel and a Human.)</i-auto>
+	power: 4
+	toughness: 4
+	illustrator: VALUN
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

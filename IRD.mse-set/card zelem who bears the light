@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 10
+		shrink_name_text: 1
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		https://www.instagram.com/p/DZU5ikFhYfF/
+		edit: 4 power to 3 power.
+	time_created: 2025-03-30 22:17:26
+	time_modified: 2026-07-02 16:19:22
+	card_trim: legend, mutate
+	card_trim_plus: path
+	name: Zelem, Who Bears the Light
+	casting_cost: 3UU
+	image: image18.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demigod</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Zelem</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, draw two cards.
+	flavor_text: <i-flavor>To bring reason is to tread a narrow path.</i-flavor>
+	level_1_text: Chain of Being <i-auto>(This card may start in your sanctum. You may cast it from there by sacrificing an Angel and a Human.)</i-auto>
+	power: 3
+	toughness: 2
+	illustrator: zecchu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

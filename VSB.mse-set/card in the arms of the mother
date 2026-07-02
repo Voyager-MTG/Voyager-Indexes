@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/megalodonias/art/Snake-Deity-848729546
+	time_created: 2026-03-05 14:58:45
+	time_modified: 2026-03-10 19:27:00
+	card_trim: mutate
+	card_trim_plus: path
+	name: In the Arms of the Mother
+	casting_cost: 1I
+	image: image48.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		As an additional cost to cast this spell, sacrifice a creature.
+		Put a creature card from your sanctum with mana value X or less onto the battlefield, where X is 1 plus the sacrificed creature’s mana value.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost>Sacrifice two Clerics</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost>Sacrifice two Clerics</param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
+	illustrator: Megalodonias
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

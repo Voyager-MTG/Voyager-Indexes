@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/nidraj-rion/art/Street-Spirit-86584693
 	time_created: 2024-10-17 19:34:15
-	time_modified: 2026-06-01 12:54:07
+	time_modified: 2026-07-02 09:46:16
 	name: Distortion World
 	casting_cost: 4WW
 	image: image336
@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		When this enchantment enters, if you cast it, exile all other nonland permanents until it leaves the battlefield and create four colorless 1/1 Faerie Horror creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.
+		When this enchantment enters, if you cast it, exile all other nonland permanents until it leaves the battlefield and create four colorless 1/1 Faerie Horror creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that can’t block.
 		At the beginning of each player’s upkeep, they may return a card exiled with this enchantment to the battlefield under its owner’s control.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jakub Gazmercik

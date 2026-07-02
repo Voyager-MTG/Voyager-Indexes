@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.instagram.com/p/C5-8LfZsU05/?img_index=1
+	time_created: 2025-02-02 18:32:43
+	time_modified: 2026-06-27 22:19:48
+	name: Master Tracker
+	casting_cost: 2GUR
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Ranger</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Master Tracker</nospellcheck></atom-cardname> enters, create two 2/2 green Wolf creature tokens.
+		The first noncreature spell you cast each turn costs <sym-auto>1</sym-auto> less for each creature you control.
+	flavor_text: <i-flavor>It doesn’t hunt for food.</i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: VALUN
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

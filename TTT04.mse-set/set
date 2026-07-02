@@ -1,0 +1,142 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
+set_info:
+	title: Treasures & Trinkets
+	set_code: TTT04
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: 
+	custom_mana_symbol_name: ChronoCounterSymbols/Chrono.png
+	mana_symbol_options: enable in text boxes
+styling:
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-altered-plus:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+include_file: card chronomaton
+include_file: card counter of hours
+include_file: card counter of minutes
+include_file: card counter of seconds
+include_file: card crueleans enforcer
+include_file: card heirloom of the obsolete
+include_file: card multiuse gizmo
+include_file: card powerstone claw
+include_file: card prophetic prism
+include_file: card the frangiclave
+include_file: card war map
+include_file: card wealthy slabman
+include_file: card extract erysium
+include_file: card honored eagle
+include_file: card marilyes revelation
+include_file: card outlands riftbearer
+include_file: card overzealous page
+include_file: card stalwart resolution
+include_file: card voracious mollusk
+include_file: card conquex broken mandate
+include_file: card eldstone of transience
+include_file: card i.e. monitor
+include_file: card quintarchal bodyguard
+include_file: card stabilizer suit
+include_file: card thunderous trailblaster
+include_file: card beginning of a grand heist
+include_file: card branching paths
+include_file: card dreamway key
+include_file: card examiner of oddities
+include_file: card leyseeker
+include_file: card raving crab
+include_file: card sifter of futures forgotten
+include_file: card thoughtglass shaper
+include_file: card crystalline cover
+include_file: card eldstone of serenity
+include_file: card idol of forgotten gods
+include_file: card kaln-ocean cloak
+include_file: card pensive engine
+include_file: card augur of the in-between
+include_file: card cache dredger
+include_file: card cooing foundling
+include_file: card fossil laundering
+include_file: card grasping eternity
+include_file: card implant the seeds
+include_file: card prepackaged assembly
+include_file: card avlod necklace
+include_file: card ditto dagger
+include_file: card eldstone of oblivion
+include_file: card malevolent naginata
+include_file: card sanguine chalice
+include_file: card senescence vessel
+include_file: card buy time
+include_file: card coordinated hunt
+include_file: card grifters ambush
+include_file: card heart of harsurfir
+include_file: card mordel combatant
+include_file: card open the self
+include_file: card sanctum trader
+include_file: card basalt hammer
+include_file: card chromaboon blade
+include_file: card eldstone of fervor
+include_file: card magmatic auger
+include_file: card stained silver
+include_file: card wrecking rover
+include_file: card accommodation
+include_file: card guide with and through
+include_file: card interplanar wayfinder
+include_file: card laggymorph
+include_file: card spellwild ouphe
+include_file: card the metaball
+include_file: card blessing of uth
+include_file: card chronometric driller
+include_file: card eldstone of bloom
+include_file: card i.e. residual error
+include_file: card scouts bow
+include_file: card the omenweb engine
+include_file: card blooming peculiarity
+include_file: card empty body practitioner
+include_file: card exuberant archaeologist
+include_file: card mana compression
+include_file: card mooyan curry
+include_file: card wandering travellers
+include_file: card extant surveyor
+include_file: card mind trinity
+include_file: card pathworn blade
+include_file: card sample skimmer
+include_file: card searing sigils
+include_file: card siege crossbow
+include_file: card latent powerstone
+include_file: card harbingers of the old world
+include_file: card spectral blade
+include_file: card decrepid terraformer
+include_file: card slumbering dreadblade
+include_file: card naval artillery
+include_file: card a200 spawned sentience
+include_file: card onslaught engine
+include_file: card 001 errant spark-engine
+include_file: card savage pike
+include_file: card back to market
+include_file: card tofnet ranger
+include_file: card trinkets
+keyword:
+	keyword: Gear token
+	match: Gear toke<atom-param>*s</atom-param>
+	reminder: {if param1.value == "ns" then "They’re artifacts" else "It’s an artifact"} with "T, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery."
+	rules: 
+	mode: custom
+keyword:
+	keyword: Flux
+	match: Flux <atom-param>number</atom-param> — <atom-param>one_word</atom-param>
+	reminder: On your upkeep, put a time counter on this. Whenever there are {english_number_a(param1)} or more, remove {english_number_a(param1)} and trigger the flux ability.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Chrono counters
+	match: you get
+	reminder: Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 

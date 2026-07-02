@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.instagram.com/p/DZdnT6kARCR/?e=a1a8fe3e-1617-4578-b84d-fb02639512cd&g=5
+	time_created: 2026-06-17 16:21:38
+	time_modified: 2026-06-27 22:21:39
+	name: Life Festering From Stone
+	casting_cost: 2I
+	image: image28.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Incarnation</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		When this creature enters, up to one target artifact or enchantment becomes a copy of it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Miranda Zimmerman Bayne
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/danerain/art/Golden-Burning-Sun-1201607350
+	time_created: 2026-03-07 17:59:16
+	time_modified: 2026-03-10 19:11:50
+	name: The World Anew
+	casting_cost: R
+	image: image44.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Each land card in your hand has “<sym-auto>R</sym-auto>, Discard this card: Exile the top card of your library face down. It <kw-A><nospellcheck><key>become<param-*s>s</param-*s> foretold</key></nospellcheck>.”<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>Perhaps we may recover...</i-flavor>
+	illustrator: Danerain
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

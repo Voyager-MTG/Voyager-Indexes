@@ -10,6 +10,7 @@ card:
 		inverted_common_symbol: no
 		overlay: 
 	notes:
+		!tapped
 		REDRARE12
 		LANDCYCLERARE
 	time_created: 2022-03-13 04:30:38

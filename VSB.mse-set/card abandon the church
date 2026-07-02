@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/blackblackbirdie/art/A-Chase-page8-1028444250
+	time_created: 2026-03-05 16:41:31
+	time_modified: 2026-03-07 20:58:12
+	name: Abandon the Church
+	casting_cost: 2RG
+	image: image12.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		As an additional cost to cast this spell you may sacrifice a Sanctuary.
+		<atom-cardname><nospellcheck>Abandon the Church</nospellcheck></atom-cardname> deals X damage to each creature, where X is the number of Sanctuaries you control.
+		If this spell’s additional cost was paid, <atom-cardname><nospellcheck>Abandon the Church</nospellcheck></atom-cardname> deals twice that damage instead.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Black Birdie
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		opacity: 225
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/ladyloth/art/Teferi-Planeswalker-742367413
+	time_created: 2026-03-07 18:56:32
+	time_modified: 2026-03-07 21:21:04
+	name: Teferi, Destroyer of Planes
+	casting_cost: 2WU
+	image: image13.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Teferi</word-list-planeswalker><atom-sep> </atom-sep><word-list-planeswalker>Ashiok</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	loyalty_cost_2: +1
+	loyalty_cost_3: -6
+	loyalty: 4
+	level_1_text: Each opponent can cast spells only any time they could cast a sorcery.
+	level_2_text: <margin:130:0:0>Until your next turn, you may cast sorcery spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Return a creature you control to its owner’s hand, then destroy all creatures.</margin:130:0:0>
+	illustrator: Lady Loth
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		Each opponent can cast spells only any time they could cast a sorcery.
+		[+1]: <margin:130:0:0>Until your next turn, you may cast sorcery spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-6]: <margin:130:0:0>Return a creature you control to its owner’s hand, then destroy all creatures.</margin:130:0:0>

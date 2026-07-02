@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/darkcloud013/art/Castle-speedy-356333538
+	time_created: 2026-03-05 14:58:45
+	time_modified: 2026-03-10 19:00:34
+	card_trim: mutate
+	card_trim_plus: path
+	name: Conflagration of the Heart
+	casting_cost: 1R
+	image: image40.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Create a token that’s a copy of target creature you control. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn and deals damage to you equal to twice its mana value. Exile it at the beginning of the next end step.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost>Sacrifice two Clerics</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost>Sacrifice two Clerics</param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
+	illustrator: Cloud Quinot
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,100 +1,100 @@
-1 Ambitious Haze
-1 Binding Decision
+1 Conquex, Broken Mandate
+1 Eldstone of Bloom
+1 Eldstone of Fervor
+1 Eldstone of Oblivion
+1 Eldstone of Serenity
+1 Eldstone of Transience
+1 The Frangiclave
+1 I.E. Monitor
+1 Quintarchal Bodyguard
+1 Thunderous Trailblaster
+1 Stabilizer Suit
+1 Crystalline Cover
+1 Idol of Forgotten Gods
+1 Kaln-Ocean Cloak
+1 Pensive Engine
+1 Avlod Necklace
+1 Ditto Dagger
+1 Malevolent Naginata
+1 Senescence Vessel
+1 Sanguine Chalice
+1 Chromaboon Blade
+1 Basalt Hammer
+1 Magmatic Auger
+1 Stained Silver
+1 Wrecking Rover
+1 Blessing of Uth
+1 Scout's Bow
+1 The Omenweb Engine
+1 I.E. Residual Error
+1 Chronometric Driller
+1 Searing Sigils
+1 Siege Crossbow
+1 Pathworn Blade
+1 Mind Trinity
+1 Extant Surveyor
+1 Sample Skimmer
+1 Latent Powerstone
+1 Slumbering Dreadblade
+1 Onslaught Engine
+1 Savage Pike
+1 Decrepid Terraformer
+1 Harbingers of the Old World
+1 Naval Artillery
+1 001, Errant Spark-Engine
+1 Spectral Blade
+1 A200, Spawned Sentience
+1 Chronomaton
+1 Counter of Seconds
+1 Counter of Minutes
+1 Counter of Hours
+1 Cruelean's Enforcer
+1 Heirloom of the Obsolete
+1 Multiuse Gizmo
+1 Powerstone Claw
+1 Prophetic Prism
+1 Wealthy Slabman
+1 War Map
+1 Extract Erysium
+1 Honored Eagle
+1 Marilye's Revelation
+1 Outlands Riftbearer
+1 Overzealous Page
+1 Stalwart Resolution
+1 Voracious Mollusk
+1 Beginning of a Grand Heist
+1 Branching Paths
+1 Dreamway Key
+1 Examiner of Oddities
+1 Leyseeker
+1 Raving Crab
+1 Sifter of Futures Forgotten
+1 Thoughtglass Shaper
+1 Augur of the In-Between
+1 Cache Dredger
+1 Cooing Foundling
+1 Fossil Laundering
+1 Grasping Eternity
+1 Implant the Seeds
+1 Prepackaged Assembly
+1 Buy Time
+1 Coordinated Hunt
+1 Grifters' Ambush
+1 Heart of Harsurfir
+1 Mordel Combatant
+1 Open the Self
+1 Sanctum Trader
+1 Accommodation
+1 Dawngon Infusion
+1 Guide With and Through
+1 Interplanar Wayfinder
+1 Laggymorph
+1 Spellwild Ouphe
+1 The Metaball
+1 Back to Market
 1 Blooming Peculiarity
-1 Distant Vulture
-1 Infuse with Identity
-1 Pathborn Aggression
-1 Quintarchal Pariah
-1 Wandering Entity
-1 Anivir's Warning
-1 Condemned Buildling
-1 Corrivality
-1 Deliver Omen
-1 Erysian Designs
-1 Fervent Incandescence
-1 Flames of Emnity
-1 Frostnip Watcher
-1 Gravewalking
-1 Howling Gasp
-1 Kier, Acolyte of Avlod Respite
-1 Like Butterflies on Strings
-1 Maddened by Hunger
-1 Mesh Rot
-1 Moonlit Augury
-1 Nirvanha Bloom
-1 Overworked Conditions
-1 Parading Terrain
-1 Pinnacle Wanderer
-1 Promise of Hunger
-1 Rapturous Joy
-1 Reto-Polo
-1 Sapience Spreading
-1 Scarring Servitude
-1 Scars of Oil
-1 Sentinel of Dead Lands
-1 Shining Idol
-1 Soaring Chorus
-1 Suffocating Pollution
-1 Weight of Tradition
-1 Woods' Procession
-1 A Blossoming of Flowers
-1 Ageless History
-1 Algael-leael
-1 Anything and Everything
-1 Ardent Grief
-1 Brood Protector
-1 Faloden Thickets
-1 Fleeting Merriment
-1 Inexorable Pressure
-1 Iridescent Summit
-1 Kilnhart Smoghorn
-1 Legacy of Amber
-1 Legacy of Coils
-1 Legacy of Flint
-1 Legacy of Tides
-1 Legacy of the Wheel
-1 Melting Pot
-1 Sapient Stoneworks
-1 Scavenged Technology
-1 Shadow Eater
-1 Shroud Walkers
-1 Soul of Vinimroth
-1 Spacewind Aurora
-1 Swirling Moon
-1 The Shimmering Sky
-1 Verem-Volcano Stalker
-1 Wave of Wisps
-1 Aspiring Entity
-1 Calia, Oracle of Tofnet Plains
-1 Caught in the Confusion
-1 Coalesced Company
-1 Cutthroat Obsession
-1 Embrace Rebirth
-1 Forgotten Worlds' Love
-1 Gluttony
-1 Migratory Flotilla
-1 Pathward Riftcalling
-1 Propaganda Spreading
-1 Resolute Watcher
-1 Respite Partisan
-1 Sentinel of the Afterlife
-1 Upsurge Nemato-Gnathi
-1 Wish for Family
-1 Wish for Safety
-1 A Promise
-1 Eyes Scorched from Divinity
-1 Gael, Spiteflame Phoenix
-1 Glorious Moment
-1 Korna, Adventuring Historian
-1 Scornful Pursuit
-1 Shadow of Grace
-1 Slipstream Cyprinus
-1 Urban Majesty
-1 Wish for Wealth
-1 Wisped Wings
-1 Ajha, the Wish for Home
-1 Monument to Forever
-1 Waypoint of Nil
-1 Wish for Strength
-1 Wish for Transformation
-1 Awakened Reactionary
+1 Empty Body Practitioner
+1 Exuberant Archaeologist
+1 Mana Compression
+1 Mooyan Curry
+1 Wandering Travellers

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.instagram.com/p/DYm0WyGjWVk/?e=09ee0f3b-d87c-4e73-9e94-d8bbfbde936c&g=5
+	time_created: 2026-05-26 21:22:22
+	time_modified: 2026-07-01 19:36:32
+	name: Gardener’s Prophet
+	casting_cost: 2GG
+	image: image9.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		When this creature enters, you gain 4 life. If it was ominous, it gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><nospellcheck><key>Ominous <param-cost><sym>2</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Maxime Minard
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/antonkurbatov/art/Fungal-Creature-1235927028
+	time_created: 2026-03-07 18:12:11
+	time_modified: 2026-07-01 21:01:22
+	name: Fruiting Devoured
+	casting_cost: 1G
+	image: image14.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		Whenever an opponent searches their library, put a +1/+1 counter on <atom-cardname><nospellcheck>Fruiting Devoured</nospellcheck></atom-cardname> and you gain 1 life.
+	flavor_text: <i-flavor>The seeds of the Crowned Growth have satisfied their hunger.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Anton Kurbatov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

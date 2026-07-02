@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.instagram.com/p/CaK-yZtKbD8/
+	time_created: 2026-05-25 15:41:10
+	time_modified: 2026-06-27 22:20:50
+	name: Sinuous Twist
+	casting_cost: 2II
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Nightmare</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice this creature: Destroy all enchantments you don’t control. Create four 1/1 white Nightmare creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 4
+	illustrator: wiresandtrees
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

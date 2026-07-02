@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		https://gaelya.artstation.com/
+		changed to five from six
+	time_created: 2026-05-27 19:49:03
+	time_modified: 2026-07-01 19:36:50
+	name: Cradle of Nightmares
+	casting_cost: 2W
+	image: image16.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Look at the top five cards of your library. You may put a creature card with mana value 3 or less from among them onto the battlefield, then shuffle.
+		<kw-A><nospellcheck><key>Ominous <param-cost><sym>2</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Leon Jaume
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/happy-mutt/art/Hell-333773863
+	time_created: 2026-03-05 17:02:51
+	time_modified: 2026-06-26 11:05:27
+	name: Vespera in Flames
+	casting_cost: 3RR
+	image: image36.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: <atom-cardname><nospellcheck>Vespera in Flames</nospellcheck></atom-cardname> deals 5 damage to each creature and each planeswalker. If a creature or planeswalker an opponent controls would die this turn, exile it instead.
+	flavor_text:
+		<i-flavor>Break a thing, and you have fragments. Break those fragments, and you have dust. Break the dust, and then break what remains. <soft-line>
+		</soft-line>Here is fire.</i-flavor>
+	illustrator: Dave Paget
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

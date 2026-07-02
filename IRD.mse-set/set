@@ -1,0 +1,110 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
+set_info:
+	title: Itera: Restless Days
+	set_code: IRD
+	symbol: symbol2.mse-symbol
+	masterpiece_symbol: 
+styling:
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-altered-plus:
+		chop_top: 2
+		chop_bottom: 5
+		d20_dividers: d20 mode
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	magic-m15-mainframe-dfc:
+		front_chop: 5,5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-dfc-plus:
+		back_style: normal
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planeswalker:
+		other_options: un-indent nonloyalty abilities, mythic edition fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-saga:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+include_file: card forests exiled
+include_file: card sinuous twist
+include_file: card gardeners prophet
+include_file: card underforest scourge
+include_file: card apocalypse invocation
+include_file: card heart of a moon
+include_file: card render of dreams
+include_file: card primordial transgression
+include_file: card warden of the unknown
+include_file: card solipsistic dreamer
+include_file: card saylthes attendant
+include_file: card surreal spawning
+include_file: card cradle of nightmares
+include_file: card shadow of eternity
+include_file: card void whisperer
+include_file: card sword of the triumvirate
+include_file: card malformed apostle
+include_file: card possibility overflow
+include_file: card dreamless calm
+include_file: card deathless ire
+include_file: card mirror mind
+include_file: card imbibe corruption
+include_file: card mask of deceit
+include_file: card aeon reborn godling
+include_file: card penumbra in red
+include_file: card lunar countess
+include_file: card discordant disciple
+include_file: card akiis realm-whisperer
+include_file: card riddle of blades
+include_file: card ethereal summons
+include_file: card master tracker
+include_file: card wolf
+include_file: card cooing abberation
+include_file: card the long road ahead
+include_file: card the goddess and the fool
+include_file: card coiled apostle
+include_file: card void meaning
+include_file: card disregard
+include_file: card life festering from stone
+include_file: card ego shards
+include_file: card reaper of empty graves
+include_file: card kala depths talker
+include_file: card slicer of days
+include_file: card tyrant of liberation
+include_file: card lunar ambassador
+include_file: card breach of reality
+include_file: card talks-to-monsters
+include_file: card forlorn titanshard
+include_file: card callers of the great god
+include_file: card it that waits at the end
+include_file: card seeker of sanctums
+include_file: card lord of the outworlds
+include_file: card granter of wishes
+include_file: card arthata silenced remnant
+include_file: card zelem who bears the light
+include_file: card aska witch of the division
+include_file: card two of keys
+include_file: card acolyte colossus
+include_file: card likeness painting
+include_file: card the witch-house
+include_file: card twice-drowned judgement
+include_file: card monster
+include_file: card snake
+include_file: card nightmare
+include_file: card horror
+version_control:
+	type: none
+apprentice_code: 

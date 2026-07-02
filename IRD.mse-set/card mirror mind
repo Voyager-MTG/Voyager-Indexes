@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.instagram.com/p/DL5O-qaJJcA/
+	time_created: 2025-07-21 15:18:45
+	time_modified: 2026-07-02 16:39:44
+	name: Mirror Mind
+	casting_cost: 1U
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature has all abilities of enchanted creature.
+	flavor_text: <i-flavor>It’s often considered a virtue to enjoy your own company.</i-flavor>
+	illustrator: Serena Malyon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
