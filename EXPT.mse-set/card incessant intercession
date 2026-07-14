@@ -12,7 +12,7 @@ card:
 		!gold
 		!noborder
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2025-11-23 16:12:52
+	time_modified: 2026-07-03 08:56:03
 	extra_data:
 		magic-m15-altered-plus:
 			corner: custom
@@ -33,7 +33,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		You may cast this spell from your graveyard as long as an opponent lost life this turn.
-		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>IB</sym-auto>, Discard this: Until end of turn, target creature gets +X/-X, where X is the number of cards in your graveyard.
+		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>IB</sym-auto>, Discard this: Until end of turn, target creature gets +0/-X, where X is the number of cards in your graveyard.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

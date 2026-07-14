@@ -215,6 +215,7 @@ include_file: card lifelighter.1
 include_file: card new tensuo luminary
 include_file: card bacon dreamer
 include_file: card sting
+include_file: card liferoot gnawer
 version_control:
 	type: none
 apprentice_code: 

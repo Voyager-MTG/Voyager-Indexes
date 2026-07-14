@@ -10,7 +10,6 @@ card:
 		d20_dividers: all breaks
 		other_options: auto nyx crowns
 		font_cap: 13.5
-		popout_image_style_3: 
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font

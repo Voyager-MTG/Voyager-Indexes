@@ -10,7 +10,7 @@ card:
 		overlay: 
 	notes: !designer Myr
 	time_created: 2025-08-13 02:28:59
-	time_modified: 2026-05-01 20:10:13
+	time_modified: 2026-07-13 12:19:28
 	extra_data:
 		magic-m15-mainframe-dfc-plus:
 			back_type_hint: Land — Lair
@@ -31,6 +31,7 @@ card:
 	sub_type_2: <word-list-land>Lair</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	sub_type_3: 
 	sub_type_4: 
+	rarity: rare
 	rule_text: <sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>I</sym-auto>.
 	rule_text_2:
 		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kgxraja</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, choose a color. Then sacrifice it unless you exile an untapped basic land you control until <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kgxraja</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> leaves the battlefield.
