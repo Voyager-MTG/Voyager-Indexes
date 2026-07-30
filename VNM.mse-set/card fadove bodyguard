@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Target creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+	rule_text: Sacrifice <atom-name>this creature</atom-name>: Target creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The <error-spelling:en_US>Fadove</error-spelling:en_US> will never leave an escort behind, no matter the cost.</i-flavor>

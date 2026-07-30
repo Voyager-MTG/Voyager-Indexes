@@ -20,7 +20,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, put a +1/+1 counter on another target creature you control.
+		When <atom-name>this creature</atom-name> enters, put a +1/+1 counter on another target creature you control.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The first tenet of learning in Clan <error-spelling:en_US>Mordel</error-spelling:en_US> is size magic, and who better to teach it than the <error-spelling:en_US>wurms</error-spelling:en_US>.</i-flavor>

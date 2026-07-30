@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
-		<atom-name>This spell</atom-cardname> deals 2 damage to any target. If you’ve illuminated red, <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> deals 3 damage to that target instead.
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
+		<atom-name>This spell</atom-name> deals 2 damage to any target. If you’ve illuminated red, <atom-name>this spell</atom-name> deals 3 damage to that target instead.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Even the smallest flame...</i-flavor>

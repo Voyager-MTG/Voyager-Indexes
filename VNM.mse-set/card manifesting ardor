@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</key></nospellcheck></i-auto></kw-A> </i>— At the beginning of combat on each turn, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> as long as you cast a noncreature spell this turn.
+	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</key></nospellcheck></i-auto></kw-A> </i>— At the beginning of combat on each turn, put a +1/+1 counter on <atom-name>this creature</atom-name> as long as you cast a noncreature spell this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Where a nymph would be born, an Icon takes its place.</i-flavor>

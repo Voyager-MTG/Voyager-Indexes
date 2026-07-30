@@ -19,14 +19,14 @@ card:
 		</soft-line>!token
 		!conjured
 	time_created: 2021-11-14 03:36:21
-	time_modified: 2025-07-21 01:33:21
+	time_modified: 2026-07-29 01:04:52
 	name: Military Training
 	casting_cost: G/W
 	image: image259
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Skill Instant</word-list-type-en>
+	super_type: <word-list-type-en>Trace Skill Instant</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -35,7 +35,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: special
-	rule_text: Put a +1/+1 counter on target creature you control. Cast only outside of combat. <i-auto>(Traces are cards that become copies when they enter a public zone.)</i-auto>
+	rule_text: Put a +1/+1 counter on target creature you control. Cast only outside of combat. <i-auto>(<kw-0><nospellcheck><key>Trace<param-*s>s</param-*s> <param-name>are cards that become copies when they enter a public zone.</param-name></key></nospellcheck></kw-0>)</i-auto>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“Out in the wilds, you won’t survive if you can’t keep your blade up!”</i-flavor>

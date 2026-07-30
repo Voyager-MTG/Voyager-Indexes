@@ -1,20 +1,31 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: 
+	notes:
+		At the beginning of your end step, if you activated a nonland, nonmana ability this turn, you may sacrifice a nontoken nonenchantment permanent. If you do, create a token that’s a copy of the sacrificed permanent, except it’s not legendary and is an enchantment.
+		
+		Draw two cards, then exile an enchantment you control. If you didn’t exile an enchantment this way, discard two cards.
+		
+		Draw two cards, then discard a card unless you’ve activated a nonmana ability of an enchantment with mana value 4 or greater this turn.
 	time_created: 2024-03-02 03:39:48
-	time_modified: 2026-06-01 13:01:47
+	time_modified: 2026-07-28 23:00:03
 	name: Dustfall
 	casting_cost: 1I
 	image: image100.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment</word-list-type-en>
-	sub_type: <word-list-enchantment></word-list-enchantment>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
-	rule_text: At the beginning of your end step, if you activated a nonland, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> ability this turn, you may sacrifice a nontoken nonenchantment permanent. If you do, create a token that’s a copy of the sacrificed permanent, except it’s not legendary and is an enchantment.
-	flavor_text: <i-flavor></i-flavor>
+	rule_text: Draw two cards, then discard two cards unless you’ve activated an ability from your sanctum this turn.
+	flavor_text: <i-flavor>Without a sanctum to protect their soul, the first to explore the paths learned the heavy cost firsthand.</i-flavor>
 	illustrator: lentescura
 	card_code_text: 
 	card_code_text_2: 

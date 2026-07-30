@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create two 1/1 green Wurm creature tokens with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
+		When <atom-name>this creature</atom-name> enters, create two 1/1 green Wurm creature tokens with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
 		Creature tokens you control get +0/+1.
 	rule_text_2: 
 	rule_text_3: 

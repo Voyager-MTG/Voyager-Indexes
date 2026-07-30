@@ -31,7 +31,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Whenever you cast your second spell each turn, you may activate one of <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>s activated abilities without paying its costs.
+		Whenever you cast your second spell each turn, you may activate one of <atom-name>this creature</atom-name>s activated abilities without paying its costs.
 		<sym-auto>2IW/U</sym-auto>: Exile another target creature you control. Return it to the battlefield at the beginning of the next end step.
 	rule_text_2: 
 	rule_text_3: 

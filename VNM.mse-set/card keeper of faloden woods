@@ -33,7 +33,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, up to one target creature you control gets +3/+3 until end of turn.
+		When <atom-name>this creature</atom-name> enters, up to one target creature you control gets +3/+3 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym-auto>1I/G</sym-auto>, Reveal a card with haste from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1I/G</sym-auto>, Reveal a card with haste from your hand</param-cost>, reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-1>
 	power: 4

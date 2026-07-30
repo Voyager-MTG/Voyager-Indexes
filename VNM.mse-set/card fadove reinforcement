@@ -36,7 +36,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may return up to one other target creature or enchantment you control to its owners hand.
+	rule_text: When <atom-name>this creature</atom-name> enters, you may return up to one other target creature or enchantment you control to its owners hand.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

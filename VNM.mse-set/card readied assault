@@ -19,7 +19,7 @@ card:
 		</soft-line>!token
 		!conjured
 	time_created: 2021-11-14 03:36:21
-	time_modified: 2025-03-01 15:37:49
+	time_modified: 2026-07-29 01:22:23
 	name: Readied Assault
 	casting_cost: 2R/W
 	image: image261
@@ -33,7 +33,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: special
-	rule_text: Until end of turn, creatures you control get +1/+1 and can attack as though they didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>. <i-auto>(Traces are cards that become copies when they enter a public zone.)</i-auto>
+	rule_text: Until end of turn, creatures you control get +1/+1 and can attack as though they didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>. <i-auto>(<kw-0><nospellcheck><key>Trace<param-*s>s</param-*s> <param-name>are cards that become copies when they enter a public zone.</param-name></key></nospellcheck></kw-0>)</i-auto>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Trackers find what you don’t want to see but need to know: Enemies, and where they’re heading.</i-flavor>

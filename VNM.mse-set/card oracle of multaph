@@ -12,7 +12,7 @@ card:
 	time_modified: 2025-07-08 23:03:25
 	special_text:
 		[+1]: <margin:130:0:0>Sift 2. You gain 2 life.</margin:130:0:0>
-		[0]: <margin:130:0:0>Reveal a permanent card from your Sanctum, then put it into your hand. If it was a land card, put a loyalty counter on <atom-cardname><nospellcheck>Oracle of Multaph</nospellcheck></atom-cardname>.</margin:130:0:0>
+		[0]: <margin:130:0:0>Reveal a permanent card from your Sanctum, then put it into your hand. If it was a land card, put a loyalty counter on <atom-name><nospellcheck>Oracle of Multaph</nospellcheck></atom-name>.</margin:130:0:0>
 		[-7]: <margin:130:0:0> Exile up to two target permanents.</margin:130:0:0>
 	card_color: blue, black, silver, multicolor, horizontal
 	name: Oracle of Multaph
@@ -34,7 +34,7 @@ card:
 	loyalty_cost_3: -7
 	loyalty: 4
 	level_1_text: <margin:130:0:0>Sift 2. You gain 2 life.</margin:130:0:0>
-	level_2_text: <margin:130:0:0>Reveal a permanent card from your Sanctum, then put it into your hand. If it was a land card, put a loyalty counter on <atom-cardname><nospellcheck>Oracle of Multaph</nospellcheck></atom-cardname>.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Reveal a permanent card from your Sanctum, then put it into your hand. If it was a land card, put a loyalty counter on <atom-name><nospellcheck>Oracle of Multaph</nospellcheck></atom-name>.</margin:130:0:0>
 	level_3_text: <margin:130:0:0> Exile up to two target permanents.</margin:130:0:0>
 	level_4_text: 
 	illustrator: Julijana Mijailović

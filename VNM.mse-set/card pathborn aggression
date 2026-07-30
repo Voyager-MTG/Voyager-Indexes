@@ -36,8 +36,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		<atom-name>This creature</atom-cardname> can’t block.
-		Whenever another card is put into your sanctum, return <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard to the battlefield.
+		<atom-name>This creature</atom-name> can’t block.
+		Whenever another card is put into your sanctum, return <atom-name>this creature</atom-name> from your graveyard to the battlefield.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
