@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/fulemy/art/Woodland-Caribou-Vulnerable-Animals-Week-891499783
 	time_created: 2021-04-25 03:20:55
-	time_modified: 2026-04-04 15:53:16
+	time_modified: 2026-07-31 21:38:12
 	card_trim: clear, nyx
 	card_trim_plus: familiar
 	name: Aspiring Entity
@@ -22,7 +22,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Aspiring Entity</nospellcheck></atom-cardname> enters, search your library for a card with a basic land type, put it onto the battlefield, then shuffle.
+		When this enchantment enters, search your library for a card with a basic land type, put it onto the battlefield, then shuffle.
 		<kw-A><nospellcheck><key>Materialize <param-number>4</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>4</param-number> or more: This also becomes an Icon creature until your next turn.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 

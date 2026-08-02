@@ -30,7 +30,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Whenever <atom-name>this creature</atom-name> attacks, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-name>this creature</atom-name> attacks, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Harsh Reprise </b><sym>B</sym>| <u>Skill Instant</u><i><soft-line>
 		</i>Each opponent loses 2 life.</soft-line>
 	rule_text_2: 

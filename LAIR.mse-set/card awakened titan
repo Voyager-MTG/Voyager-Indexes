@@ -6,7 +6,7 @@ card:
 		!taglair> lost in cyberspace
 		https://www.artstation.com/artwork/gRW0qE
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2026-03-01 09:24:55
+	time_modified: 2026-07-31 22:04:43
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: TVP
@@ -27,7 +27,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever <atom-cardname><nospellcheck>Awakened Titan</nospellcheck></atom-cardname> attacks, sacrifice an artifact. If you do, draw a card.
+	rule_text: Whenever this creature attacks, sacrifice an artifact. If you do, draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:

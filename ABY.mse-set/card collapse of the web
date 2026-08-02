@@ -21,7 +21,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		This spell has <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> as long as you control a Path or as long there is a Path card in your graveyard.
-		<atom-cardname><nospellcheck>Collapse of the Web</nospellcheck></atom-cardname> deals 2 damage to each untapped creature.
+		<atom-name>Collapse of the Web</atom-name> deals 2 damage to each untapped creature.
 	flavor_text: <i-flavor>After eons uncounted, <error-spelling:en_US>Armant</error-spelling:en_US> would finally and forever be alone.</i-flavor>
 	watermark: other magic symbols story spotlight
 	illustrator: Francois Coutu

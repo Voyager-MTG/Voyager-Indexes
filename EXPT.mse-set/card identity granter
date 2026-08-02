@@ -33,7 +33,7 @@ card:
 	loyalty_cost_2: -X
 	loyalty_cost_3: 
 	loyalty: 4
-	level_1_text: <margin:130:0:0>Put a loyalty counter on <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> for each enchantment you control.</margin:130:0:0>
+	level_1_text: <margin:130:0:0>Put a loyalty counter on <atom-name>this planeswalker</atom-name> for each enchantment you control.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Target enchantment becomes a creature in addition to its other types and has base power and toughness X.</margin:130:0:0>
 	level_3_text: 
 	level_4_text: 
@@ -42,5 +42,5 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 	special_text:
-		[0]: <margin:130:0:0>Put a loyalty counter on <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> for each enchantment you control.</margin:130:0:0>
+		[0]: <margin:130:0:0>Put a loyalty counter on <atom-name>this planeswalker</atom-name> for each enchantment you control.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Target enchantment becomes a creature in addition to its other types and has base power and toughness X.</margin:130:0:0>

@@ -27,7 +27,7 @@ card:
 	rarity: rare
 	rule_text:
 		Sneak <sym>1I</sym> <i-auto>(You may cast this spell for <sym>1I</sym> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto>
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage to a player or planeswalker, you may <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>. If you did, put a card from your hand on the bottom of your library.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-name>this creature</atom-name> deals combat damage to a player or planeswalker, you may <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>. If you did, put a card from your hand on the bottom of your library.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

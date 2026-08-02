@@ -37,7 +37,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>vigilance</key></nospellcheck></kw-0>
-		Whenever you cast a skill, <kw-1><nospellcheck><key>create a trace</key></nospellcheck> of a card named Guardian Roost into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-1>
+		Whenever you cast a skill, <kw-1><nospellcheck><key>create a trace</key></nospellcheck> of a card named Guardian Roost into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-1>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

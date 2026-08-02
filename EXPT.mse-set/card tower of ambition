@@ -22,7 +22,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto> or <sym-auto>R</sym-auto>. <atom-cardname><nospellcheck>This land</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto> or <sym-auto>R</sym-auto>. <atom-name>This land</atom-name> deals 1 damage to you unless you control three or more other lands.
 	flavor_text: <i-flavor>Piercing the skyline, societies form from the gatherings of those who refuse the orders of lords and nobles.</i-flavor>
 	illustrator: Jordan Grimmer
 	card_code_text: 

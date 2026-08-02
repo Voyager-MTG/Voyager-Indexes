@@ -2,10 +2,15 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: Bonus sheet
 	time_created: 2025-09-30 23:48:02
-	time_modified: 2026-05-01 10:53:12
+	time_modified: 2026-08-01 23:47:38
 	card_trim_plus: glitch
 	alias_type: starts in sanctum
 	name: She Who Never Was
@@ -29,8 +34,8 @@ card:
 		<atom-legname><nospellcheck>She Who Never Was</nospellcheck></atom-legname> has <kw-0><nospellcheck><key>protection from <param-name>everything.</param-name></key></nospellcheck></kw-0>
 		Whenever <atom-legname><nospellcheck>She Who Never Was</nospellcheck></atom-legname> deals combat damage to a player, draw a card.
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
-	toughness: 3
+	power: 2
+	toughness: 2
 	illustrator: Ramza Ardyputra
 	partition_select: after normal, main set G
 	card_code_text: 

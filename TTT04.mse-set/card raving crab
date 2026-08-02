@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: Whenever you cast a spell, untap <atom-cardname><nospellcheck>Raving Crab</nospellcheck></atom-cardname>.
+	rule_text: Whenever you cast a spell, untap <atom-name>Raving Crab</atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:

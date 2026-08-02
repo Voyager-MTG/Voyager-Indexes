@@ -45,9 +45,9 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Reichen</atom-cardname><atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words> can’t be blocked by creatures with power 2 or less.
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Reichen</atom-name><atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words> can’t be blocked by creatures with power 2 or less.
 	rule_text_2:
-		<atom-name>This land</atom-cardname> enters tapped.
+		<atom-name>This land</atom-name> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
 		<sym-auto>4GGG</sym-auto>: Transform this land until end of turn.
 	rule_text_3: 

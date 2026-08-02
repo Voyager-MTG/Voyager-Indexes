@@ -19,7 +19,7 @@ card:
 		!addtoken Multaph’s Respite’s Spellbook;transform;
 		!backname Multaph’s Respite’s Spellbook;
 	time_created: 2022-04-02 19:29:38
-	time_modified: 2026-07-28 23:23:30
+	time_modified: 2026-08-01 23:59:18
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -39,7 +39,7 @@ card:
 	rarity: rare
 	chapter_text_2: 
 	rule_text:
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Multaph’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Respite enters, create a of <kw-A><nospellcheck><key>trace a</key></nospellcheck> card of your choice from among Subdued Rift, Warped Exploration, and Cut From <kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A> into your hand.<atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Multaph’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Respite enters, create a of trace a card of your choice from among Subdued Rift, Warped Exploration, and Cut From </i><kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A><i> into your hand.
 		Once each turn, when you cast a noncreature spell, you may pay <sym-auto>2</sym-auto>. If you do, copy that spell. You may choose new targets for the copy.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>

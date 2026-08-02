@@ -18,12 +18,12 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2026-03-26 20:15:28
+	time_modified: 2026-07-31 20:57:12
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
 	name: Pathborn Drake
-	casting_cost: 1U
+	casting_cost: 2U
 	image: image11.png
 	image_2: 
 	mainframe_image: 
@@ -45,7 +45,7 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	watermark: none
 	level_1_text: <kw-0><nospellcheck><key>Pathbound <param-cost><sym>I</sym></param-cost></key></nospellcheck></kw-0> or <sym-auto>1</sym-auto><sym>U</sym>. Activate only if you cast a nonpermanent spell this turn. <i-auto>(<sym>I</sym> or <sym-auto>1U</sym-auto>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto>
-	power: 2
+	power: 3
 	toughness: 1
 	illustrator: Glad-Sad
 	card_code_text: 

@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature you control</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Pull unto Death</nospellcheck></atom-cardname> enters, target opponent sacrifices a creature.
+		When <atom-name>Pull unto Death</atom-name> enters, target opponent sacrifices a creature.
 		Whenever enchanted creature dies, you gain 3 life.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: pijanymajk

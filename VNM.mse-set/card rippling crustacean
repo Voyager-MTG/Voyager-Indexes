@@ -34,7 +34,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-name>this creature</atom-name> dies, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of a card named Fault into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>this creature</atom-name> dies, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of a card named Fault into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Fault</b>|<i>Basic</i> <i>Land — Fault</i><soft-line>
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.)</i-auto></soft-line>
 	rule_text_2: 

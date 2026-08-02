@@ -20,7 +20,7 @@ card:
 		</soft-line>!token
 		!conjured
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2026-07-29 01:08:18
+	time_modified: 2026-08-02 00:01:58
 	card_trim: frameless art
 	name: Warped Exploration
 	casting_cost: 2
@@ -37,7 +37,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: special
-	rule_text: <kw-0><nospellcheck><key>Trace a</key></nospellcheck></kw-0> basic land of any type into your hand.
+	rule_text: <kw-A><nospellcheck><key>Create a trace</key></nospellcheck> of a basic land card of any type into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor><error-spelling:en_US>Vinimroth</error-spelling:en_US> is filled to the brim with strange and interesting places; Some are known to seemingly appear from nowhere...</i-flavor>

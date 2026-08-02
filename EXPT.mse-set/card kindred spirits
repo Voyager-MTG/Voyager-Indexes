@@ -31,7 +31,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Kindred Spirits</nospellcheck></atom-cardname> enters, create a 1/1 silver Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and a 0/2 white Fox creature token.
+		When <atom-name><nospellcheck>Kindred Spirits</nospellcheck></atom-name> enters, create a 1/1 silver Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and a 0/2 white Fox creature token.
 		Creature tokens you control get +1/+0.
 	flavor_text: <i-flavor>One born to land, one born to sky.</i-flavor>
 	illustrator: Aivven Valera

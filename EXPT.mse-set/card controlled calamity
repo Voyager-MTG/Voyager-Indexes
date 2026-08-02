@@ -24,7 +24,7 @@ card:
 	rarity: rare
 	rule_text:
 		Choose one —
-		<li><bullet>• </bullet><atom-cardname><nospellcheck>This spell</nospellcheck></atom-cardname> deals 3 damage divided as you choose among one, two, or three targets.
+		<li><bullet>• </bullet><atom-name>This spell</atom-name> deals 3 damage divided as you choose among one, two, or three targets.
 		</li><li><bullet>• </bullet>Destroy up to three target artifacts with total mana value 3 or less.
 		<margin:0:0:5></li><kw-A><nospellcheck><key>Entwine <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Choose both if you pay the entwine cost.)</i-auto></atom-reminder-expert></kw-A></margin:0:0:5>
 	flavor_text: <i-flavor></i-flavor>

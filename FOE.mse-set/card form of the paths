@@ -22,7 +22,7 @@ card:
 	rule_text:
 		You may play cards from your sanctum.
 		You can’t play cards from your hand.
-		<sym-auto>2RR</sym-auto>: Destroy <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
+		<sym-auto>2RR</sym-auto>: Destroy <atom-name>this enchantment</atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

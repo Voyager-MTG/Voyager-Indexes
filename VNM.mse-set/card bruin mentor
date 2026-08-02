@@ -34,7 +34,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-name>this creature</atom-name> enters or this creature attacks with a creature with lesser power, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-name>this creature</atom-name> enters or this creature attacks with a creature with lesser power, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Military <kw-0><nospellcheck><key>Training</b></key></nospellcheck></kw-0> <sym>G/W</sym>| <u>Skill Instant</u><soft-line>
 		Put a +1/+1 counter on target creature you control. Cast only outside of combat.</soft-line>
 	rule_text_2: 

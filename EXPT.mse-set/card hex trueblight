@@ -27,7 +27,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		<kw-0><nospellcheck><key>Exploit</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>exploit</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>exploit</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>exploit</key></nospellcheck></kw-0> <i-auto>(When this enters the battlefield, you may sacrifice up to four creatures.)</i-auto>
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> exploits a creature, each opponent loses 3 life unless they discard a card.
+		Whenever <atom-name>this creature</atom-name> exploits a creature, each opponent loses 3 life unless they discard a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

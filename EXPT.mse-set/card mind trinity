@@ -26,7 +26,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, if it isn’t a token, create a token that’s a copy of target creature, then exile that token.
+		When <atom-name>this creature</atom-name> enters or attacks, if it isn’t a token, create a token that’s a copy of target creature, then exile that token.
 		<kw-A><nospellcheck><key>Warp <param-cost><sym-auto>1I</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 5

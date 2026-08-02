@@ -32,7 +32,7 @@ card:
 	rarity: rare
 	rule_text:
 		Permanents enter tapped.
-		Permanents other than <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> entering don’t cause abilities to trigger.
+		Permanents other than <atom-name>this enchantment</atom-name> entering don’t cause abilities to trigger.
 	flavor_text: <i-flavor>Days in the wasteland are but nights outside.</i-flavor>
 	illustrator: Palm20
 	card_code_text: • CC01 • Hervor

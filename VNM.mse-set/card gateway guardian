@@ -35,7 +35,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-name>this creature</atom-name> enters, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>this creature</atom-name> enters, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Subdued Rift</b> <sym>W/B</sym>| <u>Skill Sorcery</u><soft-line>
 		</soft-line>Create a 1/1 black and white Cat enchantment creature token.
 	rule_text_2: 

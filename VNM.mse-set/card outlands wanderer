@@ -29,7 +29,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-name>this creature</atom-name> enters, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>this creature</atom-name> enters, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Ever Vigilant <sym>1G/U</sym></b>| <i><u>Skill Sorcery<soft-line>
 		</u></i>Target creature gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and can’t be blocked by creatures with power 2 or less until end of turn.            </soft-line>
 	rule_text_2: 

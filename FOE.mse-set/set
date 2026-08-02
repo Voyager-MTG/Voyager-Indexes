@@ -460,7 +460,7 @@ include_file: card branching paths
 include_file: card meso meso
 include_file: card defector of mordel
 include_file: card jothi.1
-include_file: card exhuberant genesis
+include_file: card exuberant genesis
 include_file: card emergent parasitism
 include_file: card mordel peacekeeper
 include_file: card idol of reconstruction
@@ -640,6 +640,14 @@ keyword:
 	reminder: Create a token thats a copy of a token you control.
 	rules: 
 	mode: custom
+keyword:
+	keyword: Healer
+	match: <atom-param>a</atom-param> healing counter
+	reminder: Damage dealt by that creature also causes you to gain  life.
+	rules:
+		Editors note:<soft-line>
+		This can be Combat damage if this ends up insane.</soft-line>
+	mode: expert
 version_control:
 	type: none
 apprentice_code: 

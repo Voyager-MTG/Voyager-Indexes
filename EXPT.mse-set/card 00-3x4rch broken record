@@ -36,7 +36,7 @@ card:
 	level_1_text: <kw-0><nospellcheck><key>Affinity for <param-name>Zombies</param-name></key></nospellcheck></kw-0> <i-auto>(This spell costs <sym>1</sym> less to cast for each Zombie you control.)</i-auto>
 	level_2_text: <margin:130:0:0> Create your choice of a Clue, Food or <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Create a 0/0 black Zombie artifact creature token with “This token gets +1/+1 for each artifact you control.”</margin:130:0:0>
-	level_4_text: <margin:130:0:0><atom-name>This artifact</atom-cardname> deals damage to any target equal to the number of artifacts you control. You gain that much life.</margin:130:0:0>
+	level_4_text: <margin:130:0:0><atom-name>This artifact</atom-name> deals damage to any target equal to the number of artifacts you control. You gain that much life.</margin:130:0:0>
 	level_5_text: 
 	illustrator: Touzai_(poppin_phl95) 
 	card_code_text: • CC01 • SilverParabellum
@@ -46,4 +46,4 @@ card:
 		<kw-0><nospellcheck><key>Affinity for <param-name>Zombies</param-name></key></nospellcheck></kw-0> <i-auto>(This spell costs <sym>1</sym> less to cast for each Zombie you control.)</i-auto>
 		[+2]: <margin:130:0:0> Create your choice of a Clue, Food or <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Create a 0/0 black Zombie artifact creature token with “This token gets +1/+1 for each artifact you control.”</margin:130:0:0>
-		[-3]: <margin:130:0:0><atom-name>This artifact</atom-cardname> deals damage to any target equal to the number of artifacts you control. You gain that much life.</margin:130:0:0>
+		[-3]: <margin:130:0:0><atom-name>This artifact</atom-name> deals damage to any target equal to the number of artifacts you control. You gain that much life.</margin:130:0:0>

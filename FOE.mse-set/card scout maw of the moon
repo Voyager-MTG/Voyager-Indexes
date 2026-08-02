@@ -47,7 +47,7 @@ card:
 		<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
 		Whenever Scout attacks, other creatures you control get +1/+0 until end of turn.
 	rule_text_2:
-		<atom-name>This land</atom-cardname> enters tapped.
+		<atom-name>This land</atom-name> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.
 		<sym-auto>3RRR</sym-auto>: Transform this land until end of turn.
 	rule_text_3: 

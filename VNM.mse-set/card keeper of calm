@@ -31,7 +31,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-name>this creature</atom-name> enters, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of a card named Steady Growth into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>this creature</atom-name> enters, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of a card named Steady Growth into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 		<b>Steady Growth</b> <sym>B/G</sym>|<i> </i><u>Enchantment</u><i><soft-line>
 		</i><kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
 		Enchanted land has “<sym-auto>T</sym-auto>: Add one mana of any color.”</soft-line>

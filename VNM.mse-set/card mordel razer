@@ -4,10 +4,10 @@ card:
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		chop_top: 2
-		chop_bottom: 5
+		chop_top: -3
+		chop_bottom: -2
 		hybrid_name: grey
-		d20_dividers: d20 mode
+		d20_dividers: all breaks
 		other_options: auto familiars, auto vehicles, auto snow, auto nyx crowns, auto star crowns, auto space crowns, vorthos box
 		font_cap: 13.5
 		custom_symbol: abstract-061.png
@@ -18,7 +18,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !tag Mordel;
 	time_created: 2022-05-26 21:49:52
-	time_modified: 2025-07-21 04:56:40
+	time_modified: 2026-08-01 23:56:16
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -35,13 +35,17 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: Whenever you cast a noncreature spell, exile a card at random from your sanctum. Until the beginning of your next end step, you may play that card.
+	rule_text:
+		At the beginning of your end step, if a player has one or fewer cards in hand, <kw-0><nospellcheck><key>create a trace</key></nospellcheck></kw-0> of <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>’s skill into your hand.
+		<b>In the Moment</b> <sym>1R</sym>| <u>Skill Sorcery</u><i><soft-line>
+		</i>Exile the top card of your library. You may play it<soft-line>
+		</soft-line>this turn.</soft-line>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym-auto>I/R</sym-auto>, Reveal a card with haste from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>I/R</sym-auto>, Reveal a card with haste from your hand</param-cost>, reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-1>
+	level_1_text: <kw-1><nospellcheck><key>Pathbound—<param-cost><sym-auto>I/R</sym-auto>, Exile a Skill from your hand</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>I/R</sym-auto>, Exile a Skill from your hand</param-cost>, reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-1>
 	power: 3
 	toughness: 3
 	illustrator: Francisco Iglesias Periañez

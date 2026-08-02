@@ -30,7 +30,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, you may <kw-A><nospellcheck><key>create a <kw-A>trace</key></nospellcheck> that’s a copy of target nontoken creature you control into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell, you may <kw-A><nospellcheck><key>create a <kw-A>trace</key></nospellcheck> that’s a copy of target nontoken creature you control into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Patrolling <error-spelling:en_US>Tofnet</error-spelling:en_US> Plains is a harsh, and grueling work, but finding new rifts is always worth the effort.</i-flavor>

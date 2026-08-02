@@ -33,7 +33,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, search your library for a land card with a nonbasic land type, put it onto the battlefield tapped, then shuffle.
+		When <atom-name>this enchantment</atom-name> enters, search your library for a land card with a nonbasic land type, put it onto the battlefield tapped, then shuffle.
 		<sym-auto>6</sym-auto>: Target land you control becomes a 0/0 creature with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> that’s still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.
 	flavor_text: <i-flavor></i-flavor>
 	power: 

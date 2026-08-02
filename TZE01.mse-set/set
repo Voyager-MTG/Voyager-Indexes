@@ -129,8 +129,8 @@ include_file: card thoughtglass whip
 include_file: card throat of remnants
 keyword:
 	keyword: Trace
-	match: trace its
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	match: create a trace
+	reminder: Traces can’t exist in graveyards or exile and are tokens while on the battlefield.
 	rules: 
 	mode: custom
 version_control:

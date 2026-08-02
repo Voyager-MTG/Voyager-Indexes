@@ -31,11 +31,11 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-name>this artifact</atom-name> enters, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>this artifact</atom-name> enters, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +1/+1 and has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0>
 		<b>Warped Exploration</b> <sym>2</sym>|<i> </i><u>Skill Sorcery</u><soft-line>
-		<kw-0><nospellcheck><key>Trace a</key></nospellcheck></kw-0> basic land of any type into your hand.</soft-line>
+		Trace a basic land of any type into your hand.</soft-line>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

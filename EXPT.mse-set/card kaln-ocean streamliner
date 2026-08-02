@@ -36,7 +36,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(If you control four or more permanents of a color, illuminate that color this game.)</i-auto></atom-reminder-action></kw-A>
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Kaln-Ocean Streamliner</nospellcheck></atom-cardname> attacks, if you’ve illuminated silver, create a tapped and attacking token that’s a copy of another target creature you control, except it has size 1/1.
+		When <atom-name><nospellcheck>Kaln-Ocean Streamliner</nospellcheck></atom-name> attacks, if you’ve illuminated silver, create a tapped and attacking token that’s a copy of another target creature you control, except it has size 1/1.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

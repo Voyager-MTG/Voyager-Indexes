@@ -30,7 +30,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>I</sym-auto>, Discard <atom-cardname><nospellcheck>Wilmee</nospellcheck></atom-cardname>: Create a 2/2 <kw-A><nospellcheck><key>decayed</key></nospellcheck> Insect Plant creature token. Attach an equipment you control to it.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>I</sym-auto>, Discard <atom-name><nospellcheck>Wilmee</nospellcheck></atom-name>: Create a 2/2 <kw-A><nospellcheck><key>decayed</key></nospellcheck> Insect Plant creature token. Attach an equipment you control to it.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>A rabid rabbit that shears through opposition with its sharp skewers.</i-flavor>

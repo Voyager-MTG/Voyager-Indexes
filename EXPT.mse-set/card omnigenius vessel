@@ -33,7 +33,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Transcend <param-cost><sym-auto>3III</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of combat, cast your chosen Erysite from your sanctum by paying its Transcend cost and exiling a Dragon creature you control.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, up to one target nonland permanent becomes an enchantment. <i-auto>(It loses all other card types.)</i-auto> 
+		When <atom-name>this creature</atom-name> enters, up to one target nonland permanent becomes an enchantment. <i-auto>(It loses all other card types.)</i-auto> 
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5

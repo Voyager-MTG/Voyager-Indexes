@@ -50,7 +50,7 @@ card:
 		<li><bullet>• </bullet>Whenever you cast your next spell this turn, copy it. You may choose new targets for the copy.
 		</li><li><bullet>• </bullet>Create a token that’s a copy of target permanent.</li>
 	rule_text_2:
-		<atom-name>This land</atom-cardname> enters tapped.
+		<atom-name>This land</atom-name> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.
 		<sym-auto>4II</sym-auto>: Transform this land until end of turn.
 	rule_text_3: 

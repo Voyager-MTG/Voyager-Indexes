@@ -7,7 +7,7 @@ card:
 		chop_top: 2
 		chop_bottom: 
 		hybrid_name: hybrid
-		d20_dividers: all breaks +1
+		d20_dividers: d20 mode
 		other_options: auto nyx crowns
 		font_cap: 
 		inverted_common_symbol: no
@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2025-07-12 17:01:19
+	time_modified: 2026-07-31 21:50:02
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -33,10 +33,9 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Whenever equipped creature attacks, you may cast a copy of a skill among permanents you control.
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
+		At the beginning of combat on your turn, if you’ve illuminated blue, target enchantment becomes a copy of equipped creature until end of turn. Otherwise, equipped creature gets +1/+1 until end of turn.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
-		<b>Reshape Will</b> <sym>1W/U</sym>| <u>Skill Instant</u><soft-line>
-		</soft-line>Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

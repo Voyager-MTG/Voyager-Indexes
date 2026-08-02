@@ -19,7 +19,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: At the beginning of combat of your turn, you may exile two cards from your graveyard and/or sanctum. If you do, put your choice of a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> counter, a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter, or a two healing counters on this creature. <i-auto>(Whenever your creature with a healing counter deals damage, you gain 1 life for each healing counter on it.)</i-auto>
+	rule_text: At the beginning of combat of your turn, you may exile two cards from your graveyard and/or sanctum. If you do, put your choice of a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> counter, a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter, or a two healing counters on this creature. <i-auto>(Whenever your creature with <kw-A><nospellcheck><key><param-a>a</param-a> <kw-A>healing counter</key></nospellcheck> deals damage, you gain 1 life for each healing counter on it.)</i-auto><atom-reminder-expert> <i-auto>(Damage dealt by that creature also causes you to gain  life.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Deep in <error-spelling:en_US>Shurei’s</error-spelling:en_US> waterways lie a fish that eat anything and everything.</i-flavor>

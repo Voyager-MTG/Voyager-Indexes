@@ -8,7 +8,7 @@ card:
 		!addtoken Drake-Brood Peak;transform;
 		!addtoken Black Drake 11 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2026-01-31 00:12:26
+	time_modified: 2026-08-01 22:28:50
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal front
@@ -19,7 +19,7 @@ card:
 	name_2: Drake-Brood Peak
 	alias: This card can start in your sanctum.                             
 	alias_2: This card can start in your sanctum.                             
-	casting_cost: 1B
+	casting_cost: 2B
 	image: image319
 	image_2: image_215.png
 	mainframe_image: 

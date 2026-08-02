@@ -35,8 +35,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
-		<atom-name>This creature</atom-cardname> gets +1/+0 for each land you control.
-	rule_text_2: Trembling <kw-0><nospellcheck><key>Fear</key></nospellcheck></kw-0> deals 1 damage to any target. <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. <i-auto>(Then put this into your sanctum)</i-auto></atom-cardname><atom-name>
+		<atom-name>This creature</atom-name> gets +1/+0 for each land you control.
+	rule_text_2: Trembling <kw-0><nospellcheck><key>Fear</key></nospellcheck></kw-0> deals 1 damage to any target. <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. <i-auto>(Then put this into your sanctum)</i-auto></atom-name><atom-name>
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>

@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, each opponent chooses three creatures they control and puts them into their owner’s sanctum.
+		When <atom-name>this artifact</atom-name> enters, each opponent chooses three creatures they control and puts them into their owner’s sanctum.
 		Once during each of your turns, you may play a card from your sanctum.
 	rule_text_2: 
 	rule_text_3: 

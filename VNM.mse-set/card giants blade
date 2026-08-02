@@ -34,7 +34,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When <atom-name>this artifact</atom-name> enters, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>this artifact</atom-name> enters, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +4/+4.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>5</sym-auto></param-cost></key></nospellcheck></kw-a>
 		<b>Subdued Rift</b> <sym>W/B</sym>| <u>Skill Sorcery</u><soft-line>

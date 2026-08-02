@@ -20,7 +20,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When you sacrifice <atom-cardname><nospellcheck>Devoured Messenger</nospellcheck></atom-cardname>, you may exile it. When you do, you may cast target noncreature spell with mana value 4 or less from your graveyard or hand without paying its mana cost.
+		When you sacrifice <atom-name>Devoured Messenger</atom-name>, you may exile it. When you do, you may cast target noncreature spell with mana value 4 or less from your graveyard or hand without paying its mana cost.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

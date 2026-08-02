@@ -651,31 +651,13 @@ keyword:
 keyword:
 	keyword: Trace
 	match: create a trace
-	reminder: Traces are cards that become copies when they enter public zones.
-	rules: 
-	mode: custom
-keyword:
-	keyword: Trace
-	match: trace its
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
-	rules: 
-	mode: custom
-keyword:
-	keyword: Trace
-	match: trace a
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
-	rules: 
-	mode: custom
-keyword:
-	keyword: Trace
-	match: trace another
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	reminder: Traces can’t exist in graveyards or exile and are tokens while on the battlefield.
 	rules: 
 	mode: custom
 keyword:
 	keyword: Trace
 	match: trace<atom-param>*s</atom-param> <atom-param>name</atom-param>
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
+	reminder: Traces can’t exist in graveyards or exile and are tokens while on the battlefield.
 	rules: 
 	mode: custom
 pack_type:

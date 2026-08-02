@@ -19,7 +19,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: <atom-cardname><nospellcheck>Oppressive Fire</nospellcheck></atom-cardname> deals X damage to target creature, where X is 2 plus the number of cards you’ve drawn this turn.
+	rule_text: <atom-name>Oppressive Fire</atom-name> deals X damage to target creature, where X is 2 plus the number of cards you’ve drawn this turn.
 	flavor_text:
 		<i-flavor>“I don’t ‘spray and pray.<error-spelling:en_US>’</error-spelling:en_US> With enough spraying, you don’t need to pray at all.”<soft-line>
 		—Volta, Brink Freebooter</soft-line></i-flavor>

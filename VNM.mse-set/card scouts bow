@@ -34,7 +34,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When <atom-name>this artifact</atom-name> enters, <kw-A><nospellcheck><key>create a <kw-A>trace</key></nospellcheck> of a card named Steady Growth into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>this artifact</atom-name> enters, <kw-A><nospellcheck><key>create a <kw-A>trace</key></nospellcheck> of a card named Steady Growth into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +1/+0 and has <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
 		<b>Steady Growth</b> <sym>B/G</sym>| <u>Enchantment<soft-line>

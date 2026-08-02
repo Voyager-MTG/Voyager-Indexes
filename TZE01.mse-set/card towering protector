@@ -10,7 +10,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2021-04-25 03:20:37
-	time_modified: 2026-04-01 16:56:45
+	time_modified: 2026-07-31 21:35:46
 	extra_data:
 		magic-m15-altered-plus:
 			promo_label: MSZ-010 ZZ Gundam
@@ -31,7 +31,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		<soft-line>As long as <atom-cardname><nospellcheck>Towering Protector</nospellcheck></atom-cardname> is equipped, enchanted, or has a counter on it, this creature may attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.</soft-line>
+		<soft-line>As long as this creature is equipped, enchanted, or has a counter on it, this creature may attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.</soft-line>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

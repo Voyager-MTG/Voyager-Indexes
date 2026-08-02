@@ -2,13 +2,13 @@
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 
-		chop_bottom: -3
+		chop_top: 2
+		chop_bottom: 2
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://www.artstation.com/artwork/GemzeB
 	time_created: 2024-04-01 22:07:49
-	time_modified: 2026-07-28 23:11:57
+	time_modified: 2026-08-01 23:03:39
 	name: Heron Drake
 	casting_cost: 2WW
 	image: image322
@@ -25,8 +25,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-A><nospellcheck><key>protection from <param-name>artifacts and from enchantments</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted, dealt damage, or equipped by artifacts or enchantments.)</i-auto></atom-reminder-expert></kw-A>
-		Other creatures you control enter with your choice of a healing counter, a +1/+1 counter, or a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter.
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>protection from <param-name>artifacts and from enchantments</param-name></key></nospellcheck></kw-0>
+		Other creatures you control enter with your choice of <kw-0><nospellcheck><key><param-a>an</param-a> <kw-1>healing counter</key></nospellcheck></kw-0>, a +1/+1 counter, or a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter.
 	flavor_text: <i-flavor>Found in a path that connected to <error-spelling:en_US>Vinimroth’s</error-spelling:en_US> ancient past, they prove the connections between <error-spelling:en_US>Avakin</error-spelling:en_US> and Drake alike.</i-flavor>
 	power: 4
 	toughness: 3

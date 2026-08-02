@@ -32,7 +32,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Whenever <atom-name>this creature</atom-name> attacks, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-name>this creature</atom-name> attacks, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 		<b>In the Moment</b> <sym>1R</sym>| <u>Skill Sorcery<soft-line>
 		</u>Exile the top card of your library. You may play it this turn.</soft-line>
 	rule_text_2: 

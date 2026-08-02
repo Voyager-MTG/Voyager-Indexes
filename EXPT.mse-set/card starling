@@ -18,9 +18,9 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		<sym-auto>I</sym-auto>: Put <atom-cardname><nospellcheck>Starling</nospellcheck></atom-cardname> into its owner’s sanctum. Return it to the battlefield at the beginning of the next end step. Activate only once each turn.
-		<sym-auto>I</sym-auto>: <atom-cardname><nospellcheck>Starling</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn. Activate only during your turn.
-		<sym-auto>1</sym-auto>: <atom-cardname><nospellcheck>Starling</nospellcheck></atom-cardname> gets +1/-1 or </sym>-1<sym>/+1 until end of turn.
+		<sym-auto>I</sym-auto>: Put <atom-name><nospellcheck>Starling</nospellcheck></atom-name> into its owner’s sanctum. Return it to the battlefield at the beginning of the next end step. Activate only once each turn.
+		<sym-auto>I</sym-auto>: <atom-name><nospellcheck>Starling</nospellcheck></atom-name> gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn. Activate only during your turn.
+		<sym-auto>1</sym-auto>: <atom-name><nospellcheck>Starling</nospellcheck></atom-name> gets +1/-1 or </sym>-1<sym>/+1 until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

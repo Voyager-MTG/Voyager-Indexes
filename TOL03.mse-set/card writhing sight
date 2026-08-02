@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/anebianka/art/Asztalosn-Vinnai-Bianka-Szemfnyveszts-Olaj-1256221341
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2026-05-23 11:45:03
+	time_modified: 2026-07-31 22:53:25
 	alias_type: godzilla
 	name: Writhing Sight
 	alias: Drdek
@@ -22,7 +22,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>2I</sym-auto>, Discard this: Draw two cards. Activate only if you control a token.
+		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym-auto>2I</sym-auto>, Discard this card: Draw two cards. Activate only if you control a token.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -45,7 +45,7 @@ card:
 	chapter_text: This card can start in your sanctum.                             “
 	rule_text:
 		Whenever you sacrifice a token, you may create a token that’s a copy of it. Do this only once each turn.
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, create a <kw-a><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		When <atom-name>this creature</atom-name> dies, create a <kw-a><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: <kw-A><nospellcheck><key>Pathbound <param-cost><sym>2</sym></param-cost></key></nospellcheck>. Activate only if you control three or more tokens with different names.<atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
 	power: 4

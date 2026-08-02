@@ -26,7 +26,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		When <atom-legname><nospellcheck>Nevali</nospellcheck></atom-legname> dies, create a colorless Saga enchantment token named Revival with “<sym>r3</sym> — Return a card named <atom-cardname><nospellcheck>Nevali, Duskbringer</nospellcheck></atom-cardname> from your graveyard to your hand.”
+		When <atom-legname><nospellcheck>Nevali</nospellcheck></atom-legname> dies, create a colorless Saga enchantment token named Revival with “<sym>r3</sym> — Return a card named <atom-name>Nevali, Duskbringer</atom-name> from your graveyard to your hand.”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

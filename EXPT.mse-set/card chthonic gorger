@@ -32,7 +32,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, destroy all nonland permanents with mana value 1 or less.
+		When <atom-name>this creature</atom-name> enters, destroy all nonland permanents with mana value 1 or less.
 	flavor_text:
 		<i-flavor>“Our readers deserve truth: the attacks are real, they are escalating, and the city bleeds in denial.”<soft-line>
 		</soft-line>—River Cities Gazette</i-flavor>
