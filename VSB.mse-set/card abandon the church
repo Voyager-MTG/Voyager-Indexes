@@ -21,8 +21,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		As an additional cost to cast this spell you may sacrifice a Sanctuary.
-		<atom-cardname><nospellcheck>Abandon the Church</nospellcheck></atom-cardname> deals X damage to each creature, where X is the number of Sanctuaries you control.
-		If this spell’s additional cost was paid, <atom-cardname><nospellcheck>Abandon the Church</nospellcheck></atom-cardname> deals twice that damage instead.
+		<atom-name><nospellcheck>Abandon the Church</nospellcheck></atom-name> deals X damage to each creature, where X is the number of Sanctuaries you control.
+		If this spell’s additional cost was paid, <atom-name><nospellcheck>Abandon the Church</nospellcheck></atom-name> deals twice that damage instead.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Black Birdie
 	card_code_text: 

@@ -27,7 +27,7 @@ card:
 	sub_type: <word-list-race-en>Serpent</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Tap an untapped creature you control: Target creature can’t block <atom-cardname><nospellcheck>Noon Delver Serpent</nospellcheck></atom-cardname> until end of turn.
+	rule_text: Tap an untapped creature you control: Target creature can’t block <atom-name><nospellcheck>Noon Delver Serpent</nospellcheck></atom-name> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Monsters not of the <error-spelling:en_US>Mansus</error-spelling:en_US> dwell in the waters of Port Noon, away from the notice of the Hours.</i-flavor>

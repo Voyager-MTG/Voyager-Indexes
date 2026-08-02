@@ -24,7 +24,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Put a control counter on target nonbasic land an opponent controls without a control counter on it. Exchange control of <atom-cardname><nospellcheck>Domination Center</nospellcheck></atom-cardname> and that land, then untap those lands.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Put a control counter on target nonbasic land an opponent controls without a control counter on it. Exchange control of <atom-name><nospellcheck>Domination Center</nospellcheck></atom-name> and that land, then untap those lands.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ali Hoff
 	card_code_text: 

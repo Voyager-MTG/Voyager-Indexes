@@ -28,10 +28,10 @@ card:
 	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: <word-list-enchantment></word-list-enchantment>
 	rarity: mythic rare
-	rule_text: Whenever <atom-cardname><nospellcheck>Nilshroud Apex</nospellcheck></atom-cardname> attacks, you lose 2 life and <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: Whenever <atom-name><nospellcheck>Nilshroud Apex</nospellcheck></atom-name> attacks, you lose 2 life and <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2:
 		<i-auto>(You can cast copies of this while in play.)</i-auto><soft-line>
-		</soft-line>At the beginning of your upkeep, <atom-cardname><nospellcheck>Wound</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+		</soft-line>At the beginning of your upkeep, <atom-name><nospellcheck>Wound</nospellcheck></atom-name> deals 1 damage to each opponent.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 3

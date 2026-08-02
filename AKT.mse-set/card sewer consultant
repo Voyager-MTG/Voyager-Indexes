@@ -18,7 +18,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Sewer Consultant</nospellcheck></atom-cardname> attacks, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
+		Whenever <atom-name><nospellcheck>Sewer Consultant</nospellcheck></atom-name> attacks, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
 		Whenever another Citizen card is put into your graveyard from anywhere, put a +1/+1 counter on target creature you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

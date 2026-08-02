@@ -30,9 +30,9 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		As long as <atom-cardname><nospellcheck>Way to the Wood</nospellcheck></atom-cardname> is in a graveyard or on the battlefield, it’s a Sanctuary land in addition to its other types.
+		As long as <atom-name><nospellcheck>Way to the Wood</nospellcheck></atom-name> is in a graveyard or on the battlefield, it’s a Sanctuary land in addition to its other types.
 		<sym-auto>T</sym-auto>: Add one mana of any color.
-		<sym-auto>2</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Way to the Wood</nospellcheck></atom-cardname>: You gain 3 life. <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.
+		<sym-auto>2</sym-auto>, Sacrifice <atom-name><nospellcheck>Way to the Wood</nospellcheck></atom-name>: You gain 3 life. <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

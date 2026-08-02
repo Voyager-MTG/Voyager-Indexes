@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: When you sacrifice <atom-cardname><nospellcheck>Nowhere Dreadsteed</nospellcheck></atom-cardname>, return it to its owner’s hand.
+	rule_text: When you sacrifice <atom-name><nospellcheck>Nowhere Dreadsteed</nospellcheck></atom-name>, return it to its owner’s hand.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The <error-spelling:en_US>wormhosts</error-spelling:en_US> of Nowhere learned early to cross between histories, preventing their eradication. </i-flavor>

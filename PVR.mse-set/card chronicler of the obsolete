@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Chronicler of the Obsolete</nospellcheck></atom-cardname> enters, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.
+	rule_text: When <atom-name><nospellcheck>Chronicler of the Obsolete</nospellcheck></atom-name> enters, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“Some cataclysmic event destroyed our ancestors a thousand years ago. Why do they walk among us now?”</i-flavor>

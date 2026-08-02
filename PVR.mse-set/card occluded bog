@@ -18,8 +18,8 @@ card:
 	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: common
 	rule_text:
-		<atom-cardname><nospellcheck>Occluded Bog</nospellcheck></atom-cardname> enters tapped.
-		When <atom-cardname><nospellcheck>Occluded Bog</nospellcheck></atom-cardname> enters, exile up to one target card from a graveyard.
+		<atom-name><nospellcheck>Occluded Bog</nospellcheck></atom-name> enters tapped.
+		When <atom-name><nospellcheck>Occluded Bog</nospellcheck></atom-name> enters, exile up to one target card from a graveyard.
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Rijas Preetch

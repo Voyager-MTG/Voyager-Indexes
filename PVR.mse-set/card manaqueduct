@@ -22,7 +22,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
 		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>: <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.
-		<sym-auto>3U</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Manaqueduct</nospellcheck></atom-cardname>: Draw two cards.
+		<sym-auto>3U</sym-auto>, Sacrifice <atom-name><nospellcheck>Manaqueduct</nospellcheck></atom-name>: Draw two cards.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

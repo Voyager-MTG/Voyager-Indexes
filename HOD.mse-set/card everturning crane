@@ -32,7 +32,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Everturning Crane</nospellcheck></atom-cardname> enters, tap up to three target nonland permanents. Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on each of them. They lose all abilities as long as they are tapped this way.
+		When <atom-name><nospellcheck>Everturning Crane</nospellcheck></atom-name> enters, tap up to three target nonland permanents. Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on each of them. They lose all abilities as long as they are tapped this way.
 	flavor_text: <i-flavor>The baffling symbol of House Rivers.</i-flavor>
 	power: 5
 	toughness: 5

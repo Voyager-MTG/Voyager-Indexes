@@ -22,7 +22,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Faceless Watchtower</nospellcheck></atom-cardname> enters, put a +1/+1 counter on target creature. If that’s another creature, also put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter and a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on it.
+		When <atom-name><nospellcheck>Faceless Watchtower</nospellcheck></atom-name> enters, put a +1/+1 counter on target creature. If that’s another creature, also put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter and a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

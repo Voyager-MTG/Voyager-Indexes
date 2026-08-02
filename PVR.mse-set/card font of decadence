@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Ward—<param-cost>Sacrifice a land</param-cost>.</key></nospellcheck></kw-0>
-		Whenever <atom-cardname><nospellcheck>Font of Decadence</nospellcheck></atom-cardname> attacks, it gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn. Each player draws seven cards and sacrifices a land.
+		Whenever <atom-name><nospellcheck>Font of Decadence</nospellcheck></atom-name> attacks, it gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn. Each player draws seven cards and sacrifices a land.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

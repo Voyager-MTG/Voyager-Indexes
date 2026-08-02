@@ -31,7 +31,7 @@ card:
 	rarity: common
 	rule_text:
 		Sneak <sym>3G</sym> <i-auto>(You may cast this spell for <sym>3G</sym> if you also return an unblocked attacker you control to hand during the declare blockers step.)</i-auto>
-		Whenever <atom-cardname><nospellcheck>The Call to Adventure</nospellcheck></atom-cardname> enters during combat or a creature you control deals combat damage to a player or planeswalker, draw a card.
+		Whenever <atom-name><nospellcheck>The Call to Adventure</nospellcheck></atom-name> enters during combat or a creature you control deals combat damage to a player or planeswalker, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: BettyElgyn
 	card_code_text: 

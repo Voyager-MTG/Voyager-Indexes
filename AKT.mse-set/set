@@ -307,7 +307,6 @@ include_file: card ithian highblood
 include_file: card mass migration
 include_file: card ineffable spawning
 include_file: card atraja the mutable
-include_file: card ruthless revenge
 include_file: card aetherbeast scholar
 include_file: card identity connoisseur
 include_file: card ixajas stalwart
@@ -380,7 +379,7 @@ include_file: card callwolf replica
 include_file: card endless vassals
 include_file: card thoughtglass shaper
 include_file: card serf
-include_file: card ruthless revenge.1
+include_file: card ruthless revenge
 keyword:
 	keyword: Galvanise
 	match: galvanise

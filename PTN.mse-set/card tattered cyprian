@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Tattered Cyprian</nospellcheck></atom-cardname> enters, if an opponent lost life this turn, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name><nospellcheck>Tattered Cyprian</nospellcheck></atom-name> enters, if an opponent lost life this turn, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

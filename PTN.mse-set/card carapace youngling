@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Carapace Youngling</nospellcheck></atom-cardname> can’t be the target of spells or abilities.
-		<atom-cardname><nospellcheck>Carapace Youngling</nospellcheck></atom-cardname> gets +2/+2 as long as seven or more cards are in your graveyard.
+		<atom-name><nospellcheck>Carapace Youngling</nospellcheck></atom-name> can’t be the target of spells or abilities.
+		<atom-name><nospellcheck>Carapace Youngling</nospellcheck></atom-name> gets +2/+2 as long as seven or more cards are in your graveyard.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

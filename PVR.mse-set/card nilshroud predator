@@ -26,7 +26,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Whenever <atom-cardname><nospellcheck>Nilshroud Predator</nospellcheck></atom-cardname> or another Horror you control attacks, you may pay <sym-auto>1</sym-auto>. If you do, that Horror gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> until end of turn.
+	rule_text: Whenever <atom-name><nospellcheck>Nilshroud Predator</nospellcheck></atom-name> or another Horror you control attacks, you may pay <sym-auto>1</sym-auto>. If you do, that Horror gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>It takes a monster to survive the Nil, and something worse to thrive in it.</i-flavor>

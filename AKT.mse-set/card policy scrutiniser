@@ -25,7 +25,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Policy Scrutiniser</nospellcheck></atom-cardname> enters, exile up to one target artifact or enchantment an opponent controls until <atom-cardname><nospellcheck>Policy Scrutiniser</nospellcheck></atom-cardname> leaves the battlefield.
+	rule_text: When <atom-name><nospellcheck>Policy Scrutiniser</nospellcheck></atom-name> enters, exile up to one target artifact or enchantment an opponent controls until <atom-name><nospellcheck>Policy Scrutiniser</nospellcheck></atom-name> leaves the battlefield.
 	flavor_text: <i-flavor>“The state ought not imprison grass. They’ll die before their sentences are carried out.”</i-flavor>
 	power: 2
 	toughness: 2

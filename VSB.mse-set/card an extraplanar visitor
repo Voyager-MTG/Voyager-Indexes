@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		Play with the top card of your library revealed.
-		As long as the top card of your library is a permanent card, <atom-cardname><nospellcheck>An Extraplanar Visitor</nospellcheck></atom-cardname> has all activated and triggered abilities of that card.
+		As long as the top card of your library is a permanent card, <atom-name><nospellcheck>An Extraplanar Visitor</nospellcheck></atom-name> has all activated and triggered abilities of that card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4

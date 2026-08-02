@@ -21,8 +21,8 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<atom-cardname><nospellcheck>Boundless Ocean</nospellcheck></atom-cardname> enters tapped. 
-		When <atom-cardname><nospellcheck>Boundless Ocean</nospellcheck></atom-cardname> enters, you may tap or untap target creature.
+		<atom-name><nospellcheck>Boundless Ocean</nospellcheck></atom-name> enters tapped. 
+		When <atom-name><nospellcheck>Boundless Ocean</nospellcheck></atom-name> enters, you may tap or untap target creature.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
 	rule_text_2: 
 	rule_text_3: 

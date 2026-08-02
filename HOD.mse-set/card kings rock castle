@@ -19,7 +19,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>King’s Rock Castle</nospellcheck></atom-cardname> enters tapped unless you control two or fewer other lands.
+		<atom-name><nospellcheck>King’s Rock Castle</nospellcheck></atom-name> enters tapped unless you control two or fewer other lands.
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.
 		<sym-auto>3W</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a nontoken creature: Create a number of 1/1 blue Scout creature tokens equal to the sacrificed creature’s mana value. Activate only outside of combat.
 	flavor_text: <i-flavor></i-flavor>

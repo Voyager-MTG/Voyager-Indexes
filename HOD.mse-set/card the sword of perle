@@ -29,7 +29,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <atom-cardname><nospellcheck>The Sword of Perle</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it’s attacking.
+	rule_text: <atom-name><nospellcheck>The Sword of Perle</nospellcheck></atom-name> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it’s attacking.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

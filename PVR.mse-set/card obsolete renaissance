@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>permanent</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Obsolete Renaissance</nospellcheck></atom-cardname> enters, draw a card.
+		When <atom-name><nospellcheck>Obsolete Renaissance</nospellcheck></atom-name> enters, draw a card.
 		You may cast Aura spells from your graveyard if they target enchanted permanent.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: PurePoly

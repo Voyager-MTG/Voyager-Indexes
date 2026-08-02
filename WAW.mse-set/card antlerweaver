@@ -20,7 +20,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Antlerweaver</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Then you may put a creature card with mana value 1 from your hand or graveyard onto the battlefield, or create a 1/1 Wonder creature token that’s all colors. That creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	rule_text: When <atom-name><nospellcheck>Antlerweaver</nospellcheck></atom-name> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Then you may put a creature card with mana value 1 from your hand or graveyard onto the battlefield, or create a 1/1 Wonder creature token that’s all colors. That creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 1

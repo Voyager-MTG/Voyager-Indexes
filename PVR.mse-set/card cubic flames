@@ -18,7 +18,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Until end of turn, whenever a creature dies, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
-		<atom-cardname><nospellcheck>Cubic Flames</nospellcheck></atom-cardname> deals 2 damage to each creature.
+		<atom-name><nospellcheck>Cubic Flames</nospellcheck></atom-name> deals 2 damage to each creature.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Aaaatatatata
 	card_code_text: 

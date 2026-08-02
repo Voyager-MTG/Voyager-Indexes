@@ -20,7 +20,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Wandering Unmaker</nospellcheck></atom-cardname> is dealt damage, if you control a Sanctuary or a God, <atom-cardname><nospellcheck>Wandering Unmaker</nospellcheck></atom-cardname> deals 2 damage to each opponent.
+		When <atom-name><nospellcheck>Wandering Unmaker</nospellcheck></atom-name> is dealt damage, if you control a Sanctuary or a God, <atom-name><nospellcheck>Wandering Unmaker</nospellcheck></atom-name> deals 2 damage to each opponent.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“An unclean flame smolders beneath the world. I’ve invoked the Wolf, and like it or not, I’m doing his work.”</i-flavor>

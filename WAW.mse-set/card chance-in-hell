@@ -31,8 +31,8 @@ card:
 	sub_type_2: <word-list-planeswalker>Chance</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
 	rarity: mythic rare
 	rule_text:
-		Pay 3 life: <atom-cardname><nospellcheck>Chance-in-Hell</nospellcheck></atom-cardname> <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>.
-		<i><kw-0><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-0> — At the beginning of your end step, discard a card or sacrifice a nonland permanent. If you’ve spent <sym>WUBRG</sym> to cast spells this turn, instead exile <atom-cardname><nospellcheck>Chance-in-Hell</nospellcheck></atom-cardname> and return her to the battlefield transformed at the beginning of your next upkeep. 
+		Pay 3 life: <atom-name><nospellcheck>Chance-in-Hell</nospellcheck></atom-name> <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>.
+		<i><kw-0><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-0> — At the beginning of your end step, discard a card or sacrifice a nonland permanent. If you’ve spent <sym>WUBRG</sym> to cast spells this turn, instead exile <atom-name><nospellcheck>Chance-in-Hell</nospellcheck></atom-name> and return her to the battlefield transformed at the beginning of your next upkeep. 
 	flavor_text: <i-flavor></i-flavor>
 	loyalty_cost_6: -2
 	loyalty_cost_7: -X

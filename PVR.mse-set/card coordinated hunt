@@ -14,7 +14,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
-	rule_text: <atom-cardname><nospellcheck>Coordinated Hunt</nospellcheck></atom-cardname> deals 3 damage to any target. If your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, <atom-cardname><nospellcheck>Coordinated Hunt</nospellcheck></atom-cardname> deals 4 damage to that target instead.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <atom-name><nospellcheck>Coordinated Hunt</nospellcheck></atom-name> deals 3 damage to any target. If your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, <atom-name><nospellcheck>Coordinated Hunt</nospellcheck></atom-name> deals 4 damage to that target instead.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Edgars Soiko
 	card_code_text: 

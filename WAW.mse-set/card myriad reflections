@@ -16,7 +16,7 @@ card:
 	rarity: rare
 	rule_text:
 		For each nontoken creature you control, create a token that’s a copy of it, except it’s a 1/1 Wonder in addition to its other types.
-		Exile <atom-cardname><nospellcheck>Myriad Reflections</nospellcheck></atom-cardname>.
+		Exile <atom-name><nospellcheck>Myriad Reflections</nospellcheck></atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 

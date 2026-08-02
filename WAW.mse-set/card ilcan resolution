@@ -21,7 +21,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Ilcan Resolution</nospellcheck></atom-cardname> enters, you may have target creature you control <kw-0><nospellcheck><key>fight</key></nospellcheck></kw-0> target creature you don’t control.
+		When <atom-name><nospellcheck>Ilcan Resolution</nospellcheck></atom-name> enters, you may have target creature you control <kw-0><nospellcheck><key>fight</key></nospellcheck></kw-0> target creature you don’t control.
 		At the beginning of your end step, if a creature died under your control this turn, you may draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jaromir Hrivnak

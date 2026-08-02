@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Exile the top two cards of your library and choose one of them. You may play that card this turn.
-		<sym-auto>1</sym-auto>, Exile <atom-cardname><nospellcheck>Sacred Signs</nospellcheck></atom-cardname> from your graveyard: Add one mana of any color.
+		<sym-auto>1</sym-auto>, Exile <atom-name><nospellcheck>Sacred Signs</nospellcheck></atom-name> from your graveyard: Add one mana of any color.
 	flavor_text: <i-flavor>High-fidelity lights in a low-fidelity world.</i-flavor>
 	illustrator: LongestDistance
 	card_code_text: 

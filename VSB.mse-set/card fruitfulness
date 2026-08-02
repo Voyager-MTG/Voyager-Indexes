@@ -22,7 +22,7 @@ card:
 	rule_text:
 		You may play lands and cast spells from your graveyard.
 		Whenever one or more cards are put into your graveyard from anywhere, exile those cards and you get a poison counter.
-		At the beginning of the end step, sacrifice <atom-cardname><nospellcheck>Fruitfulness</nospellcheck></atom-cardname> or you get two poison counters.
+		At the beginning of the end step, sacrifice <atom-name><nospellcheck>Fruitfulness</nospellcheck></atom-name> or you get two poison counters.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anton Kurbatov
 	card_code_text: 

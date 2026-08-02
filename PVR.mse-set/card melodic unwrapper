@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key><param-prefix>Texture</param-prefix>walk</key></nospellcheck><atom-reminder-old> <i-auto>(This creature can’t be blocked as long as defending player controls a <param-prefix>Texture</param-prefix>.)</i-auto></atom-reminder-old></kw-A>
-		Whenever <atom-cardname><nospellcheck>Melodic Unwrapper</nospellcheck></atom-cardname> attacks, untap target nonland permanent.
+		Whenever <atom-name><nospellcheck>Melodic Unwrapper</nospellcheck></atom-name> attacks, untap target nonland permanent.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Deprecated Harvest</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-name><nospellcheck>Deprecated Harvest</nospellcheck></atom-name> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>T</sym-auto>, Exile a Texture you control or a Texture card from your graveyard: Search your library for a land card, put it onto the battlefield, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Gurk Vangus

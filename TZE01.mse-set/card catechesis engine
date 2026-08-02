@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Catechesis Engine</nospellcheck></atom-cardname> attacks, you may sacrifice a land or exile a land card from your graveyard. If you do, you get <sym-auto>V/U</sym-auto>.
+		Whenever <atom-name><nospellcheck>Catechesis Engine</nospellcheck></atom-name> attacks, you may sacrifice a land or exile a land card from your graveyard. If you do, you get <sym-auto>V/U</sym-auto>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

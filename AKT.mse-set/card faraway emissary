@@ -19,7 +19,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Faraway Emissary</nospellcheck></atom-cardname> enters, each player discards a card.
+		When <atom-name><nospellcheck>Faraway Emissary</nospellcheck></atom-name> enters, each player discards a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

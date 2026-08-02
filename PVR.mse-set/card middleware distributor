@@ -15,8 +15,8 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Middleware Distributor</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as you’ve put a nontoken card into your hand this turn and it wasn’t drawn.
-		<atom-cardname><nospellcheck>Middleware Distributor</nospellcheck></atom-cardname> gets +1/+1 for each nontoken card a spell or ability has put into your hand this turn.
+		<atom-name><nospellcheck>Middleware Distributor</nospellcheck></atom-name> has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as you’ve put a nontoken card into your hand this turn and it wasn’t drawn.
+		<atom-name><nospellcheck>Middleware Distributor</nospellcheck></atom-name> gets +1/+1 for each nontoken card a spell or ability has put into your hand this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

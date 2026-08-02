@@ -32,7 +32,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Daring General</nospellcheck></atom-cardname> deals combat damage to a player, you may cast a card exiled with it. <i-auto>(You still pay its costs.)</i-auto>
+		Whenever <atom-name><nospellcheck>Daring General</nospellcheck></atom-name> deals combat damage to a player, you may cast a card exiled with it. <i-auto>(You still pay its costs.)</i-auto>
 		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>RGW</sym-auto>, Exile four other cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

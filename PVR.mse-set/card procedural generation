@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		For each nonland permanent you control, create a token that’s a copy of that permanent, except it has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>. Exile those tokens at the beginning of the next end step.
-		Exile <atom-cardname><nospellcheck>Procedural Generation</nospellcheck></atom-cardname>.
+		Exile <atom-name><nospellcheck>Procedural Generation</nospellcheck></atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Henry Wong
 	card_code_text: 

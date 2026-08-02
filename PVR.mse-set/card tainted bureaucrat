@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: Whenever <atom-cardname><nospellcheck>Tainted Bureaucrat</nospellcheck></atom-cardname> attacks, you may sacrifice a land or exile a land card from your graveyard. If you do, it gets +1/+1 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+	rule_text: Whenever <atom-name><nospellcheck>Tainted Bureaucrat</nospellcheck></atom-name> attacks, you may sacrifice a land or exile a land card from your graveyard. If you do, it gets +1/+1 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“The world is burning down again? Meh.”</i-flavor>

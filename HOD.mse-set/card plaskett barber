@@ -31,7 +31,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>B</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
-		<margin:0:0:5>When <atom-cardname><nospellcheck>Plaskett Barber</nospellcheck></atom-cardname> enters, choose one —</margin:0:0:5>
+		<margin:0:0:5>When <atom-name><nospellcheck>Plaskett Barber</nospellcheck></atom-name> enters, choose one —</margin:0:0:5>
 		<li><bullet>• </bullet>Remove up to three counters from target permanent or opponent.
 		</li><li><bullet>• </bullet>Exile the top card of target player’s library.</li>
 	flavor_text: <i-flavor></i-flavor>

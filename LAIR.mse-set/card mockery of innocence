@@ -25,7 +25,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Mockery of Innocence</nospellcheck></atom-cardname> enters, you may destroy target creature. You gain life equal to 8 minus that creature’s mana value.
+		When <atom-name><nospellcheck>Mockery of Innocence</nospellcheck></atom-name> enters, you may destroy target creature. You gain life equal to 8 minus that creature’s mana value.
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
 	toughness: 5

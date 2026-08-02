@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-04-29 14:48:20
-	time_modified: 2026-04-29 12:06:31
+	time_modified: 2026-08-02 01:57:29
 	name: Inciting Incident
 	casting_cost: 1BB
-	image: image66
+	image: image121.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		You may cast <atom-cardname><nospellcheck>Inciting Incident</nospellcheck></atom-cardname> for <sym>B</sym> as long as it’s the first spell you’ve cast this game.
+		You may cast Inciting Incident</atom-name> for <sym>B</sym> as long as it’s the first spell you’ve cast this game.
 		Destroy target creature
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Kawayabug

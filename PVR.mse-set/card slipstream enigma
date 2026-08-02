@@ -32,7 +32,7 @@ card:
 	sub_type_2: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Slipstream Enigma</nospellcheck></atom-cardname> can’t attack or block.
+		<atom-name><nospellcheck>Slipstream Enigma</nospellcheck></atom-name> can’t attack or block.
 		Whenever you cast a noncreature spell from your hand, <kw-1><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-1>
 	rule_text_2:
 		<i-auto>(You can cast copies of this while in play.)</i-auto><soft-line>

@@ -41,7 +41,7 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Mordel Excursionist</nospellcheck></atom-cardname> attacks, trace its skill into your hand.
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mordel</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Excursionist</atom-name> attacks, trace its skill into your hand.
 		<b>In the Moment</b> <sym>1R</sym>| <u>Skill Sorcery<soft-line>
 		</u>Exile the top card of your library. You may play it this turn.</soft-line>
 	rule_text_2: 

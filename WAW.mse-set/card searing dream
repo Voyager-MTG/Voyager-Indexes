@@ -22,7 +22,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Creatures you control have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
-		Whenever a creature you control enters, <atom-cardname><nospellcheck>Searing Dream</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+		Whenever a creature you control enters, <atom-name><nospellcheck>Searing Dream</nospellcheck></atom-name> deals 1 damage to each opponent.
 	flavor_text:
 		<i-flavor>“Dreams are getting more vivid, and I never used to wake up so energized. Is this safe?”<soft-line>
 		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></i-flavor>

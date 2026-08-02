@@ -15,7 +15,7 @@ card:
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Advocate of Heresy</nospellcheck></atom-cardname> enters, destroy up to one target creature. <kw-A><nospellcheck><key>You get</key></nospellcheck> an amount of <sym>V</sym> equal to that creature’s mana value.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: When <atom-name><nospellcheck>Advocate of Heresy</nospellcheck></atom-name> enters, destroy up to one target creature. <kw-A><nospellcheck><key>You get</key></nospellcheck> an amount of <sym>V</sym> equal to that creature’s mana value.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>The <error-spelling:en_US>Nilshroud</error-spelling:en_US> is a justified prison.</i-flavor>
 	watermark: none
 	power: 7

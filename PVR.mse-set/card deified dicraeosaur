@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Deified Dicraeosaur</nospellcheck></atom-cardname> enters, choose one —
+		When <atom-name><nospellcheck>Deified Dicraeosaur</nospellcheck></atom-name> enters, choose one —
 		<li><bullet>• </bullet>Put two +1/+1 counters on another target Dinosaur you control.
 		</li><li><bullet>• </bullet>Return target monocolored Dinosaur card from your graveyard to your hand.</li>
 	flavor_text: <i-flavor></i-flavor>

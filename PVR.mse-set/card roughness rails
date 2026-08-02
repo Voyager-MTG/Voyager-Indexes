@@ -36,7 +36,7 @@ card:
 		</soft-line>Roughness Rails deals 2 damage to any target.
 	level_4_text:
 		Sorcery — <soft-line>
-		<atom-cardname><nospellcheck>Roughness Rails</nospellcheck></atom-cardname> deals 2 damage to any target.</soft-line>
+		<atom-name><nospellcheck>Roughness Rails</nospellcheck></atom-name> deals 2 damage to any target.</soft-line>
 	illustrator: Ali Hoff
 	card_code_text: 
 	card_code_text_2: 
@@ -52,4 +52,4 @@ card:
 		II — Instant — <soft-line>
 		</soft-line>Roughness Rails deals 2 damage to any target.
 		III — Sorcery — <soft-line>
-		<atom-cardname><nospellcheck>Roughness Rails</nospellcheck></atom-cardname> deals 2 damage to any target.</soft-line>
+		<atom-name><nospellcheck>Roughness Rails</nospellcheck></atom-name> deals 2 damage to any target.</soft-line>

@@ -40,11 +40,11 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Bisapience <param-cost><sym>7</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever <atom-cardname><nospellcheck>Gristle, Fierce Vassal</nospellcheck></atom-cardname> enters or attacks, draw a card for each transformed permanent you control.
+		Whenever <atom-name><nospellcheck>Gristle, Fierce Vassal</nospellcheck></atom-name> enters or attacks, draw a card for each transformed permanent you control.
 	rule_text_2:
 		<kw-0><nospellcheck><key>Bisapience—<param-cost>Discard a card</param-cost>.</key></nospellcheck></kw-0>
 		<kw-0><nospellcheck><key>Trample</key></nospellcheck></kw-0>
-		Whenever <atom-cardname><nospellcheck>Gristlethark, Godsire</nospellcheck></atom-cardname> enters or attacks, double the power of another target creature you control until end of turn.
+		Whenever <atom-name><nospellcheck>Gristlethark, Godsire</nospellcheck></atom-name> enters or attacks, double the power of another target creature you control until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 3

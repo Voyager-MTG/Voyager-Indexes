@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a land.
-		<atom-cardname><nospellcheck>Burn Barren</nospellcheck></atom-cardname> deals 4 damage to any target and you gain 4 life.
+		<atom-name><nospellcheck>Burn Barren</nospellcheck></atom-name> deals 4 damage to any target and you gain 4 life.
 	flavor_text: <i-flavor>Ancient cavemen rituals slash and burn in the hopes of returning <error-spelling:en_US>mana</error-spelling:en_US> to the world.</i-flavor>
 	illustrator: Henry Wong
 	card_code_text: 

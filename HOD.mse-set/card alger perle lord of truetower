@@ -27,7 +27,7 @@ card:
 	rule_text:
 		<kw-0><nospellcheck><key>Ward—<param-cost>Pay 2 life</param-cost>.</key></nospellcheck></kw-0>
 		Other legendary creatures you control get +1/+0.
-		<sym-auto>3RW</sym-auto>, Exile <atom-cardname><nospellcheck>Alger Perle, Lord of Truetower</nospellcheck></atom-cardname> from your graveyard: Return target legendary creature card from your graveyard to your hand.
+		<sym-auto>3RW</sym-auto>, Exile <atom-name><nospellcheck>Alger Perle, Lord of Truetower</nospellcheck></atom-name> from your graveyard: Return target legendary creature card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

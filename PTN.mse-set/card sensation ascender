@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Sensation Ascender</nospellcheck></atom-cardname> dies, if an opponent lost life this turn, you draw a card.
+	rule_text: When <atom-name><nospellcheck>Sensation Ascender</nospellcheck></atom-name> dies, if an opponent lost life this turn, you draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The principle of Grail drowns us in pleasure, hunger, and carnal sensation.</i-flavor>

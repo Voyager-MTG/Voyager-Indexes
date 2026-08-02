@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Artillery Shot</nospellcheck></atom-cardname> deals 4 damage to any target.
+		<atom-name><nospellcheck>Artillery Shot</nospellcheck></atom-name> deals 4 damage to any target.
 		Reveal the top card of your library until you reveal a nonland card with mana value 3 or less. You may cast that card without paying its mana cost. Then shuffle your library.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sebastian Szmyd

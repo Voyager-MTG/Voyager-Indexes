@@ -28,7 +28,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever you sacrifice a nontoken permanent, create a 1/1 red Incarnation creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
-		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>Zeitgeist’s Judgment</nospellcheck></atom-cardname> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that an Incarnation you control dealt damage to an opponent.)</i-auto>
+		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name><nospellcheck>Zeitgeist’s Judgment</nospellcheck></atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that an Incarnation you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anato Finnstark
 	card_code_text: 

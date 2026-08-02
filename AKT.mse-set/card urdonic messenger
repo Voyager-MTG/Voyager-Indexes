@@ -26,7 +26,7 @@ card:
 	sub_type: <word-list-race-en>Bird</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Urdonic Messenger</nospellcheck></atom-cardname> enters, return target permanent card with mana value 3 or less from your graveyard to the battlefield.
+		When <atom-name><nospellcheck>Urdonic Messenger</nospellcheck></atom-name> enters, return target permanent card with mana value 3 or less from your graveyard to the battlefield.
 	flavor_text: <i-flavor><error-spelling:en_US>Thawion’s</error-spelling:en_US> envoys can’t be dismissed.</i-flavor>
 	power: 3
 	toughness: 3

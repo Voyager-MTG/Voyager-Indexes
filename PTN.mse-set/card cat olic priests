@@ -29,7 +29,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		Whenever an opponent draws their second, fourth, or sixth card each turn, you draw a card.
-		Exile <atom-cardname><nospellcheck>Cat o’lic Priests</nospellcheck></atom-cardname>: Exile all graveyards. Activate only as a sorcery.
+		Exile <atom-name><nospellcheck>Cat o’lic Priests</nospellcheck></atom-name>: Exile all graveyards. Activate only as a sorcery.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

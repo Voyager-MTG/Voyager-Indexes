@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Skeleton</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: When <atom-cardname><nospellcheck>Nowhere Wormhost</nospellcheck></atom-cardname> enters, target permanent you control becomes a 3/2 Skeleton creature. Sacrifice that permanent when <atom-cardname><nospellcheck>Nowhere Wormhost</nospellcheck></atom-cardname> leaves the battlefield.
+	rule_text: When <atom-name><nospellcheck>Nowhere Wormhost</nospellcheck></atom-name> enters, target permanent you control becomes a 3/2 Skeleton creature. Sacrifice that permanent when <atom-name><nospellcheck>Nowhere Wormhost</nospellcheck></atom-name> leaves the battlefield.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Worms enter through the spaces in the skin, and then do what Worms will.</i-flavor>

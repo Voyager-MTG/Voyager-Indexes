@@ -23,7 +23,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>W</sym-auto>, <sym-auto>T</sym-auto>: Tap target creature.
-		<sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Sapner Battlemage</nospellcheck></atom-cardname>: Return target card from your graveyard to your hand.
+		<sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-name><nospellcheck>Sapner Battlemage</nospellcheck></atom-name>: Return target card from your graveyard to your hand.
 	flavor_text: <i-flavor>“I had thought the injury would keep me away. But in times as dire as this, I will return.”</i-flavor>
 	power: 3
 	toughness: 2

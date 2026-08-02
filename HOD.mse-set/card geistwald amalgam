@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Geistwald Amalgam</nospellcheck></atom-cardname> enters with X +1/+1 counters on it.
+		<atom-name><nospellcheck>Geistwald Amalgam</nospellcheck></atom-name> enters with X +1/+1 counters on it.
 		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>4G</sym-auto>, Exile X other cards from your graveyard. X can’t be 0</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: 

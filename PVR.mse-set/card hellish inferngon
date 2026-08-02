@@ -16,7 +16,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Fractal</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Hellish Inferngon</nospellcheck></atom-cardname> enters, add three mana in any combination of colors and <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: When <atom-name><nospellcheck>Hellish Inferngon</nospellcheck></atom-name> enters, add three mana in any combination of colors and <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Manaless</error-spelling:en_US>, <error-spelling:en_US>primivirin</error-spelling:en_US> horrors sustain themselves with a twisted alternative.”<soft-line>
 		—<error-spelling:en_US>Merion</error-spelling:en_US>, Planar <error-spelling:en_US>Decimator</soft-line></i-flavor></error-spelling:en_US>

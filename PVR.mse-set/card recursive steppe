@@ -17,9 +17,9 @@ card:
 	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Recursive Steppe</nospellcheck></atom-cardname> enters tapped.
+		<atom-name><nospellcheck>Recursive Steppe</nospellcheck></atom-name> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.
-		<sym-auto>1WW</sym-auto>, <sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Recursive Steppe</nospellcheck></atom-cardname>: Choose target permanent card in your graveyard that was put there from the battlefield this turn. Return it to the battlefield tapped.
+		<sym-auto>1WW</sym-auto>, <sym-auto>T</sym-auto>, Exile <atom-name><nospellcheck>Recursive Steppe</nospellcheck></atom-name>: Choose target permanent card in your graveyard that was put there from the battlefield this turn. Return it to the battlefield tapped.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Henry Wong
 	card_code_text: 

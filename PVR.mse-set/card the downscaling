@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>The Downscaling</nospellcheck></atom-cardname> enters, for each player, you choose from among the permanents that player controls another enchantment, an artifact, a creature, a planeswalker, and a land. Exile those permanents until <atom-cardname><nospellcheck>The Downscaling</nospellcheck></atom-cardname> leaves the battlefield.
+	rule_text: When <atom-name><nospellcheck>The Downscaling</nospellcheck></atom-name> enters, for each player, you choose from among the permanents that player controls another enchantment, an artifact, a creature, a planeswalker, and a land. Exile those permanents until <atom-name><nospellcheck>The Downscaling</nospellcheck></atom-name> leaves the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: other magic symbols color spotlight
 	power: 

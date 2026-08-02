@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Malleary Reforged</nospellcheck></atom-cardname> attacks, if you control a God, it deals 2 damage to any target.
+		Whenever <atom-name><nospellcheck>Malleary Reforged</nospellcheck></atom-name> attacks, if you control a God, it deals 2 damage to any target.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

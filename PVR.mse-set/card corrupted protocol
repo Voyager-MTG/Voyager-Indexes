@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		Zombies you control get +1/+1.
-		Whenever an opponent loses life, you may tap <atom-cardname><nospellcheck>Corrupted Protocol</nospellcheck></atom-cardname>. If you do, you may cast a Zombie card from your graveyard with mana value less than or equal to the amount of life lost.
+		Whenever an opponent loses life, you may tap <atom-name><nospellcheck>Corrupted Protocol</nospellcheck></atom-name>. If you do, you may cast a Zombie card from your graveyard with mana value less than or equal to the amount of life lost.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: David J Fulde
 	card_code_text: Scribbl

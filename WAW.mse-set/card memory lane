@@ -21,8 +21,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Memory Lane</nospellcheck></atom-cardname> enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
-		<sym-auto>3</sym-auto>, Shuffle seven cards from your graveyard into your library, Exile <atom-cardname><nospellcheck>Memory Lane</nospellcheck></atom-cardname>: Create a 5/5 Wonder Archon creature token that’s all colors. Activate only as a sorcery.
+		When <atom-name><nospellcheck>Memory Lane</nospellcheck></atom-name> enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+		<sym-auto>3</sym-auto>, Shuffle seven cards from your graveyard into your library, Exile <atom-name><nospellcheck>Memory Lane</nospellcheck></atom-name>: Create a 5/5 Wonder Archon creature token that’s all colors. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Wenjun Lin
 	card_code_text: 

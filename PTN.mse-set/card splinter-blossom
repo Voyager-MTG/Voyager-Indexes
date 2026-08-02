@@ -35,8 +35,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Splinter-Blossom</nospellcheck></atom-cardname> can’t be blocked by creatures with lesser power.
-		Whenever <atom-cardname><nospellcheck>Splinter-Blossom</nospellcheck></atom-cardname> is dealt damage, put a +1/+1 counter on it. <i-auto>(It must survive the damage to get the counters.)</i-auto>
+		<atom-name><nospellcheck>Splinter-Blossom</nospellcheck></atom-name> can’t be blocked by creatures with lesser power.
+		Whenever <atom-name><nospellcheck>Splinter-Blossom</nospellcheck></atom-name> is dealt damage, put a +1/+1 counter on it. <i-auto>(It must survive the damage to get the counters.)</i-auto>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Wolves are not always symbols of agony.</i-flavor>

@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		At the beginning of your second main phase, if an opponent was dealt combat damage this turn, put a +1/+1 counter on <atom-cardname><nospellcheck>Evening Isles Skycomber</nospellcheck></atom-cardname>.
-		<sym-auto>1U</sym-auto>: <atom-cardname><nospellcheck>Evening Isles Skycomber</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+		At the beginning of your second main phase, if an opponent was dealt combat damage this turn, put a +1/+1 counter on <atom-name><nospellcheck>Evening Isles Skycomber</nospellcheck></atom-name>.
+		<sym-auto>1U</sym-auto>: <atom-name><nospellcheck>Evening Isles Skycomber</nospellcheck></atom-name> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The lock seeks its key, the wall seeks its door, the sky opens.</i-flavor>

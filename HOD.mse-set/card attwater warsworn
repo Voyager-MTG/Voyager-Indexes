@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever <atom-cardname><nospellcheck>Attwater Warsworn</nospellcheck></atom-cardname> attacks, add two mana of any one color. You can’t use this mana to cast spells. Until end of combat, you don’t lose this mana as steps end.
+	rule_text: Whenever <atom-name><nospellcheck>Attwater Warsworn</nospellcheck></atom-name> attacks, add two mana of any one color. You can’t use this mana to cast spells. Until end of combat, you don’t lose this mana as steps end.
 	flavor_text: <i-flavor><error-spelling:en_US>Attwater</error-spelling:en_US> tactics are useful against monsters and people.</i-flavor>
 	power: 3
 	toughness: 2

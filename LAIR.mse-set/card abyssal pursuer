@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-04-29 14:48:20
-	time_modified: 2026-04-29 12:07:30
+	time_modified: 2026-08-02 01:57:47
 	name: Abyssal Pursuer
 	casting_cost: 2RR
-	image: image71
+	image: image125.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text: Whenever <atom-cardname><nospellcheck>Abyssal Pursuer</nospellcheck></atom-cardname> attacks, you may discard a card and <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>. When you do, if a creature card with mana value less than or equal to the number of attacking creatures was revealed this way, you may put it onto the battlefield tapped and attacking.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Whenever Abyssal Pursuer</atom-name> attacks, you may discard a card and <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>. When you do, if a creature card with mana value less than or equal to the number of attacking creatures was revealed this way, you may put it onto the battlefield tapped and attacking.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

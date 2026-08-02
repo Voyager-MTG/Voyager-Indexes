@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text: Tap an untapped artifact, enchantment, or Artificer you control: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0> if this is the first time this ability has resolved this turn. Draw a card if it’s the third time. <atom-cardname><nospellcheck>Argent Court Enraged</nospellcheck></atom-cardname> becomes a 6/5 Artificer Noble creature with <kw-0><nospellcheck><key>trample</key></nospellcheck></kw-0> until end of turn if it’s the sixth time.
+	rule_text: Tap an untapped artifact, enchantment, or Artificer you control: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0> if this is the first time this ability has resolved this turn. Draw a card if it’s the third time. <atom-name><nospellcheck>Argent Court Enraged</nospellcheck></atom-name> becomes a 6/5 Artificer Noble creature with <kw-0><nospellcheck><key>trample</key></nospellcheck></kw-0> until end of turn if it’s the sixth time.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 

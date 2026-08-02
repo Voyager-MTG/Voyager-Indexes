@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rule_text:
-		<atom-cardname><nospellcheck>Megaflora Floodplain</nospellcheck></atom-cardname> enters tapped unless a land you control could produce <sym>W</sym>.
+		<atom-name><nospellcheck>Megaflora Floodplain</nospellcheck></atom-name> enters tapped unless a land you control could produce <sym>W</sym>.
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.
 	flavor_text: <i-flavor>Patches of alien, flat-topped trees dot the outer Holt, their prodigious size owing to the life force concentrated in pools below their roots.     </i-flavor>
 	illustrator: Rudy Parfaite

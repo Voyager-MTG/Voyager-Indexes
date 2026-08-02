@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: When <atom-cardname><nospellcheck>Messenger of Absent Messages</nospellcheck></atom-cardname> enters, draw a card.
+	rule_text: When <atom-name><nospellcheck>Messenger of Absent Messages</nospellcheck></atom-name> enters, draw a card.
 	flavor_text: <i-flavor>An out of place courier delivering an unknown warning to a unsuspecting people.</i-flavor>
 	power: 1
 	toughness: 1

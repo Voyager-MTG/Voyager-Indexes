@@ -25,7 +25,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
-		When <atom-cardname><nospellcheck>Apostle Entheate</nospellcheck></atom-cardname> enters, you may exile target nonland permanent. It <kw-0><nospellcheck><key>become<param-*s>s</param-*s> foretold</key></nospellcheck></kw-0>.
+		When Apostle <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Entheate</atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, you may exile target nonland permanent. It <kw-0><nospellcheck><key>become<param-*s>s</param-*s> foretold</key></nospellcheck></kw-0>.
 		Your opponents can’t cast spells with the same name as the exiled card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

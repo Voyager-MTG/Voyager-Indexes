@@ -26,7 +26,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Spells cost <sym-auto>1</sym-auto> more to cast.
-		At the beginning of each end step, if no spells were cast this turn, sacrifice <atom-cardname><nospellcheck>Tithing Protocol</nospellcheck></atom-cardname> and create two 1/1 white Human creature tokens.
+		At the beginning of each end step, if no spells were cast this turn, sacrifice <atom-name><nospellcheck>Tithing Protocol</nospellcheck></atom-name> and create two 1/1 white Human creature tokens.
 	flavor_text: <i-flavor><error-spelling:en_US>Felygon</error-spelling:en_US> is as indestructible as it’s corrupt.</i-flavor>
 	illustrator: Ali Hoff
 	card_code_text: 

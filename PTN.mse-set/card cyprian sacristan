@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Whenever a player loses life for the first time each turn, <atom-cardname><nospellcheck>Cyprian Sacristan</nospellcheck></atom-cardname> gets +1/+0 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	rule_text: Whenever a player loses life for the first time each turn, <atom-name><nospellcheck>Cyprian Sacristan</nospellcheck></atom-name> gets +1/+0 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Even the Red Church requires its keepers.</i-flavor>

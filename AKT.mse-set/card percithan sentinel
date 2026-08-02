@@ -19,7 +19,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-0><nospellcheck><key>Menace</key></nospellcheck></kw-0>
-		Whenever <atom-cardname><nospellcheck>Percithan Sentinel</nospellcheck></atom-cardname> attacks, target creature token gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
+		Whenever <atom-name><nospellcheck>Percithan Sentinel</nospellcheck></atom-name> attacks, target creature token gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3

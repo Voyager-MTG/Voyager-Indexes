@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <atom-cardname><nospellcheck>Foul Alteration</nospellcheck></atom-cardname> deals 5 damage to target creature or planeswalker. If that permanent is a token, <atom-cardname><nospellcheck>Foul Alteration</nospellcheck></atom-cardname> also deals 2 damage to that permanent’s controller.
+	rule_text: <atom-name><nospellcheck>Foul Alteration</nospellcheck></atom-name> deals 5 damage to target creature or planeswalker. If that permanent is a token, <atom-name><nospellcheck>Foul Alteration</nospellcheck></atom-name> also deals 2 damage to that permanent’s controller.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>There are arts in Forge which may split even the sun.</i-flavor>

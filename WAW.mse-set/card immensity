@@ -24,7 +24,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature you control</param-name></key></nospellcheck></kw-a>
 		<margin:0:0:5>Enchanted creature gets +2/+3 and has <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.</margin:0:0:5>
-		<margin:0:0:5>When <atom-cardname><nospellcheck>Immensity</nospellcheck></atom-cardname> enters, choose up to one.</margin:0:0:5>
+		<margin:0:0:5>When <atom-name><nospellcheck>Immensity</nospellcheck></atom-name> enters, choose up to one.</margin:0:0:5>
 		<li><bullet>• </bullet>Destroy target artifact or enchantment.
 		</li><li><bullet>• </bullet>Enchanted creature fights target creature you don’t control. <i-auto>(Each deals damage equal to its power to the other.)</i-auto></li>
 	flavor_text: <i-flavor></i-flavor>

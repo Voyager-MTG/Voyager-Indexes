@@ -16,7 +16,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Insect</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: <atom-cardname><nospellcheck>Democratic Horde</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as you control a creature token.
+	rule_text: <atom-name><nospellcheck>Democratic Horde</nospellcheck></atom-name> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as you control a creature token.
 	flavor_text:
 		<i-flavor>“The greatest argument against democracy is five minutes of conversation <error-spelling:en_US>wtih</error-spelling:en_US> an ant.”<soft-line>
 		—King Percival, </i>Memoirs<i></soft-line></i-flavor>

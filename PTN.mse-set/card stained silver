@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>Stained Silver</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name><nospellcheck>Stained Silver</nospellcheck></atom-name> enters, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +2/+0.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck></kw-a>
 	rule_text_2: 

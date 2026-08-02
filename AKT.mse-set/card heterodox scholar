@@ -16,7 +16,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Hex</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: Whenever <atom-cardname><nospellcheck>Heterodox Scholar</nospellcheck></atom-cardname> attacks, target creature you control with lesser power gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+	rule_text: Whenever <atom-name><nospellcheck>Heterodox Scholar</nospellcheck></atom-name> attacks, target creature you control with lesser power gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Erys</error-spelling:en_US> provided us humble ones with the ability to not be a parasite. It is now immoral to be <error-spelling:en_US>hexkin</error-spelling:en_US>.”</i-flavor>
 	power: 3
 	toughness: 1

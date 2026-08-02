@@ -29,7 +29,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Protection from <param-name>opponents with complexity two or fewer</param-name></key></nospellcheck></kw-0> <i-auto>(A player’s <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> is the number of spells they’ve cast and nonland abilities they’ve activated this turn.)</i-auto>
-		Discard a card: Untap <atom-cardname><nospellcheck>Mesh Warper</nospellcheck></atom-cardname>. Then if your <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> is three or greater, draw a card. Activate only once each turn.
+		Discard a card: Untap <atom-name><nospellcheck>Mesh Warper</nospellcheck></atom-name>. Then if your <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> is three or greater, draw a card. Activate only once each turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

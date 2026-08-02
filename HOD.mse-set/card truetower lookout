@@ -21,8 +21,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-cardname><nospellcheck>Truetower Lookout</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
-		When <atom-cardname><nospellcheck>Truetower Lookout</nospellcheck></atom-cardname> enters, exile the top card of your library. You may play it until the end of your next turn.
+		<atom-name><nospellcheck>Truetower Lookout</nospellcheck></atom-name> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
+		When <atom-name><nospellcheck>Truetower Lookout</nospellcheck></atom-name> enters, exile the top card of your library. You may play it until the end of your next turn.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Kirsa</error-spelling:en_US>, <error-spelling:en_US>Renodet</error-spelling:en_US>, Dena, and <error-spelling:en_US>Linley</error-spelling:en_US>... All great warriors throughout the ages. Their stories are what keep me going.”</i-flavor>
 	power: 3
 	toughness: 3

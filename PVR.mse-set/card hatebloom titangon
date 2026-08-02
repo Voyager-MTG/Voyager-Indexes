@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Hatebloom Titangon</nospellcheck></atom-cardname> gets +3/+3 if a library has twenty or fewer cards in it.
+		<atom-name><nospellcheck>Hatebloom Titangon</nospellcheck></atom-name> gets +3/+3 if a library has twenty or fewer cards in it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4

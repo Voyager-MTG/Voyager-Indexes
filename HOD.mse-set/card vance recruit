@@ -21,8 +21,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Vance Recruit</nospellcheck></atom-cardname> enters, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
-		<sym-auto>2U/R</sym-auto>, Exile <atom-cardname><nospellcheck>Vance Recruit</nospellcheck></atom-cardname> from your graveyard: You draw a card and you lose 1 life.
+		When <atom-name><nospellcheck>Vance Recruit</nospellcheck></atom-name> enters, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		<sym-auto>2U/R</sym-auto>, Exile <atom-name><nospellcheck>Vance Recruit</nospellcheck></atom-name> from your graveyard: You draw a card and you lose 1 life.
 	flavor_text: <i-flavor>“In House Vance, I see greatness and a way to achieve my potential.”</i-flavor>
 	power: 3
 	toughness: 3

@@ -24,7 +24,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Revitalised Cryptid</nospellcheck></atom-cardname> enters, for each card type among sources of mana spent to cast it, you may draw a card or put two +1/+1 counters on it.
+	rule_text: When <atom-name><nospellcheck>Revitalised Cryptid</nospellcheck></atom-name> enters, for each card type among sources of mana spent to cast it, you may draw a card or put two +1/+1 counters on it.
 	flavor_text: <i-flavor>Given time, life solves all problems.</i-flavor>
 	power: 1
 	toughness: 1

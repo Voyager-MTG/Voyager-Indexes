@@ -23,7 +23,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Sandrock Blacksmith</nospellcheck></atom-cardname> or another creature enters under your control, create a <kw-A><nospellcheck><key>Weapon token</key></nospellcheck> <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<blob><atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>2</sym> and “Equipped creature gets +1/+1.”</atom-reminder-custom></kw-A><moved><atom-reminder-custom> <sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+		Whenever <atom-name><nospellcheck>Sandrock Blacksmith</nospellcheck></atom-name> or another creature enters under your control, create a <kw-A><nospellcheck><key>Weapon token</key></nospellcheck> <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<blob><atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>2</sym> and “Equipped creature gets +1/+1.”</atom-reminder-custom></kw-A><moved><atom-reminder-custom> <sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
 		Equipment you control have “Sacrifice this Equipment: Equipped creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

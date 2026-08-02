@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-cardname><nospellcheck>Starsea Nadir</nospellcheck></atom-cardname> enters tapped unless a land you control could produce <sym>B</sym>.
+		<atom-name><nospellcheck>Starsea Nadir</nospellcheck></atom-name> enters tapped unless a land you control could produce <sym>B</sym>.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.
 	flavor_text: <i-flavor>Chance-in-Hell had blasted her way through the bedrock of the Holt and the floor of the Citadel, but found that the barriers to the <error-spelling:en_US>Worldsoul</error-spelling:en_US> were more subtle than stone.</i-flavor>
 	illustrator: Leanna Teneyke

@@ -22,8 +22,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Ophidian Soul</nospellcheck></atom-cardname> enters, target permanent gains <atom-cardname><nospellcheck>Ophidian Soul</nospellcheck></atom-cardname>’s abilities until end of turn.
-		Whenever <atom-cardname><nospellcheck>Ophidian Soul</nospellcheck></atom-cardname> deals combat damage to a player, draw a card.
+		When <atom-name><nospellcheck>Ophidian Soul</nospellcheck></atom-name> enters, target permanent gains <atom-name><nospellcheck>Ophidian Soul</nospellcheck></atom-name>’s abilities until end of turn.
+		Whenever <atom-name><nospellcheck>Ophidian Soul</nospellcheck></atom-name> deals combat damage to a player, draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

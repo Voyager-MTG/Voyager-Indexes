@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
 	rule_text:
-		<sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Rasteriser</nospellcheck></atom-cardname>: Choose two —
+		<sym-auto>1</sym-auto>, Sacrifice <atom-name><nospellcheck>Rasteriser</nospellcheck></atom-name>: Choose two —
 		<li><bullet>• </bullet>Exile target card from a graveyard.
 		</li><li><bullet>• </bullet>Target player adds one mana of any color.
 		</li><li><bullet>• </bullet>Target player loses three <sym>V</sym>.

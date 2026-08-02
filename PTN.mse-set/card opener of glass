@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Opener of Glass</nospellcheck></atom-cardname> is dealt damage, it deals that much damage to any other target.
+		Whenever <atom-name><nospellcheck>Opener of Glass</nospellcheck></atom-name> is dealt damage, it deals that much damage to any other target.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Something half-seen flits from shard to shard, unseen.</i-flavor>

@@ -24,8 +24,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Respected Captain</nospellcheck></atom-cardname>’s power is equal to the number of creatures you control.
-		Whenever <atom-cardname><nospellcheck>Respected Captain</nospellcheck></atom-cardname> attacks, create two 1/1 blue Scout creature tokens that are tapped and attacking.
+		<atom-name><nospellcheck>Respected Captain</nospellcheck></atom-name>’s power is equal to the number of creatures you control.
+		Whenever <atom-name><nospellcheck>Respected Captain</nospellcheck></atom-name> attacks, create two 1/1 blue Scout creature tokens that are tapped and attacking.
 	flavor_text: <i-flavor>House <error-spelling:en_US>Nye</error-spelling:en_US> only has a thin veneer as being in charge of <error-spelling:en_US>Dewold’s</error-spelling:en_US> shipping vessels. All know their true goal.</i-flavor>
 	power: *
 	toughness: 6

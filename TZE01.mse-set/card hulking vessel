@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Hulking Vessel</nospellcheck></atom-cardname> enters, create two 1/1 blue Scout creature tokens.
+		When <atom-name><nospellcheck>Hulking Vessel</nospellcheck></atom-name> enters, create two 1/1 blue Scout creature tokens.
 		<kw-A><nospellcheck><key>Crew <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Tap any number of creatures you control with total power <param-number>3</param-number> or more: This Vehicle becomes an artifact creature until end of turn.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 5

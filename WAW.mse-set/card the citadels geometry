@@ -22,7 +22,7 @@ card:
 	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>The Citadel’s Geometry</nospellcheck></atom-cardname> enters and whenever a creature you control dies, target opponent puts a lost counter on a creature they control that doesn’t have one on it.
+		When <atom-name><nospellcheck>The Citadel’s Geometry</nospellcheck></atom-name> enters and whenever a creature you control dies, target opponent puts a lost counter on a creature they control that doesn’t have one on it.
 		During your turn, you decide if and how creatures with lost counters on them block.
 	flavor_text:
 		<i-flavor>“Are the walls moving, or is the space itself?”<soft-line>

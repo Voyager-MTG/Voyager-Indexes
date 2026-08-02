@@ -16,9 +16,9 @@ card:
 	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Obfuscated Pier</nospellcheck></atom-cardname> enters the battlefield tapped.
+		<atom-name><nospellcheck>Obfuscated Pier</nospellcheck></atom-name> enters the battlefield tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
-		<sym-auto>4BB</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Obfuscated Pier</nospellcheck></atom-cardname>: Return target creature card from your graveyard to the battlefield tapped.
+		<sym-auto>4BB</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-name><nospellcheck>Obfuscated Pier</nospellcheck></atom-name>: Return target creature card from your graveyard to the battlefield tapped.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Gordon Dylan Johnson
 	card_code_text: 

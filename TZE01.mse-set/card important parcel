@@ -21,7 +21,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Exile target card from a graveyard.
-		<sym-auto>2</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Important Parcel</nospellcheck></atom-cardname>: Draw a card.
+		<sym-auto>2</sym-auto>, Sacrifice <atom-name><nospellcheck>Important Parcel</nospellcheck></atom-name>: Draw a card.
 	flavor_text: <i-flavor>Messengers have an important task to deliver plans and packages, making them excellent targets for assassins.</i-flavor>
 	illustrator: Grafit Studio
 	card_code_text: 

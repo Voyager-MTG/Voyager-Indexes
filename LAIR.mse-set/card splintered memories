@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-04-29 14:48:20
-	time_modified: 2026-04-29 12:06:34
+	time_modified: 2026-08-02 01:57:57
 	name: Splintered Memories
 	casting_cost: 1R
-	image: image67
+	image: image126.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,9 +22,9 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Splintered Memories</nospellcheck></atom-cardname> enters, draw a card.
+		When Splintered Memories</atom-name> enters, draw a card.
 		Each card in your hand has <kw-1><nospellcheck><key>cycling <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-1>
-		At the beginning of your end step, sacrifice <atom-cardname><nospellcheck>Splintered Memories</nospellcheck></atom-cardname>.
+		At the beginning of your end step, sacrifice Splintered Memories</atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Itou (Golem Inc)
 	custom_card_number: Touhou Project 1: New Beginnings

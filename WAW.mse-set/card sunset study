@@ -26,8 +26,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Sunset Study</nospellcheck></atom-cardname> enters, exile the top three cards of your library. You may play those cards until the end of your next turn.
-		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — <sym-auto>5</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Sunset Study</nospellcheck></atom-cardname>: Put each card exiled with <atom-cardname><nospellcheck>Sunset Study</nospellcheck></atom-cardname> and the top two cards of your library into your hand. This ability costs <sym-auto>5</sym-auto> less to activate if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
+		When <atom-name><nospellcheck>Sunset Study</nospellcheck></atom-name> enters, exile the top three cards of your library. You may play those cards until the end of your next turn.
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — <sym-auto>5</sym-auto>, Sacrifice <atom-name><nospellcheck>Sunset Study</nospellcheck></atom-name>: Put each card exiled with <atom-name><nospellcheck>Sunset Study</nospellcheck></atom-name> and the top two cards of your library into your hand. This ability costs <sym-auto>5</sym-auto> less to activate if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

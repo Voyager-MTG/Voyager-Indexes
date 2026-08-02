@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Nowhere Razer</nospellcheck></atom-cardname> attacks, put a devastation counter on target nonbasic land. 
+		Whenever <atom-name><nospellcheck>Nowhere Razer</nospellcheck></atom-name> attacks, put a devastation counter on target nonbasic land. 
 		Lands your opponents control with counters on them are Mountains.
 	rule_text_2: 
 	rule_text_3: 

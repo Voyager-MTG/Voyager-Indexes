@@ -17,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Old Guard Blackrod</nospellcheck></atom-cardname> attacks, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>. If an Advisor is put into your graveyard this way, <atom-cardname><nospellcheck>Old Guard Blackrod</nospellcheck></atom-cardname> deals 2 damage to each opponent.
+		Whenever <atom-name><nospellcheck>Old Guard Blackrod</nospellcheck></atom-name> attacks, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>. If an Advisor is put into your graveyard this way, <atom-name><nospellcheck>Old Guard Blackrod</nospellcheck></atom-name> deals 2 damage to each opponent.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

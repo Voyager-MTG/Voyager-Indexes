@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-race-en>Wolf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Territorial Wanderer</nospellcheck></atom-cardname> enters, <b>[draw a card for each creature you attacked with this turn.]</b>
+		When <atom-name><nospellcheck>Territorial Wanderer</nospellcheck></atom-name> enters, <b>[draw a card for each creature you attacked with this turn.]</b>
 		<kw-0><nospellcheck><key>Impetus—<param-cost><sym-auto>3UR</sym-auto>, Discard a card</param-cost>.</key></nospellcheck></kw-0> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

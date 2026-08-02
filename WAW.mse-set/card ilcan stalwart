@@ -16,7 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Ilcan Stalwart</nospellcheck></atom-cardname> dies, if it had no +1/+1 counters on it, return it to the battlefield tapped with a +1/+1 counter on it.
+		When <atom-name><nospellcheck>Ilcan Stalwart</nospellcheck></atom-name> dies, if it had no +1/+1 counters on it, return it to the battlefield tapped with a +1/+1 counter on it.
 	flavor_text: <i-flavor>“Ours is the only just cause here. Our homeland must live on, and I will pay any cost, or crush any foe, to realize that dream.”              </i-flavor>
 	power: 4
 	toughness: 3

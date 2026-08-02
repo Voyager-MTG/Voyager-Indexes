@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Polystone Quarry</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-name><nospellcheck>Polystone Quarry</nospellcheck></atom-name> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 		The first Vertex spell you cast each turn has “Add two mana in any combination of colors.”
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>

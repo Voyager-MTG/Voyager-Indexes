@@ -14,9 +14,9 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Pyretic Desire</nospellcheck></atom-cardname> deals X damage to any target.
+		<atom-name><nospellcheck>Pyretic Desire</nospellcheck></atom-name> deals X damage to any target.
 		<margin:0:0:5><i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — If you’ve spent <sym>WUBRG</sym> to cast spells this turn, choose one.</margin:0:0:5>
-		<li><bullet>• </bullet><atom-cardname><nospellcheck>Pyretic Desire</nospellcheck></atom-cardname> deals X damage to up to one other target.
+		<li><bullet>• </bullet><atom-name><nospellcheck>Pyretic Desire</nospellcheck></atom-name> deals X damage to up to one other target.
 		</li><li><bullet>• </bullet>You gain twice X life.
 		</li><li><bullet>• </bullet>Draw X cards, then discard X cards.</li>
 	flavor_text: <i-flavor></i-flavor>

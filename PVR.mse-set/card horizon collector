@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: <atom-cardname><nospellcheck>Horizon Collector</nospellcheck></atom-cardname> has all activated and triggered abilities of each land you control.
+	rule_text: <atom-name><nospellcheck>Horizon Collector</nospellcheck></atom-name> has all activated and triggered abilities of each land you control.
 	flavor_text: <i-flavor>She helped build and maintain the <error-spelling:en_US>Skybox</error-spelling:en_US> in her first life. Reanimated, she now seeks to pull it apart.</i-flavor>
 	power: 2
 	toughness: 2

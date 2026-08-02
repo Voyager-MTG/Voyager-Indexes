@@ -24,7 +24,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Inquisitive Otter</nospellcheck></atom-cardname> has all triggered abilities of other creatures you control not named <atom-cardname><nospellcheck>Inquisitive Otter</nospellcheck></atom-cardname>. <i-auto>(A triggered ability uses the words “when,” “whenever,” or “at.”)</i-auto>
+		<atom-name><nospellcheck>Inquisitive Otter</nospellcheck></atom-name> has all triggered abilities of other creatures you control not named <atom-name><nospellcheck>Inquisitive Otter</nospellcheck></atom-name>. <i-auto>(A triggered ability uses the words “when,” “whenever,” or “at.”)</i-auto>
 	flavor_text: <i-flavor>The playful symbol of House <error-spelling:en_US>Nye</error-spelling:en_US>.</i-flavor>
 	power: 3
 	toughness: 2

@@ -12,7 +12,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Construct</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Culture Collector</nospellcheck></atom-cardname> enters, choose a creature type. If you do, reveal the top four cards of your library. Put a card of the chosen type revealed this way into your hand and the rest on the bottom of your library in a random order.
+	rule_text: When <atom-name><nospellcheck>Culture Collector</nospellcheck></atom-name> enters, choose a creature type. If you do, reveal the top four cards of your library. Put a card of the chosen type revealed this way into your hand and the rest on the bottom of your library in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

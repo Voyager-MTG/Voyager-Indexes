@@ -17,7 +17,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Mental Sewage</nospellcheck></atom-cardname> enters, if you cast it, all creatures get -2/-2 until end of turn.
+		When <atom-name><nospellcheck>Mental Sewage</nospellcheck></atom-name> enters, if you cast it, all creatures get -2/-2 until end of turn.
 		Whenever a creature you control dies, you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: AlRadeck

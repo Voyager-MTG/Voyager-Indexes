@@ -17,9 +17,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Subverted Cyprian</nospellcheck></atom-cardname> enters, choose one —
+		When <atom-name><nospellcheck>Subverted Cyprian</nospellcheck></atom-name> enters, choose one —
 		<li><bullet>• </bullet>Return target land card from your graveyard to your hand. You gain 2 life.
-		</li><li><bullet>• </bullet>Put a +1/+1 counter on <atom-cardname><nospellcheck>Subverted Cyprian</nospellcheck></atom-cardname>.</li>
+		</li><li><bullet>• </bullet>Put a +1/+1 counter on <atom-name><nospellcheck>Subverted Cyprian</nospellcheck></atom-name>.</li>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>From sensation, to change, to light.</i-flavor>

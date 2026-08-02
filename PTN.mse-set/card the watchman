@@ -31,8 +31,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>Ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>
-		Whenever a card you own <kw-0><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck></kw-0>, put a +1/+1 counter on <atom-cardname><nospellcheck>The Watchman</nospellcheck></atom-cardname>.
-		<sym-auto>T</sym-auto>: <kw-0><nospellcheck><key>Scry <param-number>X</param-number></key></nospellcheck></kw-0>, where X is <atom-cardname><nospellcheck>The Watchman</nospellcheck></atom-cardname>’s power, then draw a card. Activate only if you own a foretold card in exile.
+		Whenever a card you own <kw-0><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck></kw-0>, put a +1/+1 counter on <atom-name><nospellcheck>The Watchman</nospellcheck></atom-name>.
+		<sym-auto>T</sym-auto>: <kw-0><nospellcheck><key>Scry <param-number>X</param-number></key></nospellcheck></kw-0>, where X is <atom-name><nospellcheck>The Watchman</nospellcheck></atom-name>’s power, then draw a card. Activate only if you own a foretold card in exile.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

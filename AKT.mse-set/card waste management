@@ -27,8 +27,8 @@ card:
 	sub_type: <word-list-race-en>Artificer</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		Return target card from your graveyard to your hand. Exile <atom-cardname><nospellcheck>Waste Management</nospellcheck></atom-cardname>.
-		<sym>U/B</sym>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>Waste Management</nospellcheck></atom-cardname> from your hand: Draw a card. <i-auto>(Exile it. You may cast it on a later turn that an Artificer or Citizen you control dealt damage to an opponent.)</i-auto>
+		Return target card from your graveyard to your hand. Exile <atom-name><nospellcheck>Waste Management</nospellcheck></atom-name>.
+		<sym>U/B</sym>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name><nospellcheck>Waste Management</nospellcheck></atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may cast it on a later turn that an Artificer or Citizen you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Magdalena Mieszczak
 	card_code_text: 

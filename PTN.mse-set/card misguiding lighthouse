@@ -30,7 +30,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Misguiding Lighthouse</nospellcheck></atom-cardname> enters, destroy target tapped artifact or creature an opponent controls.
+		When <atom-name><nospellcheck>Misguiding Lighthouse</nospellcheck></atom-name> enters, destroy target tapped artifact or creature an opponent controls.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Vessels sailing the seas of <error-spelling:en_US>Vespera</error-spelling:en_US> best be wary.</i-flavor>

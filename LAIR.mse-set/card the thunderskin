@@ -31,7 +31,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>The Thunderskin</nospellcheck></atom-cardname> attacks, create an enchantment token named Heartbeat with “<sym-auto>GW</sym-auto>, Sacrifice this permanent: Return target card named <atom-cardname><nospellcheck>The Thunderskin</nospellcheck></atom-cardname> from your graveyard to the battlefield tapped.”
+		Whenever The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Thunderskin</atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, create an enchantment token named Heartbeat with “<sym-auto><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>GW</sym-auto></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Sacrifice this permanent: Return target card named The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Thunderskin</atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words> from your graveyard to the battlefield tapped.”
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

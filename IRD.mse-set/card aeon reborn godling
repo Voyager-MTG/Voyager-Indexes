@@ -16,7 +16,7 @@ card:
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
 	sub_type: <word-list-race-en>God</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Aeon, Reborn Godling</nospellcheck></atom-cardname> enters, if it was cast, return target permanent card from your graveyard to the battlefield, then sacrifice that permanent.
+	rule_text: When <atom-name><nospellcheck>Aeon, Reborn Godling</nospellcheck></atom-name> enters, if it was cast, return target permanent card from your graveyard to the battlefield, then sacrifice that permanent.
 	flavor_text: <i-flavor>And so the forest held only trees, and a dream was only ever a dream.</i-flavor>
 	power: 4
 	toughness: 2

@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Creatures you control get +2/+2 until end of turn.
-		As long as you control a God and <atom-cardname><nospellcheck>Verse Illuminate</nospellcheck></atom-cardname> is in your graveyard, it has <kw-A><nospellcheck><key>flashback <param-cost><sym-auto>2WW</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		As long as you control a God and <atom-name><nospellcheck>Verse Illuminate</nospellcheck></atom-name> is in your graveyard, it has <kw-A><nospellcheck><key>flashback <param-cost><sym-auto>2WW</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>We call upon the Sun-in-Rags, to bring about a glorious ending.</i-flavor>

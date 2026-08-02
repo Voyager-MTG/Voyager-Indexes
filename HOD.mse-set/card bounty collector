@@ -22,8 +22,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Bounty Collector</nospellcheck></atom-cardname> can’t block.
-		When <atom-cardname><nospellcheck>Bounty Collector</nospellcheck></atom-cardname> dies, create a token that’s a copy of it <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		<atom-name><nospellcheck>Bounty Collector</nospellcheck></atom-name> can’t block.
+		When <atom-name><nospellcheck>Bounty Collector</nospellcheck></atom-name> dies, create a token that’s a copy of it <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>Once House <error-spelling:en_US>Plaskett</error-spelling:en_US> has put a price on your head, sleep never is safe.</i-flavor>
 	power: 2
 	toughness: 1

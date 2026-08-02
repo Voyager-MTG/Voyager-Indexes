@@ -23,7 +23,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>The Crown of Skyspire</nospellcheck></atom-cardname> enters, you may return target creature card from your graveyard to the battlefield and attach <atom-cardname><nospellcheck>The Crown of Skyspire</nospellcheck></atom-cardname> to it.
+		When <atom-name><nospellcheck>The Crown of Skyspire</nospellcheck></atom-name> enters, you may return target creature card from your graveyard to the battlefield and attach <atom-name><nospellcheck>The Crown of Skyspire</nospellcheck></atom-name> to it.
 		Equipped creature gets +3/+3 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>

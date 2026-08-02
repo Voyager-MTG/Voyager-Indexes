@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: mythic rare
-	rule_text: <atom-cardname><nospellcheck>The Wolf Divided</nospellcheck></atom-cardname>’s power and toughness are each equal to 20 minus your life total.
+	rule_text: <atom-name><nospellcheck>The Wolf Divided</nospellcheck></atom-name>’s power and toughness are each equal to 20 minus your life total.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>When the Forge is cold, the Glory is dark, and the Wood is dust, perhaps the Wolf Divided will rest, but only until it can devour itself.</i-flavor>

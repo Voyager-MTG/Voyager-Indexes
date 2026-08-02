@@ -23,7 +23,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		At the beginning of your upkeep, if <atom-cardname><nospellcheck>Armament of Armageddon</nospellcheck></atom-cardname> was cast from your hand during your last turn and it’s still on the battlefield, destroy all lands.
+		At the beginning of your upkeep, if <atom-name><nospellcheck>Armament of Armageddon</nospellcheck></atom-name> was cast from your hand during your last turn and it’s still on the battlefield, destroy all lands.
 	flavor_text: <i-flavor>The Obsolete fought the sun for power, and the world lived in their shadow.</i-flavor>
 	power: 5
 	toughness: 4

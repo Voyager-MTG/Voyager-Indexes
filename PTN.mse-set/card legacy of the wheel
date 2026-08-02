@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Legacy of the Wheel</nospellcheck></atom-cardname> enters, if it was cast, exile all the cards in your hand face down, then draw that many cards plus one.
-		Discard X cards, Sacrifice <atom-cardname><nospellcheck>Legacy of the Wheel</nospellcheck></atom-cardname>: Until end of turn, you may play up to X cards exiled by <atom-cardname><nospellcheck>Legacy of the Wheel</nospellcheck></atom-cardname>.
+		When <atom-name><nospellcheck>Legacy of the Wheel</nospellcheck></atom-name> enters, if it was cast, exile all the cards in your hand face down, then draw that many cards plus one.
+		Discard X cards, Sacrifice <atom-name><nospellcheck>Legacy of the Wheel</nospellcheck></atom-name>: Until end of turn, you may play up to X cards exiled by <atom-name><nospellcheck>Legacy of the Wheel</nospellcheck></atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

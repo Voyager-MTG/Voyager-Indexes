@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>3G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>3G</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>Flowing Streams Halberdier</nospellcheck></atom-cardname> enters, target creature gets +2/+0 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		When <atom-name><nospellcheck>Flowing Streams Halberdier</nospellcheck></atom-name> enters, target creature gets +2/+0 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 2

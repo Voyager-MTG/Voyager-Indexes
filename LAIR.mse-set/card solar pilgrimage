@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-04-29 14:48:20
-	time_modified: 2026-07-31 22:00:47
+	time_modified: 2026-08-02 01:43:04
 	name: Solar Pilgrimage
 	casting_cost: W
-	image: image80
+	image: image110.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,9 +23,9 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Solar Pilgrimage</nospellcheck></atom-cardname> enters, if it was foretold, create a 2/2 white Angel creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
-		Whenever you cast a foretold spell, create a 2/2 white Angel creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
-		<kw-A><nospellcheck><key>Foretell <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
+		When Solar Pilgrimage</atom-name> enters, if it was foretold, create a 2/2 white Angel creature token with flying.
+		Whenever you cast a foretold spell, create a 2/2 white Angel creature token with flying.
+		Foretell 1W
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jiuyuan
 	custom_card_number: Touhou Project 1: New Beginnings

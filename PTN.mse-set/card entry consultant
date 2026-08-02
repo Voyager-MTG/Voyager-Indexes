@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Entry Consultant</nospellcheck></atom-cardname> enters, it deals 1 damage to each creature, then creatures you control gain <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
+		When <atom-name><nospellcheck>Entry Consultant</nospellcheck></atom-name> enters, it deals 1 damage to each creature, then creatures you control gain <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>All things can be overcome with sufficient force. </i-flavor>

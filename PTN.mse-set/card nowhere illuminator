@@ -28,7 +28,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Nowhere Illuminator</nospellcheck></atom-cardname> enters, you may sacrifice a creature. If you do, draw a card.
+		When <atom-name><nospellcheck>Nowhere Illuminator</nospellcheck></atom-name> enters, you may sacrifice a creature. If you do, draw a card.
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Draw a card, then discard a card.
 	rule_text_2: 
 	rule_text_3: 

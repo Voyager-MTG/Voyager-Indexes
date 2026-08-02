@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0>
-		Whenever a player casts a noncreature spell that isn’t a copy, exile it. Then that player copies each card exiled by <atom-cardname><nospellcheck>Waypoint of Nil</nospellcheck></atom-cardname>. For each copy, the player may cast the copy without paying its mana cost.
+		Whenever a player casts a noncreature spell that isn’t a copy, exile it. Then that player copies each card exiled by <atom-name><nospellcheck>Waypoint of Nil</nospellcheck></atom-name>. For each copy, the player may cast the copy without paying its mana cost.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Nicholas Myers
 	card_code_text: 

@@ -17,8 +17,8 @@ card:
 	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: common
 	rule_text:
-		<atom-cardname><nospellcheck>Saturated Savannah</nospellcheck></atom-cardname> enters tapped.
-		When <atom-cardname><nospellcheck>Saturated Savannah</nospellcheck></atom-cardname> enters, put a +1/+1 counter on up to one target creature.
+		<atom-name><nospellcheck>Saturated Savannah</nospellcheck></atom-name> enters tapped.
+		When <atom-name><nospellcheck>Saturated Savannah</nospellcheck></atom-name> enters, put a +1/+1 counter on up to one target creature.
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Dragos Matovski

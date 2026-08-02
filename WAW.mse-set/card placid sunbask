@@ -20,8 +20,8 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Turtle</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		When <atom-cardname><nospellcheck>Placid Sunbask</nospellcheck></atom-cardname> enters, draw a card.
-		Whenever a land or another Wonder you control enters, put a +1/+1 counter on <atom-cardname><nospellcheck>Placid Sunbask</nospellcheck></atom-cardname>.
+		When <atom-name><nospellcheck>Placid Sunbask</nospellcheck></atom-name> enters, draw a card.
+		Whenever a land or another Wonder you control enters, put a +1/+1 counter on <atom-name><nospellcheck>Placid Sunbask</nospellcheck></atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

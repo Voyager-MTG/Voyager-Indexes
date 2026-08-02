@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</i></key></nospellcheck></i-auto></kw-A> — Whenever <atom-cardname><nospellcheck>Shining Idol</nospellcheck></atom-cardname> attacks or blocks, you gain 2 life as long as you cast a noncreature spell this turn.
+	rule_text: <kw-A><i-auto><nospellcheck><key><i>Fracture</i></key></nospellcheck></i-auto></kw-A> — Whenever <atom-name><nospellcheck>Shining Idol</nospellcheck></atom-name> attacks or blocks, you gain 2 life as long as you cast a noncreature spell this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>There are very few Icons that join clans, but the few that do are among the most powerful.</i-flavor>

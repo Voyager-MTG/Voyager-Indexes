@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-04-29 14:48:20
-	time_modified: 2026-04-29 12:06:45
+	time_modified: 2026-08-02 01:58:21
 	name: Loche, Returned Pilgrim
 	casting_cost: 1RG
-	image: image69
+	image: image130.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,7 +23,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Loche, Returned Pilgrim</nospellcheck></atom-cardname> enters, exile up to one target card from your graveyard. You may play a copy of it until end of turn. <i-auto>(A land played this way becomes a token.)</i-auto>
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Loche</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Returned Pilgrim</atom-name> enters, exile up to one target card from your graveyard. You may play a copy of it until end of turn. <i-auto>(A land played this way becomes a token.)</i-auto>
 		<atom-legname><nospellcheck>Loche</nospellcheck></atom-legname> has all activated abilities of lands you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

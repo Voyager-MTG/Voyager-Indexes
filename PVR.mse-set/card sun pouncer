@@ -17,8 +17,8 @@ card:
 	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Crocodile</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: <atom-cardname><nospellcheck>Sun Pouncer</nospellcheck></atom-cardname> deals 1 damage to each opponent.
-		Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, untap <atom-cardname><nospellcheck>Sun Pouncer</nospellcheck></atom-cardname>. This ability triggers only once each turn.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: <atom-name><nospellcheck>Sun Pouncer</nospellcheck></atom-name> deals 1 damage to each opponent.
+		Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, untap <atom-name><nospellcheck>Sun Pouncer</nospellcheck></atom-name>. This ability triggers only once each turn.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 3

@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Erfex Reclaimer</nospellcheck></atom-cardname> enters, create a token that’s a copy of an Aura or Equipment you control attached to target permanent or player it could attach to.
+	rule_text: When <atom-name><nospellcheck>Erfex Reclaimer</nospellcheck></atom-name> enters, create a token that’s a copy of an Aura or Equipment you control attached to target permanent or player it could attach to.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“Make backups and save often.”</i-flavor>

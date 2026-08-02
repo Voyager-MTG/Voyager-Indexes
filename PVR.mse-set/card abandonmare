@@ -23,7 +23,7 @@ card:
 	sub_type: <word-list-race-en>Nightmare</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horse</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Abandonmare</nospellcheck></atom-cardname> enters, each player discards two cards.
+		When <atom-name><nospellcheck>Abandonmare</nospellcheck></atom-name> enters, each player discards two cards.
 		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>BB</sym-auto></param-cost></key></nospellcheck>. Spend only mana from nonland sources this way.<atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>BB</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

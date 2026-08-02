@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-04-29 14:48:20
-	time_modified: 2026-04-29 12:07:35
+	time_modified: 2026-08-02 01:58:15
 	name: Chthonic Gorger
 	casting_cost: 1BG
-	image: image72
+	image: image129.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,7 +23,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Chthonic Gorger</nospellcheck></atom-cardname> enters, destroy all nonland permanents with mana value 1 or less.
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Chthonic</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Gorger</atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, destroy all nonland permanents with mana value 1 or less.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 1

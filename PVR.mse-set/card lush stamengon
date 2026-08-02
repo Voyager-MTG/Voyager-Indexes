@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Fractal</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Plant</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Lush Stamengon</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: When <atom-name><nospellcheck>Lush Stamengon</nospellcheck></atom-name> dies, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>Roses are red and violets are blue, but flowers are a mess without a good view.</i-flavor>
 	power: 3
 	toughness: 3

@@ -29,8 +29,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Whenever a creature dies, put an omen counter on <atom-cardname><nospellcheck>The Museum of Worms</nospellcheck></atom-cardname>.
-		Remove twice X omen counters from <atom-cardname><nospellcheck>The Museum of Worms</nospellcheck></atom-cardname> and sacrifice it: Create X 1/1 black Worm creature tokens with <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>toxic <param-number>1</param-number></key></nospellcheck>. Activate only as a sorcery.<atom-reminder-expert> <i-auto>(Players dealt combat damage by this creature also get <param-number>a</param-number> poison counter.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever a creature dies, put an omen counter on <atom-name><nospellcheck>The Museum of Worms</nospellcheck></atom-name>.
+		Remove twice X omen counters from <atom-name><nospellcheck>The Museum of Worms</nospellcheck></atom-name> and sacrifice it: Create X 1/1 black Worm creature tokens with <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> and <kw-A><nospellcheck><key>toxic <param-number>1</param-number></key></nospellcheck>. Activate only as a sorcery.<atom-reminder-expert> <i-auto>(Players dealt combat damage by this creature also get <param-number>a</param-number> poison counter.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

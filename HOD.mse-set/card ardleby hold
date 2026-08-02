@@ -16,7 +16,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rarity: special
-	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>. <atom-cardname><nospellcheck>Ardleby Hold</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>. <atom-name><nospellcheck>Ardleby Hold</nospellcheck></atom-name> deals 1 damage to you unless you control three or more other lands.
 	flavor_text: <i-flavor>A supposedly empty House with a loyal and devoted family.</i-flavor>
 	illustrator: Andy Jaramillo
 	card_code_text: 

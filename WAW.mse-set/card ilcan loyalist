@@ -14,8 +14,8 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Ilcan Loyalist</nospellcheck></atom-cardname> enters, it deals 2 damage to any target.
-		<sym-auto>1BG</sym-auto>, Exile <atom-cardname><nospellcheck>Ilcan Loyalist</nospellcheck></atom-cardname> from your graveyard: You gain 2 life and you draw a card.
+		When <atom-name><nospellcheck>Ilcan Loyalist</nospellcheck></atom-name> enters, it deals 2 damage to any target.
+		<sym-auto>1BG</sym-auto>, Exile <atom-name><nospellcheck>Ilcan Loyalist</nospellcheck></atom-name> from your graveyard: You gain 2 life and you draw a card.
 	flavor_text: <i-flavor>“Remain steady. I owe it to them.”          </i-flavor>
 	power: 2
 	toughness: 3

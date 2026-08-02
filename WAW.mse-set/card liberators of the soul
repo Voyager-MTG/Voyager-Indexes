@@ -14,7 +14,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Kor</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Liberators of the Soul</nospellcheck></atom-cardname> enters, look at target player’s hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it during their turn. A spell cast this way costs <sym-auto>2</sym-auto> more to cast.
+	rule_text: When <atom-name><nospellcheck>Liberators of the Soul</nospellcheck></atom-name> enters, look at target player’s hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it during their turn. A spell cast this way costs <sym-auto>2</sym-auto> more to cast.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

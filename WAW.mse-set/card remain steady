@@ -23,7 +23,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		Whenever a creature you control dies, exile it. Then if it didn’t have a +1/+1 counter on it, return it to the battlefield with a +1/+1 counter on it.
-		<sym-auto>3RG</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Remain Steady</nospellcheck></atom-cardname>: Create an X/X black Spirit creature token that can’t block, where X is the total mana value of cards exiled with <atom-cardname><nospellcheck>Remain Steady</nospellcheck></atom-cardname>. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		<sym-auto>3RG</sym-auto>, Sacrifice <atom-name><nospellcheck>Remain Steady</nospellcheck></atom-name>: Create an X/X black Spirit creature token that can’t block, where X is the total mana value of cards exiled with <atom-name><nospellcheck>Remain Steady</nospellcheck></atom-name>. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Dominik Mayer
 	card_code_text: 

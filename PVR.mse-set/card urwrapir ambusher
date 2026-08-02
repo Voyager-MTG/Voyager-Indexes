@@ -27,7 +27,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <atom-cardname><nospellcheck>Urwrapir Ambusher</nospellcheck></atom-cardname> can’t be blocked if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <atom-name><nospellcheck>Urwrapir Ambusher</nospellcheck></atom-name> can’t be blocked if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor><error-spelling:en_US>Urwrapirin</error-spelling:en_US> life has has evolved to conserve <error-spelling:en_US>mana</error-spelling:en_US> for months on end before starving.</i-flavor>

@@ -17,7 +17,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: <sym-auto>T</sym-auto>: <atom-cardname><nospellcheck>Old Guard Cutthroat</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+	rule_text: <sym-auto>T</sym-auto>: <atom-name><nospellcheck>Old Guard Cutthroat</nospellcheck></atom-name> deals 1 damage to each opponent.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 3

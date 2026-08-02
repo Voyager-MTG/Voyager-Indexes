@@ -17,7 +17,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rarity: special
-	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>. <atom-cardname><nospellcheck>Riverdale Fortress</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>. <atom-name><nospellcheck>Riverdale Fortress</nospellcheck></atom-name> deals 1 damage to you unless you control three or more other lands.
 	flavor_text:
 		<i-flavor>“My House is one that protects all of <error-spelling:en_US>Dewold</error-spelling:en_US>.”<soft-line>
 		</soft-line>—Oriel Rivers</i-flavor>

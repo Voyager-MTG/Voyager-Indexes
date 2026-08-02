@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Affinity for <param-name>artifacts</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This spell costs <sym>1</sym> less to cast for each <param-name>artifact</param-name> you control.)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-cardname><nospellcheck>Flesh Centrifuge</nospellcheck></atom-cardname> enters, it deals 3 damage to any target and you gain 3 life.
+		When <atom-name><nospellcheck>Flesh Centrifuge</nospellcheck></atom-name> enters, it deals 3 damage to any target and you gain 3 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

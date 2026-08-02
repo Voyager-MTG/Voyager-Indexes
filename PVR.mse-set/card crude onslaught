@@ -17,7 +17,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature you control</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Crude Onslaught</nospellcheck></atom-cardname> enters, enchanted creature fights up to one target creature you don’t control.
+		When <atom-name><nospellcheck>Crude Onslaught</nospellcheck></atom-name> enters, enchanted creature fights up to one target creature you don’t control.
 		Enchanted creature has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Adam Midzuk

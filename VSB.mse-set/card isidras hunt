@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Isidra’s Hunt</nospellcheck></atom-cardname> enters, target opponent creates a blue Teferi planeswalker token named “Signs of Teferi” and put 2 loyalty counters on it.
+		When <atom-name><nospellcheck>Isidra’s Hunt</nospellcheck></atom-name> enters, target opponent creates a blue Teferi planeswalker token named “Signs of Teferi” and put 2 loyalty counters on it.
 		Whenever a planeswalker an opponent controls dies, its controller reveals their hand. You choose a nonland card from it. That player discards that card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: NorthKila

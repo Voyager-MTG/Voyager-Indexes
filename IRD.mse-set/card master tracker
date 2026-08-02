@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Master Tracker</nospellcheck></atom-cardname> enters, create two 2/2 green Wolf creature tokens.
+		When <atom-name><nospellcheck>Master Tracker</nospellcheck></atom-name> enters, create two 2/2 green Wolf creature tokens.
 		The first noncreature spell you cast each turn costs <sym-auto>1</sym-auto> less for each creature you control.
 	flavor_text: <i-flavor>It doesn’t hunt for food.</i-flavor>
 	power: 2

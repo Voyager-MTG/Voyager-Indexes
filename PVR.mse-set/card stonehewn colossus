@@ -16,7 +16,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Stonehewn Colossus</nospellcheck></atom-cardname> enters, you may sacrifice a land or exile a land card from your graveyard. If you do, <atom-cardname><nospellcheck>Stonehewn Colossus</nospellcheck></atom-cardname> deals 2 damage to any target.
+	rule_text: When <atom-name><nospellcheck>Stonehewn Colossus</nospellcheck></atom-name> enters, you may sacrifice a land or exile a land card from your graveyard. If you do, <atom-name><nospellcheck>Stonehewn Colossus</nospellcheck></atom-name> deals 2 damage to any target.
 	flavor_text: <i-flavor>Rock beats scissors, paper, dinosaur, robot, dragon, and pop.</i-flavor>
 	power: 5
 	toughness: 5

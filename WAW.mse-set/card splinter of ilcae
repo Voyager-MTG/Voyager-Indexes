@@ -13,7 +13,7 @@ card:
 	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Splinter of Ilcae</nospellcheck></atom-cardname> enters tapped.
+		<atom-name><nospellcheck>Splinter of Ilcae</nospellcheck></atom-name> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
 		<sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>: The next spell you cast this turn has emerge. The emerge cost is equal to its mana cost. <i-auto>(You may cast it by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>

@@ -20,7 +20,7 @@ card:
 		Choose one —
 		<li><bullet>• </bullet>Destroy target artifact.
 		</li><li><bullet>• </bullet>Destroy target enchantment with mana value 3 or less.
-		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Wildwood Containment</nospellcheck></atom-cardname> deals 3 damage to target creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</li>
+		</li><li><bullet>• </bullet><atom-name><nospellcheck>Wildwood Containment</nospellcheck></atom-name> deals 3 damage to target creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</li>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

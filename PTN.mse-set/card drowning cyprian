@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Drowning Cyprian</nospellcheck></atom-cardname> enters, if an opponent lost life this turn, put two +1/+1 counters on <atom-cardname><nospellcheck>Drowning Cyprian</nospellcheck></atom-cardname>.
+		When <atom-name><nospellcheck>Drowning Cyprian</nospellcheck></atom-name> enters, if an opponent lost life this turn, put two +1/+1 counters on <atom-name><nospellcheck>Drowning Cyprian</nospellcheck></atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

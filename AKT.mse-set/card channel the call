@@ -17,8 +17,8 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		Exile the top card of your library. You may cast that card. If you don’t, <atom-cardname><nospellcheck>Channel the Call</nospellcheck></atom-cardname> deals 2 damage to each opponent.
-		Whenever a permanent you control transforms or enters transformed, return <atom-cardname><nospellcheck>Channel the Call</nospellcheck></atom-cardname> from your graveyard to your hand.
+		Exile the top card of your library. You may cast that card. If you don’t, <atom-name><nospellcheck>Channel the Call</nospellcheck></atom-name> deals 2 damage to each opponent.
+		Whenever a permanent you control transforms or enters transformed, return <atom-name><nospellcheck>Channel the Call</nospellcheck></atom-name> from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: MonoKubo
 	card_code_text: Reprint

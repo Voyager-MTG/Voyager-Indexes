@@ -26,8 +26,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Relentless Firefighter</nospellcheck></atom-cardname> dies, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
-		<sym-auto>6</sym-auto>: Return <atom-cardname><nospellcheck>Relentless Firefighter</nospellcheck></atom-cardname> from your graveyard to the battlefield tapped. Activate only if there’s four or more card types among cards in your graveyard.
+		When <atom-name><nospellcheck>Relentless Firefighter</nospellcheck></atom-name> dies, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
+		<sym-auto>6</sym-auto>: Return <atom-name><nospellcheck>Relentless Firefighter</nospellcheck></atom-name> from your graveyard to the battlefield tapped. Activate only if there’s four or more card types among cards in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3

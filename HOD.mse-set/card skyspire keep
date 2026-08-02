@@ -21,9 +21,9 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Skyspire Keep</nospellcheck></atom-cardname> enters tapped unless you control two or fewer other lands.
+		<atom-name><nospellcheck>Skyspire Keep</nospellcheck></atom-name> enters tapped unless you control two or fewer other lands.
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.
-		<sym-auto>2R</sym-auto>, <sym-auto>T</sym-auto>, Discard a card: Draw a card. <atom-cardname><nospellcheck>Skyspire Keep</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+		<sym-auto>2R</sym-auto>, <sym-auto>T</sym-auto>, Discard a card: Draw a card. <atom-name><nospellcheck>Skyspire Keep</nospellcheck></atom-name> deals 1 damage to each opponent.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Andreas Rocha
 	card_code_text: 

@@ -29,7 +29,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		You draw a card and you lose 1 life.
-		<sym-auto>G/W</sym-auto>, Exile three other cards from your graveyard, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>Jobseeker’s Allowance</nospellcheck></atom-cardname> from your graveyard: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>. <i-auto>(Exile it. You may play it on a later turn that a Citizen you control dealt damage to an opponent.)</i-auto>
+		<sym-auto>G/W</sym-auto>, Exile three other cards from your graveyard, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name><nospellcheck>Jobseeker’s Allowance</nospellcheck></atom-name> from your graveyard: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>. <i-auto>(Exile it. You may play it on a later turn that a Citizen you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor>“Jerald, 167 years accounting.”</i-flavor>
 	illustrator: Maradraws
 	card_code_text: 

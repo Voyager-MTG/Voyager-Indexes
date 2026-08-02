@@ -34,8 +34,8 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>Dappled Wing-Clippers</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		<margin:0:0:5><sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Dappled Wing-Clippers</nospellcheck></atom-cardname>: Choose one —</margin:0:0:5>
+		When <atom-name><nospellcheck>Dappled Wing-Clippers</nospellcheck></atom-name> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		<margin:0:0:5><sym-auto>1</sym-auto>, Sacrifice <atom-name><nospellcheck>Dappled Wing-Clippers</nospellcheck></atom-name>: Choose one —</margin:0:0:5>
 		<li><bullet>• </bullet>Destroy target artifact or enchantment.
 		</li><li><bullet>• </bullet>Return target land card from your graveyard to the battlefield tapped.</li>
 	rule_text_2: 

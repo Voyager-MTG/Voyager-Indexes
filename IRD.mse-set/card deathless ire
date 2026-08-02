@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Deathless Ire</nospellcheck></atom-cardname> deals combat damage to a player, conjure a card named Spark into your hand <i-auto>(It’s a <sym>R</sym> sorcery with “Spark deals 1 damage to any target.”)</i-auto>
+		Whenever <atom-name><nospellcheck>Deathless Ire</nospellcheck></atom-name> deals combat damage to a player, conjure a card named Spark into your hand <i-auto>(It’s a <sym>R</sym> sorcery with “Spark deals 1 damage to any target.”)</i-auto>
 	flavor_text: <i-flavor>In the face of eternity, lifeblood is a frivolity that cultivates jealousy and spite.</i-flavor>
 	power: 2
 	toughness: 2

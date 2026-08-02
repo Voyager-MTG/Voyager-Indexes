@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Roost Augur</nospellcheck></atom-cardname> attacks, you may exile a card from your hand face down. It <kw-A><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-name><nospellcheck>Roost Augur</nospellcheck></atom-name> attacks, you may exile a card from your hand face down. It <kw-A><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The answer to many riddles lie in birdsong; all you need to do is listen.</i-flavor>

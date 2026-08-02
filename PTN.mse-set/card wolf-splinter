@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Whenever <atom-cardname><nospellcheck>Wolf-Splinter</nospellcheck></atom-cardname> is dealt damage, create a 2/2 green Wolf creature token.
+	rule_text: Whenever <atom-name><nospellcheck>Wolf-Splinter</nospellcheck></atom-name> is dealt damage, create a 2/2 green Wolf creature token.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Lesser name-emanations of the Wolf Divided.</i-flavor>

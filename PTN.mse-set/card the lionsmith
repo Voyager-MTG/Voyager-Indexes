@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		At the beginning of your postcombat main phase, if <atom-cardname><nospellcheck>The Lionsmith</nospellcheck></atom-cardname> attacked this turn, you may sacrifice a permanent. If you do, <atom-cardname><nospellcheck>The Lionsmith</nospellcheck></atom-cardname> deals damage equal to 2 plus the sacrificed permanent’s mana value to any target.
-		<sym-auto>1G</sym-auto>: <atom-cardname><nospellcheck>The Lionsmith</nospellcheck></atom-cardname> gets +2/+2 until end of turn.
+		At the beginning of your postcombat main phase, if <atom-name><nospellcheck>The Lionsmith</nospellcheck></atom-name> attacked this turn, you may sacrifice a permanent. If you do, <atom-name><nospellcheck>The Lionsmith</nospellcheck></atom-name> deals damage equal to 2 plus the sacrificed permanent’s mana value to any target.
+		<sym-auto>1G</sym-auto>: <atom-name><nospellcheck>The Lionsmith</nospellcheck></atom-name> gets +2/+2 until end of turn.
 		<sym-auto>1R</sym-auto>: Until end of turn, damage can’t be prevented and players can’t gain life.
 	rule_text_2: 
 	rule_text_3: 

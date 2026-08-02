@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		<sym-auto>2</sym-auto>, Exile a green or white card from your graveyard: <atom-cardname><nospellcheck>Alpine Salvager</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. Tap it.
+		<sym-auto>2</sym-auto>, Exile a green or white card from your graveyard: <atom-name><nospellcheck>Alpine Salvager</nospellcheck></atom-name> gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. Tap it.
 		<sym-auto>2</sym-auto>, Pay 2 life, Exile a blue or red card from your graveyard: Draw a card.     
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

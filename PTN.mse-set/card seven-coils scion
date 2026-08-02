@@ -30,8 +30,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Seven-Coil’s Scion</nospellcheck></atom-cardname> is dealt damage, you get that many <kw-A><nospellcheck><key>Sca<param-*s>rs</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
-		Whenever <atom-cardname><nospellcheck>Seven-Coil’s Scion</nospellcheck></atom-cardname> becomes the target of a spell or ability an opponent controls, put target permanent on top of its owner’s library.
+		Whenever <atom-name><nospellcheck>Seven-Coil’s Scion</nospellcheck></atom-name> is dealt damage, you get that many <kw-A><nospellcheck><key>Sca<param-*s>rs</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		Whenever <atom-name><nospellcheck>Seven-Coil’s Scion</nospellcheck></atom-name> becomes the target of a spell or ability an opponent controls, put target permanent on top of its owner’s library.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

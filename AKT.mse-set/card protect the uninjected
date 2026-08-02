@@ -29,7 +29,7 @@ card:
 	rarity: common
 	rule_text:
 		Exile target nonland, nontoken permanent. At the beginning of the next end step, return it to the battlefield under its owner’s control.
-		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>Protect the Uninjected</nospellcheck></atom-cardname> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Lizard or Advisor you control dealt damage to an opponent.)</i-auto>
+		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name><nospellcheck>Protect the Uninjected</nospellcheck></atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Lizard or Advisor you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Madness Demon
 	card_code_text: 

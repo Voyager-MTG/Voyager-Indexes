@@ -19,7 +19,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Fort Sapner</nospellcheck></atom-cardname> enters tapped unless you control two or fewer other lands.
+		<atom-name><nospellcheck>Fort Sapner</nospellcheck></atom-name> enters tapped unless you control two or fewer other lands.
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Put a +1/+1 counter on target creature. Activate only outside of combat and only if you’ve cast a noncreature spell this turn.
 	flavor_text: <i-flavor></i-flavor>

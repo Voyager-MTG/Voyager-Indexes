@@ -31,7 +31,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Cyprian Ophiomancer</nospellcheck></atom-cardname> enters, if you control a Sanctuary or a God, each opponent loses 2 life and you gain 2 life.
+		When <atom-name><nospellcheck>Cyprian Ophiomancer</nospellcheck></atom-name> enters, if you control a Sanctuary or a God, each opponent loses 2 life and you gain 2 life.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

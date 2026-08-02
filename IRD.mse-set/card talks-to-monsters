@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Talks-to-Monsters</nospellcheck></atom-cardname> enters, if you don’t already control Monster, create Monster, a legendary 1/1 silver Horror creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		When <atom-name><nospellcheck>Talks-to-Monsters</nospellcheck></atom-name> enters, if you don’t already control Monster, create Monster, a legendary 1/1 silver Horror creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 		Horrors you control get +1/+0 as long as it’s your turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

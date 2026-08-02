@@ -23,7 +23,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever you cast a spell with mana value 5 or greater, each opponent discards a card if it’s your turn. Otherwise, put a +1/+1 counter on <atom-cardname><nospellcheck>Hook Ironmantle</nospellcheck></atom-cardname> and it deals 2 damage to each opponent.
+		Whenever you cast a spell with mana value 5 or greater, each opponent discards a card if it’s your turn. Otherwise, put a +1/+1 counter on <atom-name><nospellcheck>Hook Ironmantle</nospellcheck></atom-name> and it deals 2 damage to each opponent.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

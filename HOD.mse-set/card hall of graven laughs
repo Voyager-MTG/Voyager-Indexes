@@ -19,7 +19,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Hall of Graven Laughs</nospellcheck></atom-cardname> enters tapped unless you control two or fewer other lands.
+		<atom-name><nospellcheck>Hall of Graven Laughs</nospellcheck></atom-name> enters tapped unless you control two or fewer other lands.
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
 		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Pay 1 life: Create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>

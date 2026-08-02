@@ -28,7 +28,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Numberless Procession</nospellcheck></atom-cardname> leaves the battlefield, create a 3/3 green Beast creature token.
+		When <atom-name><nospellcheck>Numberless Procession</nospellcheck></atom-name> leaves the battlefield, create a 3/3 green Beast creature token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

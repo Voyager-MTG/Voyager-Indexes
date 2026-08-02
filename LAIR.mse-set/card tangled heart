@@ -28,8 +28,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Tangled Heart</nospellcheck></atom-cardname> enters, if you cast it, destroy up to one target creature with mana value 3 or less.
-		Whenever a creature you control with mana value 4 or greater dies, <atom-cardname><nospellcheck>Tangled Heart</nospellcheck></atom-cardname> deals 1 damage to you and you draw a card.
+		When Tangled Heart</atom-name> enters, if you cast it, destroy up to one target creature with mana value 3 or less.
+		Whenever a creature you control with mana value 4 or greater dies, Tangled Heart</atom-name> deals 1 damage to you and you draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

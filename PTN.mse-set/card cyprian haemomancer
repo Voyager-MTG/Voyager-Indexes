@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Cyprian Haemomancer</nospellcheck></atom-cardname> enters tapped.
-		<sym-auto>1B</sym-auto>: Return <atom-cardname><nospellcheck>Cyprian Haemomancer</nospellcheck></atom-cardname> from your graveyard to the battlefield. Activate only if an opponent lost life this turn.
+		<atom-name><nospellcheck>Cyprian Haemomancer</nospellcheck></atom-name> enters tapped.
+		<sym-auto>1B</sym-auto>: Return <atom-name><nospellcheck>Cyprian Haemomancer</nospellcheck></atom-name> from your graveyard to the battlefield. Activate only if an opponent lost life this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>It is unusual for that vital pigment to survive the death of the body.</i-flavor>

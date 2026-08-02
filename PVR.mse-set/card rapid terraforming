@@ -16,9 +16,9 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		Tap an untapped permanent you control: <atom-cardname><nospellcheck>Rapid Terraforming</nospellcheck></atom-cardname> deals 1 damage to any target.
+		Tap an untapped permanent you control: <atom-name><nospellcheck>Rapid Terraforming</nospellcheck></atom-name> deals 1 damage to any target.
 		Tap an untapped permanent you control: Add <sym-auto>R</sym-auto>.
-		At the beginning of the end step, sacrifice <atom-cardname><nospellcheck>Rapid Terraforming</nospellcheck></atom-cardname>.
+		At the beginning of the end step, sacrifice <atom-name><nospellcheck>Rapid Terraforming</nospellcheck></atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Kyan0s
 	card_code_text: 

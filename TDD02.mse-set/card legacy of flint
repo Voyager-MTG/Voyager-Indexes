@@ -25,7 +25,7 @@ card:
 	rarity: rare
 	rule_text:
 		At the beginning of your end step, create a tapped land token with “<sym-auto>T</sym-auto>, Sacrifice this land: Add <sym-auto>R</sym-auto>.”
-		<sym-auto>2R</sym-auto>, Sacrifice a land: <atom-cardname><nospellcheck>Legacy of Flint</nospellcheck></atom-cardname> deals 2 damage to any target.
+		<sym-auto>2R</sym-auto>, Sacrifice a land: <atom-name><nospellcheck>Legacy of Flint</nospellcheck></atom-name> deals 2 damage to any target.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

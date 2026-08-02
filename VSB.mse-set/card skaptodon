@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever <atom-cardname><nospellcheck>Skaptodon</nospellcheck></atom-cardname> is dealt damage, exile the top card of your library. You may play it this turn.
+	rule_text: Whenever <atom-name><nospellcheck>Skaptodon</nospellcheck></atom-name> is dealt damage, exile the top card of your library. You may play it this turn.
 	flavor_text: <i-flavor><error-spelling:en_US>Skaptodons</error-spelling:en_US> are notoriously difficult to kill, and their teeth and claws are often made into weapons.</i-flavor>
 	power: 4
 	toughness: 3

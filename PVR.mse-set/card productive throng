@@ -24,7 +24,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Nightmare</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Productive Throng</nospellcheck></atom-cardname> attacks, it can’t be blocked this turn unless an opponent pays <sym-auto>1</sym-auto>.
+		Whenever <atom-name><nospellcheck>Productive Throng</nospellcheck></atom-name> attacks, it can’t be blocked this turn unless an opponent pays <sym-auto>1</sym-auto>.
 		At the beginning of your end step, put a +1/+1 counter on target creature unless an opponent pays <sym-auto>1</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

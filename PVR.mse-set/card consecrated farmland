@@ -22,7 +22,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>permanent</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Consecrated Farmland</nospellcheck></atom-cardname> enters, create two 1/1 white Human creature tokens.
+		When <atom-name><nospellcheck>Consecrated Farmland</nospellcheck></atom-name> enters, create two 1/1 white Human creature tokens.
 		Enchanted permanent has <kw-0><nospellcheck><key>ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>.
 	rule_text_2: 
 	rule_text_3: 

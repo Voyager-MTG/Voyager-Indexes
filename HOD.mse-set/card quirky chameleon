@@ -22,7 +22,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever another permanent you control enters, you may have <atom-cardname><nospellcheck>Quirky Chameleon</nospellcheck></atom-cardname> become a copy of that permanent until end of turn, except it isn’t legendary.
+	rule_text: Whenever another permanent you control enters, you may have <atom-name><nospellcheck>Quirky Chameleon</nospellcheck></atom-name> become a copy of that permanent until end of turn, except it isn’t legendary.
 	flavor_text: <i-flavor>The ever-changing symbol of House <error-spelling:en_US>Sapner</error-spelling:en_US>.</i-flavor>
 	power: 2
 	toughness: 1

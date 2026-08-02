@@ -24,7 +24,7 @@ card:
 	sub_type_4: 
 	rarity: masterpiece
 	rule_text:
-		When <atom-cardname><nospellcheck>Identity Connoisseur</nospellcheck></atom-cardname> enters, target player discards a card.
+		When Identity Connoisseur</atom-name> enters, target player discards a card.
 		Whenever a player discards a card with a creature type, you embrace it, and you may spend mana as though it was mana of any color to cast it. 
 	flavor_text: <i-flavor></i-flavor>
 	loyalty: 

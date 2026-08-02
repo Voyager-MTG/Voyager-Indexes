@@ -29,7 +29,7 @@ card:
 	sub_type_4: 
 	rarity: masterpiece
 	rule_text:
-		<atom-cardname><nospellcheck>Call of the Rose</nospellcheck></atom-cardname> deals 2 damage to any target. 
+		Call of the Rose</atom-name> deals 2 damage to any target. 
 		Create Lover to All <kw-1><nospellcheck><key>in your reserves</key></nospellcheck>. He’s a legendary 2/3 red Human Noble creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 

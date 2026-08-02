@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		This spell can’t be countered if it has exactly one target.
-		<atom-cardname><nospellcheck>Trounce</nospellcheck></atom-cardname> deals 4 damage divided among one or two targets.
+		<atom-name><nospellcheck>Trounce</nospellcheck></atom-name> deals 4 damage divided among one or two targets.
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Callwolves</error-spelling:en_US>? More like cockroaches.”<soft-line>
 		—<error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</soft-line></i-flavor></error-spelling:en_US>

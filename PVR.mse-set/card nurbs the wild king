@@ -23,7 +23,7 @@ card:
 	sub_type: <word-list-race-en>Troll</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demigod</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		As long as your <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> is three or greater, permanents you control have the activated abilities of <atom-cardname><nospellcheck>Nurbs, the Wild King</nospellcheck></atom-cardname>.
+		As long as your <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> is three or greater, permanents you control have the activated abilities of <atom-name><nospellcheck>Nurbs, the Wild King</nospellcheck></atom-name>.
 		<sym-auto>T</sym-auto>: Put a +1/+1 counter on this.
 		<sym-auto>R</sym-auto>, <sym-auto>T</sym-auto>: Create a tapped <kw-0><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-0>.
 		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>: Draw a card.

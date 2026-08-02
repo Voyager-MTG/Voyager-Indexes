@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-04-29 14:48:20
-	time_modified: 2026-04-29 12:06:29
+	time_modified: 2026-08-02 01:43:57
 	name: Timecoil Tracings
 	casting_cost: 1U
-	image: image65
+	image: image112.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,9 +22,9 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		You can’t cast <atom-cardname><nospellcheck>Timecoil Tracings</nospellcheck></atom-cardname> if you’ve cast another spell this turn.
+		You can’t cast <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Timecoil</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Tracings</atom-name> if you’ve cast another spell this turn.
 		Draw a card. You can’t cast spells this turn.
-		Return <atom-cardname><nospellcheck>Timecoil Tracings</nospellcheck></atom-cardname> to its owner’s hand.
+		Return <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Timecoil</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Tracings</atom-name> to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tadano1129
 	custom_card_number: Touhou Project 1: New Beginnings

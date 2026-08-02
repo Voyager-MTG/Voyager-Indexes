@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rule_text:
-		<atom-cardname><nospellcheck>Stonewrought Hall</nospellcheck></atom-cardname> enters tapped unless a land you control could produce <sym>G</sym>.
+		<atom-name><nospellcheck>Stonewrought Hall</nospellcheck></atom-name> enters tapped unless a land you control could produce <sym>G</sym>.
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.
 	flavor_text: <i-flavor>The Citadel is almost completely barren of residents compared to the Holt. A few solitary wanderers remain, miring in their memories of the dead planes its halls are built from.</i-flavor>
 	illustrator: Hugh Hammons

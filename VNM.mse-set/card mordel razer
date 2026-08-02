@@ -36,7 +36,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		At the beginning of your end step, if a player has one or fewer cards in hand, <kw-0><nospellcheck><key>create a trace</key></nospellcheck></kw-0> of <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>’s skill into your hand.
+		At the beginning of your end step, if a player has one or fewer cards in hand, <kw-0><nospellcheck><key>create a trace</key></nospellcheck></kw-0> of <atom-name><nospellcheck>this creature</nospellcheck></atom-name>’s skill into your hand.
 		<b>In the Moment</b> <sym>1R</sym>| <u>Skill Sorcery</u><i><soft-line>
 		</i>Exile the top card of your library. You may play it<soft-line>
 		</soft-line>this turn.</soft-line>

@@ -24,7 +24,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Assassin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Identity Connoisseur</nospellcheck></atom-cardname> enters, target player discards a card.
+		When <atom-name><nospellcheck>Identity Connoisseur</nospellcheck></atom-name> enters, target player discards a card.
 		Whenever a player discards a card with a creature type, you may <kw-0><nospellcheck><key>embrace</key></nospellcheck></kw-0> it, and you may spend mana as though it was mana of any color to cast it. <i-auto>(Exile it. You may cast it on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

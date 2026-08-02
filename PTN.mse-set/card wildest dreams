@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: Return X target cards from your graveyard to your hand. Exile <atom-cardname><nospellcheck>Wildest Dreams</nospellcheck></atom-cardname>.
+	rule_text: Return X target cards from your graveyard to your hand. Exile <atom-name><nospellcheck>Wildest Dreams</nospellcheck></atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>I could cut a lock of hair before I sleep, to <error-spelling:en_US>honour</error-spelling:en_US> a power of the Wood. In my dreams, I listened to the dead as they approached the white bone gate.</i-flavor>

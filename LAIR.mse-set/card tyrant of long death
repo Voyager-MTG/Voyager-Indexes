@@ -25,7 +25,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		<kw-0><nospellcheck><key>Impending <param-number>5</param-number>—<param-cost><sym>1G</sym> </param-cost></key></nospellcheck></kw-0>
-		Whenever <atom-cardname><nospellcheck>Tyrant of Long Death</nospellcheck></atom-cardname> enters or attacks, conjure a duplicate of target nontoken land you control into your hand.
+		Whenever <atom-name><nospellcheck>Tyrant of Long Death</nospellcheck></atom-name> enters or attacks, conjure a duplicate of target nontoken land you control into your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 5

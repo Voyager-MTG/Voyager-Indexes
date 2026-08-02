@@ -17,7 +17,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		<atom-cardname><nospellcheck>Nilshroud Conflagration</nospellcheck></atom-cardname> deals 5 damage to target creature.
+		<atom-name><nospellcheck>Nilshroud Conflagration</nospellcheck></atom-name> deals 5 damage to target creature.
 		You may sacrifice a land. If you do, search your library for a basic land card or a Texture card, put it onto the battlefield tapped, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Robin Tran

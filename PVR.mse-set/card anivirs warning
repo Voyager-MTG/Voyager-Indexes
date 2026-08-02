@@ -15,7 +15,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: Whenever you cast a spell from a zone not noted by <atom-cardname><nospellcheck>Anivir’s Warning</nospellcheck></atom-cardname>, note that zone. When you do, <atom-cardname><nospellcheck>Anivir’s Warning</nospellcheck></atom-cardname> deals damage to any target equal to the number of zones noted for it. <i-auto>(The zones are battlefield, hand, graveyard, exile, library, stack, and command.)</i-auto>
+	rule_text: Whenever you cast a spell from a zone not noted by <atom-name><nospellcheck>Anivir’s Warning</nospellcheck></atom-name>, note that zone. When you do, <atom-name><nospellcheck>Anivir’s Warning</nospellcheck></atom-name> deals damage to any target equal to the number of zones noted for it. <i-auto>(The zones are battlefield, hand, graveyard, exile, library, stack, and command.)</i-auto>
 	flavor_text: <i-flavor>“Our hungry technology doomed this plane. It will do so again; Do not follow your parent’s footsteps.”</i-flavor>
 	watermark: other magic symbols color spotlight
 	illustrator: Nexumorphic

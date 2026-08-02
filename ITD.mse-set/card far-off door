@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Far-off Door</nospellcheck></atom-cardname> enters, search your library for a planeswalker card, reveal it, put it into your hand, then shuffle.
+		When <atom-name><nospellcheck>Far-off Door</nospellcheck></atom-name> enters, search your library for a planeswalker card, reveal it, put it into your hand, then shuffle.
 		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: You may activate a loyalty ability of target permanent you control an additional time this turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Andreea Dumuta

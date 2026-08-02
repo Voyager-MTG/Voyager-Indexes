@@ -25,7 +25,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: <kw-A><i-auto><nospellcheck><key><i>Augmented</key></nospellcheck></i-auto></kw-A> — </i>Exile <atom-cardname><nospellcheck>Sailing the Starsea</nospellcheck></atom-cardname>: Copy target instant or sorcery spell you control. If you’ve spent <sym>WUBRG</sym> to cast spells this turn, you may instead copy target spell you control twice. You may choose new targets for the copies.
+	rule_text: <kw-A><i-auto><nospellcheck><key><i>Augmented</key></nospellcheck></i-auto></kw-A> — </i>Exile <atom-name><nospellcheck>Sailing the Starsea</nospellcheck></atom-name>: Copy target instant or sorcery spell you control. If you’ve spent <sym>WUBRG</sym> to cast spells this turn, you may instead copy target spell you control twice. You may choose new targets for the copies.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Archlire
 	card_code_text: 

@@ -25,7 +25,7 @@ card:
 	sub_type: <word-list-race-en>Hex</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>ArkaiIxajaprataKgxrajatajex</nospellcheck></atom-cardname> enters tapped unless you control another Hex.
+		<atom-name><nospellcheck>ArkaiIxajaprataKgxrajatajex</nospellcheck></atom-name> enters tapped unless you control another Hex.
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
 		<sym-auto>1</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-legname><nospellcheck>ArkaiIxajaprataKgxrajatajex</nospellcheck></atom-legname> from your hand: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>. <i-auto>(Exile it. You may play it on a later turn that a Hex you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>

@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: mythic rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Erys’ Memoirs</nospellcheck></atom-cardname> enters, it deals 3 damage to any target if you control a Dragon.
+		When <atom-name><nospellcheck>Erys’ Memoirs</nospellcheck></atom-name> enters, it deals 3 damage to any target if you control a Dragon.
 		Whenever you create one or more Dragon tokens, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Aborygen43

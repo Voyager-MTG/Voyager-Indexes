@@ -35,8 +35,8 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever a creature dealt damage by <atom-cardname><nospellcheck>The Crowned Growth</nospellcheck></atom-cardname> this turn leaves the battlefield, its controller gets 2 poison counters.
-		Whenever one or more poison counters are put on a player or <atom-cardname><nospellcheck>The Crowned Growth</nospellcheck></atom-cardname> dies, exile up to one target creature. Its controller creates a token that’s a copy of <atom-cardname><nospellcheck>The Crowned Growth</nospellcheck></atom-cardname>, except it isn’t legendary.
+		Whenever a creature dealt damage by <atom-name><nospellcheck>The Crowned Growth</nospellcheck></atom-name> this turn leaves the battlefield, its controller gets 2 poison counters.
+		Whenever one or more poison counters are put on a player or <atom-name><nospellcheck>The Crowned Growth</nospellcheck></atom-name> dies, exile up to one target creature. Its controller creates a token that’s a copy of <atom-name><nospellcheck>The Crowned Growth</nospellcheck></atom-name>, except it isn’t legendary.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

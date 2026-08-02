@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		When <atom-cardname><nospellcheck>War Map</nospellcheck></atom-cardname> enters, you may search your library for a basic land card, reveal, put it into your hand, then shuffle.
-		<sym-auto>2</sym-auto>, Sacrifice <atom-cardname><nospellcheck>War Map</nospellcheck></atom-cardname>: Draw a card.
+		When <atom-name><nospellcheck>War Map</nospellcheck></atom-name> enters, you may search your library for a basic land card, reveal, put it into your hand, then shuffle.
+		<sym-auto>2</sym-auto>, Sacrifice <atom-name><nospellcheck>War Map</nospellcheck></atom-name>: Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Viviane Souza
 	card_code_text: 

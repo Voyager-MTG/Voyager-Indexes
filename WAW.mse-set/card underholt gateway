@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rule_text:
-		<atom-cardname><nospellcheck>Underholt Gateway</nospellcheck></atom-cardname> enters tapped unless a land you control could produce <sym>R</sym>.
+		<atom-name><nospellcheck>Underholt Gateway</nospellcheck></atom-name> enters tapped unless a land you control could produce <sym>R</sym>.
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.
 	flavor_text: <i-flavor>Hidden within the dense jungle of the inner Holt are doors to the Citadel, which present themselves only to the brazen.</i-flavor>
 	illustrator: Cosmin Hrinco

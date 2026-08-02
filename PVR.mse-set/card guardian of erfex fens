@@ -15,7 +15,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Bear</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: You may have <atom-cardname><nospellcheck>Guardian of Erfex Fens</nospellcheck></atom-cardname> assign combat damage as though it weren’t blocked.
+	rule_text: You may have <atom-name><nospellcheck>Guardian of Erfex Fens</nospellcheck></atom-name> assign combat damage as though it weren’t blocked.
 	flavor_text: <i-flavor><soft-line>If you see its face, it’s too late.</soft-line></i-flavor>
 	power: 3
 	toughness: 3

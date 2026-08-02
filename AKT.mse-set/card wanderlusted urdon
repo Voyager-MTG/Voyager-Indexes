@@ -25,7 +25,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Dragon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Nomad</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: <sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>Wanderlusted Urdon</nospellcheck></atom-cardname> from your hand: Search your library for a Forest card, reveal it, put it into your hand, then shuffle. <i-auto>(Exile it. You may play it on a later turn that a Dragon or Nomad you control dealt damage to an opponent.)</i-auto>
+	rule_text: <sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name><nospellcheck>Wanderlusted Urdon</nospellcheck></atom-name> from your hand: Search your library for a Forest card, reveal it, put it into your hand, then shuffle. <i-auto>(Exile it. You may play it on a later turn that a Dragon or Nomad you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 8
 	toughness: 5

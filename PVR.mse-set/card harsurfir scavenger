@@ -16,7 +16,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dog</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: Whenever <atom-cardname><nospellcheck>Harsurfir Scavenger</nospellcheck></atom-cardname> enters, you may sacrifice a land or exile a land card from your graveyard. If you do, it gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn and <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: Whenever <atom-name><nospellcheck>Harsurfir Scavenger</nospellcheck></atom-name> enters, you may sacrifice a land or exile a land card from your graveyard. If you do, it gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn and <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

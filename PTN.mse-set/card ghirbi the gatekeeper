@@ -19,7 +19,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Ghirbi, the Gatekeeper</nospellcheck></atom-cardname> dies, you get a boon with “Whenever you attack, untap each creature you control. After this phase, there is an additional combat phase.”
+		When <atom-name><nospellcheck>Ghirbi, the Gatekeeper</nospellcheck></atom-name> dies, you get a boon with “Whenever you attack, untap each creature you control. After this phase, there is an additional combat phase.”
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Every day he weeps, for the loss of his spark and his punishment to guard the gate he destroyed, unable to cross.</i-flavor>

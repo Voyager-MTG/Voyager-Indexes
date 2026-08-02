@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>New Tensuo Calmkeeper</nospellcheck></atom-cardname> enters, create a 3/3 green Beast creature token and a 1/1 Wonder creature token that’s all colors.
+		When <atom-name><nospellcheck>New Tensuo Calmkeeper</nospellcheck></atom-name> enters, create a 3/3 green Beast creature token and a 1/1 Wonder creature token that’s all colors.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4

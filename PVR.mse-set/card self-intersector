@@ -14,8 +14,8 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		At the beginning of your upkeep, you may pay <sym-auto>1</sym-auto>. If you don’t, sacrifice <atom-cardname><nospellcheck>Self-Intersector</nospellcheck></atom-cardname> and it deals 3 damage to you.
-		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Target player creates a token that’s a copy of <atom-cardname><nospellcheck>Self-Intersector</nospellcheck></atom-cardname>.
+		At the beginning of your upkeep, you may pay <sym-auto>1</sym-auto>. If you don’t, sacrifice <atom-name><nospellcheck>Self-Intersector</nospellcheck></atom-name> and it deals 3 damage to you.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Target player creates a token that’s a copy of <atom-name><nospellcheck>Self-Intersector</nospellcheck></atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Augustus Clark
 	card_code_text: 

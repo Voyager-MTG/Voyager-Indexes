@@ -21,7 +21,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Citadel Repository</nospellcheck></atom-cardname> enters and whenever you cast a spell with mana value 5 or greater, create a 1/1 Wonder creature token that’s all colors.
+		When <atom-name><nospellcheck>Citadel Repository</nospellcheck></atom-name> enters and whenever you cast a spell with mana value 5 or greater, create a 1/1 Wonder creature token that’s all colors.
 		<sym-auto>WB</sym-auto>, Pay 2 life: Create a token that’s a copy of target token you control. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 

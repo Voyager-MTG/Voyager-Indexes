@@ -16,7 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Kinematic Constrictor</nospellcheck></atom-cardname> dies, put a +1/+1 counter on up to one target artifact.
+		When <atom-name><nospellcheck>Kinematic Constrictor</nospellcheck></atom-name> dies, put a +1/+1 counter on up to one target artifact.
 	flavor_text: <i-flavor>Make sure you know what’s a vine.</i-flavor>
 	power: 1
 	toughness: 1

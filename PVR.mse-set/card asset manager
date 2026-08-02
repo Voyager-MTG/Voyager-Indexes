@@ -28,7 +28,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>Asset Manager</nospellcheck></atom-cardname> enters, create a 1/1 white Human creature token.
+		When <atom-name><nospellcheck>Asset Manager</nospellcheck></atom-name> enters, create a 1/1 white Human creature token.
 		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>2WW</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>2WW</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 

@@ -32,7 +32,7 @@ card:
 	rule_text:
 		Whenever another Cleric you control enters, choose one that hasn’t been chosen this turn —
 		<li><bullet>• </bullet>Each opponent sacrifices an artifact unless they pay <sym-auto>1</sym-auto>.
-		</li><li><bullet>• </bullet>Put a +1/+1 counter on <atom-cardname><nospellcheck>Carapace Voyager</nospellcheck></atom-cardname>.
+		</li><li><bullet>• </bullet>Put a +1/+1 counter on <atom-name><nospellcheck>Carapace Voyager</nospellcheck></atom-name>.
 		</li><li><bullet>• </bullet><kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>.</li>
 	rule_text_2: 
 	rule_text_3: 

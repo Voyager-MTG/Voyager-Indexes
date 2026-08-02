@@ -14,8 +14,8 @@ card:
 	sub_type: <word-list-race-en>Werewolf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Construct</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Callwolf Replica</nospellcheck></atom-cardname> gets +2/+1 as long as  you own an embraced card in exile.
-		When <atom-cardname><nospellcheck>Callwolf Replica</nospellcheck></atom-cardname> dies, it deals damage equal to its power to each opponent.
+		<atom-name><nospellcheck>Callwolf Replica</nospellcheck></atom-name> gets +2/+1 as long as  you own an embraced card in exile.
+		When <atom-name><nospellcheck>Callwolf Replica</nospellcheck></atom-name> dies, it deals damage equal to its power to each opponent.
 	flavor_text:
 		<i-flavor>“Needs to be friskier to be one of </i>my<i> pups.”<soft-line>
 		—Chieftain <error-spelling:en_US>Gristlethark</soft-line></i-flavor></error-spelling:en_US>

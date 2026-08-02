@@ -24,7 +24,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Other Knights you control get +1/+1.
-		When <atom-cardname><nospellcheck>Turnberry Overseer</nospellcheck></atom-cardname> enters, choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name><nospellcheck>Turnberry Overseer</nospellcheck></atom-name> enters, choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

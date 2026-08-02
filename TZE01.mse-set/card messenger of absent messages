@@ -26,7 +26,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: When <atom-cardname><nospellcheck>Messenger of Absent Messages</nospellcheck></atom-cardname> enters, draw a card.
+	rule_text: When <atom-name><nospellcheck>Messenger of Absent Messages</nospellcheck></atom-name> enters, draw a card.
 	flavor_text: <i-flavor>The <error-spelling:en_US>RGM</error-spelling:en_US>-79 was a mass produced mobile suit that saw its greatest use in the one year war, with the most fielded in a single conflict during the assault on Solomon.</i-flavor>
 	power: 1
 	toughness: 1

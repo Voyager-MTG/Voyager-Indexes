@@ -14,7 +14,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Ape</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: <atom-cardname><nospellcheck>Elder Gigantops</nospellcheck></atom-cardname> gets +2/+2 as long as your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <atom-name><nospellcheck>Elder Gigantops</nospellcheck></atom-name> gets +2/+2 as long as your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>It puts the “<error-spelling:en_US>bam</error-spelling:en_US>” in bamboo.</i-flavor>
 	power: 4
 	toughness: 3

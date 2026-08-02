@@ -17,8 +17,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		As <atom-cardname><nospellcheck>Accommodation</nospellcheck></atom-cardname> enters, choose a creature type.
-		When <atom-cardname><nospellcheck>Accommodation</nospellcheck></atom-cardname> enters and at the beginning of your upkeep, create a colorless Equipment artifact token named House with “Equipped creature gets +1/+1” and “<kw-a><nospellcheck><key>Equip <param-name>creature with the chosen type</param-name> <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>.”
+		As <atom-name><nospellcheck>Accommodation</nospellcheck></atom-name> enters, choose a creature type.
+		When <atom-name><nospellcheck>Accommodation</nospellcheck></atom-name> enters and at the beginning of your upkeep, create a colorless Equipment artifact token named House with “Equipped creature gets +1/+1” and “<kw-a><nospellcheck><key>Equip <param-name>creature with the chosen type</param-name> <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>.”
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 

@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Monkey</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Stick Retriever</nospellcheck></atom-cardname> enters, create a 1/1 white Human creature token for each creature card in your graveyard.
+		When <atom-name><nospellcheck>Stick Retriever</nospellcheck></atom-name> enters, create a 1/1 white Human creature token for each creature card in your graveyard.
 		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>1B/GB/GB/GB/GB/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying <param-cost><sym-auto>1B/GB/GB/GB/GB/G</sym-auto></param-cost>. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

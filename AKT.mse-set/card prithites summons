@@ -14,8 +14,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: mythic rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Prithite’s Summons</nospellcheck></atom-cardname> enters, for each player, exile up to one other target nonland, nontoken permanent that player controls until <atom-cardname><nospellcheck>Prithite’s Summons</nospellcheck></atom-cardname> leaves the battlefield.
-		<sym-auto>3</sym-auto>: Exile <atom-cardname><nospellcheck>Prithite’s Summons</nospellcheck></atom-cardname>. At the beginning of the next end step, return it to the battlefield under your control. Activate only as a sorcery.
+		When <atom-name><nospellcheck>Prithite’s Summons</nospellcheck></atom-name> enters, for each player, exile up to one other target nonland, nontoken permanent that player controls until <atom-name><nospellcheck>Prithite’s Summons</nospellcheck></atom-name> leaves the battlefield.
+		<sym-auto>3</sym-auto>: Exile <atom-name><nospellcheck>Prithite’s Summons</nospellcheck></atom-name>. At the beginning of the next end step, return it to the battlefield under your control. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Red-Izak
 	card_code_text: 

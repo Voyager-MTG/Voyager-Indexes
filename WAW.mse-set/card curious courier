@@ -21,7 +21,7 @@ card:
 	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Tap target non-Wonder creature.
-		<sym-auto>2</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Curious Courier</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>2</sym-auto>, Sacrifice <atom-name><nospellcheck>Curious Courier</nospellcheck></atom-name>: <kw-A><nospellcheck><key>Pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“The <error-spelling:en_US>Ilcans</error-spelling:en_US> are violent, and we don’t know what they’re capable of. Keep the peace until we do.”<soft-line>
 		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></i-flavor></error-spelling:en_US>

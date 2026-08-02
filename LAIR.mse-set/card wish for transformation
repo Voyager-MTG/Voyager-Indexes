@@ -22,7 +22,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		<kw-0><nospellcheck><key>Emerge <param-cost><sym-auto>6G</sym-auto></param-cost></key></nospellcheck></kw-0>
-		When <atom-cardname><nospellcheck>Wish for Transformation</nospellcheck></atom-cardname> enters, search your library for a non-Spirit creature card, reveal it, then put it into your hand. If it emerged from a creature with power greater than that card’s mana value, put it onto the battlefield instead.
+		When Wish for Transformation</atom-name> enters, search your library for a non-Spirit creature card, reveal it, then put it into your hand. If it emerged from a creature with power greater than that card’s mana value, put it onto the battlefield instead.
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
 	toughness: 7

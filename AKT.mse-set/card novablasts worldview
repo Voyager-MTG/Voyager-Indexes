@@ -41,6 +41,6 @@ card:
 	special_text:
 		<i>“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urdonic</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> strength protects Ur’s creation. Your weakness is <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Akella’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> health.”<soft-line>
 		</soft-line></i>—<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Novablast</i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
-		I, II — Choose a creature with the least power or tied for the least. It gets -2/-2 until end of turn.
-		III — If you control the creature with the greatest power or tied for it, you draw two cards and you lose 2 life.
+		Choose a creature with the least power or tied for the least. It gets -2/-2 until end of turn.
+		If you control the creature with the greatest power or tied for it, you draw two cards and you lose 2 life.
 		​

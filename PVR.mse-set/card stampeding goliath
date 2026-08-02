@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Elephant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Stampeding Goliath</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-name><nospellcheck>Stampeding Goliath</nospellcheck></atom-name> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“You should go thirst somewhere else.”<soft-line>
 		—<error-spelling:en_US>Irticull</error-spelling:en_US>, Shadow Sultan</soft-line></i-flavor>

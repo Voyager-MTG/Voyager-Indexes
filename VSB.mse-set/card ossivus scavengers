@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Ossivus Scavengers</nospellcheck></atom-cardname> attacks or becomes the target of a spell, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		Whenever <atom-name><nospellcheck>Ossivus Scavengers</nospellcheck></atom-name> attacks or becomes the target of a spell, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 		Whenever <kw-0><nospellcheck><key>you get a Scar</key></nospellcheck></kw-0>, create a <kw-0><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5

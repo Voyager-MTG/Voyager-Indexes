@@ -17,7 +17,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Troll</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Mortarsire</nospellcheck></atom-cardname> enters, return target artifact or enchantment card from your graveyard to your hand.
+	rule_text: When <atom-name><nospellcheck>Mortarsire</nospellcheck></atom-name> enters, return target artifact or enchantment card from your graveyard to your hand.
 	flavor_text: <i-flavor>“When the cement’s demands aren’t met, the building comes crashing down.”</i-flavor>
 	power: 3
 	toughness: 3

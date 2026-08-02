@@ -23,8 +23,8 @@ card:
 	rarity: masterpiece
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Painted Distorter</nospellcheck></atom-cardname> enters, counter target spell if it’s a noncreature spell or if <atom-cardname><nospellcheck>Painted Distorter</nospellcheck></atom-cardname> was cast from exile.
-		<kw-0><nospellcheck><key>Foretell <param-cost><sym-auto>3UU</sym-auto></param-cost></key></nospellcheck></kw-0>
+		When Painted Distorter</atom-name> enters, counter target spell if it’s a noncreature spell or if Painted Distorter</atom-name> was cast from exile.
+		<kw-0><nospellcheck><key>Foretell <param-cost><sym-auto>3<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>UU</sym-auto></param-cost></key></nospellcheck></kw-0></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

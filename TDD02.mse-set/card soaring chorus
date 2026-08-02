@@ -33,7 +33,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		Other creatures you control whose base power and toughness aren’t equal get +1/+1.
-		Whenever you cast an enchantment spell, you may swap <atom-cardname><nospellcheck>Soaring Chorus</nospellcheck></atom-cardname>’s power and toughness until end of turn.
+		Whenever you cast an enchantment spell, you may swap <atom-name><nospellcheck>Soaring Chorus</nospellcheck></atom-name>’s power and toughness until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

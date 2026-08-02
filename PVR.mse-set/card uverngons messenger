@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Uverngon’s Messenger</nospellcheck></atom-cardname> gets +1/+1 and has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as a spell or ability put a nontoken card into your hand this turn.
+		<atom-name><nospellcheck>Uverngon’s Messenger</nospellcheck></atom-name> gets +1/+1 and has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as a spell or ability put a nontoken card into your hand this turn.
 	flavor_text:
 		<i-flavor>“The <error-spelling:en_US>Quintarchy</error-spelling:en_US> rejects your warnings. They are too steeped in power to step down.”<soft-line>
 		—From <error-spelling:en_US>Uverngon</error-spelling:en_US>, to <error-spelling:en_US>Anivir</soft-line></i-flavor></error-spelling:en_US>

@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Hierarch of Exultation</nospellcheck></atom-cardname> or another permanent you control leaves the battlefield, you gain 1 life.
+		Whenever <atom-name><nospellcheck>Hierarch of Exultation</nospellcheck></atom-name> or another permanent you control leaves the battlefield, you gain 1 life.
 		<kw-A><nospellcheck><key>Retopology <param-cost><sym-auto>2WW</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

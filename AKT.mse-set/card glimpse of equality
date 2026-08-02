@@ -16,7 +16,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		All creatures lose all abilities and creature types and are Dragons with base power and toughness 2/2.
-		At the beginning of the end step, sacrifice <atom-cardname><nospellcheck>Glimpse of Equality</nospellcheck></atom-cardname>.
+		At the beginning of the end step, sacrifice <atom-name><nospellcheck>Glimpse of Equality</nospellcheck></atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sandara Tang
 	card_code_text: 

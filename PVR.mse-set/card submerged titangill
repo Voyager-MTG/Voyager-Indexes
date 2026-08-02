@@ -22,7 +22,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0>
-		<sym-auto>1U</sym-auto>, Discard <atom-cardname><nospellcheck>Submerged Titangill</nospellcheck></atom-cardname>: Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		<sym-auto>1U</sym-auto>, Discard <atom-name><nospellcheck>Submerged Titangill</nospellcheck></atom-name>: Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor><error-spelling:en_US>Rastira’s</error-spelling:en_US> depths are rarely seen.</i-flavor>

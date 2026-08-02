@@ -24,7 +24,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		Sneak <sym>1U</sym> <i-auto>(You may cast this spell for <sym>1U</sym> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto>
-		Whenever <atom-cardname><nospellcheck>Castle Delta Lookout</nospellcheck></atom-cardname> deals combat damage to a player or planeswalker, draw a card.
+		Whenever Castle Delta Lookout</atom-name> deals combat damage to a player or planeswalker, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

@@ -15,7 +15,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Lizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Survivor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: Whenever another permanent you control leaves the battlefield, put a +1/+1 counter on <atom-cardname><nospellcheck>Ithian Plague Doctor</nospellcheck></atom-cardname>.
+	rule_text: Whenever another permanent you control leaves the battlefield, put a +1/+1 counter on <atom-name><nospellcheck>Ithian Plague Doctor</nospellcheck></atom-name>.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Erys’</error-spelling:en_US> ideology strips the sacred fur from our bodies. Don’t let what happened to us happen to you.”</i-flavor>
 	power: 2
 	toughness: 2

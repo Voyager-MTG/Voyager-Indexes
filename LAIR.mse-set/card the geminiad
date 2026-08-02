@@ -26,7 +26,7 @@ card:
 	rule_text:
 		Spells your opponents cast from exile cost <sym-auto>1</sym-auto> more to cast.
 		<sym-auto>T</sym-auto>: <kw-1><nospellcheck><key>Induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-1>
-		<sym-auto>3</sym-auto>: <atom-cardname><nospellcheck>The Geminiad</nospellcheck></atom-cardname> gains “Whenever this artifact becomes tapped, add <sym-auto>C</sym-auto>.” Activate only once.
+		<sym-auto>3</sym-auto>: The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Geminiad</atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words> gains “Whenever this artifact becomes tapped, add <sym-auto>C</sym-auto>.” Activate only once.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

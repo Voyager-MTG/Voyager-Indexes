@@ -20,7 +20,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Seven-Coil Ambusher</nospellcheck></atom-cardname> can’t be blocked by tokens.
+		<atom-name><nospellcheck>Seven-Coil Ambusher</nospellcheck></atom-name> can’t be blocked by tokens.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

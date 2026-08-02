@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Oblivion Zealot</nospellcheck></atom-cardname> enters, search your library for up to three basic Plains cards, reveal them, put them into your hand, then shuffle.
+		When <atom-name><nospellcheck>Oblivion Zealot</nospellcheck></atom-name> enters, search your library for up to three basic Plains cards, reveal them, put them into your hand, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

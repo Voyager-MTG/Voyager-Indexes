@@ -23,8 +23,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Fleshborne Horror</nospellcheck></atom-cardname> becomes blocked by a creature, each opponent loses 2 life and you gain 2 life.
-		<sym-auto>2B</sym-auto>, Discard <atom-cardname><nospellcheck>Fleshborne Horror</nospellcheck></atom-cardname>: Draw a card, then choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-name><nospellcheck>Fleshborne Horror</nospellcheck></atom-name> becomes blocked by a creature, each opponent loses 2 life and you gain 2 life.
+		<sym-auto>2B</sym-auto>, Discard <atom-name><nospellcheck>Fleshborne Horror</nospellcheck></atom-name>: Draw a card, then choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 8
 	toughness: 6

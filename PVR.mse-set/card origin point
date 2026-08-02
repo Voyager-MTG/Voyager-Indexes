@@ -16,9 +16,9 @@ card:
 	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Origin Point</nospellcheck></atom-cardname> enters the battlefield tapped.
+		<atom-name><nospellcheck>Origin Point</nospellcheck></atom-name> enters the battlefield tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.
-		<sym-auto>2RR</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Origin Point</nospellcheck></atom-cardname>: Any player may have <atom-cardname><nospellcheck>Origin Point</nospellcheck></atom-cardname> deal 4 damage to them. If no one does, you draw two cards.
+		<sym-auto>2RR</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-name><nospellcheck>Origin Point</nospellcheck></atom-name>: Any player may have <atom-name><nospellcheck>Origin Point</nospellcheck></atom-name> deal 4 damage to them. If no one does, you draw two cards.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Vidjogamer
 	card_code_text: 

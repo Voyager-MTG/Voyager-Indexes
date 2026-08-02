@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Destroy target land. 
-		<atom-cardname><nospellcheck>Spawn Volcano</nospellcheck></atom-cardname> deals 6 damage to any target.
+		<atom-name><nospellcheck>Spawn Volcano</nospellcheck></atom-name> deals 6 damage to any target.
 	flavor_text:
 		<i-flavor>“What a waste of <error-spelling:en_US>mana</error-spelling:en_US>! I’m glad that <error-spelling:en_US>Primivir</error-spelling:en_US> can now endure such luxuries.”<soft-line>
 		—<error-spelling:en_US>Anivir</error-spelling:en_US> the Forgotten</soft-line></i-flavor>

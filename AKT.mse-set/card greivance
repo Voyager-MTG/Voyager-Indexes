@@ -19,7 +19,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Greivance</nospellcheck></atom-cardname> gets +2/+2 as long as another permanent you control left the battlefield this turn.
+		<atom-name><nospellcheck>Greivance</nospellcheck></atom-name> gets +2/+2 as long as another permanent you control left the battlefield this turn.
 	flavor_text:
 		<i-flavor>“No matter how painful <error-spelling:en_US>Erys</error-spelling:en_US> makes holding on, he cannot kill a raw idea.”<soft-line>
 		—<error-spelling:en_US>Atraja</error-spelling:en_US> the Mutable</soft-line></i-flavor>

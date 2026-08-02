@@ -17,7 +17,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rarity: special
-	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>. <atom-cardname><nospellcheck>Cloudkissed Keep</nospellcheck></atom-cardname> deals 1 damage to you unless you control three or more other lands.
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>. <atom-name><nospellcheck>Cloudkissed Keep</nospellcheck></atom-name> deals 1 damage to you unless you control three or more other lands.
 	flavor_text:
 		<i-flavor>“My House is one of life and solitude.”<soft-line>
 		</soft-line>—<error-spelling:en_US>Roul</error-spelling:en_US> <error-spelling:en_US>Banefort</i-flavor></error-spelling:en_US>

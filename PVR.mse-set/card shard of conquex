@@ -17,7 +17,7 @@ card:
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		<sym-auto>1</sym-auto>,<sym>T</sym>: Add one mana of any color.
-		<sym-auto>WUBRG</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shard of Conquex</nospellcheck></atom-cardname>: It deals 5 damage to any target and you gain 5 life. Activate only as a sorcery.
+		<sym-auto>WUBRG</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-name><nospellcheck>Shard of Conquex</nospellcheck></atom-name>: It deals 5 damage to any target and you gain 5 life. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ali Hoff
 	card_code_text: 

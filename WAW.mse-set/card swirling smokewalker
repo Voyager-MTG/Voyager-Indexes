@@ -21,7 +21,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: Whenever <atom-cardname><nospellcheck>Swirling Smokewalker</nospellcheck></atom-cardname> or another creature you control dies, if it wasn’t blocking, put your choice of a +1/+1 counter or a <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> counter on target creature you control.
+	rule_text: Whenever <atom-name><nospellcheck>Swirling Smokewalker</nospellcheck></atom-name> or another creature you control dies, if it wasn’t blocking, put your choice of a +1/+1 counter or a <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> counter on target creature you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

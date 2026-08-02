@@ -22,8 +22,8 @@ card:
 	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dryad</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Thing in the Birches</nospellcheck></atom-cardname> can’t block.
-		When <atom-cardname><nospellcheck>Thing in the Birches</nospellcheck></atom-cardname> dies, you may exile it. If you do, exile any number of target permanents you control, then return them to the battlefield under their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> control.
+		<atom-name><nospellcheck>Thing in the Birches</nospellcheck></atom-name> can’t block.
+		When <atom-name><nospellcheck>Thing in the Birches</nospellcheck></atom-name> dies, you may exile it. If you do, exile any number of target permanents you control, then return them to the battlefield under their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> control.
 	flavor_text:
 		<i-flavor>“What </i>was <i>this thing? How did it </i>do<i> that?”<soft-line>
 		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></i-flavor>

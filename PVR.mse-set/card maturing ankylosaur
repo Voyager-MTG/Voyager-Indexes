@@ -15,7 +15,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: <sym-auto>T</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. Then put a +1/+1 counter on <atom-cardname><nospellcheck>Maturing Ankylosaur</nospellcheck></atom-cardname> if there are eight or more cards in your graveyard.
+	rule_text: <sym-auto>T</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. Then put a +1/+1 counter on <atom-name><nospellcheck>Maturing Ankylosaur</nospellcheck></atom-name> if there are eight or more cards in your graveyard.
 	flavor_text: <i-flavor>Its thoughts, much like its spines, will grow gnarlier in time.</i-flavor>
 	power: 1
 	toughness: 2

@@ -25,7 +25,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Incarnation</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Mens Rea</nospellcheck></atom-cardname> enters, you draw a card and you lose 1 life.
+	rule_text: When <atom-name><nospellcheck>Mens Rea</nospellcheck></atom-name> enters, you draw a card and you lose 1 life.
 	flavor_text: <i-flavor>Exploiting a loophole in the <error-spelling:en_US>umwelt</error-spelling:en_US> laws, some of <error-spelling:en_US>Percitha’s</error-spelling:en_US> interrogators changed their legal species to <error-spelling:en_US>Womens</error-spelling:en_US> <error-spelling:en_US>Rea</error-spelling:en_US>.</i-flavor>
 	power: 2
 	toughness: 2

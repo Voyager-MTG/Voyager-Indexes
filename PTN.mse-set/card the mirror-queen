@@ -30,8 +30,8 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		You may choose not to untap <atom-cardname><nospellcheck>The Mirror-Queen</nospellcheck></atom-cardname> during your untap step.
-		<sym-auto>UR</sym-auto>, <sym-auto>T</sym-auto>: Create a token that’s a copy of target creature, except it has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Sacrifice it when <atom-cardname><nospellcheck>The Mirror-Queen</nospellcheck></atom-cardname> becomes untapped.
+		You may choose not to untap <atom-name><nospellcheck>The Mirror-Queen</nospellcheck></atom-name> during your untap step.
+		<sym-auto>UR</sym-auto>, <sym-auto>T</sym-auto>: Create a token that’s a copy of target creature, except it has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Sacrifice it when <atom-name><nospellcheck>The Mirror-Queen</nospellcheck></atom-name> becomes untapped.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

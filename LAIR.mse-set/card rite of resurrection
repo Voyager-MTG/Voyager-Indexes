@@ -23,7 +23,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		Destroy all creatures. Then you may return a creature card with mana value 3 or less from your graveyard to the battlefield.
-		Exile <atom-cardname><nospellcheck>Rite of Resurrection</nospellcheck></atom-cardname>.
+		Exile Rite of Resurrection</atom-name>.
 	flavor_text: <i-flavor>“This is not really a rite of renewal - more of deferral. Winter can be delayed, but not denied.”</i-flavor>
 	illustrator: TavenerScholar
 	custom_card_number: 6 — 002 • Top Cards II

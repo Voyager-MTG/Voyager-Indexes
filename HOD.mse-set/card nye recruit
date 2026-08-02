@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <sym-auto>1B/G</sym-auto>: <atom-cardname><nospellcheck>Nye Recruit</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. Tap it.
+	rule_text: <sym-auto>1B/G</sym-auto>: <atom-name><nospellcheck>Nye Recruit</nospellcheck></atom-name> gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. Tap it.
 	flavor_text: <i-flavor>“In House <error-spelling:en_US>Nye</error-spelling:en_US> I see glimmers of gold and adventure.”</i-flavor>
 	power: 2
 	toughness: 1

@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Elephant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Calf of the Restored Age</nospellcheck></atom-cardname> enters or whenever you cast a spell, if you spent only mana from nonland sources to cast it, draw a card. This ability triggers only once each turn.
+	rule_text: When <atom-name><nospellcheck>Calf of the Restored Age</nospellcheck></atom-name> enters or whenever you cast a spell, if you spent only mana from nonland sources to cast it, draw a card. This ability triggers only once each turn.
 	flavor_text: <i-flavor>Parents strive to ensure their children live in a better world than they did.</i-flavor>
 	power: 2
 	toughness: 2

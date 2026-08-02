@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Nonbasic lands enter the battlefield tapped unless they can produce <sym>C</sym>.
-		When <atom-cardname><nospellcheck>Melting Pot</nospellcheck></atom-cardname> enters, destroy up to one target nonbasic land. Its controller searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
+		When <atom-name><nospellcheck>Melting Pot</nospellcheck></atom-name> enters, destroy up to one target nonbasic land. Its controller searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 2

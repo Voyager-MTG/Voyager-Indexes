@@ -17,7 +17,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: Whenever <atom-cardname><nospellcheck>Method Actor</nospellcheck></atom-cardname> deals damage to a player, draw a card.
+	rule_text: Whenever <atom-name><nospellcheck>Method Actor</nospellcheck></atom-name> deals damage to a player, draw a card.
 	flavor_text: <i-flavor>“Ever tried pretending to be a rat?”</i-flavor>
 	power: 3
 	toughness: 3

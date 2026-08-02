@@ -14,7 +14,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>2</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Empty Scene</nospellcheck></atom-cardname> gains the abilities of each permanent that entered this turn. Activate only once each turn.
+		<sym-auto>2</sym-auto>: Until end of turn, <atom-name><nospellcheck>Empty Scene</nospellcheck></atom-name> gains the abilities of each permanent that entered this turn. Activate only once each turn.
 	flavor_text: <i-flavor>What will you build?</i-flavor>
 	illustrator: Jake Moore
 	card_code_text: 

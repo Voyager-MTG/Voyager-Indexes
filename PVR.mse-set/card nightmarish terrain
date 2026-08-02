@@ -24,7 +24,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Nightmarish Terrain</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/R</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-name><nospellcheck>Nightmarish Terrain</nospellcheck></atom-name> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/R</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 		Whenever a creature token you control enters, it deals damage equal to its power to each opponent.
 	flavor_text: <i-flavor></i-flavor>
 	power: 

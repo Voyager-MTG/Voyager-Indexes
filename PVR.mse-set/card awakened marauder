@@ -17,7 +17,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever another artifact you control enters, put a +1/+1 counter on <atom-cardname><nospellcheck>Awakened Marauder</nospellcheck></atom-cardname>. This ability triggers only once each turn.
+		Whenever another artifact you control enters, put a +1/+1 counter on <atom-name><nospellcheck>Awakened Marauder</nospellcheck></atom-name>. This ability triggers only once each turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

@@ -19,7 +19,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Sewage Surveyor</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		When <atom-name><nospellcheck>Sewage Surveyor</nospellcheck></atom-name> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

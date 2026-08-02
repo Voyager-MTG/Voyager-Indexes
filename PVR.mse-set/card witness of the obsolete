@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <atom-cardname><nospellcheck>Witness of the Obsolete</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> if you control an Aura or an Equipment.
+	rule_text: <atom-name><nospellcheck>Witness of the Obsolete</nospellcheck></atom-name> has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> if you control an Aura or an Equipment.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The old generation ended <error-spelling:en_US>aeons</error-spelling:en_US> ago, yet she watches them still.</i-flavor>

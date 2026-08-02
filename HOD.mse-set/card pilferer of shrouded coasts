@@ -23,7 +23,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>U</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever <atom-cardname><nospellcheck>Pilferer of Shrouded Coasts</nospellcheck></atom-cardname> deals combat damage to a player or planeswalker, create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		Whenever <atom-name><nospellcheck>Pilferer of Shrouded Coasts</nospellcheck></atom-name> deals combat damage to a player or planeswalker, create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

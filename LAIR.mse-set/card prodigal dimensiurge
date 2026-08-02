@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-04-29 14:48:20
-	time_modified: 2026-04-29 12:06:18
+	time_modified: 2026-08-02 01:56:22
 	name: Prodigal Dimensiurge
 	casting_cost: 2W
-	image: image64
+	image: image116.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,8 +22,8 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Prodigal Dimensiurge</nospellcheck></atom-cardname> enters, create The Planar Portal, a legendary colorless artifact token with “<sym>2</sym>,<sym>T</sym>: Exile target creature you control, then return it to the battlefield under its owner’s control. Activate only as a sorcery.”
-		Whenever another creature you control enters, put a +1/+1 counter on <atom-cardname><nospellcheck>Prodigal Dimensiurge</nospellcheck></atom-cardname>
+		When Prodigal <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Dimensiurge</atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, create The Planar Portal, a legendary colorless artifact token with “<sym>2</sym>,<sym>T</sym>: Exile target creature you control, then return it to the battlefield under its owner’s control. Activate only as a sorcery.”
+		Whenever another creature you control enters, put a +1/+1 counter on Prodigal <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Dimensiurge</atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

@@ -22,7 +22,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		<kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw a card.
-		Whenever <atom-cardname><nospellcheck>Drown in Self Reflection</nospellcheck></atom-cardname> leaves your graveyard during your turn, you may cast a copy of it.
+		Whenever Drown in Self Reflection</atom-name> leaves your graveyard during your turn, you may cast a copy of it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 

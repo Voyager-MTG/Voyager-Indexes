@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Plant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rabbit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Chitterbit</nospellcheck></atom-cardname> enters, you may reveal a basic land card you your sanctum. If a Plains or Mountain card was revealed, put a +1/+1 counter on target creature. If an Island or Swamp card was revealed, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>. If a Forest card was revealed, you gain 3 life.                      
+	rule_text: When <atom-name><nospellcheck>Chitterbit</nospellcheck></atom-name> enters, you may reveal a basic land card you your sanctum. If a Plains or Mountain card was revealed, put a +1/+1 counter on target creature. If an Island or Swamp card was revealed, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>. If a Forest card was revealed, you gain 3 life.                      
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 1

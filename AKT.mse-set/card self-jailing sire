@@ -43,7 +43,7 @@ card:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 	rule_text_2:
 		<kw-0><nospellcheck><key>Bisapience <param-cost><sym>R</sym></param-cost></key></nospellcheck></kw-0>
-		Sacrifice a creature: Exile the top card of your library. You may cast it. If you don’t, put a +1/+1 counter on <atom-cardname><nospellcheck>That Gross Authentic Self</nospellcheck></atom-cardname>.
+		Sacrifice a creature: Exile the top card of your library. You may cast it. If you don’t, put a +1/+1 counter on <atom-name><nospellcheck>That Gross Authentic Self</nospellcheck></atom-name>.
 	flavor_text: <i-flavor>“You can’t outrun your crimes.”</i-flavor>
 	flavor_text_2: <i-flavor>“But I don’t. </i>I<i> am what you </i>really<i> are.”</i-flavor>
 	power: 2

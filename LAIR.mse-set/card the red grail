@@ -33,7 +33,7 @@ card:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
 		Other Vampires you control get +2/+0.
 		Creature tokens you control are Vampires in addition to their other types.
-		Sacrifice a Vampire: <atom-cardname><nospellcheck>The Red Grail</nospellcheck></atom-cardname> deals 3 damage to any target. Activate only once during each of your turns.
+		Sacrifice a Vampire: The Red Grail</atom-name> deals 3 damage to any target. Activate only once during each of your turns.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

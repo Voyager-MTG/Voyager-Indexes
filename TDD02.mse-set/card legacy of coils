@@ -31,7 +31,7 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever a creature you control is dealt damage, put a +1/+1 counter on it. <i-auto>(It must survive the damage to get the counters.)</i-auto>
-		Whenever you attack, <atom-cardname><nospellcheck>Legacy of Coils</nospellcheck></atom-cardname> deals 1 damage to target attacking creature.
+		Whenever you attack, <atom-name><nospellcheck>Legacy of Coils</nospellcheck></atom-name> deals 1 damage to target attacking creature.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

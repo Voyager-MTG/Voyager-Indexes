@@ -19,7 +19,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Harsurfir Ferrier</nospellcheck></atom-cardname> enters, you may sacrifice a land. If you do, draw a card and you may play an additional land this turn.
+	rule_text: When <atom-name><nospellcheck>Harsurfir Ferrier</nospellcheck></atom-name> enters, you may sacrifice a land. If you do, draw a card and you may play an additional land this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The <error-spelling:en_US>Nille</error-spelling:en_US> is <error-spelling:en_US>Harsurfir’s</error-spelling:en_US> only source of water. <error-spelling:en_US>Cruelean</error-spelling:en_US> defends it with his life.</i-flavor>

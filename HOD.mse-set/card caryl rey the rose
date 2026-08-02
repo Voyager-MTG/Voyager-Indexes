@@ -35,7 +35,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Caryl Rey, the Rose</nospellcheck></atom-cardname> attacks, exile the top card of your library. You may cast it. If you don’t, put a +1/+1 counter on <atom-legname><nospellcheck>Caryl Rey</nospellcheck></atom-legname>.
+		Whenever <atom-name><nospellcheck>Caryl Rey, the Rose</nospellcheck></atom-name> attacks, exile the top card of your library. You may cast it. If you don’t, put a +1/+1 counter on <atom-legname><nospellcheck>Caryl Rey</nospellcheck></atom-legname>.
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: <kw-A><nospellcheck><key>Heir—<param-name>You have ten or more cards in exile.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen heir in your sanctum, you may replace a draw with this card if you’ve met its condition.)</i-auto></atom-reminder-expert></kw-A>
 	power: 4

@@ -11,14 +11,14 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-04-29 15:04:26
-	time_modified: 2026-04-29 12:08:15
+	time_modified: 2026-08-02 01:54:12
 	card_color_2: red
 	name: Me, Divine Aspirant
 	name_2: The Placebo God
 	casting_cost: 1R
 	image: 
 	image_2: 
-	mainframe_image: image85
+	mainframe_image: mainframe_image6.png
 	mainframe_image_2: 
 	indicator_2: red
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
@@ -30,7 +30,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<margin:0:0:5>Whenever <atom-cardname><nospellcheck>Me, Divine Aspirant</nospellcheck></atom-cardname> attacks, choose one that hasn’t been chosen. If you can’t, exile <atom-legname><nospellcheck>Me</nospellcheck></atom-legname> and return it to the battlefield transformed.</margin:0:0:5>
+		<margin:0:0:5>Whenever Me, Divine Aspirant</atom-name> attacks, choose one that hasn’t been chosen. If you can’t, exile <atom-legname><nospellcheck>Me</nospellcheck></atom-legname> and return it to the battlefield transformed.</margin:0:0:5>
 		<li><bullet>• </bullet><atom-legname><nospellcheck>Me</nospellcheck></atom-legname> gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
 		</li><li><bullet>• </bullet><atom-legname><nospellcheck>Me</nospellcheck></atom-legname> gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
 		</li><li><bullet>• </bullet><atom-legname><nospellcheck>Me</nospellcheck></atom-legname> gets +1/+1 until end of turn.</li>

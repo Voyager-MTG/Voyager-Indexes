@@ -33,7 +33,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Regal Lion</nospellcheck></atom-cardname> enters, other permanents you control gain <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+		When <atom-name><nospellcheck>Regal Lion</nospellcheck></atom-name> enters, other permanents you control gain <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>The imperious symbol of House <error-spelling:en_US>Terrel</error-spelling:en_US>.</i-flavor>
 	power: 3
 	toughness: 3

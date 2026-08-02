@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Acolyte of Agony</nospellcheck></atom-cardname>: It deals X damage to target creature, where X is the amount of life target opponent lost this turn.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-name><nospellcheck>Acolyte of Agony</nospellcheck></atom-name>: It deals X damage to target creature, where X is the amount of life target opponent lost this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The Lore of the Knife to bring victory, the Succulent Lore to make it sweeter.</i-flavor>

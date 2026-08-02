@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever <atom-cardname><nospellcheck>Ardleby Gatekeeper</nospellcheck></atom-cardname> attacks, another target attacking creature gets +1/+0 until end of turn. Create a token that’s a copy it <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Whenever <atom-name><nospellcheck>Ardleby Gatekeeper</nospellcheck></atom-name> attacks, another target attacking creature gets +1/+0 until end of turn. Create a token that’s a copy it <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>The empty throne of House <error-spelling:en_US>Phyre</error-spelling:en_US> tempts many would be aspiring nobility. None have succeeded.</i-flavor>
 	power: 3
 	toughness: 3

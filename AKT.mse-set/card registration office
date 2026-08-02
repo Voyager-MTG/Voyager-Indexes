@@ -21,9 +21,9 @@ card:
 	sub_type: <word-list-land></word-list-land>
 	rarity: common
 	rule_text:
-		As <atom-cardname><nospellcheck>Registration Office</nospellcheck></atom-cardname> enters, choose a creature type.
+		As <atom-name><nospellcheck>Registration Office</nospellcheck></atom-name> enters, choose a creature type.
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Registration Office</nospellcheck></atom-cardname>: Draw two cards. Activate only if you control three or more nontoken permanents with the chosen type.
+		<sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-name><nospellcheck>Registration Office</nospellcheck></atom-name>: Draw two cards. Activate only if you control three or more nontoken permanents with the chosen type.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Wonyong Jeong
 	card_code_text: 

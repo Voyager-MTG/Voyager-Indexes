@@ -30,8 +30,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Whenever you sacrifice a permanent, put a grave counter on <atom-cardname><nospellcheck>Throat of Remnants</nospellcheck></atom-cardname>.
-		<sym-auto>X</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Throat of Remnants</nospellcheck></atom-cardname>: Return target creature card with mana value X from your graveyard to the battlefield tapped. This ability costs <sym-auto>1</sym-auto> less for each grave counter on <atom-cardname><nospellcheck>Throat of Remnants</nospellcheck></atom-cardname>.
+		Whenever you sacrifice a permanent, put a grave counter on <atom-name><nospellcheck>Throat of Remnants</nospellcheck></atom-name>.
+		<sym-auto>X</sym-auto>, Sacrifice <atom-name><nospellcheck>Throat of Remnants</nospellcheck></atom-name>: Return target creature card with mana value X from your graveyard to the battlefield tapped. This ability costs <sym-auto>1</sym-auto> less for each grave counter on <atom-name><nospellcheck>Throat of Remnants</nospellcheck></atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

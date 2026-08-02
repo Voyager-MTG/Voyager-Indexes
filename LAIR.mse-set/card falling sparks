@@ -31,7 +31,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: mythic rare
-	rule_text: <kw-A><i-auto><nospellcheck><key>Converge</key></nospellcheck></i-auto></kw-A> — <atom-cardname><nospellcheck>Falling Sparks</nospellcheck></atom-cardname> deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. You gain that much life.
+	rule_text: <kw-A><i-auto><nospellcheck><key>Converge</key></nospellcheck></i-auto></kw-A> — Falling Sparks</atom-name> deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. You gain that much life.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ryky
 	custom_card_number: 4 — 005 • Top Cards I

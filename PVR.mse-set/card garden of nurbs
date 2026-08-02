@@ -17,9 +17,9 @@ card:
 	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Garden of Nurbs</nospellcheck></atom-cardname> enters the battlefield tapped.
+		<atom-name><nospellcheck>Garden of Nurbs</nospellcheck></atom-name> enters the battlefield tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
-		<sym-auto>1GG</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Garden of Nurbs</nospellcheck></atom-cardname> and a creature: Search your library for a creature card with mana value X or less, where X is the sacrificed creature’s mana value Put that card onto the battlefield, then shuffle. Activate only as a sorcery.
+		<sym-auto>1GG</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-name><nospellcheck>Garden of Nurbs</nospellcheck></atom-name> and a creature: Search your library for a creature card with mana value X or less, where X is the sacrificed creature’s mana value Put that card onto the battlefield, then shuffle. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Pure Poly
 	card_code_text: 

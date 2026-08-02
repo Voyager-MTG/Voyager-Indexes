@@ -15,7 +15,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		If you would put cards from your hand on the bottom of your library during mulligans, you may reveal <atom-cardname><nospellcheck>Eons of Ancestry</nospellcheck></atom-cardname> from your hand instead.
+		If you would put cards from your hand on the bottom of your library during mulligans, you may reveal <atom-name><nospellcheck>Eons of Ancestry</nospellcheck></atom-name> from your hand instead.
 		Enchanted creature gets +2/+2 for each permanent attached to it.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jonathan Lam

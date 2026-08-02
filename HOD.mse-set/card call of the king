@@ -23,7 +23,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Call of the King</nospellcheck></atom-cardname> enters, choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name.
+		When <atom-name><nospellcheck>Call of the King</nospellcheck></atom-name> enters, choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name.
 		Legendary creatures and Knights you control have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>Leon called upon the Houses to trust in his birthright and entered the <error-spelling:en_US>Geistwald</error-spelling:en_US>, leaving the <error-spelling:en_US>Aciesblade</error-spelling:en_US> completely alone.</i-flavor>
 	illustrator: Zombich

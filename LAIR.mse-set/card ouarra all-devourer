@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-04-29 14:48:20
-	time_modified: 2026-04-29 12:07:27
+	time_modified: 2026-08-02 01:58:27
 	name: Ouarra, All-Devourer
 	casting_cost: 6UB
-	image: image70
+	image: image131.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -24,7 +24,7 @@ card:
 	rule_text:
 		This spell costs <sym>1</sym> less to cast for each permanent with <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> you control and each instant card in your graveyard.
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		Whenever you cast a spell, you may have <atom-cardname><nospellcheck>Ouarra, All-Devourer</nospellcheck></atom-cardname> phase out. <i-auto>(Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</i-auto>
+		Whenever you cast a spell, you may have <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ouarra</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, All-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Devourer</atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words> phase out. <i-auto>(Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

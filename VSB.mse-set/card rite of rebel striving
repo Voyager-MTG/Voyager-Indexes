@@ -23,7 +23,7 @@ card:
 		Choose three. You may choose the same mode more than once.
 		<li><bullet>• </bullet>Destroy target artifact.
 		</li><li><bullet>• </bullet>Exile the top card of your library. Until the end of your next turn you may play that card.
-		</li><li><bullet>• </bullet>Choose two target creatures controlled by different players. <atom-cardname><nospellcheck>Rite of Rebel Striving</nospellcheck></atom-cardname> deals 2 damage to those creatures.</li>
+		</li><li><bullet>• </bullet>Choose two target creatures controlled by different players. <atom-name><nospellcheck>Rite of Rebel Striving</nospellcheck></atom-name> deals 2 damage to those creatures.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Aland_WR
 	card_code_text: 

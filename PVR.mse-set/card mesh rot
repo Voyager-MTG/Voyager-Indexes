@@ -14,8 +14,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>Mesh Rot</nospellcheck></atom-cardname> enters, exile up to one target enchantment or card from a graveyard.
-		<sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Mesh Rot</nospellcheck></atom-cardname>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then draw a card.
+		When <atom-name><nospellcheck>Mesh Rot</nospellcheck></atom-name> enters, exile up to one target enchantment or card from a graveyard.
+		<sym-auto>1</sym-auto>, Sacrifice <atom-name><nospellcheck>Mesh Rot</nospellcheck></atom-name>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then draw a card.
 	flavor_text: <i-flavor>The rot flips normal on its head.</i-flavor>
 	illustrator: Ethron981
 	card_code_text: 

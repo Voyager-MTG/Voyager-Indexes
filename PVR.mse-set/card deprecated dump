@@ -14,9 +14,9 @@ card:
 	sub_type: <word-list-land>Texture</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: uncommon
 	rule_text:
-		As <atom-cardname><nospellcheck>Deprecated Dump</nospellcheck></atom-cardname> enters, exile an untapped land you control until <atom-cardname><nospellcheck>Deprecated Dump</nospellcheck></atom-cardname> leaves the battlefield.
-		<atom-cardname><nospellcheck>Deprecated Dump</nospellcheck></atom-cardname> has all activated and triggered abilities of cards exiled by it.
-		Whenever you tap <atom-cardname><nospellcheck>Deprecated Dump</nospellcheck></atom-cardname> for mana, add <sym-auto>C</sym-auto>.
+		As <atom-name><nospellcheck>Deprecated Dump</nospellcheck></atom-name> enters, exile an untapped land you control until <atom-name><nospellcheck>Deprecated Dump</nospellcheck></atom-name> leaves the battlefield.
+		<atom-name><nospellcheck>Deprecated Dump</nospellcheck></atom-name> has all activated and triggered abilities of cards exiled by it.
+		Whenever you tap <atom-name><nospellcheck>Deprecated Dump</nospellcheck></atom-name> for mana, add <sym-auto>C</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Benjamin Del
 	card_code_text: 

@@ -28,7 +28,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		Draw three cards.
-		You may cast <atom-cardname><nospellcheck>The Deepmist Record</nospellcheck></atom-cardname> from your graveyard by paying <sym>WUBRG</sym> rather than paying its mana cost. 
+		You may cast <atom-name><nospellcheck>The Deepmist Record</nospellcheck></atom-name> from your graveyard by paying <sym>WUBRG</sym> rather than paying its mana cost. 
 	flavor_text: <i-flavor>The gramophone creaked to life, and Manuela and <error-spelling:en_US>Eteres</error-spelling:en_US> strained to hear the tired voice. “<soft-line>This was the plane of <error-spelling:en_US>Ischav</error-spelling:en_US>,<soft-line><soft-line>” it began.</soft-line></soft-line></soft-line></i-flavor>
 	illustrator: Golan Shviro
 	card_code_text: 

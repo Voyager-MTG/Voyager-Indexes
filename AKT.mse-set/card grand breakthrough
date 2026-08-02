@@ -28,7 +28,7 @@ card:
 	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Grand Breakthrough</nospellcheck></atom-cardname> deals 3 damage to each opponent. Draw three cards.
+		<atom-name><nospellcheck>Grand Breakthrough</nospellcheck></atom-name> deals 3 damage to each opponent. Draw three cards.
 		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-legname><nospellcheck>Grand Breakthrough</nospellcheck></atom-legname> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Wizard you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 

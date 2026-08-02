@@ -23,7 +23,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Illuminant Spire</nospellcheck></atom-cardname>: Search your library for an Island card, put it onto the battlefield, then shuffle.
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Illuminant</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Spire</atom-name>: Search your library for an Island card, put it onto the battlefield, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: VW
 	custom_card_number: 3 — 002 • 

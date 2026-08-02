@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>protection from <param-name>tokens</param-name></key></nospellcheck></kw-0>
-		When <atom-cardname><nospellcheck>Minister of Welfare</nospellcheck></atom-cardname> enters, if an opponent has more cards in hand than you, draw cards equal to the difference and you gain that much life.
+		When <atom-name><nospellcheck>Minister of Welfare</nospellcheck></atom-name> enters, if an opponent has more cards in hand than you, draw cards equal to the difference and you gain that much life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 8

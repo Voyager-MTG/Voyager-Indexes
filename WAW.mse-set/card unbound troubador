@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Unbound Troubador</nospellcheck></atom-cardname> enters, draw a card if you’ve cast a white or blue spell this turn. Then if you’ve cast a green or black spell this turn, target creature gets +2/+0 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		When <atom-name><nospellcheck>Unbound Troubador</nospellcheck></atom-name> enters, draw a card if you’ve cast a white or blue spell this turn. Then if you’ve cast a green or black spell this turn, target creature gets +2/+0 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

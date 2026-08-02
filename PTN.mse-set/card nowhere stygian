@@ -22,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Nowhere Stygian</nospellcheck></atom-cardname> enters, each opponent puts a foretold card to their graveyard or discards a card.
+		When <atom-name><nospellcheck>Nowhere Stygian</nospellcheck></atom-name> enters, each opponent puts a foretold card to their graveyard or discards a card.
 		Whenever a player discards one or more cards, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
