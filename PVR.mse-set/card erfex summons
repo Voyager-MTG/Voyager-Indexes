@@ -15,7 +15,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
-	rule_text: You may cast copies of spells from your graveyard with mana value equal to your <kw-A><nospellcheck><key>complexity</key></nospellcheck>. As an additional cost to cast spells this way, exile that card from your graveyard.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: You may cast copies of spells from your graveyard with mana value equal to your <kw-A><nospellcheck><key>complexity</key></nospellcheck>. As an additional cost to cast spells this way, exile that card from your graveyard.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Déborah Maradan
 	card_code_text: 

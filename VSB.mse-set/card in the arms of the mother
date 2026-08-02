@@ -30,7 +30,7 @@ card:
 		As an additional cost to cast this spell, sacrifice a creature.
 		Put a creature card from your sanctum with mana value X or less onto the battlefield, where X is 1 plus the sacrificed creature’s mana value.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost>Sacrifice two Clerics</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost>Sacrifice two Clerics</param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost>Sacrifice two Clerics</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
 	illustrator: Megalodonias
 	card_code_text: 
 	card_code_text_2: 

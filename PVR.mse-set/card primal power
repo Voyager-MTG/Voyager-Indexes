@@ -30,7 +30,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature gets +2/+0.
-		You may cast <atom-cardname><nospellcheck>Primal Power</nospellcheck></atom-cardname> from your graveyard if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+		You may cast <atom-cardname><nospellcheck>Primal Power</nospellcheck></atom-cardname> from your graveyard if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

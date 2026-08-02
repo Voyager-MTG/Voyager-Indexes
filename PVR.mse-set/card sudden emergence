@@ -15,7 +15,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		Draw three cards.
-		If five or more permanents incremented your <kw-A><nospellcheck><key>complexity</key></nospellcheck> this turn, you may cast a spell from your hand without paying its mana cost.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+		If five or more permanents incremented your <kw-A><nospellcheck><key>complexity</key></nospellcheck> this turn, you may cast a spell from your hand without paying its mana cost.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Adam Midzuk
 	card_code_text: 

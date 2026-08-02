@@ -16,7 +16,7 @@ card:
 		PENCILIN
 		ARTIFICERTYPE
 	time_created: 2022-06-21 13:39:09
-	time_modified: 2024-11-17 18:16:35
+	time_modified: 2026-08-02 02:43:05
 	name: Argent Court Enraged
 	casting_cost: 1GU
 	image: image80
@@ -29,11 +29,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text:
-		At the beginning of combat on your turn, tap X other untapped artifacts or enchantments you control.<soft-line>
-		</soft-line>If X is 1 or more, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.<soft-line>
-		</soft-line>If X is 3 or more, draw a card.<soft-line>
-		</soft-line>If X is 6 or more, <atom-cardname><nospellcheck>Argent Court Enraged</nospellcheck></atom-cardname> becomes a 6/5 Artificer Noble creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	rule_text: Tap an untapped artifact, enchantment, or Artificer you control: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0> if this is the first time this ability has resolved this turn. Draw a card if it’s the third time. <atom-cardname><nospellcheck>Argent Court Enraged</nospellcheck></atom-cardname> becomes a 6/5 Artificer Noble creature with <kw-0><nospellcheck><key>trample</key></nospellcheck></kw-0> until end of turn if it’s the sixth time.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 

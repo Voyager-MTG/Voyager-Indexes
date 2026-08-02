@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: COLOURLESSUNCOMMON
 	time_created: 2021-10-10 04:09:00
-	time_modified: 2025-02-20 03:28:48
+	time_modified: 2026-07-23 20:55:21
 	name: Abstraction Peeler
 	casting_cost: 2
 	image: image168
@@ -25,7 +25,7 @@ card:
 	rule_text: Whenever a permanent you control enters tapped, untap it and <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“Reanimated Obsolete lose nothing important in a <error-spelling:en_US>nilshroud</error-spelling:en_US>. Only their sanity.”<soft-line>
-		—<error-spelling:en_US>Prawth</error-spelling:en_US>, Planar <error-spelling:en_US>Decimator</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Merion</error-spelling:en_US>, Planar Smuggler</soft-line></i-flavor>
 	power: 1
 	toughness: 3
 	illustrator: Mat Szulik

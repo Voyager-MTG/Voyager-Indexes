@@ -5,7 +5,7 @@ card:
 		BLUEUNCOMMON
 		UU06
 	time_created: 2022-03-08 04:03:47
-	time_modified: 2024-11-08 13:50:27
+	time_modified: 2026-07-23 20:57:15
 	name: Rastira Reconstructor
 	casting_cost: 2U
 	image: image234
@@ -16,9 +16,11 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Rastira Reconstructor</nospellcheck></atom-cardname> enters, search your library for a card, put that card into your graveyard, then shuffle.
+		When <atom-cardname><nospellcheck>Rastira Reconstructor</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>surveil <param-number>5</param-number></key></nospellcheck></kw-0>.
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text:
+		<i-flavor>“To lift a full ocean... <error-spelling:en_US>Merion</error-spelling:en_US> clearly is distracted. She won’t notice a few baubles missing here and there.”<soft-line>
+		— <error-spelling:en_US>Skirweigh</error-spelling:en_US>, Abyssal <error-spelling:en_US>Tsar</soft-line></i-flavor></error-spelling:en_US>
 	power: 1
 	toughness: 4
 	illustrator: Nicholas Myers

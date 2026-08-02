@@ -3,20 +3,28 @@ card:
 	has_styling: false
 	notes: REDRARE8
 	time_created: 2021-12-25 04:38:22
-	time_modified: 2026-02-01 08:51:14
+	time_modified: 2026-07-23 20:37:31
 	name: Extinct Rebel
-	casting_cost: 1RR
+	casting_cost: 2R
 	image: image187
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever <atom-cardname><nospellcheck>Extinct Rebel</nospellcheck></atom-cardname> attacks, return up to one target permanent card with mana value 2 or less from your graveyard to the battlefield with a <kw-0><nospellcheck><key>finality counter</key></nospellcheck></kw-0> on it, except it’s not a creature. If you do, exile it at the beginning of the next end step.
-	flavor_text: <i-flavor></i-flavor>
-	power: 3
-	toughness: 3
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		If a player would gain life, that player gets that many <sym>V</sym> instead. <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto>
+	flavor_text: <i-flavor>Of all the people to survive a thousand years of <error-spelling:en_US>Nilshroud</error-spelling:en_US> torment, she regrets it was someone as useless as her.</i-flavor>
+	power: 2
+	toughness: 4
 	illustrator: Mat Szulik
 	card_code_text: 
 	card_code_text_2: 

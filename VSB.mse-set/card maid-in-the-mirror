@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.reddit.com/r/weatherfactory/comments/1or9pbd/maid_in_the_mirror/
 	time_created: 2026-03-05 17:28:26
-	time_modified: 2026-07-01 21:00:52
+	time_modified: 2026-08-01 01:50:41
 	name: Maid-in-the-Mirror
 	casting_cost: WU
 	image: image24.png
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Maid-in-the-Mirror</nospellcheck></atom-cardname> and other creatures you control enter from exile with an additional +1/+1 counter on them.
+		<atom-cardname><nospellcheck>Maid-in-the-Mirror</nospellcheck></atom-cardname> and other creatures you control that entered or were cast from exile enter with an additional +1/+1 counter on them.
 		<kw-A><nospellcheck><key>Foretell <param-cost><sym-auto>W/U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may pay <sym>2</sym> and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

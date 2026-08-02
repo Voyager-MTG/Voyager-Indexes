@@ -5,7 +5,7 @@ card:
 		changed to instant
 		!addtoken Through Violence;conjure:3;
 	time_created: 2024-08-16 12:23:08
-	time_modified: 2025-12-02 18:10:16
+	time_modified: 2026-08-01 02:28:19
 	card_trim: clear
 	name: Meet the Beyond
 	casting_cost: 2
@@ -22,7 +22,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: You gain 2 life. Draw a card. Conjure three copies of Through Violence into your library, then shuffle. <i-auto>(It’s a <sym>4</sym> sorcery with “Exile target nonland permanent. Draw a card.”)</i-auto>
+	rule_text: You gain 2 life, draw a card, conjure three copies of Through Violence into your library, then shuffle. <i-auto>(It’s a <sym>4</sym> sorcery with “Exile target nonland permanent. Draw a card.”)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 

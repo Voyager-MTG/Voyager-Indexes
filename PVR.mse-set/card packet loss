@@ -5,7 +5,7 @@ card:
 		BLUECOMMON
 		CU16
 	time_created: 2021-10-08 06:32:42
-	time_modified: 2022-09-13 08:51:42
+	time_modified: 2026-07-23 20:53:15
 	name: Packet Loss
 	casting_cost: U
 	image: image277
@@ -22,7 +22,7 @@ card:
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:
-		<i-flavor>“The <error-spelling:en_US>nilshroud</error-spelling:en_US> storms have worsened since that <error-spelling:en_US>Prawth</error-spelling:en_US> fellow appeared.”<soft-line>
+		<i-flavor>“The <error-spelling:en_US>nilshroud</error-spelling:en_US> storms have worsened since that <error-spelling:en_US>Merion</error-spelling:en_US> fellow appeared.”<soft-line>
 		—<error-spelling:en_US>Skirweigh</error-spelling:en_US>, Abyssal <error-spelling:en_US>Tsar</soft-line></i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>

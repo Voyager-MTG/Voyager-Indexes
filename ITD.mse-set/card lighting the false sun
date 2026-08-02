@@ -5,7 +5,7 @@ card:
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
-		snap_chapter_to_box: 1,2,2
+		snap_chapter_to_box: 1,2,2,2
 		chapter_divider_coordinates: 
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -37,5 +37,5 @@ card:
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		I — Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
-		II, III — <soft-line>You may put a creature card with mana value 2 or less from your hand onto the battlefield.</soft-line>
+		II, III, IV — <soft-line>You may put a creature card with mana value 2 or less from your hand onto the battlefield.</soft-line>
 		​

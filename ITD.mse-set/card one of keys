@@ -12,7 +12,7 @@ card:
 		https://www.deviantart.com/valentina-remenar/art/Key-To-Opportunity-811532774
 		changed to not be an engine
 	time_created: 2024-10-17 19:22:16
-	time_modified: 2025-11-25 12:49:14
+	time_modified: 2026-08-01 02:30:02
 	name: One of Keys
 	casting_cost: 1WW
 	image: image404
@@ -25,7 +25,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Changeling</key></nospellcheck><atom-reminder-expert> <i-auto>(This card is every creature type.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>2WW</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>2WW</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>One of Keys</nospellcheck></atom-cardname> deals combat damage to a player, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle.
+		Whenever <atom-cardname><nospellcheck>One of Keys</nospellcheck></atom-cardname> deals combat damage to a player, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

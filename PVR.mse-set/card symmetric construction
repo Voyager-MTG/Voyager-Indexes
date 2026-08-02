@@ -21,7 +21,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: Whenever you cast a noncreature spell, if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is greater than twice its mana value, copy that spell. You may choose new targets for it.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: Whenever you cast a noncreature spell, if your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is greater than twice its mana value, copy that spell. You may choose new targets for it.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Lars Grevsmühl
 	card_code_text: 

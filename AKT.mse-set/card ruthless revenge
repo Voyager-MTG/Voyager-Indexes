@@ -5,7 +5,7 @@ card:
 		REDRARE
 		INCARNATIONTYPE
 	time_created: 2024-02-09 03:40:44
-	time_modified: 2025-04-01 05:23:23
+	time_modified: 2026-07-23 21:58:19
 	name: Ruthless Revenge
 	casting_cost: R
 	image: image87.png
@@ -22,11 +22,11 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Ruthless Revenge</nospellcheck></atom-cardname> attacks or blocks, if a creature hasn’t died this turn, sacrifice a creature.
-		Sacrifice <atom-cardname><nospellcheck>Ruthless Revenge</nospellcheck></atom-cardname>, Discard a card: Draw a card.
+		<sym-auto>R</sym-auto>, <sym-auto>T</sym-auto>, Discard a card: Choose a permanent you control with a creature type. Create a red 1/1 creature token with its creature types named Recruit.
+		Tap six permanents you control with a creature type: Ruthless Revenge deals 6 damage to each opponent.
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
-	toughness: 3
+	power: 1
+	toughness: 1
 	illustrator: Logan Feliciano
 	card_code_text: 
 	card_code_text_2: 

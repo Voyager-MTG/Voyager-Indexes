@@ -5,7 +5,7 @@ card:
 		!spellbook I5;1
 		changed to 3UU from 4UU
 	time_created: 2024-08-28 00:13:31
-	time_modified: 2025-11-21 23:35:34
+	time_modified: 2026-08-01 02:32:27
 	name: Lammasu, Dream-Stilled
 	casting_cost: 3UU
 	image: image236
@@ -17,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When this creature enters, return target instant or sorcery card from your graveyard to your hand.
+		When Lammasu enters, return target instant or sorcery card from your graveyard to your hand.
 		<kw-A><nospellcheck><key>Iterate</key></nospellcheck><atom-reminder-custom> <i-auto>(When this enters, conjure a colorless <sym>6</sym> 4/4 artifact creature version of it without iterate into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

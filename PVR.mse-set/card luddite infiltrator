@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Luddite Infiltrator</nospellcheck></atom-cardname> enters, exile target instant or sorcery card from your graveyard. You may cast it on any turn your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Luddite Infiltrator</nospellcheck></atom-cardname> enters, exile target instant or sorcery card from your graveyard. You may cast it on any turn your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

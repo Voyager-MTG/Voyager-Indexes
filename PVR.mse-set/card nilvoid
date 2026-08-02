@@ -5,17 +5,23 @@ card:
 	has_styling: false
 	notes: !related Dynotopic Stampede;
 	time_created: 2022-05-31 06:19:51
-	time_modified: 2022-05-31 06:30:08
+	time_modified: 2026-07-23 20:38:45
 	name: Nilvoid
 	image: image311
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Token Land</word-list-type-en>
-	sub_type: <word-list-land></word-list-land>
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text:
-		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>
 		<sym-auto>T</sym-auto>: Add one mana of any color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Mat Szulik

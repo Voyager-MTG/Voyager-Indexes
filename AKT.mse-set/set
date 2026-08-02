@@ -380,6 +380,7 @@ include_file: card callwolf replica
 include_file: card endless vassals
 include_file: card thoughtglass shaper
 include_file: card serf
+include_file: card ruthless revenge.1
 keyword:
 	keyword: Galvanise
 	match: galvanise

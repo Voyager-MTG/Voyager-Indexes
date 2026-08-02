@@ -22,7 +22,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-A><nospellcheck><key>Bloom</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Bloom</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever you cast a noncreature spell, you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

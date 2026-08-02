@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Bloom</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Bloom</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>
 		Exile three cards from your graveyard: <atom-cardname><nospellcheck>Sapner Vindicator</nospellcheck></atom-cardname> becomes an artifact until end of turn. <i-auto>(It’s no longer a creature this turn.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>

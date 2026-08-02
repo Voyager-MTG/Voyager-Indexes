@@ -23,7 +23,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, <atom-cardname><nospellcheck>Rastira Mauler</nospellcheck></atom-cardname> fights up to one target creature you don’t control. This ability triggers only once each turn.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, <atom-cardname><nospellcheck>Rastira Mauler</nospellcheck></atom-cardname> fights up to one target creature you don’t control. This ability triggers only once each turn.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3

@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>, Tap an untapped creature you control: Add one mana of any color.
-		Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, untap up to one target creature and put a +1/+1 counter on it. This ability triggers only once each turn.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+		Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, untap up to one target creature and put a +1/+1 counter on it. This ability triggers only once each turn.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Mohammed Chahin
 	card_code_text: 

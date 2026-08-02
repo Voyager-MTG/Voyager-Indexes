@@ -10,7 +10,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://windydrawallday.tumblr.com/post/154315147365/living-nightmares
 	time_created: 2024-10-13 22:35:58
-	time_modified: 2026-06-01 13:05:52
+	time_modified: 2026-08-01 02:22:19
 	name: Imprisoned Aspect
 	casting_cost: 1G
 	image: image300
@@ -22,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Impending <param-number>4</param-number>—<param-cost><sym>1G</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(If this spell was cast for its impending cost, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)</i-auto>
-		Whenever a time counter is removed from <atom-cardname><nospellcheck>Imprisoned Aspect</nospellcheck></atom-cardname>, put a +1/+1 counter on target creature or enchantment you control.
+		Whenever a time counter is removed from this permanent, put a +1/+1 counter on target creature or enchantment you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

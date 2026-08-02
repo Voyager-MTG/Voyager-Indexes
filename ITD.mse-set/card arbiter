@@ -12,7 +12,7 @@ card:
 		https://www.tumblr.com/witnesstheabsurd/723270931458457600/an-arbiter
 		changed to add ward 2.
 	time_created: 2024-08-27 13:55:19
-	time_modified: 2026-03-01 10:10:29
+	time_modified: 2026-08-01 02:32:17
 	card_trim: clear, legend
 	name: Arbiter
 	casting_cost: 5
@@ -27,7 +27,7 @@ card:
 		<i-auto>(Creatures don’t lose loyalty from damage.)</i-auto>
 		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
 		<sym-auto>+1</sym-auto>: Up to one other target permanent <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0> until your next turn.
-		<sym-auto>-3</sym-auto>: This creature deals 7 damage to target creature or planeswalker.
+		<sym-auto>-3</sym-auto>: Arbiter deals 7 damage to target creature or planeswalker.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5

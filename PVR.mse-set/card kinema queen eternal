@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: MONARCHCYCLE
 	time_created: 2022-04-06 11:26:54
-	time_modified: 2025-02-19 21:05:27
+	time_modified: 2026-07-23 21:09:47
 	card_color: white, blue, red, multicolor, horizontal
 	name: Kinema, Queen Eternal
 	casting_cost: 1URW
@@ -24,7 +24,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
-		If you would copy a spell or create a token that’s a copy of a permanent one or more times, do so an additional time.
+		Whenever you cast a copy of a spell, copy that spell. You may choose new targets for the copy.
+		If you would create one or more tokens that’s a copy of a permanent, instead create that many tokens plus one.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 5

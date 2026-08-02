@@ -22,7 +22,7 @@ card:
 	rarity: common
 	rule_text:
 		Put target permanent on top of its owner’s library.
-		If your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, draw a card.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+		If your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, draw a card.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

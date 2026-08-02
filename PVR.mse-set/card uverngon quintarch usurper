@@ -22,7 +22,7 @@ card:
 	sub_type: <word-list-race-en>Fractal</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Human</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Whenever an opponent’s <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, you gain 2 life and draw a card. This ability triggers only once each turn.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+		Whenever an opponent’s <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, you gain 2 life and draw a card. This ability triggers only once each turn.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 		An opponent with <kw-0><nospellcheck><key>complexity</key></nospellcheck></kw-0> three or greater can’t cast spells or activate abilities.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

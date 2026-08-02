@@ -21,7 +21,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Other Dinosaurs you control get +1/+1.
-		Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, create a 3/3 green Dinosaur creature token. This ability triggers only once each turn.<atom-reminder-action> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-action></kw-A>
+		Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, create a 3/3 green Dinosaur creature token. This ability triggers only once each turn.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

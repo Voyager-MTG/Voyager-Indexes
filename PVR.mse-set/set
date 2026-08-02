@@ -6,7 +6,7 @@ stylesheet_version: 2024-09-23
 set_info:
 	title: Primivir
 	description: !designer Myr
-	copyright: Utaha
+	copyright: Utaha 2022
 	set_code: PVR
 	set_language: UV
 	symbol: symbol30.mse-symbol
@@ -163,7 +163,7 @@ include_file: card orchard vixen
 include_file: card the downscaling
 include_file: card vertex reminder
 include_file: card font of decadence
-include_file: card prawth planar decimator
+include_file: card merion planar smuggler
 include_file: card cache dredger
 include_file: card horizon collector
 include_file: card a populated world
@@ -178,7 +178,7 @@ include_file: card extinct rebel
 include_file: card slumbering dreadblade
 include_file: card nightmarish terrain
 include_file: card savage pike
-include_file: card prawths research station
+include_file: card merions research station
 include_file: card symmetric construction
 include_file: card defragment
 include_file: card obsolete renaissance
@@ -367,7 +367,7 @@ include_file: card bitrot nilshroud parasite
 include_file: card the metaball
 include_file: card fertile progengon
 include_file: card deified dicraeosaur
-include_file: card prawths ultimatum
+include_file: card merions ultimatum
 include_file: card backwards companion
 include_file: card novel perspectives
 include_file: card felygon skyswarm

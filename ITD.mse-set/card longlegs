@@ -5,7 +5,7 @@ card:
 		https://www.deviantart.com/dariuszkieliszek/art/Welcome-To-The-House-of-Phosgene-1107029061
 		changed to 5/5
 	time_created: 2024-10-15 16:32:54
-	time_modified: 2026-06-01 13:06:00
+	time_modified: 2026-08-01 02:23:05
 	name: Longlegs
 	casting_cost: 5BB
 	image: image319
@@ -17,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Impending <param-number>5</param-number>—<param-cost><sym>1BB</sym> </param-cost></key></nospellcheck></kw-0> <i-auto>(If this spell was cast for its impending cost, it enters with five time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)</i-auto>
-		Whenever <atom-cardname><nospellcheck>Longlegs</nospellcheck></atom-cardname> enters or attacks, each opponent sacrifices a creature.
+		Whenever this permanent enters or attacks, each opponent sacrifices a creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5

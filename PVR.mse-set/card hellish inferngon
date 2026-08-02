@@ -5,7 +5,7 @@ card:
 		REDCOMMON
 		CR07
 	time_created: 2021-10-10 04:09:00
-	time_modified: 2024-11-08 13:41:07
+	time_modified: 2026-07-23 20:53:40
 	card_color: red
 	name: Hellish Inferngon
 	casting_cost: 3R
@@ -19,7 +19,7 @@ card:
 	rule_text: When <atom-cardname><nospellcheck>Hellish Inferngon</nospellcheck></atom-cardname> enters, add three mana in any combination of colors and <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-action> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Manaless</error-spelling:en_US>, <error-spelling:en_US>primivirin</error-spelling:en_US> horrors sustain themselves with a twisted alternative.”<soft-line>
-		—<error-spelling:en_US>Prawth</error-spelling:en_US>, Planar <error-spelling:en_US>Decimator</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Merion</error-spelling:en_US>, Planar <error-spelling:en_US>Decimator</soft-line></i-flavor></error-spelling:en_US>
 	power: 3
 	toughness: 3
 	illustrator: Skye Freeman
