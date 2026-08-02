@@ -31,7 +31,7 @@ card:
 	sub_type_4: 
 	rarity: masterpiece
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, each opponent sacrifices a creature.
+		When <atom-name><nospellcheck>this creature</nospellcheck></atom-name> enters, each opponent sacrifices a creature.
 		Once during each of your turns, when a nontoken creature dies, you may create a token that’s a copy of it. It gains <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 

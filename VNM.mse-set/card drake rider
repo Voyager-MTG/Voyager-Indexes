@@ -24,8 +24,8 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 2/2 white Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
-		As long as you control another creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		When <atom-name>this creature</atom-name> enters, create a 2/2 white Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		As long as you control another creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <atom-name>this creature</atom-name> has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text:
 		<i-flavor>“Always trust your scout.” <soft-line>
 		</soft-line>—<error-spelling:en_US>Fadove</error-spelling:en_US> saying.</i-flavor>

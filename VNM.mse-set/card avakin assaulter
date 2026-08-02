@@ -31,7 +31,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or a spell or ability puts a card into your hand, target creature you control gets +2/+0 until end of turn.
+	rule_text: Whenever <atom-name>this creature</atom-name> enters or a spell or ability puts a card into your hand, target creature you control gets +2/+0 until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor><error-spelling:en_US>Shivta’s</error-spelling:en_US> warriors had been known to protect the respite with a ruthlessness beyond necessity. Even still, their heart bleeds when a single life is lost within their walls.</i-flavor>

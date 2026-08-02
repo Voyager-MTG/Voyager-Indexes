@@ -21,8 +21,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Sycophant
-		At the beginning of your upkeep, <atom-cardname><nospellcheck>Sanguine Chalice</nospellcheck></atom-cardname> deals 1 damage to each opponent and you gain 1 life.
+		<kw-A><nospellcheck><key>Sycophant</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this permanent deals damage to a player or planeswalker, the next spell you cast this turn costs <sym>1</sym> less to cast.)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of your upkeep, <atom-name>Sanguine Chalice</atom-name> deals 1 damage to each opponent and you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Pedro Sena
 	card_code_text: 

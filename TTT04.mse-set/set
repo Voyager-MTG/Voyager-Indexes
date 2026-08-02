@@ -137,6 +137,24 @@ keyword:
 	reminder: Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.
 	rules: 
 	mode: custom
+keyword:
+	keyword: Trace
+	match: create a trace
+	reminder: Traces are cards that become copies when they enter public zones.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Trace
+	match: trace<atom-param>*s</atom-param> <atom-param>name</atom-param>
+	reminder: Traces can’t exist in graveyards or exile and are tokens while on the battlefield.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Sycophant
+	match: sycophant
+	reminder: Whenever this {if has_pt () then "creature" else "permanent"} deals damage to a player or planeswalker, the next spell you cast this turn costs <sym>1</sym> less to cast.
+	rules: 
+	mode: custom
 version_control:
 	type: none
 apprentice_code: 

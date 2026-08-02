@@ -16,9 +16,9 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Wrecking Rover</nospellcheck></atom-cardname> enters, search your library for a basic land card or a Texture card, put it onto the battlefield tapped, then shuffle.
-		<atom-cardname><nospellcheck>Wrecking Rover</nospellcheck></atom-cardname> attacks each combat if able.
-		When <atom-cardname><nospellcheck>Wrecking Rover</nospellcheck></atom-cardname> leaves the battlefield, sacrifice a land.
+		When <atom-name>Wrecking Rover</atom-name> enters, search your library for a basic land card or a Texture card, put it onto the battlefield tapped, then shuffle.
+		<atom-name>Wrecking Rover</atom-name> attacks each combat if able.
+		When <atom-name>Wrecking Rover</atom-name> leaves the battlefield, sacrifice a land.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

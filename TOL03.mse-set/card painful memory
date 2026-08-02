@@ -16,7 +16,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Painful Memory</nospellcheck></atom-cardname> enters, target player discards a card. If that player didn’t discard a creature card this way, they lose 3 life.
+	rule_text: When <atom-name>Painful Memory</atom-name> enters, target player discards a card. If that player didn’t discard a creature card this way, they lose 3 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

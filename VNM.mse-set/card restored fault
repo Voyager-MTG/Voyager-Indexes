@@ -31,7 +31,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		This land enters tapped.
-		When <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		When <atom-name>this land</atom-name> enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto>.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost><sym-auto>1</sym-auto>, Pay 2 life</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1</sym-auto>, Pay 2 life</param-cost>, reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>

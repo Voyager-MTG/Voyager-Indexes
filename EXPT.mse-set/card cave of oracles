@@ -24,7 +24,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, you get <sym>V/U</sym>. <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto>
+		When <atom-name>this enchantment</atom-name> enters, you get <sym>V/U</sym>. <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto>
 		Whenever your <kw-A><nospellcheck><key>complexity</key></nospellcheck> is three or greater, up to one other target permanent you control becomes a 0/0 creature until end of turn. Put two +1/+1 counters on it. This ability triggers only once each turn.<atom-reminder-custom> <i-auto>(Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Calder Moore

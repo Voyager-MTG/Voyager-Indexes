@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>Heirloom of the Obsolete</nospellcheck></atom-cardname> enters, create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		When <atom-name>Heirloom of the Obsolete</atom-name> enters, create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 		Equipped creature gets +2/+0.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>

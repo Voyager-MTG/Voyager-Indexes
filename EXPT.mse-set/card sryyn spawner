@@ -29,7 +29,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
 		This creature can’t block.
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, create a 2/2 silver Insect Plant token with <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-name>this creature</atom-name> dies, create a 2/2 silver Insect Plant token with <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

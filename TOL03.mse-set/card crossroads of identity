@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rarity: common
-	rule_text: <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Crossroads of Identity</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then you may exile three cards from your graveyard. If you do, untap that land.
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice <atom-name>Crossroads of Identity</atom-name>: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then you may exile three cards from your graveyard. If you do, untap that land.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>

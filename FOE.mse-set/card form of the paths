@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/JrVm8A
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2025-08-04 23:03:47
+	time_modified: 2026-07-28 23:02:21
 	name: Form of the Paths
-	casting_cost: 5RR
+	casting_cost: 2RR
 	image: image435
 	image_2: 
 	mainframe_image: 
@@ -22,8 +22,7 @@ card:
 	rule_text:
 		You may play cards from your sanctum.
 		You can’t play cards from your hand.
-		At the beginning of your upkeep, your life total becomes equal to the number of cards in your sanctum.
-		<sym-auto>5RR</sym-auto>: Destroy <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
+		<sym-auto>2RR</sym-auto>: Destroy <atom-name>this enchantment</atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

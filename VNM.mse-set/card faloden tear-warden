@@ -30,8 +30,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<sym-auto>2</sym-auto>: Exile target card from a graveyard. If you do, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
-		<sym-auto>6</sym-auto>, <sym-auto>T</sym-auto>: Put a card exiled by <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> on the bottom of its owners library. When you do, cast a copy of that spell without paying its mana cost.
+		<sym-auto>2</sym-auto>: Exile target card from a graveyard. If you do, put a +1/+1 counter on <atom-name>this creature</atom-name>.
+		<sym-auto>6</sym-auto>, <sym-auto>T</sym-auto>: Put a card exiled by <atom-name>this creature</atom-name> on the bottom of its owners library. When you do, cast a copy of that spell without paying its mana cost.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

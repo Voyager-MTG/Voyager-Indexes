@@ -28,7 +28,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<kw-1><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-1>
+		<kw-1><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-1>
 		Draw two cards. If you’ve illuminated blue, draw an additional card.
 	rule_text_2: 
 	rule_text_3: 

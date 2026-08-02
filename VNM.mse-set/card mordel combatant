@@ -33,7 +33,7 @@ card:
 	rarity: rare
 	rule_text:
 		Enchantments you control have “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: This deals 1 damage to target opponent.”
-		<kw-a><nospellcheck><key>Equip <param-name>abilities you activate that target <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> cost</param-name> <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a> less to activate.
+		<kw-a><nospellcheck><key>Equip <param-name>abilities you activate that target <atom-name>this creature</atom-name> cost</param-name> <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a> less to activate.
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: <kw-A><nospellcheck><key>Pathbound <param-cost><sym-auto>I</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>I</sym-auto></param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
 	power: 1

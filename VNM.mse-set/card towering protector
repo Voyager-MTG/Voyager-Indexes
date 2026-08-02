@@ -21,7 +21,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		<soft-line>As long as <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> is equipped, enchanted, or has a counter on it, this creature may attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.</soft-line>
+		<soft-line>As long as <atom-name>this creature</atom-name> is equipped, enchanted, or has a counter on it, this creature may attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.</soft-line>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Ancient structures, built to protect the meek and destroy the brazen.</i-flavor>

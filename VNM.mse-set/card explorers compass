@@ -35,7 +35,7 @@ card:
 		Whenever equipped creature attacks, you may cast a copy of this artifact’s skill or the equipped creature’s skill.
 		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>
 		<b>Warped Exploration</b> <sym>2</sym>| <u>Skill Sorcery</u><soft-line>
-		</soft-line><kw-0><nospellcheck><key>Trace <param-name>a basic land card of any type into your hand.</param-name></key></nospellcheck></kw-0>
+		</soft-line>Trace a basic land card of any type into your hand.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

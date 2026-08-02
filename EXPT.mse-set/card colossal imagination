@@ -8,7 +8,7 @@ card:
 		
 		Added in the keywords tab
 	time_created: 2025-08-06 21:38:37
-	time_modified: 2026-04-21 19:12:24
+	time_modified: 2026-08-02 00:07:16
 	name: Colossal Imagination
 	casting_cost: 2G
 	image: image7
@@ -25,8 +25,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, trace Colossal <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Dreadmaw</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> into your hand. <i-auto>(Create that card. It’s a <sym>4GG</sym> 6/6 Dinosaur creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>. Traces are cards that become copies when they enter public zones.)</i-auto>
-		Whenever you cast a spell with mana value 4 or greater, <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck><atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>this enchantment</atom-name> enters, create a trace of a card named Colossal <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Dreadmaw</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> into your hand. <i-auto>(Create that card. It’s a <sym>4GG</sym> 6/6 Dinosaur creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>. Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto>
+		Whenever you cast a spell with mana value 4 or greater, <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Auftakt218
 	card_code_text: • CC01 • SilverParabellum

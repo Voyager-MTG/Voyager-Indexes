@@ -28,7 +28,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: <atom-name>This creature</atom-cardname> can’t be blocked.
+	rule_text: <atom-name>This creature</atom-name> can’t be blocked.
 	rule_text_2: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then return up to one card milled this way to your hand. <i-auto>(Then put this card into its owner’s sanctum.)</i-auto>
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

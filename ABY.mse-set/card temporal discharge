@@ -12,7 +12,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: <atom-cardname><nospellcheck>Temporal Discharge</nospellcheck></atom-cardname> deals 6 damage to target creature. If that creature was dealt excess damage this way, <kw-A><nospellcheck><key>you get</key></nospellcheck> that many <sym>V</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <atom-name>Temporal Discharge</atom-name> deals 6 damage to target creature. If that creature was dealt excess damage this way, <kw-A><nospellcheck><key>you get</key></nospellcheck> that many <sym>V</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>Days since last accident: -1.</i-flavor>
 	illustrator: Kevin Sidharta
 	card_code_text: 

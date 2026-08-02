@@ -29,7 +29,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Once each turn, when you put one or more counters on another nonland permanent you control, you may put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+	rule_text: Once each turn, when you put one or more counters on another nonland permanent you control, you may put a +1/+1 counter on <atom-name>this creature</atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:

@@ -18,7 +18,7 @@ card:
 	rarity: rare
 	rule_text:
 		The Usurper must be blocked if able.
-		Whenever a creature you control attacks, move a counter from target permanent an opponent controls onto The Usurper.</atom-cardname><atom-name>
+		Whenever a creature you control attacks, move a counter from target permanent an opponent controls onto The Usurper.</atom-name><atom-name>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4

@@ -23,8 +23,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice another artifact or creature: Draw a card and put a charge counter on <atom-cardname><nospellcheck>Naval Artillery</nospellcheck></atom-cardname>.
-		<sym-auto>3UR</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Naval Artillery</nospellcheck></atom-cardname>: <atom-cardname><nospellcheck>Naval Artillery</nospellcheck></atom-cardname> deals damage to each opponent equal to the number of charge counters on <atom-cardname><nospellcheck>Naval Artillery</nospellcheck></atom-cardname>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice another artifact or creature: Draw a card and put a charge counter on <atom-name>Naval Artillery</atom-name>.
+		<sym-auto>3UR</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-name>Naval Artillery</atom-name>: <atom-name>Naval Artillery</atom-name> deals damage to each opponent equal to the number of charge counters on <atom-name>Naval Artillery</atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Mihail Gard
 	card_code_text: 

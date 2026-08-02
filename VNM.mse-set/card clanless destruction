@@ -21,8 +21,8 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, it deals 2 damage to target creature.
-		<sym-auto>R</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>: This enchantment deals 1 damage to target opponent.
+		When <atom-name>this enchantment</atom-name> enters, it deals 2 damage to target creature.
+		<sym-auto>R</sym-auto>, Sacrifice <atom-name>this enchantment</atom-name>: This enchantment deals 1 damage to target opponent.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

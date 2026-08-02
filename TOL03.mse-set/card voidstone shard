@@ -25,7 +25,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: When <atom-cardname><nospellcheck>Voidstone Shard</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>scry <param-number>2</param-number></key></nospellcheck>.<atom-reminder-core> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them on the bottom and the rest on top in any order.)</i-auto></atom-reminder-core></kw-1>
+	rule_text: When <atom-name>Voidstone Shard</atom-name> enters, <kw-1><nospellcheck><key>scry <param-number>2</param-number></key></nospellcheck>.<atom-reminder-core> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them on the bottom and the rest on top in any order.)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: LucidDarkmoon
 	card_code_text: 

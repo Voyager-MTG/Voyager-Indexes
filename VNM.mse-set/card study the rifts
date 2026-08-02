@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
 		<kw-a><nospellcheck><key>Scry <param-number><kw-A>2</param-number></key></nospellcheck></kw-a>, then draw two cards. If you’ve illuminated blue, instead <kw-a><nospellcheck><key>scry <param-number>4</param-number></key></nospellcheck></kw-a>, then draw two cards.
 	rule_text_2: 
 	rule_text_3: 

@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: Preview
 	time_created: 2021-01-31 20:53:58
-	time_modified: 2026-06-27 21:44:04
+	time_modified: 2026-07-31 22:28:09
 	extra_data:
 		magic-m15-altered-plus:
 			corner: instant
@@ -33,7 +33,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Kaln-Ocean Cloak</nospellcheck></atom-cardname> enters, trace its skill into your hand.
+		When <atom-name>Kaln-Ocean Cloak</atom-name> enters, <kw-A><nospellcheck><key>create a trace</key></nospellcheck> of its skill into your hand.<atom-reminder-custom> <i-auto>(Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 		<b>Cut from <kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A> <sym>2U</sym>| </b><u>Skill Instant</u><soft-line>

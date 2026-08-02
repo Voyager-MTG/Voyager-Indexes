@@ -29,7 +29,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>R</sym-auto>, <sym-auto>T</sym-auto>, Put a card from your hand into your sanctum: Draw a card.
-		Whenever <atom-cardname><nospellcheck>Sanctum Trader</nospellcheck></atom-cardname> attacks, choose a nonland permanent card from your sanctum with mana value X or less, where X is <atom-cardname><nospellcheck>Sanctum Trader</nospellcheck></atom-cardname>’s power, then put it onto the battlefield under your control. If its a creature, it enters tapped and attacking.
+		Whenever <atom-name><nospellcheck>Sanctum Trader</nospellcheck></atom-name> attacks, choose a nonland permanent card from your sanctum with mana value X or less, where X is <atom-name><nospellcheck>Sanctum Trader</nospellcheck></atom-name>’s power, then put it onto the battlefield under your control. If its a creature, it enters tapped and attacking.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

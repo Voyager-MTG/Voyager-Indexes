@@ -31,7 +31,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, distribute two +1/+1 counters among any number of target enchantments you control.
+		When <atom-name>this creature</atom-name> enters, distribute two +1/+1 counters among any number of target enchantments you control.
 		Once each turn, when an enchantment you control becomes a creature, you may draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	loyalty_cost_2: 

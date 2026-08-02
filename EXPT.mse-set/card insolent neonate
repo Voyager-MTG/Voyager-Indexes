@@ -29,7 +29,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Discard a card, Sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Draw a card.
+		Discard a card, Sacrifice <atom-name>this creature</atom-name>: Draw a card.
 		<i-auto>(This token’s mana cost is <sym>R</sym>.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

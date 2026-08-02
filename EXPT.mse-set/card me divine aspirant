@@ -50,8 +50,8 @@ card:
 	loyalty_cost_10: 0
 	loyalty_cost_11: -X
 	loyalty_2: 3
-	level_5_text: Whenever an opponent loses life for the first time each turn, put a loyalty counter on <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>.
-	level_6_text: <margin:130:0:0><atom-name>This planeswalker</atom-cardname> deals 2 damage to any target.</margin:130:0:0>
+	level_5_text: Whenever an opponent loses life for the first time each turn, put a loyalty counter on <atom-name>this planeswalker</atom-name>.
+	level_6_text: <margin:130:0:0><atom-name>This planeswalker</atom-name> deals 2 damage to any target.</margin:130:0:0>
 	level_7_text: <margin:130:0:0>Exile the top X cards of your library. Until the end of your next turn, you may cast red spells from among the exiled cards.  </margin:130:0:0>
 	level_8_text: 
 	level_9_text: Whenever an opponent loses life for the first time each turn, put a loyalty counter on The Placebo God

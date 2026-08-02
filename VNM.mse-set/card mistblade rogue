@@ -33,7 +33,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<atom-name>This creature</atom-cardname> can’t be blocked by nonenchantment creatures.
+		<atom-name>This creature</atom-name> can’t be blocked by nonenchantment creatures.
 		<i><kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> </i>— At the beginning of combat on your turn, up to one target creature gets +1/+0 and can’t be blocked by nonenchantment creatures until end of turn as long as you cast a noncreature spell this turn.
 	rule_text_2: 
 	rule_text_3: 

@@ -20,7 +20,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may sacrifice a nonland permanent. If you do, draw a card.
+		When <atom-name>this creature</atom-name> enters, you may sacrifice a nonland permanent. If you do, draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“Only the Rifts are transient.”</i-flavor>

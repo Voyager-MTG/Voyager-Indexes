@@ -77,7 +77,6 @@ include_file: card information recovery crew
 include_file: card exuberant archaeologist
 include_file: card tepid tamer
 include_file: card striking reflection
-include_file: card unbothered alchemist
 include_file: card scouting party
 include_file: card back to market
 include_file: card center mass
@@ -262,6 +261,7 @@ include_file: card avatar
 include_file: card clue.1
 include_file: card treasure
 include_file: card food
+include_file: card unbothered alchemist
 keyword:
 	keyword: Mirror
 	match: mirror

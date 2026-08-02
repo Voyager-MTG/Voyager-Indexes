@@ -633,42 +633,6 @@ keyword:
 	rules: 
 	mode: expert
 keyword:
-	keyword: Trace
-	match: create a trace
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
-	rules: 
-	mode: custom
-keyword:
-	keyword: Trace
-	match: trace its
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
-	rules: 
-	mode: custom
-keyword:
-	keyword: Trace
-	match: trace a
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
-	rules: 
-	mode: custom
-keyword:
-	keyword: Trace
-	match: trace <atom-param>english_number</atom-param> 
-	reminder: Create those cards. Traces are cards that become copies when they enter public zones.
-	rules: 
-	mode: custom
-keyword:
-	keyword: Trace
-	match: trace another
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
-	rules: 
-	mode: custom
-keyword:
-	keyword: Trace
-	match: trace <atom-param>name</atom-param>
-	reminder: Create that card. Traces are cards that become copies when they enter public zones.
-	rules: 
-	mode: custom
-keyword:
 	keyword: Healing
 	match: healing counter
 	reminder: Whenever your creature with a healing counter deals damage, you gain 1 life for each healing counter on it.
@@ -684,6 +648,18 @@ keyword:
 		Editors note:<soft-line>
 		This can be Combat damage if this ends up insane.</soft-line>
 	mode: expert
+keyword:
+	keyword: Trace
+	match: create a trace
+	reminder: Traces can’t exist in graveyards or exile and are tokens while on the battlefield.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Trace
+	match: trace<atom-param>*s</atom-param> <atom-param>name</atom-param>
+	reminder: Traces can’t exist in graveyards or exile and are tokens while on the battlefield.
+	rules: 
+	mode: custom
 pack_type:
 	name: Silver Pack
 	enabled: true

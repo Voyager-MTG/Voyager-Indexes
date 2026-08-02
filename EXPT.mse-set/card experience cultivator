@@ -14,8 +14,8 @@ card:
 	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>Experience Cultivator</nospellcheck></atom-cardname> enters, you may play an additional land this turn.
-		<sym-auto>1I/G</sym-auto>, Discard <atom-cardname><nospellcheck>Experience Cultivator</nospellcheck></atom-cardname>: Put target artifact, battle, or planeswalker card from a graveyard on top of its owner’s library.
+		When <atom-name><nospellcheck>Experience Cultivator</nospellcheck></atom-name> enters, you may play an additional land this turn.
+		<sym-auto>1I/G</sym-auto>, Discard <atom-name><nospellcheck>Experience Cultivator</nospellcheck></atom-name>: Put target artifact, battle, or planeswalker card from a graveyard on top of its owner’s library.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

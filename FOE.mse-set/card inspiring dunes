@@ -31,7 +31,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, exile up to one other nonland permanent or land creature until <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> leaves the battlefield. Create a tapped <kw-A><nospellcheck><key>powerstone toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. This mana can’t be spent to cast a nonartifact spell.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>this enchantment</atom-name> enters, exile up to one other nonland permanent or land creature until <atom-name>this enchantment</atom-name> leaves the battlefield. Create a tapped <kw-A><nospellcheck><key>powerstone toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. This mana can’t be spent to cast a nonartifact spell.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -31,7 +31,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, if it’s attacking alone or you’ve cast a noncreature spell this turn, draw a card, then discard a card.
+		<kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — When <atom-name>this creature</atom-name> attacks, if it’s attacking alone or you’ve cast a noncreature spell this turn, draw a card, then discard a card.
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: <kw-A><nospellcheck><key>Pathbound <param-cost><sym>2</sym></param-cost></key></nospellcheck>. Activate only if you control no nonland permanents.<atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
 	power: 3

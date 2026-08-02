@@ -17,7 +17,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Inclusivity Consultant</nospellcheck></atom-cardname> enters, put up to one target card an opponent owns in exile into their graveyard.
+		When <atom-name>Inclusivity Consultant</atom-name> enters, put up to one target card an opponent owns in exile into their graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

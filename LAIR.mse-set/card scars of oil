@@ -7,7 +7,7 @@ card:
 		!taglairnumber> 8
 		!taglair> old frame
 	time_created: 2024-03-02 22:05:26
-	time_modified: 2026-03-01 09:26:17
+	time_modified: 2026-07-31 22:19:25
 	name: Scars of Oil
 	casting_cost: 1I/U
 	image: image46.png
@@ -21,7 +21,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Scars of Oil</nospellcheck></atom-cardname> enters, draw two cards, then discard a card.
+		When this enchantment enters, draw two cards, then discard a card.
 		Once each turn, when you discard a card, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. If you do, put up to one card in your graveyard into your sanctum.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Illus. Nick Keller

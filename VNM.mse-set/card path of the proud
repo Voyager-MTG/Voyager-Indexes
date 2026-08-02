@@ -37,7 +37,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, you gain 3 life.
+		When <atom-name>this enchantment</atom-name> enters, you gain 3 life.
 		Whenever you attack, if you gained life this turn, up to one target creature you control gets +2/+2 until end of turn.
 	rule_text_2: 
 	rule_text_3: 

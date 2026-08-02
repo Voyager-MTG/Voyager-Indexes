@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-legname><nospellcheck>The SynthScape</nospellcheck></atom-legname> enters tapped.
-		<atom-cardname><nospellcheck>The SynthScape</nospellcheck></atom-cardname> has all activated abilities of other lands you control.
+		<atom-name>The SynthScape</atom-name> has all activated abilities of other lands you control.
 		<kw-0><nospellcheck><key><param-one_word>Land</param-one_word>cycling <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>3</sym-auto>, Discard this card: Search your library for a land card, reveal it, put it into your hand, then shuffle.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Julian Faylona

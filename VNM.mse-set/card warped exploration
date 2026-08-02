@@ -20,7 +20,7 @@ card:
 		</soft-line>!token
 		!conjured
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-08-18 15:44:43
+	time_modified: 2026-08-02 00:01:58
 	card_trim: frameless art
 	name: Warped Exploration
 	casting_cost: 2
@@ -28,7 +28,7 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Skill Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Trace Skill Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -37,7 +37,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: special
-	rule_text: <kw-A><nospellcheck><key>Trace <param-name>a basic land of any type into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <kw-A><nospellcheck><key>Create a trace</key></nospellcheck> of a basic land card of any type into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor><error-spelling:en_US>Vinimroth</error-spelling:en_US> is filled to the brim with strange and interesting places; Some are known to seemingly appear from nowhere...</i-flavor>

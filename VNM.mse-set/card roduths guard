@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, it deals damage equal to the number of creatures you control to up to one target tapped permanent.
+		When <atom-name>this creature</atom-name> enters, it deals damage equal to the number of creatures you control to up to one target tapped permanent.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>They already saw you coming.</i-flavor>

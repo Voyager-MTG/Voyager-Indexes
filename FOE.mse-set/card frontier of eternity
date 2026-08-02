@@ -20,7 +20,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>15</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>: Reveal the top ten cards of your library. You may cast a spell revealed this way without paying its mana cost. This ability costs <sym-auto>1</sym-auto> less to activate for each permanent you control.
+		<sym-auto>15</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-name><nospellcheck>this land</nospellcheck></atom-name>: Reveal the top ten cards of your library. You may cast a spell revealed this way without paying its mana cost. This ability costs <sym-auto>1</sym-auto> less to activate for each permanent you control.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

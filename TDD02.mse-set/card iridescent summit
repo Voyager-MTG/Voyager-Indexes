@@ -13,9 +13,9 @@ card:
 		!designer Aanginer
 		https://www.deviantart.com/ryky/art/The-power-of-the-moon-610809479
 	time_created: 2025-02-22 22:33:13
-	time_modified: 2026-04-08 19:04:15
+	time_modified: 2026-07-31 21:49:11
 	name: Iridescent Summit
-	casting_cost: 1II
+	casting_cost: II
 	image: image35.png
 	image_2: 
 	mainframe_image: 
@@ -23,9 +23,9 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: mythic rare
-	rule_text: At the beginning of your end step, you may exile target card from your graveyard with mana value 4 or greater. If you do, create a trace of that card into your hand.
+	rule_text: Whenever you spend four or more mana to cast a spell, you may sacrifice enchantment. If you do, draw two cards and gain 2 life.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Pathbound <param-cost><sym>1II</sym></param-cost></key></nospellcheck>. Activate only if you have no cards in your graveyard with mana value 2 or </sym>3<sym>.<atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1II</sym-auto></param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound <param-cost><sym>II</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>II</sym-auto></param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
 	illustrator: Ryky
 	card_code_text: • Designed by Aanginer
 	card_code_text_2: Aanginer

@@ -31,7 +31,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, create a Clue token. <i-auto>(It’s an artifact with “<sym-auto>2</sym-auto>, Sacrifice this token: Draw a card.”)</i-auto>
+		When <atom-name>this enchantment</atom-name> enters, create a Clue token. <i-auto>(It’s an artifact with “<sym-auto>2</sym-auto>, Sacrifice this token: Draw a card.”)</i-auto>
 		Each player can’t draw more than one card each turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: boldfrontiers

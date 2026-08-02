@@ -22,7 +22,7 @@ card:
 	rule_text:
 		You can’t cast this spell if you’ve cast another spell this turn.
 		Draw a card. You can’t cast spells this turn.
-		Return <atom-cardname><nospellcheck>Timecoil Tracings</nospellcheck></atom-cardname> to its owner’s hand.
+		Return <atom-name>Timecoil Tracings</atom-name> to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Lie Setiawan
 	card_code_text: 

@@ -16,7 +16,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2026-03-01 09:56:34
+	time_modified: 2026-07-29 01:17:26
 	name: Opportunistic Scavenger
 	alias_2: 
 	casting_cost: 1B/G
@@ -32,7 +32,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, exile up to two target cards that share a creature type from your graveyard. <kw-A><nospellcheck><key>Trace <param-name>a copy of each of them into your hand.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(Create that card. Traces are cards that become copies when they enter public zones.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>this enchantment</atom-name> enters, exile up to two target cards that share a creature type from your graveyard. <kw-A><nospellcheck><key>Create a trace</key></nospellcheck> that’s a copy of each of them into your hand.<atom-reminder-custom> <i-auto>(Traces can’t exist in graveyards or exile and are tokens while on the battlefield.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-A><nospellcheck><key>Materialize <param-number>1</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap one or more other enchantments you control with total mana value <param-number>1</param-number> or more: This also becomes an Icon creature until your next turn.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 

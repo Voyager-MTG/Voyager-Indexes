@@ -9,7 +9,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !designer Aanginer
 	time_created: 2025-02-22 22:53:03
-	time_modified: 2026-03-26 20:16:37
+	time_modified: 2026-07-31 21:18:58
 	name: Wandering Dislocation
 	casting_cost: 2II
 	image: image99
@@ -29,7 +29,7 @@ card:
 		Whenever this creature attacks, <kw-A><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top card of your library. You may put that card into your sanctum.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: <kw-A><nospellcheck><key>Pathbound <param-cost><sym>1I</sym></param-cost></key></nospellcheck>. Activate only if a card that shares a creature type with this dealt damage to an opponent this turn.<atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1I</sym-auto></param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
-	power: 3
+	power: 4
 	toughness: 3
 	illustrator: VargasNi
 	card_code_text: • Designed by Aanginer
