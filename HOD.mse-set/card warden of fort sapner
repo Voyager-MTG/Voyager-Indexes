@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-A><nospellcheck><key>Bloom</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever you cast or copy a noncreature spell, put a +1/+1 counter on <atom-name><nospellcheck>Warden of Fort Sapner</nospellcheck></atom-name>.
+		Whenever you cast or copy a noncreature spell, put a +1/+1 counter on <atom-name>Warden of Fort Sapner</atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

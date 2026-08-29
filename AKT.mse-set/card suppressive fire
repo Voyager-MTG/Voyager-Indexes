@@ -26,8 +26,8 @@ card:
 	sub_type: <word-list-race-en>Soldier</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<atom-name><nospellcheck>Suppressive Fire</nospellcheck></atom-name> deals 2 damage to each creature. 
-		<sym-auto>W/U</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name><nospellcheck>Suppressive Fire</nospellcheck></atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may cast it on a later turn that a Soldier or Wizard you control dealt damage to an opponent.)</i-auto>
+		<atom-name>Suppressive Fire</atom-name> deals 2 damage to each creature. 
+		<sym-auto>W/U</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name>Suppressive Fire</atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may cast it on a later turn that a Soldier or Wizard you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Eunsu Kang
 	card_code_text: 

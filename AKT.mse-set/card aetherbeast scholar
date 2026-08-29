@@ -18,7 +18,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
-		Whenever <atom-name><nospellcheck>Aetherbeast Scholar</nospellcheck></atom-name> deals combat damage to a player, each player may shuffle their hand and graveyard into their library. If they do, they draw seven cards.
+		Whenever <atom-name>Aetherbeast Scholar</atom-name> deals combat damage to a player, each player may shuffle their hand and graveyard into their library. If they do, they draw seven cards.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4

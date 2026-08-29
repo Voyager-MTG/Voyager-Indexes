@@ -29,7 +29,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Return to your hand all permanent cards in your graveyard that were put there from anywhere this turn.
-		<sym-auto>B/R</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name><nospellcheck>Memorial Service</nospellcheck></atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Soldier or Advisor you control dealt damage to an opponent.)</i-auto>
+		<sym-auto>B/R</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name>Memorial Service</atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Soldier or Advisor you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Aspidal
 	card_code_text: 

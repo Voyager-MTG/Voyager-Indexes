@@ -2,20 +2,16 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: true
-	styling_data:
-		other_options: 
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
+	has_styling: false
 	notes: Bonus sheet
 	time_created: 2025-09-30 23:48:02
-	time_modified: 2026-05-01 10:50:58
+	time_modified: 2026-08-28 12:33:38
 	card_trim_plus: glitch
 	alias_type: starts in sanctum
 	name: Ishanna, Phenomaniac
 	alias: Muse, Metallurgic Prodigy
 	casting_cost: UR
-	image: image80
+	image: image438
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

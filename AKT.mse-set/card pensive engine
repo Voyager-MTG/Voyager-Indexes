@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: common
 	rule_text:
-		When <atom-name><nospellcheck>Pensive Engine</nospellcheck></atom-name> enters, put a pensive counter on target creature.
+		When <atom-name>Pensive Engine</atom-name> enters, put a pensive counter on target creature.
 		<sym-auto>T</sym-auto>: Tap all creatures you don’t control with pensive counters on them.
 	flavor_text: <i-flavor>Clarity sat transfixed, lost in thought.</i-flavor>
 	power: 

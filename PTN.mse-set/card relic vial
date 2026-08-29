@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a creature: Draw a card.
-		As long as you control a Cleric, <atom-name><nospellcheck>Relic Vial</nospellcheck></atom-name> has “Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.”
+		As long as you control a Cleric, <atom-name>Relic Vial</atom-name> has “Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.”
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>A beaker filled with the fiercest alchemy.</i-flavor>

@@ -41,10 +41,10 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Bisapience <param-cost><sym>1WR</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever this attacks or transforms into <atom-name><nospellcheck>Sarajex Rescuer</nospellcheck></atom-name>, create a 1/1 white Soldier creature token.
+		Whenever this attacks or transforms into <atom-name>Sarajex Rescuer</atom-name>, create a 1/1 white Soldier creature token.
 	rule_text_2:
 		<kw-0><nospellcheck><key>Bisapience <param-cost><sym>WR</sym></param-cost></key></nospellcheck></kw-0>
-		Whenever <atom-name><nospellcheck>Sarajex Protector</nospellcheck></atom-name> attacks, you may discard a card. If you do, put a +1/+1 counter on each creature you control.
+		Whenever <atom-name>Sarajex Protector</atom-name> attacks, you may discard a card. If you do, put a +1/+1 counter on each creature you control.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 1

@@ -1,22 +1,37 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 4
+		main_style: normal
+		other_options: vorthos box
+		additional_options: 
+		font_cap: 
+		popout_image_style: 
+		popout_image_style_2: 
+		popunder_image_style: 0,0,375,74,
+		level_offset: -20,-38,-58,
+		level_containers: loyalty boxes
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
 		OTHERMYTHIC
 		USUPRATE
 		PENCILIN
+		!tagpromofor> GPHerongrandCard
 	time_created: 2022-02-26 15:29:17
-	time_modified: 2026-06-12 17:17:37
+	time_modified: 2026-08-19 08:03:25
 	extra_data:
-		magic-m15-altered:
-			ascend: 
+		magic-m15-altered: ascend: 
 	border_color: rgb(5,5,5)
-	card_trim: special guest, inverted, legend
+	card_trim: borderless art, inverted, fnm promo, legend
 	name: Herongrand Transcended
 	casting_cost: 4UB
 	transformation: voyager erysite
-	image: image109
-	image_2: 
+	image: image122.png
+	image_2: image_21.png
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
@@ -34,7 +49,7 @@ card:
 	power: 5
 	toughness: 5
 	illustrator: Yuliya Zabelina
-	custom_card_number: 
+	custom_card_number: GP Herongrand Promo
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

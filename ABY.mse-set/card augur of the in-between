@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -13,7 +15,7 @@ card:
 	time_modified: 2026-01-03 14:41:19
 	name: Augur of the In-Between
 	casting_cost: 1B
-	image: image75.png
+	image: image240
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

@@ -21,7 +21,7 @@ card:
 		Choose one —
 		<li><bullet>• </bullet>Exile all creatures. 
 		</li><li><bullet>• </bullet>Exile all artifacts and enchantments.
-		<margin:0:0:5></li><sym-auto>1W</sym-auto>: Discard <atom-name><nospellcheck>Merciless Illumination</nospellcheck></atom-name>: Exile the top card of your library face down. It <kw-A><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A></margin:0:0:5>
+		<margin:0:0:5></li><sym-auto>1W</sym-auto>: Discard <atom-name>Merciless Illumination</atom-name>: Exile the top card of your library face down. It <kw-A><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A></margin:0:0:5>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

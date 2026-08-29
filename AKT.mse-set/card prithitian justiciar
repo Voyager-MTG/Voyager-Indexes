@@ -17,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		As <atom-name><nospellcheck>Prithitian Justiciar</nospellcheck></atom-name> enters, choose two card names other than <atom-name><nospellcheck>Prithitian Justiciar</nospellcheck></atom-name>.
+		As <atom-name>Prithitian Justiciar</atom-name> enters, choose two card names other than <atom-name>Prithitian Justiciar</atom-name>.
 		Spells with a chosen name can’t be cast.
 		You choose if creatures with a chosen name attack or block each combat and how they attack or block.
 	flavor_text: <i-flavor></i-flavor>

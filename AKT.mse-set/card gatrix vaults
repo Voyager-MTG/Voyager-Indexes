@@ -28,11 +28,11 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	sub_type_2: <word-list-race-en>Gargoyle</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: At the beginning of your upkeep, you may pay <sym-auto>1U</sym-auto>. If you do, transform <atom-name><nospellcheck>Gatrix Vaults</nospellcheck></atom-name>. Otherwise, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+	rule_text: At the beginning of your upkeep, you may pay <sym-auto>1U</sym-auto>. If you do, transform <atom-name>Gatrix Vaults</atom-name>. Otherwise, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
 	rule_text_2:
-		Whenever you cast a spell, you may transform <atom-name><nospellcheck>Gatrix Vaultwarden</nospellcheck></atom-name>.
+		Whenever you cast a spell, you may transform <atom-name>Gatrix Vaultwarden</atom-name>.
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<atom-name><nospellcheck>Gatrix Vaultwarden</nospellcheck></atom-name> doesn’t untap during your untap steps.
+		<atom-name>Gatrix Vaultwarden</atom-name> doesn’t untap during your untap steps.
 	flavor_text: <i-flavor>The baby <error-spelling:en_US>buildlings</error-spelling:en_US> nurtured in <error-spelling:en_US>Gatrix’s</error-spelling:en_US> womb have but one <error-spelling:en_US>defence</error-spelling:en_US>...</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 

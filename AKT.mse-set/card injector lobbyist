@@ -18,7 +18,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		As <atom-name><nospellcheck>Injector Lobbyist</nospellcheck></atom-name> enters, choose a noncreature card type or a creature type.
+		As <atom-name>Injector Lobbyist</atom-name> enters, choose a noncreature card type or a creature type.
 		Spells of the chosen type cost <sym-auto>1</sym-auto> more to cast.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

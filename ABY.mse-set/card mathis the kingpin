@@ -2,15 +2,21 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: Bonus sheet
 	time_created: 2025-09-15 23:36:35
-	time_modified: 2026-06-01 13:02:56
+	time_modified: 2026-08-28 12:31:56
 	card_trim_plus: glitch
+	alias_type: starts in sanctum
 	name: Mathis, the Kingpin
 	alias: Mathis, I.E. Operative
 	casting_cost: 1UB
-	image: image58
+	image: image424
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

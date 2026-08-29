@@ -30,7 +30,7 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever you sacrifice a creature, note its name. 
-		Once during each of your turns, you may cast a spell from your graveyard with a name noted for cards named <atom-name><nospellcheck>The Elegiast</nospellcheck></atom-name>.
+		Once during each of your turns, you may cast a spell from your graveyard with a name noted for cards named <atom-name>The Elegiast</atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

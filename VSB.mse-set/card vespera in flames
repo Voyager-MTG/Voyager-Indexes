@@ -23,7 +23,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: <atom-name><nospellcheck>Vespera in Flames</nospellcheck></atom-name> deals 5 damage to each creature and each planeswalker. If a creature or planeswalker an opponent controls would die this turn, exile it instead.
+	rule_text: <atom-name>Vespera in Flames</atom-name> deals 5 damage to each creature and each planeswalker. If a creature or planeswalker an opponent controls would die this turn, exile it instead.
 	flavor_text:
 		<i-flavor>Break a thing, and you have fragments. Break those fragments, and you have dust. Break the dust, and then break what remains. <soft-line>
 		</soft-line>Here is fire.</i-flavor>

@@ -19,7 +19,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Old Guard Partisan</nospellcheck></atom-name> enters, it deals 2 damage to up to one target that was dealt damage this turn and you gain 2 life.
+		When <atom-name>Old Guard Partisan</atom-name> enters, it deals 2 damage to up to one target that was dealt damage this turn and you gain 2 life.
 	flavor_text: <i-flavor>“A man’s body is his alone.”</i-flavor>
 	power: 2
 	toughness: 2

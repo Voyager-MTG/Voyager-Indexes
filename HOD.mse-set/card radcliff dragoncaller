@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Whenever you sacrifice a permanent, <atom-name><nospellcheck>Radcliff Dragoncaller</nospellcheck></atom-name> becomes a 4/4 red Dragon creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+		Whenever you sacrifice a permanent, <atom-name>Radcliff Dragoncaller</atom-name> becomes a 4/4 red Dragon creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
 		<sym-auto>2UR</sym-auto>, Sacrifice a permanent: Draw a card.
 	flavor_text: <i-flavor>“My house is the mighty dragon, yet you still stand in my way?”</i-flavor>
 	power: 2

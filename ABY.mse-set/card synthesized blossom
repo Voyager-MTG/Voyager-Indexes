@@ -1,19 +1,21 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
-		chop_top: 4
-		chop_bottom: 10
+		chop_top: 8
+		chop_bottom: 8
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
 	notes: 
 	time_created: 2025-11-03 00:42:14
-	time_modified: 2026-07-02 09:42:14
+	time_modified: 2026-08-04 01:55:06
 	name: Synthesized Blossom
 	casting_cost: GW
-	image: image135
+	image: image385
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -29,7 +31,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
 		You may play an additional land on each of your turns.
-		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Return another target permanent you control to its owner’s hand. Activate only during your turn.
+		As long as you control eight or more lands, you can’t lose the game and your opponents can’t win the game.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 4

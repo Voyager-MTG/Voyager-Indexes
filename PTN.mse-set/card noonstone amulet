@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add one mana of any color.
-		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-name><nospellcheck>Noonstone Amulet</nospellcheck></atom-name>: Exile the top card of your library face down. It <kw-A><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-name>Noonstone Amulet</atom-name>: Exile the top card of your library face down. It <kw-A><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Noon, the saying goes, is not what it is was; but this polished stone still retains a sunset glow.</i-flavor>

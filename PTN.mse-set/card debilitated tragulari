@@ -28,8 +28,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When <atom-name><nospellcheck>Debilitated Tragulari</nospellcheck></atom-name> enters, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-name><nospellcheck>Debilitated Tragulari</nospellcheck></atom-name> enters, choose two target creatures controlled by different players. Those creatures <kw-0><nospellcheck><key>fight</key></nospellcheck></kw-0> each other.
+		When <atom-name>Debilitated Tragulari</atom-name> enters, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>Debilitated Tragulari</atom-name> enters, choose two target creatures controlled by different players. Those creatures <kw-0><nospellcheck><key>fight</key></nospellcheck></kw-0> each other.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -28,8 +28,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Whenever you sacrifice another permanent, put a +1/+1 counter on <atom-name><nospellcheck>Nowhere Soul Collector</nospellcheck></atom-name>.
-		When you sacrifice <atom-name><nospellcheck>Nowhere Soul Collector</nospellcheck></atom-name>, draw a card.
+		Whenever you sacrifice another permanent, put a +1/+1 counter on <atom-name>Nowhere Soul Collector</atom-name>.
+		When you sacrifice <atom-name>Nowhere Soul Collector</atom-name>, draw a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

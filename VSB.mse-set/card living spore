@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-name><nospellcheck>Living Spore</nospellcheck></atom-name>’s power and toughness are each equal to the number of Fungus you control.
-		<sym-auto>2I</sym-auto>, Discard a card: Create a token that’s a copy of <atom-name><nospellcheck>Living Spore</nospellcheck></atom-name>.
+		<atom-name>Living Spore</atom-name>’s power and toughness are each equal to the number of Fungus you control.
+		<sym-auto>2I</sym-auto>, Discard a card: Create a token that’s a copy of <atom-name>Living Spore</atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	power: *
 	toughness: *

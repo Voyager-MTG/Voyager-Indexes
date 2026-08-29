@@ -20,7 +20,7 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever a creature you control deals combat damage to a player, exile the top card of that player’s library.
-		Whenever one or more creatures you control become blocked, you may cast a spell from among cards exiled with <atom-name><nospellcheck>Forces of Opening</nospellcheck></atom-name> without paying its mana cost.
+		Whenever one or more creatures you control become blocked, you may cast a spell from among cards exiled with <atom-name>Forces of Opening</atom-name> without paying its mana cost.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

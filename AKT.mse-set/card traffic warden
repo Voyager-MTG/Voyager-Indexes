@@ -17,7 +17,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Incarnation</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: <sym-auto>B</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. Then if there are four or more card types among cards in your graveyard, <atom-name><nospellcheck>Traffic Warden</nospellcheck></atom-name> gets +1/+1 until end of turn.
+	rule_text: <sym-auto>B</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. Then if there are four or more card types among cards in your graveyard, <atom-name>Traffic Warden</atom-name> gets +1/+1 until end of turn.
 	flavor_text: <i-flavor>At her junction, green lights mean stop.</i-flavor>
 	power: 2
 	toughness: 2

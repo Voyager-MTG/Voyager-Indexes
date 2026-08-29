@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		When <atom-name><nospellcheck>Overcoming Squire</nospellcheck></atom-name> enters, you gain 3 life.
+		When <atom-name>Overcoming Squire</atom-name> enters, you gain 3 life.
 		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>3W</sym-auto>, Exile three other cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>“Today, we stand. Today, we fight. Our lives for Lady Edith!”</i-flavor>
 	power: 2

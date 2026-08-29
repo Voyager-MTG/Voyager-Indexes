@@ -24,7 +24,7 @@ card:
 	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <atom-name><nospellcheck>Fleeting Merriment</nospellcheck></atom-name> deals 3 damage to any target.
+	level_1_text: <atom-name>Fleeting Merriment</atom-name> deals 3 damage to any target.
 	level_2_text: Draw a card.
 	level_3_text: Discard two cards at the beginning of your next end step.
 	illustrator: Emily Lubanko
@@ -36,6 +36,6 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I — <atom-name><nospellcheck>Fleeting Merriment</nospellcheck></atom-name> deals 3 damage to any target.
+		I — <atom-name>Fleeting Merriment</atom-name> deals 3 damage to any target.
 		II — Draw a card.
 		III — Discard two cards at the beginning of your next end step.

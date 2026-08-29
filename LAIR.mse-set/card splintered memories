@@ -23,7 +23,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		When Splintered Memories</atom-name> enters, draw a card.
-		Each card in your hand has <kw-1><nospellcheck><key>cycling <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-1>
+		Each card in your hand has cycling 1.
 		At the beginning of your end step, sacrifice Splintered Memories</atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Itou (Golem Inc)

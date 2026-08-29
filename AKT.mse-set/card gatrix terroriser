@@ -34,11 +34,11 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Bisapience <param-cost><sym>1U</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
-		<atom-name><nospellcheck>Gatrix Terroriser</nospellcheck></atom-name> can’t be blocked.
+		<atom-name>Gatrix Terroriser</atom-name> can’t be blocked.
 	rule_text_2:
 		<kw-0><nospellcheck><key>Bisapience <param-cost><sym>U</sym></param-cost></key></nospellcheck></kw-0>
 		<kw-0><nospellcheck><key>Prowess</key></nospellcheck></kw-0>
-		Whenever this enters or transforms into <atom-name><nospellcheck>Cunning Mastermind</nospellcheck></atom-name>, draw a card, then discard a card.
+		Whenever this enters or transforms into <atom-name>Cunning Mastermind</atom-name>, draw a card, then discard a card.
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>

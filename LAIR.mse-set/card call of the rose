@@ -3,7 +3,8 @@ card:
 	has_styling: false
 	notes:
 		!tagis> champion
-		!tagchampion> aanginer
+		!tagchampion> Aanginer
+		!tagpromofor> GP2Top
 		!tag Dewold
 		!tag Rey
 		!ocean
@@ -30,7 +31,7 @@ card:
 	rarity: masterpiece
 	rule_text:
 		Call of the Rose</atom-name> deals 2 damage to any target. 
-		Create Lover to All <kw-1><nospellcheck><key>in your reserves</key></nospellcheck>. He’s a legendary 2/3 red Human Noble creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-1>
+		Create Lover to All in your reserves. He’s a legendary 2/3 red Human Noble creature token with menace.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 

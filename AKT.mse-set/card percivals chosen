@@ -19,8 +19,8 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Zombie</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<atom-name><nospellcheck>Percival’s Chosen</nospellcheck></atom-name> enters tapped.
-		When <atom-name><nospellcheck>Percival’s Chosen</nospellcheck></atom-name> dies, <kw-0><nospellcheck><key>embrace</key></nospellcheck></kw-0> it. <i-auto>(Exile it. You may play it on a later turn that a Human, Zombie, or Soldier you control dealt damage to an opponent.)</i-auto>
+		<atom-name>Percival’s Chosen</atom-name> enters tapped.
+		When <atom-name>Percival’s Chosen</atom-name> dies, <kw-0><nospellcheck><key>embrace</key></nospellcheck></kw-0> it. <i-auto>(Exile it. You may play it on a later turn that a Human, Zombie, or Soldier you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

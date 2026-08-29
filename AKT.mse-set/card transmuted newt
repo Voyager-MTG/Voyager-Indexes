@@ -20,7 +20,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Transmuted Newt</nospellcheck></atom-name> enters, it deals 2 damage to any target.
+		When <atom-name>Transmuted Newt</atom-name> enters, it deals 2 damage to any target.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

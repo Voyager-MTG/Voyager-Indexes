@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Bloom</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever <atom-name><nospellcheck>Blight-Tipped Hunter</nospellcheck></atom-name> deals damage to a player, that player gets that many poison counters.
+		Whenever <atom-name>Blight-Tipped Hunter</atom-name> deals damage to a player, that player gets that many poison counters.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

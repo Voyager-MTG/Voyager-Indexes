@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !addtoken Scar;1
 	time_created: 2023-06-22 22:15:28
-	time_modified: 2024-07-05 13:05:32
+	time_modified: 2026-08-28 13:21:08
 	card_color: blue
 	name: Opener of Realities
 	casting_cost: 1U
@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<sym-auto>1U</sym-auto>: <atom-name><nospellcheck>Opener of Realities</nospellcheck></atom-name> cant be blocked this turn.
-		Whenever <atom-name><nospellcheck>Opener of Realities</nospellcheck></atom-name> deals combat damage to a player, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>1U</sym-auto>: <atom-name>Opener of Realities</atom-name> cant be blocked this turn.
+		Whenever <atom-name>Opener of Realities</atom-name> deals combat damage to a player, you get that many <kw-A><nospellcheck><key>Sca<param-*s>rs</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

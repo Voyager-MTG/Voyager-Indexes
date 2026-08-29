@@ -26,7 +26,7 @@ card:
 	sub_type: <word-list-race-en>Hex</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<atom-name><nospellcheck>Akaaja, Steel Commander</nospellcheck></atom-name> can’t attack or block unless you pay <sym-auto>1</sym-auto>.
+		<atom-name>Akaaja, Steel Commander</atom-name> can’t attack or block unless you pay <sym-auto>1</sym-auto>.
 		Whenever you attack, put a +1/+1 counter on another target attacking Hex. Then draw a card if <atom-legname><nospellcheck>Akaaja</nospellcheck></atom-legname> has lesser power than that Hex.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-name><nospellcheck>Geistwald Kraken</nospellcheck></atom-name> enters, if you have fewer than five cards in hand, draw cards equal to the difference. 
+		When <atom-name>Geistwald Kraken</atom-name> enters, if you have fewer than five cards in hand, draw cards equal to the difference. 
 		Whenever you draw a card, tap target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
 	flavor_text: <i-flavor>In the mists of the <error-spelling:en_US>Geistwald</error-spelling:en_US>, dangers lurk unheard and unseen.</i-flavor>
 	power: 9

@@ -6,7 +6,7 @@ card:
 	time_modified: 2025-12-05 18:23:31
 	name: Moonfall, Coilcursed
 	casting_cost: 2BB
-	image: image27
+	image: image333
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		When <atom-legname><nospellcheck>Moonfall</nospellcheck></atom-legname> enters, if it was cast, create a black enchantment token named Rebirth with “<kw-A><nospellcheck><key>Flux <param-number>3</param-number> — <param-one_word>Return</param-one_word></key></nospellcheck> a card named <atom-name>Moonfall, Coilcursed</atom-name> from your graveyard to the battlefield.”<atom-reminder-custom> <i-auto>(On your upkeep, put a time counter on this. Whenever there are <param-number>three</param-number> or more, remove <param-number>three</param-number> and trigger the flux ability.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-legname><nospellcheck>Moonfall</nospellcheck></atom-legname> enters, if it was cast, create a black enchantment token named Rebirth with “<kw-A><nospellcheck><key>Flux <param-number>3</param-number> — <param-one_word>Return</param-one_word></key></nospellcheck> a card named <atom-cardname><nospellcheck>Moonfall, Coilcursed</nospellcheck></atom-cardname> from your graveyard to the battlefield.”<atom-reminder-custom> <i-auto>(On your upkeep, put a time counter on this. Whenever there are <param-number>three</param-number> or more, remove <param-number>three</param-number> and trigger the flux ability.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

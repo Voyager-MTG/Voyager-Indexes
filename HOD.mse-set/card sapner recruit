@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		<sym-auto>3W/B</sym-auto>: <atom-name><nospellcheck>Sapner Recruit</nospellcheck></atom-name> gets +2/+0 and gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>3W/B</sym-auto>: <atom-name>Sapner Recruit</atom-name> gets +2/+0 and gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>“In House <error-spelling:en_US>Sapner</error-spelling:en_US>, I see a way above the petty squabbles of the other houses.”</i-flavor>
 	power: 1
 	toughness: 1

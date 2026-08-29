@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>2GG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>2GG</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever <atom-name><nospellcheck>Chorus of the Silberwald</nospellcheck></atom-name> deals combat damage to a player or planeswalker, you may search your library for a creature card with mana value equal to or less than that damage, put it onto the battlefield, then shuffle.
+		Whenever <atom-name>Chorus of the Silberwald</atom-name> deals combat damage to a player or planeswalker, you may search your library for a creature card with mana value equal to or less than that damage, put it onto the battlefield, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

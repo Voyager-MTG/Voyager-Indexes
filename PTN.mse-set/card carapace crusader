@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: When <atom-name><nospellcheck>Carapace Crusader</nospellcheck></atom-name> enters, if a creature card was put into your graveyard from anywhere this turn, put a +1/+1 counter on <atom-name><nospellcheck>Carapace Crusader</nospellcheck></atom-name>.
+	rule_text: When <atom-name>Carapace Crusader</atom-name> enters, if a creature card was put into your graveyard from anywhere this turn, put a +1/+1 counter on <atom-name>Carapace Crusader</atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Though much is taken, much abides.</i-flavor>

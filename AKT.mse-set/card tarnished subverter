@@ -18,7 +18,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Lizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: <atom-name><nospellcheck>Tarnished Subverter</nospellcheck></atom-name> can’t be blocked if a permanent you control left the battlefield this turn.
+	rule_text: <atom-name>Tarnished Subverter</atom-name> can’t be blocked if a permanent you control left the battlefield this turn.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Erys</error-spelling:en_US> did not progress me or my body; Quite the opposite. He destroyed it.”</i-flavor>
 	power: 2
 	toughness: 1

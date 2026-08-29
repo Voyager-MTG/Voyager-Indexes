@@ -31,7 +31,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Mirrored Wolf</nospellcheck></atom-name> enters, if target opponent controls no basic lands, put a +1/+1 counter on <atom-name><nospellcheck>Mirrored Wolf</nospellcheck></atom-name>.
+		When <atom-name>Mirrored Wolf</atom-name> enters, if target opponent controls no basic lands, put a +1/+1 counter on <atom-name>Mirrored Wolf</atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The house of the Moon is empty and still, but it is home for those who wait for the sun to be whole again. </i-flavor>

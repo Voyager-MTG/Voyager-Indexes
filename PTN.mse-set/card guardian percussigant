@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		<atom-name><nospellcheck>Guardian Percussigant</nospellcheck></atom-name> gets +1/+1 for each Sanctuary you control and each Sanctuary card in your graveyard.
+		<atom-name>Guardian Percussigant</atom-name> gets +1/+1 for each Sanctuary you control and each Sanctuary card in your graveyard.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>It thrives in the rhythms and chants of worship, its unending dance grows in intensity.</i-flavor>

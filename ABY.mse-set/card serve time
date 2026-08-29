@@ -1,28 +1,36 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
 	notes: 
 	time_created: 2024-12-03 22:50:39
-	time_modified: 2026-01-16 20:58:45
+	time_modified: 2026-08-05 23:14:48
 	name: Serve Time
-	casting_cost: 1W
-	image: image16
+	casting_cost: W
+	image: image219
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
+	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Choose one —
-		<li><bullet>• </bullet>Remove any number of counters from target permanent or player.
-		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>VVV</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A></li>
+		When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield. <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>VVV</sym>.<atom-reminder-custom> <i-auto>(Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of your end step, sacrifice this enchantment unless you pay <sym-auto>V</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: agus sw
 	card_code_text: 

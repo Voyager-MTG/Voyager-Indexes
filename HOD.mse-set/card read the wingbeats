@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Read the Wingbeats</nospellcheck></atom-name> enters, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw a card.
+		When <atom-name>Read the Wingbeats</atom-name> enters, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw a card.
 		Whenever you cast a spell during an opponent’s turn, create a 1/1 blue Scout creature token <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sebastian Giacobino

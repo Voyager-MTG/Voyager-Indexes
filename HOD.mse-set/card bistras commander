@@ -24,7 +24,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<atom-name><nospellcheck>Bistra’s Commander</nospellcheck></atom-name> is all colors.
+		<atom-name>Bistra’s Commander</atom-name> is all colors.
 		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
 		Other Knights you control get +1/+1.
 	flavor_text:

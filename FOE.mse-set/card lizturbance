@@ -26,7 +26,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(If you control at least four permanents of a color, illuminate that color this game.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
 		Create a 1/1 black enchantment Lizard creature token. Then if you illuminated black, create a 1/1 black enchantment Lizard creature token.
 		Creature tokens you control gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>

@@ -18,8 +18,8 @@ card:
 	sub_type: <word-list-race-en>Insect</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<atom-name><nospellcheck>Mobile Home</nospellcheck></atom-name> gets +1/+0 as long as you control an artifact.
-		<atom-name><nospellcheck>Mobile Home</nospellcheck></atom-name> gets +1/+0 as long as you control an enchantment.
+		<atom-name>Mobile Home</atom-name> gets +1/+0 as long as you control an artifact.
+		<atom-name>Mobile Home</atom-name> gets +1/+0 as long as you control an enchantment.
 	flavor_text: <i-flavor>Six nations under its cloak, a blade through it sparking world war.</i-flavor>
 	power: 1
 	toughness: 3

@@ -3,9 +3,10 @@ card:
 	has_styling: false
 	notes:
 		!porthole
-		!tagchampion> kogane
+		!tagchampion> Kogane
 		!tagis> champion
 		!designer TVP
+		!tagpromofor> GP1
 	time_created: 2025-06-18 11:54:25
 	time_modified: 2026-02-11 19:45:04
 	extra_data:

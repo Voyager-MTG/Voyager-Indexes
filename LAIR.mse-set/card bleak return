@@ -4,6 +4,9 @@ card:
 	notes:
 		BLACKCOMMON
 		!wave
+		!tagis> champion
+		!tagchampion> Kogane
+		!tagpromofor> LeagueLeaderS1
 	time_created: 2021-10-10 04:09:00
 	time_modified: 2026-04-29 10:50:28
 	card_color: black

@@ -30,8 +30,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<atom-name><nospellcheck>Seven-Coil’s Successor</nospellcheck></atom-name> enters with X +1/+1 counters.
-		Whenever a boon you own triggers double the number of +1/+1 counters on <atom-name><nospellcheck>Seven-Coil’s Successor</nospellcheck></atom-name>.
+		<atom-name>Seven-Coil’s Successor</atom-name> enters with X +1/+1 counters.
+		Whenever a boon you own triggers double the number of +1/+1 counters on <atom-name>Seven-Coil’s Successor</atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

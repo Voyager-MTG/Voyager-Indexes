@@ -24,7 +24,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		You control enchanted creature.
-		When you don’t control a creature with greater power than enchanted creature, return <atom-name><nospellcheck>In Lukka’s Thrall</nospellcheck></atom-name> to its owner’s hand. <i-auto>(Only if it’s still on the battlefield.)</i-auto>
+		When you don’t control a creature with greater power than enchanted creature, return <atom-name>In Lukka’s Thrall</atom-name> to its owner’s hand. <i-auto>(Only if it’s still on the battlefield.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	illustrator: Sam Perin

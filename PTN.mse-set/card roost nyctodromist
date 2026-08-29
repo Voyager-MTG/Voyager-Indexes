@@ -28,7 +28,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever another Cleric you control enters, untap <atom-name><nospellcheck>Roost Nyctodromist</nospellcheck></atom-name>.
+		Whenever another Cleric you control enters, untap <atom-name>Roost Nyctodromist</atom-name>.
 		<sym-auto>T</sym-auto>: Target creature you control gets +1/+1 and gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
 		<sym-auto>U</sym-auto>, <sym-auto>T</sym-auto>: Draw a card, then discard a card.
 	rule_text_2: 

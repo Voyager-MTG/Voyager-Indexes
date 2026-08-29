@@ -2,16 +2,21 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: Bonus sheet
 	time_created: 2025-09-16 00:08:06
-	time_modified: 2026-05-01 10:52:41
+	time_modified: 2026-08-28 12:32:31
 	card_trim_plus: glitch
 	alias_type: starts in sanctum
 	name: Edrick, Solblessed
 	alias: Ray, the Second Light
 	casting_cost: 2RW
-	image: image72
+	image: image430
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

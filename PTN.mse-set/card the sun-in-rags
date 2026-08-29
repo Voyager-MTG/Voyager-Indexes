@@ -30,7 +30,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Ward—<param-cost>Sacrifice a creature</param-cost></key></nospellcheck></kw-0>
-		When <atom-name><nospellcheck>The Sun-In-Rags</nospellcheck></atom-name> enters, destroy target nonbasic permanent.
+		When <atom-name>The Sun-In-Rags</atom-name> enters, destroy target nonbasic permanent.
 		Artifacts and creatures your opponents control enter the battlefield tapped.
 	rule_text_2: 
 	rule_text_3: 

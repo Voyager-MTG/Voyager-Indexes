@@ -17,8 +17,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Ixaja’s Stalwart</nospellcheck></atom-name> enters, put three +1/+1 counters on target Hex you control.
-		<sym-auto>3</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name><nospellcheck>Ixaja’s Stalwart</nospellcheck></atom-name> from your hand: Put three +1/+1 counters on target Hex you control. <i-auto>(Exile it. You may cast it on a later turn that a Hex or Soldier you control dealt damage to an opponent.)</i-auto>
+		When <atom-name>Ixaja’s Stalwart</atom-name> enters, put three +1/+1 counters on target Hex you control.
+		<sym-auto>3</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name>Ixaja’s Stalwart</atom-name> from your hand: Put three +1/+1 counters on target Hex you control. <i-auto>(Exile it. You may cast it on a later turn that a Hex or Soldier you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 5

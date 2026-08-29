@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		<sym-auto>1G/W</sym-auto>: <atom-name><nospellcheck>Rey Recruit</nospellcheck></atom-name> gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn. <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. Activate only once each turn.
+		<sym-auto>1G/W</sym-auto>: <atom-name>Rey Recruit</atom-name> gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn. <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. Activate only once each turn.
 	flavor_text: <i-flavor>“In House <error-spelling:en_US>Rey</error-spelling:en_US>, I see respect for all and a way around the petty wars.”</i-flavor>
 	power: 4
 	toughness: 3

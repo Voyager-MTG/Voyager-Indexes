@@ -24,6 +24,8 @@ styling:
 		other_options: vorthos box
 		additional_options: 
 		font_cap: 
+		popout_image_style_2: 
+		popunder_image_style: 
 		level_offset: -20,-38,-58,
 		level_containers: loyalty boxes
 		use_holofoil_stamps: no
@@ -216,6 +218,11 @@ include_file: card new tensuo luminary
 include_file: card bacon dreamer
 include_file: card sting
 include_file: card liferoot gnawer
+include_file: card herongrand transcended
+include_file: card bropheria
+include_file: card flesh centrifuge.1
+include_file: card curious dexteria
+include_file: card the elegiast
 version_control:
 	type: none
 apprentice_code: 

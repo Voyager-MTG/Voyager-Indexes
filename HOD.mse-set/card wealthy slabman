@@ -21,7 +21,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: When <atom-name><nospellcheck>Wealthy Slabman</nospellcheck></atom-name> dies, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a> or a <kw-0><nospellcheck><key>Weapon token</key></nospellcheck></kw-0>. <i-auto>(A <kw-0><nospellcheck><key>Weapon token</key></nospellcheck></kw-0> is an artifact Equipment with <kw-a><nospellcheck><key>equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a> and “Equipped creature gets +1/+1.”)</i-auto> 
+	rule_text: When <atom-name>Wealthy Slabman</atom-name> dies, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a> or a <kw-0><nospellcheck><key>Weapon token</key></nospellcheck></kw-0>. <i-auto>(A <kw-0><nospellcheck><key>Weapon token</key></nospellcheck></kw-0> is an artifact Equipment with <kw-a><nospellcheck><key>equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a> and “Equipped creature gets +1/+1.”)</i-auto> 
 	flavor_text: <i-flavor>The most prized possessions are passed down from parent to child.</i-flavor>
 	power: 2
 	toughness: 1

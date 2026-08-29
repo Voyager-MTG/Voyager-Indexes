@@ -28,7 +28,7 @@ card:
 	rarity: rare
 	rule_text: Double the size of target creature until end of turn. You gain life equal to its power or toughness, whichever is greater.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost>Sacrifice two Clerics</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)</i-auto></atom-reminder-custom></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Pathbound—<param-cost>Sacrifice two Clerics</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost>Sacrifice two Clerics</param-cost>, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)</i-auto></atom-reminder-custom></kw-A>
 	illustrator: Galder
 	card_code_text: 
 	card_code_text_2: 

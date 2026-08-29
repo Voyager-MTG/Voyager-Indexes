@@ -34,8 +34,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When <atom-name><nospellcheck>Territorial Yew-Maw</nospellcheck></atom-name> enters, you may have it deal 2 damage to itself.
-		Whenever <atom-name><nospellcheck>Territorial Yew-Maw</nospellcheck></atom-name> is dealt damage during your turn, destroy up to one target artifact or enchantment if you control <atom-name><nospellcheck>Territorial Yew-Maw</nospellcheck></atom-name>.
+		When <atom-name>Territorial Yew-Maw</atom-name> enters, you may have it deal 2 damage to itself.
+		Whenever <atom-name>Territorial Yew-Maw</atom-name> is dealt damage during your turn, destroy up to one target artifact or enchantment if you control <atom-name>Territorial Yew-Maw</atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

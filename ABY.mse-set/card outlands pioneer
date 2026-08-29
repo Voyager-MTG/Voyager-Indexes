@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -13,7 +15,7 @@ card:
 	time_modified: 2025-12-05 18:21:25
 	name: Outlands Pioneer
 	casting_cost: 2G
-	image: image111.png
+	image: image270
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

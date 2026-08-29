@@ -23,7 +23,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Millenniapede</atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, return up to one thousand target permanent cards from your graveyard to your hand.
-		<sym>1G</sym>, Discard <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Millenniapede</atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put a permanent card from among the milled cards into your hand.
+		<sym>1G</sym>, Discard <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Millenniapede</atom-name></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Mill three cards. You may put a permanent card from among the milled cards into your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 8
 	toughness: 8

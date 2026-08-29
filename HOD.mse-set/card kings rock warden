@@ -22,7 +22,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Whenever <atom-name><nospellcheck>King’s Rock Warden</nospellcheck></atom-name> enters, create a 1/1 blue Scout creature token, a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>, and a Clue token.
+		Whenever <atom-name>King’s Rock Warden</atom-name> enters, create a 1/1 blue Scout creature token, a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>, and a Clue token.
 		Sacrifice a token: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor>“Be willing to die for your lord. Only then will greatness shine its light on you and your house.”</i-flavor>
 	power: 2

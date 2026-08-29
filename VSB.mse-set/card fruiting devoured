@@ -25,7 +25,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		Whenever an opponent searches their library, put a +1/+1 counter on <atom-name><nospellcheck>Fruiting Devoured</nospellcheck></atom-name> and you gain 1 life.
+		Whenever an opponent searches their library, put a +1/+1 counter on <atom-name>Fruiting Devoured</atom-name> and you gain 1 life.
 	flavor_text: <i-flavor>The seeds of the Crowned Growth have satisfied their hunger.</i-flavor>
 	power: 2
 	toughness: 1

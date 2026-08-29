@@ -14,7 +14,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: <atom-name><nospellcheck>Urdonic Subjugation</nospellcheck></atom-name> deals 6 damage to target creature or planeswalker.
+	rule_text: <atom-name>Urdonic Subjugation</atom-name> deals 6 damage to target creature or planeswalker.
 	flavor_text:
 		<i-flavor>“The <error-spelling:en_US>burdent’s</error-spelling:en_US> sacred affairs have suffered <error-spelling:en_US>unburdent</error-spelling:en_US> meddling for long enough.”<soft-line>
 		</soft-line>—<error-spelling:en_US>Novablast</error-spelling:en_US>, <error-spelling:en_US>Urdonic</error-spelling:en_US> <error-spelling:en_US>Primarch</i-flavor></error-spelling:en_US>

@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<atom-name><nospellcheck>Society Headquarters</nospellcheck></atom-name> enters tapped.
-		When <atom-name><nospellcheck>Society Headquarters</nospellcheck></atom-name> enters, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
+		<atom-name>Society Headquarters</atom-name> enters tapped.
+		When <atom-name>Society Headquarters</atom-name> enters, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 	rule_text_2: 
 	rule_text_3: 

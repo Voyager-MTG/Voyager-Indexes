@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Herald of Loss</nospellcheck></atom-name> enters, each opponent puts a foretold card to the graveyard or discards a card.
+		When <atom-name>Herald of Loss</atom-name> enters, each opponent puts a foretold card to the graveyard or discards a card.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The sun has not always been this dim.</i-flavor>

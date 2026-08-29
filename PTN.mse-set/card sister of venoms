@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		Whenever <atom-name><nospellcheck>Sister of Venoms</nospellcheck></atom-name> becomes blocked, choose one —
+		Whenever <atom-name>Sister of Venoms</atom-name> becomes blocked, choose one —
 		<li><bullet>• </bullet>Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
 		</li><li><bullet>• </bullet>Other creatures you control get +1/+1 until end of turn.</li>
 	rule_text_2: 

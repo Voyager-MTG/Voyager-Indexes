@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-09-23 21:32:46
-	time_modified: 2026-01-07 17:48:32
+	time_modified: 2026-08-11 16:26:45
 	name: Tortured Mind
 	casting_cost: 1B
-	image: image163.png
+	image: image334
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,7 +23,7 @@ card:
 		<sym-auto>T</sym-auto>, Pay 1 life: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
 		<sym-auto>T</sym-auto>, Pay 3 life: Draw a card.
 		<sym-auto>T</sym-auto>, Pay 7 life: Search your library for a card, put it into your hand, then shuffle.
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>Why explore the cosmos when the first frontier lies within oneself?</i-flavor>
 	power: 0
 	toughness: 1
 	illustrator: Martin de Diego

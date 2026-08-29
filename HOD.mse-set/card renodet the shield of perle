@@ -6,12 +6,12 @@ card:
 		!tag Perle
 		!tag Renodet
 	time_created: 2025-02-24 00:31:14
-	time_modified: 2025-03-05 02:18:17
+	time_modified: 2026-08-28 14:04:53
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
 	name: Renodet, the Shield of Perle
-	casting_cost: 2RW
+	casting_cost: 1RW
 	image: image583
 	image_2: 
 	mainframe_image: 
@@ -26,11 +26,11 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		Whenever one or more legendary creatures you control attacks, exile the top card of your library. You may cast that card. When you cast a spell this way, put a +1/+1 counter on <atom-legname><nospellcheck>Renodet</nospellcheck></atom-legname>.
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		At the beginning of combat on your turn, choose target creature you control. It gets +2/+0 until end of turn. If it’s legendary, all damage that would be dealt to it this turn is dealt to <atom-legname><nospellcheck>Renodet</nospellcheck></atom-legname> instead.
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
-	toughness: 3
+	power: 1
+	toughness: 4
 	illustrator: Vadim Simanin (GenDJiK)
 	card_code_text: 
 	card_code_text_2: 

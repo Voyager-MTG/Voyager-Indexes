@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Target creature gets +1/+1 until end of turn and must be blocked this turn if able.
-		As long as you control a God and <atom-name><nospellcheck>Verse Aggress</nospellcheck></atom-name> is in your graveyard, it has <kw-1><nospellcheck><key>flashback <param-cost><sym-auto>G</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-1>
+		As long as you control a God and <atom-name>Verse Aggress</atom-name> is in your graveyard, it has <kw-1><nospellcheck><key>flashback <param-cost><sym-auto>G</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-1>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>We call upon the <error-spelling:en_US>Lionsmith</error-spelling:en_US>, who lives in eternal rivalry.</i-flavor>

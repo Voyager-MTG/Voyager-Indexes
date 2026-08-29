@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !tag CanonReprint
+	notes: 
 	time_created: 2024-12-03 22:39:56
 	time_modified: 2026-01-16 19:17:06
 	name: Prismatic Lens
 	casting_cost: 2
-	image: image6
+	image: image199
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

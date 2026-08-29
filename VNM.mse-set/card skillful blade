@@ -33,7 +33,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
 		At the beginning of combat on your turn, if you’ve illuminated blue, target enchantment becomes a copy of equipped creature until end of turn. Otherwise, equipped creature gets +1/+1 until end of turn.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	rule_text_2: 

@@ -19,7 +19,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Disdainful Throng</nospellcheck></atom-name> enters, target creature you don’t control gets -X/-X until end of turn, where X is the number of card types among cards in your graveyard. <i-auto>(Kindred counts.)</i-auto>
+		When <atom-name>Disdainful Throng</atom-name> enters, target creature you don’t control gets -X/-X until end of turn, where X is the number of card types among cards in your graveyard. <i-auto>(Kindred counts.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

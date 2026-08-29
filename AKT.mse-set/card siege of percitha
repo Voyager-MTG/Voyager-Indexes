@@ -24,7 +24,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: Whenever you cast a spell with one or more colors from anywhere other than your hand, <atom-name><nospellcheck>Siege of Percitha</nospellcheck></atom-name> deals 2 damage to any target.
+	rule_text: Whenever you cast a spell with one or more colors from anywhere other than your hand, <atom-name>Siege of Percitha</atom-name> deals 2 damage to any target.
 	flavor_text:
 		<i-flavor>“Dispose of your <error-spelling:en_US>erysium</error-spelling:en_US> and your heretics, lest I dispose of </i>you<i>.”<soft-line>
 		—<error-spelling:en_US>Novablast</error-spelling:en_US>, to Platinum</soft-line></i-flavor>

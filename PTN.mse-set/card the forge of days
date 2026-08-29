@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: mythic rare
-	rule_text: Whenever <atom-name><nospellcheck>The Forge of Days</nospellcheck></atom-name> attacks, you may put a creature card you own in exile onto the battlefield tapped and attacking. Its owner puts it on the bottom of their library at the beginning of the next end step.
+	rule_text: Whenever <atom-name>The Forge of Days</atom-name> attacks, you may put a creature card you own in exile onto the battlefield tapped and attacking. Its owner puts it on the bottom of their library at the beginning of the next end step.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

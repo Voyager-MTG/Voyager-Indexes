@@ -25,8 +25,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-name><nospellcheck>Coelle, Consumed Hunter</nospellcheck></atom-name> enters, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-name><nospellcheck>Coelle, Consumed Hunter</nospellcheck></atom-name> dies, draw three cards if three or more permanents were sacrificed and/or creatures died this turn.
+		When <atom-name>Coelle, Consumed Hunter</atom-name> enters, <kw-A><nospellcheck><key>induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>Coelle, Consumed Hunter</atom-name> dies, draw three cards if three or more permanents were sacrificed and/or creatures died this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

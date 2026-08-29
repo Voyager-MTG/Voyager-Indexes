@@ -17,7 +17,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Hex</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: Whenever <atom-name><nospellcheck>Arbor Battery</nospellcheck></atom-name> attacks, put a +1/+1 counter on target creature you control with lesser power.
+	rule_text: Whenever <atom-name>Arbor Battery</atom-name> attacks, put a +1/+1 counter on target creature you control with lesser power.
 	flavor_text:
 		<i-flavor>“This humble one believe our existence and its value requires little explanation.”<soft-line>
 		—<error-spelling:en_US>Akaaja</error-spelling:en_US>, Steel Chancellor</soft-line></i-flavor>

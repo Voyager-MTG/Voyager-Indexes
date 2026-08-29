@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-name><nospellcheck>The End is Beautiful</nospellcheck></atom-name> enters with three time counters on it.
-		At the beginning of each opponent’s upkeep, remove a time counter on <atom-name><nospellcheck>The End is Beautiful</nospellcheck></atom-name>. Then if it has no time counters on it, that player sacrifices all creatures you control. If no creatures were sacrificed this way, they lose 7 life. 
+		<atom-name>The End is Beautiful</atom-name> enters with three time counters on it.
+		At the beginning of each opponent’s upkeep, remove a time counter on <atom-name>The End is Beautiful</atom-name>. Then if it has no time counters on it, that player sacrifices all creatures you control. If no creatures were sacrificed this way, they lose 7 life. 
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Asya Yordanova
 	card_code_text: 

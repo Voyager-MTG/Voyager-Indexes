@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <sym-auto>1W</sym-auto>: Discard <atom-name><nospellcheck>Glass Guardian</nospellcheck></atom-name>: Exile the top card of your library face down. It <kw-A><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <sym-auto>1W</sym-auto>: Discard <atom-name>Glass Guardian</atom-name>: Exile the top card of your library face down. It <kw-A><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>From its core a light from behind the world lies, leaking from its cracks.</i-flavor>

@@ -30,7 +30,7 @@ card:
 	rule_text:
 		<kw-1><nospellcheck><key>Transcend <param-cost><sym>3WWW</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of combat, cast your chosen Erysite from your sanctum by paying its Transcend cost and exiling a Dragon creature you control.)</i-auto></atom-reminder-custom></kw-1>
 		<kw-0><nospellcheck><key>Trample</key></nospellcheck></kw-0>
-		When <atom-name><nospellcheck>Omnibenevolent Vessel</nospellcheck></atom-name> enters, put a +1/+1 counter on each other creature you control.
+		When <atom-name>Omnibenevolent Vessel</atom-name> enters, put a +1/+1 counter on each other creature you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5

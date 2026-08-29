@@ -18,7 +18,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Incarnation</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: <sym-auto>1B</sym-auto>, Pay 1 life: Return <atom-name><nospellcheck>Malevolent Plumber</nospellcheck></atom-name> from your graveyard to your hand.
+	rule_text: <sym-auto>1B</sym-auto>, Pay 1 life: Return <atom-name>Malevolent Plumber</atom-name> from your graveyard to your hand.
 	flavor_text:
 		<i-flavor>“Cleaning the sewers? Beneath us. Use thoughts and prayers on it instead.”<soft-line>
 		—<error-spelling:en_US>Haja</error-spelling:en_US>, Host Farm Escapee</soft-line></i-flavor>

@@ -25,7 +25,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>BGU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>BGU</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
-		You may have <atom-name><nospellcheck>Faceless Mirrorkin</nospellcheck></atom-name> enter as a copy of any creature on the battlefield. If you paid this card’s sneak cost, you may instead have this creature enter as a copy of the creature you returned to your hand.
+		You may have <atom-name>Faceless Mirrorkin</atom-name> enter as a copy of any creature on the battlefield. If you paid this card’s sneak cost, you may instead have this creature enter as a copy of the creature you returned to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 0

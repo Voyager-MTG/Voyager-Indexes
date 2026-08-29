@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		Whenever you cast a spell with mana value 5 or greater, <atom-name><nospellcheck>Phyre Sellsword</nospellcheck></atom-name> deals 2 damage to each opponent.
+		Whenever you cast a spell with mana value 5 or greater, <atom-name>Phyre Sellsword</atom-name> deals 2 damage to each opponent.
 	flavor_text: <i-flavor>Even though Lord <error-spelling:en_US>Phyre</error-spelling:en_US> perished many moons ago, there are those that invoke his name to instill fear. </i-flavor>
 	power: 3
 	toughness: 3

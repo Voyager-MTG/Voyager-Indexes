@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>
-		Whenever <atom-name><nospellcheck>Dragon Soldier</nospellcheck></atom-name> attacks, another target attacking Soldier gets +3/+0 until end of turn.
+		Whenever <atom-name>Dragon Soldier</atom-name> attacks, another target attacking Soldier gets +3/+0 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

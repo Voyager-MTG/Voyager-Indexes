@@ -20,7 +20,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Dream Whisperer</nospellcheck></atom-name> enters, search your library for a card and exile it face down. It <kw-A><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck>. Then shuffle.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>Dream Whisperer</atom-name> enters, search your library for a card and exile it face down. It <kw-A><nospellcheck><key>becom<param-*s>es</param-*s> foretold</key></nospellcheck>. Then shuffle.<atom-reminder-custom> <i-auto>(Its foretell cost is its mana cost if it isn’t already specified.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

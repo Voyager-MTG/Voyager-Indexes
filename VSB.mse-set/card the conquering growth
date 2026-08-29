@@ -21,7 +21,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever <atom-name><nospellcheck>The Conquering Growth</nospellcheck></atom-name> enters, creatures target player controls get +2/-2 until end of turn.
+		Whenever <atom-name>The Conquering Growth</atom-name> enters, creatures target player controls get +2/-2 until end of turn.
 		Whenever a creature an opponent controls dies, that player gets a poison counter.
 	flavor_text: <i-flavor></i-flavor>
 	power: 6

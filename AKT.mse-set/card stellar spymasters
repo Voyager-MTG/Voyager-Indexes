@@ -14,8 +14,8 @@ card:
 	sub_type: <word-list-race-en>Lizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-name><nospellcheck>Stellar Spymasters</nospellcheck></atom-name> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
-		<sym-auto>T</sym-auto>, Sacrifice <atom-name><nospellcheck>Stellar Spymasters</nospellcheck></atom-name>: Any number of target creatures you control phase out.
+		When <atom-name>Stellar Spymasters</atom-name> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		<sym-auto>T</sym-auto>, Sacrifice <atom-name>Stellar Spymasters</atom-name>: Any number of target creatures you control phase out.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

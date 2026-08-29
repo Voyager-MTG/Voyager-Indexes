@@ -24,7 +24,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		Counter target spell unless its controller pays <sym-auto>2</sym-auto>.
-		<sym-auto>1U</sym-auto>, Exile <atom-name><nospellcheck>Naval Diplomacy</nospellcheck></atom-name> from your graveyard: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then create two 1/1 blue Scout creature tokens <kw-1><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-1>
+		<sym-auto>1U</sym-auto>, Exile <atom-name>Naval Diplomacy</atom-name> from your graveyard: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then create two 1/1 blue Scout creature tokens <kw-1><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor><error-spelling:en_US>Marilye</error-spelling:en_US> just needed an in to King’s Rock. Luckily House <error-spelling:en_US>Nye</error-spelling:en_US> provided a boat.</i-flavor>
 	illustrator: J Spearing
 	card_code_text: Story Spotlight 6

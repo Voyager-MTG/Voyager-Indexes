@@ -20,7 +20,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		<atom-name><nospellcheck>Thyrsine Tracker</nospellcheck></atom-name> enters with a +1/+1 counter on it if you control a Sanctuary or a God.
+		<atom-name>Thyrsine Tracker</atom-name> enters with a +1/+1 counter on it if you control a Sanctuary or a God.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The principle of Heart beats eternally, its movements shall protect and preserve, but the Heart is just as dangerous.</i-flavor>

@@ -2,16 +2,21 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: Bonus sheet
 	time_created: 2025-09-30 22:03:30
-	time_modified: 2026-05-01 10:52:56
+	time_modified: 2026-08-28 12:33:05
 	card_trim_plus: glitch
 	alias_type: starts in sanctum
 	name: Nevali, Duskbringer
 	alias: Moonfall, Coilcursed
 	casting_cost: 1B
-	image: image75
+	image: image433
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -26,7 +31,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		When <atom-legname><nospellcheck>Nevali</nospellcheck></atom-legname> dies, create a colorless Saga enchantment token named Revival with “<sym>r3</sym> — Return a card named <atom-name>Nevali, Duskbringer</atom-name> from your graveyard to your hand.”
+		When <atom-legname><nospellcheck>Nevali</nospellcheck></atom-legname> dies, create a colorless Saga enchantment token named Revival with “<sym>r3</sym> — Return a card named <atom-cardname><nospellcheck>Nevali, Duskbringer</nospellcheck></atom-cardname> from your graveyard to your hand.”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

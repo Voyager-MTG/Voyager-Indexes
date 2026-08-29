@@ -23,8 +23,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Whenever <atom-name><nospellcheck>Many-faced Blade</nospellcheck></atom-name> becomes the target of a spell or ability you don’t control, <kw-A><nospellcheck><key>forsake</key></nospellcheck>. This ability triggers only once each turn.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
-		When <atom-name><nospellcheck>Many-faced Blade</nospellcheck></atom-name> dies, draw a card.
+		Whenever <atom-name>Many-faced Blade</atom-name> becomes the target of a spell or ability you don’t control, <kw-A><nospellcheck><key>forsake</key></nospellcheck>. This ability triggers only once each turn.<atom-reminder-action> <i-auto>(To forsake, sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-name>Many-faced Blade</atom-name> dies, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 6

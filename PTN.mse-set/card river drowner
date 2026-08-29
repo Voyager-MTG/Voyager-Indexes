@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>River Drowner</nospellcheck></atom-name> enters, you may sacrifice a creature. If you do, return target creature to its owner’s hand. 
+		When <atom-name>River Drowner</atom-name> enters, you may sacrifice a creature. If you do, return target creature to its owner’s hand. 
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

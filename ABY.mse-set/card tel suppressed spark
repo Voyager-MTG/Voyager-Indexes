@@ -2,16 +2,21 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: Bonus sheet
 	time_created: 2025-09-30 22:03:30
-	time_modified: 2026-05-01 10:53:06
+	time_modified: 2026-08-28 12:33:15
 	card_trim_plus: glitch
 	alias_type: starts in sanctum
 	name: Tel, Suppressed Spark
 	alias: Spark, the Catalyst
 	casting_cost: 2G
-	image: image77
+	image: image435
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

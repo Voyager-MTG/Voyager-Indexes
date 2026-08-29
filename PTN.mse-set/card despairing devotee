@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: When <atom-name><nospellcheck>Despairing Devotee</nospellcheck></atom-name> dies, target creature an opponent controls gets -1/-1 until end of turn. If it was sacrificed, that creature gets -2/-2 instead.
+	rule_text: When <atom-name>Despairing Devotee</atom-name> dies, target creature an opponent controls gets -1/-1 until end of turn. If it was sacrificed, that creature gets -2/-2 instead.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

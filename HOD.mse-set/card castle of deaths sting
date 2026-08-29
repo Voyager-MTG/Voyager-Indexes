@@ -17,7 +17,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rarity: special
-	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>. <atom-name><nospellcheck>Castle of Death’s Sting</nospellcheck></atom-name> deals 1 damage to you unless you control three or more other lands.
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>. <atom-name>Castle of Death’s Sting</atom-name> deals 1 damage to you unless you control three or more other lands.
 	flavor_text:
 		<i-flavor>“My House is one of warriors and steel.”<soft-line>
 		</soft-line>—<error-spelling:en_US>Wulfric</error-spelling:en_US> Hook</i-flavor>

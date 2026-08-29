@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<atom-name><nospellcheck>The Living Enigma</nospellcheck></atom-name> enters with a number of +1/+1 counters on it equal to the number of spells you have cast this turn. When it does, it deals that much damage to up to one target creature or planeswalker. <i-auto>(The number of spells includes this one.)</i-auto>
+		<atom-name>The Living Enigma</atom-name> enters with a number of +1/+1 counters on it equal to the number of spells you have cast this turn. When it does, it deals that much damage to up to one target creature or planeswalker. <i-auto>(The number of spells includes this one.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 0

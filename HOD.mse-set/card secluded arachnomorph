@@ -25,7 +25,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Secluded Arachnomorph</nospellcheck></atom-name> enters, <atom-name><nospellcheck>Secluded Arachnomorph</nospellcheck></atom-name> deals 3 damage to target opponent and that player discards a card. You gain 3 life and draw a card.
+		When <atom-name>Secluded Arachnomorph</atom-name> enters, <atom-name>Secluded Arachnomorph</atom-name> deals 3 damage to target opponent and that player discards a card. You gain 3 life and draw a card.
 	flavor_text: <i-flavor>An example of those who betray House Vance.</i-flavor>
 	power: 8
 	toughness: 8

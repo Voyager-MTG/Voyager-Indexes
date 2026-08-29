@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a creature.
-		Search your library for a creature card with mana value less than or equal to that of the sacrificed creature and put it into the battlefield. Shuffle, then exile <atom-name><nospellcheck>Somnibiotic Emergence</nospellcheck></atom-name>.
+		Search your library for a creature card with mana value less than or equal to that of the sacrificed creature and put it into the battlefield. Shuffle, then exile <atom-name>Somnibiotic Emergence</atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Slitherbop
 	card_code_text: 

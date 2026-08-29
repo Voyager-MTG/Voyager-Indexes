@@ -17,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>2</sym-auto>: Exile target card from a graveyard.
-		For each card type among cards exiled by <atom-name><nospellcheck>Detritus Dredger</nospellcheck></atom-name>, it gets +1/+1 and <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>that type.</param-name></key></nospellcheck></kw-a> <i-auto>(Kindred is a card type.)</i-auto>
+		For each card type among cards exiled by <atom-name>Detritus Dredger</atom-name>, it gets +1/+1 and <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>that type.</param-name></key></nospellcheck></kw-a> <i-auto>(Kindred is a card type.)</i-auto>
 	flavor_text:
 		<i-flavor>“Even trash knows the right side of history.”<soft-line>
 		—<error-spelling:en_US>Erys</soft-line></i-flavor></error-spelling:en_US>

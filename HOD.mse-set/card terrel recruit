@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Whenever <atom-name><nospellcheck>Terrel Recruit</nospellcheck></atom-name> attacks, you may pay <sym-auto>U/R</sym-auto>. If you do, target creature can’t block this turn.
+	rule_text: Whenever <atom-name>Terrel Recruit</atom-name> attacks, you may pay <sym-auto>U/R</sym-auto>. If you do, target creature can’t block this turn.
 	flavor_text: <i-flavor>“In House <error-spelling:en_US>Terrel</error-spelling:en_US>, I see greatness beyond my own petty life.”</i-flavor>
 	power: 1
 	toughness: 2

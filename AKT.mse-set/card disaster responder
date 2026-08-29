@@ -25,7 +25,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
-		<sym-auto>1B</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name><nospellcheck>Disaster Responder</nospellcheck></atom-name> from your hand or graveyard: Create a tapped 2/2 green Werewolf Citizen creature token. <i-auto>(Exile it. You may cast it on a later turn that a Dragon or Citizen you control dealt damage to an opponent.)</i-auto>
+		<sym-auto>1B</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name>Disaster Responder</atom-name> from your hand or graveyard: Create a tapped 2/2 green Werewolf Citizen creature token. <i-auto>(Exile it. You may cast it on a later turn that a Dragon or Citizen you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5

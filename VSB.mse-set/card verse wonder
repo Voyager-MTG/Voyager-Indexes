@@ -21,7 +21,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Sift <param-number>1</param-number></key></nospellcheck>, then draw a card.<atom-reminder-custom> <i-auto>(To sift <param-number>1</param-number>, look at the top card of your library. You may put it into your sanctum.)</i-auto></atom-reminder-custom></kw-A>
-		As long as you control a God and <atom-name><nospellcheck>Verse Wonder</nospellcheck></atom-name> is in your graveyard, it has <kw-A><nospellcheck><key>flashback <param-cost><sym-auto>I</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		As long as you control a God and <atom-name>Verse Wonder</atom-name> is in your graveyard, it has <kw-A><nospellcheck><key>flashback <param-cost><sym-auto>I</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Galder
 	card_code_text: 

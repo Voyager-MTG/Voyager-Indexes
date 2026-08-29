@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Whenever you draw a card, put a +1/+1 counter on <atom-name><nospellcheck>Lorescale Coatl</nospellcheck></atom-name>.
+	rule_text: Whenever you draw a card, put a +1/+1 counter on <atom-name>Lorescale Coatl</atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Its scales are a different color in each of the histories.</i-flavor>

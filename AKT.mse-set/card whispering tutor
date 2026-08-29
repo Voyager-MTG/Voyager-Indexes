@@ -16,7 +16,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Incarnation</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: Sacrifice a creature: <atom-name><nospellcheck>Whispering Tutor</nospellcheck></atom-name> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+	rule_text: Sacrifice a creature: <atom-name>Whispering Tutor</atom-name> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Erys’</error-spelling:en_US> forced equality has a critical flaw; Ideas are alive, with some being better than others.”<soft-line>
 		—<error-spelling:en_US>Atraja</error-spelling:en_US> the Mutable</soft-line></i-flavor>

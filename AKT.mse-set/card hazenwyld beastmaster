@@ -42,7 +42,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Bisapience <param-cost><sym>G</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-name><nospellcheck>Hazenwyld Beastmaster</nospellcheck></atom-name> enters or dies, create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		When <atom-name>Hazenwyld Beastmaster</atom-name> enters or dies, create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 	rule_text_2:
 		<kw-0><nospellcheck><key>Bisapience <param-cost><sym>G</sym></param-cost></key></nospellcheck></kw-0>
 		<soft-line><sym>2G</sym>, Sacrifice an artifact or enchantment: Draw a card.</soft-line>

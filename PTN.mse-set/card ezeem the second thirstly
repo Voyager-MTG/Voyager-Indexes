@@ -32,7 +32,7 @@ card:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		<kw-0><nospellcheck><key>Ward—<param-cost>Pay 3 life</param-cost>.</key></nospellcheck></kw-0>
 		At the beginning of your upkeep, each player draws a card and loses 1 life.
-		<atom-name><nospellcheck>Ezeem, the Second Thirstly</nospellcheck></atom-name> gets +X/+0, where X is the greatest amount of life a player has lost this turn.
+		<atom-name>Ezeem, the Second Thirstly</atom-name> gets +X/+0, where X is the greatest amount of life a player has lost this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

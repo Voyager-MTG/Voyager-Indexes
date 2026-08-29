@@ -30,7 +30,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		When <atom-name><nospellcheck>Knight of Skyspire</nospellcheck></atom-name> enters, choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name.
+		When <atom-name>Knight of Skyspire</atom-name> enters, choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name.
 		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>4W</sym-auto>, Exile five other cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

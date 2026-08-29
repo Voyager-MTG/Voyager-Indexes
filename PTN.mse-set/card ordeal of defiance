@@ -20,8 +20,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, enchanted creature becomes a God in addition to its other types, then sacrifice <atom-name><nospellcheck>Ordeal of Defiance</nospellcheck></atom-name>.
-		When you sacrifice <atom-name><nospellcheck>Ordeal of Defiance</nospellcheck></atom-name>, you may have target creature you control fights another target creature.
+		Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, enchanted creature becomes a God in addition to its other types, then sacrifice <atom-name>Ordeal of Defiance</atom-name>.
+		When you sacrifice <atom-name>Ordeal of Defiance</atom-name>, you may have target creature you control fights another target creature.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

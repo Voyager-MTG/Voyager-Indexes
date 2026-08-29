@@ -30,7 +30,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: When <atom-name><nospellcheck>Resolute Elk</nospellcheck></atom-name> enters or dies, choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: When <atom-name>Resolute Elk</atom-name> enters or dies, choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>The ominous symbol of House <error-spelling:en_US>Turnberry</error-spelling:en_US>.</i-flavor>
 	power: 6
 	toughness: 6

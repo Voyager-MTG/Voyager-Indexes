@@ -31,8 +31,8 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
 		<margin:0:0:5>Whenever Me, Divine Aspirant</atom-name> attacks, choose one that hasn’t been chosen. If you can’t, exile <atom-legname><nospellcheck>Me</nospellcheck></atom-legname> and return it to the battlefield transformed.</margin:0:0:5>
-		<li><bullet>• </bullet><atom-legname><nospellcheck>Me</nospellcheck></atom-legname> gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
-		</li><li><bullet>• </bullet><atom-legname><nospellcheck>Me</nospellcheck></atom-legname> gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+		<li><bullet>• </bullet><atom-legname><nospellcheck>Me</nospellcheck></atom-legname> gains menace until end of turn.
+		</li><li><bullet>• </bullet><atom-legname><nospellcheck>Me</nospellcheck></atom-legname> gains first strike until end of turn.
 		</li><li><bullet>• </bullet><atom-legname><nospellcheck>Me</nospellcheck></atom-legname> gets +1/+1 until end of turn.</li>
 	flavor_text: <i-flavor></i-flavor>
 	loyalty_cost_10: 0

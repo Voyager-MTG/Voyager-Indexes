@@ -43,7 +43,7 @@ card:
 	rule_text_2:
 		<kw-0><nospellcheck><key>Bisapience <param-cost><sym>R</sym></param-cost></key></nospellcheck></kw-0>
 		<kw-0><nospellcheck><key>T<kw-0>rample</key></nospellcheck></kw-0>
-		When <atom-name><nospellcheck>Vengeant Skarrgspawn</nospellcheck></atom-name> enters, put a +1/+1 counter on it for each other Werewolf you control and each Werewolf card in your graveyard.
+		When <atom-name>Vengeant Skarrgspawn</atom-name> enters, put a +1/+1 counter on it for each other Werewolf you control and each Werewolf card in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 3

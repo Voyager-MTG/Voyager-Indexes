@@ -31,7 +31,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Sneak <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck></kw-0>
-		<margin:0:0:5>Whenever <atom-name><nospellcheck>Plaskett Trickster</nospellcheck></atom-name> deals combat damage to a player or planeswalker, choose one to be exiled. You may play the exiled cards for as long as they remain exiled and spend mana as though it were mana of any type to cast spells this way.</margin:0:0:5>
+		<margin:0:0:5>Whenever <atom-name>Plaskett Trickster</atom-name> deals combat damage to a player or planeswalker, choose one to be exiled. You may play the exiled cards for as long as they remain exiled and spend mana as though it were mana of any type to cast spells this way.</margin:0:0:5>
 		<li><bullet>• </bullet>A card from defending player’s hand.
 		</li><li><bullet>• </bullet>A random card from defending player’s sanctum.</li>
 	flavor_text: <i-flavor></i-flavor>

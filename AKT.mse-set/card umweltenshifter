@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		As <atom-name><nospellcheck>Umweltenshifter</nospellcheck></atom-name> enters, choose a creature type.
+		As <atom-name>Umweltenshifter</atom-name> enters, choose a creature type.
 		Permanents you control are kindred and the chosen type in addition to their other types. The same is true for spells you control and cards you own that aren’t on the battlefield.
 	rule_text_2: 
 	rule_text_3: 

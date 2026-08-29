@@ -20,7 +20,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-A><nospellcheck><key>Ward—<param-cost>Pay 1 life</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player <param-cost>pays 1 life</param-cost>.)</i-auto></atom-reminder-expert></kw-A>
-		<atom-name><nospellcheck>Subverting Insurgent</nospellcheck></atom-name> can’t block.
+		<atom-name>Subverting Insurgent</atom-name> can’t block.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Reforging must first destroy, Edge dominates in destruction.</i-flavor>

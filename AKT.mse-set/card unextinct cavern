@@ -14,7 +14,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		Exile a card with a creature type from your graveyard: Until end of turn, <atom-name><nospellcheck>Unextinct Cavern</nospellcheck></atom-name> becomes a 2/2 creature with that card’s creature types. It’s still a land.
+		Exile a card with a creature type from your graveyard: Until end of turn, <atom-name>Unextinct Cavern</atom-name> becomes a 2/2 creature with that card’s creature types. It’s still a land.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Timi Honkanen
 	card_code_text: 

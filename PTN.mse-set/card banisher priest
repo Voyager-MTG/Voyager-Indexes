@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: When <atom-name><nospellcheck>Banisher Priest</nospellcheck></atom-name> enters, exile target creature an opponent controls until <atom-name><nospellcheck>Banisher Priest</nospellcheck></atom-name> leaves the battlefield.
+	rule_text: When <atom-name>Banisher Priest</atom-name> enters, exile target creature an opponent controls until <atom-name>Banisher Priest</atom-name> leaves the battlefield.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Monsters not willing to serve shall not be permitted in the Wake.</i-flavor>

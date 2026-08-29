@@ -17,7 +17,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rarity: special
-	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>. <atom-name><nospellcheck>Turnberry Citadel</nospellcheck></atom-name> deals 1 damage to you unless you control three or more other lands.
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>. <atom-name>Turnberry Citadel</atom-name> deals 1 damage to you unless you control three or more other lands.
 	flavor_text:
 		<i-flavor>“My House is all of me.”<soft-line>
 		</soft-line>—<error-spelling:en_US>Gosfridus</error-spelling:en_US> <error-spelling:en_US>Turnberry</i-flavor></error-spelling:en_US>

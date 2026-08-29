@@ -13,7 +13,7 @@ card:
 		!designer SilverParabellum
 		Mono red planeswalker
 	time_created: 2026-02-11 09:05:42
-	time_modified: 2026-04-21 19:21:58
+	time_modified: 2026-08-28 12:18:02
 	name: Ellyn, Bloodied Huntress
 	casting_cost: 3RR
 	image: image11
@@ -30,11 +30,11 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	loyalty_cost_2: +1
-	loyalty_cost_3: -3
-	loyalty: 5
-	level_1_text: Whenever you discard one or more cards, <atom-legname><nospellcheck>this planeswalker</nospellcheck></atom-legname> deals that much damage to any target.
+	loyalty_cost_3: -2
+	loyalty: 4
+	level_1_text: Whenever you discard one or more cards, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ellyn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals that much damage to any target.
 	level_2_text: <margin:130:0:0>Create an Insolent Neonate token. <i-auto>(It’s an <sym>R</sym> 1/1 Vampire creature with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> and “Discard a card, Sacrifice Insolent Neonate: Draw a card.”</i-auto></margin:130:0:0>
-	level_3_text: <margin:130:0:0>Discard your hand, then draw a card for each card you’ve discarded this turn.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Discard your hand, then draw two cards.</margin:130:0:0>
 	level_4_text: <kw-A><nospellcheck><key>Madness <param-cost><sym-auto>1RR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</i-auto></atom-reminder-expert></kw-A>
 	level_5_text: 
 	illustrator: Mintbreak
@@ -42,7 +42,7 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 	special_text:
-		Whenever you discard one or more cards, <atom-legname><nospellcheck>this planeswalker</nospellcheck></atom-legname> deals that much damage to any target.
+		Whenever you discard one or more cards, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ellyn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals that much damage to any target.
 		[+1]: <margin:130:0:0>Create an Insolent Neonate token. <i-auto>(It’s an <sym>R</sym> 1/1 Vampire creature with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> and “Discard a card, Sacrifice Insolent Neonate: Draw a card.”</i-auto></margin:130:0:0>
-		[-3]: <margin:130:0:0>Discard your hand, then draw a card for each card you’ve discarded this turn.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Discard your hand, then draw two cards.</margin:130:0:0>
 		<kw-A><nospellcheck><key>Madness <param-cost><sym-auto>1RR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</i-auto></atom-reminder-expert></kw-A>

@@ -20,7 +20,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever <atom-name><nospellcheck>Malleary Novice</nospellcheck></atom-name> attacks, target creature you control gets +1/+0 until end of turn.
+		Whenever <atom-name>Malleary Novice</atom-name> attacks, target creature you control gets +1/+0 until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Her <error-spelling:en_US>ingenuities</error-spelling:en_US> are endless, and her grip is stronger than a blacksmith’s.</i-flavor>

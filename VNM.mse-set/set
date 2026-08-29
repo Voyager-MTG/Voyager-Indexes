@@ -476,7 +476,7 @@ include_file: card fog walker
 include_file: card dromencals respite
 include_file: card outlands respite
 include_file: card melodia voidtouched
-include_file: card calia oracle of tofnet plains
+include_file: card caylia oracle of tofnet plains
 include_file: card ola kaln-ocean spellkeeper
 include_file: card kier acolyte of avlod respite
 include_file: card vane verem-volcano scorcher
@@ -590,12 +590,6 @@ include_file: card fault.2
 include_file: card avlod pathshaper
 include_file: card crowned entity
 include_file: card opportunistic scavenger
-keyword:
-	keyword: Luminous
-	match: Luminous
-	reminder: For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.
-	rules: Luminous — If you control {n} or more other {other} permanents 
-	mode: action
 keyword:
 	keyword: Materialize
 	match: Materialize <atom-param>number</atom-param>

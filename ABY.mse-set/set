@@ -30,6 +30,8 @@ styling:
 		inverted_common_symbol: yes
 		overlay: 
 	magic-m15-altered-plus:
+		chop_top: 5
+		chop_bottom: 5
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	magic-m15-art-lair:
@@ -242,6 +244,7 @@ include_file: card lightsail skyship
 include_file: card chronicle of the devout
 include_file: card chronicle of the zealous
 include_file: card gallass understudy
+include_file: card i.e. refabricator
 include_file: card future-proofer
 include_file: card examiner of oddities
 include_file: card eldworld sprite
@@ -252,7 +255,6 @@ include_file: card modify the canon
 include_file: card thirst for answers
 include_file: card paradox haze
 include_file: card all at once
-include_file: card industrial reclamation
 include_file: card chronicle of the entranced
 include_file: card chronicle of the inspired
 include_file: card chronological constant
@@ -270,10 +272,10 @@ include_file: card final word
 include_file: card from the abyss
 include_file: card chronicle of the deceived
 include_file: card overeager ocelot
-include_file: card heel of the outlands
+include_file: card flowstone imbuer
 include_file: card madcap prodigies
 include_file: card all-purpose reforger
-include_file: card flowstone imbuer
+include_file: card heel of the outlands
 include_file: card timecoil dismantler
 include_file: card scrapwork scourge
 include_file: card twinarm outfitter
@@ -282,7 +284,7 @@ include_file: card glimpse the possibilities
 include_file: card magmatic auger
 include_file: card collapse of the web
 include_file: card abandon the timecoil
-include_file: card chronicle of the faithless
+include_file: card chronicle of the fervent
 include_file: card synthscape painter
 include_file: card artisan guild uncoiler
 include_file: card vitality reweavers
@@ -346,7 +348,7 @@ include_file: card the great exodus
 include_file: card brink desecrator
 include_file: card sting
 include_file: card scourge of the synthscape
-include_file: card serpent gods audience
+include_file: card audience of the serpent
 include_file: card inciting incident
 include_file: card soulshredder mecha
 include_file: card moonfall coilcursed

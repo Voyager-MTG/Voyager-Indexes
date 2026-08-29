@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever <atom-name><nospellcheck>Terrifying Mongrel</nospellcheck></atom-name> enters, if you attacked this turn, each opponent sacrifices a nontoken creature.
+		Whenever <atom-name>Terrifying Mongrel</atom-name> enters, if you attacked this turn, each opponent sacrifices a nontoken creature.
 	flavor_text:
 		<i-flavor>“The <error-spelling:en_US>Geistwald</error-spelling:en_US> is never safe, no matter what preparations you make.”<soft-line>
 		—<error-spelling:en_US>Roza</error-spelling:en_US> <error-spelling:en_US>Attwater</soft-line></i-flavor></error-spelling:en_US>

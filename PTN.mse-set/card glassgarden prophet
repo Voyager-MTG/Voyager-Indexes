@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Foretelling cards from your hand costs <sym-auto>1</sym-auto> less.
-		Whenever you play a card from exile, <atom-name><nospellcheck>Glassgarden Prophet</nospellcheck></atom-name> gets +1/+0 until end of turn.
+		Whenever you play a card from exile, <atom-name>Glassgarden Prophet</atom-name> gets +1/+0 until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The principle of Lantern shows us the light behind the world and illuminates the dark without mercy.</i-flavor>

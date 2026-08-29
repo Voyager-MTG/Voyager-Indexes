@@ -28,8 +28,8 @@ card:
 	sub_type: <word-list-race-en>Hex</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<atom-name><nospellcheck>Parasite Socialite</nospellcheck></atom-name> enters with a +1/+1 counter on it.
-		When <atom-name><nospellcheck>Parasite Socialite</nospellcheck></atom-name> leaves the battlefield, put its counters on target permanent you control.
+		<atom-name>Parasite Socialite</atom-name> enters with a +1/+1 counter on it.
+		When <atom-name>Parasite Socialite</atom-name> leaves the battlefield, put its counters on target permanent you control.
 	flavor_text: <i-flavor>“The party’s hosts have great taste.”</i-flavor>
 	power: 2
 	toughness: 1

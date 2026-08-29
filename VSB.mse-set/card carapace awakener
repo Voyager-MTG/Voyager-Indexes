@@ -21,7 +21,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-name><nospellcheck>Carapace Awakener</nospellcheck></atom-name> attacks, any number of target creatures you control have size 3/2 until end of turn.
+		Whenever <atom-name>Carapace Awakener</atom-name> attacks, any number of target creatures you control have size 3/2 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4

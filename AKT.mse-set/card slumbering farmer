@@ -16,7 +16,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Frog</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: <atom-name><nospellcheck>Slumbering Farmer</nospellcheck></atom-name> gets +3/+1 if there’s four or more card types in your graveyard. <i-auto>(Kindred is a card type.)</i-auto>
+	rule_text: <atom-name>Slumbering Farmer</atom-name> gets +3/+1 if there’s four or more card types in your graveyard. <i-auto>(Kindred is a card type.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 3

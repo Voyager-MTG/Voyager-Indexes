@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-03 22:52:17
-	time_modified: 2026-04-21 19:48:32
+	time_modified: 2026-08-06 23:25:52
 	name: Chronicle of the Entranced
-	casting_cost: 1U
-	image: image122.png
+	casting_cost: 2UU
+	image: image237
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -14,15 +14,18 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
 	chapter_text: 
 	rule_text:
-		When this enchantment enters, tap up to one target creature and put two <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it.
-		<kw-A><nospellcheck><key>Flux <param-number>2</param-number> — <param-one_word>Until</param-one_word></key></nospellcheck> the end of your next turn, you may cast spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.<atom-reminder-custom> <i-auto>(On your upkeep, put a time counter on this. Whenever there are <param-number>two</param-number> or more, remove <param-number>two</param-number> and trigger the flux ability.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		When this Aura enters, tap enchanted creature.
+		You control enchanted creature.
+		Enchanted creature doesn’t untap during its controller’s untap step.
+		<kw-A><nospellcheck><key>Flux <param-number>2</param-number> — <param-one_word>Untap</param-one_word></key></nospellcheck> enchanted creature.<atom-reminder-custom> <i-auto>(On your upkeep, put a time counter on this. Whenever there are <param-number>two</param-number> or more, remove <param-number>two</param-number> and trigger the flux ability.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: 
 	level_2_text: 

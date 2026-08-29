@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		<atom-name><nospellcheck>The Chiliarch</nospellcheck></atom-name> can’t be the target of instant spells.
-		If damage would be dealt to <atom-name><nospellcheck>The Chiliarch</nospellcheck></atom-name> while it isn’t blocking, prevent that damage and put that many +1/+1 counters on <atom-name><nospellcheck>The Chiliarch</nospellcheck></atom-name>.
+		<atom-name>The Chiliarch</atom-name> can’t be the target of instant spells.
+		If damage would be dealt to <atom-name>The Chiliarch</atom-name> while it isn’t blocking, prevent that damage and put that many +1/+1 counters on <atom-name>The Chiliarch</atom-name>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -30,7 +30,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: At the beginning of each end step, if you spent four or more mana on casting noncreature spells and/or paying for <kw-0><nospellcheck><key>bloom</key></nospellcheck></kw-0> costs this turn, you may discard a card. If you do, return <atom-name><nospellcheck>Cherrywood Elite</nospellcheck></atom-name> from your graveyard to the battlefield.
+	rule_text: At the beginning of each end step, if you spent four or more mana on casting noncreature spells and/or paying for <kw-0><nospellcheck><key>bloom</key></nospellcheck></kw-0> costs this turn, you may discard a card. If you do, return <atom-name>Cherrywood Elite</atom-name> from your graveyard to the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 2

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-07 00:18:52
+	time_modified: 2026-08-07 01:40:28
+	name: I.E. Refabricator
+	casting_cost: 1U
+	image: image226
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Robot</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Jellyfish</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		At the beginning of your upkeep, you may return this card from your graveyard to your hand. If you do, you can’t cast spells this turn.
+	flavor_text: <i-flavor>Metal rusts and charge fades out, but progress is eternal.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Leon Tukker
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

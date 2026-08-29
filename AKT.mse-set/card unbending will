@@ -29,7 +29,7 @@ card:
 	rarity: common
 	rule_text:
 		Tap target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
-		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name><nospellcheck>Unbending Will </nospellcheck></atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Human or Wizard you control dealt damage to an opponent.)</i-auto>
+		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name>Unbending Will </atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Human or Wizard you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Clint Clearley
 	card_code_text: 

@@ -17,7 +17,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Property Surveyor</nospellcheck></atom-name> enters, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
+		When <atom-name>Property Surveyor</atom-name> enters, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

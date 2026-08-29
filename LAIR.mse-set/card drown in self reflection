@@ -3,8 +3,9 @@ card:
 	has_styling: false
 	notes:
 		!porthole
-		!tagchampion> kogane
+		!tagchampion> Kogane
 		!tagis> champion
+		!tagpromofor> GP2
 		!designer Trewq
 	time_created: 2024-10-12 13:13:57
 	time_modified: 2025-08-31 19:27:46

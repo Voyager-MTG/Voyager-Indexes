@@ -17,7 +17,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		If you haven’t cast a spell named <atom-name><nospellcheck>Spread His Formula</nospellcheck></atom-name> this turn, you may cast <atom-name><nospellcheck>Spread His Formula</nospellcheck></atom-name> from your graveyard.
+		If you haven’t cast a spell named <atom-name>Spread His Formula</atom-name> this turn, you may cast <atom-name>Spread His Formula</atom-name> from your graveyard.
 		The next time target creature deals damage to an opponent this turn, you draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Grace Liu

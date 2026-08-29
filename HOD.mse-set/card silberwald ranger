@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		Whenever one or more creatures you control enter, if they weren’t cast from your hand, put a +1/+1 counter on <atom-name><nospellcheck>Silberwald Ranger</nospellcheck></atom-name>. <i-auto>(This includes tokens entering the battlefield.)</i-auto>
+		Whenever one or more creatures you control enter, if they weren’t cast from your hand, put a +1/+1 counter on <atom-name>Silberwald Ranger</atom-name>. <i-auto>(This includes tokens entering the battlefield.)</i-auto>
 	flavor_text: <i-flavor>While <error-spelling:en_US>Ardleby</error-spelling:en_US> Hold may be abandoned, the stragglers of House <error-spelling:en_US>Phyre</error-spelling:en_US> still maintain the surrounding forest.</i-flavor>
 	power: 3
 	toughness: 3

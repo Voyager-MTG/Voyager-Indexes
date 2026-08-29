@@ -533,12 +533,6 @@ include_file: card dragon
 include_file: card longneck marketwatch
 include_file: card ambitious haze
 keyword:
-	keyword: Luminous
-	match: Luminous
-	reminder: If you control at least four permanents of a color, illuminate that color this game.
-	rules: Luminous — If you control {n} or more other {other} permanents 
-	mode: action
-keyword:
 	keyword: Materialize
 	match: Materialize <atom-param>number</atom-param>
 	reminder: Tap any number of other enchantments you control with total mana value {param1} or more: This becomes a creature in addition to its other types until your next upkeep.

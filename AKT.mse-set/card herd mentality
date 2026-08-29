@@ -17,7 +17,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		As <atom-name><nospellcheck>Herd Mentality</nospellcheck></atom-name> enters, choose a creature type.
+		As <atom-name>Herd Mentality</atom-name> enters, choose a creature type.
 		At the beginning of combat on your turn, up to two target creatures of the chosen type get +1/+1 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Suzanne Helmigh

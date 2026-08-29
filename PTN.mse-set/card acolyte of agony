@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-06-24 12:18:33
-	time_modified: 2024-02-18 21:33:12
+	time_modified: 2026-08-28 13:31:56
 	name: Acolyte of Agony
 	casting_cost: BR
 	image: image360
@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<sym-auto>T</sym-auto>, Sacrifice <atom-name><nospellcheck>Acolyte of Agony</nospellcheck></atom-name>: It deals X damage to target creature, where X is the amount of life target opponent lost this turn.
+		Sacrifice <atom-name>Acolyte of Agony</atom-name>: It deals X damage to target creature, where X is the amount of life target opponent lost this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The Lore of the Knife to bring victory, the Succulent Lore to make it sweeter.</i-flavor>

@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		As an additional cost to cast this spell, you may reveal any number of cards named <atom-name><nospellcheck>Being Fracture</nospellcheck></atom-name> from your sanctum.
-		<atom-name><nospellcheck>Being Fracture</nospellcheck></atom-name> deals 2 damage to target player. For each card revealed this way, <atom-name><nospellcheck>Being Fracture</nospellcheck></atom-name> deals an additional 2 damage to that player.
+		As an additional cost to cast this spell, you may reveal any number of cards named <atom-name>Being Fracture</atom-name> from your sanctum.
+		<atom-name>Being Fracture</atom-name> deals 2 damage to target player. For each card revealed this way, <atom-name>Being Fracture</atom-name> deals an additional 2 damage to that player.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: RetiredArtist
 	card_code_text: 

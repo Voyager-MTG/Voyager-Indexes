@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		main_style: normal
+		other_options: vorthos box
+		additional_options: 
+		font_cap: 
+		popout_image_style_2: 
+		popunder_image_style: 0,0,375,62,
+		level_offset: -20,-38,-58,
+		level_containers: loyalty boxes
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		COLOURLESSUNCOMMON
+		FELLOWLANDCYCLE
+	time_created: 2022-06-09 06:25:33
+	time_modified: 2026-08-19 08:54:29
+	card_trim: borderless art, fnm promo
+	card_trim_plus: none
+	card_color: white, green, land, horizontal
+	name: ArkaiIxajaprataKgxrajatajex
+	image: image96.png
+	image_2: image_27.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Land</word-list-type-en>
+	sub_type: <word-list-race-en>Hex</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<atom-name>ArkaiIxajaprataKgxrajatajex</atom-name> enters tapped unless you control another Hex.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
+		<sym-auto>1</sym-auto>, Embrace <atom-legname><nospellcheck>ArkaiIxajaprataKgxrajatajex</nospellcheck></atom-legname> from your hand: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>. <i-auto>(Exile it. You may play it on a later turn that a Hex you control dealt damage to an opponent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Gustavo Arteaga
+	custom_card_number: GP
+	card_code_text: Kgxrajatajex Promo
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

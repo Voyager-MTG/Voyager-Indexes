@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -13,7 +15,7 @@ card:
 	time_modified: 2026-04-10 13:33:18
 	name: Photonic Vulpine
 	casting_cost: 3R
-	image: image103.png
+	image: image171
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

@@ -16,7 +16,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
-	rule_text: <atom-name><nospellcheck>Shred</nospellcheck></atom-name> deals 4 damage to target planeswalker or tapped creature.
+	rule_text: <atom-name>Shred</atom-name> deals 4 damage to target planeswalker or tapped creature.
 	flavor_text: <i-flavor>Lightning sat comatose, split from his brother, split from his purpose in life. Who was once the prince’s <error-spelling:en_US>armour</error-spelling:en_US> was now the king’s discarded dregs.</i-flavor>
 	watermark: other magic symbols story spotlight
 	illustrator: Darko Kreculj

@@ -14,7 +14,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-name><nospellcheck>Thoughtglass Shaper</nospellcheck></atom-name> enters, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+	rule_text: When <atom-name>Thoughtglass Shaper</atom-name> enters, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor>“First <error-spelling:en_US>bisapients</error-spelling:en_US> take our children, now <error-spelling:en_US>urdons</error-spelling:en_US> take our homes. Humanity will have its vengeance.”</i-flavor>
 	power: 1
 	toughness: 4

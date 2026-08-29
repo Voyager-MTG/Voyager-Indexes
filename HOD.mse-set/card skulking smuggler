@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Whenever <atom-name><nospellcheck>Skulking Smuggler</nospellcheck></atom-name> attacks, another target creature can’t be blocked this turn.
+		Whenever <atom-name>Skulking Smuggler</atom-name> attacks, another target creature can’t be blocked this turn.
 		<kw-0><nospellcheck><key><param-one_word>Swamp</param-one_word>cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>, <kw-0><nospellcheck><key><param-one_word>Forest</param-one_word>cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>, <kw-0><nospellcheck><key><param-one_word>Island</param-one_word>cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>2</sym-auto>, Discard this card: Search your library for a Swamp, Forest, or Island card, reveal it, put it into your hand, then shuffle.)</i-auto>
 	flavor_text: <i-flavor>“Follow me.”</i-flavor>
 	power: 4

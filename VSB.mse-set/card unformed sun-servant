@@ -26,7 +26,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		The first card you foretell each turn costs <sym-auto>0</sym-auto> to foretell.
-		Whenever you cast a spell from exile, <atom-name><nospellcheck>Unformed Sun-Servant</nospellcheck></atom-name> becomes an enchantment creature until end of turn.
+		Whenever you cast a spell from exile, <atom-name>Unformed Sun-Servant</atom-name> becomes an enchantment creature until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

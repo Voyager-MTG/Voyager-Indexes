@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When <atom-name><nospellcheck>Percussigant</nospellcheck></atom-name> enters, search your library and/or graveyard for a Sanctuary card and put it onto the battlefield tapped. If you searched your library this way, shuffle.
+		When <atom-name>Percussigant</atom-name> enters, search your library and/or graveyard for a Sanctuary card and put it onto the battlefield tapped. If you searched your library this way, shuffle.
 		Activated abilities of Sanctuaries you control cost <sym-auto>1</sym-auto> less to activate.
 	rule_text_2: 
 	rule_text_3: 

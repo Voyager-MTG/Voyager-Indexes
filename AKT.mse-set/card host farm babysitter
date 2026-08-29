@@ -18,8 +18,8 @@ card:
 	sub_type: <word-list-race-en>Hex</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-name><nospellcheck>Host Farm Babysitter</nospellcheck></atom-name> dies, create a 1/1 green Hex Citizen creature token.
-		<sym-auto>GG</sym-auto>, Sacrifice <atom-name><nospellcheck>Host Farm Babysitter</nospellcheck></atom-name>: Destroy target noncreature artifact or noncreature enchantment.
+		When <atom-name>Host Farm Babysitter</atom-name> dies, create a 1/1 green Hex Citizen creature token.
+		<sym-auto>GG</sym-auto>, Sacrifice <atom-name>Host Farm Babysitter</atom-name>: Destroy target noncreature artifact or noncreature enchantment.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

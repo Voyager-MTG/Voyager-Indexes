@@ -28,7 +28,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
-		<atom-name><nospellcheck>Deradicalised Revenant</nospellcheck></atom-name> can’t be blocked.
+		<atom-name>Deradicalised Revenant</atom-name> can’t be blocked.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

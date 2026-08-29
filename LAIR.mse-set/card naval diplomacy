@@ -31,7 +31,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		Counter target spell unless its controller pays <sym-auto>2</sym-auto>.
-		<sym-auto>1U</sym-auto>, Exile Naval Diplomacy</atom-name> from your graveyard: <kw-0><nospellcheck><key><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Surveil</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <param-number>2</param-number></key></nospellcheck></kw-0>, then create two 1/1 blue Scout creature tokens <kw-0><nospellcheck><key>in your reserves</key></nospellcheck></kw-0>.
+		<sym-auto>1U</sym-auto>, Exile Naval Diplomacy</atom-name> from your graveyard: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Surveil</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <sym-auto>2</sym-auto>, then create two 1/1 blue Scout creature tokens in your reserves.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: J Spearing
 	custom_card_number: 6 — 001 • Top Cards II

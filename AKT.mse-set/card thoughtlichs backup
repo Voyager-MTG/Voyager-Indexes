@@ -24,7 +24,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>; <kw-A><nospellcheck><key>changeling</key></nospellcheck><atom-reminder-expert> <i-auto>(This card is every creature type.)</i-auto></atom-reminder-expert></kw-A>
-		Whenever you cast a spell, if you control two or more other permanents that share a creature type with it, put a +1/+1 counter on <atom-name><nospellcheck>Thoughtlich’s Backup</nospellcheck></atom-name>.
+		Whenever you cast a spell, if you control two or more other permanents that share a creature type with it, put a +1/+1 counter on <atom-name>Thoughtlich’s Backup</atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

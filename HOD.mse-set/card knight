@@ -25,7 +25,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <atom-name><nospellcheck>Knight</nospellcheck></atom-name> is all colors.
+	rule_text: <atom-name>Knight</atom-name> is all colors.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

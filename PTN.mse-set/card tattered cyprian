@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-09-02 18:35:56
-	time_modified: 2025-05-17 19:48:39
+	time_modified: 2026-08-28 13:28:58
 	card_color: red
 	name: Tattered Cyprian
 	casting_cost: 1R
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Tattered Cyprian</nospellcheck></atom-name> enters, if an opponent lost life this turn, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>Tattered Cyprian</atom-name> enters or dies, if an opponent lost life this turn, <kw-A><nospellcheck><key>you get a <kw-A>Scar</key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re boons with “When a creature you control dies, you may pay <sym-auto>1</sym-auto>. If you do, draw a card.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

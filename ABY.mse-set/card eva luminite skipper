@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-06 00:48:21
-	time_modified: 2026-03-03 22:38:05
+	time_modified: 2026-08-03 01:35:42
 	name: Eva, Luminite Skipper
-	casting_cost: 1RW
-	image: image169.png
+	casting_cost: RW
+	image: image360
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,8 +23,8 @@ card:
 		During your turn, <atom-legname><nospellcheck>Eva</nospellcheck></atom-legname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
 		When <atom-legname><nospellcheck>Eva</nospellcheck></atom-legname> enters, create Trailblazer, a legendary colorless Equipment artifact token with <kw-a><nospellcheck><key>equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>, “Whenever you attack, put a charge counter on Trailblazer,” and “Equipped creature gets +1/+1 for each charge counter on Trailblazer.”
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
-	toughness: 2
+	power: 2
+	toughness: 1
 	illustrator: Benjamin Ee
 	card_code_text: 
 	card_code_text_2: 

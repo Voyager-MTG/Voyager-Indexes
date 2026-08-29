@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: mythic rare
 	rule_text:
-		As <atom-name><nospellcheck>Frail Friendship</nospellcheck></atom-name> enters, choose two creature types.
+		As <atom-name>Frail Friendship</atom-name> enters, choose two creature types.
 		Once each turn, when you cast a spell with only one of the chosen types, you may reveal cards from the top of your library until you reveal one that’s the other type, put it into your hand, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sandara Tang

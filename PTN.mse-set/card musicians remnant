@@ -30,8 +30,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<atom-name><nospellcheck>Musician’s Remnant</nospellcheck></atom-name> can’t block.
-		<sym-auto>8GG</sym-auto>, Shuffle <atom-name><nospellcheck>Musician’s Remnant</nospellcheck></atom-name> from your graveyard into your library: Create a token that’s a copy of <atom-name><nospellcheck>Musician’s Remnant</nospellcheck></atom-name>. This ability costs <sym-auto>2</sym-auto> less to activate for each card you’ve drawn this turn.
+		<atom-name>Musician’s Remnant</atom-name> can’t block.
+		<sym-auto>8GG</sym-auto>, Shuffle <atom-name>Musician’s Remnant</atom-name> from your graveyard into your library: Create a token that’s a copy of <atom-name>Musician’s Remnant</atom-name>. This ability costs <sym-auto>2</sym-auto> less to activate for each card you’ve drawn this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

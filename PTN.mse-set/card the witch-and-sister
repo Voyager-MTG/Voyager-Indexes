@@ -33,7 +33,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		When this creature enters or transforms into <atom-legname><nospellcheck>The Witch-and-Sister</nospellcheck></atom-legname>, target creature you control can’t be blocked this turn.
-		<sym-auto>1W</sym-auto>, <sym-auto>T</sym-auto>: Transform <atom-name><nospellcheck>The Witch-and-Sister</nospellcheck></atom-name>.
+		<sym-auto>1W</sym-auto>, <sym-auto>T</sym-auto>: Transform <atom-name>The Witch-and-Sister</atom-name>.
 	rule_text_2:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
 		When this creature enters or transforms into <atom-legname><nospellcheck>The Sister-and-Witch</nospellcheck></atom-legname>, target creature you control gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.

@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>2B</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever <atom-name><nospellcheck>Devious Cutthroat</nospellcheck></atom-name> deals combat damage to a player or planeswalker, defending player discards a card.
+		Whenever <atom-name>Devious Cutthroat</atom-name> deals combat damage to a player or planeswalker, defending player discards a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 1

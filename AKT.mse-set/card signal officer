@@ -18,7 +18,7 @@ card:
 	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Signal Officer</nospellcheck></atom-name> enters, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-name>Signal Officer</atom-name> enters, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>“Rat, human, or <error-spelling:en_US>urdon</error-spelling:en_US>, the trains exist to get you where you need to be.”</i-flavor>
 	power: 1
 	toughness: 1

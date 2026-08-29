@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-name><nospellcheck>Geistwald Explorer</nospellcheck></atom-name> enters with your choice of a <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, or +1/+1 counter on it. If you attacked this turn, it enters with one of each of those counters instead.
+		<atom-name>Geistwald Explorer</atom-name> enters with your choice of a <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, or +1/+1 counter on it. If you attacked this turn, it enters with one of each of those counters instead.
 		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>5G</sym-auto>, Exile four other cards from your graveyard. </param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

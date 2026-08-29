@@ -23,8 +23,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Sycophant</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature deals damage to a player or planeswalker, the next spell you cast this turn costs <sym>1</sym> less to cast.)</i-auto></atom-reminder-custom></kw-A>
-		<sym-auto>T</sym-auto>: <atom-name><nospellcheck>Seeker of Blood</nospellcheck></atom-name> deals 1 damage to target player or planeswalker.
-		Whenever you cast a noncreature spell, untap <atom-name><nospellcheck>Seeker of Blood</nospellcheck></atom-name>.
+		<sym-auto>T</sym-auto>: <atom-name>Seeker of Blood</atom-name> deals 1 damage to target player or planeswalker.
+		Whenever you cast a noncreature spell, untap <atom-name>Seeker of Blood</atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

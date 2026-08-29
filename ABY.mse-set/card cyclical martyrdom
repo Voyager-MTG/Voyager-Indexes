@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-11-03 00:42:23
-	time_modified: 2025-12-05 18:25:20
+	time_modified: 2026-08-11 16:29:53
 	name: Cyclical Martyrdom
-	casting_cost: 1RW
-	image: image140
+	casting_cost: 2RW
+	image: image390
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		Whenever a creature you control enters, this enchantment deals 1 damage to each opponent and you gain 1 life.
-		Whenever a creature you control dies while attacking, you may exile it. If you do, you may cast it this turn, except it enters with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.
+		Creatures you control get +1/+1.
+		Whenever a creature you control dies, if it attacked this turn, exile it and the top card of your library. You may play one of those cards until the end of your next turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 

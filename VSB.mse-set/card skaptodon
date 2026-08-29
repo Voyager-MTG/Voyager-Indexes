@@ -1,11 +1,15 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://www.deviantart.com/kipine/art/Conqueror-572608045
 	time_created: 2026-03-05 16:28:40
-	time_modified: 2026-03-08 10:48:42
+	time_modified: 2026-08-28 13:52:34
 	name: Skaptodon
-	casting_cost: 2RR
+	casting_cost: 1R
 	image: image16.png
 	image_2: 
 	mainframe_image: 
@@ -19,10 +23,12 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever <atom-name><nospellcheck>Skaptodon</nospellcheck></atom-name> is dealt damage, exile the top card of your library. You may play it this turn.
+	rule_text:
+		<atom-cardname><nospellcheck>Skaptodon</nospellcheck></atom-cardname> can’t block.
+		Whenever <atom-cardname><nospellcheck>Skaptodon</nospellcheck></atom-cardname> is dealt damage, exile that many cards from the top of your library. Choose one of them. Until the end of your next turn, you may play that card.
 	flavor_text: <i-flavor><error-spelling:en_US>Skaptodons</error-spelling:en_US> are notoriously difficult to kill, and their teeth and claws are often made into weapons.</i-flavor>
-	power: 4
-	toughness: 3
+	power: 2
+	toughness: 2
 	illustrator: Kipine
 	card_code_text: 
 	card_code_text_2: 

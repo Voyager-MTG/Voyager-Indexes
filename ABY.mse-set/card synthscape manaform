@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -13,7 +15,7 @@ card:
 	time_modified: 2026-03-05 20:29:20
 	name: SynthScape Manaform
 	casting_cost: UU
-	image: image17
+	image: image322
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

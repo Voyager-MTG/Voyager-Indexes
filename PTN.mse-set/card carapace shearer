@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: When <atom-name><nospellcheck>Carapace Shearer</nospellcheck></atom-name> dies, if it’s not an Insect, return it to the battlefield with a +1/+1 counter. It’s an Insect in addition to its other types.
+	rule_text: When <atom-name>Carapace Shearer</atom-name> dies, if it’s not an Insect, return it to the battlefield with a +1/+1 counter. It’s an Insect in addition to its other types.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Humanity was said to be hatched from the shell of the Carapace Cross, but some merely clipped their wings.</i-flavor>

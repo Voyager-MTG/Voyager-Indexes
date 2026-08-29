@@ -38,7 +38,7 @@ card:
 	rarity: mythic rare
 	rule_text_2:
 		<kw-0><nospellcheck><key>Bisapience <param-cost><sym>RR</sym></param-cost></key></nospellcheck></kw-0>
-		Whenever <atom-name><nospellcheck>The Last Aetherbeast</nospellcheck></atom-name> deals combat damage to a player, put a loyalty counter on it and draw a card.
+		Whenever <atom-name>The Last Aetherbeast</atom-name> deals combat damage to a player, put a loyalty counter on it and draw a card.
 	flavor_text_2: <i-flavor>The </i><error-spelling:en_US>Eludha<i></error-spelling:en_US> bonded master to master, each fighting for the other’s servitude.</i-flavor>
 	loyalty_cost_2: 0
 	loyalty_cost_3: -1

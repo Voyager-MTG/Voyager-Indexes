@@ -19,7 +19,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Exile up to two target cards from a single graveyard.
-		<sym-auto>6</sym-auto>, <sym-auto>T</sym-auto>, Exile <atom-name><nospellcheck>True Blood of Saint Janus</nospellcheck></atom-name>: Cast a copy of a spell with mana value X or less exiled by <atom-name><nospellcheck>True Blood of Saint Janus</nospellcheck></atom-name>, where X is the number of cards exiled by <atom-name><nospellcheck>True Blood of Saint Janus</nospellcheck></atom-name>. Activate only as sorcery.
+		<sym-auto>6</sym-auto>, <sym-auto>T</sym-auto>, Exile <atom-name>True Blood of Saint Janus</atom-name>: Cast a copy of a spell with mana value X or less exiled by <atom-name>True Blood of Saint Janus</atom-name>, where X is the number of cards exiled by <atom-name>True Blood of Saint Janus</atom-name>. Activate only as sorcery.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

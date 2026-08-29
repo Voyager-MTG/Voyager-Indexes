@@ -43,7 +43,7 @@ card:
 	rule_text_2:
 		<kw-0><nospellcheck><key>Bisapience—<param-cost>Discard a card</param-cost>.</key></nospellcheck></kw-0>
 		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>
-		Whenever <atom-name><nospellcheck>Swiftmind Sage</nospellcheck></atom-name> deals damage to an opponent, exile the top card of your library. You may play that card until the end of your next turn.
+		Whenever <atom-name>Swiftmind Sage</atom-name> deals damage to an opponent, exile the top card of your library. You may play that card until the end of your next turn.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 3

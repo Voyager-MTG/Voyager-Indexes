@@ -25,7 +25,7 @@ card:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		<kw-0><nospellcheck><key>Sycophant</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>sycophant</key></nospellcheck></kw-0> <i-auto>(Whenever this permanent deals damage to a player or planeswalker, the next spell you cast this turn costs <sym-auto>2</sym-auto> less to cast.)</i-auto>
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
-		<sym-auto>U</sym-auto>: Until end of turn, <atom-name><nospellcheck>Idol of Forgotten Gods</nospellcheck></atom-name> becomes a 2/1 Bird artifact creature.
+		<sym-auto>U</sym-auto>: Until end of turn, <atom-name>Idol of Forgotten Gods</atom-name> becomes a 2/1 Bird artifact creature.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sergio Mayo
 	card_code_text: 

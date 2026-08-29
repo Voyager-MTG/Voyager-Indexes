@@ -4,6 +4,9 @@ card:
 	notes:
 		!tapped
 		!ocean
+		!tagis> champion
+		!tagchampion> TVP
+		!tagpromofor> GPDexteriaTop
 	time_created: 2024-10-25 16:24:29
 	time_modified: 2026-05-01 10:28:11
 	name: Reflective Savannah

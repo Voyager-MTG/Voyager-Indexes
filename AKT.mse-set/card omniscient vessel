@@ -30,7 +30,7 @@ card:
 	rule_text:
 		<kw-1><nospellcheck><key>Transcend <param-cost><sym>3UUU</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of combat, cast your chosen Erysite from your sanctum by paying its Transcend cost and exiling a Dragon creature you control.)</i-auto></atom-reminder-custom></kw-1>
 		<kw-0><nospellcheck><key>Trample</key></nospellcheck></kw-0>
-		When <atom-name><nospellcheck>Omniscient Vessel</nospellcheck></atom-name> enters, return another target permanent to its owner’s hand.
+		When <atom-name>Omniscient Vessel</atom-name> enters, return another target permanent to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5

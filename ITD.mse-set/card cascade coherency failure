@@ -16,8 +16,8 @@ card:
 	rule_text:
 		Choose one or more —
 		<li><bullet>• </bullet>Destroy target artifact.
-		</li><li><bullet>• </bullet><atom-name><nospellcheck>Cascade Coherency Failure</nospellcheck></atom-name> deals 4 damage to target creature and 2 damage to you.
-		</li><li><bullet>• </bullet><atom-name><nospellcheck>Cascade Coherency Failure</nospellcheck></atom-name> deals 4 damage to target planeswalker and 2 damage to you.</li>
+		</li><li><bullet>• </bullet><atom-name>Cascade Coherency Failure</atom-name> deals 4 damage to target creature and 2 damage to you.
+		</li><li><bullet>• </bullet><atom-name>Cascade Coherency Failure</atom-name> deals 4 damage to target planeswalker and 2 damage to you.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Slitherbop
 	card_code_text: 

@@ -17,7 +17,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rarity: special
-	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>. <atom-name><nospellcheck>Sandrock Castle</nospellcheck></atom-name> deals 1 damage to you unless you control three or more other lands.
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>. <atom-name>Sandrock Castle</atom-name> deals 1 damage to you unless you control three or more other lands.
 	flavor_text:
 		<i-flavor>“My House is one of precision and poise.”<soft-line>
 		</soft-line>—Conrad Whitaker</i-flavor>

@@ -19,7 +19,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<atom-name><nospellcheck>Carapace Shell-Burster</nospellcheck></atom-name> enters the battlefield with a +1/+1 counter on it for each creature card that was put into your graveyard from anywhere this turn.
+		<atom-name>Carapace Shell-Burster</atom-name> enters the battlefield with a +1/+1 counter on it for each creature card that was put into your graveyard from anywhere this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

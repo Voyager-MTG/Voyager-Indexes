@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	rarity: uncommon
 	rule_text:
-		When <atom-name><nospellcheck>Smoldering Pack</nospellcheck></atom-name> enters, create a 2/2 green Wolf creature token.
+		When <atom-name>Smoldering Pack</atom-name> enters, create a 2/2 green Wolf creature token.
 		<sym-auto>1R</sym-auto>: Wolves you control get +1/+0 and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 

@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Thyrsine Hunter</nospellcheck></atom-name> enters, if you control a Sanctuary or there is a Sanctuary card in your graveyard, you may have it <kw-A><nospellcheck><key>fight</key></nospellcheck> target creature.<atom-reminder-action> <i-auto>(Each deals damage equal to its power to the other.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-name>Thyrsine Hunter</atom-name> enters, if you control a Sanctuary or there is a Sanctuary card in your graveyard, you may have it <kw-A><nospellcheck><key>fight</key></nospellcheck> target creature.<atom-reminder-action> <i-auto>(Each deals damage equal to its power to the other.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

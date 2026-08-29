@@ -30,7 +30,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-A><nospellcheck><key>Bloom</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-name><nospellcheck>Fort Sapner Caretaker</nospellcheck></atom-name> enters, draw a card.
+		When <atom-name>Fort Sapner Caretaker</atom-name> enters, draw a card.
 	flavor_text: <i-flavor>House <error-spelling:en_US>Sapner</error-spelling:en_US> keeps records from as grand as the lineage of the King to each season’s rainfall.</i-flavor>
 	power: 3
 	toughness: 3

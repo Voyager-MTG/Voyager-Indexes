@@ -20,7 +20,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Wood’s Devourer</nospellcheck></atom-name> enters, you may have it deal 1 damage to target creature you control. If you do, that creature gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		When <atom-name>Wood’s Devourer</atom-name> enters, you may have it deal 1 damage to target creature you control. If you do, that creature gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>A destructive being entwined with the forces of hatred and change.</i-flavor>

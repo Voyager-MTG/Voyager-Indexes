@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-A><nospellcheck><key>Induct</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</i-auto></atom-reminder-custom></kw-A>
-		<sym-auto>1WW</sym-auto>, Exile <atom-name><nospellcheck>Ignite Fervor</nospellcheck></atom-name> from your graveyard: <kw-0><nospellcheck><key>Induct</key></nospellcheck></kw-0> twice.
+		<sym-auto>1WW</sym-auto>, Exile <atom-name>Ignite Fervor</atom-name> from your graveyard: <kw-0><nospellcheck><key>Induct</key></nospellcheck></kw-0> twice.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Passion is a key resource for manipulation.</i-flavor>

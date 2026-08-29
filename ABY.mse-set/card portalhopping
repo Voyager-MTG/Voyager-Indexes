@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-06 00:44:31
-	time_modified: 2025-12-05 18:23:53
+	time_modified: 2026-08-11 14:49:22
 	name: Portalhopping
 	casting_cost: 2G
-	image: image37
+	image: image346
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,9 +20,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
+		<kw-A><nospellcheck><key>Replicate—<param-cost>Tap any number of untapped creatures you control with total power 3 or greater</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(When you cast this spell, copy it for each time you paid its replicate cost.)</i-auto></atom-reminder-expert></kw-A>
 		Search your library for a land card, put it onto the battlefield, then shuffle.
-		You may cast this card from your graveyard.
-		At the beginning of your end step, exile this card from your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jue Li
 	card_code_text: 

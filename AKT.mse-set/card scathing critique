@@ -26,7 +26,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Pay 2 life, Sacrifice a creature, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name><nospellcheck>Scathing Critique</nospellcheck></atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may cast it on a later turn that an Incarnation or Assassin you control dealt damage to an opponent.)</i-auto>
+		Pay 2 life, Sacrifice a creature, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name>Scathing Critique</atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may cast it on a later turn that an Incarnation or Assassin you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3

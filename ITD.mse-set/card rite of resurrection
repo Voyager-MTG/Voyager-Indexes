@@ -17,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		Destroy all creatures. Then you may return a creature card with mana value 3 or less from your graveyard to the battlefield.
-		Exile <atom-name><nospellcheck>Rite of Resurrection</nospellcheck></atom-name>.
+		Exile <atom-name>Rite of Resurrection</atom-name>.
 	flavor_text: <i-flavor>So much loss for a single life.</i-flavor>
 	illustrator: Santiago Caruso
 	card_code_text: 

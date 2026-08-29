@@ -23,7 +23,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Sneak <param-cost><sym-auto>G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for <param-cost><sym-auto>G</sym-auto></param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
-		At the beginning of your end step, if you attacked this turn, put a +1/+1 counter on <atom-name><nospellcheck>Attwater Elite</nospellcheck></atom-name>.
+		At the beginning of your end step, if you attacked this turn, put a +1/+1 counter on <atom-name>Attwater Elite</atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

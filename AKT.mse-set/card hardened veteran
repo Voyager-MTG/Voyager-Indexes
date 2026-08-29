@@ -15,7 +15,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Snail</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: Whenever <atom-name><nospellcheck>Hardened Veteran</nospellcheck></atom-name> attacks, other creatures you control get +1/+1 until end of turn.
+	rule_text: Whenever <atom-name>Hardened Veteran</atom-name> attacks, other creatures you control get +1/+1 until end of turn.
 	flavor_text:
 		<i-flavor>“I can’t stand the winter.”<soft-line>
 		</soft-line>“<error-spelling:en_US>Callwolves</error-spelling:en_US> get too rowdy this time?”<soft-line>

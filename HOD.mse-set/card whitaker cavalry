@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever you cast or copy a noncreature spell, put a +1/+1 counter on <atom-name><nospellcheck>Whitaker Cavalry</nospellcheck></atom-name>.
+	rule_text: Whenever you cast or copy a noncreature spell, put a +1/+1 counter on <atom-name>Whitaker Cavalry</atom-name>.
 	flavor_text: <i-flavor>“House Whitaker’s armies speak for themselves. I need not boast.”</i-flavor>
 	power: 2
 	toughness: 2

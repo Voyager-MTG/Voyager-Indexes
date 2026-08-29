@@ -17,7 +17,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Thoughtglass Whip</nospellcheck></atom-name> enters, attach it to target creature you control.
+		When <atom-name>Thoughtglass Whip</atom-name> enters, attach it to target creature you control.
 		Equipped creature gets +2/+2.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>

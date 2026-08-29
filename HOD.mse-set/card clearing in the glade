@@ -20,9 +20,9 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		You may play <atom-name><nospellcheck>Clearing in the Glade</nospellcheck></atom-name> from your graveyard.
+		You may play <atom-name>Clearing in the Glade</atom-name> from your graveyard.
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, Sacrifice <atom-name><nospellcheck>Clearing in the Glade</nospellcheck></atom-name>: Add one mana of any color.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-name>Clearing in the Glade</atom-name>: Add one mana of any color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Aleksander Brodzinski
 	card_code_text: 

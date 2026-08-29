@@ -22,7 +22,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-name><nospellcheck>Catharsis of Grief</nospellcheck></atom-name> deals 2 damage to target creature you control.
+		<atom-name>Catharsis of Grief</atom-name> deals 2 damage to target creature you control.
 		Draw two cards.
 	flavor_text:
 		<i-flavor>“Only by looking forward can you forget all the bodies that you left behind.”<soft-line>

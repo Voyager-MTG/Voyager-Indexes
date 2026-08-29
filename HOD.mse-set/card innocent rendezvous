@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		As an additional cost to cast this spell, you may <kw-A><nospellcheck><key>forsake</key></nospellcheck>.<atom-reminder-action> <i-auto>(Sacrifice creatures with total toughness 3 or more.)</i-auto></atom-reminder-action></kw-A>
-		Exile the top three cards of your library. You may play them until the end of your next turn. If <atom-name><nospellcheck>Innocent Rendezvous</nospellcheck></atom-name> was forsaken, add <sym-auto>RRRRR</sym-auto>.
+		Exile the top three cards of your library. You may play them until the end of your next turn. If <atom-name>Innocent Rendezvous</atom-name> was forsaken, add <sym-auto>RRRRR</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Viviane Souza
 	card_code_text: 

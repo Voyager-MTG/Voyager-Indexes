@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !tag CanonReprint
+	notes: 
 	time_created: 2024-12-03 22:54:51
 	time_modified: 2025-12-05 18:22:36
 	name: Sundial of the Infinite
 	casting_cost: 2
-	image: image23.png
+	image: image304
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

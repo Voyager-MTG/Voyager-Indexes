@@ -19,8 +19,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		Choose one —
-		<li><bullet>• </bullet><atom-name><nospellcheck>Preemptive Purge</nospellcheck></atom-name> deals 2 damage to each non-Cleric creature.
-		</li><li><bullet>• </bullet><atom-name><nospellcheck>Preemptive Purge</nospellcheck></atom-name> deals 2 damage to each Cleric creature.</li>
+		<li><bullet>• </bullet><atom-name>Preemptive Purge</atom-name> deals 2 damage to each non-Cleric creature.
+		</li><li><bullet>• </bullet><atom-name>Preemptive Purge</atom-name> deals 2 damage to each Cleric creature.</li>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>A secret society is prone to both internal and external threats.</i-flavor>

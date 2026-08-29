@@ -1,5 +1,7 @@
 ﻿mse_version: 2.5.8
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -10,10 +12,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-12-03 22:52:58
-	time_modified: 2026-04-10 00:56:12
+	time_modified: 2026-08-03 00:59:48
 	name: Flowstone Imbuer
-	casting_cost: 2R
-	image: image100.png
+	casting_cost: 1R
+	image: image254
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -28,7 +30,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When this creature enters, you may search your library for a Vehicle card, reveal it, then shuffle and put that card on top.
-		<sym-auto>1</sym-auto>: Target Vehicle creature you control gets +1/-1 until end of turn.
+		<sym-auto>R</sym-auto>: Target Vehicle creature you control gets +1/-1 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

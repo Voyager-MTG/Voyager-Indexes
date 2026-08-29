@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, you may put a creature card from among the cards milled this way into your hand. 
-		As long as you control a God and <atom-name><nospellcheck>Verse Change</nospellcheck></atom-name> is in your graveyard, it has <kw-A><nospellcheck><key>flashback <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		As long as you control a God and <atom-name>Verse Change</atom-name> is in your graveyard, it has <kw-A><nospellcheck><key>flashback <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>We call upon the Moth, who seeks among the trees of the Wood.</i-flavor>

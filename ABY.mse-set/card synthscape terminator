@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-03 22:52:33
-	time_modified: 2026-02-26 00:45:16
+	time_modified: 2026-08-19 22:43:53
 	name: SynthScape Terminator
 	casting_cost: 1B
-	image: image205.png
+	image: image241
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +21,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When this creature enters, up to one target creature gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
+		When this creature enters, remove any number of counters from target permanent or opponent.
 	flavor_text: <i-flavor>Much like <error-spelling:en_US>Oscalia</error-spelling:en_US> itself, the <error-spelling:en_US>SynthScape</error-spelling:en_US> could not keep all of its programs chained to their charted paths.</i-flavor>
 	power: 2
 	toughness: 2

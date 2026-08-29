@@ -29,7 +29,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-0><nospellcheck><key>Surveil <param-number>4</param-number></key></nospellcheck></kw-0>. You gain 4 life.
-		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name><nospellcheck>Partner’s Tax Returns</nospellcheck></atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Werewolf or Citizen you control dealt damage to an opponent.)</i-auto>
+		<sym-auto>2</sym-auto>, <kw-0><nospellcheck><key>Embrace</key></nospellcheck></kw-0> <atom-name>Partner’s Tax Returns</atom-name> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Werewolf or Citizen you control dealt damage to an opponent.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Arian Silver
 	card_code_text: 
