@@ -34,7 +34,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“This species is unlike any I’ve seen in <error-spelling:en_US>Faloden</error-spelling:en_US> Woods. How did it get here?”<soft-line>
-		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Melodia</soft-line></error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 1

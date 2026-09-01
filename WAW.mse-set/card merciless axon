@@ -20,7 +20,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fungus</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: At the beginning of your second main phase, you may pay <sym-auto>3</sym-auto> or sacrifice a creature. If you do, put a +1/+1 counter on <atom-name><nospellcheck>Merciless Axon</nospellcheck></atom-name>.
+	rule_text: At the beginning of your second main phase, you may pay <sym-auto>3</sym-auto> or sacrifice a creature. If you do, put a +1/+1 counter on <atom-name>Merciless Axon</atom-name>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5

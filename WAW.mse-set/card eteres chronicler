@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-01-22 19:28:03
-	time_modified: 2026-04-01 16:51:19
+	time_modified: 2026-08-31 17:47:01
 	name: Eteres’ Chronicler
 	casting_cost: 2G
 	image: image134
@@ -15,7 +15,7 @@ card:
 	rarity: rare
 	rule_text:
 		You may play basic land cards from your sanctum.
-		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>: For each basic land type, untap up to one target land of that type you control.
+		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>: For each land type, untap up to one target land of that type you control.
 	flavor_text:
 		<i-flavor>“Oh, good, your plane has science fiction. That’ll make my friend here much easier to explain.”<soft-line>
 		—<error-spelling:en_US>Eteres</error-spelling:en_US>, planar analyst</soft-line></i-flavor>

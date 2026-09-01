@@ -21,7 +21,7 @@ card:
 	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		When <atom-name><nospellcheck>A Promise</nospellcheck></atom-name> enters, if you cast it and you don’t control another permanent named <atom-name><nospellcheck>A Promise</nospellcheck></atom-name>, prevent all damage that would be dealt to you until your next turn, then put a wish counter on each creature you control.
+		When <atom-name>A Promise</atom-name> enters, if you cast it and you don’t control another permanent named <atom-name>A Promise</atom-name>, prevent all damage that would be dealt to you until your next turn, then put a wish counter on each creature you control.
 		<sym-auto>2</sym-auto>, Remove a wish counter from a creature you control: It gets +1/+1 until end of turn for each of its colors. Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Donglu Yu

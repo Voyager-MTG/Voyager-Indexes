@@ -15,7 +15,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: !smallbox
 	time_created: 2022-03-30 19:56:05
-	time_modified: 2025-07-12 16:54:33
+	time_modified: 2026-08-31 17:26:26
 	card_color: blue, black, red, multicolor, horizontal
 	name: Will of Destruction
 	casting_cost: U/RU/RB
@@ -31,11 +31,11 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
-		Whenever you attack with two or more nontoken creatures, you may pay <sym>U/RB</sym>. If you do, look at the top two cards of your library. Put one into your sanctum and the other into your hand.
+		Whenever you attack, you may sacrifice a creature or artifact. When you do, look at the top two cards of your library. Put one into your hand and the other into your graveyard.
+		<sym-auto>1U/RU/RB</sym-auto>, Exile seven cards from your graveyard: Destroy target creature or planeswalker. Activate only as a sorcery.
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>A reflection of their hatred...</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 3

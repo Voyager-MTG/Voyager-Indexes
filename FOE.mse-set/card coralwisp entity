@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/NGZP2D
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2026-05-01 11:16:05
+	time_modified: 2026-08-31 17:31:33
 	name: Coralwisp Entity
 	casting_cost: 2UU
 	image: image429
@@ -21,8 +21,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		Whenever <atom-name>this enchantment</atom-name> attacks,  you may reveal a nonpermanent card from your sanctum and put it on top of your library.
-		<kw-0><nospellcheck><key>Materialize <param-number>2</param-number></key></nospellcheck></kw-0>
+		Whenever <atom-name>this enchantment</atom-name> attacks, you may reveal a nonpermanent card from your sanctum and put it into your hand.
+		<kw-1><nospellcheck><key>Materialize <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Tap any number of other enchantments you control with total mana value <param-number>3</param-number> or more: This becomes a creature in addition to its other types until your next upkeep.)</i-auto></atom-reminder-custom></kw-1>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

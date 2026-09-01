@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-06-16 21:05:31
-	time_modified: 2026-05-01 16:34:48
+	time_modified: 2026-08-31 19:20:35
 	name: Deino Charm
 	casting_cost: IGW
 	image: image100
@@ -21,8 +21,8 @@ card:
 	rarity: rare
 	rule_text:
 		Choose one —
-		<li><bullet>• </bullet>Tap target permanent. You gain 3 life.
-		</li><li><bullet>• </bullet>Search your library for a land card, reveal it, put it into your hand, then shuffle.
+		<li><bullet>• </bullet>Tap target permanent. If it’s an artifact or enchantment, destroy it.
+		</li><li><bullet>• </bullet>Search your library for a land card, put it onto the battlefield tapped, then shuffle.
 		</li><li><bullet>• </bullet>Return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Emily Willoughby

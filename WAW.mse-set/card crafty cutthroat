@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever you sacrifice a permanent, draw a card. This ability triggers only once each turn.
-		<sym-auto>1RW</sym-auto>, Sacrifice a permanent: <atom-name><nospellcheck>Crafty Cutthroat</nospellcheck></atom-name> gets +3/+0 and gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>1RW</sym-auto>, Sacrifice a permanent: <atom-name>Crafty Cutthroat</atom-name> gets +3/+0 and gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 4

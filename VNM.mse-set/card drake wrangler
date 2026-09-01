@@ -13,9 +13,9 @@ card:
 		inverted_common_symbol: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !note hybrid
+	notes: 
 	time_created: 2021-04-25 03:15:03
-	time_modified: 2025-07-21 01:56:50
+	time_modified: 2026-08-31 17:23:52
 	extra_data:
 		magic-m15-altered: promo_label: 
 	name: Drake Wrangler
@@ -33,7 +33,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
-		Drakes you control get +1/+1 and have “Whenever this creature attacks, as long as you’ve illuminated blue or white, draw a card then discard a card.”
+		When this creature enters, create a 2/2 white Drake creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		Drake you control get +1/+1 if you’ve illuminated blue, and get +1/+1 if you’ve illuminated white.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-10 10:32:25
-	time_modified: 2025-01-28 19:58:09
+	time_modified: 2026-08-31 17:33:51
 	name: Ilcan Avenger
 	casting_cost: 2G
 	image: image140
@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-race-en>Kor</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
-		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — <sym-auto>5</sym-auto>: If <atom-name><nospellcheck>Ilcan Avenger</nospellcheck></atom-name> has no +1/+1 counters on it, put three +1/+1 counters on it. This ability costs <sym-auto>5</sym-auto> less to activate if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — <sym-auto>5</sym-auto>: If <atom-name>Ilcan Avenger</atom-name> has no +1/+1 counters on it, put three +1/+1 counters on it. This ability costs <sym-auto>5</sym-auto> less to activate if you’ve spent five or more colors to cast spells this turn.
 	flavor_text: <i-flavor>The survivors of <error-spelling:en_US>Ilcae</error-spelling:en_US>, battle-hardened and fueled by grief, tear through the Wonderlands in desperate hope for a wish to resurrect their plane.</i-flavor>
 	power: 3
 	toughness: 3

@@ -57,7 +57,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2:
 		<i-flavor>“You are who you see yourself as.”<soft-line>
-		</soft-line>—Saying on <error-spelling:en_US>Mirdrim</i-flavor></error-spelling:en_US>
+		</soft-line>—Saying on <error-spelling:en_US>Mirdrim</error-spelling:en_US></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

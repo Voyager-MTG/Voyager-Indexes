@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rule_text:
-		<atom-name><nospellcheck>Alpine Borderholt</nospellcheck></atom-name> enters tapped unless a land you control could produce <sym>U</sym>.
+		<atom-name>Alpine Borderholt</atom-name> enters tapped unless a land you control could produce <sym>U</sym>.
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
 	flavor_text: <i-flavor>As one gets further away from the center of the Holt, the Wonderlands grow colder and more mountainous, then completely impassable at the plane’s edge.</i-flavor>
 	illustrator: Vanessa Palmer

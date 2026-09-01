@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rule_text:
-		<atom-name><nospellcheck>Surreal Highlands</nospellcheck></atom-name> enters tapped unless a land you control could produce <sym>B</sym>.
+		<atom-name>Surreal Highlands</atom-name> enters tapped unless a land you control could produce <sym>B</sym>.
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
 	flavor_text: <i-flavor>New <error-spelling:en_US>Tensuo</error-spelling:en_US> settled on top of a landscape of warped rock, unaware of the apocalypse that had transformed <error-spelling:en_US>Dhere’s</error-spelling:en_US> home plane into that landscape two centuries ago.</i-flavor>
 	illustrator: Finnian MacMarcus

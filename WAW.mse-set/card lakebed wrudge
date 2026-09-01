@@ -15,7 +15,7 @@ card:
 	sub_type: <word-list-race-en>Fish</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		You may look at the top card of your library any time. As long as you control another permanent named <atom-name><nospellcheck>Lakebed Wrudge</nospellcheck></atom-name>, you may play lands and cast spells from the top of your library.
+		You may look at the top card of your library any time. As long as you control another permanent named <atom-name>Lakebed Wrudge</atom-name>, you may play lands and cast spells from the top of your library.
 		<sym-auto>T</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
 		<kw-A><nospellcheck><key>Reflect <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>3</sym-auto></param-cost>: Create a token copy of this creature, except it’s a 1/1 Wonder Fish without reflect. Reflect only as a sorcery, and only once.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>

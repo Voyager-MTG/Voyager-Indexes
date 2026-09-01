@@ -21,7 +21,7 @@ card:
 	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-name><nospellcheck>Elusive Harbinger</nospellcheck></atom-name> enters, you may search your library for a card, put it into your graveyard, then shuffle.
+		When <atom-name>Elusive Harbinger</atom-name> enters, you may search your library for a card, put it into your graveyard, then shuffle.
 		Creatures you control that share a name with a card in your graveyard or another permanent you control have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

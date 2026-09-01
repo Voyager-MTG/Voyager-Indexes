@@ -22,7 +22,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Endless Enigma</nospellcheck></atom-name> enters, you may shuffle a card from your hand into your library. If you do, return up to one target noncreature card from your graveyard to your hand.
+		When <atom-name>Endless Enigma</atom-name> enters, you may shuffle a card from your hand into your library. If you do, return up to one target noncreature card from your graveyard to your hand.
 	flavor_text: <i-flavor>Every inch of its surface is covered in text that is just on the cusp of readability.             </i-flavor>
 	power: 0
 	toughness: 5

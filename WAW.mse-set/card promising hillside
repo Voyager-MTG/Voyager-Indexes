@@ -26,7 +26,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>. You lose 1 life unless you control a red permanent.
-		<sym-auto>1</sym-auto>: Put a wish counter on <atom-name><nospellcheck>Promising Hillside</nospellcheck></atom-name>.
+		<sym-auto>1</sym-auto>: Put a wish counter on <atom-name>Promising Hillside</atom-name>.
 		<sym-auto>T</sym-auto>, Remove a wish counter from Promising Hillside: Add one mana of any color.
 	rule_text_2: 
 	rule_text_3: 

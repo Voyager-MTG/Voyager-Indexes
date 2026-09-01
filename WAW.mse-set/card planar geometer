@@ -15,7 +15,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<atom-name><nospellcheck>Planar Geometer</nospellcheck></atom-name> can’t be blocked.
+		<atom-name>Planar Geometer</atom-name> can’t be blocked.
 		Whenever you cast an instant, sorcery, or Wonder spell, draw a card, then discard a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

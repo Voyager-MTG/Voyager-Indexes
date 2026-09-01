@@ -14,8 +14,8 @@ card:
 	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-name><nospellcheck>New Tensuo Orator</nospellcheck></atom-name> enters, draw a card, then discard a card. If a nonland card was discarded this way, create a 1/1 Wonder creature token that’s all colors.
-		<sym-auto>GW</sym-auto>: You may put a land card from your hand onto the battlefield. If you do, return <atom-name><nospellcheck>New Tensuo Orator</nospellcheck></atom-name> to your hand.
+		When <atom-name>New Tensuo Orator</atom-name> enters, draw a card, then discard a card. If a nonland card was discarded this way, create a 1/1 Wonder creature token that’s all colors.
+		<sym-auto>GW</sym-auto>: You may put a land card from your hand onto the battlefield. If you do, return <atom-name>New Tensuo Orator</atom-name> to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

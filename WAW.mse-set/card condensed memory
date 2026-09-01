@@ -16,7 +16,7 @@ card:
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
-		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Exile two cards from your graveyard: Put two +1/+1 counters on <atom-name><nospellcheck>Condensed Memory</nospellcheck></atom-name>. If it isn’t a creature, it becomes a 0/0 Wonder artifact creature that’s all colors.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Exile two cards from your graveyard: Put two +1/+1 counters on <atom-name>Condensed Memory</atom-name>. If it isn’t a creature, it becomes a 0/0 Wonder artifact creature that’s all colors.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Finnian MacMarcus
 	card_code_text: 

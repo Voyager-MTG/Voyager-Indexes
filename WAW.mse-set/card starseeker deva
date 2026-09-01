@@ -22,7 +22,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Starseeker Deva</nospellcheck></atom-name> enters, create a 1/1 Wonder creature token that’s all colors.
+		When <atom-name>Starseeker Deva</atom-name> enters, create a 1/1 Wonder creature token that’s all colors.
 		<kw-A><nospellcheck><key>Reflect <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>: Create a token copy of this creature, except it’s a 1/1 Wonder Angel without reflect. Reflect only as a sorcery, and only once.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

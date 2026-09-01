@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-race-en>Kor</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-name><nospellcheck>Ilcan Entrancer</nospellcheck></atom-name> enters, choose one —
+		When <atom-name>Ilcan Entrancer</atom-name> enters, choose one —
 		<li><bullet>• </bullet>Tap target creature. Put a <kw-1><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck> on it.<atom-reminder-core> <i-auto>(If a permanent with a stun counter would become untapped, remove one from it instead.)</i-auto></atom-reminder-core></kw-1>
 		</li><li><bullet>• </bullet>Create a tapped 3/3 green Beast creature token. Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.</li>
 	flavor_text: <i-flavor></i-flavor>

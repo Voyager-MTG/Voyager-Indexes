@@ -20,7 +20,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Zombie</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: When <atom-name><nospellcheck>Painful Memory</nospellcheck></atom-name> enters, target player discards a card. If that player didn’t discard a creature card this way, they lose 3 life.
+	rule_text: When <atom-name>Painful Memory</atom-name> enters, target player discards a card. If that player didn’t discard a creature card this way, they lose 3 life.
 	flavor_text:
 		<i-flavor>“This place sees that we miss them, but it can’t always bring them back. I don’t think it knows that we hate what it tries to replace them with.”<soft-line><soft-line>
 		—<error-spelling:en_US>Aechmi</error-spelling:en_US>, <error-spelling:en_US>Ilcan</error-spelling:en_US> wanderer</soft-line></soft-line></i-flavor>

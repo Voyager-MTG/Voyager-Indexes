@@ -27,7 +27,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Protection from <param-name>multicolored</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything multicolored)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-name><nospellcheck>Forlorn Titanshard</nospellcheck></atom-name> enters, search your library for a colorless card, reveal it, and put it into your hand. Then shuffle.
+		When <atom-name>Forlorn Titanshard</atom-name> enters, search your library for a colorless card, reveal it, and put it into your hand. Then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

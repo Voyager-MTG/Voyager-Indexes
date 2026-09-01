@@ -21,7 +21,7 @@ card:
 	sub_type: <word-list-race-en>Kor</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-name><nospellcheck>Ilcan Soulshear</nospellcheck></atom-name> enters, choose one —
+		When <atom-name>Ilcan Soulshear</atom-name> enters, choose one —
 		<li><bullet>• </bullet>Destroy target creature with mana value 4 or less.
 		</li><li><bullet>• </bullet>Return target creature card with mana value 4 or less from your graveyard to the battlefield.</li>
 	flavor_text: <i-flavor></i-flavor>

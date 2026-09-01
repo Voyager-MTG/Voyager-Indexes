@@ -8,7 +8,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-01-24 15:15:22
-	time_modified: 2025-03-15 17:02:05
+	time_modified: 2026-08-31 17:36:03
 	card_color: red
 	name: Sailing the Starsea
 	casting_cost: 2R
@@ -25,7 +25,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: <kw-A><i-auto><nospellcheck><key><i>Augmented</key></nospellcheck></i-auto></kw-A> — </i>Exile <atom-name><nospellcheck>Sailing the Starsea</nospellcheck></atom-name>: Copy target instant or sorcery spell you control. If you’ve spent <sym>WUBRG</sym> to cast spells this turn, you may instead copy target spell you control twice. You may choose new targets for the copies.
+	rule_text: <kw-A><i-auto><nospellcheck><key><i>Augmented</key></nospellcheck></i-auto></kw-A> — </i>Exile <atom-name>Sailing the Starsea</atom-name>: Copy target instant or sorcery spell you control. If you’ve spent five or more colors to cast spells this turn, you may instead copy target spell you control twice. You may choose new targets for the copies.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Archlire
 	card_code_text: 

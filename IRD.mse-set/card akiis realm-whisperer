@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<atom-name><nospellcheck>Akiis, Realm-Whisperer</nospellcheck></atom-name> gets +2/+0 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> if you control five or more differently named lands.
+		<atom-name>Akiis, Realm-Whisperer</atom-name> gets +2/+0 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> if you control five or more differently named lands.
 		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Discard a nonland card: Reveal a land card from your sanctum. Put it into your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

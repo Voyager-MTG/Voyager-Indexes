@@ -18,7 +18,7 @@ card:
 		Destroy target creature or planeswalker.
 	flavor_text:
 		<i-flavor>“Do you ever feel like you’re being watched?”
-		—<error-spelling:en_US>Maktel</error-spelling:en_US>, to <error-spelling:en_US>Vaga</i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Maktel</error-spelling:en_US>, to <error-spelling:en_US>Vaga</error-spelling:en_US></i-flavor>
 	illustrator: Matias Gonzalez
 	card_code_text: 
 	card_code_text_2: 

@@ -39,7 +39,7 @@ card:
 	rarity: rare
 	chapter_text_2: 
 	rule_text:
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Multaph’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Respite enters, create a of trace a card of your choice from among Subdued Rift, Warped Exploration, and Cut From </i><kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A><i> into your hand.
+		When Multaph’s Respite enters, create a of trace a card of your choice from among Subdued Rift, Warped Exploration, and Cut From </i><kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A><i> into your hand.
 		Once each turn, when you cast a noncreature spell, you may pay <sym-auto>2</sym-auto>. If you do, copy that spell. You may choose new targets for the copy.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>

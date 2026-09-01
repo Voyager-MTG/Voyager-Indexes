@@ -34,7 +34,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“Each passing moment, I weep for those unaware of the beauty hidden deep within the <error-spelling:en_US>outlands</error-spelling:en_US> of <error-spelling:en_US>Vinimroth</error-spelling:en_US>.”<soft-line>
-		—<error-spelling:en_US>Korna</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Korna</soft-line></error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Philip Sue

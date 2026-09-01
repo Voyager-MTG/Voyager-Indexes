@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		You may cast <atom-name><nospellcheck>Worldsoul Wanderer</nospellcheck></atom-name> from your graveyard by paying <sym>WUBRG</sym> rather than paying its mana cost. If you do, it enters with X +1/+1 counters on it, where X is the number of lands you control.
+		You may cast <atom-name>Worldsoul Wanderer</atom-name> from your graveyard by paying <sym>WUBRG</sym> rather than paying its mana cost. If you do, it enters with X +1/+1 counters on it, where X is the number of lands you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

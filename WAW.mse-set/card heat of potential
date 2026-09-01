@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-14 17:39:27
-	time_modified: 2025-02-12 16:18:57
+	time_modified: 2026-08-31 17:33:34
 	card_color: red
 	name: Heat of Potential
 	casting_cost: R
@@ -15,8 +15,8 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		<atom-name><nospellcheck>Heat of Potential</nospellcheck></atom-name> deals 2 damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.
-		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — <atom-name><nospellcheck>Heat of Potential</nospellcheck></atom-name> deals 5 damage to that target instead if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
+		<atom-name>Heat of Potential</atom-name> deals 2 damage to any nonplayer target.
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — <atom-name>Heat of Potential</atom-name> deals 5 damage to that target instead if you’ve spent five or more colors to cast spells this turn.
 	flavor_text:
 		<i-flavor>“Fire has only one wish, and it’s been granted.”<soft-line>
 		—<error-spelling:en_US>Ovueli</error-spelling:en_US>, New <error-spelling:en_US>Tensuo</error-spelling:en_US> mage</soft-line></i-flavor>

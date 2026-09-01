@@ -33,7 +33,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Zelem</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, draw two cards.
+		When Zelem enters, draw two cards.
 	flavor_text: <i-flavor>To bring reason is to tread a narrow path.</i-flavor>
 	level_1_text: Chain of Being <i-auto>(This card may start in your sanctum. You may cast it from there by sacrificing an Angel and a Human.)</i-auto>
 	power: 3

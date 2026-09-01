@@ -26,7 +26,7 @@ card:
 	rarity: rare
 	rule_text:
 		At the beginning of your upkeep, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
-		When <atom-name><nospellcheck>Silent Memoriam</nospellcheck></atom-name> dies, if it was a creature, return it to the battlefield under its owner’s control. It’s a land with “<sym-auto>T</sym-auto>: Add one mana of any color.”
+		When <atom-name>Silent Memoriam</atom-name> dies, if it was a creature, return it to the battlefield under its owner’s control. It’s a land with “<sym-auto>T</sym-auto>: Add one mana of any color.”
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

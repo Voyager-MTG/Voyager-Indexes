@@ -21,7 +21,7 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<sym-auto>4B</sym-auto>: Return <atom-name><nospellcheck>Seeker of the Pools</nospellcheck></atom-name> from your graveyard to the battlefield tapped with a <kw-0><nospellcheck><key>finality counter</key></nospellcheck></kw-0> on it. It becomes a Human Scout. <i-auto>(If a creature with a <kw-0><nospellcheck><key>finality counter</key></nospellcheck></kw-0> would die, exile it instead.)</i-auto>
+		<sym-auto>4B</sym-auto>: Return <atom-name>Seeker of the Pools</atom-name> from your graveyard to the battlefield tapped with a <kw-0><nospellcheck><key>finality counter</key></nospellcheck></kw-0> on it. It becomes a Human Scout. <i-auto>(If a creature with a <kw-0><nospellcheck><key>finality counter</key></nospellcheck></kw-0> would die, exile it instead.)</i-auto>
 	flavor_text: <i-flavor>“Anything for a second chance.”</i-flavor>
 	power: 3
 	toughness: 2

@@ -1,9 +1,15 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		d20_dividers: d20 mode
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: https://www.pixiv.net/en/artworks/144112788
 	time_created: 2026-05-27 14:36:55
-	time_modified: 2026-06-27 22:50:16
+	time_modified: 2026-08-31 17:13:30
 	name: Render of Dreams
 	casting_cost: 4WW
 	image: image7.png
@@ -22,7 +28,7 @@ card:
 	rule_text:
 		<kw-0><nospellcheck><key>Impending <param-number>5</param-number>—<param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(If this spell was cast for its impending cost, it enters with five time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)</i-auto>
 		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>vigilance</key></nospellcheck></kw-0>
-		Whenever this permanent enters or attacks, noncreature spells cost <sym>2</sym> more to cast until your next turn.
+		Whenever this permanent enters or attacks, until your next turn, when a player next casts a noncreature spell, counter that spell unles that player pays <sym>2</sym>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

@@ -27,7 +27,7 @@ card:
 	super_type: <word-list-type-en>Legendary Enchantment Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell or when <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Caylia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, put two +1/+1 counters on another target permanent you control. You may have it become a creature in addition <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>ot</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> its other types until end of turn. <i-auto>(Permanents without printed size are 0/0.)</i-auto>
+	rule_text: <kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A> — Once each turn, when you cast a noncreature spell or when Caylia enters, put two +1/+1 counters on another target permanent you control. You may have it become a creature in addition ot its other types until end of turn. <i-auto>(Permanents without printed size are 0/0.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 5

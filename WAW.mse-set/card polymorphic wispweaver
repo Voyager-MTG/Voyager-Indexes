@@ -16,7 +16,7 @@ card:
 	rarity: common
 	rule_text:
 		This spell costs <sym-auto>1</sym-auto> less to cast for each creature you attacked with this turn.
-		<sym-auto>2W</sym-auto>, Discard <atom-name><nospellcheck>Polymorphic Wispweaver</nospellcheck></atom-name>: Create two 1/1 Wonder creature tokens that are all colors.
+		<sym-auto>2W</sym-auto>, Discard <atom-name>Polymorphic Wispweaver</atom-name>: Create two 1/1 Wonder creature tokens that are all colors.
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 5

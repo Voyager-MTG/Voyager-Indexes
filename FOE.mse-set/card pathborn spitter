@@ -36,7 +36,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“It pulls energy from its prey, but it never seems to kill them.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Melodia</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Melodia</error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 6

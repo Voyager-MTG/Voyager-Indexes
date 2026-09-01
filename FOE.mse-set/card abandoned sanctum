@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>: Add one mana of any color. Spend this mana only to cast instant or sorcery spells with instant and/or sorcery <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>subtypes</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		<sym-auto>T</sym-auto>: Add one mana of any color. Spend this mana only to cast instant or sorcery spells with instant and/or sorcery subtypes.
 	flavor_text: <i-flavor>What used to be a sprawling tavern is now a squatted ruin.</i-flavor>
 	power: 
 	toughness: 

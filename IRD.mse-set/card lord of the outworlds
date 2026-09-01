@@ -24,7 +24,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Lord of the Outworlds</nospellcheck></atom-name> enters, choose target creature or planeswalker. Each token you control deals 1 damage to it.
+		When <atom-name>Lord of the Outworlds</atom-name> enters, choose target creature or planeswalker. Each token you control deals 1 damage to it.
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: Chain of Being <i-auto>(This card may start in your sanctum. You may cast it from there by sacrificing an Angel and a Human.)</i-auto>
 	power: 3

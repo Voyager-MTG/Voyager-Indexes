@@ -15,7 +15,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-21 12:57:48
-	time_modified: 2025-03-05 22:51:23
+	time_modified: 2026-08-31 17:37:38
 	card_color_2: blue, black, red, multicolor, horizontal
 	name: Chance-in-Hell
 	name_2: Wish for a Spark
@@ -31,8 +31,8 @@ card:
 	sub_type_2: <word-list-planeswalker>Chance</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
 	rarity: mythic rare
 	rule_text:
-		Pay 3 life: <atom-name><nospellcheck>Chance-in-Hell</nospellcheck></atom-name> <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>.
-		<i><kw-0><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-0> — At the beginning of your end step, discard a card or sacrifice a nonland permanent. If you’ve spent <sym>WUBRG</sym> to cast spells this turn, instead exile <atom-name><nospellcheck>Chance-in-Hell</nospellcheck></atom-name> and return her to the battlefield transformed at the beginning of your next upkeep. 
+		Pay 3 life: <atom-name>Chance-in-Hell</atom-name> <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>.
+		<i><kw-0><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-0> — At the beginning of your end step, discard a card or sacrifice a nonland permanent. If you’ve spent five or more colors to cast spells this turn, instead exile <atom-name>Chance-in-Hell</atom-name> and return her to the battlefield transformed at the beginning of your next upkeep. 
 	flavor_text: <i-flavor></i-flavor>
 	loyalty_cost_6: -2
 	loyalty_cost_7: -X

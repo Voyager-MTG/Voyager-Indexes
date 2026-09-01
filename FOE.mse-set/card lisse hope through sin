@@ -45,7 +45,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
-		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lisse</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, she deals 1 damage to any target.
+		Whenever Lisse attacks, she deals 1 damage to any target.
 	rule_text_2:
 		<atom-name>This land</atom-name> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.

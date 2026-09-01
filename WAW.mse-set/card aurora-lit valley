@@ -13,7 +13,7 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rule_text:
-		<atom-name><nospellcheck>Aurora-Lit Valley</nospellcheck></atom-name> enters tapped unless a land you control could produce <sym>G</sym>.
+		<atom-name>Aurora-Lit Valley</atom-name> enters tapped unless a land you control could produce <sym>G</sym>.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
 	flavor_text: <i-flavor>Where the Holt begins to slope downwards into the <error-spelling:en_US>Deepmists</error-spelling:en_US>, the sky is lit by a brilliant, permanent aurora before a starless twilight backdrop.</i-flavor>
 	illustrator: Ayan Nag

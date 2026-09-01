@@ -23,7 +23,7 @@ card:
 	rule_text: Target opponent loses 3 life and discards two cards. You draw a card.
 	flavor_text:
 		<i-flavor>“It is a great and callous power here, one that grants wishes born of hope and hatred in equal measure. We must tread lightly.”<soft-line>
-		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Pedro Sena
 	card_code_text: 
 	card_code_text_2: 

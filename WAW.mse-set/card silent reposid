@@ -19,7 +19,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: <sym-auto>1</sym-auto>, Sacrifice another creature: Put a +1/+1 counter on <atom-name><nospellcheck>Silent Reposid</nospellcheck></atom-name>. You gain 1 life. 
+	rule_text: <sym-auto>1</sym-auto>, Sacrifice another creature: Put a +1/+1 counter on <atom-name>Silent Reposid</atom-name>. You gain 1 life. 
 	flavor_text:
 		<i-flavor>“Remain steady. This plane wants us to forget their faces, wants to slow us down, but it can’t. We will know no peace until <error-spelling:en_US>Ilcae</error-spelling:en_US> lives again.”<soft-line><soft-line><soft-line>
 		—<error-spelling:en_US>Ajha</error-spelling:en_US>, the Wish for Home</soft-line></soft-line></soft-line></i-flavor>

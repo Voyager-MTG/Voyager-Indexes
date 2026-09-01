@@ -22,7 +22,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“It spins!!! In order to destroy magical <error-spelling:en_US>weavings</error-spelling:en_US>, it unfolds itself, by spinning of all things!”<soft-line>
-		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Melodia</soft-line></error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 0

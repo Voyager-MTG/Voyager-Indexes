@@ -33,7 +33,7 @@ card:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 		<margin:0:0:5>Whenever you cast a noncreature spell, choose one you haven’t chosen this turn —</margin:0:0:5>
 		<li><bullet>• </bullet>Target creature you control gets +3/+2 until end of turn.
-		</li><li><bullet>• </bullet>Target creature you control deals damage equal to its power to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target you don’t control.</li>
+		</li><li><bullet>• </bullet>Target creature you control deals damage equal to its power to any nonplayer target you don’t control.</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 5

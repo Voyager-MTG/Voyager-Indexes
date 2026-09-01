@@ -15,8 +15,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Emerge <param-cost><sym-auto>8B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-name><nospellcheck>Wish for Death</nospellcheck></atom-name> enters, all creatures get -8/-8 until end of turn. If it emerged, instead all creatures get -X/-X until end of turn, where X is the sacrificed creature’s power.
-		If <atom-name><nospellcheck>Wish for Death</nospellcheck></atom-name> or another creature would die, exile it instead.
+		When <atom-name>Wish for Death</atom-name> enters, all creatures get -8/-8 until end of turn. If it emerged, instead all creatures get -X/-X until end of turn, where X is the sacrificed creature’s power.
+		If <atom-name>Wish for Death</atom-name> or another creature would die, exile it instead.
 	flavor_text: <i-flavor></i-flavor>
 	power: 8
 	toughness: 8

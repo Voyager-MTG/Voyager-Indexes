@@ -10,7 +10,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2024-12-14 17:39:27
-	time_modified: 2025-01-28 20:00:29
+	time_modified: 2026-08-31 17:37:18
 	card_color: red
 	name: Sunset Study
 	casting_cost: 3R
@@ -26,8 +26,8 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		When <atom-name><nospellcheck>Sunset Study</nospellcheck></atom-name> enters, exile the top three cards of your library. You may play those cards until the end of your next turn.
-		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — <sym-auto>5</sym-auto>, Sacrifice <atom-name><nospellcheck>Sunset Study</nospellcheck></atom-name>: Put each card exiled with <atom-name><nospellcheck>Sunset Study</nospellcheck></atom-name> and the top two cards of your library into your hand. This ability costs <sym-auto>5</sym-auto> less to activate if you’ve spent <sym>WUBRG</sym> to cast spells this turn.
+		When <atom-name>Sunset Study</atom-name> enters, exile the top three cards of your library. You may play those cards until the end of your next turn.
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</i></key></nospellcheck></i-auto></kw-A> — <sym-auto>5</sym-auto>, Sacrifice <atom-name>Sunset Study</atom-name>: Put each card exiled with <atom-name>Sunset Study</atom-name> and the top two cards of your library into your hand. This ability costs <sym-auto>5</sym-auto> less to activate if you’ve spent five or more colors to cast spells this turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

@@ -45,7 +45,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Zesha</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals combat damage to a player, that player exiles that many cards from the top of their library. 
+		Whenever Zesha deals combat damage to a player, that player exiles that many cards from the top of their library. 
 		You may play land cards from among face up cards you don’t own in exile.
 	rule_text_2:
 		<atom-name>This land</atom-name> enters tapped.

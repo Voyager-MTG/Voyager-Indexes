@@ -23,7 +23,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kala</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, create a 1/1 white Nightmare creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
+		When Kala enters, create a 1/1 white Nightmare creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This creature can’t block.”
 		Once each turn, whenever a token creature you control deals combat damage to a player, you may sacrifice it. If you do, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

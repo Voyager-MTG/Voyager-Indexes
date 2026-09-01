@@ -22,7 +22,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Migratory Bloom</nospellcheck></atom-name> enters, if it’s not a token, create a token that’s a copy of it.
+		When <atom-name>Migratory Bloom</atom-name> enters, if it’s not a token, create a token that’s a copy of it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

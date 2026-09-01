@@ -22,7 +22,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Stardust Haze</nospellcheck></atom-name> enters, exile target nonland permanent you don’t control until <atom-name><nospellcheck>Stardust Haze</nospellcheck></atom-name> leaves the battlefield.
+		When <atom-name>Stardust Haze</atom-name> enters, exile target nonland permanent you don’t control until <atom-name>Stardust Haze</atom-name> leaves the battlefield.
 		<kw-0><nospellcheck><key>Reflect <param-cost><sym-auto>2W</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>2W</sym-auto>: Create a token copy of this enchantment, except it’s a 1/1 Wonder creature in addition to its other types. They both lose reflect. Reflect only as a sorcery.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ian MacNair

@@ -21,14 +21,14 @@ card:
 	sub_type: 
 	rule_text:
 		<i><sym>WU</sym>: Flicker<soft-line>
-		<sym-auto>UB</sym-auto>: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Reanimator<soft-line></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		<sym-auto>UB</sym-auto>: Reanimator<soft-line>
 		<sym-auto>BR</sym-auto>: Sacrifice<soft-line>
 		<sym-auto>RG</sym-auto>: <kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A><soft-line>
 		<sym-auto>GW</sym-auto>: Noncreature Spells<soft-line>
 		<sym-auto>WB</sym-auto>: Enchantments<soft-line>
 		<sym-auto>BG</sym-auto>: Graveyard Value<soft-line>
-		<sym-auto>GU</sym-auto>: Human//Elf <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Typal<soft-line></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
-		<sym-auto>UR</sym-auto>: Noncreature Spells <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>CardAdv</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto><soft-line>
+		<sym-auto>GU</sym-auto>: Human//Elf Typal<soft-line>
+		<sym-auto>UR</sym-auto>: Noncreature Spells <i-auto>(CardAdv)</i-auto><soft-line>
 		<sym-auto>RW</sym-auto>: Go Wide
 		<sym-auto>IW</sym-auto>: Tokens Go Wide Anthems<soft-line>
 		<sym-auto>IU</sym-auto>: Same Name//Tokens<soft-line>

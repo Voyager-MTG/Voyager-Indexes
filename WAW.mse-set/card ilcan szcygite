@@ -22,8 +22,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Ilcan Szcygite</nospellcheck></atom-name> enters and at the beginning of your upkeep, put a +1/+1 counter on up to one target creature you control. It gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
-		<sym-auto>2W</sym-auto>: Put <atom-name><nospellcheck>Ilcan Szcygite</nospellcheck></atom-name> from your hand onto the battlefield tapped with five <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it.
+		When <atom-name>Ilcan Szcygite</atom-name> enters and at the beginning of your upkeep, put a +1/+1 counter on up to one target creature you control. It gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>2W</sym-auto>: Put <atom-name>Ilcan Szcygite</atom-name> from your hand onto the battlefield tapped with five <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5

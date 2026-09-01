@@ -21,8 +21,8 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Survivor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		When <atom-name><nospellcheck>Epitaph Hermit</nospellcheck></atom-name> enters, <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-name><nospellcheck>Epitaph Hermit</nospellcheck></atom-name> dies, put it on the bottom of its owner’s library.
+		When <atom-name>Epitaph Hermit</atom-name> enters, <kw-A><nospellcheck><key>pursue Wonder</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-name>Epitaph Hermit</atom-name> dies, put it on the bottom of its owner’s library.
 	flavor_text: <i-flavor>The last of a plane, she, and it, are immortalized by the <error-spelling:en_US>Wonderlands’</error-spelling:en_US> sympathy.</i-flavor>
 	power: 1
 	toughness: 1

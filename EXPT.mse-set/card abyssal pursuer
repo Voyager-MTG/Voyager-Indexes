@@ -33,7 +33,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever <atom-name>this creature</atom-name> attacks, you may discard a card and <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>. When you do, if a creature card with mana value less than or equal to the number of attacking creatures was revealed this way, you may put it onto the battlefield tapped and attacking. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto></atom-name><atom-name>
+	rule_text: Whenever <atom-name>this creature</atom-name> attacks, you may discard a card and <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>. When you do, if a creature card with mana value less than or equal to the number of attacking creatures was revealed this way, you may put it onto the battlefield tapped and attacking. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

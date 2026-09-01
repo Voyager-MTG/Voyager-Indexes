@@ -28,7 +28,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Granter of Wishes</nospellcheck></atom-name> enters, create a 3/2 silver Horror creature token.
+		When <atom-name>Granter of Wishes</atom-name> enters, create a 3/2 silver Horror creature token.
 	flavor_text: <i-flavor>“All your heart desires, and more.”</i-flavor>
 	level_1_text: Chain of Being <i-auto>(This card may start in your sanctum. You may cast it from there by sacrificing an Angel and a Human.)</i-auto>
 	power: 3

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-04-25 03:47:22
-	time_modified: 2025-04-13 12:24:24
+	time_modified: 2026-09-01 01:27:46
 	card_color: red
 	name: Burnout
 	casting_cost: R
@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
-		<atom-name>This spell</atom-name> deals 2 damage to any target. If you’ve illuminated red, <atom-name>this spell</atom-name> deals 3 damage to that target instead.
+		Burnout deals 2 damage to any target. If you’ve illuminated red, Burnout deals 3 damage to that target instead.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Even the smallest flame...</i-flavor>

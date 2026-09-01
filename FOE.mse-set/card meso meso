@@ -28,7 +28,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“A species unlike anything on <error-spelling:en_US>Vinimroth</error-spelling:en_US>, it looks like its made of metal! I’ll need to get <error-spelling:en_US>Korna</error-spelling:en_US> to help me study these.”<soft-line>
-		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Melodia</soft-line></error-spelling:en_US></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 1

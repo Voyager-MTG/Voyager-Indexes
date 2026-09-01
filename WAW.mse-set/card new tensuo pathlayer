@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>New Tensuo Pathlayer</nospellcheck></atom-name> enters, <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, then you may put a land card from your hand onto the battlefield. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto>
+		When <atom-name>New Tensuo Pathlayer</atom-name> enters, <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, then you may put a land card from your hand onto the battlefield. <i-auto>(To <kw-0><nospellcheck><key>pursue Wonder</key></nospellcheck></kw-0>, reveal a basic land or Wonder card from your sanctum and put it into your hand.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

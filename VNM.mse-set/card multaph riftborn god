@@ -35,8 +35,8 @@ card:
 	sub_type: <word-list-race-en>Icon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elk</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>God</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Multaph</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, search your library for an enchantment card with mana value 4 or greater, reveal it, put it into your hand, then shuffle
-		<sym-auto>3IUB</sym-auto>, Sacrifice an enchantment: Return <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Multaph</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> from your graveyard to the battlefield tapped.
+		When Multaph enters, search your library for an enchantment card with mana value 4 or greater, reveal it, put it into your hand, then shuffle
+		<sym-auto>3IUB</sym-auto>, Sacrifice an enchantment: Return Multaph from your graveyard to the battlefield tapped.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	power: 3

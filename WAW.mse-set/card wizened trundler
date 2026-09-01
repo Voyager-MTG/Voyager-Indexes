@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-01-08 19:32:47
-	time_modified: 2025-02-20 17:02:55
+	time_modified: 2026-08-31 17:45:27
 	name: Wizened Trundler
 	casting_cost: 3W
 	image: image228
@@ -14,9 +14,8 @@ card:
 	sub_type: <word-list-race-en>Rhino</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		<kw-A><i-auto><nospellcheck><key><i>Augmented</key></nospellcheck></i-auto></kw-A> —</i> At the beginning of combat on your turn, choose one. If you’ve spent <sym>WUBRG</sym> to cast spells this turn, you may choose both instead.
-		<li><bullet>• </bullet>Other creatures have base power and toughness 3/3 until end of turn.
-		</li><li><bullet>• </bullet>Creatures you control gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.</li>
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		<i><kw-A><i-auto><nospellcheck><key>Augmented</key></nospellcheck></i-auto></kw-A> —</i> At the beginning of your end step, if you’ve spent five or more colors to cast spells this turn, <atom-cardname><nospellcheck>Wizened Trundler</nospellcheck></atom-cardname> deals 4 damage to target opponent.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5

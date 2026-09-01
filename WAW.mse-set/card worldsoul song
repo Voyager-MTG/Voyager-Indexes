@@ -24,7 +24,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature gets +3/+3 and has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
-		You may cast <atom-name><nospellcheck>Worldsoul Song</nospellcheck></atom-name> from your graveyard by paying <sym>WUBRG</sym> rather than paying its mana cost.
+		You may cast <atom-name>Worldsoul Song</atom-name> from your graveyard by paying <sym>WUBRG</sym> rather than paying its mana cost.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Shaylynn Wong
 	card_code_text: 

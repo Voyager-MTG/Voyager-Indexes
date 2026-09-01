@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		As <atom-name><nospellcheck>The Starsea</nospellcheck></atom-name> enters, you may pay 2 life. If you don’t, it enters tapped.
+		As <atom-name>The Starsea</atom-name> enters, you may pay 2 life. If you don’t, it enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
 		<sym-auto>T</sym-auto>: Add one mana of any color a land you control could produce.
 	flavor_text: <i-flavor></i-flavor>

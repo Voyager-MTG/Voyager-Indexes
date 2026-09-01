@@ -22,7 +22,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		<atom-name><nospellcheck>Skyscrape</nospellcheck></atom-name> can block only creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		<atom-name>Skyscrape</atom-name> can block only creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 3

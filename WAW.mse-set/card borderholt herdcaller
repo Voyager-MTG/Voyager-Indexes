@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>4G</sym-auto>, Exile a card from your graveyard: <b>[Create a 3/3 green Beast creature token.]</b> Activate only as a sorcery. 
-		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>4G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>4G</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>4G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>“This plane is a truly marvelous ecosystem, able to sustain friends from a hundred worlds.”</i-flavor>
 	power: 3
 	toughness: 5

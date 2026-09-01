@@ -21,7 +21,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Wonder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Giant</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: When <atom-name><nospellcheck>Font of Boons</nospellcheck></atom-name> enters, create a 1/1 Wonder creature token that’s all colors, then put a +1/+1 counter on each creature you control with base power 1 or less.
+	rule_text: When <atom-name>Font of Boons</atom-name> enters, create a 1/1 Wonder creature token that’s all colors, then put a +1/+1 counter on each creature you control with base power 1 or less.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

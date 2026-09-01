@@ -15,7 +15,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		This spell costs <sym-auto>1</sym-auto> less to cast for each color among monocolored cards in your graveyard.
-		<sym-auto>1GU</sym-auto>, Discard <atom-name><nospellcheck>Fascinated Immortal</nospellcheck></atom-name>: Look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped or a card from among them into your hand. Put the rest into your graveyard.
+		<sym-auto>1GU</sym-auto>, Discard <atom-name>Fascinated Immortal</atom-name>: Look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped or a card from among them into your hand. Put the rest into your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5

@@ -19,7 +19,7 @@ card:
 		Destroy target creature if it’s tapped or if this spell emerged. You gain 3 life.
 	flavor_text:
 		<i-flavor>“Even a noble desire should be tempered.”<soft-line>
-		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Amarell</error-spelling:en_US>, elder of New <error-spelling:en_US>Tensuo</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Anthony Jones
 	card_code_text: 
 	card_code_text_2: 

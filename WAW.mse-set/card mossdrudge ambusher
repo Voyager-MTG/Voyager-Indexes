@@ -15,8 +15,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
-		<sym-auto>1</sym-auto>, Sacrifice a blue or black permanent: Put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter on <atom-name><nospellcheck>Mossdrudge Ambusher</nospellcheck></atom-name>.
-		<sym-auto>3</sym-auto>, Sacrifice a red or white permanent: <atom-name><nospellcheck>Mossdrudge Ambusher</nospellcheck></atom-name> gets +3/+0 until end of turn.
+		<sym-auto>1</sym-auto>, Sacrifice a blue or black permanent: Put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter on <atom-name>Mossdrudge Ambusher</atom-name>.
+		<sym-auto>3</sym-auto>, Sacrifice a red or white permanent: <atom-name>Mossdrudge Ambusher</atom-name> gets +3/+0 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3

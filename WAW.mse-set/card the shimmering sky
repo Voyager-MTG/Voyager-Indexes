@@ -22,9 +22,9 @@ card:
 	sub_type: <word-list-race-en>Wonder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		As <atom-name><nospellcheck>The Shimmering Sky</nospellcheck></atom-name> enters, choose a nonland card name.
+		As <atom-name>The Shimmering Sky</atom-name> enters, choose a nonland card name.
 		Spells with the chosen name can’t be cast.
-		When <atom-name><nospellcheck>The Shimmering Sky</nospellcheck></atom-name> leaves the battlefield, you gain 5 life and you draw a card.
+		When <atom-name>The Shimmering Sky</atom-name> leaves the battlefield, you gain 5 life and you draw a card.
 	flavor_text:
 		<i-flavor>“Is there any pattern to the permanent aurora?”<soft-line>
 		—<error-spelling:en_US>Fieldbook</error-spelling:en_US> of Manuela Martinez</soft-line></i-flavor>

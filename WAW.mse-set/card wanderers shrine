@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-name><nospellcheck>Wanderer’s Shrine</nospellcheck></atom-name>: Put a basic land card from your sanctum onto the battlefield.
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-name>Wanderer’s Shrine</atom-name>: Put a basic land card from your sanctum onto the battlefield.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:

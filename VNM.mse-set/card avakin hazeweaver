@@ -34,7 +34,7 @@ card:
 		</i>Target creature gets -2/-0 until end of turn. Cast only outside of combat.</soft-line>
 	flavor_text:
 		<i-flavor>“The knowledge of the Elves was once forbidden. Our clan accepted their teachings.”<soft-line>
-		—<error-spelling:en_US>Shivta</error-spelling:en_US>, <error-spelling:en_US>Avlod</error-spelling:en_US> <error-spelling:en_US>Clanleader</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Shivta</error-spelling:en_US>, <error-spelling:en_US>Avlod</error-spelling:en_US> <error-spelling:en_US>Clanleader</soft-line></error-spelling:en_US></i-flavor>
 	power: 1
 	toughness: 2
 	illustrator: Xander Brown
