@@ -6,7 +6,7 @@ card:
 		!tag Sapner
 		Tricolor
 	time_created: 2025-02-24 00:36:31
-	time_modified: 2025-03-05 15:13:21
+	time_modified: 2026-09-02 15:29:29
 	name: Whisperer of Armies
 	casting_cost: 1WBG
 	image: image482
@@ -23,11 +23,11 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever you cast a noncreature spell, create an X/X black Army creature token, where X is the number of spells you’ve cast this turn.
-		Whenever you attack, Armies you control gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn if their total power is 4 or greater. The same is true for <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> and 8 or greater and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> for 12 or greater.
+		<kw-A><nospellcheck><key>Bloom</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you cast a noncreature spell, create an X/X black Army creature token, where X is the number of spells you’ve cast or copied this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
-	toughness: 3
+	toughness: 4
 	illustrator: Sforzarto
 	card_code_text: 
 	card_code_text_2: 

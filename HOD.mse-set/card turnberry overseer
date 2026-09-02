@@ -6,7 +6,7 @@ card:
 		!tag Turnberry
 		!noscript
 	time_created: 2025-02-24 00:35:24
-	time_modified: 2025-07-15 18:33:09
+	time_modified: 2026-09-02 15:36:24
 	name: Turnberry Overseer
 	casting_cost: 2G
 	image: image563
@@ -27,7 +27,7 @@ card:
 		When <atom-name>Turnberry Overseer</atom-name> enters, choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
-	toughness: 2
+	toughness: 3
 	illustrator: Alex Kuhn
 	card_code_text: 
 	card_code_text_2: 

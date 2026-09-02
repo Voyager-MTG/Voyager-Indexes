@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/9N9ZNO
 	time_created: 2024-09-03 18:53:09
-	time_modified: 2025-11-23 18:28:07
+	time_modified: 2026-09-02 15:37:42
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: it/its
@@ -21,7 +21,7 @@ card:
 	loyalty_cost_1: +1
 	loyalty_cost_2: -2
 	loyalty_cost_3: -5
-	loyalty: 3
+	loyalty: 2
 	level_1_text: <margin:130:0:0>Sacrifice up to one nontoken creature you control. Create a token that’s a copy of it except it’s an artifact in addition to its other types.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Return target creature card with mana value 3 or less from your graveyard to the battlefield.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Create two token copies of <atom-name>Echo of Distorted Outcomes</atom-name>, except they’re not legendary.</margin:130:0:0>

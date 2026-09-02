@@ -5,7 +5,7 @@ card:
 		!tag Dewold
 		!tag Perle
 	time_created: 2025-02-27 12:13:37
-	time_modified: 2025-03-04 22:24:41
+	time_modified: 2026-09-02 15:35:51
 	name: Perle Retainer
 	casting_cost: 1R
 	image: image712
@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: When <atom-name>Perle Retainer</atom-name> dies, you may search your library for a legendary card and exile it. If you do, you may play it next turn.
+	rule_text: When <atom-name>Perle Retainer</atom-name> dies, you may search your library for a legendary card and exile it. If you do, you may play it during your next turn.
 	flavor_text: <i-flavor>“Our battle will be remembered by the ages!”</i-flavor>
 	power: 2
 	toughness: 2

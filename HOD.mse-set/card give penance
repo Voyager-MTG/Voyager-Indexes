@@ -26,7 +26,7 @@ card:
 		Exile target nonland permanent.
 	flavor_text:
 		<i-flavor>“Remember who you serve. Your life will not be in vain.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Bennet</error-spelling:en_US> <error-spelling:en_US>Terrel</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Bennet</error-spelling:en_US> <error-spelling:en_US>Terrel</error-spelling:en_US></i-flavor>
 	illustrator: Olga Shvetskaya
 	card_code_text: 
 	card_code_text_2: 

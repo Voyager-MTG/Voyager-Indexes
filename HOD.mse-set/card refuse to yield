@@ -26,7 +26,7 @@ card:
 	rule_text: Target creature gets +2/+7 until end of turn. Untap it.
 	flavor_text:
 		<i-flavor>“You want a hero to look to? Someone that will save the day? Become that hero. Lead your own destiny.”<soft-line>
-		—<error-spelling:en_US>Fulchard</error-spelling:en_US> <error-spelling:en_US>Sapner</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Fulchard</error-spelling:en_US> <error-spelling:en_US>Sapner</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Canh Nguyen
 	card_code_text: 
 	card_code_text_2: 

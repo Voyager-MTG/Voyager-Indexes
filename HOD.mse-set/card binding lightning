@@ -27,7 +27,7 @@ card:
 		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>2R</sym-auto>, Exile three other cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text:
 		<i-flavor>“Die. Die like the horrid animal you are.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Veceslav</i-flavor></error-spelling:en_US>
+		</soft-line>—<error-spelling:en_US>Veceslav</error-spelling:en_US></i-flavor>
 	illustrator: Tomasz Ryger
 	card_code_text: 
 	card_code_text_2: 

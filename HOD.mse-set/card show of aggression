@@ -27,7 +27,7 @@ card:
 		</li><li><bullet>• </bullet>Put two +1/+1 counters on target creature.</li>
 	flavor_text:
 		<i-flavor>“I have no care for your crisis of succession. My House is capable on its own.”
-		—<error-spelling:en_US>Bistra</error-spelling:en_US> <error-spelling:en_US>Sapner</i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Bistra</error-spelling:en_US> <error-spelling:en_US>Sapner</error-spelling:en_US></i-flavor>
 	illustrator: Albert Urmanov
 	card_code_text: 
 	card_code_text_2: 

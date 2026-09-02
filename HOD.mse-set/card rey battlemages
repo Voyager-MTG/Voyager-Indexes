@@ -26,7 +26,7 @@ card:
 		<sym-auto>3W</sym-auto>, <sym-auto>T</sym-auto>: Return target creature card with mana value 2 or less from your graveyard to the battlefield with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.
 	flavor_text:
 		<i-flavor>“A life without love isn’t really a life at all.”<soft-line>
-		</soft-line>—Edith <error-spelling:en_US>Rey</i-flavor></error-spelling:en_US>
+		</soft-line>—Edith <error-spelling:en_US>Rey</error-spelling:en_US></i-flavor>
 	power: 3
 	toughness: 2
 	illustrator: Andrew Kuzinskiy

@@ -30,7 +30,7 @@ card:
 	rule_text: Whenever you cast a noncreature spell, create a 1/1 blue Scout creature token <kw-A><nospellcheck><key>in your reserves</key></nospellcheck>.<atom-reminder-custom> <i-auto>(<sym>3</sym>: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“The <error-spelling:en_US>Aciesblade</error-spelling:en_US> is reacting to this child? How very strange.”<soft-line>
-		—<error-spelling:en_US>Marilye</soft-line></i-flavor></error-spelling:en_US>
+		—<error-spelling:en_US>Marilye</soft-line></error-spelling:en_US></i-flavor>
 	power: 2
 	toughness: 1
 	illustrator: Kent Hamilton and Nele Diel

@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Spells that target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Spellwild</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Ouphe cost <sym-auto>2</sym-auto> less to cast.
+	rule_text: Spells that target Spellwild Ouphe cost <sym-auto>2</sym-auto> less to cast.
 	flavor_text: <i-flavor>The <error-spelling:en_US>Geistwald</error-spelling:en_US> holds many glades where <error-spelling:en_US>ouphes</error-spelling:en_US> stare into the endless sky, glancing at worlds of artifice, plague, and utmost peace.</i-flavor>
 	power: 1
 	toughness: 3
