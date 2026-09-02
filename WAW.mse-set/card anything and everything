@@ -26,7 +26,7 @@ card:
 		<li><bullet>• </bullet><b>[Exile up to one target nonland permanent with mana value 1 or less.]</b>
 		</li><li><bullet>• </bullet><b>[<kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw a card.]</b>
 		</li><li><bullet>• </bullet><b>[Create a 3/3 green Beast creature token.]</b>
-		<margin:0:0:5></li><kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>WUBRG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</i-auto></atom-reminder-custom></kw-A></margin:0:0:5>
+		<margin:0:0:5></li><kw-A><nospellcheck><key>Impetus <param-cost><sym-auto>WUBRG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard as a sorcery with only the text in square brackets for <param-cost><sym-auto>WUBRG</sym-auto></param-cost>. Then exile it.)</i-auto></atom-reminder-custom></kw-A></margin:0:0:5>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Philip Byers
 	card_code_text: 

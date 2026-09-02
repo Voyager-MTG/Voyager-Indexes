@@ -1,9 +1,14 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-01-23 11:46:16
-	time_modified: 2025-01-31 14:28:35
+	time_modified: 2026-09-01 21:49:44
 	name: Overeager Researcher
 	casting_cost: 1U
 	image: image99
@@ -15,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever <atom-name>Overeager Researcher</atom-name> deals combat damage to an opponent, draw a card.
-		<kw-A><nospellcheck><key>Ploy</key></nospellcheck> — Creatures you control can’t be blocked by creatures with greater power this turn.<atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Ploy</key></nospellcheck> — Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.<atom-reminder-expert> <i-auto>(When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>“I can’t believe my luck! The Multiverse is real, and I get to explore it!”</i-flavor>
 	power: 1
 	toughness: 1
