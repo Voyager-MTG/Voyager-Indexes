@@ -4437,7 +4437,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: Put target noncreature permanent into its owner’s sanctum. <kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Put target noncreature permanent into its owner’s sanctum. <kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of another token you control.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:
@@ -6525,7 +6525,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When this creature enters, if it isn’t a token, choose one — <soft-line>
-		</soft-line><margin:0:0:3><li><bullet>• </bullet><kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<soft-line><atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A></li></margin:0:0:3>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet><kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<soft-line><atom-reminder-custom> <i-auto>(Create a token thats a copy of another token you control.)</i-auto></atom-reminder-custom></kw-A></li></margin:0:0:3>
 		</soft-line><margin:0:0:3><li><bullet>• </bullet>Reveal the top card of your library. If its a permanent card, put it into your hand.</li></margin:0:0:3>
 		<kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>1I/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
@@ -16475,7 +16475,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: <kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <kw-A><nospellcheck><key>Mirror</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a token thats a copy of another token you control.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>The mirror of the mirror was perfect in every way, with all its flaws and fortunes for all to see.</i-flavor>
 	illustrator: harriers
 	card_code_text: 
@@ -24958,7 +24958,7 @@ card:
 	linked_relation_3: 
 	linked_relation_4: 
 	time_created: 2026-09-06 16:24:19
-	time_modified: 2026-09-06 16:36:25
+	time_modified: 2026-09-06 19:37:06
 	extra_data:
 		magic-m15-altered:
 			promo_label: 
@@ -24966,6 +24966,7 @@ card:
 	name: Maal and Sevol, Twin Sentries
 	casting_cost: 6
 	transformation: position default, background default, rim default, icon default, modal front
+	reminder_cost: <sym-auto></sym-auto>
 	image: image16.png
 	image_2: 
 	mainframe_image: scripted_image65.png
