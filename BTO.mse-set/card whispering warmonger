@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !designer Stasis
+	time_created: 2026-08-07 15:00:04
+	time_modified: 2026-08-27 00:56:39
+	name: Whispering Warmonger
+	alias: Azerron
+	casting_cost: 2BR
+	image: image8.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Faerie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When this creature enters, you may <kw-0><nospellcheck><key>contes<param-*s>t</param-*s></key></nospellcheck></kw-0> each card in your hand. If you do, search your library for a card, put it into your hand, then shuffle. <i-auto>(To <kw-0><nospellcheck><key>contes<param-*s>t</param-*s></key></nospellcheck></kw-0> a card, exile it, then create a <sym>D2</sym> Conflict battle token an opponent protects with “When this is defeated, put the contested card into your hand.”)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Zuz Gruzlewska
+	additional_credit: Stasis
+	additional_credit_brush: mechanics
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: Azerron

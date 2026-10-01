@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-08-09 13:34:42
+	time_modified: 2026-09-24 16:01:00
+	name: Beizu Grand Temple
+	casting_cost: 3B
+	transformation: custom symbol one
+	image: image180.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Shrine</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: At the beginning of your upkeep, exile up to one target creature card with mana value less than or equal to the number of Shrines you control from your graveyard. Create a token that’s a copy of it.
+	flavor_text: <i-flavor>The heart of the dusk city, host to the darkest rites.</i-flavor>
+	illustrator: Zhang_Bo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

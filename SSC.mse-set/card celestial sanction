@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 4
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-05-23 12:25:44
+	time_modified: 2026-09-30 11:10:43
+	name: Celestial Sanction
+	casting_cost: 3W
+	image: image373.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Convoke</key></nospellcheck><atom-reminder-expert> <i-auto>(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for <sym>1</sym> or one mana of that creature’s color.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Celestial Sanction</nospellcheck></atom-cardname> enters, exile target nonland permanent you don’t control until <atom-cardname><nospellcheck>Celestial Sanction</nospellcheck></atom-cardname> leaves the battlefield.
+	flavor_text: <i-flavor>To seal great evil, the effort of many was needed.</i-flavor>
+	illustrator: Lana Marushchenko
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: state, M20
+		other_options: white state text, state drop shadow
+		shrink_font_size: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	notes: 
+	time_created: 2026-08-25 16:18:17
+	time_modified: 2026-08-25 16:19:58
+	name: City’s Blessing
+	image: image6.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i>“Not even death can wrest from your claws the freedom you win in life.”<soft-line>
+		</soft-line>—Price <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deus</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Sunson</i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Florian Herold (Edited)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

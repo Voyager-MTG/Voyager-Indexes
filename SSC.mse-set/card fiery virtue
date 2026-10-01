@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-17 20:46:46
+	time_modified: 2026-09-30 11:15:04
+	name: Fiery Virtue
+	casting_cost: 1R
+	image: image503.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Creature tokens you control get +1/+0 and have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>A <error-spelling:en_US>pyredancer’s</error-spelling:en_US> goal with their dance should always be reverence. They are telling ancient, sacred stories for the crossed to feel welcome.</i-flavor>
+	illustrator: Con_Potata
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

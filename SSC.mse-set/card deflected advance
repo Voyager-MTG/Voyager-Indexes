@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-17 20:46:46
+	time_modified: 2026-09-30 11:15:07
+	name: Deflected Advance
+	casting_cost: 2R
+	image: image507.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Convoke</key></nospellcheck><atom-reminder-expert> <i-auto>(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for <sym>1</sym> or one mana of that creature’s color.)</i-auto></atom-reminder-expert></kw-A>
+		Change the target of target spell or ability with a single target.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Woody_Zhou
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

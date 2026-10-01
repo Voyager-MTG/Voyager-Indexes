@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-05-13 13:49:22
+	time_modified: 2026-09-30 11:09:58
+	name: Bloodless Belle
+	casting_cost: 2U/B
+	image: image318.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Bloodless Belle</nospellcheck></atom-cardname> enters, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+	flavor_text: <i-flavor>A beauty in life, the <error-spelling:en_US>Soulblight</error-spelling:en_US> left but a macabre shadow of it.</i-flavor>
+	power: 4
+	toughness: 1
+	illustrator: NetEase
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

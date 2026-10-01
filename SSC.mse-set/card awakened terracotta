@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-26 16:24:03
+	time_modified: 2026-09-30 11:10:54
+	name: Awakened Terracotta
+	casting_cost: 7
+	image: image386.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Golem</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Basic landcycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>It had been exposed to the gateway’s <error-spelling:en_US>Qi</error-spelling:en_US> for so long it became its guardian.</i-flavor>
+	power: 6
+	toughness: 5
+	illustrator: Jmxd
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

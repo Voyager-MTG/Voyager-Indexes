@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-26 16:24:03
+	time_modified: 2026-09-30 11:10:53
+	name: Crossed’s Lantern
+	casting_cost: 3
+	image: image385.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Yin-yang</key></nospellcheck><atom-reminder-custom> <i-auto>(If you control four or more tapped and four or more untapped permanents, become balanced for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		<sym>T</sym>: Add one mana of any color.
+		<sym>7</sym>, <sym>T</sym>, Sacrifice <atom-cardname><nospellcheck>Crossed’s Lantern</nospellcheck></atom-cardname>: Destroy target permanent. This ability costs <sym>7</sym> less to activate if you’re balanced.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kuro_Games
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

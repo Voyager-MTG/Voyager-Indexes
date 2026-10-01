@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-19 17:20:33
+	time_modified: 2026-09-30 11:10:16
+	name: Perfected Guard
+	casting_cost: U
+	image: image340.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Yin-yang</key></nospellcheck><atom-reminder-custom> <i-auto>(If you control four or more tapped and four or more untapped permanents, become balanced for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		Target creature you control gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn. If you’re balanced, it also has base power and toughness 5/5 and gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> this turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Salmon88
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

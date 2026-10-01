@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-17 09:38:18
+	time_modified: 2026-09-30 11:14:48
+	name: Darkest Prayers
+	casting_cost: 1B
+	image: image485.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Darkest Prayers</nospellcheck></atom-cardname> enters or leaves the battlefield, you lose 1 life and <kw-A><nospellcheck><key>venerate</key></nospellcheck>.<atom-reminder-custom> <i-auto>(You may reveal and put a Shrine card you own from outside the game into your hand, or create a 1/1 colorless Shrine enchantment creature token.)</i-auto></atom-reminder-custom></kw-A>
+		<sym>1</sym><sym>B</sym>, Sacrifice <atom-cardname><nospellcheck>Darkest Prayers</nospellcheck></atom-cardname>: Each opponent loses 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Skavenprime
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

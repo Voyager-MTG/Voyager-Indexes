@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-05-13 13:49:22
+	time_modified: 2026-09-30 11:10:00
+	name: Inexperienced Pyredancer
+	casting_cost: W/B
+	image: image321.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Performer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Yin-yang</key></nospellcheck><atom-reminder-custom> <i-auto>(If you control four or more tapped and four or more untapped permanents, become balanced for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		<atom-cardname><nospellcheck>Inexperienced Pyredancer</nospellcheck></atom-cardname> gets +3/+0 as long as you’re balanced.
+	flavor_text: <i-flavor><error-spelling:en_US>Pyredancers</error-spelling:en_US> must train for years before they even think of taking the stage.</i-flavor>
+	power: 0
+	toughness: 3
+	illustrator: Aniao_Ya
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-08-06 15:49:49
+	time_modified: 2026-09-30 11:13:53
+	name: Dredge Thoughts
+	casting_cost: UB
+	image: image440.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>eight</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. If <atom-cardname><nospellcheck>Dredge Thoughts</nospellcheck></atom-cardname> was cast from a graveyard, that player instead mills cards equal to the number of cards in their graveyard.
+		<kw-1><nospellcheck><key>Trespass <param-cost><sym-auto>6UB</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell from your graveyard for <param-cost><sym-auto>6UB</sym-auto></param-cost>, and may sacrifice a creature to reduce that cost by <sym>X</sym>, where X is its power. Then exile this spell.)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dzikawa
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

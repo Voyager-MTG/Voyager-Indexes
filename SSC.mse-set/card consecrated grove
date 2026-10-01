@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/dKPg9J?collection_id=3283058
+	time_created: 2026-09-28 19:58:07
+	time_modified: 2026-09-30 11:16:25
+	name: Consecrated Grove
+	image: image542.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym>I</sym> or <sym>G</sym>. Activate only if you control a Fault or a Forest.
+	flavor_text: <i-flavor>As the story goes, there exists a sanctuary in the forest, protected by gods from the advances of mortals.</i-flavor>
+	illustrator: Ideomotor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

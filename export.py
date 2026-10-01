@@ -2,6 +2,7 @@ import os, shutil
 
 include_sets = [
     "AKT",
+    "ABY",
     "EXPT",
     "FOE",
     "HOD",
@@ -17,6 +18,8 @@ include_sets = [
     "TTT04",
     "VSB",
     "IRD",
+    "SSC",
+    "BTO"
     "END"
 ]
 

@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 3
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-08-17 09:38:18
+	time_modified: 2026-09-30 11:14:53
+	name: Obsessed Jiangshi
+	casting_cost: 2BB
+	image: image491.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Yin-yang</key></nospellcheck><atom-reminder-custom> <i-auto>(If you control four or more tapped and four or more untapped permanents, become balanced for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever you attack, if you’re balanced, you may pay <sym>1BB</sym>. If you do, return <atom-cardname><nospellcheck>Obsessed Jiangshi</nospellcheck></atom-cardname> from your graveyard to the battlefield tapped and attacking.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Hizuki_Miya
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

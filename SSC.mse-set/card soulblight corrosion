@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 1
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-03-08 08:14:22
+	time_modified: 2026-09-30 11:09:55
+	name: Soulblight Corrosion
+	casting_cost: B
+	image: image315.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature or enchantment you control</param-name></key></nospellcheck></kw-a>
+		When enchanted permanent dies or is put into exile, return that card to the battlefield under your control.
+	flavor_text: <i-flavor>It is nigh-impossible to kill a <error-spelling:en_US>soulblighted</error-spelling:en_US> for good.</i-flavor>
+	illustrator: Ikurauni
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

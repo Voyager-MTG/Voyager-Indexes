@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-15 10:43:58
+	time_modified: 2026-08-27 21:08:34
+	card_color: land, multicolor
+	name: Venerated Stage
+	image: image295.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<sym>T</sym>: Add <sym>C</sym>.
+		<sym>T</sym>: Add one mana of any color. Spend this mana only to cast Shrine spells.
+		<sym>5</sym>, <sym>T</sym>, Sacrifice <atom-cardname><nospellcheck>Venerated Stage</nospellcheck></atom-cardname>: <kw-1><nospellcheck><key>Venerate</key></nospellcheck>.<atom-reminder-custom> <i-auto>(You may reveal and put a Shrine card you own from outside the game into your hand, or create a 1/1 colorless Shrine enchantment creature token.)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Woody_Zhou
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

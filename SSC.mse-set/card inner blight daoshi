@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-03-08 08:14:22
+	time_modified: 2026-09-30 11:09:51
+	name: Inner Blight Daoshi
+	casting_cost: 4BB
+	image: image310.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Panda</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bear</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When <atom-cardname><nospellcheck>Inner Blight Daoshi</nospellcheck></atom-cardname> enters, remove up to three counters from up to one target permanent. You gain 3 life.
+		<kw-A><nospellcheck><key><param-one_word>Swamp</param-one_word>cycling <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-action> <i-auto>(<param-cost><sym-auto>1B</sym-auto></param-cost>, Discard this card: Search your library for a <param-one_word>Swamp</param-one_word> card, reveal it, put it into your hand, then shuffle.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Zephra
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

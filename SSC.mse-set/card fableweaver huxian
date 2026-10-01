@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		shrink_typeline_text: 1
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-05-24 19:47:22
+	time_modified: 2026-09-30 11:10:51
+	name: Fableweaver Huxian 
+	casting_cost: 1W
+	image: image383.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fox</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shapeshifter</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Enchantment spells you cast have <kw-0><nospellcheck><key>convoke</key></nospellcheck></kw-0>.
+		Whenever an enchantment you control enters, <atom-cardname><nospellcheck>Fableweaver Huxian </nospellcheck></atom-cardname> gets +1/+1 until end of turn.
+	flavor_text: <i-flavor>To tell all the stories in the world would be a task spanning lifetimes.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Ruoganzhao
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

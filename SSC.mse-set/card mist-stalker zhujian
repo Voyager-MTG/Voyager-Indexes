@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 7
+		shrink_typeline_text: 1
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !tag wishlist
+	time_created: 2026-08-09 13:34:42
+	time_modified: 2026-09-30 11:14:09
+	name: Mist-Stalker Zhujian
+	casting_cost: 3BBB
+	image: image461.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cyclops</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Human</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Ox</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever a Swamp you control enters, each opponent sacrifices a creature.
+		<kw-A><nospellcheck><key><param-one_word>Swamp</param-one_word>cycling <param-cost><sym-auto>2/B</sym-auto></param-cost></key></nospellcheck><atom-reminder-action> <i-auto>(<param-cost><sym-auto>2/B</sym-auto></param-cost>, Discard this card: Search your library for a <param-one_word>Swamp</param-one_word> card, reveal it, put it into your hand, then shuffle.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Saimire_Hala
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

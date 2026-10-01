@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga-creatures
+	stylesheet_version: 2021-02-16
+	has_styling: true
+	styling_data:
+		number_of_textboxes: 3
+		snap_chapter_to_box: 
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		custom_type_font: 
+	notes: 
+	time_created: 2026-05-15 19:18:42
+	time_modified: 2026-08-27 20:16:02
+	name: Qin Long, Flowing Cardinal
+	casting_cost: 4UUU
+	image: image20.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Saga</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dragon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+	rule_text: 
+	rule_text_2: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	level_1_text: Return each permanent that isn’t a land or a Dragon to its owner’s hand.
+	level_2_text: If you have less than seven cards in your hand, draw cards equal to the difference.
+	level_3_text: You may cast a noncreature spell from your hand without paying its mana cost.
+	power: 6
+	toughness: 6
+	illustrator: Hen_Na
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

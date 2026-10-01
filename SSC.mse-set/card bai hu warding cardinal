@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga-creatures
+	stylesheet_version: 2021-02-16
+	has_styling: true
+	styling_data:
+		number_of_textboxes: 3
+		snap_chapter_to_box: 1,2,2,3
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		custom_type_font: 
+	notes: 
+	time_created: 2026-05-15 19:18:42
+	time_modified: 2026-08-27 20:15:50
+	name: Bai Hu, Warding Cardinal
+	casting_cost: WWW
+	image: image22.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Saga</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cat</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+	rule_text: 
+	rule_text_2: <kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	level_1_text: Search your library for a creature card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
+	level_2_text: Your opponents can’t cast spells this turn.
+	level_3_text: Target creature you control gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> until end of turn.
+	power: 3
+	toughness: 3
+	illustrator: Kusarukusa
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

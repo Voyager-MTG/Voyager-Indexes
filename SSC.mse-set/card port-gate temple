@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-11 14:36:48
+	time_modified: 2026-08-27 20:12:23
+	name: Port-Gate Temple
+	casting_cost: 1U/BU/B
+	transformation: custom symbol one
+	image: image265.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Shrine</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: At the beginning of combat on your turn, you draw a card and lose 1 life. Then discard a card unless you control three or more Shrines.
+	flavor_text: <i-flavor>Offer a prayer to those unseen.</i-flavor>
+	illustrator: Stu_Dts
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

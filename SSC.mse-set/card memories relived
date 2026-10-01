@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-08-09 10:35:39
+	time_modified: 2026-09-30 11:14:04
+	name: Memories Relived
+	casting_cost: 4UU
+	image: image455.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Exile target instant or sorcery card from a graveyard and copy it. You may cast the copy without paying its mana cost. If this spell was cast from a graveyard, copy that spell twice instead.
+		<kw-A><nospellcheck><key>Trespass <param-cost><sym-auto>5UUU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell from your graveyard for <param-cost><sym-auto>5UUU</sym-auto></param-cost>, and may sacrifice a creature to reduce that cost by <sym>X</sym>, where X is its power. Then exile this spell.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Morncolour
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

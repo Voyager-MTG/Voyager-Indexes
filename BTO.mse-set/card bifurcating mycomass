@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 10
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !designer Timespiraled
+	time_created: 2026-08-07 15:00:04
+	time_modified: 2026-08-07 23:15:39
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: 
+	card_color: black, green, multicolor, horizontal
+	name: Bifurcating Mycomass
+	alias: Duncaster
+	casting_cost: 3BG
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When this creature enters, destroy target nonland permanent with mana value 2 or less.
+		Creature cards in your hand have evoke. The evoke cost is equal to the mana cost reduced by <sym>2</sym>.
+		<kw-A><nospellcheck><key>Evoke <param-cost><sym-auto>BG</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 4
+	illustrator: JB Casacop
+	additional_credit: Timespiraled
+	additional_credit_brush: mechanics
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: Duncaster

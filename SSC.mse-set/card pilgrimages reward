@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-15 21:06:39
+	time_modified: 2026-09-30 11:14:40
+	name: Pilgrimage’s Reward
+	casting_cost: 2W
+	image: image475.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Pilgrimage’s Reward</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>venerate</key></nospellcheck>.<atom-reminder-custom> <i-auto>(You may reveal and put a Shrine card you own from outside the game into your hand, or create a 1/1 colorless Shrine enchantment creature token.)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of combat on your turn, up to one target creature you control gets +1/+1 for each enchantment you control until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Bowsman_Zy
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

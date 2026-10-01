@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-17 09:38:18
+	time_modified: 2026-09-30 11:14:49
+	name: Call the Damned
+	casting_cost: 2BB
+	image: image486.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Yin-yang</key></nospellcheck><atom-reminder-custom> <i-auto>(If you control four or more tapped and four or more untapped permanents, become balanced for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		Create two 2/2 black Beast enchantment creature tokens. If you’re balanced, you may  instead create X of those tokens, where X is the number of creature and enchantment cards in your graveyard.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Xin_Jin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

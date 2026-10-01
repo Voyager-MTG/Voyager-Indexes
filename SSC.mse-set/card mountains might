@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-20 10:32:35
+	time_modified: 2026-09-30 11:10:29
+	name: Mountain’s Might
+	casting_cost: 3G
+	image: image357.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature you control</param-name></key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Mountain’s Might</nospellcheck></atom-cardname> enters, enchanted creature fights up to one target creature an opponent controls.
+		Enchanted creature gets +2/+2 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Deersheep
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/PGQRr
+	time_created: 2026-09-28 19:58:07
+	time_modified: 2026-09-30 11:16:45
+	name: Mistcloaked Gateway
+	image: image545.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym>I</sym> or <sym>B</sym>. Activate only if you control a Fault or a Swamp.
+	flavor_text: <i-flavor>As the story goes, these gates appear out of the mist, seen only by those who have lost any and all direction.</i-flavor>
+	illustrator: Maxwell_Boas
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

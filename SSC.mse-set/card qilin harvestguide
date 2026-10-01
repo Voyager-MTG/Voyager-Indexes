@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga-creatures
+	stylesheet_version: 2021-02-16
+	has_styling: false
+	notes: 
+	time_created: 2026-08-18 17:24:26
+	time_modified: 2026-08-23 16:56:57
+	name: Qilin Harvestguide
+	casting_cost: 1G
+	image: image160.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Saga</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Kirin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+	rule_text: 
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2:
+		<i-flavor>‘What the Fields <error-spelling:en_US>Taught’</error-spelling:en_US> <soft-line>
+		</soft-line>—Tales of <error-spelling:en_US>Shiyue</i-flavor></error-spelling:en_US>
+	level_1_text: Search your library for a basic land card, put it into your hand, then shuffle.
+	level_2_text: You may play an additional land this turn.
+	level_3_text: Until end of turn, target land you control becomes a Spirit creature with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and “this creature’s power and toughness are each equal to the number of lands you control. <i-auto>(It’s still a land.)</i-auto>
+	power: 0
+	toughness: 4
+	illustrator: Varvara_Sklyarevskaya
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

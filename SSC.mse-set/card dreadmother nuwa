@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga-creatures
+	stylesheet_version: 2021-02-16
+	has_styling: true
+	styling_data:
+		number_of_textboxes: 4
+		snap_chapter_to_box: 1,2,3,4
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		custom_type_font: 
+	notes: 
+	time_created: 2026-08-09 13:34:42
+	time_modified: 2026-08-09 14:24:50
+	name: Dreadmother Nuwa
+	casting_cost: 2B
+	image: image177.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Saga</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Snake</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)</i-auto>
+	rule_text: 
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2:
+		<i-flavor>‘The Matriarch’s <error-spelling:en_US>Dues’<soft-line></error-spelling:en_US>
+		</soft-line>—Tales of <error-spelling:en_US>Shiyue</i-flavor></error-spelling:en_US>
+	level_1_text: You lose 3 life.
+	level_2_text: Discard a card.
+	level_3_text: Sacrifice a creature.
+	level_4_text: Until end of turn, you may cast spells by paying life equal to their mana value rather than their mana cost.
+	power: 5
+	toughness: 5
+	illustrator: Feng_Wei
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

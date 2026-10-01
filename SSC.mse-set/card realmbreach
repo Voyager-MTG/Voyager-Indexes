@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-15 21:06:39
+	time_modified: 2026-09-30 11:14:39
+	name: Realmbreach
+	casting_cost: WW
+	image: image474.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Return target creature card with mana value 4 or less from your graveyard to the battlefield tapped.
+	flavor_text: <i-flavor>Evil souls are forbidden from crossing. Many force their way through.</i-flavor>
+	illustrator: Ideomotor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

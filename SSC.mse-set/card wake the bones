@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-17 09:38:18
+	time_modified: 2026-09-24 16:47:32
+	name: Wake the Bones
+	casting_cost: 4B
+	image: image229.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Return target creature card from your graveyard to the battlefield.
+		<kw-A><nospellcheck><key>Trespass <param-cost><sym-auto>6B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell from your graveyard for <param-cost><sym-auto>6B</sym-auto></param-cost>, and may sacrifice a creature to reduce that cost by <sym>X</sym>, where X is its power. Then exile this spell.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jenner_Chen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

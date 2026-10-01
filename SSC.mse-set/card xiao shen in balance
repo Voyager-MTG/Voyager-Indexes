@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 0, 0, 375, 100,
+		opacity: 999
+		other_options: use taller frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-05-17 20:05:34
+	time_modified: 2026-08-23 20:49:01
+	name: Xiao Shen, In Balance
+	casting_cost: 2WB/RB/R
+	image: image10
+	image_2: image11
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Xiao</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	loyalty_cost_2: +2
+	loyalty_cost_3: 0
+	loyalty_cost_4: -2
+	loyalty: 4
+	level_1_text: As long as you control an artifact and an enchantment, <atom-cardname><nospellcheck>Xiao Shen, In Balance</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>.
+	level_2_text: <margin:130:0:0>Draw two cards. Each opponent draws a card unless you discard a card or sacrifice a nonland permanent.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Until end of turn, <atom-legname><nospellcheck>Xiao Shen</nospellcheck></atom-legname> becomes a 5/5 Wolf Warrior creature with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_4_text: <margin:130:0:0><atom-legname><nospellcheck>Xiao Shen</nospellcheck></atom-legname> deals 3 damage to any target.</margin:130:0:0>
+	level_5_text: 
+	level_6_text: 
+	illustrator: Ye_Xing_Caomei
+	card_code_text: Story Spotlight 10/10
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		As long as you control an artifact and an enchantment, <atom-cardname><nospellcheck>Xiao Shen, In Balance</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>.
+		[+2]: <margin:130:0:0>Draw two cards. Each opponent draws a card unless you discard a card or sacrifice a nonland permanent.</margin:130:0:0>
+		[0]: <margin:130:0:0>Until end of turn, <atom-legname><nospellcheck>Xiao Shen</nospellcheck></atom-legname> becomes a 5/5 Wolf Warrior creature with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-2]: <margin:130:0:0><atom-legname><nospellcheck>Xiao Shen</nospellcheck></atom-legname> deals 3 damage to any target.</margin:130:0:0>

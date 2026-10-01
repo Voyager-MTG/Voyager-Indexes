@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !designer Parasign
+	time_created: 2026-08-07 15:00:04
+	time_modified: 2026-08-28 00:41:27
+	name: Teeming Anurboroid
+	alias: Srai-Val-Nul
+	casting_cost: G
+	image: image18.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Frog</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: <kw-A><i-auto><nospellcheck><key>Ecosystem</key></nospellcheck></i-auto></kw-A> — <sym-auto>4</sym-auto>, <sym-auto>T</sym-auto>: Put a +1/+1 counter on target creature. This ability costs <sym-auto>1</sym-auto> less to activate for each different power among creatures you control. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Ivan Laliashvili
+	additional_credit: Parasign
+	additional_credit_brush: mechanics
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: Srai-Val-Nul

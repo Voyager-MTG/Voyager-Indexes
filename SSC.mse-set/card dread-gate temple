@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-08-11 14:36:48
+	time_modified: 2026-09-24 16:44:27
+	name: Dread-Gate Temple
+	casting_cost: 2B/R
+	transformation: custom symbol one
+	image: image16.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Shrine</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: At the beginning of combat on your turn, you may create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>, then <atom-cardname><nospellcheck>Dread-Gate Temple</nospellcheck></atom-cardname> deals 1 damage to you for each Treasure you control unless you control three or more Shrines.
+	flavor_text: <i-flavor>Offer a prayer to those long lost.</i-flavor>
+	illustrator: Yanyang_Sui
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

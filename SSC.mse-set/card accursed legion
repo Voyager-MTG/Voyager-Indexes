@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-19 10:57:09
+	time_modified: 2026-09-30 11:15:18
+	name: Accursed Legion
+	casting_cost: 6
+	image: image521.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Golem</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Army</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Convoke</key></nospellcheck><atom-reminder-expert> <i-auto>(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for <sym>1</sym> or one mana of that creature’s color.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Accursed Legion</nospellcheck></atom-cardname> enters, exile up to one target nonland permanent with mana value 3 or less.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Toy_E
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

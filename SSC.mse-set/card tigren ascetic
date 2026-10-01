@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-05-20 10:32:35
+	time_modified: 2026-09-30 11:10:29
+	name: Tigren Ascetic
+	casting_cost: 3G
+	image: image356.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		<margin:0:0:5>When <atom-cardname><nospellcheck>Tigren Ascetic</nospellcheck></atom-cardname> enters, choose one — </margin:0:0:5>
+		<li><bullet>• </bullet>Return target enchantment card from your graveyard to your hand.
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Venerate</key></nospellcheck>.<atom-reminder-custom> <i-auto>(You may reveal and put a Shrine card you own from outside the game into your hand, or create a 1/1 colorless Shrine enchantment creature token.)</i-auto></atom-reminder-custom></kw-A></li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Xiao_Xiaolong
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

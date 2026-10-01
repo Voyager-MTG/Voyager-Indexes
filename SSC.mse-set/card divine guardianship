@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-15 21:06:39
+	time_modified: 2026-09-30 11:14:37
+	name: Divine Guardianship
+	casting_cost: 3W
+	image: image472.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		This spell costs <sym>1</sym> less to cast for each creature you control with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		Put a +1/+1 counter on each creature you control. They gain <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>An aspiring warden’s final task tests for a cardinal blessing. <error-spelling:en_US>Xiao</error-spelling:en_US>, seemingly failed.</i-flavor>
+	illustrator: Dou_G_Douglasiai513
+	card_code_text: Story Spotlight 2/10
+	card_code_text_2: 
+	card_code_text_3: 

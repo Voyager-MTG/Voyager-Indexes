@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 5
+		shrink_typeline_text: 1
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-05-15 19:44:29
+	time_modified: 2026-09-30 11:10:07
+	name: Tian Lang, Lost to Tales
+	casting_cost: BBBBB
+	image: image329.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wolf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Tian Lang, Lost to Tales</nospellcheck></atom-cardname> enters or attacks, you may have each player sacrifice a creature.
+		Whenever another creature dies, you may pay 1 life. If you do, draw a card.
+	flavor_text: <i-flavor>The undying great betrayer.</i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Jrtgl11
+	card_code_text: Story Spotlight 8/10
+	card_code_text_2: 
+	card_code_text_3: 

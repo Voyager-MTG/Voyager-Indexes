@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-08 09:31:01
+	time_modified: 2026-09-30 11:39:47
+	card_color: land, multicolor
+	name: Imperial Throne
+	image: image446.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Yin-yang</key></nospellcheck><atom-reminder-custom> <i-auto>(If you control four or more tapped and four or more untapped permanents, become balanced for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		<sym>T</sym>: Add <sym>C</sym>. If <atom-cardname><nospellcheck>Imperial Throne</nospellcheck></atom-cardname> entered this turn, you may add one mana of any color instead.
+		<sym>XX</sym>, <sym>T</sym>: Create an X/X green Snake creature token. Activate only if you’re balanced.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <atom-cardname><nospellcheck>Imperial Throne</nospellcheck></atom-cardname> gains “<sym>T</sym>: Add <sym>C</sym>.”
+	level_2_text: <atom-cardname><nospellcheck>Imperial Throne</nospellcheck></atom-cardname> gains “<sym>T</sym>, Pay 1 life: Add one mana of any color.”
+	level_3_text: Search your library for an enchantment card with mana value 1 or less and that shares a color with a permanent you control, put it onto the battlefield, then shuffle.
+	illustrator: Ryosios
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text: 

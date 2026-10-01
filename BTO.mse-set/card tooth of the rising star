@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !designer Stasis
+	time_created: 2026-08-07 15:00:04
+	time_modified: 2026-08-08 22:25:37
+	name: Tooth of the Rising Star
+	alias: Kamigawa
+	casting_cost: GU
+	image: image9.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Equipped creature gets +2/+2.
+		Whenever equipped creature deals combat damage to a player, draw a card.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Equip <param-name><kw-0>modified creature</param-name> <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a> <i-auto>(Equipment, Auras you control, and counters are modifications.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dan Robinett
+	additional_credit: Stasis
+	additional_credit_brush: mechanics
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: Kamigawa

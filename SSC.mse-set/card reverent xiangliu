@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-10 13:30:34
+	time_modified: 2026-09-30 11:14:15
+	name: Reverent Xiangliu
+	casting_cost: XGG
+	image: image468.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Serpent</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Hydra</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Reverent Xiangliu</nospellcheck></atom-cardname> enters with X +1/+1 counters on it.
+		When <atom-cardname><nospellcheck>Reverent Xiangliu</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>venerate</key></nospellcheck> half X times, rounded up.<atom-reminder-custom> <i-auto>(You may reveal and put a Shrine card you own from outside the game into your hand, or create a 1/1 colorless Shrine enchantment creature token.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Xiondueng_Li
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

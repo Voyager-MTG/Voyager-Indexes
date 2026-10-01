@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-08-17 09:38:18
+	time_modified: 2026-09-30 11:14:45
+	name: Jiufeng of Darkest Cycles
+	casting_cost: 5BB
+	image: image482.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Hydra</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Convoke</key></nospellcheck><atom-reminder-expert> <i-auto>(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for <sym>1</sym> or one mana of that creature’s color.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		You may cast <atom-cardname><nospellcheck>Jiufeng of Darkest Cycles</nospellcheck></atom-cardname> from your graveyard. If cast this way, it enters with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Julia_Zyr
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

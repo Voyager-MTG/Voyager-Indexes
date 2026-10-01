@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-03-08 08:14:22
+	time_modified: 2026-09-30 11:14:45
+	name: Shadowtreader
+	casting_cost: 3B
+	image: image481.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dwarf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-0><nospellcheck><key>Ward—<param-cost>Pay 3 life</param-cost>.</key></nospellcheck></kw-0>
+		When <atom-cardname><nospellcheck>Shadowtreader</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
+		Whenever you cast a spell from your graveyard, put a +1/+1 counter on <atom-legname><nospellcheck>Shadowtreader</nospellcheck></atom-legname>.
+	flavor_text: <i-flavor>“Come. Tell me your secrets.”</i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Wenjun_Lin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

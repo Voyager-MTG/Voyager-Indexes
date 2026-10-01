@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-17 20:46:46
+	time_modified: 2026-09-30 11:14:58
+	name: Endless Joys
+	casting_cost: R
+	image: image497.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Exile the top card of your library. You may play it this turn. If this spell was cast from a graveyard, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Trespass <param-cost><sym-auto>3R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell from your graveyard for <param-cost><sym-auto>3R</sym-auto></param-cost>, and may sacrifice a creature to reduce that cost by <sym>X</sym>, where X is its power. Then exile this spell.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Yvan_Fernandes
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

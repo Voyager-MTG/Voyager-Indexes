@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-08-11 14:36:48
+	time_modified: 2026-08-27 20:12:02
+	name: Cliff-Gate Temple
+	casting_cost: R/G
+	transformation: custom symbol one
+	image: image266.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Shrine</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: At the beginning of combat on your turn, target creature you control gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn. If you control three or more Shrines, it also gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>Offer a prayer to challenges overcome.</i-flavor>
+	illustrator: Han_Flores
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

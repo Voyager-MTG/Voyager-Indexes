@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-19 10:57:09
+	time_modified: 2026-09-30 11:15:19
+	name: Realmscroll
+	casting_cost: 2
+	image: image522.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Realmscroll</nospellcheck></atom-cardname> enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+		<sym>3</sym>, <sym>T</sym>, Sacrifice <atom-legname><nospellcheck>Realmscroll</nospellcheck></atom-legname>: Draw three cards. Activate only if you control six or more lands with the same name.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ting.L
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-08 14:33:16
+	time_modified: 2026-08-27 20:11:07
+	name: Shenme Grand Temple
+	casting_cost: 4W
+	transformation: custom symbol one
+	image: image43.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Shrine</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: At the beginning of your upkeep, look at the top X cards of your library, where X is the number of Shrines you control. Put up to one nonland permanent card with mana value 3 or less from among them onto the battlefield, and the rest on the bottom of your library in any order.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Yao_Banyang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

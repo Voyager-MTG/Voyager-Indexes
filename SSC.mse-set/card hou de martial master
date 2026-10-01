@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 0, 0, 375, 100,
+		opacity: 999
+		other_options: use taller frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !tag wishlist
+	time_created: 2026-05-17 20:05:34
+	time_modified: 2026-08-21 19:21:22
+	name: Hou De, Martial Master
+	casting_cost: 1RG
+	image: image7
+	image_2: image8
+	mainframe_image: image9
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Hou</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	loyalty_cost_1: +1
+	loyalty_cost_2: -2
+	loyalty_cost_3: -6
+	loyalty: 3
+	level_1_text: <margin:130:0:0>Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>. If this mana is spent to cast a creature spell, it enters with a +1/+1 counter on it.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Destroy target noncreature, nonland permanent with mana value 3 or less.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Put six +1/+1 counters on target land you control. Untap it. It becomes a 0/0 Spirit creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. It’s still a land.</margin:130:0:0>
+	level_4_text: 
+	illustrator: Lanzen_Wu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		[+1]: <margin:130:0:0>Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>. If this mana is spent to cast a creature spell, it enters with a +1/+1 counter on it.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Destroy target noncreature, nonland permanent with mana value 3 or less.</margin:130:0:0>
+		[-6]: <margin:130:0:0>Put six +1/+1 counters on target land you control. Untap it. It becomes a 0/0 Spirit creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. It’s still a land.</margin:130:0:0>

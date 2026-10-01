@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-02-28 12:27:23
+	time_modified: 2026-09-30 11:09:47
+	name: Gate-Bound Kun
+	casting_cost: 2GU
+	image: image304.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fish</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Gate-Bound Kun</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>venerate</key></nospellcheck> twice.<atom-reminder-custom> <i-auto>(You may reveal and put a Shrine card you own from outside the game into your hand, or create a 1/1 colorless Shrine enchantment creature token.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text:
+		<i-flavor>“Looks like it got stuck while crossing. Seen it at times with train tunnels back home.”<soft-line>
+		</soft-line>—Jun, <error-spelling:en_US>Draconic</error-spelling:en_US> Visitor</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: ZOUPE
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

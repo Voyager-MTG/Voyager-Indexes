@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-05-24 19:40:22
+	time_modified: 2026-09-30 11:10:47
+	card_color: land, multicolor
+	name: Court of the Storied
+	image: image378.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<atom-cardname><nospellcheck>Court of the Storied</nospellcheck></atom-cardname> enters tapped.
+		<sym>T</sym>: Add <sym>C</sym>.
+		<sym>2</sym>, <sym>T</sym>: Add X mana of any one color, where X is the number of legendary permanents you control.
+	flavor_text: <i-flavor>Where tale becomes legend.</i-flavor>
+	illustrator: Park_Jae_Cheol
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

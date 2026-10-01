@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-18 17:24:26
+	time_modified: 2026-09-30 11:15:13
+	name: Impenetrable Ruishi
+	casting_cost: GGG
+	image: image515.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dog</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: 
+	flavor_text: <i-flavor>Of the five great temples of <error-spelling:en_US>Shiyue</error-spelling:en_US>, <error-spelling:en_US>Liang</error-spelling:en_US> is the most <error-spelling:en_US>Qi</error-spelling:en_US>-dense. Due to this, some stronger crossed are able to stay in the mortal realm, as long as they stay within the temple’s boundaries. In exchange, they help guard it from the  threats that same <error-spelling:en_US>qi</error-spelling:en_US> draws out.</i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Corina_Gabriela
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

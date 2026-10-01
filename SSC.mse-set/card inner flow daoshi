@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-19 17:20:33
+	time_modified: 2026-09-30 11:10:10
+	name: Inner Flow Daoshi
+	casting_cost: 4UU
+	image: image333.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Panda</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bear</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When <atom-cardname><nospellcheck>Inner Flow Daoshi</nospellcheck></atom-cardname> enters, return up to one other target creature to its owner’s hand.
+		<kw-A><nospellcheck><key><param-one_word>Island</param-one_word>cycling <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-action> <i-auto>(<param-cost><sym-auto>1U</sym-auto></param-cost>, Discard this card: Search your library for an <param-one_word>Island</param-one_word> card, reveal it, put it into your hand, then shuffle.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 7
+	illustrator: @_Plive
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

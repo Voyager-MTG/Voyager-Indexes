@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-03-08 08:14:22
+	time_modified: 2026-09-30 11:09:57
+	name: Malevolent Scorn
+	casting_cost: 1B
+	image: image317.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Yin-yang</key></nospellcheck><atom-reminder-custom> <i-auto>(If you control four or more tapped and four or more untapped permanents, become balanced for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		Target creature gets -3/-3 until end of turn. If you’re balanced, it gets -5/-5 until end of turn instead.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chen_Hui
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-09 10:35:39
+	time_modified: 2026-08-27 20:11:11
+	name: Yizan Grand Temple
+	casting_cost: U
+	transformation: custom symbol one
+	image: image163.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Shrine</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: <sym>5U</sym>: Draw a card. This ability costs <sym>1</sym> less to activate for each other Shrine you control.
+	flavor_text: <i-flavor>Grand repository of mortal knowledge, home to the realm’s greatest scholars.</i-flavor>
+	illustrator: Tim_Melnyk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

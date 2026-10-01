@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-03-08 08:14:22
+	time_modified: 2026-09-30 11:09:50
+	name: Lonqua Qibinder
+	casting_cost: 1B
+	image: image308.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		Sacrifice another creature or an enchantment: <atom-cardname><nospellcheck>Lonqua Qibinder</nospellcheck></atom-cardname> gets +2/+2 until end of turn. Activate only once each turn.
+	flavor_text: <i-flavor>No knowledge without sacrifice.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Pengren_Siya
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

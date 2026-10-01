@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-19 11:43:30
+	time_modified: 2026-09-30 11:15:24
+	name: Flourishing Court
+	image: image528.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym>T</sym>: Add <sym>C</sym>.
+		<sym>T</sym>: Add <sym>G</sym> or <sym>W</sym>. Activate only if you control a Forest or a Plains.
+	flavor_text: <i-flavor>As the story goes, the entire forest grew from the seeds scattered by a great tree.</i-flavor>
+	illustrator: Luckyia
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

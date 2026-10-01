@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-17 09:38:18
+	time_modified: 2026-09-30 11:14:52
+	name: Betrayer’s Finale
+	casting_cost: BB
+	image: image489.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: <atom-cardname><nospellcheck>Betrayer’s Finale</nospellcheck></atom-cardname> deals X damage to target creature or planeswalker and you gain X life, where X is the number of Swamps you control.
+	flavor_text: <i-flavor><error-spelling:en_US>Tian</error-spelling:en_US> Lang had been expecting <error-spelling:en_US>Xiao</error-spelling:en_US> to fall into despair, into his clutches. But she achieved balance, and his end.</i-flavor>
+	illustrator: Zassyoku_Dd
+	card_code_text: Story Spotlight 9/10
+	card_code_text_2: 
+	card_code_text_3: 

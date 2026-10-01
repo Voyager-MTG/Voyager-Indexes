@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-15 21:06:39
+	time_modified: 2026-09-30 11:14:41
+	name: Jiufeng’s Boon
+	casting_cost: W
+	image: image477.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Yin-yang</key></nospellcheck><atom-reminder-custom> <i-auto>(If you control four or more tapped and four or more untapped permanents, become balanced for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +1/+0 and has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		You may cast <atom-cardname><nospellcheck>Jiufeng’s Boon</nospellcheck></atom-cardname> from your graveyard as long as you’re balanced.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Monokubo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga-creatures
+	stylesheet_version: 2021-02-16
+	has_styling: true
+	styling_data:
+		number_of_textboxes: 3
+		snap_chapter_to_box: 
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		custom_type_font: 
+	notes: 
+	time_created: 2026-05-15 19:18:42
+	time_modified: 2026-08-16 19:50:19
+	name: Xuan Wu, Stalwart Cardinal
+	casting_cost: 3GGG
+	image: image21.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Saga</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Turtle</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+	rule_text: 
+	rule_text_2: <kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	level_1_text: Return each land card from your graveyard to the battlefield tapped.
+	level_2_text: Create an X/X green Snake creature token, where X is the number of lands you control.
+	level_3_text: You gain life equal to the greatest power among creatures you control.
+	power: 7
+	toughness: 7
+	illustrator: Akio_Akio_1963
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

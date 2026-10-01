@@ -1,0 +1,110 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	title: Beyond the Omenweb
+	description:
+		Beyond the Omenweb is a 15-card micro set consisting of cards from A Better Yesterday’s featured planes.
+		!designer Stasis
+	copyright: 
+	set_code: BTO
+	set_language: EN
+	symbol: symbol53.mse-symbol
+	masterpiece_symbol: 
+styling:
+	magic-m15-adventure:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-altered:
+		chop_top: 5
+		chop_bottom: 5
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-dfc:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-saga:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+include_file: card wildcount heir
+include_file: card sage of the stingfields
+include_file: card peasants bane
+include_file: card jack in
+include_file: card teeming anurboroid
+include_file: card on sabbatical
+include_file: card starspawn nucleus
+include_file: card whispering warmonger
+include_file: card muscleground tunneler
+include_file: card spirit of solidarity
+include_file: card balancer of lives
+include_file: card bifurcating mycomass
+include_file: card tooth of the rising star
+include_file: card keeper of the forgotten
+include_file: card golden avenger
+include_file: card demon noble
+include_file: card skeleton
+include_file: card citys blessing
+include_file: card keeper of the forgotten.1
+include_file: card conflict
+include_file: card nightmare
+include_file: card musclegrounds tunneler
+keyword:
+	keyword: Fivefold Damnation
+	match: Fivefold Damnation
+	reminder: When this dies, exile it. If you do, conjure its back face and put that card into your library fifth from the top.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Corrupt
+	match: Corrupt
+	reminder: 
+	rules: 
+	mode: pseudo
+keyword:
+	keyword: Imaginary
+	match: Imaginary
+	reminder: When this dies, create a 1/1 Human token copy of it, except it has no mana cost and doesn’t have imaginary.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Contest
+	match: Contes<atom-param>*s</atom-param>
+	reminder: Exile it, then create a <sym-auto>D2</sym-auto> Conflict battle token an opponent protects with "When this is defeated, put the contested card into your hand."
+	rules: 
+	mode: custom
+keyword:
+	keyword: Void Calls
+	match: void calls
+	reminder: During your turn, the void calls you when a card enters your graveyard from your hand or library.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Menagerie
+	match: Menagerie
+	reminder: 
+	rules: 
+	mode: pseudo
+keyword:
+	keyword: Ecosystem
+	match: Ecosystem
+	reminder: 
+	rules: 
+	mode: pseudo
+keyword:
+	keyword: Oscillate
+	match: Oscillate <atom-param>cost</atom-param>
+	reminder: You may exile this card from your hand for {param1} as a sorcery to create a 1/1 token copy. You may cast it on a later turn from exile.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 

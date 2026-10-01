@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 0, 0, 375, 100,
+		opacity: 999
+		other_options: use taller frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-05-17 20:05:34
+	time_modified: 2026-08-20 23:01:47
+	name: Yan Lei, Regal Outsider
+	casting_cost: 2WW
+	image: image2
+	image_2: image3
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Eileen</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	loyalty_cost_2: +1
+	loyalty_cost_3: -2
+	loyalty: 4
+	level_1_text: Creatures can’t attack you or other planeswalkers you control unless their controller pays <sym>X</sym> for each of those creatures, where X is the number of tokens you control.
+	level_2_text: <margin:130:0:0>Until your next turn, up to one target creature you control gets +X/+X, where X is the number of tokens you control.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Create two 1/1 white Soldier creature tokens.</margin:130:0:0>
+	level_4_text: 
+	level_5_text: 
+	illustrator: san_sui_dingshang_ya
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		Creatures can’t attack you or other planeswalkers you control unless their controller pays <sym>X</sym> for each of those creatures, where X is the number of tokens you control.
+		[+1]: <margin:130:0:0>Until your next turn, up to one target creature you control gets +X/+X, where X is the number of tokens you control.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Create two 1/1 white Soldier creature tokens.</margin:130:0:0>

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-19 17:20:33
+	time_modified: 2026-09-30 11:10:12
+	name: Yizan Talekeeper
+	casting_cost: 3U
+	image: image335.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: When <atom-cardname><nospellcheck>Yizan Talekeeper</nospellcheck></atom-cardname> dies, return target instant or sorcery card from your graveyard or that you own with trespass in exile to your hand.
+	flavor_text: <i-flavor>The great archives of <error-spelling:en_US>Yizan</error-spelling:en_US> are said to hold more stories than one could read.</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Valtear
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

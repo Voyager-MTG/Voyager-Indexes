@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-20 10:32:35
+	time_modified: 2026-09-30 11:10:28
+	name: Reject the Malevolent
+	casting_cost: 1G
+	image: image355.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Choose one — 
+		<li><bullet>• </bullet>Destroy target artifact or enchantment.
+		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Reject the Malevolent</nospellcheck></atom-cardname> deals 3 damage to target creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</li>
+	flavor_text: <i-flavor>It’s as much the job of <error-spelling:en_US>gatewards</error-spelling:en_US> to keep ones out as it is to let ones cross.</i-flavor>
+	illustrator: Y柴不会画画
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

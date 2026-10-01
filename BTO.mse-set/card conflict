@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2026-08-27 00:53:29
+	time_modified: 2026-08-27 00:57:07
+	name: Conflict
+	image: image14.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Battle</word-list-type-en>
+	sub_type: <word-list-battle>Conflict</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <i-auto>(As this token enters, choose an opponent to protect it. You can attack it. When it’s defeated, return the exiled card to its owner’s hand.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 
+	illustrator: Brandon Ellis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

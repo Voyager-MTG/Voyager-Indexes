@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-23 12:25:44
+	time_modified: 2026-09-30 11:10:37
+	name: Tales Retold
+	casting_cost: 1W
+	image: image365.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Exile target creature or enchantment you control, then return it to the battlefield under your control.
+		<kw-1><nospellcheck><key>Trespass <param-cost><sym>3</sym><sym>W</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell from your graveyard for <param-cost><sym-auto>3W</sym-auto></param-cost>, and may sacrifice a creature to reduce that cost by <sym>X</sym>, where X is its power. Then exile this spell.)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Airi_Pan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

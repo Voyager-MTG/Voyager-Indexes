@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-20 10:32:35
+	time_modified: 2026-09-30 11:13:39
+	name: Taotie Paineater
+	casting_cost: 2G
+	image: image423.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-cardname><nospellcheck>Taotie Paineater</nospellcheck></atom-cardname> enters with a +1/+1 counter on it.
+		Whenever <atom-cardname><nospellcheck>Taotie Paineater</nospellcheck></atom-cardname> attacks, you may remove a counter from it. If you do, it gets +3/+3 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Kylin_Li
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

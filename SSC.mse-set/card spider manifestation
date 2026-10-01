@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-05-13 13:49:22
+	time_modified: 2026-09-30 11:09:59
+	name: Spider Manifestation
+	casting_cost: 1R/G
+	image: image320.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Spider</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Avatar</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		<sym>T</sym>: Add <sym>R</sym> or <sym>G</sym>.
+		Whenever you cast a spell with mana value 4 or greater, untap <atom-cardname><nospellcheck>Spider Manifestation</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor>It seeks to lure in the strong, with a facade that will require no fighting.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Qin_Xin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

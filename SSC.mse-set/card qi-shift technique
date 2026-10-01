@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-08-06 15:49:49
+	time_modified: 2026-09-30 11:13:48
+	name: Qi-Shift Technique
+	casting_cost: 2UR
+	image: image434.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		This spell costs <sym>2</sym> less to cast if it targets a token or copy.
+		<margin:0:0:5>Choose one — </margin:0:0:5>
+		<li><bullet>• </bullet>Copy target spell you control. You may choose new targets for the copy.
+		</li><li><bullet>• </bullet>Create a token that’s a copy of target creature you control.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Yanwen_Sesame_Xuchen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

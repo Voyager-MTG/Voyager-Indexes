@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-03-08 08:14:22
+	time_modified: 2026-09-30 11:09:49
+	name: Beizu Fangblade
+	casting_cost: B
+	image: image307.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mercenary</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Beizu Fangblade</nospellcheck></atom-cardname> enters or you put one or more counters on a permanent, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. This ability triggers only once each turn.
+	flavor_text: <i-flavor>In <error-spelling:en_US>beizu</error-spelling:en_US>, there’s always someone looking to <error-spelling:en_US>backstab</error-spelling:en_US> someone.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Cjsdh1000
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

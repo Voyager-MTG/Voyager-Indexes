@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-08-17 09:38:18
+	time_modified: 2026-09-30 11:14:52
+	name: Wangliang Shade
+	casting_cost: BBB
+	image: image490.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Shade</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>Wangliang Shade</nospellcheck></atom-cardname> attacks, you draw a card and you lose 1 life.
+		<sym>B</sym>: <atom-cardname><nospellcheck>Wangliang Shade</nospellcheck></atom-cardname> gets +1/+1 until end of turn.
+	flavor_text: <i-flavor>None but the greatest seals will stop it from coming through.</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: 2-10_Animation
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

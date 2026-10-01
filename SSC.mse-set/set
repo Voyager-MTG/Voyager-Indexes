@@ -1,0 +1,389 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	title: Shiyue: Soul’s Crossing
+	description: !designer SilverParabellum
+	set_code: SSC
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: 
+	custom_symbol_1: triple-yin.png,File found,706,
+	auto_custom_border: check typeline
+	auto_custom_border_match: Shrine
+	auto_custom_border_source: jade/-color-border.png
+styling:
+	magic-m15-adventure:
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-altered:
+		chop_top: 
+		chop_bottom: 
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-altered-plus:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	magic-m15-full-art-basic-land-symbol:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-mainframe-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-saga:
+		other_options: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-saga-creatures:
+		number_of_textboxes: 3
+		snap_chapter_to_box: 1,2,3
+		chapter_spacing_percentage: 
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		custom_type_font: 
+	magic-m15-unstable-basics:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-rule-card:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+include_file: card guiding zhulong
+include_file: card realm corrosion
+include_file: card lonqua kingpin
+include_file: card wild-stoker xiongmao
+include_file: card bountiful fuzhu
+include_file: card beizu shadowstalker
+include_file: card fengxi magistrate
+include_file: card gate-bound kun
+include_file: card fervent stageplay
+include_file: card xiao shen warden aspirant
+include_file: card beizu fangblade
+include_file: card lonqua qibinder
+include_file: card decaying disciple
+include_file: card enshadowed huodou
+include_file: card inner blight daoshi
+include_file: card ox-head guardian
+include_file: card heros downfall
+include_file: card imperial battlesage
+include_file: card read the shadows
+include_file: card soulblight corrosion
+include_file: card refuse mortality
+include_file: card malevolent scorn
+include_file: card bloodless belle
+include_file: card lonqua bladewright
+include_file: card spider manifestation
+include_file: card peakbound pangu
+include_file: card inexperienced pyredancer
+include_file: card withered penghou
+include_file: card mourning yaoguai
+include_file: card wardens mentor
+include_file: card royal custodian
+include_file: card yizan ascetic
+include_file: card myriad landscape
+include_file: card venerated stage
+include_file: card ferocious emissary
+include_file: card xuan wu stalwart cardinal
+include_file: card zhu que incarnated cardinal
+include_file: card bai hu warding cardinal
+include_file: card qin long flowing cardinal
+include_file: card tian lang lost to tales
+include_file: card longwang celestial ancestor
+include_file: card soulblighter mage
+include_file: card vermillion reincarnation
+include_file: card dreamsifter kalavinka
+include_file: card inner flow daoshi
+include_file: card reckless studies
+include_file: card yizan talekeeper
+include_file: card soulblight enervation
+include_file: card feng-brood yearling
+include_file: card lofty denial
+include_file: card divine connection
+include_file: card perfected guard
+include_file: card realmbound sentence
+include_file: card treasured memory
+include_file: card ragged jiangshi
+include_file: card wardens flamesignaller
+include_file: card acolyte aspirant
+include_file: card dreamstoker
+include_file: card crossed defiance
+include_file: card shenme courtesan
+include_file: card inner rage daoshi
+include_file: card greedy jin chan
+include_file: card festival preparations
+include_file: card realms rebuke
+include_file: card sudden flourish
+include_file: card young pyredancer
+include_file: card yaoguai qi-seekers
+include_file: card reject the malevolent
+include_file: card tigren ascetic
+include_file: card mountains might
+include_file: card imperial storyteller
+include_file: card burgeoning nest
+include_file: card inner strength daoshi
+include_file: card savage zhizhujing
+include_file: card gateward colossus
+include_file: card liang protective stance
+include_file: card realm confrontation
+include_file: card beizu serpent-guard
+include_file: card temple vitalist
+include_file: card tales retold
+include_file: card windcarp pyredancer
+include_file: card inner peace daoshi
+include_file: card huyao bondforger
+include_file: card breezelifted quingqiao
+include_file: card balanced acolyte
+include_file: card accompanied trueblood
+include_file: card moonsight warden
+include_file: card revoke
+include_file: card celestial sanction
+include_file: card masters rebuttal
+include_file: card skyward leap
+include_file: card tang yang jis second
+include_file: card dijiang of shared blessings
+include_file: card mox jade
+include_file: card court of the storied
+include_file: card cyclical wisdom
+include_file: card imperial mediator
+include_file: card cauldron of lost authority
+include_file: card divine knowledge
+include_file: card fableweaver huxian
+include_file: card derelict temple
+include_file: card crosseds lantern
+include_file: card ironforged leigong
+include_file: card awakened terracotta
+include_file: card inactive crossing
+include_file: card festival server
+include_file: card gateward huli jing
+include_file: card moon rabbit joyseeker
+include_file: card boonmother nuwa
+include_file: card custodian captain
+include_file: card bifang-blood warden
+include_file: card hopegranter crane
+include_file: card whitehorn ascetic
+include_file: card deep-hoarder jiaolong
+include_file: card freeze belief
+include_file: card climb the gate
+include_file: card ideal reflection
+include_file: card spirits claim
+include_file: card deep betrayal
+include_file: card enervating skykoi
+include_file: card ripplewatcher
+include_file: card jingwei pyredancer
+include_file: card soulblighted wanderer
+include_file: card resplendent fuzhu
+include_file: card ancestral guidance
+include_file: card yaoguai formeater
+include_file: card witness uniformity
+include_file: card shrine
+include_file: card taotie paineater
+include_file: card cardinal alignment
+include_file: card li hua imperial scion
+include_file: card ai yao acclaimed pyredancer
+include_file: card ling guang discarded vessel
+include_file: card jing cao liang prodigy
+include_file: card an gong temple-keeper
+include_file: card xiao shen god-shunned
+include_file: card ming su reborn lotus
+include_file: card ji chen supreme warden
+include_file: card xing zhe suns chosen
+include_file: card qi-shift technique
+include_file: card imperious geji
+include_file: card realmfarers temple
+include_file: card qi reapers
+include_file: card impose balance
+include_file: card splendorous tengshe
+include_file: card patron of celebrations
+include_file: card kingpins enforcer
+include_file: card dredge thoughts
+include_file: card tiger skyguard
+include_file: card sun hu crossed general
+include_file: card propagating yaoguai
+include_file: card fabled lotus
+include_file: card weathered gates
+include_file: card imperial throne
+include_file: card pearlcarvers masterpiece
+include_file: card nurturing matriarch
+include_file: card shenme grand temple
+include_file: card write out
+include_file: card chord of return
+include_file: card moon-chaser tiangou
+include_file: card deep-thought kun
+include_file: card realmguide orator
+include_file: card tidal expulsion
+include_file: card memories relived
+include_file: card mirror fate
+include_file: card yizan grand temple
+include_file: card jiaoren shallowstalker
+include_file: card beizu grand temple
+include_file: card maskstealer
+include_file: card merchant of beyond
+include_file: card pits petition
+include_file: card treasonous mandate
+include_file: card mist-stalker zhujian
+include_file: card dreadmother nuwa
+include_file: card gloryforger
+include_file: card field-scorcher huolong
+include_file: card bloodthrall tigren
+include_file: card crossed invitation
+include_file: card nezha of ignited tales
+include_file: card lonqua grand temple
+include_file: card evernourish jinmenju
+include_file: card liang grand temple
+include_file: card reliquary-back bixi
+include_file: card storytellers expertise
+include_file: card reverent xiangliu
+include_file: card imaginative ensemble
+include_file: card da po juns guide
+include_file: card sky-gate temple
+include_file: card port-gate temple
+include_file: card dread-gate temple
+include_file: card cliff-gate temple
+include_file: card valley-gate temple
+include_file: card marsh-gate temple
+include_file: card moss-gate temple
+include_file: card roaming-gate temple
+include_file: card foam-gate temple
+include_file: card city-gate temple
+include_file: card legend of the masters
+include_file: card panda bear
+include_file: card snake
+include_file: card ape
+include_file: card insect
+include_file: card bird
+include_file: card cat
+include_file: card divine guardianship
+include_file: card fly beyond
+include_file: card realmbreach
+include_file: card pilgrimages reward
+include_file: card suns defiance
+include_file: card jiufengs boon
+include_file: card supportive performer
+include_file: card festival troublemakers
+include_file: card tactical battlesage
+include_file: card shadowtreader
+include_file: card jiufeng of darkest cycles
+include_file: card forgemasters edict
+include_file: card heartless act
+include_file: card darkest prayers
+include_file: card wake the bones
+include_file: card call the damned
+include_file: card pry desire
+include_file: card patient fangblade
+include_file: card thought-scraper hou
+include_file: card gorging mogwai
+include_file: card betrayers finale
+include_file: card wangliang shade
+include_file: card obsessed jiangshi
+include_file: card bloodwilter
+include_file: card weaving maskwright
+include_file: card ignited qi technique
+include_file: card huo-brood yearling
+include_file: card long-blessed pyredancer
+include_file: card endless joys
+include_file: card embercaller
+include_file: card excited attendee
+include_file: card nian soulforger
+include_file: card fabled general
+include_file: card liang punisher
+include_file: card dragonheart ancestor
+include_file: card irresolute zhubajie
+include_file: card bile blaze
+include_file: card fiery virtue
+include_file: card conquer psyche
+include_file: card spiteful prayer
+include_file: card zealous rivalry
+include_file: card deflected advance
+include_file: card millennial greatkoi
+include_file: card regrow bonds
+include_file: card ancestors presence
+include_file: card bounty of heritage
+include_file: card malevolent strength
+include_file: card strengthwarder
+include_file: card iron-breaker
+include_file: card groundforger pangu
+include_file: card impenetrable ruishi
+include_file: card liang sparrer
+include_file: card tireless chronicler
+include_file: card festival guide
+include_file: card qilin harvestguide
+include_file: card rumbling battlesage
+include_file: card power of tales
+include_file: card accursed legion
+include_file: card realmscroll
+include_file: card soulblessed jian
+include_file: card suntouched pond
+include_file: card deepwater mire
+include_file: card bloodsoaked meadow
+include_file: card peakcarved village
+include_file: card flourishing court
+include_file: card misty monument
+include_file: card moldering cavern
+include_file: card flooded field
+include_file: card roiling crag
+include_file: card festival ground
+include_file: card swamp
+include_file: card mountain
+include_file: card island
+include_file: card forest
+include_file: card plains
+include_file: card yan lei regal outsider
+include_file: card jun draconic visitor
+include_file: card hou de martial master
+include_file: card xiao shen in balance
+include_file: card balance
+include_file: card dragon
+include_file: card bird.1
+include_file: card demon
+include_file: card golem
+include_file: card snake.1
+include_file: card soldier
+include_file: card spirit
+include_file: card dragon.1
+include_file: card treasure
+include_file: card beast
+include_file: card copy
+include_file: card heir
+include_file: card consecrated grove
+include_file: card teeming district
+include_file: card mistcloaked gateway
+include_file: card pooling rivulet
+include_file: card scorched pillars
+keyword:
+	keyword: Trespass
+	match: Trespass <atom-param>cost</atom-param>
+	reminder: You may cast this spell from your graveyard for {param1}, and may sacrifice a creature to reduce that cost by [X], where X is its power. Then exile this spell.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Yin-Yang
+	match: Yin-Yang
+	reminder: If you control four or more tapped and four or more untapped permanents, become balanced for the rest of the game.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Venerate
+	match: Venerate
+	reminder: You may reveal and put a Shrine card you own from outside the game into your hand, or create a 1/1 colorless Shrine enchantment creature token.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Heir
+	match: Heir —
+	reminder: If this card is your chosen heir, you may replace a draw with this card if you've met its condition.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 

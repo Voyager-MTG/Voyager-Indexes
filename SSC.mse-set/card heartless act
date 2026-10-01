@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-17 09:38:18
+	time_modified: 2026-09-30 11:14:47
+	name: Heartless Act
+	casting_cost: 1B
+	image: image484.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Destroy target creature with no counters on it.
+		</li><li><bullet>• </bullet>Remove up to three counters from target creature.</li>
+	flavor_text: <i-flavor>A story’s ending is up to its storyteller.</i-flavor>
+	illustrator: Juuden
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

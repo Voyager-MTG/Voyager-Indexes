@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: false
+	notes: !designer Philippe Saner
+	time_created: 2026-08-07 15:00:04
+	time_modified: 2026-08-25 16:10:40
+	name: Peasant’s Bane
+	name_2: Demon’s Boon
+	alias: The Abyss
+	casting_cost: 1B
+	casting_cost_2: 1B
+	image: image10.png
+	image_2: image_21.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Serf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When this creature enters, create a 1/1 black Human Serf creature token.
+		<kw-A><nospellcheck><key>Fivefold Damnation</key></nospellcheck><atom-reminder-custom> <i-auto>(When this dies, exile it. If you do, conjure its back face and put that card into your library fifth from the top.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2: When this creature enters, create a 5/5 black Demon Noble creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor>Every cruelty she once imposed upon those who worked her lands was returned to her <error-spelling:en_US>fivefold</error-spelling:en_US>.</i-flavor>
+	power: 1
+	power_2: 1
+	toughness: 1
+	toughness_2: 1
+	illustrator: Hellaninn
+	illustrator_2: Hellaninn
+	additional_credit: Philippe Saner
+	additional_credit_4: Philippe Saner
+	additional_credit_brush: mechanics
+	additional_credit_brush_4: mechanics
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: The Abyss

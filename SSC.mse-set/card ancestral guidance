@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !tag wishlist
+	time_created: 2026-05-30 10:18:47
+	time_modified: 2026-09-30 11:13:38
+	name: Ancestral Guidance
+	casting_cost: UU
+	image: image421.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Draw two cards.
+	flavor_text: <i-flavor>She was marked god-shunned. But <error-spelling:en_US>Xiao</error-spelling:en_US> knew something was wrong. It was just a feeling, but deep within her she knew, the Spirit realm held the <error-spelling:en_US>anwser</error-spelling:en_US>.</i-flavor>
+	illustrator: Maxwell_Boas
+	card_code_text: Story Spotlight 4/10
+	card_code_text_2: 
+	card_code_text_3: 

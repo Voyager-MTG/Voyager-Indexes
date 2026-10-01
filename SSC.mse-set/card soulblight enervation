@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-19 17:20:33
+	time_modified: 2026-09-30 11:11:53
+	name: Soulblight Enervation
+	casting_cost: 1UU
+	image: image405.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Choose one — 
+		<li><bullet>• </bullet>Counter target spell.
+		</li><li><bullet>• </bullet>Remove all counters from target permanent. It loses all abilities until end of turn.</li>
+	flavor_text: <i-flavor>Those cursed by the <error-spelling:en_US>soulblight</error-spelling:en_US> gain an insatiable hunger for <error-spelling:en_US>qi</error-spelling:en_US>.</i-flavor>
+	illustrator: Yoshioka_Yoshiko
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

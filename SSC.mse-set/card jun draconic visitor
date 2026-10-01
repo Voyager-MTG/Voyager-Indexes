@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 0, 0, 375, 100,
+		opacity: 999
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-05-24 19:47:22
+	time_modified: 2026-08-20 22:31:28
+	name: Jun, Draconic Visitor
+	casting_cost: 4UU
+	image: image5
+	image_2: image6
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Jun</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	loyalty_cost_1: 
+	loyalty_cost_2: +2
+	loyalty_cost_3: -3
+	loyalty_cost_4: -10
+	loyalty: 6
+	level_1_text: Once each turn, you may cast a spell with mana value less than the number of cards you’ve drawn this turn without paying its mana cost.
+	level_2_text: <margin:130:0:0>Draw three cards, then discard two cards.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>The owner of target nonland permanent puts it into their library third from the top or on the bottom.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>You get an emblem with “Whenever you draw a card, create a 3/3 blue Dragon enchantment creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.”</margin:130:0:0>
+	level_5_text: 
+	illustrator: Pembiklimon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		Once each turn, you may cast a spell with mana value less than the number of cards you’ve drawn this turn without paying its mana cost.
+		[+2]: <margin:130:0:0>Draw three cards, then discard two cards.</margin:130:0:0>
+		[-3]: <margin:130:0:0>The owner of target nonland permanent puts it into their library third from the top or on the bottom.</margin:130:0:0>
+		[-10]: <margin:130:0:0>You get an emblem with “Whenever you draw a card, create a 3/3 blue Dragon enchantment creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.”</margin:130:0:0>

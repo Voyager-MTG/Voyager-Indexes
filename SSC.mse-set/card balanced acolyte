@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-23 12:25:44
+	time_modified: 2026-09-30 11:10:40
+	name: Balanced Acolyte
+	casting_cost: W
+	image: image369.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <atom-cardname><nospellcheck>Balanced Acolyte</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor>Acolytes are those blessed by the fabled ‘king of the <error-spelling:en_US>sun’</error-spelling:en_US>, an ancient warrior who wrote all his teachings on a great pillar all aspiring acolytes must make pilgrimage to.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: BBangwoo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

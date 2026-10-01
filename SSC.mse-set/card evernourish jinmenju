@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga-creatures
+	stylesheet_version: 2021-02-16
+	has_styling: false
+	notes: 
+	time_created: 2026-08-10 13:30:34
+	time_modified: 2026-08-18 19:20:57
+	name: Evernourish Jinmenju
+	casting_cost: G
+	image: image204.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Saga</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Treefolk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+	rule_text: 
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2:
+		<i-flavor>‘The Tree that bore <error-spelling:en_US>Love’<soft-line></error-spelling:en_US>
+		</soft-line>—Tales of <error-spelling:en_US>Shiyue</i-flavor></error-spelling:en_US>
+	level_1_text: <atom-cardname><nospellcheck>Evernourish Jinmenju</nospellcheck></atom-cardname> gains “<sym>T</sym>: Add <sym>G</sym>.”
+	level_2_text: Whenever you cast a creature spell this turn, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+	level_3_text: Reveal the top card of your library. If it’s a land card, put it into your hand. Otherwise, you may put it into your graveyard.
+	power: 1
+	toughness: 1
+	illustrator: Earl_Lan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

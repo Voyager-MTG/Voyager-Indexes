@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		shrink_typeline_text: 
+		frames: mutate
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-08-06 12:12:09
+	time_modified: 2026-09-30 11:13:54
+	name: Sun Hu, Crossed General
+	casting_cost: 2B/GB/G
+	image: image442.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Whenever <atom-cardname><nospellcheck>Sun Hu, Crossed General</nospellcheck></atom-cardname> enters or attacks, you may sacrifice a permanent. If you do, return target permanent card with mana value equal to 1 plus the sacrificed permanent’s mana value from your graveyard to the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Heir —</key></nospellcheck> There are four or more types among permanents that have left the battlefield under your control this game.<atom-reminder-custom> <i-auto>(If this card is your chosen heir, you may replace a draw with this card if you’ve met its condition.)</i-auto></atom-reminder-custom></kw-A>
+	power: 3
+	toughness: 4
+	illustrator: Leo-don’t-want-to-be-a-painter
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -223,6 +223,7 @@ include_file: card bropheria
 include_file: card flesh centrifuge.1
 include_file: card curious dexteria
 include_file: card the elegiast
+include_file: card hook ironmantle
 version_control:
 	type: none
 apprentice_code: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-05-20 10:32:35
+	time_modified: 2026-09-30 11:10:31
+	name: Burgeoning Nest
+	casting_cost: 2G
+	image: image358.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+		<kw-A><nospellcheck><key>Trespass <param-cost><sym-auto>4G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell from your graveyard for <param-cost><sym-auto>4G</sym-auto></param-cost>, and may sacrifice a creature to reduce that cost by <sym>X</sym>, where X is its power. Then exile this spell.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>No matter the realm, nature finds a way.</i-flavor>
+	illustrator: Peng_Lu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-18 17:24:26
+	time_modified: 2026-09-30 11:15:08
+	name: Regrow Bonds
+	casting_cost: GG
+	image: image509.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Return target card from your graveyard to your hand.
+		Exile <atom-cardname><nospellcheck>Regrow Bonds</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor>With the crossing only happening once a decade, only the closest friendships will survive the passage of time separated.</i-flavor>
+	illustrator: Kirina_Zero
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

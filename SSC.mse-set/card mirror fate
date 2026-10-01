@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-09 10:35:39
+	time_modified: 2026-09-30 11:14:05
+	name: Mirror Fate
+	casting_cost: 3U
+	image: image456.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Whenever you cast a spell from your graveyard, copy it. You may choose new targets for the copy.
+	flavor_text: <i-flavor>A Near-Death experience in <error-spelling:en_US>Shiyue</error-spelling:en_US> can be cause for great concern.</i-flavor>
+	illustrator: Jfzm001
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

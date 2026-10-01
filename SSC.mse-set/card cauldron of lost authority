@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-05-24 19:47:22
+	time_modified: 2026-09-30 11:10:49
+	name: Cauldron of Lost Authority
+	casting_cost: 1B
+	image: image381.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		If a creature an opponent controls would die, exile it instead.
+		<sym>XB</sym>, <sym>T</sym>, Sacrifice a creature: Put a creature card with mana value X exiled with <atom-cardname><nospellcheck>Cauldron of Lost Authority</nospellcheck></atom-cardname> onto the battlefield under your control. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tim_Melnyk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

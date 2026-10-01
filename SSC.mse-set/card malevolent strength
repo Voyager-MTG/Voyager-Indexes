@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-08-18 17:24:26
+	time_modified: 2026-09-30 11:15:11
+	name: Malevolent Strength
+	casting_cost: 2GG
+	image: image512.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Distribute four +1/+1 counters among up to four target creatures you control. They gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><nospellcheck><key>Trespass <param-cost><sym-auto>5GG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell from your graveyard for <param-cost><sym-auto>5GG</sym-auto></param-cost>, and may sacrifice a creature to reduce that cost by <sym>X</sym>, where X is its power. Then exile this spell.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Shinigami_Wyvern
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

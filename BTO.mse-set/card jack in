@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !designer DrChipmunk
+	time_created: 2026-08-07 15:00:04
+	time_modified: 2026-08-25 16:15:17
+	name: Jack In
+	alias: The Weft
+	casting_cost: 1R
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: <kw-A><i-auto><nospellcheck><key>Corrupt</key></nospellcheck></i-auto></kw-A> — Exile the top three cards of your library. Choose one of them. If you control a permanent with greater mana value than this spell, choose two of them instead. You may play cards chosen this way until the end of your next turn.
+	flavor_text: <i-flavor>Catch could never keep hackers out long.</i-flavor>
+	illustrator: Gautier Viller
+	additional_credit: DrChipmunk
+	additional_credit_brush: mechanics
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: The Weft
