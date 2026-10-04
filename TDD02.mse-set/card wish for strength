@@ -23,7 +23,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Emerge <param-cost><sym-auto>7G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		If <atom-name><nospellcheck>Wish for Strength</nospellcheck></atom-name> emerged from a creature with power 4 or greater, it can’t be countered and enters with a <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> counter.
+		If <atom-name>Wish for Strength</atom-name> emerged from a creature with power 4 or greater, it can’t be countered and enters with a <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> counter.
 	flavor_text: <i-flavor></i-flavor>
 	power: 8
 	toughness: 8

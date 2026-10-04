@@ -27,7 +27,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“Never trust those who fear the <error-spelling:en_US>frostborn</error-spelling:en_US>.”<soft-line>
-		—<error-spelling:en_US>Urkial</error-spelling:en_US>, <error-spelling:en_US>Outlands</error-spelling:en_US> <error-spelling:en_US>Clanleader</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Urkial</error-spelling:en_US>, <error-spelling:en_US>Outlands</error-spelling:en_US> <error-spelling:en_US>Clanleader</soft-line></i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 2

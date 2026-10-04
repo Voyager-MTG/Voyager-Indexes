@@ -24,7 +24,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: When <atom-name><nospellcheck>Glorious Moment</nospellcheck></atom-name> enters, draw a card, then you may cast a spell with mana value 4 or less from your hand without paying its mana cost.
+	rule_text: When <atom-name>Glorious Moment</atom-name> enters, draw a card, then you may cast a spell with mana value 4 or less from your hand without paying its mana cost.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>The fourth layer of the Wonderlands, deep below and high above, is the seat of the outpouring <error-spelling:en_US>Worldsoul</error-spelling:en_US> itself.</i-flavor>

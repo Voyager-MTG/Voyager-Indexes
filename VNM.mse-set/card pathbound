@@ -20,8 +20,8 @@ card:
 	sub_type: 
 	rarity: special
 	rule_text:
-		Pathbound cards in your sanctum count towards deck building costs when creating a starting deck.
-		Each pathbound card in your sanctum must be unique. You may have only five pathbound cards in your sanctum at the beginning of the game.
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Pathbound</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> cards in your sanctum count towards deck building costs when creating a starting deck.
+		Each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>pathbound</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> card in your sanctum must be unique. You may have only five <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>pathbound</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> cards in your sanctum at the beginning of the game.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Alex Bitsadze
 	card_code_text: 

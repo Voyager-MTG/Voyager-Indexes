@@ -22,7 +22,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When Melodia enters or attacks, you may cast an enchantment spell from your hand with mana value 2 or less without paying its mana cost.
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Melodia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters or attacks, you may cast an enchantment spell from your hand with mana value 2 or less without paying its mana cost.
 		<sym-auto>2</sym-auto>, Sacrifice an enchantment: Put a card from your sanctum into your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

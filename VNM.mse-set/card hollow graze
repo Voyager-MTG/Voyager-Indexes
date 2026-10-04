@@ -41,7 +41,7 @@ card:
 	rule_text_3: 
 	flavor_text:
 		<i-flavor>“You constantly vie for power, hope for success. You abuse the power of the eternities. I respect them, and as such, I know their strength, and how to take yours.” <soft-line>
-		</soft-line>—<error-spelling:en_US>Shivta</error-spelling:en_US>, <error-spelling:en_US>Avlod</error-spelling:en_US> <error-spelling:en_US>Clanleader</error-spelling:en_US></i-flavor>
+		</soft-line>—<error-spelling:en_US>Shivta</error-spelling:en_US>, <error-spelling:en_US>Avlod</error-spelling:en_US> <error-spelling:en_US>Clanleader</i-flavor></error-spelling:en_US>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	watermark: none

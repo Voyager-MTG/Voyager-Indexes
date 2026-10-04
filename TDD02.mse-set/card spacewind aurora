@@ -22,7 +22,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		When <atom-name><nospellcheck>Spacewind Aurora</nospellcheck></atom-name> enters, enchanted creature can’t be blocked this turn.
+		When <atom-name>Spacewind Aurora</atom-name> enters, enchanted creature can’t be blocked this turn.
 		Whenever enchanted creature deals combat damage to an opponent, you may return target instant, sorcery, or creature card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 

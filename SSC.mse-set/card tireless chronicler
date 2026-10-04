@@ -10,7 +10,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-18 17:24:26
-	time_modified: 2026-09-30 11:15:15
+	time_modified: 2026-10-03 17:44:22
 	name: Tireless Chronicler
 	casting_cost: 2G
 	image: image517.png
@@ -26,7 +26,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever a land you control enters, <kw-A><nospellcheck><key>venerate</key></nospellcheck>.<atom-reminder-custom> <i-auto>(You may reveal and put a Shrine card you own from outside the game into your hand, or create a 1/1 colorless Shrine enchantment creature token.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Whenever you play a land, <kw-A><nospellcheck><key>venerate</key></nospellcheck>.<atom-reminder-custom> <i-auto>(You may reveal and put a Shrine card you own from outside the game into your hand, or create a 1/1 colorless Shrine enchantment creature token.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>“So much left to tell...”</i-flavor>
 	power: 3
 	toughness: 2
