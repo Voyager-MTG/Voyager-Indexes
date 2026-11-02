@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-08-10 13:30:34
-	time_modified: 2026-08-27 20:11:47
+	time_modified: 2026-11-01 09:24:30
 	name: Liang Grand Temple
 	casting_cost: 2G
 	transformation: custom symbol one
@@ -20,7 +20,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Tap an untapped Shrine you control: Add one mana of any color.
+	rule_text: At the beginning of your second main phase, untap up to X lands, where X is the number of Shrines you control.
 	flavor_text: <i-flavor>The most revered nexus between the realms, guarded by devoted monks.</i-flavor>
 	illustrator: Yao_Bangyang
 	card_code_text: 
